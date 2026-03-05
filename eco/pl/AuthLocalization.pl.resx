@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccountDisabledError" xml:space="preserve">
+    <value>Twoje konto zostało wyłączone.</value>
+  </data>
+  <data name="AssignedWorldUnavailableError" xml:space="preserve">
+    <value>Przydzielony świat niedostępny.</value>
+  </data>
+  <data name="DefaultWorldName" xml:space="preserve">
+    <value>Mój świat</value>
+  </data>
+  <data name="BlockedForTooManyAttemptsError" xml:space="preserve">
+    <value>Zbyt wiele nieudanych prób. Zablokowano na 2 godziny.</value>
+  </data>
+  <data name="FailedSteamTicketDecryptError" xml:space="preserve">
+    <value>Nie udało się odszyfrować i uwierzytelnić ticketu Steam</value>
+  </data>
+  <data name="GameNotOwnedError" xml:space="preserve">
+    <value>Nie posiadasz gry.</value>
+  </data>
+  <data name="InternalServerError" xml:space="preserve">
+    <value>Błąd wewnętrzny serwera, ID: {0}</value>
+  </data>
+  <data name="InvalidSteamTicketError" xml:space="preserve">
+    <value>Nieprawidłowy ticket Steam</value>
+  </data>
+  <data name="InvalidUsernamePasswordError" xml:space="preserve">
+    <value>Nieprawidłowa nazwa użytkownika lub hasło.</value>
+  </data>
+  <data name="InviterRefundedError" xml:space="preserve">
+    <value>Osoba, która cię zaprosiła, zwróciła swoje konto. Twoje zaproszenie jest teraz nieważne.</value>
+  </data>
+  <data name="IpRetrievalError" xml:space="preserve">
+    <value>Nie można uzyskać adresu IP dla żądania</value>
+  </data>
+  <data name="NoAssignedProductsError" xml:space="preserve">
+    <value>Użytkownik nie ma żadnych przypisanych produktów</value>
+  </data>
+  <data name="NoServerIDError" xml:space="preserve">
+    <value>Nie podano ID serwera. Nie można zweryfikować przypisanego świata.</value>
+  </data>
+  <data name="ParentAccountDisabledError" xml:space="preserve">
+    <value>Pierwotne konto obywatela zostało zdezaktywowane.</value>
+  </data>
+  <data name="ServerNotAssignedError" xml:space="preserve">
+    <value>Możesz zalogować się tylko na swój przypisany serwer.</value>
+  </data>
+  <data name="SteamAuthFailedError" xml:space="preserve">
+    <value>Uwierzytelnianie użytkownika za pomocą konta Steam nie powiodło się: {0}</value>
+  </data>
+  <data name="SteamOwnershipError" xml:space="preserve">
+    <value>Przeniesienie własności z konta Steam nie powiodło się: {0}</value>
+  </data>
+  <data name="SteamTicketOrTokenRequiredError" xml:space="preserve">
+    <value>Wymagany token lub SteamTicket.</value>
+  </data>
+  <data name="TicketRequiredError" xml:space="preserve">
+    <value>Wymagany ticket!</value>
+  </data>
+  <data name="UnknownError" xml:space="preserve">
+    <value>Nieznany błąd</value>
+  </data>
+  <data name="UnknownSteamError" xml:space="preserve">
+    <value>Nieznany błąd Steam</value>
+  </data>
+  <data name="UpgradeYourAccountError" xml:space="preserve">
+    <value>Eco jest obecnie dostępne tylko dla sponsorów wersji alfa i beta. Uaktualnij swoje konto, aby dołączyć.</value>
+  </data>
+  <data name="UserBannedUntilError" xml:space="preserve">
+    <value>Zablokowany do {0}</value>
+  </data>
+  <data name="UserGameNotOwnedError" xml:space="preserve">
+    <value>Użytkownik nie posiada Eco</value>
+  </data>
+  <data name="UsernamePasswordRequiredError" xml:space="preserve">
+    <value>Nazwa użytkownika i hasło są wymagane!</value>
+  </data>
+  <data name="UserVACBannedError" xml:space="preserve">
+    <value>Użytkownik posiada blokadę VAC</value>
+  </data>
+  <data name="WorldNotOwnedError" xml:space="preserve">
+    <value>Nie możesz zalogować się na ten świat.</value>
+  </data>
+  <data name="InvalidTokenError" xml:space="preserve">
+    <value>Token jest nieprawidłowy.</value>
+  </data>
+  <data name="LoginFailedServerNotAssignedError" xml:space="preserve">
+    <value>Możesz zalogować się tylko na swój przypisany serwer.</value>
+  </data>
+  <data name="NoIdAssignmentError" xml:space="preserve">
+    <value>Nie podano ID serwera. Nie można zweryfikować przypisanego świata.</value>
+  </data>
+  <data name="StoveAuthenticationFailedError" xml:space="preserve">
+    <value>Uwierzytelnianie użytkownika Stove nie powiodło się: {0} - {1}</value>
+  </data>
+  <data name="StoveOwnershipCheckFailedError" xml:space="preserve">
+    <value>Weryfikacja własności ze Stove nie powiodła się</value>
+  </data>
+  <data name="StoveProductNotAssignedError" xml:space="preserve">
+    <value>Użytkownik nie ma żadnych przypisanych produktów</value>
+  </data>
+  <data name="InternalError" xml:space="preserve">
+    <value>Błąd wewnętrzny</value>
+  </data>
+</root>
