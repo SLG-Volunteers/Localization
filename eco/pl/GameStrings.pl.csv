@@ -1030,8 +1030,6 @@ A {0:room module} is needed to craft {1:item},Potrzeba {0:room module} aby stwor
 {0:skill scroll} created. Read to gain skill or share with other players.,"Stworzono {0:skill scroll}. Przeczytaj go, aby otrzymać umiejętność lub podziel się z innymi graczami."
 {0:username} discovered {1:skill}!,{0:username} Odkrył {1:skill}!
 Done.,Gotowe.
-{0} paid to {1}.,{0} płatne do {1}.
-A bread with a camas twist for a bit of flavor and fun.,Chleb z domieszką kamasji dla odrobiny posmaku i szczypty przyjemności.
 Loading world,Ładowanie świata
 Chop,Zrąb
 Smite,Uderzać
@@ -3094,7 +3092,6 @@ Amount to Manage:,Kwota do zarządzania:
 Reason:,Powód:
 Join World,Dołącz do Świata
 Manage,Zarządzaj
-Settings,Ustawienia
 "A string describing when this server typically has active players.  Each character represents an hour, starting from Monday 12am. 0 is 'Rarely', 1 is 'Sometimes', 2 is 'Usually'.  This is automatically set when a client starts the server directly, but can also be set manually. Time must be specified in GMT!  Easiest way to get this string is copy playtime.eco in the settings folder after creating it by running the Eco client.","Ciąg określający, kiedy serwer zazwyczaj ma aktywnych graczy. Każdy symbol oznacza godzinę, poczynając od poniedziałku, od północy. 0 to 'Rzadko', 1 to 'Czasami', 2 to 'Zazwyczaj'. Jest to ustawiane automatycznie, kiedy klient bezpośrednio uruchamia serwer, ale może być także ustawione ręcznie. Czas musi być ustawiony według stref czasowych GMT! Najprostszym sposobem na otrzymanie tego ciągu jest skopiowanie pliku playtime.eco do folderu z ustawieniami po tym, jak zostanie on stworzony przy uruchomieniu klienta Eco."
 The description of this server. Max 250 characters.,Opis tego serwera. Maksymalnie 250 znaków.
 Category for public server listing within the server browser.,Kategoria dla publicznego serwera umieszczonego na liście w przeglądarce serwera.
@@ -4098,7 +4095,6 @@ Direct Transfer Tax (own):,Podatek od przelewu bezpośredniego (własny):
 % of payment,% z płatności
 % of fee,% od opłaty
 Contract Tax:,Podatek od zlecenia:
-Crafting Fee Tax:,Podatek od opłaty za rzemiosło:
 Direct Transfer Tax (public):,Podatek od przelewu bezpośredniego (publiczny):
 Host a World,Hostuj Świat
 Online hours of {0} (in the last {1} days),Czas w grze spędzony przez {0} (w ostatnich {1} dniach)
@@ -4146,7 +4142,6 @@ Value Addition To Overthrow,Dodanie wartości do obalenia
 Resigned,Zrezygnował/a
 Preserve Generated Mods Assembly,Zachowaj wygenerowany zespół modów
 Invalid WaterRange for {0}. Ensure you have most recent EcoSim.eco version and probably you may need to regen the layer if it disappeared with in-game admin command: /regenlayer {1},"Niewłaściwa wartość WaterRange dla {0}. Upewnij się, że posiadasz aktualną wersję EcoSim.eco oraz prawdopodobnie potrzebne będzie zregenerowanie warstwy, jeśli ta zniknęła z komendy admina wewnątrz gry: /regenlayer {1}"
-and,oraz
 ", and",", oraz"
 Not Found,Nie znaleziono
 Updated {0}. It may take up to ten minutes to see the immediate consequences in the world.,"Zaktualizowano {0}. Może minąć nawet dziesięć minut, zanim zobaczysz natychmiastowe konsekwencje na świecie."
@@ -4169,7 +4164,6 @@ EcoSim.eco config isn't valid. Read more details above.,Konfiguracja EcoSim.eco 
 Preserve or not auto-generated Eco.Mods.dll assembly. When server started it will be saved in current directory.,Zachowaj lub nie wygeneruj automatycznie zestawu Eco.Mods.dll. Po uruchomieniu serwer zostanie zapisany w bieżącym katalogu.
 Editing Text​,Edytowanie tekstu
 Name:,Nazwa:
-Title:,Stanowisko:
 Legislation,Prawodawstwo
 Elected Titles\n,Wybrani na stanowiska\n
 District,Dzielnica
@@ -5271,7 +5265,6 @@ Owned by {0}.,Posiadany przez {0}.
 Select a target to transfer ownership to.,Wybierz komu przekazać własność.
 Enter a Number,Wpisz Liczbę
 Manual Value,Ręczna Wartość
-Impact in:,Impakt za:
 Failed to parse table rich text: {0},Nie udało się przeanalizować tekstu sformatowanego tabeli: {0}
 Create a copy of this world?,Utworzyć kopię tego świata?
 Enter a name for this world:,Wpisz nazwę tego świata:
@@ -5707,7 +5700,6 @@ Ratify,Ratyfikuj
 "When checked, new roles will be created when the labor list fills up.  The new role will duplicate the final entry in the list in terms of role and requirements.\n","Gdy ta opcja jest zaznaczona, nowe role zostaną utworzone po zapełnieniu listy pracowników. Nowa rola powieli ostatni wpis na liście pod względem roli i wymagań.\n"
 A list of requirements that every laborer must meet upon taking a role.,"Lista wymagań, jaką każdy pracownik musi spełnić podejmując rolę."
 Click to change the general requirements for this work party.,"Kliknij, aby zmienić wymagania dla tej pracy grupowej."
-Music Volume,Głośność Muzyki
 Expand Roles When Full,Rozszerz role po wypełnieniu
 Create Work Party,Stwórz pracę grupową
 Borrower,Pożyczający
@@ -7151,7 +7143,6 @@ Take Role,
 Leave Role,
 Infobox On Success,
 Homestead,Domostwo
-Town,Miasteczko
 Country,Państwo
 Federation,Federacja
 Mute List,Lista Wyciszeń
@@ -7857,7 +7848,6 @@ Execute now.,
 Cannot save the following {0} as they already exist:,
 {0} renamed to {1},
 Rewards for learning {0},
-Requirements:,
 Alpha Backer Rewards,
 Wolf Whisperer Rewards,Nagrody zaklinacza wilków
 {0} work order cancelled.,
@@ -8285,7 +8275,6 @@ Coins Per Item:,
 Accepts plugin modules with the following tag(s):,Akceptuje moduły dodatkowe z kategorii:
 Basic Upgrade,Podstawowy moduł modernizacji
 by,
-Accepted By:,
 Property. Location:,
 to retain from contractor on completion,
 Posted by,
@@ -8343,8 +8332,6 @@ Law Changes By Elections,
 Required Of Office Holders,
 Required Level,
 Logger,Drwal
-Direct Transfer Tax (public):,
-Contract Tax:,
 Mods,Mody
 Platforms,Platformy
 Foundation,Fundamenty
@@ -8383,7 +8370,6 @@ Enviroement Data,
 Craftsman District,
 Dock and shipping,
 Goverment District,
-Center:,
 Undisputed Ruler,
 Eligible Candidates,
 Who Can Remove From Office,
@@ -8411,7 +8397,6 @@ Pollution Reduction Act,
 Laws on this Court,
 Suvivalist,
 Dining Room,Jadalnia
-Level,
 Carpenter Specialties,
 Logging Specialty,Zawód drwal
 Wood is useful source and cutting down trees is a skill anyone can appreciate. Level by felling trees and clearing debris.,"Drewno jest użytecznym zasobem, a ścinanie drzew to umiejętność, którą każdy może docenić. Zdobywaj poziomy przez ścinanie drzew i usuwanie ścinek."
@@ -8500,23 +8485,18 @@ Burnable,
 Baked Food,Pieczona żywność
 "Hello, World!",
 Enter description here.,
-Owned by,
 Total:,
-and,
 more recipes,
 change Contitutional Amendments:,
-Law Changes By Election,
 To,
 Election Guidelines,
 {0}'s Truck,Ciężarówka gracza {0}
 New Text,
 Advanced Updated {0},
-Action On Each Citizen,
 Decreases resource cost for the table work order by,
 Decreases craft time for the table work orders by,
 Decreases resource cost for the table work order created with,
 Decreases craft time for the table work orders created with,
-State:,
 Unknown,
 filter,
 Wool that has been shorn from an animal.,
@@ -8564,10 +8544,7 @@ Civic Maps,
 District Map {0},
 (Removed),
 GrassBlock,
-Temperature:,
-Rainfall:,
 Total soil moisture:,Wilgotność całkowita gleby:
-Pollution:,
 Nitrogen:,
 Phosphorus:,
 Potassium:,
@@ -10598,7 +10575,6 @@ Crushed Mortared Stone,Droga z kamieni z zaprawą
 A mixture of rocks that can be used in a variety of recipes or simply as landfill.,"Mieszanka skał, którą można wykorzystać w różnych przepisach lub po prostu jako wysypisko śmieci."
 An unexpected network disruption occured while handling an RCON connection.,Wystąpiły nieoczekiwane zakłócenia sieciowe podczas obsługi połączenia RCON.
 Using tools requiring calories,Używanie narzędzi wymagających kalorii
-Fishing,
 Trading,Handlowy
 Setting up contracts,Przygotowywanie kontraktu
 {0} For Sale,{0} Na sprzedaż
@@ -10879,44 +10855,22 @@ Create a new channel,Stwórz nowy kanał
 Channels list,Lista kanałów
 Seconds,Sekundy
 Minutes,Minuty
-Pinned,
-Important,
-Shows commands to profile the server and generate diagnostic data.,
 The address of a Discord server used for players on this world.  Should only include the portion after 'https://discord.gg/' as that will be filled in.,"Adres serwera Discord używany dla graczy na tym świecie. Powinien zawierać tylko kawałek adresu znajdujący się PO ""https://discord.gg/"" i tym powinien być wypełniony."
 Face Tracking Enabled,Śledzenie twarzy włączone
-Achievements Enabled,
 Allows players to use facetracking feature,Pozwól graczom na używanie śledzenia twarzy
 Should the achievements be enabled or not? (Note: this system is incomplete),"Czy osiągnięcia powinny być włączone, czy nie? (Uwaga: ten system jest niekompletny)"
-List of different teleportation commands,
-repopulateanimallayer,
-Reset animal sim population to initial values (as it was on world generation),
-Shows commands for building and tech tree manipulation,
-Shows Commands related to chat.,
-Shows commands related to notifications.,
-"Shows commands allowing to list, add, remove, and clear many things in the game (including laws, titles, elections, bank accounts, and many more). Ex: /objects remove laws, Law 1",
-Shows commands for performing an animated emote.,
 Displays info on what settlement this claim stake is tied to.,
 Target Settlement,
 "Invite a member of a lower-level settlement to become a member of this settlement (or accept their application to do so, if it exists).","Zaproś członka miejscowości niższego poziomu, aby został członkiem wskazanej miejscowości (lub zaakceptuj jego wniosek o to, jeśli istnieje)."
 "Apply for this settlement to become a member of a higher-level settlement (or accept an invitation to do so, if it exists).","Złóż wniosek, aby ta miejscowość stała się członkiem miejscowości wyższego poziomu (lub przyjmij zaproszenie do tego, jeśli takowa istnieje)."
 Displays and sets the settlement that is the parent of this claim stake.,
-Shows commands for controlling settlements.,
 Settlement Name,Nazwa miejscowości
-Shows commands for rooms manipulations.,
-Shows commands for property manipulations.,
 Loaded,
-Shows commands for changing things about users.,
-Shows commands for users administration.,
-Shows commands for manipulating money.,
-Shows commands related to the economy.,
-Shows commands for manipulations with meteor.,
-Shows commands related to user-defined districts.,
 Percent Of Days To Be Active For Long Term Demographic,Procent dni aktywności dla długoterminowej grupy demograficznej
 Percent of days a user needs to be considered active (as determined by other property) to be in the 'Long Term demographic'.  1 = 100%,"Procent dni, przez które użytkownik musi być uznany za aktywnego (na podstawie innej właściwości), aby znaleźć się w „Długoterminowej grupie demograficznej”. 1 = 100%"
 Revoke Citizenship,
 Revoke the citizenship of a player.,
 Player who's citizenship is being revoked.,
-Shows commands for viewing and manipulating player titles.,
 Hours Required,Wymagane godziny
 Days Active,Dni aktywności
 'Active' days count of a citizen. (A day is considered 'Active' if citizen was online for more than the required amount of time per day),
@@ -10926,11 +10880,7 @@ Age Format,Format wieku
 World's age in desired time units.,
 Time unit of the world's age.,
 Long Term,Długoterminowy
-Shows commands for avatars manipulation.,
-Shows commands for world pollution manipulation.,
-Shows commands for skills,
 Wood Shop Cart,
-Shows actors related commands,
 Look Left Right,Rozglądanie się
 Look Down Up,Patrzenie góra-dół
 Crouch,Kucnięcie
@@ -10965,34 +10915,6 @@ Vehicle Boom Down Up,
 Vehicle Boom Pull Push,
 Vehicle Swing Arm Down Up,
 Vehicle Ramps Down Up,
-A stockpile for distributing items to new players. Allows you to choose a specific set of items which each new player will be able to take.,
-A campsite.,
-A porcelain bathtub for when you need to get clean or just relax.,
-The assembly line allows for mass production of mechanical products.,
-An ashlar stone bench. Great for display though maybe not as comfy as a padded couch.,
-A fancy ashlar stone table that has been adorned with gold.,
-Self-improvement increases both the amount of weight citizens can carry and their stomach capacity. It also decreases the calories expended when using hammers and shovels. Experience is gained when leveling up other specialties.,
-Basic Upgrade that greatly increases efficiency when crafting Tailoring recipes.,
-Modern Upgrade that greatly increases efficiency when crafting Tailoring recipes.,
-Modern Upgrade that greatly increases efficiency when crafting Mechanics recipes.,
-A dead turkey.,
-An extremely useful synthetic material derived from petrochemicals.,
-Provides speed and torque conversions from a rotating power source to another device.,
-A blue shark.,
-"A dressed salad that, with the added sweetness, it's pretty tasty.",
-To give thanks for the fact that this food gives two extra nutrients than other food items of the same tier.,
-"Comforting, best served hot from the griddle.",
-Round and large.,
-Nice fresh Pineapple.,
-Nice fresh Papaya.,
-A sweet pastry that is great for breakfast or anytime you need a quick boost of energy.,
-Deep fried Camas. Bit greasy.,
-Tiny Cup Mushrooms.,
-Agave leaves that have been charred over a campfire.,
-Boletus edulis.,
-Baked taro root.,
-A multipurpose filler that is made from what you have available.,
-It just looks cool.,
 "Text is too long, max length excluding tags cannot exceed {0} characters",
 Text must be at least {0} characters long.,
 Reset all players chat settings and tab settings,
@@ -11710,7 +11632,6 @@ Plot is already a part of this deed.,Działka jest już częścią tego aktu wł
 Start Homestead,
 You have {0} playing on this server.,
 friend,znajomy
-Achievements:,Osiągnięcia:
 Out Of Stock,Brak na stanie
 Accept(Dev Mode),
 Discovered only,Tylko odkryte
@@ -12104,7 +12025,6 @@ No rooms on property.,Żadnych pomieszczeń na nieruchomości.
 NOTE: {0} can be at most {1} of the value of the primary rooms of the property (currently {2}). Dropping value of {3} from {4} to {5}.,
 - {0} point reduction: {1},
 Admin applied value boost: {0},
-(No penalty for room count because of residents number: {0}),(Brak kary za liczbę pokoi ze względu na liczbę mieszkańców: {0})
 Room,Pokój
 {0} ({1} support),
 - Ignoring {0}: {1} property doesnt receive value from {2} rooms.,
@@ -13608,7 +13528,6 @@ Allow Become Citizen Upon Homestead Placement,Zezwól na uzyskanie obywatelstwa 
 This will make it possible for players to instantly join the settlement upon placing their homesteads inside its influence.,
 Optional set of wages paid for citizens in this demographic.,
 A long description of the server to display when selected in the server browser.  Use \n for line endings.  Max 500 characters.,"Długi opis serwera, który zostanie wyświetlony po jego wybraniu w przeglądarce serwerów. Użyj \n dla łamania wiersza. Maksymalnie 500 znaków."
-Could not add chat command \'/{0}\': invalid parameter type '{1}' of {2} argument.,
 Missing Settlement,Brakująca osada
 Consumes: {0}w of {1} power.,
 Produces: {0}w of {1} power.,
@@ -13625,7 +13544,6 @@ Brick Ramp C,
 Brick Ramp B,
 Brick Ramp A,
 Current review state:,
-Click to show in the map.,
 Influence for {0}:,
 Artwork,
 Value in {0}:,
@@ -13813,7 +13731,6 @@ A survival backpack that offers more support than the basic backpack.\n\n(Increa
 Snug work boots with side zippers.\n\n(Decreases calories consumed when using tools by 30%),
 "Also called chapeau � bec, or Billed Hat in france due to it's bird-beak like appearance.",
 Bycocket,
-Hide from the animals!\n\n(Reduces the detection range of animals),
 Hide from the animals!\n\n(Reduces the detection range of animals),
 A steel hardhat with a light source for the darkest places.\n\n(Flashlight),
 Simple low indoors working shoes helps avoiding slipping on wet surfaces in a large kitchen.\n\n(Decreases calories consumed when using tools by 30%),
@@ -14121,7 +14038,6 @@ Spawns Housing industrial items,
 Spawns Housing cultural items,
 Spawns Housing seating items,
 Spawns Housing main room items,
-Could not add chat command \'/{0}\': invalid parameter type '{1}' of {2} argument.,
 {0}: Failed to build a valid route in test {1} (indexing starts at 0) from {2} to {3}. This might be good or bad depending on whether you expect {4} to be able to complete this test.,
 {0}: Failed to build a valid route from {1} to {2}.,
 Species with name {0} not found.,
@@ -14276,9 +14192,6 @@ Calibration complete!\r\nNow look at the center of the screen and press the Conf
 Facetracking calibration cancelled...,
 Can't pick up while {0} uses the object.,
 Picture added to your inventory.,
-United Nations,
-League of Nations,
-Federation,
 Union,
 {0} residents : {1} {2} Current Crowd Factor,
 {0} residents : {1},
@@ -14603,7 +14516,6 @@ Resource Requirements,
 Must have more citizens.,
 Active Citizens Requirement:,
 Browse file,
-Durability,
 No requirements,
 Crafting Queue Quantity,
 Retroactive Experience Rate,
@@ -15544,7 +15456,6 @@ You are not connected to Strange Cloud and cannot use the store.,
 Waiting on last purchase to compelte.,
 Purchase complete!,
 {0} spent.,
-{0} ({1}) sent to {2},
 {0} ({1}) sent to {2},
 Not enough credits to buy this.,
 Buy {0} for {1}?,
