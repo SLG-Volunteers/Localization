@@ -1,3 +1,4 @@
+
 0;"Components related to the economy."
 1;"The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}."
 2;"Account Users can perform transactions using the account (adding and removing funds).
