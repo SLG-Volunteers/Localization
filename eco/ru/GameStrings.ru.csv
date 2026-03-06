@@ -1,3 +1,4 @@
+"source","target"
 "Could not create save file: {0}","Не удалось создать файл сохранения: {0}"
 "Could not start server:","Не удалось запустить сервер:"
 "Connection Failed","Ошибка подключения"
@@ -711,7 +712,7 @@
 "Balances","Баланс"
 "Click to give player reputation.","Нажмите, чтобы работать с репутацией игрока."
 "payment","оплата"
-"value",""
+"value","значение"
 "Variants","Варианты"
 "Tier {0}","Уровень {0}"
 "{0} output","Выход {0}"
