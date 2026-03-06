@@ -8,8 +8,7 @@ In the Advanced Settings, you can set the account as a Government Account.  Gove
 3;"The Bank component is used to create and manage bank accounts"
 4;"The Contract Board Component allows citizens to post and accepts {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens."
 5;"Setting Up a Contract"
-6;"
-When posting a contract, it may have as many or as few clauses as desired, and each clause can be configured to describe the job requested.  Each clause must be satisfied before the contract is considered complete.
+6;"When posting a contract, it may have as many or as few clauses as desired, and each clause can be configured to describe the job requested.  Each clause must be satisfied before the contract is considered complete.
 
 When 'Auto-Accept' is checked, completion of contracts is auto-detected by the system.  For example, if a contract is set to build a road between two points, the contractor performing the work can open the contract in their side menu and press 'Job Finished', which will trigger a detection if the job is indeed complete. If so, the contract will be paid out according to the agreement and automatically closed.
 
