@@ -1,14 +1,14 @@
-0;"Components related to the economy."
-1;"The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}."
-2;"Account Users can perform transactions using the account (adding and removing funds).
+0;Components related to the economy.
+1;The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.
+2;Account Users can perform transactions using the account (adding and removing funds).
 
 Account Managers can change the users in both the manager list and the user list, rename the account, and perform transactions. 
 
-In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}."
-3;"The Bank component is used to create and manage bank accounts"
-4;"The Contract Board Component allows citizens to post and accepts {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens."
-5;"Setting Up a Contract"
-6;"
+In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.
+3;The Bank component is used to create and manage bank accounts
+4;The Contract Board Component allows citizens to post and accepts {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.
+5;Setting Up a Contract
+6;
 When posting a contract, it may have as many or as few clauses as desired, and each clause can be configured to describe the job requested.  Each clause must be satisfied before the contract is considered complete.
 
 When 'Auto-Accept' is checked, completion of contracts is auto-detected by the system.  For example, if a contract is set to build a road between two points, the contractor performing the work can open the contract in their side menu and press 'Job Finished', which will trigger a detection if the job is indeed complete. If so, the contract will be paid out according to the agreement and automatically closed.
@@ -20,4 +20,3 @@ When auto-detection is unchecked, the contractor will click 'Job Finished' when 
 Contracts have a set time length they must be completed within, determined when posting the contract. In addition, contracts can be set to repeat for reoccurring jobs - when this is enabled, each time a contract is accepted the repetition counter will reduce by one.
 
 Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract completes successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure.
-"
