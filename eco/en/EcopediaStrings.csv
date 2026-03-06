@@ -8,13 +8,14 @@ In the Advanced Settings, you can set the account as a Government Account.  Gove
 3;"The Bank component is used to create and manage bank accounts"
 4;"The Contract Board Component allows citizens to post and accepts {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens."
 5;"Setting Up a Contract"
-6;"When posting a contract, it may have as many or as few clauses as desired, and each clause can be configured to describe the job requested.  Each clause must be satisfied before the contract is considered complete.
+6;"
+When posting a contract, it may have as many or as few clauses as desired, and each clause can be configured to describe the job requested.  Each clause must be satisfied before the contract is considered complete.
 
-When Auto-Accept is checked, completion of contracts is auto-detected by the system.  For example, if a contract is set to build a road between two points, the contractor performing the work can open the contract in their side menu and press Job Finished, which will trigger a detection if the job is indeed complete. If so, the contract will be paid out according to the agreement and automatically closed.
+When 'Auto-Accept' is checked, completion of contracts is auto-detected by the system.  For example, if a contract is set to build a road between two points, the contractor performing the work can open the contract in their side menu and press 'Job Finished', which will trigger a detection if the job is indeed complete. If so, the contract will be paid out according to the agreement and automatically closed.
 
-The Custom Clause is a special clause that allows players to describe in words what they would like done. If a contract contains such a clause, it must be manually approved by the client (auto-accept may not be checked), since auto-detection cant determine when its finished.
+The 'Custom Clause' is a special clause that allows players to describe in words what they would like done. If a contract contains such a clause, it must be manually approved by the client (auto-accept may not be checked), since auto-detection can't determine when it's finished.
   
-When auto-detection is unchecked, the contractor will click Job Finished when they believe the job is done, and the contractor will then either accept or reject the completion.  Contracts without auto-accept require more trust between citizens, as there is no guarantee the contractor will honestly accept a completed job.  Citizens are advised to use {Reputation} as a means of determining trust in these situations.
+When auto-detection is unchecked, the contractor will click 'Job Finished' when they believe the job is done, and the contractor will then either accept or reject the completion.  Contracts without auto-accept require more trust between citizens, as there is no guarantee the contractor will honestly accept a completed job.  Citizens are advised to use {Reputation} as a means of determining trust in these situations.
 
 Contracts have a set time length they must be completed within, determined when posting the contract. In addition, contracts can be set to repeat for reoccurring jobs - when this is enabled, each time a contract is accepted the repetition counter will reduce by one.
 
