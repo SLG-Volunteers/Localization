@@ -18,4 +18,5 @@ When auto-detection is unchecked, the contractor will click Job Finished when th
 
 Contracts have a set time length they must be completed within, determined when posting the contract. In addition, contracts can be set to repeat for reoccurring jobs - when this is enabled, each time a contract is accepted the repetition counter will reduce by one.
 
-Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract completes successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure."
+Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract completes successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure.
+"
