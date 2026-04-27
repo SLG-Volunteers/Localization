@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="zh-CN" datatype="plaintext" original="EcopediaStrings">
+  <file source-language="en" target-language="vi" datatype="plaintext" original="EcopediaStrings">
     <body>
       <trans-unit id="0">
         <source xml:space="preserve">Components related to the economy.
 </source>
-        <target xml:space="preserve">与经济相关的组件。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="1">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.
 </source>
-        <target xml:space="preserve">银行组件是创建和管理[Bank Accounts]的地方。公民可以为自己创建多个帐户，也可以与其他公民共享帐户。帐户也可以分配给[Titles]和[Demographics]。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="2">
         <source xml:space="preserve">Account Users can perform transactions using the account (adding and removing funds).
@@ -21,30 +19,22 @@ Account Managers can change the users in both the manager list and the user list
 
 In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.
 </source>
-        <target xml:space="preserve">帐户用户可以使用该帐户执行交易（添加和删除资金）。
-
-客户经理可以更改经理列表和用户列表中的用户，重命名帐户并执行交易。在高级设置中，你可以将帐户设置为公会帐户。
-
-公会帐户可以接收和支付税收资金，在收取税收和计算个人财富时将被忽略。要进行此设置，你必须具有由[Elected Title|Elected Titles]分配的公会银行特权。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="3">
         <source xml:space="preserve">The Bank component is used to create and manage bank accounts
 </source>
-        <target xml:space="preserve">银行组件用于创建和管理银行账户
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="4">
         <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.
 </source>
-        <target xml:space="preserve">合同公告板允许公民发布和接受[Contracts]和[Work Parties]，从而允许公民之间执行强制劳动和其他协议。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="5">
         <source xml:space="preserve">Setting Up a Contract
 </source>
-        <target xml:space="preserve">订立合同
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="6">
         <source xml:space="preserve">
@@ -61,25 +51,12 @@ Contracts have a set time length they must be completed within, determined when 
 Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract is completed successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure.
   
 </source>
-        <target xml:space="preserve">在发布合同时，可以根据需要制定任意数量的条款，每个条款都可以制定为描述所请求的工作。必须满足每一项条款合同才会被认定为完成。
-
-当“自动接受”被选择时，系统会自动检测到合同的完成。例如，如果一份合同被设定为在两点之间修建一条道路，执行该工作的订约人可以在其侧边菜单中打开该合同，并按下“工作完成”，这将触发检测工作是否确实完成。如果是，合同将按协议交付并自动结束。
-
-“自定义条款”是一种特殊条款，允许玩家用语言描述他们想要做的事情。如果一个合同包含这样的条款，它必须由客户手动批准(自动接受此时不可用)，因为自动检测不能确定何时完成。
-
-当自动检测未启用时，如果订约人认为任务已经完成，他们就可以点击“任务完成”，然后订约人就会接受或拒绝完成任务。没有自动接受的合同要求公民之间有更多的信任，因为不能保证订约人会诚实地接受完成的工作。建议公民在这些情况下使用[Reputation]作为确定声望的一种手段。
-
-合同有一个固定的时间限制，这个限制需在制定合同时确定。此外，可以将合同设置为可重复进行——当启用此功能时，每次接受一个合同时，重复计数器将减少1。
-
-合同有效时，为合同提供的任何款项都会保存在特殊的托管帐户[Bank Account|Bank Accounts]中。 如果合同成功完成，则该款项将转移给订约人，如果失败，则将退还给客户。 订约人也可以收取押金，该押金将由第三方保管，并在成功完成后退还给订约人，或者在失败时退还给客户。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="7">
         <source xml:space="preserve">Work Parties
 </source>
-        <target xml:space="preserve">工作组
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="8">
         <source xml:space="preserve">
@@ -90,14 +67,7 @@ After posting a work party, Laborers can join the project at the Contract Board.
 When setting the Work desired, the poster of the work party can decide to hire for labor, resources, or both. Any citizen who contributes to the work party will receive a share of the payment based on the amount of work they provided. By assigning additional Weight to a particular job in a work party, that job will receive a higher share of the payment.
 
 </source>
-        <target xml:space="preserve">
-[Work Parties]也可以张贴在合同公告板上，允许创建可由其他多个公民完成的任务，而不是仅由两方之间达成协议的合同。在发布工作组之前，公民必须在其拥有的手工桌子上开始工作指令。
-
-发布工作组后，工人可以在合同公告板中加入该项目。默认情况下，任何人都可以以工人的身份加入工作组，但是可以为每个人加入的个人角色或一般要求设置要求。选中“将角色扩展为“满员””后，将在填补所有角色后自动创建新的工人栏位。
-
-在设置所需的工作时，工作组的发布者可以决定雇用劳动力，资源或两者兼而有之。向工作组捐款的任何公民都将根据他们提供的工作量获得一定比例的付款。通过为工作组中的特定工作分配额外的权重，该工作将获得更高的付款份额
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="9">
         <source xml:space="preserve">
@@ -112,32 +82,18 @@ There are a variety of Payment options for a work party, and multiple payment op
 - When granting a {Title|Titles} as payment, the citizen posting the contract must be a title manager for the title being offered. All citizens who contribute the minimum amount will be granted the new title. The Access Type determines if they will become a title manager or title user.
 
 </source>
-        <target xml:space="preserve">
-工作组有多种支付方式，每个工作组也可以使用多种支付方式。
-
--使用[Currency]作为支付方式时，可以使用“随用随付”的选项，它将按工人的贡献度来支付，而不是在合同完成时一次性付清。 
-
--使用[Reputation]作为支付方式时，工作组完成后所有参与工作的公民将平分声望值。
-
--使用[Research]作为支付方式时，所有参与工作的公民将在工作组结束后立即发现该技术。仅当工作组正在创建研究书时，或者提供工作组的公民在发布工作组时其库存中有研究书时，才可以将研究作为支付方式。 
-
--授予[Title|Titles]作为支付方式时，发布合同的公民必须是所提供头衔的管理员。所有达到最低贡献值的公民将被授予新头衔。访问类型确定他们是否成为头衔管理员或头衔所有者。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="10">
         <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.
 </source>
-        <target xml:space="preserve">合同公告板组件允许公民发布或接受合同以及工作组订单
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="11">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
   
 </source>
-        <target xml:space="preserve">信用组件允许公民为他们拥有的对象上的所有交易设置货币和银行账户
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="12">
         <source xml:space="preserve">
@@ -150,27 +106,18 @@ When selecting None for the currency in a store, direct trades are possible with
 Objects with a {Crafting Component} can define a fee for authorized citizens to use them. The settings in the Credit Component will determine what currency that fee is charged in and what account the funds are deposited to.
   
 </source>
-        <target xml:space="preserve">
-选择[Bank Accounts]时，公民可以选择已被授予访问权限的任何帐户（在[Bank Component]中执行）。默认情况下，将选择公民的个人帐户。
-
-可以在信用组件中选择世界上任何一种[Currencies|Currency]。这将指定对某物品上发生的任何交易时采用的货币（例如[Store|Store Component]将接受此处设置的任何货币）。
-
-当为商店中的货币选择为无时，无需货币就可以进行直接交易。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="13">
         <source xml:space="preserve">The Credit Component allows citizens to set the bank account and currency for transactions on an object.
 </source>
-        <target xml:space="preserve">信用组件允许公民为一个物品上的所有交易设置货币和银行账户。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="14">
         <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell {Property}.
   
 </source>
-        <target xml:space="preserve">契据销售组件允许公民购买和出售[Property]
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="15">
         <source xml:space="preserve">
@@ -183,34 +130,22 @@ When buying a deed, the currency will be taken from the bank account selected by
 After the property is sold, the deed and all objects contained on the deed are transferred to the new owner. 
   
 </source>
-        <target xml:space="preserve">
-通过访问[Real Estate Desk|Real Estate Desk Item]，公民可以为其契据创建清单，并查看其他公民的清单。可以从任何房地产服务台查看所有发布的列表。
-
-创建清单时，业主设置价格以及使用的[Currency]。所有收入都将进入所选的[Bank Account|Bank Accounts]。
-
-购买契据时，货币将从购买者选择的银行账户中提取。
-
-房产出售后，契据和契据中包含的所有物体均会移交给新所有者。 
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="16">
         <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell property.
 </source>
-        <target xml:space="preserve">契据销售组件允许公民购买和出售房产。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="17">
         <source xml:space="preserve">The Exchange Component allows citizens to trade one {Currency} for another.
 </source>
-        <target xml:space="preserve">货币兑换组件允许公民将一种[Currency]换成另一种货币。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="18">
         <source xml:space="preserve">Exchanging Currency
 </source>
-        <target xml:space="preserve">货币兑换
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="19">
         <source xml:space="preserve">
@@ -219,18 +154,12 @@ The owner of a {CurrencyExchangeItem} uses the Exchange Component to offer curre
 When an {Authorized Consumer|Authorization Component} visits the currency exchange, they will see a list of all offered exchanges. By default, all citizens are authorized consumers.
 	
 </source>
-        <target xml:space="preserve">
-[CurrencyExchangeItem] 的所有者可以使用货币兑换组件向其他公民提供货币兑换。设置交易所时，所有者的货币是要出售的货币。对于购买的每单位所有者货币，将向公民收取设定的替代货币金额。
-
-当[Authorized Consumer|Authorization Component] 访问货币交易所时，他们会看到所有提供兑换的货币列表。默认情况下，所有公民都是授权消费者。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="20">
         <source xml:space="preserve">Exchange Restrictions
 </source>
-        <target xml:space="preserve">兑换限制
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="21">
         <source xml:space="preserve">
@@ -239,24 +168,17 @@ The owner of the Currency Exchange has the option to setup Balance Restrictions.
 The number on the left is the minimum currency holding and the number on the right is the maximum currency holding. If either value for the balance restriction is left at 0, there will be no limit for that part of the balance restriction.
 	
 </source>
-        <target xml:space="preserve">
-货币兑换组件的所有者可以选择设置余额限制。如果所选帐户中的货币数量不符合限制，将会阻止公民兑换货币。
-
-左边的数字是最小货币持有量，右边的数字是最大货币持有量。如果设置为0，则代表没有限制。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="22">
         <source xml:space="preserve">Allows citizens to setup a currency exchange .
 </source>
-        <target xml:space="preserve">允许公民设立货币交易所。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="23">
         <source xml:space="preserve">The Item Distribution Component allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
 </source>
-        <target xml:space="preserve">物品分发组件允许所有者发起慈善捐赠，向新公民提供免费物品，促进前期发展。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="24">
         <source xml:space="preserve">
@@ -265,25 +187,18 @@ All new citizens who qualify (based on how long they have played) can collect th
 The owner may designate what items are to be distributed, how many of each item, and how recently the citizen must have joined the world to be eligible.
   
 </source>
-        <target xml:space="preserve">
-所有符合条件的新公民（根据他们玩了多长时间）都可以访问[DistributionStationItem]来领取他们的物品。进入世界后，新公民将在大地图上看到标记，以提醒他们有物品可领取。请注意，[Storage Component]必须包含所分发的物品，这样新公民才能领取它们。
-
-所有者可以指定要分发的物品，每件物品的数量以及公民必须玩多久才能获得领取资格。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="25">
         <source xml:space="preserve">Allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
 </source>
-        <target xml:space="preserve">允许所有者发起慈善捐赠，向新公民提供免费物品，促进前期发展。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="26">
         <source xml:space="preserve">The Mint Component allows citizens to create {Currencies|Currency} which are backed by a resource. 
 
 </source>
-        <target xml:space="preserve">铸币厂组件允许公民创建由资源担保的[Currencies|Currency]。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="27">
         <source xml:space="preserve">
@@ -294,30 +209,19 @@ The backing material and coins per item are permanent, so be careful when decidi
 Citizens who have been granted consumer rights in the {Authorization Component} can use the Mint Component to mint additional currency. Currency can be minted into the target {Bank Account|Bank Accounts} selected by the mint owner, or any bank account the citizen minting has access to in the {Bank Component}.
   
 </source>
-        <target xml:space="preserve">
-在[MintItem]创建货币时，必须选择一种物品作为担保，以及消耗没单位物品生成的货币数量。通过设置担保物，可以将可能的货币总量限制为所提供担保物的数量，避免大量新货币冲击市场从而保证稳定性。选择的担保物会影响这一点，因为更稀有物品通常更难获得，因此可以提供更高的稳定性。
-
-每个担保物对应的货币数量是永久性的，因此在选择担保物时请多加注意。货币铸造后，铸币厂将会与创建的货币绑定，即便铸币厂被移动。
-
-在[Authorization Component]中被授予使用权利的公民可以使用铸币厂组件铸造其他货币。可以将货币铸造到所有者选择的目标[Bank Account|Bank Accounts]中，也可以铸造给任何[Bank Component]中公民可以访问的银行账户中。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="28">
         <source xml:space="preserve">Allows citizens to create and print backed currencies.
 </source>
-        <target xml:space="preserve">允许公民创建和铸造担保货币。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="29">
         <source xml:space="preserve">
 The Store Component allows citizens to set items they wish to buy from and sell to other citizens. These actions can happen automatically, not requiring the store owner to be online.
   
 </source>
-        <target xml:space="preserve">
-商店组件允许公民设置他们希望从购买或出售的物品。这些操作可以自动发生，不需要商店所有者在线。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="30">
         <source xml:space="preserve">
@@ -332,37 +236,29 @@ When creating a Purchase List, the price and Max to Buy quantity for each item m
 For tools with durability, a minimum durability to buy/sell can be set, and only items of that durability or higher will be eligible for trade via the store.
  
 </source>
-        <target xml:space="preserve">
-在[Credit Component]中选择的货币和银行账户将用于商店中的所有交易。当为商店中的货币选择为“无”时，可以进行不需缴纳营业税的直接交易。 
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="32">
         <source xml:space="preserve">Sets up an interface for other citizens to buy and sell goods from/to you automatically.
 </source>
-        <target xml:space="preserve">为其他公民设置一个界面，可供与你之间自动购买和销售货物。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="33">
         <source xml:space="preserve">Components related to the government.
 </source>
-        <target xml:space="preserve">与公会相关的组件。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="34">
         <source xml:space="preserve">
 The Civic Action Component allows citizens to participate in {Elections}, perform {Executive Actions}, and resign from office, depending on which object is being used.
 
 </source>
-        <target xml:space="preserve">
-公民行动组件允许公民参与[Elections]，执行[Executive Actions] 以及辞职，这取决于所使用的对象。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="35">
         <source xml:space="preserve">Participating in Elections
 </source>
-        <target xml:space="preserve">参加推选
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="36">
         <source xml:space="preserve">
@@ -375,16 +271,12 @@ Citizens who have been granted Veto power in the current {Election Process|Elect
 To run for elected titles, first an eligible citizen must use the Start Election action. Once an election has started, eligible citizens can select Enter Election to join the race and give a campaign speech. Candidates can opt to Withdraw from Election at any time using the option available on a Ballot Box.
 
 </source>
-        <target xml:space="preserve">
-在[Ballot Box|Ballot Box Item] 使用公民行动组件时，公民可以推选[Elected Titles] 并参加推选。通过按下“投票”按钮，玩家将被重定向到网络界面，在这里他们可以查看所有正在进行的[Elections]（推选），与他们的同胞讨论，使用[Data] 提供论证证据并投票。在当前的[Election Process|Election Processes] 中获得否决权的公民可以立即颠覆推选。要推选民选头衔，首先，符合条件的公民必须使用“开始推选”行动。推选开始后，符合条件的公民可以选择“参加推选”参加比赛并发表推选演讲。候选人可以随时使用投票箱上的选项选择退出推选。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="37">
         <source xml:space="preserve">Performing Executive Actions
 </source>
-        <target xml:space="preserve">执行行政行动
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="38">
         <source xml:space="preserve">
@@ -395,16 +287,12 @@ The Citizen Conditions dictate which citizens the executive action applies to, a
 The Action on Each Citizen will take effect as soon as the executive action is approved. Multiple actions can be performed at once for each citizen who meets the conditions.
 
 </source>
-        <target xml:space="preserve">
-通过在[Executive Office|Executive Office Item] 使用公民行动组件，可以使民选职务执行一次影响一系列公民的行政行动。公民条件规定了行政行为适用于哪些公民，并且可以为公民设定质量的多个条件。要对所有公民执行某项操作，请使用[Demographic]“所有人”作为公民条件。一旦批准行政行动，对每个公民的行动将立即生效。每个符合条件的公民可以一次执行多项行动。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="39">
         <source xml:space="preserve">Government Office Actions
 </source>
-        <target xml:space="preserve">公会的行动
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="40">
         <source xml:space="preserve">
@@ -415,54 +303,43 @@ The Resign from Office action allows any elected official to step down from thei
 The Remove Official from Office action allows citizens who have been given the authority to remove elected titles from office. The same rules for finding a successor apply as if the official resigned.
 
 </source>
-        <target xml:space="preserve">
-在[Government Office|Government Office Item]，公民行动组件允许民选职务辞职或将其他民选职务撤职。 “辞职”行动使任何当选官员都能辞职。如果创建后继头衔分配给当选头衔，将从拥有该头衔的所有公民中随机选出新官员；否则，当选头衔将空缺。 “罢免官员”行动允许已被授予权力的公民将当选头衔免职。寻找继任者的规则与正式辞职时相同。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="41">
         <source xml:space="preserve">Allows citizens to participate in elections and perform executive actions.
 </source>
-        <target xml:space="preserve">允许公民参加推选和执行行政行为。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="42">
         <source xml:space="preserve">    
 The Civic Object Component allows citizens to propose, amend, and repeal various Civic Objects. 
 </source>
-        <target xml:space="preserve">    
-公民对象组件允许公民提议，修改和废除各种公民对象。 
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="43">
         <source xml:space="preserve">Civic Duties
 </source>
-        <target xml:space="preserve">公民职责
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="44">
         <source xml:space="preserve">Within a Civic Object Component, you will see a list of your {Civic Duties}. This informs the citizen what permissions they have regarding civic objects, given the current {Constitution}.The possibilities of different civic duties are:
 </source>
-        <target xml:space="preserve">在“公民对象”组件中，你将看到[Civic Duties]的列表。鉴于目前的[Constitution]，这将告知公民他们对公民物品具有哪些许可:
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="45">
         <source xml:space="preserve">The Civic Object Component allows citizens to propose, amend, and repeal civic objects.
 </source>
-        <target xml:space="preserve">公民对象组件允许公民提议，修改和废除公民对象。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="46">
         <source xml:space="preserve">The Registrar Component allows for the creation and management of non-elected {Titles}.  These titles can be used for many of the same purposes as {Elected Titles}, but they are appointed at the Registrar.
 </source>
-        <target xml:space="preserve">登记员组件允许创建和管理非推选[Titles]。这些头衔可用于与[Elected Titles] 相同的目的，但它们是由书记官长任命的。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="47">
         <source xml:space="preserve">Assigning Titles
 </source>
-        <target xml:space="preserve">分配头衔
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="48">
         <source xml:space="preserve">Title Managers can rename the title and assign new managers and title holders. Title Managers are not considered Title Users.
@@ -470,15 +347,12 @@ The Civic Object Component allows citizens to propose, amend, and repeal various
 Title Users are the citizens considered title holders and receive all associated benefits and conditions.
 	
 </source>
-        <target xml:space="preserve">头衔管理员可以重命名头衔并分配新的管理员和头衔持有者。头衔管理员不被视为头衔用户。所有权使用者是被视为所有权持有人的公民，并会获得所有相关的利益和条件。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="49">
         <source xml:space="preserve">Advanced Settings
 </source>
-        <target xml:space="preserve">高级设置
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="50">
         <source xml:space="preserve">
@@ -489,52 +363,42 @@ When deciding what is Required of Office Holders, a variety of conditions can be
 Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title Manager has been given permission to use in the {Bank Component}. Wages are paid each hour (depending on World settings) into the personal account of each Title User. The Wage Type can be used to exclude offline hours from wage payments.
 	
 </source>
-        <target xml:space="preserve">
-在“高级设置”中，可以设置头衔持有者的要求，并且可以将小时工资分配给有资格的头衔持有者。在确定办公室持有人需要什么时，可以设置各种条件。如果公民未能遵守这些要求，他们将失去其作为“头衔用户”的分配。通过使用“一组条件”，可以为头衔持有者设置多个要求。工资是从头衔管理者已被允许在[Bank Component] 中使用的任何[Bank Account|Bank Accounts] 中支付给头衔用户的。每小时（取决于世界设置）将工资支付给每个头衔用户的个人帐户。工资类型可用于从工资中排除离线时间。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="51">
         <source xml:space="preserve">Allows creation and management of non-elected titles.
 </source>
-        <target xml:space="preserve">允许创建和管理非推选头衔。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="52">
         <source xml:space="preserve">The Treasury Component allows {Elected Titles} that have been granted the right to 'Set Taxes at the Treasury' to adjust the tax rate and select the World Default Currency.
 </source>
-        <target xml:space="preserve">金库组件允许已被授予“在金库设置税款”的权利的[Elected Titles] 调整税率并选择“世界默认货币”。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="53">
         <source xml:space="preserve">Taxes
 </source>
-        <target xml:space="preserve">税
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="54">
         <source xml:space="preserve">After {Taxes} are set in the Treasury Component, they are automatically applied to all relevant transactions. All revenue goes into the Treasury {Bank Account|Bank Accounts}. Elected titles that have the setting 'Government Banking Privileges' can transact directly from the Treasury account (allowing selection of the account within the {Credit Component}).  Money can also come out of the treasury via {Laws} that make payments to citizens.
 </source>
-        <target xml:space="preserve">在“金库组件”中设置[Taxes] 后，它们会自动应用于所有相关交易。所有收入都进入金库[Bank Account|Bank Accounts]。具有“公会银行特权”设置的选定头衔可以直接从金库帐户进行交易（允许在[Credit Component] 中选择该帐户）。钱也可以通过[Laws] 从金库中出来，向公民付款。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="55">
         <source xml:space="preserve">World Default Currency
 </source>
-        <target xml:space="preserve">世界默认货币
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="56">
         <source xml:space="preserve">The World Default Currency is the default {Currency} used when placing a new object that contains the Credit Component. Citizens can still choose to use any currency in a {Trade}, but having a World Default Currency makes it is easier to establish an economy with a common currency.
 </source>
-        <target xml:space="preserve">世界默认货币是放置包含信用成分的新对象时使用的默认[Currency]。公民仍然可以选择使用[Trade]中的任何货币，但是拥有世界默认货币可以更轻松地建立具有通用货币的经济。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="57">
         <source xml:space="preserve">Direct Taxes
 </source>
-        <target xml:space="preserve">直接税
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="58">
         <source xml:space="preserve">Elected Titles with rights to 'Set Taxes at the Treasury' can tax or allocate funds directly from citizens. This is done through managing the desired currency and selecting which citizens the action will apply to. An elected title must always give a reason why they are performing this action that is displayed to all citizens.
@@ -542,29 +406,23 @@ Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title
 Treasury management also includes the option to dump currency from the Treasury account. This will remove the currency permanently, so be careful when using this ability on backed currencies.
 	  
 </source>
-        <target xml:space="preserve">具有“在金库设置税”的权利的当选头衔可以直接向公民征税或分配资金。这是通过管理所需货币并选择该操作将应用于哪些公民来完成的。当选头衔必须始终说明他们执行此操作的原因，该原因将显示给所有公民。资金管理还包括从资金帐户中转出货币的选项。这将永久删除货币，因此在对备用货币使用此功能时请务必小心。
-	  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="59">
         <source xml:space="preserve"> Allows citizens holding an Elected Title with tax permission to set taxes and select the World Default Currency.
 </source>
-        <target xml:space="preserve"> 允许拥有推选权并获得税收许可的公民设置税款并选择“世界默认货币”。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="60">
         <source xml:space="preserve">Components related to housing.
 </source>
-        <target xml:space="preserve">与房屋有关的组件。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="61">
         <source xml:space="preserve">The Authorization Component allows specifying what permissions citizens have on the object.
     
 </source>
-        <target xml:space="preserve">授权组件允许指定公民对对象具有哪些权限。
-    
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="62">
         <source xml:space="preserve">
@@ -575,52 +433,41 @@ Authorized Consumers can be listed here, either as specific people, {Titles}, or
 All placed objects have authorization components.
   
 </source>
-        <target xml:space="preserve">
-此处显示的契据只是指向对象所在的[Property] 契据的链接（如果是，则为与[Vehicle|Vehicle Component] 相关联的契据）。可以在此处列出授权的消费者，例如特定人员，[Titles] 或[Demographics]。列出的任何人都无法完全控制与该对象进行交互。例如，商店将允许具有消费者权利的公民在那里购买和出售，但是只有拥有土地所有权的公民才可以更改出售的商品或移动商店本身。所有放置的对象均具有授权组件。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="63">
         <source xml:space="preserve">Allows citizens to set the access rights of a given object.
 </source>
-        <target xml:space="preserve">允许公民设置给定对象的访问权限。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="64">
         <source xml:space="preserve">Beds allow citizens to accelerate time when all citizens are using it simultaneously (or offline).  
   
 (This feature is disabled by default on dedicated servers to prevent accelerating time when users are offline, but can be enabled by a server administrator.)
 </source>
-        <target xml:space="preserve">当所有公民同时（或离线）使用它时，床可以使他们加快时间。 （默认情况下，在专用服务器上禁用此功能，以防止用户离线时加速时间，但是可以由服务器管理员启用。）
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="65">
         <source xml:space="preserve">Allows sleeping in single-player servers or servers where sleep is enabled.
 </source>
-        <target xml:space="preserve">允许在单人服务器或启用了睡眠的服务器中睡眠。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="66">
         <source xml:space="preserve">Components related to industry.
 </source>
-        <target xml:space="preserve">与行业相关的组件。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="67">
         <source xml:space="preserve">
     The Crafting Component is used to {Craft|Crafting} items, add resources or labor, and cancel existing projects. When contributing to a {Work Party|Work Parties}, the Crafting Component can be accessed by citizens who have joined the work party.
   
 </source>
-        <target xml:space="preserve">
-    制作组件用于[Craft|Crafting] 物品，添加资源或人工，以及取消现有项目。加入[Work Party|Work Parties] 时，加入工作组的公民可以使用“制作组件”。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="68">
         <source xml:space="preserve">Crafting Items
 </source>
-        <target xml:space="preserve">制作物品
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="69">
         <source xml:space="preserve">
@@ -633,16 +480,12 @@ By adding an upgrade in the {Modules Component}, work orders on a crafting table
 If a project is cancelled early (by right clicking the order), the resources will be refunded but the spent labor will be lost.
   
 </source>
-        <target xml:space="preserve">
-在选择要加工的项目和数量之后，需要资源和人工来启动该项目。这些资源可以手动添加（直接将它们放置在制作表格上），也可以通过链接包含它们的[Storage Component] 来添加。具有[Specialty|Specialties] 相关知识的公民需要较少的卡路里来增加劳动。一些项目需要具有相应专业的公民的熟练劳动力。在开始执行工作指令后将执行此减少，因此各种技能水平的公民都可以为同一工作组做出贡献。通过在[Modules Component] 中添加升级，在手工表上的工单将减少手工时间和资源成本。如果一个项目被提前取消（通过右键单击订单），则资源将被退还，但所花费的劳力将丢失。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="70">
         <source xml:space="preserve">Adding Labor
 </source>
-        <target xml:space="preserve">增加劳力
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="71">
         <source xml:space="preserve">
@@ -651,16 +494,12 @@ For every unit of labor needed, {Calories|Nutrition} are consumed. After a work 
 Once a project is started, labor can quickly be added from outside the Crafting Component by right clicking on a crafting table. When adding labor in this way, holding down 'Ctrl' will add 5x the normal amount of labor. Holding down 'Alt' will add all available calories.
   
 </source>
-        <target xml:space="preserve">
-每消耗一单位劳动量，就会消耗[Calories|Nutrition]。启动工单后，公民可以通过按制作组件中的“工时”按钮添加工时。项目启动后，可以通过在制作表格上单击鼠标右键，从制作组件外部快速添加人工。以这种方式增加人工时，按住“ Ctrl键”将增加正常劳动量的5倍。按住“ Alt键”将增加所有可用的卡路里。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="72">
         <source xml:space="preserve">Tagged Ingredients
 </source>
-        <target xml:space="preserve">标记成分
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="73">
         <source xml:space="preserve">
@@ -669,16 +508,12 @@ Some recipes use Tagged Ingredients that can accept similar items as inputs. For
 Tagged ingredients will be consumed automatically, so there is no need to create separate orders using the different ingredients.
   
 </source>
-        <target xml:space="preserve">
-一些配方使用标记成分，可以接受相似的项目作为输入。例如，某个项目可能会指定需要“ 岩石”，并且会接受带有该标签的任何类型的岩石（[GraniteItem]，[BasaltItem] 等）。带标签的配料将自动消耗，因此无需使用不同的配料创建单独的订单。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="74">
         <source xml:space="preserve">Parent Recipes
 </source>
-        <target xml:space="preserve">父母配方
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="75">
         <source xml:space="preserve">
@@ -687,28 +522,22 @@ Some recipes are part of larger group of recipes, known as Parent Recipes. When 
 By default only recipes that have available resources will be displayed. By checking 'Show All', all possible variations will be displayed.
   
 </source>
-        <target xml:space="preserve">
-一些配方是较大的配方组（称为父配方）的一部分。在制作这些配方之一时，公民可以选择特定的变种来制作。工艺编号将是为父配方选择的数量。默认情况下，将仅显示具有可用资源的配方。选中“显示全部”，将显示所有可能的变体。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="76">
         <source xml:space="preserve">The Crafting Component is used to craft items and add labor to projects.
 </source>
-        <target xml:space="preserve">制作组件用于制作物品并为项目增加人工。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="77">
         <source xml:space="preserve"> The Modules Component allows citizens to insert upgrades into their {Crafting} tables. After inserting an upgrade, work orders on that table will have reduced resource costs and crafting times.
 </source>
-        <target xml:space="preserve"> 模块组件允许公民将升级内容插入其[工艺]表中。插入升级后，该表上的工作订单将减少资源成本和制作时间。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="78">
         <source xml:space="preserve">Using Upgrades
 </source>
-        <target xml:space="preserve">使用升级
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="79">
         <source xml:space="preserve">
@@ -719,16 +548,12 @@ Crafting tables accept different types of upgrades. Early tables accept 'Basic U
 Some recipes have costs using Static Ingredients. Static ingredients are not affected by the resource cost reduction, but the recipes that contain them still get a reduction for crafting time. 
 		
 </source>
-        <target xml:space="preserve">
-升级有五个不同的质量级别。 1级升级将资源成本和制造时间减少了10％，而每级升级都增加了额外的减少。工艺表可以接受不同类型的升级。较早的表接受“基本升级”，而较晚的表则需要“高级升级”或“现代升级”。升级的每个级别具有五个不同的质量级别，最高质量级别是专业升级。有些配方使用静态成分会产生成本。静态成分不受资源成本降低的影响，但是包含静态成分的配方仍然可以减少制作时间。 
-		
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="80">
         <source xml:space="preserve">Specialty Upgrades
 </source>
-        <target xml:space="preserve">专业升级
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="81">
         <source xml:space="preserve">
@@ -737,32 +562,24 @@ The highest level of upgrade can only be crafted by a citizen who has reached th
 Some specialties have different tiers of upgrades that correspond to different crafting tables. For example, {CarpentrySkill} has the {CarpentryBasicUpgradeItem} for the {CarpentryTableItem} and the {CarpentryAdvancedUpgradeItem} for the {SawmillItem}.
   
 </source>
-        <target xml:space="preserve">
-最高级别的升级只能由在所选[Specialty|Specialties] 中达到最高级别的公民精心制作。与其他升级不同，这些升级可在使用指定专业人士制作配方时获得额外的成本降低。某些专业具有对应于不同手工表的不同升级级别。例如，[CarpentrySkill] 的[CarpentryTableItem] 有[CarpentryBasicUpgradeItem]，而[SawmillItem] 的[CarpentryAdvancedUpgradeItem]。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="82">
         <source xml:space="preserve">Allows citizens to upgrade their crafting tables.
 </source>
-        <target xml:space="preserve">允许公民升级自己的手工桌子。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="83">
         <source xml:space="preserve">
 The Pipe Component allows a citizen to check the status of an object’s smog output, water usage, and sewage flow.  
   
 </source>
-        <target xml:space="preserve">
-管道组件允许公民检查对象的烟雾输出，用水和污水流量的状态。  
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="84">
         <source xml:space="preserve">Smog Output
 </source>
-        <target xml:space="preserve">烟雾输出
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="85">
         <source xml:space="preserve">
@@ -773,16 +590,12 @@ Pipes can be used to redirect the flow of the air pollution. The pipes containin
 Objects that emit smog pollution only pollute when the object is active. 
 	
 </source>
-        <target xml:space="preserve">
-通过检查“烟雾输出”提示信息，公民可以找到有关当前物体的污染输出和世界[Pollution] 水平的其他信息。管道可用于重定向空气污染流。包含“烟雾输出”的管道可以具有多个输入，但在所有房间之外且在对象上方必须只能有一个开口端。散发烟雾污染的物体仅在其活动时污染。 
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="86">
         <source xml:space="preserve">Water and Sewage
 </source>
-        <target xml:space="preserve">水和污水
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="87">
         <source xml:space="preserve">
@@ -793,28 +606,22 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	
 </source>
-        <target xml:space="preserve">
-带水输入的对象和带水输出的泵通过管道系统连接。水管系统可以有多个用于水泵的输入，并且可以为每个有用水需求的对象提供多个输出。通过检查“管道组件”中的水提示信息，公民可以准确地看到一个物体正在生产或消耗多少水。如果没有足够的水产生，物体将开始变得不活动。包含污水输出的管道的功能类似于水管，但是其中包含的[Sewage] 是地面污染的来源。发明[Waste Filters|Waste Filter Item] 之后，可以将污水输出管道输送到过滤器中以减轻地面污染。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="88">
         <source xml:space="preserve">The Pipe Component allows a citizen to check the status of an object’s smog output and water usage.
 </source>
-        <target xml:space="preserve">管道组件允许公民检查对象的烟雾输出状态和用水量。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="89">
         <source xml:space="preserve">The Power Component is used to check the status of local power grid. It is also used to check the consumption of objects that require fuel to operate.
 </source>
-        <target xml:space="preserve">电源组件用于检查本地电网的状态。它也可用于检查需要加油的物体的消耗情况。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="90">
         <source xml:space="preserve">Fuel
 </source>
-        <target xml:space="preserve">燃料
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="91">
         <source xml:space="preserve">
@@ -823,16 +630,12 @@ Objects that consume fuel will have fuel input here, and each may require differ
 While operating, an object consumes fuel every second, measured in Watts (W). Each type of fuel contains a different amount of potential energy, measured in Joules (J). For every 1 Watt needed per second, 1 Joule of energy is consumed. Fuel is not consumed while the object is inactive.
   
 </source>
-        <target xml:space="preserve">
-消耗燃料的物体可以在此处输入燃料，并且每个物体可能需要不同类型的燃料才能运行。接受燃料的提示信息包含可用于为对象加油的特定项目的列表。也可以从[Storage Component] 添加燃料。在运行时，物体每秒消耗燃料，以瓦特为单位。每种燃料都包含不同量的势能，以焦耳单位。每秒每需要1瓦，就会消耗1焦耳的能量。对象不活动时不消耗燃料。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="92">
         <source xml:space="preserve">Energy Stats
 </source>
-        <target xml:space="preserve">能源统计
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="93">
         <source xml:space="preserve">
@@ -841,22 +644,17 @@ There are two types of {Power} that can be used by an object, Electric and Mecha
 Power generators that consume fuel become inactive if there are no nearby objects demanding power. There is no need to turn them on and off to conserve fuel.
   
 </source>
-        <target xml:space="preserve">
-对象可以使用两种类型的[Power]，即电气和机械。电网显示该对象所需功率的类型和可用性。如果没有足够的电源来匹配所需的功率，则对象将变为非活动状态。如果附近没有需要电力的物体，消耗燃料的发电机将不活动。无需打开和关闭它们以节省燃料。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="94">
         <source xml:space="preserve">The Power Component is used to check the supply and demand for power and fuel.
 </source>
-        <target xml:space="preserve">功率组件用于检查功率和燃料的供求。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="95">
         <source xml:space="preserve">The Repair Component allows citizens to repair tools at a {ToolBenchItem}.
 </source>
-        <target xml:space="preserve">维修组件使公民可以通过[ToolBenchItem]维修工具。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="96">
         <source xml:space="preserve">
@@ -865,32 +663,24 @@ After inserting a broken tool, the repair cost will appear. Advanced tools can b
 The owner of a Tool Bench can allow other citizens access to repair their own tools for a fee set in the {Credit Component}. When offering tool repair to the public, consumer rights must be given in the {Authorization Component}.
   
 </source>
-        <target xml:space="preserve">
-插入损坏的工具后，将显示维修费用。具有相应[Specialty|Specialties] 的公民可以用更少的资源来修复高级工具。所使用的资源可以由公民手动添加，也可以从[Storage Component] 中的链接容器中获取。工具台的所有者可以允许其他公民使用[Credit Component] 中设置的费用来维修自己的工具。向公众提供工具维修时，必须在[Authorization Component] 中赋予消费者权利。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="97">
         <source xml:space="preserve">Allows citizens to repair tools.
 </source>
-        <target xml:space="preserve">允许公民修理工具。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="98">
         <source xml:space="preserve">
 The Status Component allows citizens to see the requirements for an object to be active, and which of those requirements are met. If an object causes {Pollution}, the status component also shows the lifetime pollution production for that object.
 	
 </source>
-        <target xml:space="preserve">
-状态组件使公民可以查看激活对象的要求以及满足哪些要求。如果某个对象引起[Pollution]，则状态组件还会显示该对象的终身污染产生。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="99">
         <source xml:space="preserve">Object Status
 </source>
-        <target xml:space="preserve">对象状态
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="100">
         <source xml:space="preserve">
@@ -903,62 +693,47 @@ Each condition in the Status Component must be satisfied before an object can be
 - A working {Sewage} system
 	
 </source>
-        <target xml:space="preserve">
-必须先满足状态组件中的每个条件，然后才能激活对象。条件的一些示例包括：-包含在有效的[Room|Rooms] 中-具有足够的[Power]-有效的[Sewage] 系统。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="101">
         <source xml:space="preserve">Status Indicator
 </source>
-        <target xml:space="preserve">状态指示器
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="102">
         <source xml:space="preserve">
 When interacting with an object with a Status Component, citizens can quickly see the status of the object by checking the status indicator in the top left corner. A green circle means an object is active while a red circle means it is inactive.
 	
 </source>
-        <target xml:space="preserve">
-与具有状态组件的对象进行交互时，公民可以通过检查左上角的状态指示器来快速查看对象的状态。绿色圆圈表示对象处于活动状态，红色圆圈表示对象处于非活动状态。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="103">
         <source xml:space="preserve">Displays if an object is active or inactive and why.
 </source>
-        <target xml:space="preserve">显示对象是活动的还是非活动的，以及原因。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="104">
         <source xml:space="preserve">The Storage Component is used to manage the inventory of storage containers and link them to objects that require access to storage.
   
 </source>
-        <target xml:space="preserve">存储组件用于管理存储容器的清单并将它们链接到需要存储的对象。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="105">
         <source xml:space="preserve">Managing Storage
 </source>
-        <target xml:space="preserve">管理存储
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="106">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   
 </source>
-        <target xml:space="preserve">
-通过将一堆物品从一个容器拖到另一个容器，可以在容器之间移动库存。在拖动项目的同时按住“ Shift键”键将在容器之间移动同一项目的所有堆栈。右键单击一堆物品将允许玩家将一堆物品分成较小的数量。单击一堆项目时按住“ Ctrl键”将把该堆分成两半。某些存储容器（例如[StockpileItem]）可以包含任何类型的项目。其他存储容器（例如[StorageChestItem]）只能包含不可搬运的物品。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="107">
         <source xml:space="preserve">Consolidating and Filtering
 </source>
-        <target xml:space="preserve">链接存储容器
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="108">
         <source xml:space="preserve">
@@ -971,22 +746,17 @@ Inventory can be moved between containers by dragging stacks of items from one c
 - Holding 'Ctrl' + 'Alt' while clicking a stack of items will move all items of that type to/from the open storage container.
   
 </source>
-        <target xml:space="preserve">
-通过选中容器的复选框，可以将对象链接到存储组件中的容器。链接后，对象就可以访问容器中的所有项目，并且可以使用容器进行存储。链接存储容器时，将首先使用存储组件中最顶层的容器进行存储。可以通过单击并拖动列表中的存储显示来更改顺序。 
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="109">
         <source xml:space="preserve">Manages inventory and allows linking storage to other objects.
 </source>
-        <target xml:space="preserve">管理库存并允许将存储链接到其他对象。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="110">
         <source xml:space="preserve">An economy thriving with trade is essential to developing the technology needed to stop the meteor.
 </source>
-        <target xml:space="preserve">在贸易中蓬勃发展的经济，对于开发制止流星所需的技术至关重要。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="111">
         <source xml:space="preserve">Bank accounts are storages of {Currency} that one or more citizen can access.  Each citizen enters the world with a permanent Personal Bank Account, containing an infinite amount of their Personal Credit. Additional bank accounts can be granted and have their access-rights adjusted at a {Bank|bank component}.
@@ -994,23 +764,18 @@ Inventory can be moved between containers by dragging stacks of items from one c
 Bank accounts are useful for organizing currency, allowing access to funds by multiple parties, and storing the collection of taxes and designating who can access them.  Governments will generally setup a number of bank accounts to manage the in-flow of taxes, ensuring the funds are used as intended.  Each bank account can hold unlimited amounts of unlimited currencies, with each currency tracked separately. Clicking on the bank account will display the ledger listing all transactions to or from it, as all transactions in Eco are public.
 
 </source>
-        <target xml:space="preserve">银行账户是一个或多个公民可以访问的[Currency] 的存储。每个公民都使用永久的个人银行账户进入世界，其中包含无限量的个人信用。可以授予其他银行账户，并在[Bank|bank component] 调整其访问权限。银行账户对于组织货币，允许多方访问资金，存储税收的收集并指定谁可以使用它们非常有用。公会通常会设置一些银行账户来管理税收流入，以确保资金按计划使用。每个银行账户可以容纳无限数量的不限货币，每种货币分别进行跟踪。单击银行账户将显示分类帐，其中列出了与之进行的所有交易或从中进行的所有交易，因为《生态物语》中的所有交易都是公开的。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="112">
         <source xml:space="preserve">Bank accounts serve as a storage and separation of currency for different uses by various citizens and government entities.
 </source>
-        <target xml:space="preserve">银行账户用作货币的存储和分离，以供各种公民和公会实体使用。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="113">
         <source xml:space="preserve">
     A contract is an agreement between two citizens created at a {Contract Board|contract board component}.  The agreement can have any number of clauses, and specify combinations of work to be performed and compensation to be paid.  It is posted by the client citizen, and can be accepted by any valid citizen asynchronously.
 </source>
-        <target xml:space="preserve">
-    合同是在[Contract Board|contract board component] 创建的两个公民之间的协议。该协议可以包含任意数量的条款，并指定要执行的工作和要支付的赔偿的组合。它由客户公民发布，并且可以被任何有效公民异步接受。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="114">
         <source xml:space="preserve">Examples of contract include:
@@ -1020,15 +785,12 @@ Bank accounts are useful for organizing currency, allowing access to funds by mu
     - Custom requirements described in text, and accepted/rejected by the client upon completion.
   
 </source>
-        <target xml:space="preserve">合同示例包括：-在两个指定点之间创建一条道路。 -在给定的利率和到期日之间，两方之间的贷款。 -在特定位置建立具有给定要求的房间。 -文字中描述的自定义要求，并在完成后被客户接受/拒绝。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="115">
         <source xml:space="preserve">Contracts maintain an agreement between two citizens.
 </source>
-        <target xml:space="preserve">合同维持两个公民之间的协议。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="116">
         <source xml:space="preserve">
@@ -1041,16 +803,12 @@ The inputs and outputs can either be taken directly from the crafting table, or 
 Many recipes require labor of a specific {Skill|skills overview}.  While any citizen can start a crafting recipe or contribute ingredients, only a citizen with the required skills may add labor to it.  To form a group and have many citizens contribute to a work order while sharing in payment, {Work Parties} may be created.
   
 </source>
-        <target xml:space="preserve">
-手工制作是指通过成分，人工和/或力量来创造新产品。手工制作还会产生副产物，这些副产物会造成污染并对环境造成负面影响。它组件了经济的中坚力量，产生了对来自其周围生态系统的资源的需求，以及对个体熟练劳动力和共享服务（如[Power|Power Component] 或[Sewage]）的需求。任何具有[Crafting Component] 的表都可以创建列表中定义的产品。工艺表可以共享，每个表都具有可配置的[Authorization Component]，该功能决定谁可以访问它们，并且可以在表的[Credit Component] 中设置费用，以通过共享表赚钱。输入和输出既可以直接从制作台上获取，也可以放置在附加的[Storage Component] 中。将配料和产品放入仓库后，公民可以排队自动运行的大订单。许多配方都需要特定的[Skill|skills overview]。虽然任何公民都可以开始手工制作配方或贡献食材，但只有具有所需技能的公民才可以增加劳动。为了组成一个团体并让许多公民在分担付款时为工作订单供款，可以创建[Work Parties]。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="117">
         <source xml:space="preserve">Crafting is the creation of products by citizens at specific tables.
 </source>
-        <target xml:space="preserve">手工制作是公民在特定餐桌上创造的产品。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="118">
         <source xml:space="preserve">Currency is a means of facilitating trade, as a representation of value. Its value is entirely determined by how it is used.
@@ -1064,37 +822,30 @@ Backed currencies are much more stable. A backed currency is created at a {Mint|
 Currencies can be transferred to others in the Economy Viewer, as well as through {Trade}.  All currency is stored in a {Bank Account|Bank Accounts}.
 
 </source>
-        <target xml:space="preserve">货币是促进贸易的一种手段，是价值的代表。它们的价值完全取决于它们的使用方式。 《生态物语》中有两种类型的货币，有支持的和无支持的。无抵押货币是法定货币，每个玩家都以自己的无限数量的个人货币开始。这些在没有指定全球货币的情况下特别有用。但是，这些货币需要很多信任，即它们的所有者不会操纵其价值，因为它们的数量不受限制，并且很容易破坏使用它们的经济的稳定。支持的货币更加稳定。通过将货币支持材料转换为硬币，可以在[Mint|Mint Component] 中创建支持的货币。只能通过获取更多给定材料来创建更多货币。这对可以引入世界的货币数量提供了更大的限制，并为全球贸易奠定了更坚实的基础。通常，随着经济在整个游戏过程中的发展，世界将选择从一系列个人货币过渡到一种或多种支持货币，并且需要更多的全球贸易与合作。可以在“经济查看器”中以及通过[Trade] 将货币转移给其他人。所有货币都存储在[Bank Account|Bank Accounts] 中。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="119">
         <source xml:space="preserve">Currency is a societal construct that makes trade easier.
 </source>
-        <target xml:space="preserve">货币是使贸易更容易的社会结构。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="120">
         <source xml:space="preserve">Economy has frequently nothing whatever to do with the amount of money being spent, but with the wisdom used in spending it.
     Henry Ford
   
 </source>
-        <target xml:space="preserve">经济常常与花的钱多钱少无关，而与花钱的智慧有关系。”
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="121">
         <source xml:space="preserve">The economy comprises the actions of harvesting, production and trade among citizens, taking from the {Ecosystem|Ecosystem Overview} under the regulation of the {Government|Government Overview}. Citizens will need to ensure a smoothly running economy in order to progress technology enough to stop the meteor, without letting it run amok and destroy the planet through pollution in the process.
   
 </source>
-        <target xml:space="preserve">经济包括公民之间的采集、生产和贸易等行为，在[Government|Government Overview] 的监管下取自[Ecosystem|Ecosystem Overview]。公民们需要保证经济的平稳运行，才能使科技进步到足以阻止流星，而不至于让流星肆意妄为，并在此过程中通过污染破坏地球。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="122">
         <source xml:space="preserve">Economy Concepts
 </source>
-        <target xml:space="preserve">经济概念
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="123">
         <source xml:space="preserve">
@@ -1109,16 +860,12 @@ Currencies can be transferred to others in the Economy Viewer, as well as throug
 - {Finance}. Providing capital to other citizens to help them progress while making a profit yourself.
   
 </source>
-        <target xml:space="preserve">
-  -[Crafting]。使用工业工具创造新产品。 -[Trade]。交换具有不同专业的个人创造的商品或获得资源。 -[Transport]。将资源从一个地方移到另一个地方，并在全球范围内建立基础设施。 -[Research]。促进人类知识以改善社会。 -[Currency]。公民创造的促进经济活动的价值的代表。 -[Work Parties]。有组织的工人团体分享奖励。 -[Contracts]。两名公民之间关于劳动或其他安排的协议。 -[Bank Accounts]。具有可配置访问权限的货币容器。 -[Finance]。向其他公民提供资金，以帮助他们进步，同时自己赚钱。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="124">
         <source xml:space="preserve">The economy consists of all resource usage, trade, and technological progress by citizens.
 </source>
-        <target xml:space="preserve">经济包括公民的所有资源使用，贸易和技术进步。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="125">
         <source xml:space="preserve">Through the use of {Contracts}, Citizens in Eco can create loan and bond agreements between two parties, tracking automatically the interest payment and due date of the funds.  Loans and bonds are a great way for new citizens to collaborate with long-time citizens with more wealth in a way that benefits both parties and increases societal progress.
@@ -1129,37 +876,29 @@ If a citizen purchases a bond, they give money to the offering party which they 
 Penalties for defaulting on loans can be constructed using {Laws}, by watching for the Default on Loan/Bond trigger.  Actions can then be taken, such as repossessing property or applying other penalties and fines.
 
 </source>
-        <target xml:space="preserve">通过使用[Contracts]，《生态物语》中的公民可以在两方之间创建贷款和债券协议，从而自动跟踪资金的利息支付和到期日。贷款和债券是新公民与拥有更多财富的长期公民合作的一种好方法，既可以使双方受益，也可以促进社会进步。如果公民借贷，则供款方会给他们钱，并期望他们支付利息。如果公民购买了债券，他们便向要约方支付钱款，并期望他们可以付息。可以使用[Laws]来构建对贷款违约的罚款，方法是关注“贷款/债券违约”触发器。然后可以采取行动，例如收回土地或施加其他处罚和罚款
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="126">
         <source xml:space="preserve">Finance is the management of currency to promote progress.
 </source>
-        <target xml:space="preserve">金融是管理货币以促进进步。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="127">
         <source xml:space="preserve">Each player can affect the Reputation of any other player, which can in turn be used as a factor in laws, contracts, etc, which may query a citizens reputation and determine privileges (or lack thereof) based on the value). To set reputation on a citizen, hover over their name in chat and click their reputation listing in the tooltip (a list of all citizens can be found on the page {Current Citizens}).
 
 </source>
-        <target xml:space="preserve">每个参与者都可以影响任何其他参与者的声望，而后者又可以用作章程，合同等中的因素，可以查询公民声望并根据价值确定特权（或特权）（或特权）。要设置公民的声望，请将鼠标悬停在其姓名上，然后在提示信息中单击其声望列表（可在[Current Citizens]页面上找到所有公民的列表）
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="128">
         <source xml:space="preserve">Reputation is modified by a Network Multiplier, which is a calculate as +1 for every citizen giving you positive reputation, and -1 for every citizen giving you negative reputation.  This way, it becomes more beneficial to help many citizens and gain a wide-spread reputation than to focus narrowly on a few citizens.  Relative Reputation is another value that only takes into account citizens that you have given positive reputation to.
 
 </source>
-        <target xml:space="preserve">声望由网络系数修改，网络系数的计算方式是：给每个给你正面声望的公民+1，给每个给你负面声望的公民-1。这样，与只关注少数几个公民相比，帮助许多公民并获得广泛的声望变得更加有益。相对声望是另一个价值，它仅考虑你对自己给予正面声望的公民。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="129">
         <source xml:space="preserve">A value set by other citizens or from laws that represents your social standing.
 </source>
-        <target xml:space="preserve">由其他公民或代表你社会地位的章程而设定的一个值。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="130">
         <source xml:space="preserve">Research creates new shareable knowledge, unlocking new types of products and abilities.  It is conducted at a {ResearchTableItem} where you craft a skill book.  Once created, a skill book can be used to create an unlimited number of skill scrolls, which will unlock the specialty for a citizen that uses one.
@@ -1169,15 +908,12 @@ Each skill scroll is a one-time-use consumable that unlocks a new {Specialty|spe
 Skill books are some of the most difficult items to create, and citizens will typically need to collaborate to acquire all the various resources and labor required to produce them.  As such, research projects are especially well-suited for {Work Parties}, as citizens can use them to share the work needed to create them along with the knowledge reward upon completion.
   
 </source>
-        <target xml:space="preserve">研究创造了可共享的新知识，从而释放了新类型的产品和能力。它是在你制作技能手册的[ResearchTableItem] 上进行的。创建后，技能书可用于创建无限数量的技能卷轴，这将为使用该技能卷轴的公民解锁专业知识。每个技能卷轴都是一次性使用的消耗品，可在使用它的任何人中解锁新的[Specialty|specialties]，然后必须通过[Skills|skills overview] 系统进行升级以认领其权利。获得新的技能卷轴还会使公民受益于一套[Property Claim Papers|Property]，这使他们可以在获得技能时认领更多土地。技能书是最难创建的一些内容，公民通常需要协作以获取制作它们所需的所有各种资源和劳动力。因此，研究项目特别适合[Work Parties]，因为公民可以使用它们来共享创建它们所需的工作以及完成时的知识奖励。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="131">
         <source xml:space="preserve">Research creates new shareable knowledge, unlocking new types of products and abilities.
 </source>
-        <target xml:space="preserve">研究创造了可共享的新知识，释放了新类型的产品和能力。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="132">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
@@ -1189,15 +925,12 @@ Skill books are some of the most difficult items to create, and citizens will ty
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 
 </source>
-        <target xml:space="preserve">与你的同胞进行交易在《生态物语》中至关重要，因为每个玩家都有一套[Specialties]，他们可以在与其他擅长职业的其他公民进行交易时最有效地做出贡献。 -可以在[Store Component] 设置交易，列出你想要的不同商品的买/卖价格。然后，公民可以在不存在的情况下异步地向你购买和出售商品。 -劳务交易可以通过[Contracts] 和[Work Parties] 进行，允许玩家在商定的条件下进行付款工作。这也可以异步执行。 -货币交易可以在[Currency Exchange|Exchange Component] 进行，其中列出了不同货币交换的买/卖价格。 -[Transport] 促进了贸易，在你的新兴文明中心之间建立运输基础设施将极大地提高贸易能力。 -贸易受公会[government overview] 设定的[Taxes] 的约束，这可以促进或减少某些贸易的价值。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="133">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.
 </source>
-        <target xml:space="preserve">具有不同能力和拥有不同商品的公民之间的贸易是经济的支柱。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="134">
         <source xml:space="preserve">With resources spread out through the world and the locations where they are collected and processed differing from where they’re used, transport becomes a critical factor to success in Eco.
@@ -1207,15 +940,12 @@ To efficiently transform materials, you’ll need to create vehicles to carry th
 Building roads between villages and resource caches will take time and the effort of many citizens, and is a great candidate for public works projects funded by {Taxes} and built using {Work Parties}.  As the world progresses in technology, more and more transportation infrastructure will be created to aid the flow of commerce, eventually growing to a point where the road construction and vehicle usage will create an impact on the environment.  Careful management of this influence will be key to preserving the ecosystems that they pass through.
 
 </source>
-        <target xml:space="preserve">随着资源分布在世界各地以及资源的收集和加工地点与使用地点不同，运输已成为生态成功的关键因素。为了有效地转换材质，你需要制造车辆来运送它们，而这些车辆需要将地面压平成道路。使用[StoneRoadToolItem] 可以平整地面并使其可用于车辆，而使用坡道则可以使车辆可以平缓行驶。更高阶的车辆将要求先进的道路有效行驶，并且随着新技术的出现，道路需要定期进行升级。在村庄之间建立道路和资源储备库将花费时间和许多公民的精力，并且是[Taxes] 资助并使用[Work Parties] 进行的公共工程项目的理想选择。随着世界技术的进步，将创建越来越多的运输基础设施来辅助商业流通，最终发展到道路建设和车辆使用会对环境产生影响的地步。认真管理这种影响将是保护它们所通过的生态系统的关键。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="135">
         <source xml:space="preserve">With resources and their usage spread out across the world, transforming the world by building transportation infrastructure becomes necessary.
 </source>
-        <target xml:space="preserve">随着资源及其使用遍及全球，通过建设交通基础设施来改变世界变得必要。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="136">
         <source xml:space="preserve">A Work Party is an agreement among multiple citizens to perform work.  They are started by an individual citizen by visiting a {Contract Board|Contract Board Component} after creating a work order.
@@ -1237,21 +967,17 @@ Payment can take a variety of forms:
 The economy of Eco is focused not just on trading of goods but trading of labor, and work parties make it easy to farm out many kinds of work to the general populace.
   
 </source>
-        <target xml:space="preserve">工作组是多个公民之间执行工作的协议。创建工作订单后，他们可以通过访问[Contract Board|Contract Board Component] 由个人公民启动。发布工作组的公民可以定义工作的各种参数，包括：-要完成的工作订单。 -想要加入工作组的公民需要什么。 -将向参加活动的人支付什么费用。 -付款将如何分配。 -付款将如何分配。工作组对于执行[Research] 尤其有用。公民可以建立一个研究项目，花费大量资源，并为其配备一个工作组。然后，公民可以自动加入工作组（即使发行公民是脱机的，如果他们满足指定的要求），也可以开始执行任务。付款可以采用多种形式：-[Currency]，根据立即执行或完成时执行的工作量进行分配。 -[Reputation]，由工作组创建者提供给工人（取决于每天可享有的声望限制）。 -特定专业的知识（与阅读技能卷的效果相同）。为此，工作团队的创建者必须拥有该专业的技能手册，或者必须在该团队的工作订单之一中制作。 -授予[Title]，这可以赋予他们访问属性和其他能力的新特权。生态经济不仅关注商品贸易，还关注劳动力贸易，而工作团体使向普通民众提供多种工作变得容易。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="137">
         <source xml:space="preserve">Work Parties are joint agreements by a number of players to perform a given task, with compensation being distributed in various ways.
 </source>
-        <target xml:space="preserve">工作组是许多参与者共同执行特定任务的共同协议，并以各种方式分配报酬。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="138">
         <source xml:space="preserve">The living biome of the world, providing resources which humans must use to survive.
 </source>
-        <target xml:space="preserve">世界上的生物群落，提供人类赖以生存的资源。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="139">
         <source xml:space="preserve">
@@ -1262,16 +988,12 @@ Biomes are ecosystems within the global ecosystem, and within biomes there are s
 Climate change may shift the boundaries of biomes, displacing communities-- some species will survive and adapt, but others will not be so resilient. Direct displacement of soil and other habitat destruction from activities like construction, farming, mining, and logging will also have an impact on species within biomes to differing degrees. Species of plants or animals might not only prefer particular biomes, but particular parts of sub-biomes, which will mean a greater impact if those highly localized areas are altered or destroyed. Resilient and adaptive species will be able to thrive across biome boundaries as they are altered, but those same species may become a threat to more sensitive plants or animals in the new biomes they are introduced to.
  
 </source>
-        <target xml:space="preserve">
-地球上巨大的生物多样性和丰富性可以大致归类为生物群落。生态中的生物群落是世界上属于降水和温度特定范围的区域。由于这些模拟的物理差异，不同种类的微生物，植物，真菌和动物能够在不同的生物群落中生存和繁衍。 《生态物语》中的每个生物群落都拥有一套独特的资源，供玩家发现和提取，以建立并促进他们的社会。每个生物群落内的生活社区之间通常都有相互依存的关系，而这些相互联系是与栖息地，饮食和土壤联系在一起的，而这些联系又由于存在的气候和地球资源而产生。生物群落是全球生态系统内的生态系统，有时在生物群落内还有进一步的划分或“亚生物群落”，例如高沙漠，高草草原，冻原上的冰川冰层或海洋海岸。生物群落和亚生物群落是连续的单元，其中许多单元对它们可以位于附近或内部的生物群落有限制。随着时间的流逝，由于玩家的影响而导致的环境变化，生物群落有可能被彻底重塑。气候变化可能会改变生物群落的边界，使社区流离失所-一些物种将生存和适应，而另一些物种则不会如此灵活。建筑，耕作，采矿和伐木等活动对土壤的直接置换和其他栖息地破坏也将对生物群落内的物种产生不同程度的影响。动植物物种不仅可能喜欢特定的生物群落，而且更喜欢亚生物群落的某些部分，如果这些高度局部的地区被改变或破坏，这将意味着更大的影响。弹性和适应性物种将能够随着其改变而跨越生物群落边界，但是这些相同的物种可能会在引入它们的新生物群落中成为对更敏感的动植物的威胁。
- 
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="140">
         <source xml:space="preserve">Biomes in Eco:
 </source>
-        <target xml:space="preserve">《生态物语》中的生物群落:
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="141">
         <source xml:space="preserve">Ocean : The parts of the ocean on the continental shelves, abundant with life.
@@ -1294,21 +1016,17 @@ High Desert : A geologically uplifted part of the desert with species more toler
 Cold Steppe : A slightly colder grassland, often characterized by even fewer trees and larger open spaces.  
   
 </source>
-        <target xml:space="preserve">海洋：大陆架上的海洋部分，充满生命。深海：海洋中最深的部分，拥有最大的海洋物种和鱼类迁徙种群。冷海岸：较冷气候下的海滩和浅水区。温暖的海岸：温暖气候下的海滩和浅水区。湿地：一种独特的生物群落，其特征是土壤被淡水或微咸水浸透。草原：一个生物群落，那里有足够的水来支撑草，但树木不多。沙漠：最干燥的生物群落，而在《生态物语》中，目前也是最热的。寒冷的森林：足够湿润以支撑茂密的树木覆盖物的生物群落，而寒冷的足以使针叶树占主导地位。温暖的森林：一个生物群落，足够湿润以支撑茂密的树木，并足够温暖，以致阔叶树占主导地位。雨林：一种湿热的生物群落，为拥有丰富动植物生命的森林提供支持。针叶林：一种寒冷且有些干燥的生物群落，支撑着针叶树的稀疏森林。苔原：一个非常寒冷的生物群落，不能支撑树木，但拥有独特的动植物群落。冰：这片土地上最寒冷的地区，被冰川冰覆盖。当前，《生态物语》中还存在一些亚生物群：高沙漠：沙漠中的地质抬升部分，其物种更能耐寒冷，并享有由侵蚀引起的陡峭悬崖。寒冷草原：草原略冷，通常以更少的树木和更大的开放空间为特征。  
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="142">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve">动植物的生存系统为人类的生存提供了手段。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="143">
         <source xml:space="preserve">Graphs
 </source>
-        <target xml:space="preserve">图表
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="144">
         <source xml:space="preserve">
@@ -1317,16 +1035,12 @@ Each Eco world stores every action in the game and monitors the progress of ever
 Graphs are most useful for comparing the states of various metrics and viewing them overtime. As such, they’re especially useful for determining the results of laws and regulations in retrospect, by studying how things changed after they were implemented.  They are also useful for extrapolating into future effects, projecting the rate at which things are changing (i.e., population dropping as a result of deforestation) and making changes before they occur. Reading, composing, and understanding graphs is a very powerful tool for the government, and citizens are given the tools to craft graphs that support or refute arguments and present them to their fellow citizens directly on discussions for civic actions.
 
 </source>
-        <target xml:space="preserve">
-每个《生态物语》世界都存储游戏中的每个动作，并监视模拟各个方面的进度。数据存储在几个主要类别中，特别是生态系统和经济。随着参与者的行动或生态系统的变化，它将以对公民可见的图形表示。图形对于比较各种指标的状态并随时间查看它们最有用。因此，通过研究事物在实施之后的变化，它们对于回顾章程和法规的结果特别有用。它们还有助于推断未来的影响，预测事物变化的速度（即因森林砍伐而导致的人口减少）并在变化发生之前进行更改。阅读，撰写和理解图表对于公会来说是一个非常强大的工具，为公民提供了制作图表的工具，这些图表可以支持或反驳论点，并在讨论公民行为时直接将其呈现给同胞。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="145">
         <source xml:space="preserve">Heatmaps
 </source>
-        <target xml:space="preserve">热图
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="146">
         <source xml:space="preserve">
@@ -1335,16 +1049,12 @@ Eco worlds are varied places, with many different biomes and locations of human 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 
 </source>
-        <target xml:space="preserve">
-《生态物语》世界的地方千差万别，有许多不同的生物群落和人类发展及环境影响的位置。要查看世界各地的变化情况，可为游戏中的所有各种世界特效提供热图。可以通过热图查看诸如公民活动，人口比率，污染率，温度，湿度等数十种值，并记录随时间变化的变化，可以回放并用于科学论证。玩家可以通过两种方式查看这些内容：通过游戏中的小地图，还可以在游戏中显示彩色地形。其次，可以在网络浏览器中查看它们，并利用其随时间回放的能力。每10分钟（可配置）将每个热图的快照存储在服务器数据中，公民可以查看热图随时间变化的时间推移视图。这对于衡量特定位置的影响并确定构建基础结构和新闻解决方案的最佳途径至关重要。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="147">
         <source xml:space="preserve">Map
 </source>
-        <target xml:space="preserve">小地图
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="148">
         <source xml:space="preserve">
@@ -1353,22 +1063,17 @@ The map is a powerful tool within the game that serves many purposes: navigation
 Currently we’re working on adding in-game designation of property and districts, as well as specifying land areas for work parties and contracts, allowing for example citizens to highlight in-game the areas they wish to hire others to plow a field, or build a road, etc. This will greatly open up the ability for the labor market, letting citizens be much more specific in an easier way when designating where they would like work to be performed.
 
 </source>
-        <target xml:space="preserve">
-迷你地图是游戏中功能强大的工具，可用于许多目的：导航，计划，数据查看，属性定位等。可以启用它来查看游戏的各个世界层（热图），并使用渐变色突出显示人口高/低，污染，公民活动等高/低的区域。可以手动添加标记，也可以在全球范围内为所有公民添加标记，以指向特定地点，以帮助协调人类活动。这些标记还用于自动引导公民从事动态工作，指定在合同中应在何处修建道路，在何处运送货物以进行运输等。目前，我们正在努力在游戏中添加对土地和地区的指定，并为工作方和合同指定特定的土地区域，例如允许公民在游戏中突出显示他们希望雇用其他人耕种的区域，或修建道路等。这将极大地开放劳动力市场的能力，使公民在指定他们希望工作的地点时以更轻松的方式更加明确。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="149">
         <source xml:space="preserve">Data on the ecosystem and economy can provide valuable insights into the actions of society and help guide future decisions.
 </source>
-        <target xml:space="preserve">动植物的生存系统为人类的生存提供了手段。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="150">
         <source xml:space="preserve">The true meaning of life is to plant trees, under whose shade you do not expect to sit.\n– Nelson Henderson
 </source>
-        <target xml:space="preserve">生命的真正含义是种下你不希望坐在树荫下的树木。“”\n–尼尔森·亨德森“
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="151">
         <source xml:space="preserve">
@@ -1378,43 +1083,33 @@ The ecosystem is an end unto itself in Eco, and its continued prosperity is the 
 The ecosystem in Eco runs on a continuous simulation, active as long as the server is running, regardless of whether players are in the game or not. Each simulated plant and animal are growing, consuming food sources and reproducing. It is the sole source of materials from which players must build their society, and the process of extracting them will affect it greatly. Chopping down a forest might destroy a creature’s habitat, driving them to extinction. Mine tailings may pollute nearby rivers and lakes, poisoning farms that rely on it. The actions players take in Eco affect their environment, and players will need to understand the impact they’re having in order to thrive and stop the meteor. It is not an option to leave the ecosystem in a pristine, untouched state; the meteor ensures that choice will also lead to the ecosystem’s destruction. To save it, citizens must take from it, building a society that has the power to stop the meteor, while also having the restraint to not destroy the ecosystem in the process.
 
 </source>
-        <target xml:space="preserve">
-
-生态系统本身就是生态系统的终结，它的持续繁荣是游戏的主要目标，同时也伴随着经济发展。也就是说，生态系统始于胜利状态，玩家必须使用其资源而不会使其陷入失败状态，这将意味着对人类的破坏。无论服务器是否在游戏中，《生态物语》中的生态系统都在连续模拟中运行，只要服务器在运行，它就一直处于活动状态。每个模拟的动植物都在生长，消耗食物并繁殖。它是玩家必须建立自己的社会的唯一材料来源，而提取它们的过程将对其产生极大的影响。砍伐森林可能会破坏生物的栖息地，使它们灭绝。矿山尾矿可能污染附近的河流和湖泊，使依赖它的农场中毒。玩家在“生态”游戏中采取的行动会影响他们的环境，玩家需要了解他们所拥有的影响才能蓬勃发展并阻止流星。不能将生态系统保持在原始，未受破坏的状态。流星确保选择也将导致生态系统的破坏。为了保护它，公民必须从中受益，建立一个有权制止流星的社会，同时也要有制止其在此过程中不破坏生态系统的约束力。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="152">
         <source xml:space="preserve">Gameplay
 </source>
-        <target xml:space="preserve">游戏玩法
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="153">
         <source xml:space="preserve">The ecosystem is the foundational system which citizens must understand and contend with. From growing large {Farms|Farming} and {Mines|Mining} to understanding the impact of {Pollution} through study, the impact of citizens on the ecosystem will determine the success or failure of player decisions. Understanding how it functions using in-game {Data} becomes a key requirement of survival. Unlike the {Economy|Economy Overview} and the {Government|Government Overview}, the ecosystem is not a citizen construct – its behavior is absolute, nothing about how it functions can be changed by fiat the way the economy can. In this sense it’s a reality check, the place where the conflicting biases and beliefs of citizens collide and reveal the true consequences.
 </source>
-        <target xml:space="preserve">生态系统是公民必须理解和抗衡的基础系统。从不断发展的[Farms|Farming] 和[Mines|Mining] 到通过研究了解[Pollution] 的影响，公民对生态系统的影响将决定玩家决策的成败。借助游戏中的[Data] 了解其功能将成为生存的关键条件。与[Economy|Economy Overview] 和[Government|Government Overview] 不同，该生态系统不是公民构建的系统–它的行为是绝对的，其运行方式无法通过经济方式改变而改变。从这个意义上讲，这是一个现实检查，在这里，公民的偏见和信念发生冲突，并揭示出真正的后果。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="154">
         <source xml:space="preserve">Between Economy and Government
 </source>
-        <target xml:space="preserve">在经济与公会之间
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="155">
         <source xml:space="preserve">As citizens progress society, they must beware the ‘Tragedy of the Commons’; that giving a population unfettered access to a common resource will frequently result in its destruction. To prevent this, citizens must organize, deciding rules for the common good through {Laws} and other civic regulations which may limit the individual but allow the group to survive. This conflict, the individual vs the group, forms the heart of the challenge of building a civilization.
   
 </source>
-        <target xml:space="preserve">随着公民社会进步，他们必须提防“公地悲剧”。赋予人们不受限制地使用共同资源的机会，经常会导致其遭到破坏。为了避免这种情况，公民必须组织起来，通过[Laws] 和其他公民法规来决定共同利益的规则，这些规则可能会限制个人，但允许团体生存。个人与群体之间的冲突组件了建设文明挑战的核心。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="156">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve">动植物的生存系统为人类的生存提供了手段。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="157">
         <source xml:space="preserve">
@@ -1425,16 +1120,12 @@ Farmers will need to pay attention to the resources and health of their soil, av
 Farming is a big activity in Eco that we want to enhance and expand as we move forward with development. Balancing and storage will be a core part of farming improvements to start, as we make sure that Eco societies generate an appropriate demand from farmers to fuel technological growth, and that the storage objects and mechanics exist to support these demands. Farming itself has many possible improvements and expansions, among them developing and modifying seeds and organisms to be more productive or resistant to pollutants, or other environmental factors.
   
 </source>
-        <target xml:space="preserve">
-农业提供了一种方法，可以将对人类最有用的植物品种带入全球，并提供全球范围的粮食供应。农业也可以集中在对其他工业用途有用的植物上，例如用作潜在可再生能源的生物燃料。农民将需要注意其土壤的资源和健康，避免消耗和污染。像[CompostFertilizerItem] 这样的肥料和像[SoilSamplerItem] 这样的监测土壤资源的方法将是保持农田生产力的重要工具。随着社会对食物和燃料需求的增加，各种车辆，存储技术和更强大的手动工具将使玩家能够扩大他们的农业活动。农业是生态中的一项重要活动，我们希望在发展中不断发展壮大。平衡和存储将是开始进行农业改良的核心部分，因为我们确保生态社会能为农民带来适当的需求以推动技术发展，并确保存在存储对象和机械来满足这些需求。农业本身有许多可能的改进和扩展，其中包括发展和改良种子和生物，使其更具生产性或对污染物或其他环境因素产生抵抗力。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="158">
         <source xml:space="preserve">Soil
 </source>
-        <target xml:space="preserve">泥
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="159">
         <source xml:space="preserve">
@@ -1443,48 +1134,36 @@ The soil of Eco contains nutrients that allow plants to grow and thrive: too muc
 As we increase the dependencies of the animals on the plant layers, we can have those parts of the ecosystems further affect the soil as species that consume plants can also remove nutrients from the soil. Another addition that can be considered is how topsoil exists within Eco: currently it’s purely cosmetic and tied to the biome of the area, but in each biome the topsoil is a unique and valuable resource compared to the dense clay and dirt below.
 
 </source>
-        <target xml:space="preserve">
-生态土壤含有能够使植物生长和繁衍的营养素：任何给定类型的过多或过少都会改变天然植物和农场植物的产量和生长速度。随着植物的生长，它们从土壤中吸收养分，消亡后将其返回，使世界进入自然平衡状态。玩家通过收割，砍伐森林，采矿或引入污染从土壤中去除养分的方式将植物从环境中清除，从而影响这些变化。玩家可以在自己的土地上使用肥料重新引入养分或修改现有比例。随着我们增加动物对植物层的依赖性，我们可以使生态系统的那些部分进一步影响土壤，因为食用植物的物种也可以从土壤中去除养分。另一个可以考虑的问题是表层土壤在《生态物语》中的存在方式：目前，表层土壤是纯粹的化妆品，并与该地区的生物群落相关，但是与下面的致密粘土和污垢相比，在每个生物群落中，表层土壤都是一种独特而宝贵的资源。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="160">
         <source xml:space="preserve">The cultivation of plants for food, fibers, and raw materials in production.
 </source>
-        <target xml:space="preserve">动植物的生存系统为人类的生存提供了手段。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="161">
         <source xml:space="preserve">
 The ground beneath you is host to a huge variety of resources, such as rocks, metals, and other mineral deposits. Different types of rock host different kinds of mineral deposits or lend themselves to trapping other resources like petroleum. Due to the immense complexity of earth resources in reality and the necessity in Eco of providing players with a predictable balance of raw materials to start with, rocks and their deposits are generated based on Biomes. Each biome comes with a suite of associated rocks and deposits that sprawls out beneath it in layers.
 
 </source>
-        <target xml:space="preserve">
-你下方的地面蕴藏着多种资源，例如岩石，金属和其他矿藏。不同类型的岩石拥有不同种类的矿床，或者有助于捕获石油等其他资源。由于现实中地球资源的巨大复杂性以及在《生态物语》中必须为玩家提供可预测的原材料平衡，因此，岩石及其沉积物是根据生物群落产生的。每个生物群落都带有一系列相关的岩石和沉积物，这些岩石和沉积物在其下方分层展开。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="162">
         <source xml:space="preserve">Mining by Hand
 </source>
-        <target xml:space="preserve">手工开采
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="163">
         <source xml:space="preserve">
 To mine ore, first you must locate it. Ores in Eco are each hosted in particular host rocks, so learning which rocks have the type of ore you want and then digging near rocks of those type is a good way to start. Use a {WoodenShovelItem} or better to dig away soil from the surface or start digging into a hill from the side. Once you hit rock you want to go through, you'll need to use a pickaxe like the {StonePickaxeItem} to break it. When breaking rocks with the pickaxe, sometimes you'll break off a larger piece of rock that needs to be hit again to break into pieces small enough to pick up. It's a good idea to pick up rock as you break it, and stack it elsewhere for use, preferably in a {StockpileItem} or vehicle you're using to transport your ore like a {WoodCartItem}.
 
 </source>
-        <target xml:space="preserve">
-要开采矿石，首先必须找到它。 《生态物语》中的矿石分别容纳在特定的宿主岩石中，因此了解哪种岩石具有所需的矿石类型，然后在这些类型的岩石附近进行挖掘是一个很好的起点。使用[WoodenShovelItem] 或更好的方法从表面挖土，或从侧面开始挖土。碰到岩石后，就需要使用[StonePickaxeItem] 之类的镐来破坏它。用镐将岩石破碎时，有时会破碎一块较大的岩石，需要再次将其击碎才能破碎成足以捡起来的小块。最好在破碎岩石时将其捡起，然后将其堆放在其他地方使用，最好放在[StockpileItem] 或你用来运输矿石的车辆中，例如[WoodCartItem]。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="164">
         <source xml:space="preserve">Mineral Processing
 </source>
-        <target xml:space="preserve">选矿
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="165">
         <source xml:space="preserve">
@@ -1495,16 +1174,12 @@ Concentration: Concentration is a way to separate the desired metals in an ore r
 Smelting: Once you have precious ore concentrate, you can at last smelt it into metal products like {IronBarItem} at a {BloomeryItem} or using a more advanced smelting technology. 
 
 </source>
-        <target xml:space="preserve">
-收集了大量金属矿石后，你需要对其进行加工，然后才能使用它来加工金属产品。这是一个肮脏且昂贵的过程，因此对其进行优化以及由此产生的副产品将是一个持续不断的考虑问题。矿物加工的三个主要步骤是：粉碎：粉碎是指将岩石压碎成较小尺寸的颗粒，然后可以进一步加工。矿石类型的碎石是该过程的主要副产品。浓缩：浓缩是从矿石中分离出矿石中所需金属的一种方法。这个过程从来都不是完美的，不可避免地会导致大量废石的产生，其中仍然含有微量的游离金属。这种带有重金属痕迹的消耗石称为[TailingsItem]。 [CopperOreItem] 和[GoldOreItem] 需要化学浸出和湿法处理才能从其主体岩石中分离出来，因此在浓缩过程中会产生更多污染和易挥发的[WetTailingsItem]。熔炼：一旦有了贵重的矿石精矿，你最终可以将其熔炼成[BloomeryItem] 的金属产品，例如[IronBarItem] 或使用更先进的熔炼技术。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="166">
         <source xml:space="preserve">The extraction of ore, coal, and other valuable minerals from the ground.
 </source>
-        <target xml:space="preserve">动植物的生存系统为人类的生存提供了手段。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="167">
         <source xml:space="preserve">
@@ -1513,32 +1188,24 @@ As citizens burn fuel to cook or generate power, smelt metals, process sewage, a
 To ensure the survival of ecosystems and preserve resources like soil and water, players will have to manage and contain the sources of pollution their civilization creates. In some cases, spills or deadly concentrations will be inevitable, and then remediation and storage may be the only option to return the land to an unharmed state. 
 
 </source>
-        <target xml:space="preserve">
-当公民燃烧燃料做饭或发电，冶炼金属，处理污水以及从事无数其他必要的工业活动时，常见的副产品是污染。污染是指任何引入到环境中都可能充当污染物或毒物的物质。在“《生态物语》”中，污染的来源很多，种类也多种多样，其中有些比其他污染更有效。重金属会污染土壤，影响土壤中可用的养分以及动植物的健康。水可以迅速传播污染物并增加其影响的规模。炉灶或发电厂会无形地或明显地倒入空气污染，这会增加温室气体并影响空气质量，并因酸雨而倒入地下。为了确保生态系统的生存并保护土壤和水等资源，参与者将不得不管理和控制其文明所造成的污染源。在某些情况下，不可避免地会发生泄漏或致命的集中，然后补救和储存可能是使土地恢复未受破坏状态的唯一选择。 
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="168">
         <source xml:space="preserve">Ground Pollution
 </source>
-        <target xml:space="preserve">地面污染
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="169">
         <source xml:space="preserve">
 Once released into the soils and water table, ground pollutants are not easy to stop or remove. Various materials in Eco are sources of ground pollution, most notably tailings from mining and garbage from crafting and other player activities. Pollution spreads as a gradient that increases in concentration with time if the source of pollutants remains or increases. When the source of pollutants is removed from contact with the ground, ground pollution spreads and dissipates with time.
 
 </source>
-        <target xml:space="preserve">
-一旦释放到土壤和地下水位中，地面污染物就不容易停止或清除。 《生态物语》中的各种材料都是地面污染的来源，最主要的是采矿产生的尾矿以及手工艺和其他玩家活动产生的垃圾。如果污染物的来源保持不变或增加，则污染会随着浓度的增加而逐渐增加。当污染物源与地面接触时，其污染会随着时间的流逝而扩散和消散。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="170">
         <source xml:space="preserve">Air Pollution
 </source>
-        <target xml:space="preserve">空气污染
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="171">
         <source xml:space="preserve">
@@ -1547,16 +1214,12 @@ Many player activities can create harmful emissions which if released into the a
 Concentrations of air pollution will fall back to the ground as acid rain, which we simulate using the air pollution and local rainfall quantities. 
 
 </source>
-        <target xml:space="preserve">
-许多玩家的活动会产生有害的排放物，如果释放到大气中，则会产生空气污染。在具有二氧化碳输出的物体上进行手工制作或与它们一起运行发电机，都会造成局部和全球污染水平。在很长一段时间内，全球二氧化碳水平会导致全球变暖效应，进而影响海平面。有一些自然的汇和一些诸如二氧化碳之类的污染物的吸入口，例如森林。空气污染的浓度将以酸雨的形式回落到地面，我们使用空气污染和当地的降雨量进行模拟。 
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="172">
         <source xml:space="preserve">Water Pollution
 </source>
-        <target xml:space="preserve">水污染
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="173">
         <source xml:space="preserve">
@@ -1565,16 +1228,12 @@ Water is a medium through which pollution spreads more quickly and further, rush
 Removal of the source is the only way to currently stop water pollution, but clean-up and remediation strategies are features we are considering for the future.
 
 </source>
-        <target xml:space="preserve">
-水是一种媒介，污染通过该媒介可以更快，更广泛地传播，向下游涌入并在湖泊或海洋中开花。水中的污染通常来自附近的地面污染源，但在空气污染严重的地区，也可能通过酸雨技工进入水中。去除水源是目前阻止水污染的唯一方法，但是清理和修复策略是我们未来考虑的功能。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="174">
         <source xml:space="preserve">Containment
 </source>
-        <target xml:space="preserve">遏制
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="175">
         <source xml:space="preserve">
@@ -1583,16 +1242,12 @@ In many cases, there is no perfect solution to deal with polluting materials. Sp
 Containment mechanics are the forefront of features we want to improve related to the Pollution group of features in Eco. Players should be using containment to deal with the vast quantities of tailings and garbage that their societies produce.
 
 </source>
-        <target xml:space="preserve">
-在许多情况下，没有完美的解决方案来处理污染物质。必须留出空间来存储各种污染物，并且必须以防止污染物重新进入周围环境的方式来存储污染物。这是对《生态物语》行业的环境管理至关重要的挑战。目前，尾矿力学需要在地下进行深层存储。随着进一步的发展，这将得到改善。遏制机制是我们要改进的功能的最前线，与《生态物语》中的污染功能组有关。玩家应该使用收容措施来处理其社会产生的大量尾矿和垃圾。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="176">
         <source xml:space="preserve">The introduction of harmful contaminates into the natural environment that can cause adverse changes.
 </source>
-        <target xml:space="preserve">动植物的生存系统为人类的生存提供了手段。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="177">
         <source xml:space="preserve">Constitutional Articles define how things happen in the government: who can pass laws, set taxes, change the rules, etc.  It can also define certain actions as needing an election, by specifying an {Election Process|Election Processes} inside them.  
@@ -1602,15 +1257,12 @@ Constitutional Articles can be added in two places.  On a {CapitolItem}, you can
 Defining the rules of the government is very important for keeping it a stable, society-supporting structure.  Governments can be granted a great deal of power over the world with laws, and there's a danger of this power being abused.  By setting a system of checks and balances, citizens can design a government that can undergo a number of changes, including changes of leadership, while maintaining the power to effect positive changes in the world.
 
 </source>
-        <target xml:space="preserve">公约条款定义了公会中的事情的发生方式：谁可以通过章程，设定税率，更改规则等。它还可以通过在其中指定[Election Process|Election Processes] 来定义某些需要推选的行为。公约条款可以在两个地方添加。在[CapitolItem] 上，你最多可以添加三个，在[AmendmentsItem] 上，每个项目可以最多添加10个。定义公会规则对于保持公会稳定，支持社会的结构非常重要。可以通过章程授予公会在世界范围内的大量权力，并且存在滥用这种权力的危险。通过建立制衡机制，公民可以设计出可以进行许多变革的公会，包括领导层的变革，同时保持影响世界积极变革的力量。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="178">
         <source xml:space="preserve">A set of rules about how the government works.
 </source>
-        <target xml:space="preserve">一套有关公会运作方式的规则。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="179">
         <source xml:space="preserve">A constitution is a founding document defining how a society will be governed.  A constitution must be created before any other government object. They are created at a {Capitol|CapitolItem}.
@@ -1623,14 +1275,12 @@ If there is already a constitution active, a new constitution can be proposed to
  
 Note: A forthcoming update of Eco will allow multiple concurrent governments.
 </source>
-        <target xml:space="preserve">公约是定义社会治理方式的基础文件。必须在任何其他公会反对之前制定公约。它们是在[Capitol|CapitolItem] 中创建的。颠覆公会设立公约台后，可以通过打开公约并单击“批准”来批准公约。只要没有其他公约，公会将立即成立。如果已经有一个有效的公约，则新的公约只能在其房间的房屋价值大大超过现有公约的情况下取而代之，具体取决于服务器设置。注意：即将发布的《生态物语》更新将允许多个并发公会。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="180">
         <source xml:space="preserve">The founding document for a government.
 </source>
-        <target xml:space="preserve">公会成立文件。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="181">
         <source xml:space="preserve">
@@ -1643,16 +1293,12 @@ Demographics are defined at a {Census Bureau|CensusBureauItem}.
 Demographics can also have wages set on them. Wages are paid periodically as long as a citizen remains within the demographic.
 
 </source>
-        <target xml:space="preserve">
-  群体资料是在公会中创建的公民阶层。然后可以在你可以指定公民的任何地方（权限，章程等）使用这些功能。例如，公民可以定义群体的“伐木工人”，其中只会包含伐木技能水平为3或更高的用户。然后，可以制定仅允许“伐木工人”砍伐老树的章程。群体信息在[Census Bureau|CensusBureauItem] 中定义。群体也可以设定工资。只要公民仍在人口中，便定期支付工资。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="182">
         <source xml:space="preserve">Defines a set of citizens matching some criteria.
 </source>
-        <target xml:space="preserve">定义一组符合某些条件的公民。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="183">
         <source xml:space="preserve">Districts are created by players at a {ZoningOfficeItem} and can be used as areas that are specified by laws.
@@ -1662,15 +1308,12 @@ A district is a selected area of land, non-contiguous, which players can adjust 
 Districts can be used to designate where actions are allowed with laws. A law can be created, for example, players can create a law that prevents chopping trees in a 'Protected Zone' district.
 
 </source>
-        <target xml:space="preserve">区域是由玩家在[ZoningOfficeItem] 创建的，可以用作章程规定的区域。地区是选定的土地区域，不连续，玩家可以随意调整。地区包含在“地区地图”中，世界上可以有多个地区地图。但是，在每个地区地图中，任何地区都不能重叠。可以使用地区来指定章程允许采取行动的地方。例如，可以制定章程，以防止在“保护区”区域创建砍伐树木。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="184">
         <source xml:space="preserve">A defined section of land, which can be referenced by laws and other systems.
 </source>
-        <target xml:space="preserve">定义的土地部分，章程和其他系统可以参考。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="185">
         <source xml:space="preserve">Elected Titles are government officials that can be assigned permissions to manage government policy. These titles can be used anywhere you can specify a citizen (permissions, laws, etc.). 
@@ -1692,15 +1335,12 @@ While creating an elected title, the following permissions can be assigned:
 Elected titles can be assigned wages that are paid periodically to the citizens that hold the title.
   
 </source>
-        <target xml:space="preserve">当选头衔是公会要职，可以分配其管理公会政策的权限。这些头衔可在你可以指定公民的任何地方使用（权限，章程等）。选择的头衔在[GovernmentOfficeItem] 中创建。定义当选头衔时可以设置几个条件：-拥有头衔持有人任期限制的[Election Process|Election Processes]-可以同时拥有当选头衔的公民数量-一旦当选为职务-如果职务持有人被免职，将接任头衔的继任人在创建当选职务时，可以分配以下权限：-将税率设置为[TreasuryItem]-可以将资金用于金库银行账户-建立免于个人财富计算的公会银行账户的公会银行特权-可以放置全局地图标记以通知公民感兴趣的点的功能可以为当选头衔分配工资，并定期向对应头衔的公民支付工资。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="186">
         <source xml:space="preserve">Elected Titles are government officials that can be assigned permissions to manage government policy.
 </source>
-        <target xml:space="preserve">当选头衔是公会要职，可以分配其管理公会政策的权限。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="187">
         <source xml:space="preserve">Citizens can define new types of elections at a {BoardOfElectionsItem}, and each election process created there can be used for various changes to government and leadership.
@@ -1710,15 +1350,12 @@ Elected titles can be assigned wages that are paid periodically to the citizens 
 Each Election Process can define a different set of voters, vetoers, timings, percentage needed to win, etc.  Using different types of elections, citizens can design their government to have different seats of power. For example, they can define a powerful Title that must be elected by the general population but can be impeached by them as well. 
 
 </source>
-        <target xml:space="preserve">公民可以在[BoardOfElectionsItem] 上定义新的推选类型，并且在那里创建的每个推选过程都可以用于公会和领导层的各种变更。 [Civic Articles] 可以引用推选过程，以指定需要进行推选的行动。在[GovernmentOfficeItem] 创建的[Elected Titles] 必须指定一个推选程序，通过该程序可以推选新成员。每个推选过程可以定义一组不同的选民，否决权，时间，获胜所需的百分比等。通过使用不同类型的推选，公民可以设计其公会具有不同的权力所在地。例如，他们可以定义一个强大的头衔，该头衔必须由一般人群推选产生，但也可以由他们弹劾。 
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="188">
         <source xml:space="preserve">Defines how an election takes place.
 </source>
-        <target xml:space="preserve">定义推选的方式。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="189">
         <source xml:space="preserve">Elections can take two forms:
@@ -1732,15 +1369,12 @@ Referendums are started at the various government buildings, each corresponding 
 Elections can have a number of settings determined by their {Election Process|Election Processes}. This will state who can vote, who can veto, how long the election lasts, what percent is needed to win, etc.  Multiple types of elections can be created for different purposes. For example, a representative government could be created with some elections only allowing elected officials to vote, while most citizens vote only in elections for representatives.
   
 </source>
-        <target xml:space="preserve">推选可以采用两种形式：-官员推选。这些是[Elected Titles] 的推选，赋予公民特定的权力。 -全民公决。是或否表决，将决定是否应采取特定的公民行动。推选从[BallotBoxItem] 开始，公民可以在其中执行许多公民行为。根据可用的[Civic Articles]，这些行动可能会或可能不需要推选；如果他们这样做，公民将可以选择立即开始。推选可以具有根据其[Election Process|Election Processes] 确定的许多设置。这将说明谁可以投票，谁可以否决权，推选能持续多长时间，赢得推选所需的百分比等。可以为不同的目的创建多种类型的推选。例如，可以创建一个代议制公会，其中一些推选仅允许民选官员投票，而大多数公民仅在代表推选中投票。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="190">
         <source xml:space="preserve">A poll set to a group of citizens to determine a position or referendum.
 </source>
-        <target xml:space="preserve">对一组公民进行的民意测验，以确定头衔或全民投票。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="191">
         <source xml:space="preserve">Executive Actions are one-time actions that can affect a specific group of citizens or all citizens at once.
@@ -1752,122 +1386,94 @@ Elections can have a number of settings determined by their {Election Process|El
 Depending on what {Civic Articles} are available, these actions may or may not require an election. Some civic articles state that only {Elected Titles} may perform Executive Actions.
   
 </source>
-        <target xml:space="preserve">执行行动是一次性行动，可以一次影响特定群体的公民或所有公民。可以使用[Civic Action Component] 在[ExecutiveOfficeItem] 上提出执行动作。这些操作具有三个主要效果：-一次性发放[Tax|Taxes]-通过[TreasuryItem] 向公民付款-更改现有土地的[Property] 所有者根据可用的[Civic Articles]，行动可能需要也可能不需要推选。一些民事条款指出，只有[Elected Titles] 才可以执行行政行为。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="192">
         <source xml:space="preserve">An action performed by a government official having effects on taxes, property, etc.
 </source>
-        <target xml:space="preserve">由公会官员执行的对税收，土地等产生影响的行动。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="193">
         <source xml:space="preserve">The punishment which the wise suffer who refuse to take part in the government, is to live under the government of worse men.\n- Plato
 </source>
-        <target xml:space="preserve">拒绝参与政治的惩罚，就是被糟糕的人统治。“\n-柏拉图”
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="194">
         <source xml:space="preserve">Between the ecosystem and the economy lies the government, run by citizens to ensure the survival and thriving of both.
   
   
 </source>
-        <target xml:space="preserve">公会位于生态系统和经济之间，由公民管理，以确保两者的生存和繁荣。
-  
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="195">
         <source xml:space="preserve">
     The government is created by citizens, piece by piece, growing their power and capability alongside the power of the populace.  The parts of the government are:
   
 </source>
-        <target xml:space="preserve">
-    公会是由公民逐步建立的，其权力和能力与人民的力量一起增长。公会部门是:
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="196">
         <source xml:space="preserve">{Constitution}
 Before any other aspect of government can be created, a Constitution must be created at a {CapitolItem}. It determines how the government operates via civic articles.
 
 </source>
-        <target xml:space="preserve">[Constitution] 在建立公会的任何其他方面之前，必须在[CapitolItem] 处创建公约。它决定了公会如何通过公民条款运作。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="197">
         <source xml:space="preserve">{Civic Articles}
 A constitution contains civic articles which define how the government functions: who can do what, and how.  They can be created at a {CapitolItem} on a new constitution or added to an existing constitution at an {AmendmentsItem} table.
 
 </source>
-        <target xml:space="preserve">[Civic Articles] 公约包含公民条款，这些条款定义了公会的职能：谁可以做什么，以及如何做。它们可以在新公约的[CapitolItem] 中创建，也可以在[AmendmentsItem] 表中添加到现有公约中。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="198">
         <source xml:space="preserve">{Laws}
 Laws determine rules and processes that all citizens are compelled to follow.  A {SmallCourtItem} can hold up to 2 laws and a {LargeCourtItem} up to 5. 
 
 </source>
-        <target xml:space="preserve">[Laws] 章程决定了所有公民都必须遵守的规则和程序。 [CourtItem] 最多可容纳3条章程。 
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="199">
         <source xml:space="preserve">{Elections}
 Elections will start automatically when making changes that require them, as determined by the constitution. They can have many effects (changing laws, electing leaders, performing executive actions).
 
 </source>
-        <target xml:space="preserve">[Elections] 根据公约的规定，需要进行更改时，推选将自动开始。它们可以产生许多影响（更改章程，推选领导人，执行行政措施）。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="200">
         <source xml:space="preserve">{Election Processes}
 An election process determines how elections work: who can vote and veto, how long they last, what majorities are required, etc. A {BoardOfElectionsItem} can hold up to three election processes.
 
 </source>
-        <target xml:space="preserve">[Election Processes] 推选过程决定推选的工作方式：谁可以投票和否决票，推选能持续多长时间，需要多数票等，一个[BoardOfElectionsItem] 最多可以容纳三个推选过程。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="201">
         <source xml:space="preserve">{Elected Titles}
 An Elected Title is a government position that can be given special privileges. A {GovernmentOfficeItem} can hold one elected title.
 
 </source>
-        <target xml:space="preserve">[Elected Titles] 当选头衔是可以赋予特殊特权的公会头衔。 [GovernmentOfficeItem] 可以保留一个当选头衔。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="202">
         <source xml:space="preserve">{Demographics}
 A demographic defines a group of people according to specific rules. This group can then be used in other aspects of the government.  A {CensusBureauItem} can hold up to three demographics.
 
 </source>
-        <target xml:space="preserve">[Demographics] 受众特征是根据特定规则定义的一群人。然后可以将该组用于公会的其他方面。 [CensusBureauItem] 最多可容纳三个受众特征。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="203">
         <source xml:space="preserve">{Districts}
 Defines an area of land which can be referenced in laws and other places.  A {ZoningOfficeItem} can hold up to three district maps.
 
 </source>
-        <target xml:space="preserve">[Districts] 定义了章程和其他地方可以参考的土地区域。 [ZoningOfficeItem] 最多可容纳三张地区地图。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="204">
         <source xml:space="preserve">{Executive Actions}
 An executive action is a one-time operation that can be performed to enact changes to society. They are performed at an {ExecutiveOfficeItem} by users given privileges from the constitution (typically elected titles).
 
 </source>
-        <target xml:space="preserve">[Executive Actions] 行政行为是可以执行一次以改变社会的一次性行动。由公约赋予特权的用户在[ExecutiveOfficeItem] 中执行（通常是推选产生的头衔）。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="205">
         <source xml:space="preserve">
@@ -1875,10 +1481,7 @@ An executive action is a one-time operation that can be performed to enact chang
   A ballot box allows operations to be performed related to elections and holding office.
 
 </source>
-        <target xml:space="preserve">
-  [Ballot Boxes|Civic Action Component] 投票箱允许执行与推选和担任职务有关的操作。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="206">
         <source xml:space="preserve">
@@ -1886,16 +1489,12 @@ An executive action is a one-time operation that can be performed to enact chang
   Determines taxes on various parts of the economy.
 
 </source>
-        <target xml:space="preserve">
-  [Treasury|Treasury Component] 确定经济各个部分的税金。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="207">
         <source xml:space="preserve">An institution designed and run by the people to promote the common good.
 </source>
-        <target xml:space="preserve">由人民设计和经营以促进共同利益的机构。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="209">
         <source xml:space="preserve">Laws are the means by which the government makes changes in the world, to achieve the goals of the populace.
@@ -1905,15 +1504,12 @@ Laws are created by placing a {SmallCourtItem} or a {LargeCourtItem}, and depend
 Many ‘Cause’ choices will provide context about the citizen who triggered it, where it was triggered, etc. These ‘context’ properties can be seen in the Cause tooltip, and are available for specifying data in the ‘Effects’.  For example, an effect may tax the specific player who chopped down a tree.
   
 </source>
-        <target xml:space="preserve">章程是公会改变世界以实现民众目标的手段。通过放置[CourtItem] 来创建章程，根据可用的[Civic Articles] 可能需要通过推选。每条定律都创建有因果列表，并且当因果发生时，将激活效应。这为章程的运作方式提供了很大的灵活性，并且它们可以涵盖许多领域。从税收到监管再到支付资金激励活动。许多“原因”选项将提供有关触发它的公民，触发它的位置等方面的环境。这些“环境”属性可以在“原因”提示信息中看到，并且可用于在“效果”中指定数据。例如，效果可能会使砍伐树木的特定玩家负担重。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="210">
         <source xml:space="preserve">Cause-and-Effect rules designed by citizens and enforced automatically in order to achieve societal goals.
 </source>
-        <target xml:space="preserve">公民设计的因果规则，并自动执行以实现社会目标。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="211">
         <source xml:space="preserve">For the good of the people, or at least the enrichment of the government, taxes can be levied on many actions in Eco.
@@ -1934,15 +1530,12 @@ Taxes can also be set through {Laws}, which can have their amounts and destinati
 For example, a 'Minister of Transportation' Elected Title position could be created, having sole access to a Transportation Fund {Bank Account|Bank Accounts}.  A law could then be created to tax the production and trade of fuel, with proceeds going into the Transportation Fund, where the currently elected Minister of Transportation can use them to fund new roadbuilding {Work Parties}.
 
 </source>
-        <target xml:space="preserve">为了人民的利益，或者至少是为了公会的富裕，可以对《生态物语》中的许多行为征收税款。金库税在[TreasuryItem] 中，可以对多种操作设置税收：-销售税。在商店销售商品时应缴纳的税款。 -手工艺费税。共享你的手工制作站所收取的费用应缴税。 -合同税。从通过合同和工作方支付的款项中收取的税款。 -直接转让税。玩家之间的转会收取的税款。 -自直接转移税。转帐至你有权使用的帐户时所收取的税款（以选择避免避税漏洞）。只有持有[Elected Title|Elected Titles] 的公民被授予了“在金库设置税”的权利，才可以调整这些税率。从这些设置中收取的所有税费都将存储在特殊的“金库”银行账户中。可以通过财政部的指令将这个特殊的银行账户中的资金分配到其他帐户中。章程税也可以通过[Laws] 设置税，可以动态确定税额和目的地。还可以确定它们所存放的银行账户，以便为特定目的的特定资金提供资金，并存储在只能供少数人使用的银行账户中。使用章程制度，可以根据正在发生的行动非常明确地确定和调整这些税收。例如，可以创建“交通部长”推选头衔头衔，并且可以直接访问交通基金[Bank Account|Bank Accounts]。然后可以制定一项章程，对燃料的生产和贸易征税，并将所得款项划入运输基金，由当选的运输部长可以将其用于资助新的道路建设[Work Parties]。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="212">
         <source xml:space="preserve">Tax can be taken from the economy to fund publics works project as well as incentivize or disincentivize economic activity.
 </source>
-        <target xml:space="preserve">可以从经济中收取税款，以资助公共工程项目以及激励或消灭经济活动。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="213">
         <source xml:space="preserve">Titles are used for designating a group of users, then referencing that group in other things like permissions.  They are different from {Demographics} in that Titles are specified directly by citizens, while the citizens within a demographic are automatically defined based on a citizen-defined condition.
@@ -1959,15 +1552,12 @@ By setting requirements on the Elected Title, you can ensure the continued good 
 Titles can also have wages set on them. Wages are paid periodically as long as a citizen continues to occupy the title (and the payer has funds).
   
 </source>
-        <target xml:space="preserve">头衔用于指定一组用户，然后以其他方式（例如权限）引用该组。它们与[Demographics] 的不同之处在于，头衔由公民直接指定，而群体中的公民是根据公民定义的条件自动定义的。有两种类型的头衔：-常规头衔。可由[RegistrarItem] 的任何人创建和管理这些文件。在那里，公民可以设置哪些其他公民可以分配角色（经理）以及哪些人正在担任角色。 -当选头衔。这些头衔只能推选（或任命）并在[GovernmentOfficeItem] 中创建。公会部门的属性决定了推选给定头衔需要哪种[Election]。仅当被强制离职，辞职（在[BallotBoxItem] 上执行，或者其任期在该头衔的任期限制中定义）时，才可以保留当选头衔。当选头衔为定义治理提供了很大的灵活性可以将特权直接绑定到这些帐户，例如，可以制定一项税法，对车辆的使用情况征税，并将其放入只有当选“交通部长”才能使用的基金。再次推选该头衔并更改领导者，那么前任公民将自动失去对帐户的访问权限。通过对“当选头衔”设置要求，可以确保任职公民继续保持良好的治理。例如，你可以提出要求某个办公室的所有人员都是“活跃”人口的一部分，如果某个办公室的持有人变得不活跃，他们将自动从办公室撤职，并指定一个接班人他们的位置。头衔上也可以设置工资。只要公民继续担任头衔（并且付款人拥有资金），便会定期支付工资。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="214">
         <source xml:space="preserve">Positions which can hold one or more citizens.  Used for designating permissions and paying wages.
 </source>
-        <target xml:space="preserve">可以容纳一个或多个公民的头衔。用于指定许可和支付工资。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="215">
         <source xml:space="preserve">A citizen cannot thrive without proper shelter, and together with your {Nutrition} your Housing value will determine your {Experience} multiplier.  The better your house’s materials and furnishing are, the higher your experience multiplier.  
@@ -1980,22 +1570,12 @@ Additionally, many objects require houses and utilities to operate. The housing 
  - {Sewage}. Certain items require a sewage system of pipes, pumps, and wastewater treatment.
 
 </source>
-        <target xml:space="preserve">没有合适的住房任何市民都无法打拼出成绩，你的住房点和[Nutrition] 一起决定了[Experience] 的系数。房子建材和装潢越好，经验系数越大。 
-
-另外，许多物品需要房子和设施足够才能运作。整个住房体系有下列部分组成：
- - [Residency]。你可以与其他人共住一处房产。
- - [Rooms]。房间是完全室内的空间，许多物品都需要在房间内才能工作。
- - [Property]。市民可以认领独立的地块，自行设置准入权限。
- - [Power]。许多物品需要能源来运转，产出的能源可以在许多市民之间共享。
- - [Sewage]。特定物品需要由管道，水泵和废水处理单元租车过的污水处理系统。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="216">
         <source xml:space="preserve">Your housing (along with your diet) determines your skill gain.
 </source>
-        <target xml:space="preserve">你的住房（以及饮食）决定了你的技能提升。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="217">
         <source xml:space="preserve">Many objects require power to function, and as your society progresses the types of power will progress as well.
@@ -2005,71 +1585,56 @@ Early on, most power will come from calories expended by citizens.  Local-power 
 Many types of power generation exist, and each has different fuel needs as well as environmental impact.  The building, fueling, and operation of power plants can become a major {Pollution} source as technology advances, and citizens will need to carefully regulate the types of power used and how pollution is handled to prevent an ecological catastrophe.
   
 </source>
-        <target xml:space="preserve">许多物体需要权力才能发挥作用，随着社会的进步，权力的类型也会随之发展。早期，大多数能量将来自公民消耗的卡路里。也可以构建本地电源，例如[Waterwheels|Waterwheel Item]，仅向附近地区供电。当技术发展为电力时，便可以集中产生电力，从而使各团体可以一起为城镇供电，而不必单独设置电源（这样的社区项目非常适合使用[Taxes] 系统为他们提供资金，以及[Contracts] 和[Work Parties] 来建立它们。存在多种类型的发电，每种都有不同的燃料需求以及对环境的影响。随着技术的进步，发电厂的建设，加油和运营可能成为主要的[Pollution] 来源，公民将需要仔细调节使用的电力类型以及如何处理污染以防止生态灾难。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="218">
         <source xml:space="preserve">Many objects require power to function, which can be generated in a variety of ways.
 </source>
-        <target xml:space="preserve">许多物体需要动力才能发挥作用，可以通过多种方式产生动力。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="219">
         <source xml:space="preserve">
     By claiming Property, citizens can protect access to plots of land, determining who is allowed to access the land and what they are allowed to do on objects contained on it.
   
 </source>
-        <target xml:space="preserve">
-    通过认领土地，公民可以保护对土地的访问权，确定允许谁访问该土地以及允许他们对其中包含的物体执行什么操作。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="220">
         <source xml:space="preserve">Land Property Rights
 </source>
-        <target xml:space="preserve">土地产权
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="221">
         <source xml:space="preserve">
   Land can be claimed as property by using a {Land Claim Stake|ClaimToolItem} and targeting an unclaimed plot of land.  When targeted, a {Settlement Claim Stake|SettlementProperty} will be planted, and the citizen will become the owner on the deed. The property at your current position can be seen in the world panel in the bottom right of the screen, and clicking the title will open the deed.
 </source>
-        <target xml:space="preserve">
-  通过使用[Land Claim Stake|Property Tool Item] 并以无人认领的土地为目标，可以将土地认领为土地。当定为目标时，将消耗[Land Claim Paper|Property Claim Item]，公民将成为契据的所有者。你当前位置的土地可以在屏幕右下方的世界面板中看到，单击头衔将打开契据。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="222">
         <source xml:space="preserve">Object Property Rights
 </source>
-        <target xml:space="preserve">对象土地权
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="223">
         <source xml:space="preserve">Objects can have their access rights set separately from the land they are on, to allow consumer access to objects that are on private land.  These settings are determined in an {Authorization Component}.  
 
 </source>
-        <target xml:space="preserve">可以将对象的访问权与所在土地分开设置，以允许消费者访问私有土地上的对象。这些设置在[Authorization Component] 中确定。  
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="224">
         <source xml:space="preserve">Deeds
 </source>
-        <target xml:space="preserve">契据
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="225">
         <source xml:space="preserve">On the deed, citizens can add and remove parties that may access the land (place or remove blocks).  The owner can also be changed by clicking the gear beside the owner name.  Note that both {Demographics} and {Titles} can both be given ownership on a deed, including {Elected Titles}. Structuring a government this way can allow only elected officials to have certain access rights to land.
 </source>
-        <target xml:space="preserve">根据契据，公民可以添加和删除可能访问该土地的各方（放置或删除街区）。也可以通过单击所有者名称旁边的齿轮来更改所有者。请注意，[Demographics]和[Titles]都可以拥有契据的所有权，包括[Elected Titles]。以这种方式组建公会可以只允许民选官员拥有某些土地使用权。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="226">
         <source xml:space="preserve">Citizens and governments may own property and determine the access rights of them.
 </source>
-        <target xml:space="preserve">公民和公会可以拥有土地并确定他们的使用权。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="227">
         <source xml:space="preserve">Rooms are enclosed areas protected from the elements where all holes to the outside world are filled with walls, doors and windows.
@@ -2091,15 +1656,12 @@ Room Material Quality
 The average tier of the room material will also determine your housing value, by setting a soft cap.  Once your room value has exceeded the soft cap for the room, then you will get diminishing returns for additional housing points.  When this happens, it may be time to renovate the materials of the room.
 
 </source>
-        <target xml:space="preserve">房间是封闭的区域，不受外界影响，在这些外部环境中，所有墙壁，门和窗户都充满了漏洞。当你进入一个房间时，你可以在屏幕右侧的面板中看到有关该房间的详细信息。许多类型的对象都有“房间要求”，并且会占用其房间中的空间，并且要求房间的材料具有特定的质量。你的房屋价值还受到房间材料质量的影响。举例来说，这意味着用砖砌房屋将比带泥棚提供更多收益。陈设和房间类型通过在上面拥有土地和建筑物的房间，你将开始获得额外的经验，即使在离线状态下，这种经验仍然存在。添加其他类型的房间和这些房间的家具将进一步增加它。每种家具都与一种房间相关联：浴室，卧室，厨房或普通房（显示在该项目的提示信息上）。房间类型将由你对家具陈设贡献最大的类别决定。每个房间的值将通过汇总房间内的所有家具来计算。在房间内重复使用相同的家具或在房子中重复使用相同类型的房间会使你的收益递减；也就是说，你仍然可以获得他们的住房积分，但没有第一住房积分那么多。最终，积分的增长将是微不足道的，并且在房屋中增加任何类型的家具或房间都是不值得的。例如，你的第12间浴室将为你的房屋增加比第一个浴室少的价值。房间材料的质量房间材料的平均等级还将通过设置软上限来确定你的房屋价值。一旦你的房间价值超过该房间的软上限，那么你获得的额外住房收益将递减。发生这种情况时，可能是时候装修房间的材料了。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="228">
         <source xml:space="preserve">Rooms protect you and your equipment from the elements, providing skill points and allowing equipment to function.
 </source>
-        <target xml:space="preserve">房间可保护你和你的设备不受元素影响，提供技能点并允许设备运行。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="229">
         <source xml:space="preserve">
@@ -2110,22 +1672,17 @@ Sewage systems are created by connecting a {MechanicalWaterPumpItem} or {Electri
 Pipes will automatically connect to any adjacent pipe block of the same type.  To make sewage systems with different pipes in close proximity, use different materials of pipes.
 
 </source>
-        <target xml:space="preserve">
-许多工业和住房物体需要污水支持才能发挥作用。通常，这意味着需要水作为废水的输入和输出。每个具有[Pipe Component] 的对象都需要污水连接。通过将[MechanicalWaterPumpItem] 或[ElectricWaterPumpItem] 连接到水源，然后在需要供水的不同对象之间建立管道来创建污水处理系统。在废物方面，管道会从物体中吸收废水，将其倾倒到环境中（在出口处产生[Pollution]），或在[Waster Filter|WasteFilterItem] 中进行处理，从而从废水中产生[Compost|CompostItem]。管道将自动连接到任何相同类型的相邻管道块。要使污水处理系统的各个管道紧挨着，请使用不同的管道材料。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="230">
         <source xml:space="preserve">Certain objects require sewage systems to supply water and remove wastewater.
 </source>
-        <target xml:space="preserve">某些物品需要污水来供水和清除废水。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="231">
         <source xml:space="preserve">Components related to industry.
 </source>
-        <target xml:space="preserve">与行业相关的组件。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="232">
         <source xml:space="preserve">As you gain experience in Eco you will be able to unlock new specialties and new abilities within those specialties. There are two types of experience you will gain, Character Experience and Specialty Experience.  Both are increased by your Experience Multiplier.
@@ -2142,16 +1699,12 @@ Your Experience Multiplier (or XP Multiplier) is a personal value representing y
 
 
 </source>
-        <target xml:space="preserve">随着你在《生态物语》方面的经验积累，你将能够解锁新的专业和这些专业中的新功能。你将获得两种类型的体验：角色体验和专业体验。两者都会通过你的经验系数增加。角色体验是你的背景学习速度，即你获得知识和能力的速度。即使你处于离线状态，它也在不断上升。每天，你将以1 *经验系数的速率获得角色经验。升级后，你将获得一个新的特殊解锁，以星号表示。每个级别的提升都将需要越来越多的角色经验，因此很难拥有多个专业。专业经验专业经验是指你具有特定能力的技能，而不是不断提高，它仅在你执行与该专业相关的动作（例如手工艺或从事劳动）时才会提高。像角色体验一样，它也会与你的经验系数相乘。在屏幕的左侧，你将看到一些图标，这些图标显示了你执行操作时获得的经验，并且你可以单击这些图标来仔细查看该专业的水平提升。某些级别的提升将使你能够释放才华，这些才华与他们所掌握的技能有关，从而获得特定的奖励。经验系数是代表你的健康和支持系统的个人价值，它决定了你的速度如何学习新技能。它是你的[Nutrition] 和[Housing|Housing Overview] 值的总和。因为它会影响你的性格和专业经验点，所以你需要通过吃营养丰富的食物和布置整齐的房屋来保持尽可能高的水平。
-
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="233">
         <source xml:space="preserve">There are two kinds of experience in Eco: Character Experience (gained by food and housing) and Specialty Experience (gained by performing actions in a specialty).
 </source>
-        <target xml:space="preserve">生态学有两种经验：品格体验（通过食物和住房获得）和专业体验（通过在专业中进行活动获得）。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="234">
         <source xml:space="preserve">
@@ -2170,16 +1723,12 @@ Calories, unlike nutrients, are spent when you perform work, and when you run ou
 All food provides both calories and nutrients, so while gaining calories from food you’re also determining your skill multiplier, so watch that diet.
 
 </source>
-        <target xml:space="preserve">
-你的经验[Experience] 取决于你的营养和住房[Housing|Housing Overview]，而你所吃的食物营养越丰富，你获得的[Experience] 就越快。你越健康，进步就越快。食物中含有四种营养素：蛋白质，脂肪，维生素和碳水化合物。通过将你过去24小时内食用的所有食物中每种营养素的平均值相加，可以确定你的经验系数。这意味着，如果你吃垃圾食品（营养物质含量低），它将在你通过身体之前24小时受到影响。此外，还会应用平衡系数，根据你体内营养的平衡程度，再增加总计的0％-50％。例如，如果每种营养素的含量准确地占25％，你将获得50％的额外技能。根据此服务器的难度设置，还可以设置一个“技能增益倍增器”，以使其进一步提高。最后，将基本技能增益值添加到总数中。这样可以确保即使你完全饿了，也至少会获得一些技能。你可以在左下角用户界面的食物提示中查看所有这些计算。卡路里不同于营养素，卡路里是在工作时消耗的，卡路里消耗殆尽时，你只有吃得更多才能工作。升级工具和升级技巧可以大大减少卡路里的使用。所有食物都提供卡路里和营养，因此在从食物中获取卡路里的同时，你还需要确定自己的技能系数，因此请注意饮食。养活世界粮食是生态经济中不断发展的社会的骨干力量，推动了建立文明所需的技能的增长。从农民到厨师的组织良好的食品生产者网络可确保公民以所需的速度获得技能。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="235">
         <source xml:space="preserve">Nutrition, alongside housing, determines how fast you gain experience.
 </source>
-        <target xml:space="preserve">营养和住房决定了你获得经验的速度。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="236">
         <source xml:space="preserve">Central to a thriving economy is the ability to specialize and trade, thereby working more efficiently than if you attempted to do everything yourself.  Achieving a successful society depends on successfully accomplishing both.  
@@ -2187,15 +1736,12 @@ All food provides both calories and nutrients, so while gaining calories from fo
 A citizen's skills give them unique abilities and enhancements, which allows them to {Trade} with other citizens having different skills in the economy. As you gain {Experience}, you can unlock new {Specialties} and level-up existing ones.  The experience you gain is multiplied by your {Nutrition} and {Housing|Housing Overview}.    
   
 </source>
-        <target xml:space="preserve">蓬勃发展的经济的核心是专业化和贸易的能力，因此与你尝试自己做的一切相比，工作效率更高。实现一个成功的社会取决于成功实现两者。公民的技能使他们拥有独特的能力和增强能力，这使他们能够与在经济中拥有不同技能的其他公民[Trade]。获得[Experience] 后，你就可以解锁新的[Specialties] 并升级现有的。你获得的经验将乘以[Nutrition] 和[Housing|Housing Overview]。    
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="237">
         <source xml:space="preserve">The skill system allows citizens to specialize in specific trades.
 </source>
-        <target xml:space="preserve">技能体系使公民能够专注于特定行业。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="238">
         <source xml:space="preserve">
@@ -2213,23 +1759,17 @@ You can see the spread of specialties that other citizens have chosen on the ski
 
 
 </source>
-        <target xml:space="preserve">
-当你从角色[Experience] 升级时，专业会解锁。每个专业（以星号表示）都会解锁你可以使用的新功能。专业和专业[Professions|Profession Overview] 只是技能的分组，除了将相似的技能存储在一起之外，没有其他目的。每个专业都包含在一个专业下，并且需要两个步骤才能获得。 1. 首先，你必须阅读技能卷轴。 2. 接下来，你必须花费一颗星星来攻读特色菜。选择专业后，你将获得与之相关的基本能力。当你执行与该专业相关的动作时，你将获得专业[Experience]，升级专业并为其解锁新功能。你可以在技能选择对话框中看到其他公民选择的专业的传播，选择其他玩家未选择或升级的专业通常是个好主意。这样一来，你就可以各自执行自己的专业，并彼此进行[Trade] 以获得净收益。
-
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="239">
         <source xml:space="preserve">Specialties can be gained by collecting Character Experience, and each specialty will unlock new unique abilities.
 </source>
-        <target xml:space="preserve">可以通过收集角色经验来获得专业，每个专业都将解锁新的独特能力。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="240">
         <source xml:space="preserve">Food, along with housing, is essential for increasing your skills.
 </source>
-        <target xml:space="preserve">食物和住房对提高技能至关重要。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="241">
         <source xml:space="preserve">Carpenters are specialist at working with wood.
@@ -2240,15 +1780,12 @@ You can see the spread of specialties that other citizens have chosen on the ski
   - {PaperMillingSkill} allows citizens to refine wood pulp into {PaperItem}. Paper is used for some specialty furniture.
 	
 </source>
-        <target xml:space="preserve">木匠是处理木材的专家。 -[LoggingSkill] 可使公民更快地砍树，而消耗的卡路里更少。另外，此专业用于生产[HewnLogItem]，这是木工行业的主要建筑材料。 -[CarpentrySkill] 允许公民生产木制家具和[Boards|Board Item]。通过使用[SawmillItem]，具有此专业的公民可以生产[LumberItem] 和更高品质的家具。 -[CompositesSkill] 允许公民使用先进的技术来生产最优质的木建筑材料。 -[PaperMillingSkill] 允许公民将木浆提炼成[PaperItem]。纸用于一些特殊家具。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="242">
         <source xml:space="preserve">Carpenters are specialist at working with wood.
 </source>
-        <target xml:space="preserve">木匠是处理木材的专家。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="243">
         <source xml:space="preserve">Chefs cook high quality food that enables citizens to gain experience faster. Using the raw food produced by farmers and hunters, chefs create food that is high in nutrients. As technology advances, the chef specialties cook progressively higher quality food.
@@ -2260,15 +1797,12 @@ You can see the spread of specialties that other citizens have chosen on the ski
   - {AdvancedBakingSkill} is an alternative to Advanced Cooking that uses {YeastItem} to produce high quality baked goods with {LeavenedDoughItem}.
   
 </source>
-        <target xml:space="preserve">厨师烹饪高品质的食物，使公民能够更快地获得经验。厨师使用农民和猎人生产的生食，制作出营养丰富的食物。随着技术的进步，专业厨师逐渐烹饪更高品质的食物。 -[CampfireCookingSkill] 是入门级厨师专业，它使用[CampfireItem] 来准备比非厨师生产的基本烧焦的饭菜更好的饭菜。 -[CookingSkill] 是厨师职业的第二步，它使用[CastIronStoveItem] 来制作更高质量的饭菜。 -[BakingSkill] 是烹饪的替代方法，它使用[FlourItem] 生产烘焙食品。 -[AdvancedCookingSkill] 是一种高级厨师职业，可生产最高等级的食物。 -[AdvancedBakingSkill] 是高级烹饪的替代方法，它使用[YeastItem] 与[LeavenedDoughItem] 生产高质量的烘焙食品。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="244">
         <source xml:space="preserve">Chefs cook high quality food that enables citizens to gain experience faster.
 </source>
-        <target xml:space="preserve">厨师烹饪高品质的食物，使公民能够更快地获得经验。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="245">
         <source xml:space="preserve">Engineers use the materials created by other professions to lead the way in technological advancement. The vehicles they produce greatly improve the capacity for trade and the speed at which citizens work. The crafting tables they produce are used by a variety of professions to create high-end goods. Being an engineer requires frequent interaction with other professions as engineers are unable to produce the primary inputs necessary for crafting.
@@ -2280,15 +1814,12 @@ You can see the spread of specialties that other citizens have chosen on the ski
 -{ElectronicsSkill} is a high-end engineer specialty that uses expensive ingredients to produce the most advanced materials needed for modern crafting projects. In addition to this and providing a source of green electricity, electronics is used to craft the {LaserItem} needed to save the world from the meteor.
   
 </source>
-        <target xml:space="preserve">工程师使用其他行业创造的材料来引领技术进步。他们生产的车辆大大提高了贸易能力和公民的工作速度。他们生产的手工桌被各种专业人士用来制造高端产品。成为工程师需要与其他专业人士频繁互动，因为工程师无法提供制作所需的主要投入。 -[BasicEngineeringSkill] 允许公民生产道路和手推车以帮助运输。此外，基础工程还创建了处理和冶炼矿石所需的工艺表。 -[MechanicsSkill] 允许公民创建早期的机动车辆，例如[SteamTruckItem]。力学提供了第一个电力来源，以帮助实现技术发展。 -[IndustrySkill] 允许公民创建先进的工具，例如[ExcavatorItem]，以快速收集大量自然资源。 -[OilDrillingSkill] 允许公民使用[PumpJackItem] 收集[PetroleumItem] 以用于燃料和各种工业项目。 -[ElectronicsSkill] 是高端工程师专业，使用昂贵的原料生产现代工艺项目所需的最先进的材料。除此之外，它还提供了绿色电力，电子产品被用来制作[LaserItem] 来拯救流星世界。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="246">
         <source xml:space="preserve">Engineers are master inventors who produce vehicles and other advanced products for other citizens.
 </source>
-        <target xml:space="preserve">工程师是为其他公民生产车辆和其他先进产品的主要发明家。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="247">
         <source xml:space="preserve">
@@ -2300,16 +1831,12 @@ You can see the spread of specialties that other citizens have chosen on the ski
   - {MillingSkill} allows citizens to process produce in a {MillItem} for use by chefs in more advanced recipes.
   
 </source>
-        <target xml:space="preserve">
-    农民是农业专家。他们生产的农作物是公民从事工作所需的热量的主要来源。 -[FarmingSkill] 允许公民使用农产品生产种子来帮助建立大型农场。 -[FertilizersSkill] 允许公民使用[SoilSamplerItem] 向土壤添加营养并测试土壤条件。 -[GatheringSkill] 使公民可以从野生植物和人工农场中收获更多农产品。 -[MillingSkill] 允许公民在[MillItem] 中加工产品，以供厨师使用更高级的配方。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="248">
         <source xml:space="preserve">Farmers are specialists in agriculture.
 </source>
-        <target xml:space="preserve">农民是农业专家。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="249">
         <source xml:space="preserve">
@@ -2319,16 +1846,12 @@ You can see the spread of specialties that other citizens have chosen on the ski
   - {HuntingSkill} grants citizens bonus damage when hunting animals and allows them to approach animals at a closer distance without causing them to run.
   
 </source>
-        <target xml:space="preserve">
-    猎人是有效狩猎动物和准备肉类供厨师使用的专家。这两个猎人专业紧密相关，因为被狩猎的动物必须经过加工才能被厨师使用。 -[ButcherySkill] 允许公民将动物遗骸加工成厨师准备的肉。他们制造的兽皮和皮革可以用于服装和其他手工项目。 -[HuntingSkill] 在狩猎动物时给予公民额外的伤害，并使他们能够近距离接近动物而不会使其奔跑。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="250">
         <source xml:space="preserve">Hunters are specialists at hunting animals and preparing meat for chefs.
 </source>
-        <target xml:space="preserve">猎人是狩猎动物和为厨师准备肉类的专家。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="251">
         <source xml:space="preserve">Masons are specialists at mining and working with stone. They provide a valuable source of building material and furniture for homes. The ore they collect is used by Smiths to smelt metal bars.
@@ -2340,15 +1863,12 @@ You can see the spread of specialties that other citizens have chosen on the ski
   -{AdvancedMasonrySkill} is a high-level mason skill that produces the finest quality Ashlar Stone building material and furniture.
   
 </source>
-        <target xml:space="preserve">石匠是采矿和处理石材的专家。它们为房屋提供了宝贵的建筑材料和家具资源。 工匠们使用他们收集的矿石来冶炼钢筋。 -[MiningSkill] 可让公民在开采石头和矿石时消耗更少的卡路里。矿工还对收集的矿石进行处理并将其浓缩以用于冶炼。 -[MasonrySkill] 使公民可以生产[MortarItem]，这是大多数泥瓦匠建筑材料的主要成分。他们生产的[MortaredStoneItem] 是早期房屋材料的重要来源。 -[PotterySkill] 允许公民从[ClayItem] 中制作[BrickItem] 建筑材料和家具。 -[GlassworkingSkill] 允许公民创建[GlassItem]，然后再创建[FramedGlassItem]。玻璃是一种很好的补充建筑材料，可用于各种工业项目。 -[AdvancedMasonrySkill] 是一种高级泥工技能，可生产最优质的Ashlar Stone建筑材料和家具。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="252">
         <source xml:space="preserve">Masons are specialist at mining and working with stone.
 </source>
-        <target xml:space="preserve">石匠是采矿和石材加工方面的专家。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="253">
         <source xml:space="preserve">Professions are groups of similar {Specialties} that unlock new crafting recipes and provide abilities like reduced calorie usage when crafting or using a tool. Within each profession is a group of similar specialties.
@@ -2356,15 +1876,12 @@ You can see the spread of specialties that other citizens have chosen on the ski
 Below is a list of all professions and the corresponding specialties. Citizens can choose to focus on one profession or learn specialties from a variety of professions.
   
 </source>
-        <target xml:space="preserve">专业是一组类似的[Specialties]，可以解锁新的制作配方，并提供诸如在制作或使用工具时减少卡路里消耗等功能。每个专业中都有一组相似的专业。以下是所有专业和相应专业的列表。公民可以选择专注于一个专业，也可以从各种专业中学习专业
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="254">
         <source xml:space="preserve">Professions grant citizens special abilities and allow them to craft advanced items.
 </source>
-        <target xml:space="preserve">专业赋予公民特殊的能力和制造高级物品的能力。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="255">
         <source xml:space="preserve">Smiths smelt concentrated ore into metal bars that can be used by a variety of professions. In addition, Smiths create superior tools that help citizens work more productively.
@@ -2373,15 +1890,12 @@ Below is a list of all professions and the corresponding specialties. Citizens c
 - {AdvancedSmeltingSkill} allows citizens to further refine iron bars into {Steel|SteelBarItem} for use in industry and high-tier building materials. Citizens with this specialty can use the steel they create to even more modern tools than the iron tools created by basic smelting.
   
 </source>
-        <target xml:space="preserve">工匠们将浓缩的矿石冶炼成金属条，各种专业人士都可以使用。此外，工匠创建了出色的工具，可帮助公民提高工作效率。 -[SmeltingSkill] 是制造组件技术进步基础的钢筋的专家。他们制造的铁工具比早期的石材工具具有明显的优势。 -[AdvancedSmeltingSkill] 允许公民进一步将铁锭精炼成[Steel|SteelBarItem]，以用于工业和高层建筑材料。具有这种专业的公民可以将他们制造的钢用于比通过基本冶炼产生的铁工具更现代的工具。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="256">
         <source xml:space="preserve">Smiths smelt ore into metal bars and create advanced tools.
 </source>
-        <target xml:space="preserve">工匠们将矿石熔炼成钢筋并创建高级工具。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="257">
         <source xml:space="preserve">All citizens are survialists in the world of Eco. 
@@ -2389,15 +1903,12 @@ Below is a list of all professions and the corresponding specialties. Citizens c
 Experience in {SelfImprovementSkill} is gained anytime a citizen levels up another specialty. Self-improvement has two main benefits. As citizens progress, they will have increased carry weight capacity and a larger stomach capcity for extra calories. In addition, less calories are consumed when using hammers, shovels, and drills.
   
 </source>
-        <target xml:space="preserve">在《生态物语》世界中，所有公民都是生存主义者。每当公民升级另一个专业时，就可以获得[SelfImprovementSkill] 方面的经验。自我完善有两个主要好处。随着公民的进步，他们将具有更大的承载能力和更大的胃内吸收更多卡路里的能力。此外，使用锤子，铁锹和钻头消耗的卡路里更少。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="258">
         <source xml:space="preserve">Survialists expend less calories when using basic tools and have increased carrying weight.
 </source>
-        <target xml:space="preserve">生存主义者在使用基本工具时消耗的卡路里更少，并且携带的体重增加了。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="259">
         <source xml:space="preserve">Tailors work with cloth to make clothing and high-end furniture for other citizens. Unlike other professions, the Tailor profession has only one specialty.
@@ -2405,23 +1916,19 @@ Experience in {SelfImprovementSkill} is gained anytime a citizen levels up anoth
 {TailoringSkill} allows citizens to create {ClothItem} for use in crafting projects by a variety of professions. The clothing tailors creates provides citizens with special bonuses. For example, a {BigBackpackItem} has a higher maximum weight limit than the starter {BasicBackpackItem}.
 	
 </source>
-        <target xml:space="preserve">裁缝用布做衣服，为其他公民制作衣服和高档家具。与其他专业不同，裁缝专业只有一个专业。 [TailoringSkill] 允许公民创建[ClothItem]，以供各种专业人士制作项目。裁缝制作的服装为公民提供了特殊的奖励。例如，[BigBackpackItem] 的最大重量限制比起步器[BasicBackpackItem] 的最大重量限制高。
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="260">
         <source xml:space="preserve">Tailors work with cloth to make clothing and high-end furniture for other citizens.
 </source>
-        <target xml:space="preserve">裁缝用布为其他公民制作衣服和高档家具。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="261">
         <source xml:space="preserve">Any object containing a Vehicle Component can be mounted and interacted with in a variety of ways, providing a number of benefits.
   
 Many vehicles require {Power|Power Component} to operate and each have their own {Storage|Storage Component}. Building infrastructure around the world will greatly enhance your {Transport} capabilites as many vehicles require roads to operate.
 </source>
-        <target xml:space="preserve">任何包含车辆部件的物体都可以通过多种方式进行安装和交互，从而带来许多好处。许多车辆需要[Power|Power Component] 才能运行，并且每个车辆都有自己的[Storage|Storage Component]。世界各地的基础设施建设将大大提高你的[Transport] 功能，因为许多车辆都需要道路来运营。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="262">
         <source xml:space="preserve">  
@@ -2432,16 +1939,12 @@ Many vehicles require {Power|Power Component} to operate and each have their own
 - Contruction: The {CraneItem} can quickly perform large-scale {Building} projects. The crane has a much larger building range than a citizen who is building with a hammer and can access large amounts of storage.
 
 </source>
-        <target xml:space="preserve">  
--运输：[WoodCartItem] 之类的车辆可以从一个地方到另一个地方运输货物和人员。随着技术的进步，更先进的车辆将以更快的移动速度和更高的承载能力出现，而以造成污染为代价。-挖掘：[ExcavatorItem] 和[SkidSteerItem] 能够快速移动大量的泥土和岩石。这将大大提高[Mining] 的速度，并允许快速清理土地以用于新的建设项目。 -结构：[CraneItem] 可以快速执行大型[Building] 项目。该起重机的建筑范围比用锤子建造并可以使用大量存储空间的居民大得多。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="264">
         <source xml:space="preserve">Vehicles can be used for performing a variety of tasks.
 </source>
-        <target xml:space="preserve">车辆可用于执行各种任务。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="265">
         <source xml:space="preserve">
@@ -2452,18 +1955,12 @@ Different plants require different tools to harvest, such as a shovel, or a scyt
 
   
 </source>
-        <target xml:space="preserve">
-在《生态物语》中，玩家最初是从周围的野生生物群落中收获食物的。成熟的植物有机会可持续地收获。野生食物资源可以作为补充的可再生资源，但如果利用的话，它将迅速崩溃。有些植物不仅可以用于食物，还可以提供其他地方无法找到的化学化合物，或纺织和服装所需的原材料。不同的植物需要不同的收获工具，例如铲子或镰刀。无需工具即可手动采摘其他物种。同样，有些植物在收获时会被摧毁，而其他一些如果继续生长并保持健康就只会重新种植采摘的果实。 
-
-
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="266">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve">动植物的生存系统为人类的生存提供了手段。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="267">
         <source xml:space="preserve">
@@ -2476,32 +1973,24 @@ Hunting an animal is only the first step in making the most use out of it. Butch
 To get started with hunting, you'll need to craft a {WoodenBowItem} and some {Arrows|Arrow Item}. More advanced bows will make it easier to hit your target quickly. Keep in mind that animals can be killed more quickly with a well-aimed shot, and that it may be easier to hunt some animals based on the time of day. 
   
 </source>
-        <target xml:space="preserve">
-动物物种是《生态物语》世界中的居民，在作为资源的用途方面差异很大。有些物种是牛奶和肉类食物的极好来源，而另一些物种则可能提供有用的副产品，例如羊毛，皮革，牛脂或骨粉。但是动物在适应能力，种族群落，生存环境和食物来源的影响方面也差异很大。通过狩猎，玩家可以使用各种陷阱和手动工具直接从其生活使用的生态系统中收获野生动物。狩猎还可以作为控制或剔除过多动物种群的一种方式。为了满足广大社会的胃口，狩猎对于玩家来说是一项重要但并非绝对必要的活动，尤其是在早期。狩猎动物只是充分利用动物的第一步。肉加工业的发展将使玩家能够加工和使用用于多种动物产品的动物。与厨师和裁缝师等其他专业人士的合作将解锁动物及其产品的许多营养，工业甚至文化用途，而并非所有这些都需要通过狩猎获得。但是，如果特定的动物产品在经济中变得流行，则必须小心避免对物种造成破坏性压力。狩猎往往是对濒临灭绝物种的最后一击，随着它们变得越来越稀有，其产品变得越来越有价值。要开始狩猎，你需要制作一个[WoodenBowItem] 和一些[Arrows|Arrow Item]。更高级的弓箭将使你更容易快速击中目标。请记住，使用有针对性的射击可以更快地摧毁动物，并且根据一天中的时间来狩猎某些动物可能更容易。 
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="268">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve">动植物的生存系统为人类的生存提供了手段。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="269">
         <source xml:space="preserve">Ecopedia guide for getting started.
 </source>
-        <target xml:space="preserve">《生态物语》百科入门指南。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="270">
         <source xml:space="preserve">
     Once you've covered your basic needs, it's time to think about how you want to contribute to the joint project of society, and your profession is how you do that.
   
 </source>
-        <target xml:space="preserve">
-    满足基本需求之后，就该考虑如何为社会共同计划做出贡献了，而你的专业就是你如何做到这一点的。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="271">
         <source xml:space="preserve">
@@ -2509,35 +1998,25 @@ To get started with hunting, you'll need to craft a {WoodenBowItem} and some {Ar
 Each profession has a number of {Specialties} beneath it which will unlock special abilities. Because citizens can only have a limited number of specialties, a good approach is to take different specialties and then {Trade} between each other.  In the skills window, you can see how many citizens have chosen each profession and look for the most-needed skills, choosing those to focus on.
   
 </source>
-        <target xml:space="preserve">
-
-每个职业下面都有许多[Specialties]，它们可以释放特殊能力。因为公民只能拥有数量有限的专业，所以一个好的方法是先选择不同的专业，然后在彼此之间进行[Trade]。在技能窗口中，你可以查看有多少公民选择了每种职业，并寻找最需要的技能，然后选择要关注的技能。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="272">
         <source xml:space="preserve">
     Check out the {Profession Overview} for a tour of the different options.
   
 </source>
-        <target xml:space="preserve">
-    查看[Profession Overview]，以了解不同选项。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="273">
         <source xml:space="preserve">(Note: the skills dialog is hidden until later in the tutorial.  It can be made visible by completing the tutorial or skipping it.)
  
 </source>
-        <target xml:space="preserve">（注意：技能对话框在本教程的后面将一直隐藏。可以通过完成本教程或跳过它来使其可见。）
- 
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="274">
         <source xml:space="preserve">A world with a range of professions can trade for mutual benefits.
 </source>
-        <target xml:space="preserve">一个拥有多种专业的世界可以互惠互利。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="275">
         <source xml:space="preserve">
@@ -2554,26 +2033,19 @@ Each profession has a number of {Specialties} beneath it which will unlock speci
     - Debating laws with the use of {Data}, presenting arguments to your fellow citizens arguing for one choice over another.
   
 </source>
-        <target xml:space="preserve">
-    《生态物语》的[Government|Government Overview] 由个人公民管理，治理的质量完全取决于这些公民的参与方式。参与公会运行的方式有很多，包括：-通过创建[CapitolItem] 和[Constitution] 成立公会。 -定义公民对象，包括[Districts]，[Demographics]，[Elected Titles]，[Election Processes] 和[Amendments|Constitution]。 -推选[Elected Title|Elected Titles] 候选人，赋予公约赋予其特殊权力。 -获得（在公约中定义的）特权后制定[Laws]。 -制定[Executive Actions]，并在公约中也定义特权。 -在[Elections] 中投票推选“[Elected Titles]”和其他公民行为。 -使用[Data] 辩论章程，向你的同胞提出争论，要求他们选择另一种选择。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="276">
         <source xml:space="preserve">
     Each of these options are available at a variety of locations which must be constructed by citizens. The current government can be viewed by selecting the Government icon in the action bar and hovering over each section will specify where the civic object is defined.
   
 </source>
-        <target xml:space="preserve">
-    这些选项中的每一个都可以在必须由公民建造的多个位置使用。可以通过在操作栏中选择“公会”图标来查看当前公会，将鼠标悬停在每个部分上将指定定义公民对象的位置。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="277">
         <source xml:space="preserve">Your civic duties are the many different ways you can interact with the government.
 </source>
-        <target xml:space="preserve">你的公民职责是你与公会互动的许多不同方式。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="278">
         <source xml:space="preserve">To bring a society through the ages to the peaks of technology, a thriving {Economy|Economy Overview} is needed, and by participating in it, citizens can both help progress society as well advance their own abilities and wealth.
@@ -2584,35 +2056,28 @@ As you take on new projects that require materials or labor that you lack the ab
 As you build up your capabilities and have more needs of other citizens, you can create your own stores, contracts, and work parties to seek their aid.  As you acquire wealth, your power to effect change (both good and bad) rises.
  
 </source>
-        <target xml:space="preserve">为了使一个社会不断发展达到技术的巅峰，需要蓬勃发展的[Economy|Economy Overview]，通过参与其中，公民既可以帮助社会进步，也可以提高自己的能力和财富。通过商品和服务的[Trade] 参与经济。通过[Stores|Store Component]，[Contracts] 和[Work Parties] 查找现有的定居点，将使公民能够将自己擅长的商品和劳力交易为其他人的专业，从而比单独工作更快地实现其个人目标。 在进行需要材料或人工的新项目时，你自己没有创造或执行的能力，而是可以通过在[Currency] 中创建商店和设置价格来出售可以在市场上执行的商品和服务。你的选择。然后，使用这种货币购买他人的商品和服务将使你可以实现这些目标，而不必自己学习所有东西。当你建立自己的能力并满足其他公民的更多需求时，你可以创建自己的商店，合同和工作团队以寻求他们的帮助。当你获得财富时，影响改变（好的和坏的）的能力就会增强。
- 
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="279">
         <source xml:space="preserve">The most efficient way to progress in knowledge and technology is trade within the economy.
 </source>
-        <target xml:space="preserve">知识和技术进步的最有效方法是经济体内的贸易。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="280">
         <source xml:space="preserve">While a functioning society is necessary to stop the meteor, each individual must have their own needs met, starting with food and shelter.
  
 </source>
-        <target xml:space="preserve">虽然必须有一个运转良好的社会来阻止流星，但每个人都必须满足自己的需求，从食物和庇护开始。
- 
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="281">
         <source xml:space="preserve">Choosing a Settlement
 </source>
-        <target xml:space="preserve">选择定居点
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="282">
         <source xml:space="preserve">When choosing a location to settle in, you'll want to consider the following factors:
 </source>
-        <target xml:space="preserve">在选择居住地点时，你需要考虑以下因素:
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="283">
         <source xml:space="preserve">Proximity to Resources
@@ -2622,43 +2087,32 @@ Proximity to Others
 Setting up near other settlements offers a distinct advantage, as you can then trade with others to gain progress faster.  However, an overcrowded area may also have limited options for expansion and natural food in the vicinity. You'll want to find a balance based on personal preference.
   
 </source>
-        <target xml:space="preserve">靠近资源
-天然的食物来源和附近的建筑用品将大大加快初步进度。
-
-与他人的距离
-接近在其他居民点附近建房具有明显的优势，因为你可以与其他人交易以更快地取得进展。但是，人满为患的地区在附近扩展和天然食品方面的选择也可能有限。你将根据个人喜好找到一个平衡点。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="284">
         <source xml:space="preserve">Claiming Your Plot
 </source>
-        <target xml:space="preserve">认领你的地块
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="285">
         <source xml:space="preserve"> Once you've selected a place to build your first settlement, you'll want to claim {Property} around it.  When placing your starting tent this will automatically occur, and further property can be claimed with land papers.  Property you claim will be protected from other citizens, unless you give them access.
 </source>
-        <target xml:space="preserve"> 选择要建立第一个住所的地点后，你将需要在其附近认领[Property]。当放置你的起始帐篷时，这将自动发生，并且可以使用契据进一步认领土地。你认领的土地将受到其他公民的保护，除非你允许他们访问。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="286">
         <source xml:space="preserve">Food
 </source>
-        <target xml:space="preserve">食物
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="287">
         <source xml:space="preserve">Finding a food supply is critical to having the calories you need to work.  Additionally, the {Nutrition} of the food you eat impacts how fast you gain experience, so you'll want to eat the best food available for the fastest gains.  When settling in the wilderness, look for food sources nearby you can take from, or plan to setup a {Farm|Farming}.  When settling near an existing village, have a look at the local economy to see what you can {Trade} in order to get food.
 </source>
-        <target xml:space="preserve">寻找食物供应对于拥有工作所需的卡路里至关重要。此外，你所吃食物的[Nutrition] 会影响你获得经验的速度，因此，你将想吃最好的食物以获得最快的收获。在野外定居时，请在附近寻找食物来源，或计划建立[Farm|Farming]。在现有村庄附近定居时，请看看当地的经济状况，看看你可以[Trade] 以获取食物。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="288">
         <source xml:space="preserve">Setting up a source of food and shelter is a first priority. 
 </source>
-        <target xml:space="preserve">建立食物和住房的来源是第一要务。 
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="289">
         <source xml:space="preserve">The {Ecosystem|Ecosystem Overview} is the provider of a vast number of resources citizens can make use of, but it is also vulnerable to their impact.  Succeeding as a society will require intelligent management of impact, using the {Government|Government Overview} to regulate what is allowed. 
@@ -2668,15 +2122,12 @@ Various forms of {Pollution} can affect the environment, creating the potential 
 The world begins as a vast untouched wilderness, and through the ages citizens will need to radically transform it using technology to build the industry and knowledge required to stop {The Meteor}.  Citizens will need to execute a careful navigation between using the resources of the ecosystem maximally and avoid damaging the environment beyond repair.
 
 </source>
-        <target xml:space="preserve">[Ecosystem|Ecosystem Overview] 是公民可以使用的大量资源提供者，但也容易受到其影响。要成为一个成功的社会，就需要对影响进行智能管理，使用[Government|Government Overview] 来规范允许的范围。各种形式的[Pollution] 都可能影响环境，造成潜在的灾难，这些灾难可能破坏你的食物供应并阻碍进度，导致生态崩溃。公民可以使用[Data] 工具来监控自己对世界的影响，并使用这些数据来主张制定特定的法规来保护它，或者以其他方式促进经济发展。世界始于广阔无人的荒野，随着时代的发展，公民将需要使用技术从根本上改变它，以建立制止[The Meteor] 所需的产业和知识。公民将需要在最大程度地利用生态系统资源与避免对生态环境造成无法修复的影响之间进行仔细的导航。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="290">
         <source xml:space="preserve">The ecosystem provides many resources, but is vulnerable to human actions.
 </source>
-        <target xml:space="preserve">生态系统提供了许多资源，但易受人类行为的影响。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="291">
         <source xml:space="preserve">
@@ -2690,15 +2141,12 @@ To aid in creating a positive relationship between this triangle of Individuals,
 
  But first matters first, you'll need to take care of your basic needs before you can save the world.  To do that, you'll start with {Food and Shelter}.
 </source>
-        <target xml:space="preserve">
-  《生态物语》世界充满了两个威胁：环境崩溃和迫在眉睫的[Meteor|The Meteor]。要取得成功，你需要不断发展，将科学和工业发展到可以摧毁流星而又不会在此过程中造成生态崩溃的水平。你将作为一个更大的社会中的个体来做到这一点，并且在个体需求和社会需求之间建立积极的相互作用对于成功至关重要。你在生态方面的重点将是在管理自己的进步的同时，同时整体上推进[Economy|Economy Overview]，并在受你的工作影响的丰富的[Ecosystem|Ecosystem Overview] 植物和动物中进行这项工作。为了帮助在个人，经济和生态系统的这个三角形之间建立积极的关系，你可以使用[Government|Government Overview] 工具。你可以设置约束[Laws] 来确定允许的内容并进行[Election|Elections] 推选，以获取公会进行变革和指导社会的权力。但是首先要考虑的是，你需要先满足基本需求，然后才能拯救世界。为此，你将从[Food and Shelter] 开始。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="292">
         <source xml:space="preserve">Your journey in Eco.
 </source>
-        <target xml:space="preserve">你的《生态物语》之旅。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="293">
         <source xml:space="preserve">The world has been given an expiration date, a meteor in a collapsing orbit around the globe, set to collide in 30 real-time days, destroying everything on it in the process.  
@@ -2710,21 +2158,17 @@ It will not be an easy task, and the industry required to reach such levels of a
 The fate of the world depends on its citizens acting together in harmony with the ecosystem to achieve great technological feats, and only through studied collaboration can they succeed.
   
 </source>
-        <target xml:space="preserve">地球已经定下了失效日期，这是一颗流星正在地球坍缩中，将在30天实时碰撞，在此过程中摧毁一切。但是，希望并没有失去，因为使用正确的技术可以避免这种危机。通过共同努力，发展出蓬勃发展的[Economy|economy overview] 并推动[Research] 的发展，人类有机会建立消灭这种威胁所需的[Laser|LaserItem]。这将不是一件容易的事，要达到这种进步水平的行业将对[Ecosystem|Ecosystem Overview] 构成真正的威胁。为了避免这种情况，并避免成为你自己的创造物生态崩溃的受害者，必须由其公民设计，实施和创造受严格监管的[Government|Government Overview]。世界的命运取决于其公民与生态系统和谐合作以实现巨大的技术成就，只有通过研究合作，他们才能成功。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="294">
         <source xml:space="preserve">A looming threat from above.
 </source>
-        <target xml:space="preserve">迫在眉睫的威胁。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="295">
         <source xml:space="preserve">Through the use of tools, citizens can build great structures and move mountains.  The starting tools will allow you to effect small change only, but as technology advances you will gain tools that can perform batch operations, and eventually {Vehicle|Vehicle Component} that can make massive transformations to the world. 
 </source>
-        <target xml:space="preserve">通过使用工具，公民可以建造高大的建筑物并移动山脉。入门工具将只允许你进行小改动，但是随着技术的进步，你将获得可以执行批处理操作的工具，最终可以使用[Vehicle|Vehicle Component] 进行大规模的改造。 
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="296">
         <source xml:space="preserve">There are a number of different tool types available:
@@ -2738,47 +2182,36 @@ Tools that are manually powered require Calories, affecting your {Nutrition}.
 All tools have Durability associated with them, which drops as they are used.  Once a tool has lost its durability, it will take a tremendous amount of calories to use, and should be repaired at a {Repair|Repair Component} Table.
   
 </source>
-        <target xml:space="preserve">有许多不同的工具类型可用：-[Building] 工具。锤子将允许你将建筑材料放入“表格”中，而铁铲则可以使土壤移动。 -[Farming] 工具。耕作，播种和播种都有提高其效率的工具。 -[Transport] 工具。修路的车辆和工具对运输货物特别有用。 -[Harvesting] 工具。这些工具允许从生态系统中收集资源。 -[Hunting] 工具。猎食动物需要专门的工具。手动供电的工具需要卡路里，从而影响你的[Nutrition]。所有工具都具有与之关联的耐用性，使用时会下降。工具失去耐用性后，将需要消耗大量卡路里，应在[Repair|Repair Component] 表中进行维修。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="297">
         <source xml:space="preserve">Having access to the best tools allow you to achieve the most progress.
 </source>
-        <target xml:space="preserve">使用最好的工具可以使你取得最大的进步。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="298">
         <source xml:space="preserve">After collecting some basic raw materials, building is one of the first things a citizen will do to establish themselves in the world.
   
   
 </source>
-        <target xml:space="preserve">在收集了一些基本原材料之后，建筑是公民在世界上建立自己的第一步。
-  
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="299">
         <source xml:space="preserve">Using a hammer or a crane, citizens can create buildings for homes and industry.
 </source>
-        <target xml:space="preserve">公民可以使用锤子或起重机来建造房屋和工业建筑物。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="300">
         <source xml:space="preserve">
 The My Deeds Component allows citizens to view and manage all {Property} that they own, providing an interface to access them easily.
   
 </source>
-        <target xml:space="preserve">
-通过“我的行为”组件，公民可以查看和管理他们拥有的所有[Property]，并提供了一个易于访问他们的界面。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="301">
         <source xml:space="preserve">Allows citizens to see view and manage all property they own.
 </source>
-        <target xml:space="preserve">允许公民查看和管理他们拥有的所有土地。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="302">
         <source xml:space="preserve">
@@ -2789,16 +2222,12 @@ Text can be useful for giving directions, advertising, or just writing a friendl
 For those familar with text markup, a variety of tags may be used to alter the size, color, and formatting of text.
 
 </source>
-        <target xml:space="preserve">
-文字组件可以在标牌，[Vehicles|Vehicle Component] 和[Distribution Station|Item Distribution Component] 上找到。文本可用于提供指示，广告或仅写友好的问候。对于那些熟悉文本标记的人，可以使用各种标签来更改文本的大小，颜色和格式。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="303">
         <source xml:space="preserve">Allows citizens write text that is displayed to other citizens.
 </source>
-        <target xml:space="preserve">允许公民编写显示给其他公民的文字。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="304">
         <source xml:space="preserve">
@@ -2807,22 +2236,17 @@ A foundational goal of the ecosystem simulation in Eco is to contain a multitude
 Animal's prey and predators can be viewed through the web interface and checking the linked layers. Currently the prey-predator relationship is one way: the predators require the prey to exist, but they don't actually remove any from the simulation. This means that an explosion of elk would increase the wolf population, but this wouldn't put pressure onto the elk. Changing this relationship to consume both ways while ensuring it doesn't spiral out of control in an unexpected and sudden way is important as we move forward.
   
 </source>
-        <target xml:space="preserve">
-《生态物语》中生态系统模拟的基本目标是包含大量食物网。食物网可以被认为是植物和动物之间的一组“消费”和“消费”关系，它们以特定的动物群落及其喜爱的食物为中心。通常，此想法是在每个生物群落中至少存在一个牢固的食物网。食物网通常是生态系统中物种之间最重要的内部和内部关系的基础。许多物种以其他物种为食，或捕食正在食用它们的物种。可以通过网络界面查看动物的猎物和掠食者，并检查链接的图层。当前，食肉动物与食肉动物之间的关系是一种方式：食肉动物需要食肉动物存在，但是它们实际上并没有从模拟中删除任何食肉动物。这意味着麋鹿的爆炸会增加狼的数量，但这不会给麋鹿带来压力。随着我们的前进，改变这种关系以同时使用两种方式，同时确保其不会以意外和突然的方式失控，这一点很重要。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="305">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve">动植物的生存系统为人类的生存提供了手段。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="306">
         <source xml:space="preserve">Follow the development of Eco.
 </source>
-        <target xml:space="preserve">跟随《生态物语》的发展。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="307">
         <source xml:space="preserve">
@@ -2831,40 +2255,32 @@ Animal's prey and predators can be viewed through the web interface and checking
     Via our website, you can view all the interactive parts of the tree and see where we're headed and the guiding philosophy behind the game.
   
 </source>
-        <target xml:space="preserve">
-    我们希望《生态物语》能够成为一款永恒的游戏，其深度和广度将不断发展，并与其他未来游戏保持联系，这是一种超越娱乐无限可能性的系统。这棵树包含了《生态物语》的过去，现在和未来。通过我们的网站，你可以查看树的所有交互部分，了解我们前进的方向以及游戏背后的指导思想。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="308">
         <source xml:space="preserve">View Eco Tree at play.eco
 </source>
-        <target xml:space="preserve">在查看生态树
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="309">
         <source xml:space="preserve">Follow the development of Eco.
 </source>
-        <target xml:space="preserve">跟随《生态物语》的发展。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="310">
         <source xml:space="preserve">Setting up a Store
 </source>
-        <target xml:space="preserve">开设商店
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="311">
         <source xml:space="preserve">Repairing Tools
 </source>
-        <target xml:space="preserve">维修工具
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="312">
         <source xml:space="preserve">Buildings in Eco
 </source>
-        <target xml:space="preserve">《生态物语》建筑
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="313">
         <source xml:space="preserve">
@@ -2879,16 +2295,12 @@ Some of these uses include:
 - Housing the various {Civic Objects|Civic Object Component} neccesary to establish a government
 
 </source>
-        <target xml:space="preserve">
-建筑物分为[Rooms]，可用于多种用途。这些用途包括：-装满家具的房屋，以从住房中获得红利[Experience]-为[Crafting] 站提供运行空间-容纳各种[Civic Objects|Civic Object Component] 所需的建立公会。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="314">
         <source xml:space="preserve">Creating Buildings
 </source>
-        <target xml:space="preserve">建立建筑物
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="315">
         <source xml:space="preserve">When carrying a building material, the hammer is able to switch between different block shapes and building patterns.
@@ -2898,21 +2310,17 @@ Citizens build their first homes using a {StoneHammerItem}, but as technology pr
 Large-scale construction projects can be quickly completed with the use of a {CraneItem}, but at the cost of creating {Pollution}.
   
 </source>
-        <target xml:space="preserve">当携带建筑材料时，锤子能够在不同的块形状和建筑样式之间切换。公民使用[StoneHammerItem] 建造了自己的第一所房屋，但是随着技术的进步，越来越多的建筑工具变得可用，使用时消耗的卡路里更少。使用[CraneItem] 可以快速完成大型建设项目，但要付出创建[Pollution] 的代价。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="316">
         <source xml:space="preserve">Types of Vehicles
 </source>
-        <target xml:space="preserve">车辆种类
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="317">
         <source xml:space="preserve">Types of Civic Objects
 </source>
-        <target xml:space="preserve">公民对象的类型
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="318">
         <source xml:space="preserve">
@@ -2926,16 +2334,12 @@ Once a {Constitution} is passed, new government policies are contained as Civic 
 - {Election Processes} are set at a {BoardOfElectionsItem}
   
 </source>
-        <target xml:space="preserve">
-一旦通过[Constitution]，新的公会政策即作为其创建的公会建筑物中的公民对象包含在内。公会建筑物的类型很多，每种类型都有其自己的公民对象类型：-[Laws] 设置在将[CourtItem]-[Demographics] 设置为[CensusBureauItem]-将[Districts] 设置为[ZoningOfficeItem]-将[Elected Titles] 设置为[GovernmentOfficeItem]-将[Civic Articles] 设置为[CapitolItem] 或[AmendmentsItem]-[Election Processes] 设置在[BoardOfElectionsItem]
-	
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="319">
         <source xml:space="preserve">Proposing Civic Objects
 </source>
-        <target xml:space="preserve">提出公民对象
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="320">
         <source xml:space="preserve">
@@ -2946,9 +2350,7 @@ By visiting the Civic Object Component on a government building that already con
 The buildings containing civic objects must remain placed and active for the civic object to stay in effect. If a government building is picked up, all civic objects contained on it come with it and they will eventually become disabled if the building is not replaced.
 	
 </source>
-        <target xml:space="preserve">
-单击草稿“”按钮将允许公民提出新的公民对象。公民可以选择通过将鼠标悬停在该图标上时出现的“复制”按钮来开始针对公民对象的新草稿。这将弹出一个对话框，允许你选择任何公民对象（过去或现在）用作基础。 
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="321">
         <source xml:space="preserve">
@@ -2959,14 +2361,7 @@ The buildings containing civic objects must remain placed and active for the civ
 - View Only: If the citizen has no privileges as defined in the constitution, they may only view the civic objects by clicking on them and are not allowed to make changes.
   
 </source>
-        <target xml:space="preserve">
-- 立即应用更改：被赋予行政特权的公民可以立即添加、删除和编辑公民物品。
-
-- 通过推选提议：拥有推选提案能力的公民可以提出增加/删除/编辑，然后触发新的推选（使用公约中定义的任何[Election Process|Election Processes]。
-
-- 只能查看：如果公民没有公约中定义的权限，则只能通过点击公民物品来查看，不允许进行修改。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="322">
         <source xml:space="preserve">
@@ -2977,26 +2372,17 @@ Citizens can quickly rename their deeds, choose a color for that property on the
 A useful feature of this component is the ability to quickly move plots of property from one deed to another. This includes the option to create a new deed to split an existing piece of property.
 
 </source>
-        <target xml:space="preserve">
-该组件可从[RealEstateDeskItem] 访问。它提供了所有个人契据的链接，可以通过与公民拥有的契据上的[PropertyToolItem] 进行交互来访问。
-
-公民可以快速地重命名他们的契据，为小地图上的土地选择一种颜色，或者为其他公民提供消费权利，所有这些通常都是通过[Authorization Component] 完成的。
-
-该组件的一个有用功能是能够快速地将土地地块从一个契据移动到另一个契据。这包括创建一个新的契据来分割现有的一块土地的选项。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="323">
         <source xml:space="preserve">The Text Component allows a citizen to write text that is displayed on a world object for other citizens to read.
 </source>
-        <target xml:space="preserve">文字组件允许公民写出文字，显示在世界物品上供其他公民阅读。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="324">
         <source xml:space="preserve">Pipe Requirements
 </source>
-        <target xml:space="preserve">管道要求
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="325">
         <source xml:space="preserve">
@@ -3007,16 +2393,12 @@ Some objects require all three uses of pipes to have an active {Status|Status Co
 By holding the mouse over the display for one of the pipes, a tooltip appears with more information about why a pipe is or isn't active.
   
 </source>
-        <target xml:space="preserve">
-打开“管道组件”时，将出现不同的管道输入和输出来代表管道需求。具有此组件的对象必须满足所有管道要求才能激活该对象。有些对象需要使用管道的所有三种用途才能具有活动的[Status|Status Component]，而其他对象只需要其中一部分。每个管道系统只能用于以下三种用途之一。通过将鼠标悬停在其中一个管道的显示屏上，将显示一个提示信息，其中包含有关为什么管道处于活动状态或非活动状态的更多信息。
-  
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="326">
         <source xml:space="preserve">Carpenter
 </source>
-        <target xml:space="preserve">木工
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="327">
         <source xml:space="preserve">
@@ -3027,19 +2409,12 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {PaperMillingSkill} allows citizens to refine wood pulp into {PaperItem}. Paper is used for some specialty furniture.
 
 </source>
-        <target xml:space="preserve">
-[Carpenters|Carpenter]专精于砍伐树木并能够将木材加工成家具和房屋建材。
-  -[LoggingSkill]使公民可以更有效地采伐树木。另外，伐木技术可以制作[Hewn Logs|HewnLogItem]，这是木匠的主要建筑材料。
-  -[CarpentrySkill]允许公民制作木制家具和[Boards|Board Item]。通过使用[SawmillItem]，具有此专精的公民可以生产[LumberItem]。
-  -[CompositesSkill]允许公民使用先进的技术来生产最优质的[CompositeLumberItem]建筑材料。
-  -[PaperMillingSkill]允许公民将木浆精炼成[PaperItem]。纸可用于一些特殊家具的制造。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="328">
         <source xml:space="preserve">Chef
 </source>
-        <target xml:space="preserve">厨师
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="329">
         <source xml:space="preserve">
@@ -3051,20 +2426,12 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {AdvancedBakingSkill} is an alternative to Advanced Cooking that uses {LeavenedDoughItem} to make high quality baked goods. 
  
 </source>
-        <target xml:space="preserve">
-[Chefs|Chef]专门烹饪更有营养的食物，以提高公民获得经验的比率。
-  -[CampfireCookingSkill]是入门级厨师专精，使用[CampfireItem]来烹饪基本食物。
-  -[CookingSkill]是厨师专精的第二步，使用[CastIronStoveItem]来烹饪更高质量的菜肴。
-  -[BakingSkill]是一种替代的烹饪方法，使用[FlourItem]制作烘焙食品。
-  -[AdvancedCookingSkill]是能够烹饪最富养食菜品的高级厨师专精。
-  -[AdvancedBakingSkill]是高级的替代烹饪方法，使用[LeavenedDoughItem]制作高品质烘焙食品。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="330">
         <source xml:space="preserve">Engineer
 </source>
-        <target xml:space="preserve">工程师
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="331">
         <source xml:space="preserve">
@@ -3076,20 +2443,12 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {ElectronicsSkill} uses expensive ingredients to produce the most advanced materials needed for modern crafting projects. In addition to providing a source of green electricity, electronics is used to craft the {LaserItem} needed to save the world from the meteor.
 
 </source>
-        <target xml:space="preserve">
-[Engineers|Engineer]专门生产供其他职业使用的车辆和先进的制造材料。
-  -[BasicEngineeringSkill]允许公民铺设道路和制造手推车以帮助运输。此外，基础工程还包含了处理和冶炼矿石所需的工艺表。
-  -[MechanicsSkill]允许公民制造早期的机动车辆，例如[SteamTruckItem]。工程专精还提供了第一个电力来源，以帮助实现技术发展。
-  -[IndustrySkill]允许公民制造先进的工具，例如[ExcavatorItem]，可以快速收集大量自然资源。
-  -[OilDrillingSkill]允许公民使用[PumpJackItem]开采[PetroleumItem]以用于燃料和各种工业项目。
-  -[ElectronicsSkill]使用昂贵的原料来生产现代制造项目所需的最先进的材料。除了提供绿色能源外，电子学专精还可以制造[LaserItem]，以摧毁流星拯救世界。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="332">
         <source xml:space="preserve">Farmer
 </source>
-        <target xml:space="preserve">农民
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="333">
         <source xml:space="preserve">
@@ -3100,20 +2459,12 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {MillingSkill} allows citizens to process products in a {MillItem} for use by chefs in more advanced recipes.
 
 </source>
-        <target xml:space="preserve">
-[Farmers|Farmer]是农业专家。他们种植的农作物是公民从事工作所需能量的主要来源。
-  -[GatheringSkill]使公民可以从野生植物和人工农场中收获更多农产品。
-  -[FarmingSkill]允许公民使用农产品生产种子来帮助建立大型农场。
-  -[FertilizersSkill]允许公民使用[SoilSamplerItem]制作肥料并测试土壤条件。
-  -[MillingSkill]允许公民在[MillItem]中加工产品，以供厨师使用更高级的配方。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="334">
         <source xml:space="preserve">Hunter
 </source>
-        <target xml:space="preserve">猎人
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="335">
         <source xml:space="preserve">
@@ -3122,18 +2473,12 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {ButcherySkill} allows citizens to process animal carcasses into prepared meat for chefs. The pelts and hides they create can be used for clothing and other crafting projects.
 
 </source>
-        <target xml:space="preserve">
-[Hunters|Hunter]是能够高效狩猎动物和处理肉类供厨师使用的专家。猎人的两个专精紧密相关，因为在厨师可以使用肉类之前，必须对被猎取的动物进行加工。 
-  -[HuntingSkill]给予公民在狩猎动物时额外的伤害加成，并使他们能够近距离接近动物而不会使其逃跑。
-  -[ButcherySkill]允许公民将动物遗骸加工成厨师能够使用的肉。他们制造的兽皮和皮革可用于服装和其他制造项目。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="336">
         <source xml:space="preserve">Mason
 </source>
-        <target xml:space="preserve">石匠
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="337">
         <source xml:space="preserve">
@@ -3145,21 +2490,12 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   -{AdvancedMasonrySkill} is a high-level mason skill that produces the finest quality Ashlar Stone building material and furniture.
 
 </source>
-        <target xml:space="preserve">
-[Masons|Mason]是采矿和处理石材方面的专家。它们为房屋提供了宝贵的建筑材料和家具资源。 他们采集的矿石也可以提供给铁匠进行冶炼。
- -[MiningSkill]可以使公民在开采石头和矿石时消耗更少的卡路里。矿工还处理收集的矿石用于冶炼。
- -[MasonrySkill]使公民可以生产[MortarItem]，这是大多数石质建筑材料的主要成分。他们生产的[MortaredStoneItem]是早期建筑材料的重要来源。
- -[PotterySkill]允许公民使用[ClayItem]烧制建筑材料[BrickItem]和家具。
- -[GlassworkingSkill]允许公民制造[GlassItem]，以及后期的[FramedGlassItem]。玻璃是一种很好的辅助建筑材料，可用于各种工业项目的建设。
- -[AdvancedMasonrySkill]是一种高级石匠技能，可生产最优质的方琢石建筑材料和家具。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="338">
         <source xml:space="preserve">Smith
 </source>
-        <target xml:space="preserve">铁匠
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="339">
         <source xml:space="preserve">
@@ -3168,18 +2504,12 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {AdvancedSmeltingSkill} allows citizens to further refine iron bars into {Steel|SteelBarItem} for use in industry and high-tier building materials. Citizens with this specialty can use the steel they create to make more advanced tools.
 
 </source>
-        <target xml:space="preserve">
-[Smiths|Smith]擅长冶炼矿石，并使用他们制造的金属锭为其他公民制造工具。 
--[SmeltingSkill]允许公民冶炼金属锭，它们是技术进步的基础。铁匠制造的铁工具比早期的石器工具具有明显的优势。
--[AdvancedSmeltingSkill]允许公民进一步将铁锭精炼成[Steel|SteelBarItem]，以用于工业和高阶建筑材料。具有这一专精的公民可以使用钢材来制造更先进的工具。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="340">
         <source xml:space="preserve">Tailor
 </source>
-        <target xml:space="preserve">裁缝
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="341">
         <source xml:space="preserve">
@@ -3187,17 +2517,12 @@ The {Tailor} specializes in making high end furniture and specialized clothing t
   - {TailoringSkill} allows citizens to create {ClothItem} to create high quality furniture and for use in crafting projects by a variety of professions. The clothing tailors create provides citizens with special bonuses. For example, a {BigBackpackItem} has a higher maximum weight limit than the starter {BasicBackpackItem}.
 
 </source>
-        <target xml:space="preserve">
-[Tailor]专门制造高档家具和专用服装，穿着这些服装时会提供加成。与大多数职业不同，裁缝只有一种专精。 
--[TailoringSkill]允许公民制造[ClothItem]，以制作高品质的家具，同时也是其他职业的制作材料。裁缝制作的服装为公民提供了特殊的加成。例如，[BigBackpackItem]的负重限制要高于初始的[BasicBackpackItem]。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="342">
         <source xml:space="preserve">Survivalist
 </source>
-        <target xml:space="preserve">生存专家
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="343">
         <source xml:space="preserve">
@@ -3205,24 +2530,17 @@ The {Tailor} specializes in making high end furniture and specialized clothing t
    - Experience in {SelfImprovementSkill} is gained anytime a citizen levels up another specialty. Self-improvement has two main benefits. As citizens progress, they will have increased carry weight capacity and a larger stomach capacity for extra calories. In addition, less calories are consumed when using hammers and shovels.
 
 </source>
-        <target xml:space="preserve">
-[Survivalists|Survivalist] 专精于携带额外的负重并减少使用基本工具时消耗的卡路里。在《生态物语》世界中，所有公民都是生存主义者。
- -每当公民升级另一个专业时，都会获得[SelfImprovementSkill] 的经验。自我完善有两个主要好处。在生态世界中，所有公民都是冲浪者。随着玩家等级的提升，他们将具有更大的负重能力和更大的胃以存储更多的卡路里。此外，使用锤子，铲子和镐子消耗的卡路里也会更少。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="344">
         <source xml:space="preserve">A general overview of the current economy that contains information such as available trades, work parties, and contracts.
 </source>
-        <target xml:space="preserve">当前经济的总体概述，其中包含诸如可用交易，工作组和合同之类的信息。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="345">
         <source xml:space="preserve">The Economy Viewer provides a general overview of the current economy and is an incredibly useful tool for economic participation. Among other users, the Economy Viewer shows the location of every {StoreItem} and what is currently being bought and sold.
 </source>
-        <target xml:space="preserve">“经济情况”界面提供了当前经济的总体概况，是参与经济活动的非常有用的工具。
-在其他用户中，“经济情况”界面显示了每个[StoreItem]的位置以及当前正在购买和出售的商品。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="346">
         <source xml:space="preserve">
@@ -3237,63 +2555,36 @@ The Economy Viewer provides detailed information about the following:
 In addition, the Economy Viewer allows citizens to directly transfer currency to other citizens and quickly check the status of their own {Bank Accounts} and any outstanding debts.
    
 </source>
-        <target xml:space="preserve">
-“经济情况”界面提供有关以下内容的详细信息：
-
--当前的[Trade] 订单
--现有的[Work Parties] 及其状态
--已发布的所有[Contracts]
--[Public Crafting Stations|Crafting Component] 的位置
--有关现有[Currencies|Currency] 的信息
-
-此外，“经济情况”界面允许公民直接将货币转移给其他公民，并快速查看其自己[Bank Accounts] 的状态以及任何未偿债务。
-   
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="347">
         <source xml:space="preserve">Accessing the Economy Viewer
 </source>
-        <target xml:space="preserve">访问“经济情况”界面
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="348">
         <source xml:space="preserve">The Economy Viewer can be accessed by clicking the Economy button located at the bottom right of the screen.
 </source>
-        <target xml:space="preserve">单击屏幕右下方的“经济”按钮可以访问“经济情况”界面。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="349">
         <source xml:space="preserve">Feeding the World
 Food forms the backbone of a growing society in Eco, fueling the increase in skills needed to build a civilization.  A well-organized network of food producers, from farmers to chefs, ensures that citizens gain skills at the rate they need.
 
 </source>
-        <target xml:space="preserve">民以食为天
-食物是《生态物语》游戏中社会发展的主要力量，吃饱了才有力气干活，所以食物可说是文明建立之本。从农夫到厨师，一个组织良好的食物生产链可确保公民们如期提升其他生活或专业技能。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="350">
         <source xml:space="preserve">The property where you have taken residency provides your housing points.
 </source>
-        <target xml:space="preserve">你所定居的房产可以给你提供住房点。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="351">
         <source xml:space="preserve">  
 Citizens pick a primary residence to determine which deed will provide their {Housing|Housing Overview} bonus. Each deed can have any number of residents, and those residents will share in an {Experience} boost based on the quality of the house and number of occupants.
   
 </source>
-        <target xml:space="preserve">
-每张房产证都可以由任意数量的居民，且这些居民的共同[Experience]增长会取决于居住者数量与质量。
-
-随着居住者数量增加，居住惩罚会提高。居民数量少（1到2人）时，没有惩罚，市民可以以这种方式同居，共享一处居住适当的房子。当居民增加（到5或以上）时，该项惩罚则会急速上升，并在房子过于拥挤时会最终窜上99%。
-
-然而，增设房间的 '报酬递减' 率却是被居住数目正面影响的（因为独居造三个厕所肯定是有问题，不过如果有室友的时候就会很好）。这就意味着你可以通过造一个大房子来抵消这个惩罚，且增加重复的房间还会反过来影响居住奖励。
-  
-要成为一处房产的居民，单击房产的名字（在弹出状态面板可见）。从那里你可以成为居民（若用有房产证），亦可以邀请他人成为居民。这些受邀的市民就可以从相同的界面加入成为居民。你甚至可以通过筛选头衔或群体来邀请一队人，这样就可以为特定阶层或特定居民（如新玩家）提供住房了。你还可以设置居住最大人数，来确保通过这种条件管控的住房（如通过邀请大量人员）不会过于拥挤。
-
-注意：之后会新增游戏特性来允许市民间签署自动租金收集协议。而现在收租金可通过手动转账来完成。
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="352">
         <source xml:space="preserve">Permissions for Residents
@@ -3310,14 +2601,7 @@ After inviting residents, deeds can be offered for rent to allow automatic rent 
 Available properties for rent can be found in the {Economy Viewer}. Once accepted, the rent will have a locked rate until either party ends the rental agreement.
 
 </source>
-        <target xml:space="preserve">居民许可
-当市民成为了一处房产的居民，就算他们无法入内，也会获得一系列特殊的许可，即居住权。这些权利具体如下：
-
-  - 居民可作为消费者自由处置房产内所有世界物体。精装房适用。
-  - 可放入属于自己的东西：居民可以在房产任意位置摆放东西（但无法放置方块）。
-  - 不允许盗窃房内本来就放置好的家具：居民只能拿起自己原先放置的世界物品。
-
-</target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="353">
         <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.

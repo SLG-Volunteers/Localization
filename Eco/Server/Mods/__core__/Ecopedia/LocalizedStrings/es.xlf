@@ -3714,7 +3714,8 @@ Cuando un ciudadano se convierte en residente de una propiedad, ganará un conju
       <trans-unit id="353">
         <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.
 </source>
-        <target xml:space="preserve" state="needs-translation"/></trans-unit>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
