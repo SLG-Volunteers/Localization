@@ -2244,13 +2244,7 @@ Early on, most power will come from calories expended by citizens.  Local-power 
 Many types of power generation exist, and each has different fuel needs as well as environmental impact.  The building, fueling, and operation of power plants can become a major {Pollution} source as technology advances, and citizens will need to carefully regulate the types of power used and how pollution is handled to prevent an ecological catastrophe.
   
 </source>
-        <target xml:space="preserve">Many objects require power to function, and as your society progresses the types of power will progress as well.
-  
-Early on, most power will come from calories expended by citizens.  Local-power sources can also be built such as {Waterwheels|Waterwheel Item}, powering only the immediate vicinity.  When technology progresses to electricity, power can then be generated centrally, allowing groups to form together to power towns and cities as a group rather than having to individually setup power sources (community projects like this are a great fit for using the {Taxes} system to fund them, and {Contracts} and {Work Parties} to get them built).
-  
-Many types of power generation exist, and each has different fuel needs as well as environmental impact.  The building, fueling, and operation of power plants can become a major {Pollution} source as technology advances, and citizens will need to carefully regulate the types of power used and how pollution is handled to prevent an ecological catastrophe.
-  
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="218">
         <source xml:space="preserve">Many objects require power to function, which can be generated in a variety of ways.
@@ -2305,8 +2299,7 @@ Many types of power generation exist, and each has different fuel needs as well 
       <trans-unit id="225">
         <source xml:space="preserve">On the deed, citizens can add and remove parties that may access the land (place or remove blocks).  The owner can also be changed by clicking the gear beside the owner name.  Note that both {Demographics} and {Titles} can both be given ownership on a deed, including {Elected Titles}. Structuring a government this way can allow only elected officials to have certain access rights to land.
 </source>
-        <target xml:space="preserve">On the deed, citizens can add and remove parties that may access the land (place or remove blocks).  The owner can also be changed by clicking the gear beside the owner name.  Note that both {Demographics} and {Titles} can both be given ownership on a deed, including {Elected Titles}. Structuring a government this way can allow only elected officials to have certain access rights to land.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="226">
         <source xml:space="preserve">Citizens and governments may own property and determine the access rights of them.
@@ -2364,14 +2357,7 @@ Sewage systems are created by connecting a {MechanicalWaterPumpItem} or {Electri
 Pipes will automatically connect to any adjacent pipe block of the same type.  To make sewage systems with different pipes in close proximity, use different materials of pipes.
 
 </source>
-        <target xml:space="preserve">
-Many industrial and housing objects require sewage support to function.  Typically, this means requiring water as an input, and an output for waste water.  Every object that has a {Pipe Component} will need a sewage connection.
-
-Sewage systems are created by connecting a {MechanicalWaterPumpItem} or {ElectricWaterPumpItem} to a water source, and then building Pipes between the different objects that need supplying.  On the waste side, pipes will take the waste water from the object to either dump it into the environment (producing {Pollution} at the exit point), or process it at a {Waster Filter|WasteFilterItem}, which will generate {Compost|CompostItem} from the wastewater.
-
-Pipes will automatically connect to any adjacent pipe block of the same type.  To make sewage systems with different pipes in close proximity, use different materials of pipes.
-
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="230">
         <source xml:space="preserve">Certain objects require sewage systems to supply water and remove wastewater.
@@ -2740,10 +2726,7 @@ Doświadczenie w {SelfImprovementSkill} jest otrzymywane za każdym razem gdy ob
   
 Many vehicles require {Power|Power Component} to operate and each have their own {Storage|Storage Component}. Building infrastructure around the world will greatly enhance your {Transport} capabilites as many vehicles require roads to operate.
 </source>
-        <target xml:space="preserve">Any object containing a Vehicle Component can be mounted and interacted with in a variety of ways, providing a number of benefits.
-  
-Many vehicles require {Power|Power Component} to operate and each have their own {Storage|Storage Component}. Building infrastructure around the world will greatly enhance your {Transport} capabilites as many vehicles require roads to operate.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="262">
         <source xml:space="preserve">  
@@ -2881,20 +2864,7 @@ Sprawdź {Profession Overview} aby zapoznać się z różnymi opcjami.
     - Debating laws with the use of {Data}, presenting arguments to your fellow citizens arguing for one choice over another.
   
 </source>
-        <target xml:space="preserve">
-    The {Government|Government Overview} of Eco is run by individual citizens, and the quality of governance is fully dependent on how those citizens participate.
-
-    There are a number of ways to participate in the running of the government, including:
-
-    - Founding the government by creating a {CapitolItem} and {Constitution}.
-    - Defining civics objects including {Districts}, {Demographics}, {Elected Titles}, {Election Processes}, and {Amendments|Constitution}.
-    - Running as a candidate for an {Elected Title|Elected Titles}, giving special powers assigned to it by the constitution.
-    - Enacting {Laws} after attaining the privilege to (defined in the constitution).
-    - Enacting {Executive Actions}, with privileges also defined in the constitution.
-    - Voting in {Elections} for {Elected Titles} and other civic actions.
-    - Debating laws with the use of {Data}, presenting arguments to your fellow citizens arguing for one choice over another.
-  
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="276">
         <source xml:space="preserve">

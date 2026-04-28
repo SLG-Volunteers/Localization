@@ -644,8 +644,7 @@ Crafting Component bruges til at {Craft|Crafting} genstande, tilføje ressourcer
       <trans-unit id="68">
         <source xml:space="preserve">Crafting Items
 </source>
-        <target xml:space="preserve">Crafting Items
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="69">
         <source xml:space="preserve">
@@ -700,12 +699,7 @@ Some recipes use Tagged Ingredients that can accept similar items as inputs. For
 Tagged ingredients will be consumed automatically, so there is no need to create separate orders using the different ingredients.
   
 </source>
-        <target xml:space="preserve">
-Some recipes use Tagged Ingredients that can accept similar items as inputs. For example, an item may specify it needs 'Rock', and will accept any type of rock with that tag ({GraniteItem}, {BasaltItem}, etc).
-	
-Tagged ingredients will be consumed automatically, so there is no need to create separate orders using the different ingredients.
-  
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="74">
         <source xml:space="preserve">Parent Recipes

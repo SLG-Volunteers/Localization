@@ -640,7 +640,7 @@
       </trans-unit>
       <trans-unit id="167">
         <source xml:space="preserve">Title Holders</source>
-        <target xml:space="preserve">Title Holders</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="168">
         <source xml:space="preserve">Status</source>
@@ -676,43 +676,43 @@
       </trans-unit>
       <trans-unit id="176">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="177">
         <source xml:space="preserve">Argument over laws goes here</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="178">
         <source xml:space="preserve">No Meteor</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="179">
         <source xml:space="preserve">Select an election from the menu</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="180">
         <source xml:space="preserve">The meteor was destroyed</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="181">
         <source xml:space="preserve">There have been no elections yet</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="182">
         <source xml:space="preserve">To start a new election</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="183">
         <source xml:space="preserve">TwitchVotes</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="184">
         <source xml:space="preserve">UserVotes</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="185">
         <source xml:space="preserve">When a Treasury is built</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
     </body>
   </file>

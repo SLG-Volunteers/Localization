@@ -453,8 +453,7 @@ Componenta obiect civic permite cetățenilor să propună, să modifice și să
       <trans-unit id="43">
         <source xml:space="preserve">Civic Duties
 </source>
-        <target xml:space="preserve">Civic Duties
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="44">
         <source xml:space="preserve">Within a Civic Object Component, you will see a list of your {Civic Duties}. This informs the citizen what permissions they have regarding civic objects, given the current {Constitution}.The possibilities of different civic duties are:
@@ -773,8 +772,7 @@ Unele rețete au costuri folosind ingrediente statice. Ingredientele statice nu 
       <trans-unit id="80">
         <source xml:space="preserve">Specialty Upgrades
 </source>
-        <target xml:space="preserve">Specialty Upgrades
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="81">
         <source xml:space="preserve">
@@ -1530,8 +1528,7 @@ Minimapa este un instrument puternic în cadrul jocului, care servește mai mult
       <trans-unit id="150">
         <source xml:space="preserve">The true meaning of life is to plant trees, under whose shade you do not expect to sit.\n– Nelson Henderson
 </source>
-        <target xml:space="preserve">The true meaning of life is to plant trees, under whose shade you do not expect to sit.\n– Nelson Henderson
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="151">
         <source xml:space="preserve">
@@ -1698,8 +1695,7 @@ Pentru a asigura supraviețuirea ecosistemelor și a păstra resurse precum solu
       <trans-unit id="168">
         <source xml:space="preserve">Ground Pollution
 </source>
-        <target xml:space="preserve">Ground Pollution
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="169">
         <source xml:space="preserve">
@@ -1714,8 +1710,7 @@ Odată eliberați în sol și pânza freatică, poluanții solului nu sunt ușor
       <trans-unit id="170">
         <source xml:space="preserve">Air Pollution
 </source>
-        <target xml:space="preserve">Air Pollution
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="171">
         <source xml:space="preserve">
@@ -2145,8 +2140,7 @@ An executive action is a one-time operation that can be performed to enact chang
       <trans-unit id="207">
         <source xml:space="preserve">An institution designed and run by the people to promote the common good.
 </source>
-        <target xml:space="preserve">An institution designed and run by the people to promote the common good.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="209">
         <source xml:space="preserve">Laws are the means by which the government makes changes in the world, to achieve the goals of the populace.
@@ -2820,8 +2814,7 @@ Many vehicles require [Power|Power Component] to operate and each have their own
       <trans-unit id="264">
         <source xml:space="preserve">Vehicles can be used for performing a variety of tasks.
 </source>
-        <target xml:space="preserve">Vehicles can be used for performing a variety of tasks.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="265">
         <source xml:space="preserve">
@@ -2832,14 +2825,7 @@ Different plants require different tools to harvest, such as a shovel, or a scyt
 
   
 </source>
-        <target xml:space="preserve">
-In Eco, players harvest food initially from the wild biomes around them. Plants ripe for the opportunity to harvest sustainably abound. Wild food sources can serve as a supplementary renewable resource, but will quickly crash if taken advantage of. Some plants will be useful for more than just food-- they may provide chemical compounds that can be found no-where else, or the raw materials needed for textiles and clothing.
-
-Different plants require different tools to harvest, such as a shovel, or a scythe. Other species can be picked by hand without a tool. Similarly, some plants are killed when they are harvested, and others will simply re-grow the picked fruits if they continue to grow and be healthy. 
-
-
-  
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="266">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
@@ -2878,18 +2864,14 @@ To get started with hunting, you'll need to craft a [WoodenBowItem] and some [Ar
       <trans-unit id="269">
         <source xml:space="preserve">Ecopedia guide for getting started.
 </source>
-        <target xml:space="preserve">Ecopedia guide for getting started.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="270">
         <source xml:space="preserve">
     Once you've covered your basic needs, it's time to think about how you want to contribute to the joint project of society, and your profession is how you do that.
   
 </source>
-        <target xml:space="preserve">
-    Once you've covered your basic needs, it's time to think about how you want to contribute to the joint project of society, and your profession is how you do that.
-  
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="271">
         <source xml:space="preserve">
@@ -2917,15 +2899,12 @@ Each profession has a number of [Specialties] beneath it which will unlock speci
         <source xml:space="preserve">(Note: the skills dialog is hidden until later in the tutorial.  It can be made visible by completing the tutorial or skipping it.)
  
 </source>
-        <target xml:space="preserve">(Note: the skills dialog is hidden until later in the tutorial.  It can be made visible by completing the tutorial or skipping it.)
- 
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="274">
         <source xml:space="preserve">A world with a range of professions can trade for mutual benefits.
 </source>
-        <target xml:space="preserve">A world with a range of professions can trade for mutual benefits.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="275">
         <source xml:space="preserve">
@@ -2962,16 +2941,12 @@ Each profession has a number of [Specialties] beneath it which will unlock speci
     Each of these options are available at a variety of locations which must be constructed by citizens. The current government can be viewed by selecting the Government icon in the action bar and hovering over each section will specify where the civic object is defined.
   
 </source>
-        <target xml:space="preserve">
-    Each of these options are available at a variety of locations which must be constructed by citizens. The current government can be viewed by selecting the Government icon in the action bar and hovering over each section will specify where the civic object is defined.
-  
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="277">
         <source xml:space="preserve">Your civic duties are the many different ways you can interact with the government.
 </source>
-        <target xml:space="preserve">Your civic duties are the many different ways you can interact with the government.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="278">
         <source xml:space="preserve">To bring a society through the ages to the peaks of technology, a thriving {Economy|Economy Overview} is needed, and by participating in it, citizens can both help progress society as well advance their own abilities and wealth.
@@ -2994,16 +2969,13 @@ As you build up your capabilities and have more needs of other citizens, you can
       <trans-unit id="279">
         <source xml:space="preserve">The most efficient way to progress in knowledge and technology is trade within the economy.
 </source>
-        <target xml:space="preserve">The most efficient way to progress in knowledge and technology is trade within the economy.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="280">
         <source xml:space="preserve">While a functioning society is necessary to stop the meteor, each individual must have their own needs met, starting with food and shelter.
  
 </source>
-        <target xml:space="preserve">While a functioning society is necessary to stop the meteor, each individual must have their own needs met, starting with food and shelter.
- 
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="281">
         <source xml:space="preserve">Choosing a Settlement
@@ -3014,8 +2986,7 @@ As you build up your capabilities and have more needs of other citizens, you can
       <trans-unit id="282">
         <source xml:space="preserve">When choosing a location to settle in, you'll want to consider the following factors:
 </source>
-        <target xml:space="preserve">When choosing a location to settle in, you'll want to consider the following factors:
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="283">
         <source xml:space="preserve">Proximity to Resources
@@ -3025,19 +2996,12 @@ Proximity to Others
 Setting up near other settlements offers a distinct advantage, as you can then trade with others to gain progress faster.  However, an overcrowded area may also have limited options for expansion and natural food in the vicinity. You'll want to find a balance based on personal preference.
   
 </source>
-        <target xml:space="preserve">Proximity to Resources
-Natural food sources and building supplies nearby will greatly speed up initial progress.
-
-Proximity to Others
-Setting up near other settlements offers a distinct advantage, as you can then trade with others to gain progress faster.  However, an overcrowded area may also have limited options for expansion and natural food in the vicinity. You'll want to find a balance based on personal preference.
-  
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="284">
         <source xml:space="preserve">Claiming Your Plot
 </source>
-        <target xml:space="preserve">Claiming Your Plot
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="285">
         <source xml:space="preserve"> Once you've selected a place to build your first settlement, you'll want to claim {Property} around it.  When placing your starting tent this will automatically occur, and further property can be claimed with land papers.  Property you claim will be protected from other citizens, unless you give them access.
@@ -3060,8 +3024,7 @@ Setting up near other settlements offers a distinct advantage, as you can then t
       <trans-unit id="288">
         <source xml:space="preserve">Setting up a source of food and shelter is a first priority. 
 </source>
-        <target xml:space="preserve">Setting up a source of food and shelter is a first priority. 
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="289">
         <source xml:space="preserve">The {Ecosystem|Ecosystem Overview} is the provider of a vast number of resources citizens can make use of, but it is also vulnerable to their impact.  Succeeding as a society will require intelligent management of impact, using the {Government|Government Overview} to regulate what is allowed. 
@@ -3082,8 +3045,7 @@ The world begins as a vast untouched wilderness, and through the ages citizens w
       <trans-unit id="290">
         <source xml:space="preserve">The ecosystem provides many resources, but is vulnerable to human actions.
 </source>
-        <target xml:space="preserve">The ecosystem provides many resources, but is vulnerable to human actions.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="291">
         <source xml:space="preserve">
@@ -3677,8 +3639,7 @@ The [Tailor] specializes in making high end furniture and specialized clothing t
       <trans-unit id="344">
         <source xml:space="preserve">A general overview of the current economy that contains information such as available trades, work parties, and contracts.
 </source>
-        <target xml:space="preserve">A general overview of the current economy that contains information such as available trades, work parties, and contracts.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="345">
         <source xml:space="preserve">The Economy Viewer provides a general overview of the current economy and is an incredibly useful tool for economic participation. Among other users, the Economy Viewer shows the location of every {StoreItem} and what is currently being bought and sold.
@@ -3715,30 +3676,24 @@ In additon, the Economy Viewer allows citizens to directly transfer currency to 
       <trans-unit id="347">
         <source xml:space="preserve">Accessing the Economy Viewer
 </source>
-        <target xml:space="preserve">Accessing the Economy Viewer
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="348">
         <source xml:space="preserve">The Economy Viewer can be accessed by clicking the Economy button located at the bottom right of the screen.
 </source>
-        <target xml:space="preserve">The Economy Viewer can be accessed by clicking the Economy button located at the bottom right of the screen.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="349">
         <source xml:space="preserve">Feeding the World
 Food forms the backbone of a growing society in Eco, fueling the increase in skills needed to build a civilization.  A well-organized network of food producers, from farmers to chefs, ensures that citizens gain skills at the rate they need.
 
 </source>
-        <target xml:space="preserve">Feeding the World
-Food forms the backbone of a growing society in Eco, fueling the increase in skills needed to build a civilization.  A well-organized network of food producers, from farmers to chefs, ensures that citizens gain skills at the rate they need.
-
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="350">
         <source xml:space="preserve">The property where you have taken residency provides your housing points.
 </source>
-        <target xml:space="preserve">The property where you have taken residency provides your housing points.
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="351">
         <source xml:space="preserve">  
