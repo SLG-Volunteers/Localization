@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="uk" datatype="plaintext" original="WebClientStrings">
+    <body>
+      <trans-unit id="1">
+        <source xml:space="preserve">404 page not found</source>
+        <target xml:space="preserve">404 — сторінку не знайдено</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:space="preserve">Allow Debug Calls</source>
+        <target xml:space="preserve">Дозволити відлагодження</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:space="preserve">Private Server</source>
+        <target xml:space="preserve">Приватний сервер</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:space="preserve">White list</source>
+        <target xml:space="preserve">Білий список</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:space="preserve">Black list</source>
+        <target xml:space="preserve">Чорний список</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:space="preserve">Admin</source>
+        <target xml:space="preserve">Адмін</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:space="preserve">Max Slots</source>
+        <target xml:space="preserve">Максимум місць</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:space="preserve">Spawn location</source>
+        <target xml:space="preserve">Місце появи</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:space="preserve">Reputations</source>
+        <target xml:space="preserve">Репутація</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:space="preserve">Use Waste</source>
+        <target xml:space="preserve">Використати відходи</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:space="preserve">Network Config</source>
+        <target xml:space="preserve">Конфігурація мережі</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:space="preserve">Public server</source>
+        <target xml:space="preserve">Публічний сервер</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:space="preserve">IP address</source>
+        <target xml:space="preserve">IP-адреса</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:space="preserve">Game server port</source>
+        <target xml:space="preserve">Порт ігрового сервера</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:space="preserve">Web server port</source>
+        <target xml:space="preserve">Порт веб-сервера</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:space="preserve">Rate</source>
+        <target xml:space="preserve">Частота</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:space="preserve">Server browser service</source>
+        <target xml:space="preserve">Служба перегляду сервера</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:space="preserve">SAVE</source>
+        <target xml:space="preserve">ЗБЕРЕГТИ</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:space="preserve">Cause &amp; Effect Explorer</source>
+        <target xml:space="preserve">Дослідження причини і наслідку</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:space="preserve">Select Category</source>
+        <target xml:space="preserve">Вибір категорії</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:space="preserve">Select Layer</source>
+        <target xml:space="preserve">Вибрати шар</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:space="preserve">Maps showing 400 square meters centered at 50</source>
+        <target xml:space="preserve">Мапи показують 400 квадратних метрів, відцентрованих на 50,50;50</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:space="preserve">Eco Elections</source>
+        <target xml:space="preserve">Еко-вибори</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:space="preserve">Select an election from the menu or you can run for office</source>
+        <target xml:space="preserve">Оберіть вибори з меню або балотуйтеся самі</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:space="preserve">Candidates</source>
+        <target xml:space="preserve">Кандидати</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:space="preserve">Elected officials receive 15 property claims</source>
+        <target xml:space="preserve">Обранці отримують 15 свідчень власності</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
+        <target xml:space="preserve">Після побудови Скарбниці, можна встановлювати податки (функція в розробці); they can set taxes (feature in progress)</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:space="preserve">This election uses</source>
+        <target xml:space="preserve">Ці вибори використовують</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:space="preserve">Instant Runoff Voting</source>
+        <target xml:space="preserve">Миттєвий другий тур голосування</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:space="preserve">Submit Vote</source>
+        <target xml:space="preserve">Проголосувати</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:space="preserve">Run For Office</source>
+        <target xml:space="preserve">Брати участь</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:space="preserve">Remove Self</source>
+        <target xml:space="preserve">Знятися</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:space="preserve">Current Results</source>
+        <target xml:space="preserve">Поточні результати</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:space="preserve">No one has voted yet</source>
+        <target xml:space="preserve">Ніхто ще не голосував</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:space="preserve">Votes per round</source>
+        <target xml:space="preserve">Голосів за тур</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:space="preserve">View All Votes</source>
+        <target xml:space="preserve">Переглянути всі голоси</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:space="preserve">Discussion</source>
+        <target xml:space="preserve">Обговорення</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:space="preserve">Day</source>
+        <target xml:space="preserve">День</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:space="preserve">Enter your response</source>
+        <target xml:space="preserve">Введіть ваш коментар</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:space="preserve">Remove Graph</source>
+        <target xml:space="preserve">Видалити графік</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:space="preserve">Remove Map</source>
+        <target xml:space="preserve">Видалити мапу</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:space="preserve">Submit</source>
+        <target xml:space="preserve">Надіслати</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:space="preserve">Cancel</source>
+        <target xml:space="preserve">Скасувати</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
+        <target xml:space="preserve">Щоби почати нові вибори, ви маєте додати себе кандидатом; you must add yourself as a candidate</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:space="preserve">Please explain why you should be elected</source>
+        <target xml:space="preserve">Будь ласка, поясніть, чому саме вас мають обрати</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:space="preserve">Enter Your Speech</source>
+        <target xml:space="preserve">Введіть свою промову</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:space="preserve">Scientific Data</source>
+        <target xml:space="preserve">Наукові дані</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:space="preserve">Cause &amp; Effect</source>
+        <target xml:space="preserve">Причина і наслідки</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:space="preserve">Run For Office</source>
+        <target xml:space="preserve">Брати участь у виборах</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:space="preserve">Current Election</source>
+        <target xml:space="preserve">Поточні вибори</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:space="preserve">Previous Elections</source>
+        <target xml:space="preserve">Попередні вибори</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:space="preserve">Active Laws</source>
+        <target xml:space="preserve">Активні закони</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:space="preserve">Proposed Laws</source>
+        <target xml:space="preserve">Запропоновані закони</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:space="preserve">Select Map Layer</source>
+        <target xml:space="preserve">Обрати шари мапи</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:space="preserve">Data</source>
+        <target xml:space="preserve">Дані</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:space="preserve">Graph</source>
+        <target xml:space="preserve">Графік</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:space="preserve">Lines</source>
+        <target xml:space="preserve">Лінії</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:space="preserve">Bars</source>
+        <target xml:space="preserve">Стовпчики</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:space="preserve">Day</source>
+        <target xml:space="preserve">День</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source xml:space="preserve">View the global effects that shape this world and how they influence each other</source>
+        <target xml:space="preserve">Переглянути глобальні ефекти, що формують цей світ, і як вони впливать одне на одного</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source xml:space="preserve">Select a category above and use the time bar at the bottom to scroll through history</source>
+        <target xml:space="preserve">Оберіть одну з категорій і використовуйте шкалу часу знизу, щоби переглянути історію</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source xml:space="preserve">Cause &amp; Effect Exploration</source>
+        <target xml:space="preserve">Дослідження причин і наслідків</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source xml:space="preserve">Users Config</source>
+        <target xml:space="preserve">Конфігурація користувачів</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source xml:space="preserve">Require Authentication</source>
+        <target xml:space="preserve">Необхідна автентифікація</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source xml:space="preserve">days/sec</source>
+        <target xml:space="preserve">днів/с</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source xml:space="preserve">In-Game Actions</source>
+        <target xml:space="preserve">Внутрішньоігрові дії</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source xml:space="preserve">Eco Laws</source>
+        <target xml:space="preserve">Еко-закони</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source xml:space="preserve">Select a law from the menu</source>
+        <target xml:space="preserve">Обрати закон з меню</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source xml:space="preserve">Law Info</source>
+        <target xml:space="preserve">Інформація про закон</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source xml:space="preserve">Reasoning</source>
+        <target xml:space="preserve">Пояснення</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source xml:space="preserve">Current Results</source>
+        <target xml:space="preserve">Поточні результати</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source xml:space="preserve">This law was passed</source>
+        <target xml:space="preserve">Цей закон прийнято</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source xml:space="preserve">Yes</source>
+        <target xml:space="preserve">Так</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source xml:space="preserve">No</source>
+        <target xml:space="preserve">Ні</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source xml:space="preserve">Add Graph</source>
+        <target xml:space="preserve">Додати графік</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source xml:space="preserve">Add Map</source>
+        <target xml:space="preserve">Додати мапу</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source xml:space="preserve">Cancel</source>
+        <target xml:space="preserve">Скасувати</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source xml:space="preserve">Name of Law</source>
+        <target xml:space="preserve">Назва закону</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source xml:space="preserve">Add Districts</source>
+        <target xml:space="preserve">Додати райони</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source xml:space="preserve">Remove Districts</source>
+        <target xml:space="preserve">Видалити райони</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source xml:space="preserve">Add New District</source>
+        <target xml:space="preserve">Додати новий район</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source xml:space="preserve">Hold right click to draw district</source>
+        <target xml:space="preserve">Затисніть праву клавішу миші, аби окреслити район</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source xml:space="preserve">Reasoning</source>
+        <target xml:space="preserve">Пояснення</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source xml:space="preserve">Propose Law</source>
+        <target xml:space="preserve">Запропонувати закон</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source xml:space="preserve">Layer Select Dropdown</source>
+        <target xml:space="preserve">Розкривний список шарів</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source xml:space="preserve">Terrain</source>
+        <target xml:space="preserve">Рельєф</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source xml:space="preserve">Temperature</source>
+        <target xml:space="preserve">Температура</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source xml:space="preserve">Height</source>
+        <target xml:space="preserve">Висота</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source xml:space="preserve">unity could send a full list of options to the dropdown later</source>
+        <target xml:space="preserve">Unity може надіслати повний список параметрів до розкривного списку пізніше</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source xml:space="preserve">Layer Select by Name or Number</source>
+        <target xml:space="preserve">Вибір шару за іменем чи номером</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
+        <target xml:space="preserve">Аргументи щодо законів будуть тут, розмір мап може бути змінений, щоби краще вміщати текст; maps can be resized to fit with text better later</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source xml:space="preserve">Student Progress</source>
+        <target xml:space="preserve">Прогрес учня</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source xml:space="preserve">There are no districts set yet</source>
+        <target xml:space="preserve">Райони ще не встановлені</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source xml:space="preserve">Active Districts</source>
+        <target xml:space="preserve">Активні райони</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source xml:space="preserve">Candidate Ranks For Each Year</source>
+        <target xml:space="preserve">Рейтинг кандидата за кожен рік</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source xml:space="preserve">No Active Laws</source>
+        <target xml:space="preserve">Активні закони відсутні</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source xml:space="preserve">No Proposed Laws</source>
+        <target xml:space="preserve">Немає запропонованих законів</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source xml:space="preserve">Online Players</source>
+        <target xml:space="preserve">Гравці в мережі</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source xml:space="preserve">Time</source>
+        <target xml:space="preserve">Час</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source xml:space="preserve">Meteor Impact</source>
+        <target xml:space="preserve">Падіння метеориту</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source xml:space="preserve">Plants</source>
+        <target xml:space="preserve">Рослини</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source xml:space="preserve">World Size</source>
+        <target xml:space="preserve">Розмір світу</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source xml:space="preserve">Pre-Made Graphs</source>
+        <target xml:space="preserve">Заготовлені графіки</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source xml:space="preserve">My Saved Graphs</source>
+        <target xml:space="preserve">Мої збережені графіки</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source xml:space="preserve">OK</source>
+        <target xml:space="preserve">Гаразд</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source xml:space="preserve">Doing Something...</source>
+        <target xml:space="preserve">Щось робимо…</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source xml:space="preserve">Some information for you to read!</source>
+        <target xml:space="preserve">Деяка інформація для вас!</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source xml:space="preserve">Datasets</source>
+        <target xml:space="preserve">Масиви даних</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source xml:space="preserve">Clear Categories</source>
+        <target xml:space="preserve">Очистити категорії</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source xml:space="preserve">Curves</source>
+        <target xml:space="preserve">Криві</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source xml:space="preserve">Pie</source>
+        <target xml:space="preserve">Діаграма</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source xml:space="preserve">Loading</source>
+        <target xml:space="preserve">Завантаження</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source xml:space="preserve">Populations</source>
+        <target xml:space="preserve">Населення</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source xml:space="preserve">Player Skill Progress</source>
+        <target xml:space="preserve">Розвиток уміння гравця</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source xml:space="preserve">Polution Progress</source>
+        <target xml:space="preserve">Розповсюдження забруднення</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source xml:space="preserve">A graph with that title already exists! Choose a unique title for your graph.</source>
+        <target xml:space="preserve">Графік з цією назвою вже існує! Оберіть унікальну назву для свого графіку.</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source xml:space="preserve">Please add a dataset to your graph before saving.</source>
+        <target xml:space="preserve">Будь ласка, додайте масив даних до вашого графіку перед збереженням.</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source xml:space="preserve">Graph copied. Type a unique name and save it.</source>
+        <target xml:space="preserve">Графік скопійовано. Введіть унікальну назву та збережіть його.</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source xml:space="preserve">Do you want to save your changes before proceeding?</source>
+        <target xml:space="preserve">Зберегти зміни, перш ніж продовжити?</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source xml:space="preserve">Don't Save</source>
+        <target xml:space="preserve">Не зберігати</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source xml:space="preserve">Server</source>
+        <target xml:space="preserve">Сервер</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source xml:space="preserve">User</source>
+        <target xml:space="preserve">Користувач</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source xml:space="preserve">Delete Proposal</source>
+        <target xml:space="preserve">Видалити пропозицію</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source xml:space="preserve">Rank the candidates from best to worst.</source>
+        <target xml:space="preserve">Відсортувати кандидатів від найкращих до найгірших.</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source xml:space="preserve">Update Vote</source>
+        <target xml:space="preserve">Оновити голосування</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source xml:space="preserve">Round</source>
+        <target xml:space="preserve">Тур</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source xml:space="preserve">Total</source>
+        <target xml:space="preserve">Усього</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source xml:space="preserve">Candidates Ranked</source>
+        <target xml:space="preserve">Рейтинг кандидатів</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source xml:space="preserve">All Votes</source>
+        <target xml:space="preserve">Усі голоси</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source xml:space="preserve">Voters</source>
+        <target xml:space="preserve">Учасники голосування</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source xml:space="preserve">Current Events</source>
+        <target xml:space="preserve">Поточні події</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source xml:space="preserve">Government Activity</source>
+        <target xml:space="preserve">Діяльність уряду</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source xml:space="preserve">User Activity</source>
+        <target xml:space="preserve">Діяльність користувача</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source xml:space="preserve">Citizen Activity</source>
+        <target xml:space="preserve">Діяльність мешканців</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source xml:space="preserve">No Previous Elections</source>
+        <target xml:space="preserve">Не було попередніх виборів</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source xml:space="preserve">Server version</source>
+        <target xml:space="preserve">Версія сервера</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source xml:space="preserve">Clauses</source>
+        <target xml:space="preserve">Умови</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source xml:space="preserve">hr</source>
+        <target xml:space="preserve">год</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source xml:space="preserve">min</source>
+        <target xml:space="preserve">хв</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source xml:space="preserve">sec</source>
+        <target xml:space="preserve">с</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source xml:space="preserve">Projected result</source>
+        <target xml:space="preserve">Прогнозований результат</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source xml:space="preserve">Vote</source>
+        <target xml:space="preserve">Голосувати</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source xml:space="preserve">Votes</source>
+        <target xml:space="preserve">Голоси</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source xml:space="preserve">Vote ends in</source>
+        <target xml:space="preserve">Голосування закінчується через</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source xml:space="preserve">Title</source>
+        <target xml:space="preserve">Назва</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source xml:space="preserve">Winner</source>
+        <target xml:space="preserve">Переможець</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source xml:space="preserve">Ended</source>
+        <target xml:space="preserve">Закінчено</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source xml:space="preserve">ago</source>
+        <target xml:space="preserve">тому</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source xml:space="preserve">days</source>
+        <target xml:space="preserve">днів</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source xml:space="preserve">hrs</source>
+        <target xml:space="preserve">год</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source xml:space="preserve">mins</source>
+        <target xml:space="preserve">хв</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source xml:space="preserve">in the last hour</source>
+        <target xml:space="preserve">за минулу годину</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source xml:space="preserve">The winner was</source>
+        <target xml:space="preserve">Переможцем став</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source xml:space="preserve">Law</source>
+        <target xml:space="preserve">Закон</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source xml:space="preserve">Compare Maps</source>
+        <target xml:space="preserve">Порівняння мап</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source xml:space="preserve">Elected Officials</source>
+        <target xml:space="preserve">Обрані посадовці</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source xml:space="preserve">Running Elections</source>
+        <target xml:space="preserve">Проведення виборів</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source xml:space="preserve">No Running Elections</source>
+        <target xml:space="preserve">Без проведення виборів</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source xml:space="preserve">Elected Officials</source>
+        <target xml:space="preserve">Обрані посадовці</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source xml:space="preserve">Title Holders</source>
+        <target xml:space="preserve">Володарі титулу</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source xml:space="preserve">Status</source>
+        <target xml:space="preserve">Статус</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source xml:space="preserve">Election Info</source>
+        <target xml:space="preserve">Інформація про вибори</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source xml:space="preserve">Since</source>
+        <target xml:space="preserve">З</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source xml:space="preserve">Submitting</source>
+        <target xml:space="preserve">Підтвердження</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source xml:space="preserve">Your vote has been counted</source>
+        <target xml:space="preserve">Ваш голос був порахований</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source xml:space="preserve">Voting will end in</source>
+        <target xml:space="preserve">Голосування скінчиться за</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source xml:space="preserve">choice</source>
+        <target xml:space="preserve">вибір</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source xml:space="preserve">No Active Titles</source>
+        <target xml:space="preserve">Немає активних титулів</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source xml:space="preserve">Argument over laws goes here</source>
+        <target xml:space="preserve">Аргументи щодо законів будуть тут, розмір мап може бути змінений, щоби краще вміщати текст</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source xml:space="preserve">No Meteor</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source xml:space="preserve">Select an election from the menu</source>
+        <target xml:space="preserve">Оберіть вибори з меню або балотуйтеся самі</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source xml:space="preserve">The meteor was destroyed</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source xml:space="preserve">There have been no elections yet</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source xml:space="preserve">To start a new election</source>
+        <target xml:space="preserve">Щоби почати нові вибори, ви маєте додати себе кандидатом</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source xml:space="preserve">TwitchVotes</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source xml:space="preserve">UserVotes</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source xml:space="preserve">When a Treasury is built</source>
+        <target xml:space="preserve">Після побудови Скарбниці, можна встановлювати податки (функція в розробці)</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

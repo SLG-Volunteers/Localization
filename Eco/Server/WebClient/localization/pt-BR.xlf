@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="pt-BR" datatype="plaintext" original="WebClientStrings">
+    <body>
+      <trans-unit id="1">
+        <source xml:space="preserve">404 page not found</source>
+        <target xml:space="preserve">Erro 404: Página não encontrada</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source xml:space="preserve">Allow Debug Calls</source>
+        <target xml:space="preserve">Permitir chamadas de depuração</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source xml:space="preserve">Private Server</source>
+        <target xml:space="preserve">Servidor privado</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source xml:space="preserve">White list</source>
+        <target xml:space="preserve">Lista de permissões</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source xml:space="preserve">Black list</source>
+        <target xml:space="preserve">Lista negra</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source xml:space="preserve">Admin</source>
+        <target xml:space="preserve">Administrador</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source xml:space="preserve">Max Slots</source>
+        <target xml:space="preserve">Máximo de vagas</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source xml:space="preserve">Spawn location</source>
+        <target xml:space="preserve">Local de surgimento</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source xml:space="preserve">Reputations</source>
+        <target xml:space="preserve">Reputações</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source xml:space="preserve">Use Waste</source>
+        <target xml:space="preserve">Usar Resíduos</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source xml:space="preserve">Network Config</source>
+        <target xml:space="preserve">Configuração de rede</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source xml:space="preserve">Public server</source>
+        <target xml:space="preserve">Servidor público</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source xml:space="preserve">IP address</source>
+        <target xml:space="preserve">Endereço IP</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source xml:space="preserve">Game server port</source>
+        <target xml:space="preserve">Porta do servidor (Jogo)</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source xml:space="preserve">Web server port</source>
+        <target xml:space="preserve">Porta do servidor (Web)</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source xml:space="preserve">Rate</source>
+        <target xml:space="preserve">Taxa</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source xml:space="preserve">Server browser service</source>
+        <target xml:space="preserve">Serviço de navegação do servidor</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source xml:space="preserve">SAVE</source>
+        <target xml:space="preserve">SALVAR</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source xml:space="preserve">Cause &amp; Effect Explorer</source>
+        <target xml:space="preserve">Explorador de causa e efeito</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source xml:space="preserve">Select Category</source>
+        <target xml:space="preserve">Selecionar categoria</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source xml:space="preserve">Select Layer</source>
+        <target xml:space="preserve">Selecionar camada</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source xml:space="preserve">Maps showing 400 square meters centered at 50</source>
+        <target xml:space="preserve">Mapas mostrando 400 m² centrados em 50;50</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source xml:space="preserve">Eco Elections</source>
+        <target xml:space="preserve">Eleições de Eco</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source xml:space="preserve">Select an election from the menu or you can run for office</source>
+        <target xml:space="preserve">Selecione uma eleição no menu ou se candidate para concorrer a um cargo</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source xml:space="preserve">Candidates</source>
+        <target xml:space="preserve">Candidatos</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source xml:space="preserve">Elected officials receive 15 property claims</source>
+        <target xml:space="preserve">Os cidadãos eleitos recebem 15 documentos de reivindicações de propriedade</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
+        <target xml:space="preserve">Quando uma tesouraria é construída; they can set taxes (feature in progress)</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source xml:space="preserve">This election uses</source>
+        <target xml:space="preserve">Essa eleição usa</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source xml:space="preserve">Instant Runoff Voting</source>
+        <target xml:space="preserve">Votação com Turnos Instantâneos</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source xml:space="preserve">Submit Vote</source>
+        <target xml:space="preserve">Enviar voto</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source xml:space="preserve">Run For Office</source>
+        <target xml:space="preserve">Concorrer a um cargo</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source xml:space="preserve">Remove Self</source>
+        <target xml:space="preserve">Remover a si mesmo</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source xml:space="preserve">Current Results</source>
+        <target xml:space="preserve">Resultados atuais</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source xml:space="preserve">No one has voted yet</source>
+        <target xml:space="preserve">Ninguém votou ainda</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source xml:space="preserve">Votes per round</source>
+        <target xml:space="preserve">Votos por rodada</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source xml:space="preserve">View All Votes</source>
+        <target xml:space="preserve">Ver todos os votos</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source xml:space="preserve">Discussion</source>
+        <target xml:space="preserve">Discussão</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source xml:space="preserve">Day</source>
+        <target xml:space="preserve">Dia</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source xml:space="preserve">Enter your response</source>
+        <target xml:space="preserve">Digite sua resposta</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source xml:space="preserve">Remove Graph</source>
+        <target xml:space="preserve">Remover gráfico</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source xml:space="preserve">Remove Map</source>
+        <target xml:space="preserve">Remover mapa</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source xml:space="preserve">Submit</source>
+        <target xml:space="preserve">Enviar</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source xml:space="preserve">Cancel</source>
+        <target xml:space="preserve">Cancelar</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
+        <target xml:space="preserve">Para iniciar uma nova eleição; you must add yourself as a candidate</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source xml:space="preserve">Please explain why you should be elected</source>
+        <target xml:space="preserve">Por favor, conte-nos por que você deveria ser eleito</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source xml:space="preserve">Enter Your Speech</source>
+        <target xml:space="preserve">Insira o seu discurso</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source xml:space="preserve">Scientific Data</source>
+        <target xml:space="preserve">Dados científicos</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source xml:space="preserve">Cause &amp; Effect</source>
+        <target xml:space="preserve">Causa e efeito</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source xml:space="preserve">Run For Office</source>
+        <target xml:space="preserve">Concorrer a um cargo</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source xml:space="preserve">Current Election</source>
+        <target xml:space="preserve">Eleição atual</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source xml:space="preserve">Previous Elections</source>
+        <target xml:space="preserve">Eleições anteriores</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source xml:space="preserve">Active Laws</source>
+        <target xml:space="preserve">Leis ativas</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source xml:space="preserve">Proposed Laws</source>
+        <target xml:space="preserve">Leis propostas</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source xml:space="preserve">Select Map Layer</source>
+        <target xml:space="preserve">Selecionar camada do mapa</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source xml:space="preserve">Data</source>
+        <target xml:space="preserve">Dados</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source xml:space="preserve">Graph</source>
+        <target xml:space="preserve">Gráfico</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source xml:space="preserve">Lines</source>
+        <target xml:space="preserve">Linhas</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source xml:space="preserve">Bars</source>
+        <target xml:space="preserve">Barras</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source xml:space="preserve">Day</source>
+        <target xml:space="preserve">Dia</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source xml:space="preserve">View the global effects that shape this world and how they influence each other</source>
+        <target xml:space="preserve">Veja os efeitos globais que moldam este mundo e como eles influenciam uns aos outros</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source xml:space="preserve">Select a category above and use the time bar at the bottom to scroll through history</source>
+        <target xml:space="preserve">Selecione uma categoria acima e use a barra de tempo na parte inferior para percorrer o histórico</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source xml:space="preserve">Cause &amp; Effect Exploration</source>
+        <target xml:space="preserve">Exploração de causa e efeito</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source xml:space="preserve">Users Config</source>
+        <target xml:space="preserve">Configuração de usuários</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source xml:space="preserve">Require Authentication</source>
+        <target xml:space="preserve">Exigir autenticação</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source xml:space="preserve">days/sec</source>
+        <target xml:space="preserve">dias/seg</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source xml:space="preserve">In-Game Actions</source>
+        <target xml:space="preserve">Ações em jogo</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source xml:space="preserve">Eco Laws</source>
+        <target xml:space="preserve">Leis de Eco</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source xml:space="preserve">Select a law from the menu</source>
+        <target xml:space="preserve">Selecione uma lei no menu</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source xml:space="preserve">Law Info</source>
+        <target xml:space="preserve">Informações da lei</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source xml:space="preserve">Reasoning</source>
+        <target xml:space="preserve">Razão</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source xml:space="preserve">Current Results</source>
+        <target xml:space="preserve">Resultados atuais</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source xml:space="preserve">This law was passed</source>
+        <target xml:space="preserve">Esta lei foi promulgada</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source xml:space="preserve">Yes</source>
+        <target xml:space="preserve">Sim</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source xml:space="preserve">No</source>
+        <target xml:space="preserve">Não</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source xml:space="preserve">Add Graph</source>
+        <target xml:space="preserve">Adicionar gráfico</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source xml:space="preserve">Add Map</source>
+        <target xml:space="preserve">Adicionar mapa</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source xml:space="preserve">Cancel</source>
+        <target xml:space="preserve">Cancelar</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source xml:space="preserve">Name of Law</source>
+        <target xml:space="preserve">Nome da lei</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source xml:space="preserve">Add Districts</source>
+        <target xml:space="preserve">Adicionar distritos</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source xml:space="preserve">Remove Districts</source>
+        <target xml:space="preserve">Remover distritos</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source xml:space="preserve">Add New District</source>
+        <target xml:space="preserve">Adicionar novo distrito</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source xml:space="preserve">Hold right click to draw district</source>
+        <target xml:space="preserve">Segure o botão direito para desenhar o distrito</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source xml:space="preserve">Reasoning</source>
+        <target xml:space="preserve">Razão</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source xml:space="preserve">Propose Law</source>
+        <target xml:space="preserve">Propor lei</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source xml:space="preserve">Layer Select Dropdown</source>
+        <target xml:space="preserve">Lista de seleção de camada</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source xml:space="preserve">Terrain</source>
+        <target xml:space="preserve">Terreno</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source xml:space="preserve">Temperature</source>
+        <target xml:space="preserve">Temperatura</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source xml:space="preserve">Height</source>
+        <target xml:space="preserve">Altura</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source xml:space="preserve">unity could send a full list of options to the dropdown later</source>
+        <target xml:space="preserve">a unidade poderia enviar uma lista completa de opções para a lista mais tarde</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source xml:space="preserve">Layer Select by Name or Number</source>
+        <target xml:space="preserve">Selecionar camada por nome ou número</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
+        <target xml:space="preserve">As discussões sobre as leis vão aqui; maps can be resized to fit with text better later</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source xml:space="preserve">Student Progress</source>
+        <target xml:space="preserve">Progresso do estudante</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source xml:space="preserve">There are no districts set yet</source>
+        <target xml:space="preserve">Não há nenhum distrito definido ainda</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source xml:space="preserve">Active Districts</source>
+        <target xml:space="preserve">Distritos ativos</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source xml:space="preserve">Candidate Ranks For Each Year</source>
+        <target xml:space="preserve">Colocação de candidatos para cada ano</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source xml:space="preserve">No Active Laws</source>
+        <target xml:space="preserve">Sem leis ativas</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source xml:space="preserve">No Proposed Laws</source>
+        <target xml:space="preserve">Sem leis propostas</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source xml:space="preserve">Online Players</source>
+        <target xml:space="preserve">Jogadores online</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source xml:space="preserve">Time</source>
+        <target xml:space="preserve">Tempo</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source xml:space="preserve">Meteor Impact</source>
+        <target xml:space="preserve">Impacto do meteoro</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source xml:space="preserve">Plants</source>
+        <target xml:space="preserve">Plantas</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source xml:space="preserve">World Size</source>
+        <target xml:space="preserve">Tamanho do mundo</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source xml:space="preserve">Pre-Made Graphs</source>
+        <target xml:space="preserve">Gráficos pré-feitos</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source xml:space="preserve">My Saved Graphs</source>
+        <target xml:space="preserve">Meus gráficos salvos</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source xml:space="preserve">OK</source>
+        <target xml:space="preserve">OK</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source xml:space="preserve">Doing Something...</source>
+        <target xml:space="preserve">Fazendo algo...</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source xml:space="preserve">Some information for you to read!</source>
+        <target xml:space="preserve">Algumas informações para você ler!</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source xml:space="preserve">Datasets</source>
+        <target xml:space="preserve">Conjuntos de dados</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source xml:space="preserve">Clear Categories</source>
+        <target xml:space="preserve">Limpar categorias</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source xml:space="preserve">Curves</source>
+        <target xml:space="preserve">Curvas</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source xml:space="preserve">Pie</source>
+        <target xml:space="preserve">Gráfico de pizza</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source xml:space="preserve">Loading</source>
+        <target xml:space="preserve">Carregando</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source xml:space="preserve">Populations</source>
+        <target xml:space="preserve">Populações</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source xml:space="preserve">Player Skill Progress</source>
+        <target xml:space="preserve">Progresso de habilidade do jogador</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source xml:space="preserve">Polution Progress</source>
+        <target xml:space="preserve">Avanço da poluição</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source xml:space="preserve">A graph with that title already exists! Choose a unique title for your graph.</source>
+        <target xml:space="preserve">Um gráfico com esse título já existe! Escolha um título exclusivo para seu gráfico.</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source xml:space="preserve">Please add a dataset to your graph before saving.</source>
+        <target xml:space="preserve">Por favor, adicione um conjunto de dados para seu gráfico antes de salvar.</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source xml:space="preserve">Graph copied. Type a unique name and save it.</source>
+        <target xml:space="preserve">Gráfico copiado. Digite um nome exclusivo e salve-o.</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source xml:space="preserve">Do you want to save your changes before proceeding?</source>
+        <target xml:space="preserve">Você quer salvar as alterações antes de prosseguir?</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source xml:space="preserve">Don't Save</source>
+        <target xml:space="preserve">Não salvar</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source xml:space="preserve">Server</source>
+        <target xml:space="preserve">Servidor</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source xml:space="preserve">User</source>
+        <target xml:space="preserve">Usuário</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source xml:space="preserve">Delete Proposal</source>
+        <target xml:space="preserve">Excluir proposta</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source xml:space="preserve">Rank the candidates from best to worst.</source>
+        <target xml:space="preserve">Classifica os candidatos do melhor para o pior.</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source xml:space="preserve">Update Vote</source>
+        <target xml:space="preserve">Atualizar voto</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source xml:space="preserve">Round</source>
+        <target xml:space="preserve">Rodada</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source xml:space="preserve">Total</source>
+        <target xml:space="preserve">Total</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source xml:space="preserve">Candidates Ranked</source>
+        <target xml:space="preserve">Candidatos Classificados</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source xml:space="preserve">All Votes</source>
+        <target xml:space="preserve">Todos os votos</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source xml:space="preserve">Voters</source>
+        <target xml:space="preserve">Eleitores</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source xml:space="preserve">Current Events</source>
+        <target xml:space="preserve">Eventos atuais</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source xml:space="preserve">Government Activity</source>
+        <target xml:space="preserve">Atividade do governo</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source xml:space="preserve">User Activity</source>
+        <target xml:space="preserve">Atividade do usuário</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source xml:space="preserve">Citizen Activity</source>
+        <target xml:space="preserve">Atividade do cidadão</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source xml:space="preserve">No Previous Elections</source>
+        <target xml:space="preserve">Sem eleições anteriores</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source xml:space="preserve">Server version</source>
+        <target xml:space="preserve">Versão do servidor</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source xml:space="preserve">Clauses</source>
+        <target xml:space="preserve">Cláusulas</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source xml:space="preserve">hr</source>
+        <target xml:space="preserve">hr</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source xml:space="preserve">min</source>
+        <target xml:space="preserve">min</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source xml:space="preserve">sec</source>
+        <target xml:space="preserve">seg</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source xml:space="preserve">Projected result</source>
+        <target xml:space="preserve">Resultado projetado</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source xml:space="preserve">Vote</source>
+        <target xml:space="preserve">Votar</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source xml:space="preserve">Votes</source>
+        <target xml:space="preserve">Votos</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source xml:space="preserve">Vote ends in</source>
+        <target xml:space="preserve">A votação terminará em</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source xml:space="preserve">Title</source>
+        <target xml:space="preserve">Título</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source xml:space="preserve">Winner</source>
+        <target xml:space="preserve">Vencedor</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source xml:space="preserve">Ended</source>
+        <target xml:space="preserve">Terminou</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source xml:space="preserve">ago</source>
+        <target xml:space="preserve">atrás</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source xml:space="preserve">days</source>
+        <target xml:space="preserve">dias</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source xml:space="preserve">hrs</source>
+        <target xml:space="preserve">hrs</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source xml:space="preserve">mins</source>
+        <target xml:space="preserve">mins</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source xml:space="preserve">in the last hour</source>
+        <target xml:space="preserve">na última hora</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source xml:space="preserve">The winner was</source>
+        <target xml:space="preserve">O vencedor foi</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source xml:space="preserve">Law</source>
+        <target xml:space="preserve">Lei</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source xml:space="preserve">Compare Maps</source>
+        <target xml:space="preserve">Comparar mapas</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source xml:space="preserve">Elected Officials</source>
+        <target xml:space="preserve">Cidadãos eleitos</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source xml:space="preserve">Running Elections</source>
+        <target xml:space="preserve">Eleições em andamento</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source xml:space="preserve">No Running Elections</source>
+        <target xml:space="preserve">Sem eleições em andamento</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source xml:space="preserve">Elected Officials</source>
+        <target xml:space="preserve">Cidadãos eleitos</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source xml:space="preserve">Title Holders</source>
+        <target xml:space="preserve">Detentores do título</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source xml:space="preserve">Status</source>
+        <target xml:space="preserve">Status</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source xml:space="preserve">Election Info</source>
+        <target xml:space="preserve">Informações da eleição</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source xml:space="preserve">Since</source>
+        <target xml:space="preserve">Desde</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source xml:space="preserve">Submitting</source>
+        <target xml:space="preserve">Enviando</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source xml:space="preserve">Your vote has been counted</source>
+        <target xml:space="preserve">O seu voto foi contabilizado</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source xml:space="preserve">Voting will end in</source>
+        <target xml:space="preserve">A votação terminará em</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source xml:space="preserve">choice</source>
+        <target xml:space="preserve">escolha</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source xml:space="preserve">No Active Titles</source>
+        <target xml:space="preserve">Sem títulos ativos</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source xml:space="preserve">Argument over laws goes here</source>
+        <target xml:space="preserve">A discussão sobre leis ficam aqui, os mapas podem ser redimensionados para encaixar melhor com texto posteriormente</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source xml:space="preserve">No Meteor</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source xml:space="preserve">Select an election from the menu</source>
+        <target xml:space="preserve">Selecione uma eleição no menu, ou você pode se candidatar</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source xml:space="preserve">The meteor was destroyed</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source xml:space="preserve">There have been no elections yet</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source xml:space="preserve">To start a new election</source>
+        <target xml:space="preserve">Para iniciar uma nova eleição, você deve adicionar-se como um candidato</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source xml:space="preserve">TwitchVotes</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source xml:space="preserve">UserVotes</source>
+        <target xml:space="preserve" state="needs-translation" ></target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source xml:space="preserve">When a Treasury is built</source>
+        <target xml:space="preserve">Quando um Tesouro é construído</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

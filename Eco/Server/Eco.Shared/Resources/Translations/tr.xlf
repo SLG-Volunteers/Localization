@@ -44262,31 +44262,6 @@
         <source xml:space="preserve">Should the achievements be enabled or not? (Note: this system is incomplete)</source>
         <target xml:space="preserve">Başarılar etkinleştirilmeli mi, etkinleştirilmemeli mi? (Not: bu sistem eksiktir)</target>
       </trans-unit>
-      <trans-unit id="repopulateanimallayer">
-        <source xml:space="preserve">repopulateanimallayer</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Chat command</note>
-      </trans-unit>
-      <trans-unit id="Reset animal sim population to initial values (as it was on world generation)">
-        <source xml:space="preserve">Reset animal sim population to initial values (as it was on world generation)</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /repopulateanimallayer</note>
-      </trans-unit>
-      <trans-unit id="Shows Commands related to chat.">
-        <source xml:space="preserve">Shows Commands related to chat.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /chat</note>
-      </trans-unit>
-      <trans-unit id="Shows commands related to notifications.">
-        <source xml:space="preserve">Shows commands related to notifications.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /notifications</note>
-      </trans-unit>
-      <trans-unit id="Shows commands for performing an animated emote.">
-        <source xml:space="preserve">Shows commands for performing an animated emote.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /emote</note>
-      </trans-unit>
       <trans-unit id="Displays info on what settlement this claim stake is tied to.">
         <source xml:space="preserve">Displays info on what settlement this claim stake is tied to.</source>
         <target xml:space="preserve">Bu hak talebi hissesinin hangi anlaşmaya bağlı olduğu hakkında bilgi görüntüler.</target>
@@ -44314,11 +44289,6 @@
       <trans-unit id="Loaded">
         <source xml:space="preserve">Loaded</source>
         <target xml:space="preserve">Yüklendi</target>
-      </trans-unit>
-      <trans-unit id="Shows commands for manipulations with meteor.">
-        <source xml:space="preserve">Shows commands for manipulations with meteor.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /meteor</note>
       </trans-unit>
       <trans-unit id="Percent Of Days To Be Active For Long Term Demographic">
         <source xml:space="preserve">Percent Of Days To Be Active For Long Term Demographic</source>
@@ -44375,16 +44345,6 @@
       <trans-unit id="Long Term">
         <source xml:space="preserve">Long Term</source>
         <target xml:space="preserve">Uzun Vadeli</target>
-      </trans-unit>
-      <trans-unit id="Shows commands for avatars manipulation.">
-        <source xml:space="preserve">Shows commands for avatars manipulation.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /avatar</note>
-      </trans-unit>
-      <trans-unit id="Shows commands for world pollution manipulation.">
-        <source xml:space="preserve">Shows commands for world pollution manipulation.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /pollute</note>
       </trans-unit>
       <trans-unit id="Wood Shop Cart">
         <source xml:space="preserve">Wood Shop Cart</source>
@@ -65657,7 +65617,7 @@
       </trans-unit>
       <trans-unit id="You can drag items directly from storages to create offer. Also drag on top of offer will update values from items like color of paint buckets.">
         <source xml:space="preserve">You can drag items directly from storages to create offer. Also drag on top of offer will update values from items like color of paint buckets.</source>
-        <target xml:space="preserve">You can drag items directly from storages to create offer. Also drag on top of offer will update values from items like color of paint buckets.</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Repairs">
         <source xml:space="preserve">Repairs</source>
