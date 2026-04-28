@@ -2,10 +2,10 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="ru" datatype="plaintext" original="EcopediaStrings">
     <body>
-      <trans-unit id="0">
+      <trans-unit id="0" xml:space="preserve">
         <source xml:space="preserve">Components related to the economy.
 </source>
-        <target xml:space="preserve">Разделы, связанные с экономикой.
+        <target xml:space="preserve" state="translated">Компоненты, связанные с экономикой.
 </target>
       </trans-unit>
       <trans-unit id="1">
@@ -34,10 +34,10 @@ In the Advanced Settings, you can set the account as a Government Account.  Gove
         <target xml:space="preserve">Банк используется для создания и управления счетами
 </target>
       </trans-unit>
-      <trans-unit id="4">
+      <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.
 </source>
-        <target xml:space="preserve">Доска объявлений позволяет жителям размещать и брать {Contracts} и {Work Parties}, допуская использование чужого труда, а других соглашений между жителями.
+        <target xml:space="preserve" state="translated">Доска объявлений позволяет жителям размещать и брать {Contracts} и {Work Parties}, допуская использование чужого труда и других соглашений между жителями.
 </target>
       </trans-unit>
       <trans-unit id="5">
@@ -3720,10 +3720,11 @@ Available properties for rent can be found in the {Economy Viewer}. Once accepte
 
 </target>
       </trans-unit>
-      <trans-unit id="353">
+      <trans-unit id="353" xml:space="preserve">
         <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Истощение это параметр ограничивающий максимальное количество игровых часов в день.
+</target>
       </trans-unit>
     </body>
   </file>
