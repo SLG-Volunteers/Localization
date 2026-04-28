@@ -427,7 +427,7 @@
         <target xml:space="preserve">Du hast <ph id="0">{0}</ph> ausgerüstet</target>
       </trans-unit>
       <trans-unit id="Your {0} broke!  It will be much less efficient until repaired.">
-        <source xml:space="preserve">Your <ph id="0">{0}</ph> broke! It will be much less efficient until repaired.</source>
+        <source xml:space="preserve">Your <ph id="0">{0}</ph> broke!  It will be much less efficient until repaired.</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> ist zerbrochen! Viel ineffizienter, bis zur Reparatur.</target>
       </trans-unit>
       <trans-unit id="You are not authorized to remove items from that.">
@@ -660,9 +660,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> commands:</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> Befehle:</target>
       </trans-unit>
-      <trans-unit id="Online: {0}" xml:space="preserve">
+      <trans-unit id="Online: {0}">
         <source xml:space="preserve">Online: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Online: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="You are a {0}">
         <source xml:space="preserve">You are a <ph id="0">{0}</ph></source>
@@ -4656,11 +4656,11 @@
         <target xml:space="preserve">Die aktuelle gewählte Sprache. Um die Sprache zu ändern, muss der Server neu gestartet werden.</target>
       </trans-unit>
       <trans-unit id="Average {0} {1:n1}ms    Last: {2:n1}ms">
-        <source xml:space="preserve">Average <ph id="0">{0}</ph> {1:n1}ms Last: {2:n1}ms</source>
+        <source xml:space="preserve">Average <ph id="0">{0}</ph> {1:n1}ms    Last: {2:n1}ms</source>
         <target xml:space="preserve">Durchschnittlich <ph id="0">{0}</ph> {1:n1}ms, zuletzt: {2:n1}ms</target>
       </trans-unit>
       <trans-unit id="Average {0} {1:n2}ms    Last: {2:n2}ms">
-        <source xml:space="preserve">Average <ph id="0">{0}</ph> {1:n2}ms Last: {2:n2}ms</source>
+        <source xml:space="preserve">Average <ph id="0">{0}</ph> {1:n2}ms    Last: {2:n2}ms</source>
         <target xml:space="preserve">Durchschnittlich <ph id="0">{0}</ph> {1:n2}ms, zuletzt: {2:n2}ms</target>
       </trans-unit>
       <trans-unit id="The world is safe for now, at least from the meteor.">
@@ -5244,7 +5244,7 @@
         <target xml:space="preserve">Pflug</target>
       </trans-unit>
       <trans-unit id="Must move {0} from {1} to {2}.  Access rights temporarily granted to containers.">
-        <source xml:space="preserve">Must move <ph id="0">{0}</ph> from <ph id="1">{1}</ph> to <ph id="2">{2}</ph>. Access rights temporarily granted to containers.</source>
+        <source xml:space="preserve">Must move <ph id="0">{0}</ph> from <ph id="1">{1}</ph> to <ph id="2">{2}</ph>.  Access rights temporarily granted to containers.</source>
         <target xml:space="preserve">Du musst <ph id="0">{0}</ph> von <ph id="1">{1}</ph> nach <ph id="2">{2}</ph> bewegen. Zugriffsrechte für Container wurden vorübergehend gewährt.</target>
       </trans-unit>
       <trans-unit id="{0} vs {1} ({2}) for {3}">
@@ -7014,20 +7014,20 @@
         <target xml:space="preserve">Du kannst keine Schulden in Höhe von <ph id="0">{0}</ph> zurückzahlen, deine Schulden betragen nur <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled.">
-        <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>. Debt is now cancelled.</source>
+        <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Debt is now cancelled.</source>
         <target xml:space="preserve">Du hast <ph id="0">{0}</ph> Schulden von <ph id="1">{1}</ph> erlassen. Die Schulden sind damit vollständig erledigt.</target>
         <note from="developer">{0} = Amount of currency (10 Dollars) {1} = Username</note>
       </trans-unit>
       <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains.">
-        <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>. <ph id="2">{2}</ph> debt remains.</source>
+        <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  <ph id="2">{2}</ph> debt remains.</source>
         <target xml:space="preserve">Du hast <ph id="0">{0}</ph> Schulden von <ph id="1">{1}</ph> erlassen. <ph id="2">{2}</ph> Schulden bleiben bestehen.</target>
       </trans-unit>
       <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off.">
-        <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>. Your debt is now paid off.</source>
+        <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Your debt is now paid off.</source>
         <target xml:space="preserve">Schulden in Hohe von <ph id="0">{0}</ph> an <ph id="1">{1}</ph> zurückgezahlt. Deine Schulden sind jetzt abbezahlt.</target>
       </trans-unit>
       <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}.">
-        <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>. You now owe <ph id="2">{2}</ph>.</source>
+        <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  You now owe <ph id="2">{2}</ph>.</source>
         <target xml:space="preserve">Schulden in Hohe von <ph id="0">{0}</ph> an <ph id="1">{1}</ph> zurückgezahlt. Deine Schulden betragen jetzt nur noch <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="&lt;unassigned&gt;">
@@ -7063,7 +7063,7 @@
         <target xml:space="preserve">'<ph id="0">{0}</ph>' ist ein ungültiger Materialname</target>
       </trans-unit>
       <trans-unit id="No plant species named '{0}'.  Valid species are: {1}">
-        <source xml:space="preserve">No plant species named '<ph id="0">{0}</ph>'. Valid species are: <ph id="1">{1}</ph></source>
+        <source xml:space="preserve">No plant species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
         <target xml:space="preserve">Keine Pflanzenart mit dem Namen '<ph id="0">{0}</ph>'.  Gültige Arten sind: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="'{0}' is not a valid block type name.">
@@ -7699,7 +7699,7 @@
         <target xml:space="preserve"><ph id="0">{0}</ph> hat den Meeresspiegel um <ph id="1">{1}</ph> gehoben!</target>
       </trans-unit>
       <trans-unit id="Current sea level: {0}  Amount raised so far: {1}">
-        <source xml:space="preserve">Current sea level: <ph id="0">{0}</ph> Amount raised so far: <ph id="1">{1}</ph></source>
+        <source xml:space="preserve">Current sea level: <ph id="0">{0}</ph>  Amount raised so far: <ph id="1">{1}</ph></source>
         <target xml:space="preserve">Aktueller Meeresspiegel: <ph id="0">{0}</ph> Bisheriger Anstieg: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Compost">
@@ -9500,7 +9500,7 @@
         <target xml:space="preserve">Ecko fordert <ph id="0">{0}</ph>!</target>
       </trans-unit>
       <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled.">
-        <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt. Debt is now cancelled.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt.  Debt is now cancelled.</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> hat <ph id="1">{1}</ph> deiner Schulden erlassen. Die Schulden sind nun getilgt.</target>
       </trans-unit>
       <trans-unit id="{0} forgave {1} of your debt. {2} debt remains.">
@@ -11156,7 +11156,7 @@
         <target xml:space="preserve">Raum bauen</target>
       </trans-unit>
       <trans-unit id="Defines a road that must be built between points A and B, defined by placing a {0} at each position.  The width of the road must be the defined minimum throughout, and it must be made entirely of the listed material.">
-        <source xml:space="preserve">Defines a road that must be built between points A and B, defined by placing a <ph id="0">{0}</ph> at each position. The width of the road must be the defined minimum throughout, and it must be made entirely of the listed material.</source>
+        <source xml:space="preserve">Defines a road that must be built between points A and B, defined by placing a <ph id="0">{0}</ph> at each position.  The width of the road must be the defined minimum throughout, and it must be made entirely of the listed material.</source>
         <target xml:space="preserve">Definiert eine Straße, die zwischen den Punkten A und B gebaut werden muss, indem an jeder Position ein <ph id="0">{0}</ph> eingefügt wird.  Die Breite der Straße muss durchgehend das definierte Minimum sein und vollständig aus dem aufgelisteten Material bestehen.</target>
       </trans-unit>
       <trans-unit id="Build Road">
@@ -11164,7 +11164,7 @@
         <target xml:space="preserve">Straße bauen</target>
       </trans-unit>
       <trans-unit id="Defines a set of blocks that must exist, or not exist on a property. This can be used for all kinds of things:\n - Removing unwanted plants\n - Removing pollution\n - Planting fields (planted blocks must exist)\n - Removing structures or obstacles.\n\nIf {0} is checked, only surface blocks will be examined.  Otherwise, blocks to a depth of {1} below the highest block will be examined.">
-        <source xml:space="preserve">Defines a set of blocks that must exist, or not exist on a property. This can be used for all kinds of things:\n - Removing unwanted plants\n - Removing pollution\n - Planting fields (planted blocks must exist)\n - Removing structures or obstacles.\n\nIf <ph id="0">{0}</ph> is checked, only surface blocks will be examined. Otherwise, blocks to a depth of <ph id="1">{1}</ph> below the highest block will be examined.</source>
+        <source xml:space="preserve">Defines a set of blocks that must exist, or not exist on a property. This can be used for all kinds of things:\n - Removing unwanted plants\n - Removing pollution\n - Planting fields (planted blocks must exist)\n - Removing structures or obstacles.\n\nIf <ph id="0">{0}</ph> is checked, only surface blocks will be examined.  Otherwise, blocks to a depth of <ph id="1">{1}</ph> below the highest block will be examined.</source>
         <target xml:space="preserve">Definiert eine Gruppe von Blöcken, welche auf einem Grundstück vorhanden sein müssen oder nicht. Dies kann für alle Arten von Dingen verwendet werden:\n - Entfernen von ungewollten Pflanzen\n - Entfernung von Verschmutzung\n - Felder bepflanzen (bepflanzte Blöcke müssen existieren)\n - Entfernung von Strukturen oder Hindernissen.\n\nWenn <ph id="0">{0}</ph> aktiviert ist, werden nur Oberflächenblöcke untersucht.  Andernfalls werden Blöcke bis zu einer Tiefe von <ph id="1">{1}</ph> unter dem höchsten Block untersucht.</target>
       </trans-unit>
       <trans-unit id="Add blocks from the property at {0} until there are more than {1}.">
@@ -21332,7 +21332,7 @@
         <target xml:space="preserve">Aktion ausführen</target>
       </trans-unit>
       <trans-unit id="You can't afford to buy this deed for {0}.  {1} only has {2}">
-        <source xml:space="preserve">You can't afford to buy this deed for <ph id="0">{0}</ph>. <ph id="1">{1}</ph> only has <ph id="2">{2}</ph></source>
+        <source xml:space="preserve">You can't afford to buy this deed for <ph id="0">{0}</ph>.  <ph id="1">{1}</ph> only has <ph id="2">{2}</ph></source>
         <target xml:space="preserve">Du kannst es dir nicht leisten, diese Besitzurkunde für <ph id="0">{0}</ph> zu kaufen. <ph id="1">{1}</ph> hat nur <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Could not cancel this project: {0}. Remaining project cancelled.">
@@ -22628,7 +22628,7 @@
         <target xml:space="preserve"><ph id="0">{0}</ph> Herstellen</target>
       </trans-unit>
       <trans-unit id="You contributed to {0} but are not a member of it!  To get credit for your contributions, join the work party at {1}.">
-        <source xml:space="preserve">You contributed to <ph id="0">{0}</ph> but are not a member of it! To get credit for your contributions, join the work party at <ph id="1">{1}</ph>.</source>
+        <source xml:space="preserve">You contributed to <ph id="0">{0}</ph> but are not a member of it!  To get credit for your contributions, join the work party at <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve">Du trägst zu <ph id="0">{0}</ph> bei, aber bist kein Mitglied davon! Um Anerkennung für deine Beiträge zu bekommen, tritt der Arbeitsgruppe bei <ph id="1">{1}</ph> bei.</target>
       </trans-unit>
       <trans-unit id="Post failed: {0}">
@@ -23160,7 +23160,7 @@
         <target xml:space="preserve">Webserver hört nun auf: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Could not find the required files within any of the following directories: {0}.  Is your working path set correctly? The Server should be run with Server as the working directory">
-        <source xml:space="preserve">Could not find the required files within any of the following directories: <ph id="0">{0}</ph>. Is your working path set correctly? The Server should be run with Server as the working directory</source>
+        <source xml:space="preserve">Could not find the required files within any of the following directories: <ph id="0">{0}</ph>.  Is your working path set correctly? The Server should be run with Server as the working directory</source>
         <target xml:space="preserve">Die erforderlichen Dateien konnten in keinem der folgenden Verzeichnisse gefunden werden: <ph id="0">{0}</ph>. Ist dein Arbeitspfad richtig eingestellt? Der Server sollte mit Server als Arbeitsverzeichnis ausgeführt werden</target>
       </trans-unit>
       <trans-unit id="Saving">
@@ -24714,7 +24714,7 @@
         <target xml:space="preserve">Dieser Wert wird aufgrund der Änderungen auf <ph id="0">{0}</ph> von <ph id="1">{1}</ph> reduziert.</target>
       </trans-unit>
       <trans-unit id="Duplicate special type: {0} and {1}.  Destroying second one.">
-        <source xml:space="preserve">Duplicate special type: <ph id="0">{0}</ph> and <ph id="1">{1}</ph>. Destroying second one.</source>
+        <source xml:space="preserve">Duplicate special type: <ph id="0">{0}</ph> and <ph id="1">{1}</ph>.  Destroying second one.</source>
         <target xml:space="preserve">Doppelter Spezialtyp: <ph id="0">{0}</ph> und <ph id="1">{1}</ph>.  Der zweite wird zerstört.</target>
       </trans-unit>
       <trans-unit id="Plugs Into">
@@ -24864,7 +24864,7 @@
         <target xml:space="preserve">Fehler beim Aufrufen der verzögerten Aktion: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Duplicate named entry found and renamed. Old name:{0}  New name:{1}">
-        <source xml:space="preserve">Duplicate named entry found and renamed. Old name:<ph id="0">{0}</ph> New name:<ph id="1">{1}</ph></source>
+        <source xml:space="preserve">Duplicate named entry found and renamed. Old name:<ph id="0">{0}</ph>  New name:<ph id="1">{1}</ph></source>
         <target xml:space="preserve">Doppelt benannter Eintrag wurde gefunden und umbenannt. Alter Name:<ph id="0">{0}</ph> Neuer Name:<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove world {0}?">
@@ -27581,7 +27581,7 @@
         <target xml:space="preserve">Titel <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="No animals species named '{0}'.  Valid species are: {1}">
-        <source xml:space="preserve">No animals species named '<ph id="0">{0}</ph>'. Valid species are: <ph id="1">{1}</ph></source>
+        <source xml:space="preserve">No animals species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
         <target xml:space="preserve">Keine Tierart mit dem Namen '<ph id="0">{0}</ph>'.  Gültige Arten sind: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="No animals species around named '{0}'.">
@@ -27605,7 +27605,7 @@
         <target xml:space="preserve">Entferne alle Baumstümpfe und Schutt von dem Grundstück bei der angegebenen Markierung.\n\nDer Auftragnehmer erhält vorübergehend das Recht, Schutt und Stümpfe auf dem angegebenen Grundstück zu entfernen.\n\nHinweis: Zur besseren Steuerung kannst du die Besitzurkunde aufteilen.</target>
       </trans-unit>
       <trans-unit id="Remove all tree debris from property at {0}.  Contractor will be given temporary permission to remove debris on property.">
-        <source xml:space="preserve">Remove all tree debris from property at <ph id="0">{0}</ph>. Contractor will be given temporary permission to remove debris on property.</source>
+        <source xml:space="preserve">Remove all tree debris from property at <ph id="0">{0}</ph>.  Contractor will be given temporary permission to remove debris on property.</source>
         <target xml:space="preserve">Entferne alle Baumreste vom Grundstück bei <ph id="0">{0}</ph>.  Der Auftragnehmer erhält eine befristete Genehmigung zur Beseitigung von Schutt auf dem Grundstück.</target>
       </trans-unit>
       <trans-unit id="With this clause, the contractor must plow the given number of square meters of field into plantable soil.\n\nThe contractor will temporarily be given right to plow on the specified property.\n\nNote: You can split property into seperate deeds for more control.">
@@ -28198,7 +28198,7 @@
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="{0} was owned by {1}, which has been removed.  Ownership changed to {2}.">
-        <source xml:space="preserve"><ph id="0">{0}</ph> was owned by <ph id="1">{1}</ph>, which has been removed. Ownership changed to <ph id="2">{2}</ph>.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> was owned by <ph id="1">{1}</ph>, which has been removed.  Ownership changed to <ph id="2">{2}</ph>.</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> war Eigentum von <ph id="1">{1}</ph>, was entfernt wurde. Eigentümer ist jetzt <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="tag">
@@ -28294,7 +28294,7 @@
         <target xml:space="preserve">(mit Anzahl: <ph id="0">{0}</ph>)</target>
       </trans-unit>
       <trans-unit id="Duplicate deeds claiming plot {0}: '{1}' and '{2}'.  Removing from {3}.">
-        <source xml:space="preserve">Duplicate deeds claiming plot <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' and '<ph id="2">{2}</ph>'. Removing from <ph id="3">{3}</ph>.</source>
+        <source xml:space="preserve">Duplicate deeds claiming plot <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' and '<ph id="2">{2}</ph>'.  Removing from <ph id="3">{3}</ph>.</source>
         <target xml:space="preserve">Duplizierte Besitz-Urkunden beanspruchen Parzellen <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' und '<ph id="2">{2}</ph>'. Entferne von <ph id="3">{3}</ph>.</target>
       </trans-unit>
       <trans-unit id="Notify">
@@ -28646,7 +28646,7 @@
         <target xml:space="preserve"><ph id="0">{0}</ph> hat einen Fehler geworfen als <ph id="1">{1}</ph> einen Wert zurückgegeben hat.</target>
       </trans-unit>
       <trans-unit id="Mismatch between type of {0}  exception and {1}  exception for value: {2} != {3}.">
-        <source xml:space="preserve">Mismatch between type of <ph id="0">{0}</ph> exception and <ph id="1">{1}</ph> exception for value: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</source>
+        <source xml:space="preserve">Mismatch between type of <ph id="0">{0}</ph>  exception and <ph id="1">{1}</ph>  exception for value: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</source>
         <target xml:space="preserve">Nichtübereinstimmung zwischen Typen des Fehlers <ph id="0">{0}</ph> und des Fehlers <ph id="1">{1}</ph> für die Werte: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</target>
       </trans-unit>
       <trans-unit id="type mismatch, {0}: {1} {2}: {3}">
@@ -29298,7 +29298,7 @@
         <target xml:space="preserve">Wähle verwaistes <ph id="0">{0}</ph> aus um es an <ph id="1">{1}</ph> anzuschließen</target>
       </trans-unit>
       <trans-unit id="This {0} is orphaned and has no host!  When placing a new object that can contain it, an option will be given to assign it.">
-        <source xml:space="preserve">This <ph id="0">{0}</ph> is orphaned and has no host! When placing a new object that can contain it, an option will be given to assign it.</source>
+        <source xml:space="preserve">This <ph id="0">{0}</ph> is orphaned and has no host!  When placing a new object that can contain it, an option will be given to assign it.</source>
         <target xml:space="preserve">Dieses <ph id="0">{0}</ph> ist verwaist und hat keinen Eigentümer! Wenn du ein neues Objekt platzierts, welches es beinhalten kann, wird dir eine Option angezeigt womit du es zuweisen kannst.</target>
       </trans-unit>
       <trans-unit id="Revision">
@@ -29374,7 +29374,7 @@
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Election for {0} started.  Voting ends in {1} hours.">
-        <source xml:space="preserve">Election for <ph id="0">{0}</ph> started. Voting ends in <ph id="1">{1}</ph> hours.</source>
+        <source xml:space="preserve">Election for <ph id="0">{0}</ph> started.  Voting ends in <ph id="1">{1}</ph> hours.</source>
         <target xml:space="preserve">Die Wahl zum <ph id="0">{0}</ph> hat begonnen.  Die Wahlen enden in <ph id="1">{1}</ph> Stunden.</target>
       </trans-unit>
       <trans-unit id="{0} voting has begun!">
@@ -38466,7 +38466,7 @@
         <target xml:space="preserve"><ph id="0">{0}</ph> ist jetzt Schüler von <ph id="1">{1}</ph> bei <ph id="2">{2}</ph>. <ph id="3">{3}</ph></target>
       </trans-unit>
       <trans-unit id="{0} has enrolled in your {1} class.  You will collect {2} when they complete the class.">
-        <source xml:space="preserve"><ph id="0">{0}</ph> has enrolled in your <ph id="1">{1}</ph> class. You will collect <ph id="2">{2}</ph> when they complete the class.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> has enrolled in your <ph id="1">{1}</ph> class.  You will collect <ph id="2">{2}</ph> when they complete the class.</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> hat sich in deine Klasse <ph id="1">{1}</ph> eingeschrieben. Du wirst <ph id="2">{2}</ph> bekommen, sobald die Klasse abgeschlossen ist.</target>
       </trans-unit>
       <trans-unit id="Cannot become a teacher here, requirements not satisfied.">
@@ -38482,7 +38482,7 @@
         <target xml:space="preserve">Du hast die Voraussetzung <ph id="0">{0}</ph> nicht und kann nicht gelernt werden.</target>
       </trans-unit>
       <trans-unit id="You are now a teacher of {0}!  For teaching to begin:\n\n - Students must enroll beyond the minimum number required.\n - Students must add studying labor.\n - You must add teaching labor.\n\n When these are satisfied, their education in the given subject will begin increasing.">
-        <source xml:space="preserve">You are now a teacher of <ph id="0">{0}</ph>! For teaching to begin:\n\n - Students must enroll beyond the minimum number required.\n - Students must add studying labor.\n - You must add teaching labor.\n\n When these are satisfied, their education in the given subject will begin increasing.</source>
+        <source xml:space="preserve">You are now a teacher of <ph id="0">{0}</ph>!  For teaching to begin:\n\n - Students must enroll beyond the minimum number required.\n - Students must add studying labor.\n - You must add teaching labor.\n\n When these are satisfied, their education in the given subject will begin increasing.</source>
         <target xml:space="preserve">Du bist jetzt Lehrer von <ph id="0">{0}</ph>! Um das Unterrichten zu beginnen:\n\n - Es muss die Mindestmenge an Schülern erreicht werden.\n - Schüler müssen Arbeit hinzugefügt haben.\n - Du musst Arbeit hinzugefügt haben.\n\n Wenn alles erfüllt ist, wird der Unterricht beginnen.</target>
       </trans-unit>
       <trans-unit id="{0} is now teaching {1} at {2}.">
@@ -38498,7 +38498,7 @@
         <target xml:space="preserve">Sicher, dass du dein Lehramt aufgeben willst?</target>
       </trans-unit>
       <trans-unit id="{0} calories applied to studying.  {1} of calories needed for class have been applied.">
-        <source xml:space="preserve"><ph id="0">{0}</ph> calories applied to studying. <ph id="1">{1}</ph> of calories needed for class have been applied.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> calories applied to studying.  <ph id="1">{1}</ph> of calories needed for class have been applied.</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> Arbeitskraft fürs Lernen angewandt. <ph id="1">{1}</ph> Arbeitskraft notwendig, um dich in die Klasse einzuschreiben.</target>
       </trans-unit>
       <trans-unit id="Teaching not started:">
@@ -38526,7 +38526,7 @@
         <target xml:space="preserve">Du hast bereits das Maximum an Arbeitskraft verbraucht, die du hier anwenden kannst (<ph id="0">{0}</ph> Klassen).</target>
       </trans-unit>
       <trans-unit id="{0} calories applied to teaching.  Calories queued to teach {1} full classes.">
-        <source xml:space="preserve"><ph id="0">{0}</ph> calories applied to teaching. Calories queued to teach <ph id="1">{1}</ph> full classes.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> calories applied to teaching.  Calories queued to teach <ph id="1">{1}</ph> full classes.</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> Arbeitskraft für das Unterrichten angewandt. Arbeitskraft angewandt, um <ph id="1">{1}</ph> volle Klassen zu unterrichten.</target>
       </trans-unit>
       <trans-unit id="Teaching time queued: {0} ({1} full classes)">
@@ -38715,7 +38715,7 @@
         <target xml:space="preserve">Du hast Zugriff auf <ph id="0">{0}</ph> hier, aber die Platzierung würde nicht einen <ph id="1">{1}</ph> überschneiden.</target>
       </trans-unit>
       <trans-unit id="Location overlaps {0} but the plot is unowned.  Claim the plot first to place here.">
-        <source xml:space="preserve">Location overlaps <ph id="0">{0}</ph> but the plot is unowned. Claim the plot first to place here.</source>
+        <source xml:space="preserve">Location overlaps <ph id="0">{0}</ph> but the plot is unowned.  Claim the plot first to place here.</source>
         <target xml:space="preserve">Standort überlappt mit <ph id="0">{0}</ph> aber die Parzelle gehört niemandem. Beanspruche die Parzelle erst, um hier etwas zu platzieren.</target>
       </trans-unit>
       <trans-unit id="Location overlaps {0} but you don't have ownership access on this plot.">
@@ -43097,10 +43097,6 @@
         <source xml:space="preserve">Using tools requiring calories</source>
         <target xml:space="preserve">Benutze Werkzeug, die Kalorien verbrauchen</target>
       </trans-unit>
-      <trans-unit id="Fishing">
-        <source xml:space="preserve">Fishing</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
       <trans-unit id="Trading">
         <source xml:space="preserve">Trading</source>
         <target xml:space="preserve">Handeln</target>
@@ -44188,7 +44184,7 @@
         <target xml:space="preserve">Öffne die Werkbank und finde das Rezept <ph id="0">{0}</ph>. Klicke 'Beauftragen'.</target>
       </trans-unit>
       <trans-unit id="Collect at least 4 {0} in hand.  Make more if needed.">
-        <source xml:space="preserve">Collect at least 4 <ph id="0">{0}</ph> in hand. Make more if needed.</source>
+        <source xml:space="preserve">Collect at least 4 <ph id="0">{0}</ph> in hand.  Make more if needed.</source>
         <target xml:space="preserve">Sammle mindestens 4 <ph id="0">{0}</ph> in der Hand. Stelle weitere her, falls nötig.</target>
       </trans-unit>
       <trans-unit id="Select on toolbar and right-click to place">
@@ -44251,19 +44247,6 @@
         <source xml:space="preserve">Minutes</source>
         <target xml:space="preserve">Minuten</target>
       </trans-unit>
-      <trans-unit id="Pinned">
-        <source xml:space="preserve">Pinned</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Important">
-        <source xml:space="preserve">Important</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Shows commands to profile the server and generate diagnostic data.">
-        <source xml:space="preserve">Shows commands to profile the server and generate diagnostic data.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /profiler</note>
-      </trans-unit>
       <trans-unit id="The address of a Discord server used for players on this world.  Should only include the portion after 'https://discord.gg/' as that will be filled in.">
         <source xml:space="preserve">The address of a Discord server used for players on this world.  Should only include the portion after 'https://discord.gg/' as that will be filled in.</source>
         <target xml:space="preserve">Die Adresse eines Discord Servers, der für Spieler auf dieser Welt verwendet wird. Sollte nur den Teil nach 'https://discord.gg/' enthalten, da der Rest automatisch eingefügt wird.</target>
@@ -44272,10 +44255,6 @@
         <source xml:space="preserve">Face Tracking Enabled</source>
         <target xml:space="preserve">Face-Tracking aktiviert</target>
       </trans-unit>
-      <trans-unit id="Achievements Enabled">
-        <source xml:space="preserve">Achievements Enabled</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
       <trans-unit id="Allows players to use facetracking feature">
         <source xml:space="preserve">Allows players to use facetracking feature</source>
         <target xml:space="preserve">Erlaubt es Spieler das Face-Tracking zu nutzen</target>
@@ -44283,11 +44262,6 @@
       <trans-unit id="Should the achievements be enabled or not? (Note: this system is incomplete)">
         <source xml:space="preserve">Should the achievements be enabled or not? (Note: this system is incomplete)</source>
         <target xml:space="preserve">Soll die Errungenschaft aktiviert werden oder nicht? (Bemerkung: dieses System ist noch unvollständig)</target>
-      </trans-unit>
-      <trans-unit id="List of different teleportation commands">
-        <source xml:space="preserve">List of different teleportation commands</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /teleport</note>
       </trans-unit>
       <trans-unit id="repopulateanimallayer">
         <source xml:space="preserve">repopulateanimallayer</source>
@@ -44299,11 +44273,6 @@
         <target xml:space="preserve"></target>
         <note from="developer">Help text for chat command /repopulateanimallayer</note>
       </trans-unit>
-      <trans-unit id="Shows commands for building and tech tree manipulation">
-        <source xml:space="preserve">Shows commands for building and tech tree manipulation</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /build</note>
-      </trans-unit>
       <trans-unit id="Shows Commands related to chat.">
         <source xml:space="preserve">Shows Commands related to chat.</source>
         <target xml:space="preserve">Entferne leere Grundstücke</target>
@@ -44313,11 +44282,6 @@
         <source xml:space="preserve">Shows commands related to notifications.</source>
         <target xml:space="preserve">Ist angelbar</target>
         <note from="developer">Help text for chat command /notifications</note>
-      </trans-unit>
-      <trans-unit id="Shows commands allowing to list, add, remove, and clear many things in the game (including laws, titles, elections, bank accounts, and many more). Ex: /objects remove laws, Law 1">
-        <source xml:space="preserve">Shows commands allowing to list, add, remove, and clear many things in the game (including laws, titles, elections, bank accounts, and many more). Ex: /objects remove laws, Law 1</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /objects</note>
       </trans-unit>
       <trans-unit id="Shows commands for performing an animated emote.">
         <source xml:space="preserve">Shows commands for performing an animated emote.</source>
@@ -44344,58 +44308,18 @@
         <source xml:space="preserve">Displays and sets the settlement that is the parent of this claim stake.</source>
         <target xml:space="preserve">Zeige die Siedlung zu welcher dieser Gebietsanspruch gehört.</target>
       </trans-unit>
-      <trans-unit id="Shows commands for controlling settlements.">
-        <source xml:space="preserve">Shows commands for controlling settlements.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /settlement</note>
-      </trans-unit>
       <trans-unit id="Settlement Name">
         <source xml:space="preserve">Settlement Name</source>
         <target xml:space="preserve">Siedlungsname</target>
-      </trans-unit>
-      <trans-unit id="Shows commands for rooms manipulations.">
-        <source xml:space="preserve">Shows commands for rooms manipulations.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /rooms</note>
-      </trans-unit>
-      <trans-unit id="Shows commands for property manipulations.">
-        <source xml:space="preserve">Shows commands for property manipulations.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /property</note>
       </trans-unit>
       <trans-unit id="Loaded">
         <source xml:space="preserve">Loaded</source>
         <target xml:space="preserve">Geladen</target>
       </trans-unit>
-      <trans-unit id="Shows commands for changing things about users.">
-        <source xml:space="preserve">Shows commands for changing things about users.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /user</note>
-      </trans-unit>
-      <trans-unit id="Shows commands for users administration.">
-        <source xml:space="preserve">Shows commands for users administration.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /manage</note>
-      </trans-unit>
-      <trans-unit id="Shows commands for manipulating money.">
-        <source xml:space="preserve">Shows commands for manipulating money.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /money</note>
-      </trans-unit>
-      <trans-unit id="Shows commands related to the economy.">
-        <source xml:space="preserve">Shows commands related to the economy.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /economy</note>
-      </trans-unit>
       <trans-unit id="Shows commands for manipulations with meteor.">
         <source xml:space="preserve">Shows commands for manipulations with meteor.</source>
         <target xml:space="preserve"></target>
         <note from="developer">Help text for chat command /meteor</note>
-      </trans-unit>
-      <trans-unit id="Shows commands related to user-defined districts.">
-        <source xml:space="preserve">Shows commands related to user-defined districts.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /districts</note>
       </trans-unit>
       <trans-unit id="Percent Of Days To Be Active For Long Term Demographic">
         <source xml:space="preserve">Percent Of Days To Be Active For Long Term Demographic</source>
@@ -44416,11 +44340,6 @@
       <trans-unit id="Player who's citizenship is being revoked.">
         <source xml:space="preserve">Player who's citizenship is being revoked.</source>
         <target xml:space="preserve">Spieler dessen Staatsbürgerschaft widerrufen wurde.</target>
-      </trans-unit>
-      <trans-unit id="Shows commands for viewing and manipulating player titles.">
-        <source xml:space="preserve">Shows commands for viewing and manipulating player titles.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /titles</note>
       </trans-unit>
       <trans-unit id="Hours Required">
         <source xml:space="preserve">Hours Required</source>
@@ -44468,19 +44387,9 @@
         <target xml:space="preserve">Hölzerne Küchenlampe</target>
         <note from="developer">Help text for chat command /pollute</note>
       </trans-unit>
-      <trans-unit id="Shows commands for skills">
-        <source xml:space="preserve">Shows commands for skills</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /skills</note>
-      </trans-unit>
       <trans-unit id="Wood Shop Cart">
         <source xml:space="preserve">Wood Shop Cart</source>
         <target xml:space="preserve">Holzladenwagen</target>
-      </trans-unit>
-      <trans-unit id="Shows actors related commands">
-        <source xml:space="preserve">Shows actors related commands</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /actor</note>
       </trans-unit>
       <trans-unit id="Look Left Right">
         <source xml:space="preserve">Look Left Right</source>
@@ -44617,118 +44526,6 @@
       <trans-unit id="Vehicle Ramps Down Up">
         <source xml:space="preserve">Vehicle Ramps Down Up</source>
         <target xml:space="preserve">Fahrzeugrampen herunterlassen</target>
-      </trans-unit>
-      <trans-unit id="A stockpile for distributing items to new players. Allows you to choose a specific set of items which each new player will be able to take.">
-        <source xml:space="preserve">A stockpile for distributing items to new players. Allows you to choose a specific set of items which each new player will be able to take.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A campsite.">
-        <source xml:space="preserve">A campsite.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A porcelain bathtub for when you need to get clean or just relax.">
-        <source xml:space="preserve">A porcelain bathtub for when you need to get clean or just relax.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="The assembly line allows for mass production of mechanical products.">
-        <source xml:space="preserve">The assembly line allows for mass production of mechanical products.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="An ashlar stone bench. Great for display though maybe not as comfy as a padded couch.">
-        <source xml:space="preserve">An ashlar stone bench. Great for display though maybe not as comfy as a padded couch.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A fancy ashlar stone table that has been adorned with gold.">
-        <source xml:space="preserve">A fancy ashlar stone table that has been adorned with gold.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Self-improvement increases both the amount of weight citizens can carry and their stomach capacity. It also decreases the calories expended when using hammers and shovels. Experience is gained when leveling up other specialties.">
-        <source xml:space="preserve">Self-improvement increases both the amount of weight citizens can carry and their stomach capacity. It also decreases the calories expended when using hammers and shovels. Experience is gained when leveling up other specialties.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Tailoring recipes.">
-        <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Tailoring recipes.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Tailoring recipes.">
-        <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Tailoring recipes.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Mechanics recipes.">
-        <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Mechanics recipes.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A dead turkey.">
-        <source xml:space="preserve">A dead turkey.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="An extremely useful synthetic material derived from petrochemicals.">
-        <source xml:space="preserve">An extremely useful synthetic material derived from petrochemicals.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Provides speed and torque conversions from a rotating power source to another device.">
-        <source xml:space="preserve">Provides speed and torque conversions from a rotating power source to another device.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A blue shark.">
-        <source xml:space="preserve">A blue shark.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A dressed salad that, with the added sweetness, it's pretty tasty.">
-        <source xml:space="preserve">A dressed salad that, with the added sweetness, it's pretty tasty.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="To give thanks for the fact that this food gives two extra nutrients than other food items of the same tier.">
-        <source xml:space="preserve">To give thanks for the fact that this food gives two extra nutrients than other food items of the same tier.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Comforting, best served hot from the griddle.">
-        <source xml:space="preserve">Comforting, best served hot from the griddle.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Round and large.">
-        <source xml:space="preserve">Round and large.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Nice fresh Pineapple.">
-        <source xml:space="preserve">Nice fresh Pineapple.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Nice fresh Papaya.">
-        <source xml:space="preserve">Nice fresh Papaya.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A sweet pastry that is great for breakfast or anytime you need a quick boost of energy.">
-        <source xml:space="preserve">A sweet pastry that is great for breakfast or anytime you need a quick boost of energy.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Deep fried Camas. Bit greasy.">
-        <source xml:space="preserve">Deep fried Camas. Bit greasy.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Tiny Cup Mushrooms.">
-        <source xml:space="preserve">Tiny Cup Mushrooms.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Agave leaves that have been charred over a campfire.">
-        <source xml:space="preserve">Agave leaves that have been charred over a campfire.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Boletus edulis.">
-        <source xml:space="preserve">Boletus edulis.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Baked taro root.">
-        <source xml:space="preserve">Baked taro root.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A multipurpose filler that is made from what you have available.">
-        <source xml:space="preserve">A multipurpose filler that is made from what you have available.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="It just looks cool.">
-        <source xml:space="preserve">It just looks cool.</source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Text is too long, max length excluding tags cannot exceed {0} characters">
         <source xml:space="preserve">Text is too long, max length excluding tags cannot exceed <ph id="0">{0}</ph> characters</source>
@@ -47391,7 +47188,7 @@
         <target xml:space="preserve">Sie kannst die Wahl mit weiteren Aktionen verbinden (Gesetze hinzufügen usw.), bevor Du sie in der Seitenleiste startest.</target>
       </trans-unit>
       <trans-unit id="{0} is disabled, cannot ratify constitution.  Check status tab.">
-        <source xml:space="preserve"><ph id="0">{0}</ph> is disabled, cannot ratify constitution. Check status tab.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> is disabled, cannot ratify constitution.  Check status tab.</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> ist deaktiviert, Ratifizierung der Verfassung nicht möglich. Überprüfe Reiter 'Status'.</target>
       </trans-unit>
       <trans-unit id="You can add additional provisions to it before starting voting.">
@@ -49294,7 +49091,7 @@
         <target xml:space="preserve"> - Ignoriere <ph id="0">{0}</ph>: Unterstützt <ph id="1">{1}</ph> nicht.</target>
       </trans-unit>
       <trans-unit id="Capping value of {0} support ({1}) to {2} of {3} furnishings ({4}).  Resulting value: {5}.">
-        <source xml:space="preserve">Capping value of <ph id="0">{0}</ph> support (<ph id="1">{1}</ph>) to <ph id="2">{2}</ph> of <ph id="3">{3}</ph> furnishings (<ph id="4">{4}</ph>). Resulting value: <ph id="5">{5}</ph>.</source>
+        <source xml:space="preserve">Capping value of <ph id="0">{0}</ph> support (<ph id="1">{1}</ph>) to <ph id="2">{2}</ph> of <ph id="3">{3}</ph> furnishings (<ph id="4">{4}</ph>).  Resulting value: <ph id="5">{5}</ph>.</source>
         <target xml:space="preserve">Obergrenze von <ph id="0">{0}</ph> Unterstützung (<ph id="1">{1}</ph>) bis <ph id="2">{2}</ph> von <ph id="3">{3}</ph> Einrichtungen (<ph id="4">{4}</ph>).  Resultierender Wert: <ph id="5">{5}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} prevents this room from providing housing value:{1}">
@@ -49446,7 +49243,7 @@
         <target xml:space="preserve">Keine Siedlung gefunden.</target>
       </trans-unit>
       <trans-unit id="{0} had culture boost set to {1}.  Total culture: {2}">
-        <source xml:space="preserve"><ph id="0">{0}</ph> had culture boost set to <ph id="1">{1}</ph>. Total culture: <ph id="2">{2}</ph></source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> had culture boost set to <ph id="1">{1}</ph>.  Total culture: <ph id="2">{2}</ph></source>
         <target xml:space="preserve">Der Kulturschub von <ph id="0">{0}</ph> betrug <ph id="1">{1}</ph>. Kultur gesamt: <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Abilities unlocked on {0}:">
@@ -52665,7 +52462,7 @@
         <target xml:space="preserve">Debugoptionen:</target>
       </trans-unit>
       <trans-unit id="This {0} is in draft form.  It will not cast influence until it is founded.">
-        <source xml:space="preserve">This <ph id="0">{0}</ph> is in draft form. It will not cast influence until it is founded.</source>
+        <source xml:space="preserve">This <ph id="0">{0}</ph> is in draft form.  It will not cast influence until it is founded.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="None ({0} is not yet founded).">
@@ -53241,7 +53038,7 @@
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Requirements are met and this {0} can be founded after the constitution is ratified.  See 'Constitution' tab.">
-        <source xml:space="preserve">Requirements are met and this <ph id="0">{0}</ph> can be founded after the constitution is ratified. See 'Constitution' tab.</source>
+        <source xml:space="preserve">Requirements are met and this <ph id="0">{0}</ph> can be founded after the constitution is ratified.  See 'Constitution' tab.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Requirements are met and this {0} can be founded after ratification election '{1}' passes.">
@@ -53610,7 +53407,7 @@
         <target xml:space="preserve">Abstimmungen in <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="A new constitution {0} has been ratified in {1}!  The {2} can now be founded at any time.">
-        <source xml:space="preserve">A new constitution <ph id="0">{0}</ph> has been ratified in <ph id="1">{1}</ph>! The <ph id="2">{2}</ph> can now be founded at any time.</source>
+        <source xml:space="preserve">A new constitution <ph id="0">{0}</ph> has been ratified in <ph id="1">{1}</ph>!  The <ph id="2">{2}</ph> can now be founded at any time.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="You cannot create or make changes here until a constitution exists or is proposed for ratification.">
@@ -55016,7 +54813,7 @@
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Reputation from the settlement that the artwork is currently placed in is reduced by {0}.  Thus, foriegn opinion matters more for culture value, and trading artwork can yield net positive culture to two settlements.">
-        <source xml:space="preserve">Reputation from the settlement that the artwork is currently placed in is reduced by <ph id="0">{0}</ph>. Thus, foriegn opinion matters more for culture value, and trading artwork can yield net positive culture to two settlements.</source>
+        <source xml:space="preserve">Reputation from the settlement that the artwork is currently placed in is reduced by <ph id="0">{0}</ph>.  Thus, foriegn opinion matters more for culture value, and trading artwork can yield net positive culture to two settlements.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Artist ({0}):">
@@ -55375,10 +55172,6 @@
         <source xml:space="preserve">A long description of the server to display when selected in the server browser.  Use \n for line endings.  Max 500 characters.</source>
         <target xml:space="preserve">Eine lange Beschreibung des Servers, die angezeigt wird, wenn er im Server Browser ausgewählt wird. Benutze \n für Zeilenumbrüche. Maximal 500 Zeichen.</target>
       </trans-unit>
-      <trans-unit id="Could not add chat command \'/{0}\': invalid parameter type '{1}' of {2} argument.">
-        <source xml:space="preserve">Could not add chat command \'/<ph id="0">{0}</ph>\': invalid parameter type '<ph id="1">{1}</ph>' of <ph id="2">{2}</ph> argument.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
       <trans-unit id="Missing Settlement">
         <source xml:space="preserve">Missing Settlement</source>
         <target xml:space="preserve"></target>
@@ -55697,7 +55490,7 @@
         <target xml:space="preserve">Erstellt über <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Became the creator of the most culture worldwide, with {0} culture creators in competition.  You reached this position with {1}.">
-        <source xml:space="preserve">Became the creator of the most culture worldwide, with <ph id="0">{0}</ph> culture creators in competition. You reached this position with <ph id="1">{1}</ph>.</source>
+        <source xml:space="preserve">Became the creator of the most culture worldwide, with <ph id="0">{0}</ph> culture creators in competition.  You reached this position with <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Sparkling Canvas">
@@ -56203,10 +55996,6 @@
       <trans-unit id="Hide from the animals!\n\n(Reduces the detection range of animals)">
         <source xml:space="preserve">Hide from the animals!\n\n(Reduces the detection range of animals)</source>
         <target xml:space="preserve">Tarnt dich vor Tieren!\n\n(Verringert die Erkennungsweite der Tiere)</target>
-      </trans-unit>
-      <trans-unit id="Hide from the animals!\n\n(Reduces the detection range of animals)">
-        <source xml:space="preserve">Hide from the animals!\n\n(Reduces the detection range of animals)</source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="A steel hardhat with a light source for the darkest places.\n\n(Flashlight)">
         <source xml:space="preserve">A steel hardhat with a light source for the darkest places.\n\n(Flashlight)</source>
@@ -57468,10 +57257,6 @@
         <source xml:space="preserve">Spawns Housing main room items</source>
         <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="Could not add chat command \'/{0}\': invalid parameter type '{1}' of {2} argument.">
-        <source xml:space="preserve">Could not add chat command \'/<ph id="0">{0}</ph>\': invalid parameter type '<ph id="1">{1}</ph>' of <ph id="2">{2}</ph> argument.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
       <trans-unit id="{0}: Failed to build a valid route in test {1} (indexing starts at 0) from {2} to {3}. This might be good or bad depending on whether you expect {4} to be able to complete this test.">
         <source xml:space="preserve"><ph id="0">{0}</ph>: Failed to build a valid route in test <ph id="1">{1}</ph> (indexing starts at 0) from <ph id="2">{2}</ph> to <ph id="3">{3}</ph>. This might be good or bad depending on whether you expect <ph id="4">{4}</ph> to be able to complete this test.</source>
         <target xml:space="preserve"></target>
@@ -57577,7 +57362,7 @@
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="{0} already has {1} citizens, increasing difficulty by an additional  {2}.">
-        <source xml:space="preserve"><ph id="0">{0}</ph> already has <ph id="1">{1}</ph> citizens, increasing difficulty by an additional <ph id="2">{2}</ph>.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> already has <ph id="1">{1}</ph> citizens, increasing difficulty by an additional  <ph id="2">{2}</ph>.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="{0} already has {1} child settlements, increasing difficulty by an additional {2}.">
@@ -59395,10 +59180,6 @@
       <trans-unit id="Browse file">
         <source xml:space="preserve">Browse file</source>
         <target xml:space="preserve">Datei wählen</target>
-      </trans-unit>
-      <trans-unit id="Durability">
-        <source xml:space="preserve">Durability</source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="No requirements">
         <source xml:space="preserve">No requirements</source>
@@ -63399,7 +63180,7 @@
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Reputation from the settlement that the work is currently placed in is reduced by {0}.  Thus, foriegn opinion matters more for culture value (some works, like paintings, can be traded and yield net positive culture to two settlements).">
-        <source xml:space="preserve">Reputation from the settlement that the work is currently placed in is reduced by <ph id="0">{0}</ph>. Thus, foriegn opinion matters more for culture value (some works, like paintings, can be traded and yield net positive culture to two settlements).</source>
+        <source xml:space="preserve">Reputation from the settlement that the work is currently placed in is reduced by <ph id="0">{0}</ph>.  Thus, foriegn opinion matters more for culture value (some works, like paintings, can be traded and yield net positive culture to two settlements).</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Final value (capped at {0}x of artist's value):">
@@ -64007,7 +63788,7 @@
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Collect at least 4 {0} blocks in hand.  Make more if needed.">
-        <source xml:space="preserve">Collect at least 4 <ph id="0">{0}</ph> blocks in hand. Make more if needed.</source>
+        <source xml:space="preserve">Collect at least 4 <ph id="0">{0}</ph> blocks in hand.  Make more if needed.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Find the Workbench Recipe and click 'Start Project'.">
@@ -66575,7 +66356,7 @@
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Reputation from the settlement that the work is currently placed in is reduced by {0}.  Thus, foreign opinion matters more for culture value (some works, like paintings, can be traded and yield net positive culture to two settlements).">
-        <source xml:space="preserve">Reputation from the settlement that the work is currently placed in is reduced by <ph id="0">{0}</ph>. Thus, foreign opinion matters more for culture value (some works, like paintings, can be traded and yield net positive culture to two settlements).</source>
+        <source xml:space="preserve">Reputation from the settlement that the work is currently placed in is reduced by <ph id="0">{0}</ph>.  Thus, foreign opinion matters more for culture value (some works, like paintings, can be traded and yield net positive culture to two settlements).</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="{0} started a new stream '{1}' of this world on Twitch.">

@@ -43096,10 +43096,6 @@
         <source xml:space="preserve">Using tools requiring calories</source>
         <target xml:space="preserve">使用工具需要卡路里</target>
       </trans-unit>
-      <trans-unit id="Fishing">
-        <source xml:space="preserve">Fishing</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
       <trans-unit id="Trading">
         <source xml:space="preserve">Trading</source>
         <target xml:space="preserve">交易</target>
@@ -44250,19 +44246,6 @@
         <source xml:space="preserve">Minutes</source>
         <target xml:space="preserve">分钟</target>
       </trans-unit>
-      <trans-unit id="Pinned">
-        <source xml:space="preserve">Pinned</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Important">
-        <source xml:space="preserve">Important</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Shows commands to profile the server and generate diagnostic data.">
-        <source xml:space="preserve">Shows commands to profile the server and generate diagnostic data.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /profiler</note>
-      </trans-unit>
       <trans-unit id="The address of a Discord server used for players on this world.  Should only include the portion after 'https://discord.gg/' as that will be filled in.">
         <source xml:space="preserve">The address of a Discord server used for players on this world.  Should only include the portion after 'https://discord.gg/' as that will be filled in.</source>
         <target xml:space="preserve">在该世界上，玩家所用的 Discord 服务器地址。应仅包括 'https://discord.gg/' （这部分会自动填入）之后的部分。</target>
@@ -44271,10 +44254,6 @@
         <source xml:space="preserve">Face Tracking Enabled</source>
         <target xml:space="preserve">脸部追踪已启用</target>
       </trans-unit>
-      <trans-unit id="Achievements Enabled">
-        <source xml:space="preserve">Achievements Enabled</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
       <trans-unit id="Allows players to use facetracking feature">
         <source xml:space="preserve">Allows players to use facetracking feature</source>
         <target xml:space="preserve">允许玩家使用脸部追踪功能</target>
@@ -44282,11 +44261,6 @@
       <trans-unit id="Should the achievements be enabled or not? (Note: this system is incomplete)">
         <source xml:space="preserve">Should the achievements be enabled or not? (Note: this system is incomplete)</source>
         <target xml:space="preserve">成就系统该不该启用？（请注意：该系统未完成）</target>
-      </trans-unit>
-      <trans-unit id="List of different teleportation commands">
-        <source xml:space="preserve">List of different teleportation commands</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /teleport</note>
       </trans-unit>
       <trans-unit id="repopulateanimallayer">
         <source xml:space="preserve">repopulateanimallayer</source>
@@ -44298,11 +44272,6 @@
         <target xml:space="preserve"></target>
         <note from="developer">Help text for chat command /repopulateanimallayer</note>
       </trans-unit>
-      <trans-unit id="Shows commands for building and tech tree manipulation">
-        <source xml:space="preserve">Shows commands for building and tech tree manipulation</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /build</note>
-      </trans-unit>
       <trans-unit id="Shows Commands related to chat.">
         <source xml:space="preserve">Shows Commands related to chat.</source>
         <target xml:space="preserve"></target>
@@ -44312,11 +44281,6 @@
         <source xml:space="preserve">Shows commands related to notifications.</source>
         <target xml:space="preserve"></target>
         <note from="developer">Help text for chat command /notifications</note>
-      </trans-unit>
-      <trans-unit id="Shows commands allowing to list, add, remove, and clear many things in the game (including laws, titles, elections, bank accounts, and many more). Ex: /objects remove laws, Law 1">
-        <source xml:space="preserve">Shows commands allowing to list, add, remove, and clear many things in the game (including laws, titles, elections, bank accounts, and many more). Ex: /objects remove laws, Law 1</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /objects</note>
       </trans-unit>
       <trans-unit id="Shows commands for performing an animated emote.">
         <source xml:space="preserve">Shows commands for performing an animated emote.</source>
@@ -44343,58 +44307,18 @@
         <source xml:space="preserve">Displays and sets the settlement that is the parent of this claim stake.</source>
         <target xml:space="preserve">显示并设置到该契据桩所属的定居点。</target>
       </trans-unit>
-      <trans-unit id="Shows commands for controlling settlements.">
-        <source xml:space="preserve">Shows commands for controlling settlements.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /settlement</note>
-      </trans-unit>
       <trans-unit id="Settlement Name">
         <source xml:space="preserve">Settlement Name</source>
         <target xml:space="preserve">定居点名称</target>
-      </trans-unit>
-      <trans-unit id="Shows commands for rooms manipulations.">
-        <source xml:space="preserve">Shows commands for rooms manipulations.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /rooms</note>
-      </trans-unit>
-      <trans-unit id="Shows commands for property manipulations.">
-        <source xml:space="preserve">Shows commands for property manipulations.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /property</note>
       </trans-unit>
       <trans-unit id="Loaded">
         <source xml:space="preserve">Loaded</source>
         <target xml:space="preserve">已加载</target>
       </trans-unit>
-      <trans-unit id="Shows commands for changing things about users.">
-        <source xml:space="preserve">Shows commands for changing things about users.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /user</note>
-      </trans-unit>
-      <trans-unit id="Shows commands for users administration.">
-        <source xml:space="preserve">Shows commands for users administration.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /manage</note>
-      </trans-unit>
-      <trans-unit id="Shows commands for manipulating money.">
-        <source xml:space="preserve">Shows commands for manipulating money.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /money</note>
-      </trans-unit>
-      <trans-unit id="Shows commands related to the economy.">
-        <source xml:space="preserve">Shows commands related to the economy.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /economy</note>
-      </trans-unit>
       <trans-unit id="Shows commands for manipulations with meteor.">
         <source xml:space="preserve">Shows commands for manipulations with meteor.</source>
         <target xml:space="preserve"></target>
         <note from="developer">Help text for chat command /meteor</note>
-      </trans-unit>
-      <trans-unit id="Shows commands related to user-defined districts.">
-        <source xml:space="preserve">Shows commands related to user-defined districts.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /districts</note>
       </trans-unit>
       <trans-unit id="Percent Of Days To Be Active For Long Term Demographic">
         <source xml:space="preserve">Percent Of Days To Be Active For Long Term Demographic</source>
@@ -44415,11 +44339,6 @@
       <trans-unit id="Player who's citizenship is being revoked.">
         <source xml:space="preserve">Player who's citizenship is being revoked.</source>
         <target xml:space="preserve">正被撤销公民权的玩家。</target>
-      </trans-unit>
-      <trans-unit id="Shows commands for viewing and manipulating player titles.">
-        <source xml:space="preserve">Shows commands for viewing and manipulating player titles.</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /titles</note>
       </trans-unit>
       <trans-unit id="Hours Required">
         <source xml:space="preserve">Hours Required</source>
@@ -44467,19 +44386,9 @@
         <target xml:space="preserve"></target>
         <note from="developer">Help text for chat command /pollute</note>
       </trans-unit>
-      <trans-unit id="Shows commands for skills">
-        <source xml:space="preserve">Shows commands for skills</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /skills</note>
-      </trans-unit>
       <trans-unit id="Wood Shop Cart">
         <source xml:space="preserve">Wood Shop Cart</source>
         <target xml:space="preserve">木质购物车</target>
-      </trans-unit>
-      <trans-unit id="Shows actors related commands">
-        <source xml:space="preserve">Shows actors related commands</source>
-        <target xml:space="preserve"></target>
-        <note from="developer">Help text for chat command /actor</note>
       </trans-unit>
       <trans-unit id="Look Left Right">
         <source xml:space="preserve">Look Left Right</source>
@@ -44616,118 +44525,6 @@
       <trans-unit id="Vehicle Ramps Down Up">
         <source xml:space="preserve">Vehicle Ramps Down Up</source>
         <target xml:space="preserve">车辆坡道向下/向上</target>
-      </trans-unit>
-      <trans-unit id="A stockpile for distributing items to new players. Allows you to choose a specific set of items which each new player will be able to take.">
-        <source xml:space="preserve">A stockpile for distributing items to new players. Allows you to choose a specific set of items which each new player will be able to take.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A campsite.">
-        <source xml:space="preserve">A campsite.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A porcelain bathtub for when you need to get clean or just relax.">
-        <source xml:space="preserve">A porcelain bathtub for when you need to get clean or just relax.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="The assembly line allows for mass production of mechanical products.">
-        <source xml:space="preserve">The assembly line allows for mass production of mechanical products.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="An ashlar stone bench. Great for display though maybe not as comfy as a padded couch.">
-        <source xml:space="preserve">An ashlar stone bench. Great for display though maybe not as comfy as a padded couch.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A fancy ashlar stone table that has been adorned with gold.">
-        <source xml:space="preserve">A fancy ashlar stone table that has been adorned with gold.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Self-improvement increases both the amount of weight citizens can carry and their stomach capacity. It also decreases the calories expended when using hammers and shovels. Experience is gained when leveling up other specialties.">
-        <source xml:space="preserve">Self-improvement increases both the amount of weight citizens can carry and their stomach capacity. It also decreases the calories expended when using hammers and shovels. Experience is gained when leveling up other specialties.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Tailoring recipes.">
-        <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Tailoring recipes.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Tailoring recipes.">
-        <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Tailoring recipes.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Mechanics recipes.">
-        <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Mechanics recipes.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A dead turkey.">
-        <source xml:space="preserve">A dead turkey.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="An extremely useful synthetic material derived from petrochemicals.">
-        <source xml:space="preserve">An extremely useful synthetic material derived from petrochemicals.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Provides speed and torque conversions from a rotating power source to another device.">
-        <source xml:space="preserve">Provides speed and torque conversions from a rotating power source to another device.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A blue shark.">
-        <source xml:space="preserve">A blue shark.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A dressed salad that, with the added sweetness, it's pretty tasty.">
-        <source xml:space="preserve">A dressed salad that, with the added sweetness, it's pretty tasty.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="To give thanks for the fact that this food gives two extra nutrients than other food items of the same tier.">
-        <source xml:space="preserve">To give thanks for the fact that this food gives two extra nutrients than other food items of the same tier.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Comforting, best served hot from the griddle.">
-        <source xml:space="preserve">Comforting, best served hot from the griddle.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Round and large.">
-        <source xml:space="preserve">Round and large.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Nice fresh Pineapple.">
-        <source xml:space="preserve">Nice fresh Pineapple.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Nice fresh Papaya.">
-        <source xml:space="preserve">Nice fresh Papaya.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A sweet pastry that is great for breakfast or anytime you need a quick boost of energy.">
-        <source xml:space="preserve">A sweet pastry that is great for breakfast or anytime you need a quick boost of energy.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Deep fried Camas. Bit greasy.">
-        <source xml:space="preserve">Deep fried Camas. Bit greasy.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Tiny Cup Mushrooms.">
-        <source xml:space="preserve">Tiny Cup Mushrooms.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Agave leaves that have been charred over a campfire.">
-        <source xml:space="preserve">Agave leaves that have been charred over a campfire.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Boletus edulis.">
-        <source xml:space="preserve">Boletus edulis.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Baked taro root.">
-        <source xml:space="preserve">Baked taro root.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="A multipurpose filler that is made from what you have available.">
-        <source xml:space="preserve">A multipurpose filler that is made from what you have available.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="It just looks cool.">
-        <source xml:space="preserve">It just looks cool.</source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="Text is too long, max length excluding tags cannot exceed {0} characters">
         <source xml:space="preserve">Text is too long, max length excluding tags cannot exceed <ph id="0">{0}</ph> characters</source>
@@ -55374,10 +55171,6 @@
         <source xml:space="preserve">A long description of the server to display when selected in the server browser.  Use \n for line endings.  Max 500 characters.</source>
         <target xml:space="preserve">在服务器浏览器中选中服务器时，显示的服务器相关详细描述。使用 \n作为行结束符。最多 500 个字符。</target>
       </trans-unit>
-      <trans-unit id="Could not add chat command \'/{0}\': invalid parameter type '{1}' of {2} argument.">
-        <source xml:space="preserve">Could not add chat command \'/<ph id="0">{0}</ph>\': invalid parameter type '<ph id="1">{1}</ph>' of <ph id="2">{2}</ph> argument.</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
       <trans-unit id="Missing Settlement">
         <source xml:space="preserve">Missing Settlement</source>
         <target xml:space="preserve"></target>
@@ -56202,10 +55995,6 @@
       <trans-unit id="Hide from the animals!\n\n(Reduces the detection range of animals)">
         <source xml:space="preserve">Hide from the animals!\n\n(Reduces the detection range of animals)</source>
         <target xml:space="preserve">对动物隐藏！\n\n（缩小动物的检测范围）</target>
-      </trans-unit>
-      <trans-unit id="Hide from the animals!\n\n(Reduces the detection range of animals)">
-        <source xml:space="preserve">Hide from the animals!\n\n(Reduces the detection range of animals)</source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="A steel hardhat with a light source for the darkest places.\n\n(Flashlight)">
         <source xml:space="preserve">A steel hardhat with a light source for the darkest places.\n\n(Flashlight)</source>
@@ -57465,10 +57254,6 @@
       </trans-unit>
       <trans-unit id="Spawns Housing main room items">
         <source xml:space="preserve">Spawns Housing main room items</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Could not add chat command \'/{0}\': invalid parameter type '{1}' of {2} argument.">
-        <source xml:space="preserve">Could not add chat command \'/<ph id="0">{0}</ph>\': invalid parameter type '<ph id="1">{1}</ph>' of <ph id="2">{2}</ph> argument.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="{0}: Failed to build a valid route in test {1} (indexing starts at 0) from {2} to {3}. This might be good or bad depending on whether you expect {4} to be able to complete this test.">
@@ -59393,10 +59178,6 @@
       </trans-unit>
       <trans-unit id="Browse file">
         <source xml:space="preserve">Browse file</source>
-        <target xml:space="preserve"></target>
-      </trans-unit>
-      <trans-unit id="Durability">
-        <source xml:space="preserve">Durability</source>
         <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="No requirements">
