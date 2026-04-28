@@ -578,9 +578,9 @@
         <source xml:space="preserve">Vote ends in</source>
         <target xml:space="preserve">Голосование заканчивается через</target>
       </trans-unit>
-      <trans-unit id="151">
+      <trans-unit id="151" xml:space="preserve">
         <source xml:space="preserve">Title</source>
-        <target xml:space="preserve">Название</target>
+        <target xml:space="preserve" state="translated">Титул</target>
       </trans-unit>
       <trans-unit id="152">
         <source xml:space="preserve">Winner</source>
@@ -626,13 +626,13 @@
         <source xml:space="preserve">Elected Officials</source>
         <target xml:space="preserve">Выборные должности</target>
       </trans-unit>
-      <trans-unit id="163">
+      <trans-unit id="163" xml:space="preserve">
         <source xml:space="preserve">Running Elections</source>
-        <target xml:space="preserve">Проходящие Голосования</target>
+        <target xml:space="preserve" state="translated">Проводимые Голосования</target>
       </trans-unit>
-      <trans-unit id="164">
+      <trans-unit id="164" xml:space="preserve">
         <source xml:space="preserve">No Running Elections</source>
-        <target xml:space="preserve">Нет Текущих Выборов</target>
+        <target xml:space="preserve" state="translated">Нет проводимых голосований</target>
       </trans-unit>
       <trans-unit id="165">
         <source xml:space="preserve">Elected Officials</source>
@@ -674,29 +674,29 @@
         <source xml:space="preserve">No Active Titles</source>
         <target xml:space="preserve">Нет должностей</target>
       </trans-unit>
-      <trans-unit id="176">
+      <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">Графики будут доступны после первого тика симуляции</target>
       </trans-unit>
-      <trans-unit id="177">
+      <trans-unit id="177" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here</source>
-        <target xml:space="preserve">Аргументируйте необходимость закона, карта будет сдвинута для соответствия тексту позднее</target>
+        <target xml:space="preserve" state="translated">Аргументируйте свою позицию относительно закона тут</target>
       </trans-unit>
-      <trans-unit id="178">
+      <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">Нет Астероида</target>
       </trans-unit>
-      <trans-unit id="179">
+      <trans-unit id="179" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu</source>
-        <target xml:space="preserve">Выберите выборы в меню или начните новые</target>
+        <target xml:space="preserve" state="translated">Выберите голосование из меню</target>
       </trans-unit>
-      <trans-unit id="180">
+      <trans-unit id="180" xml:space="preserve">
         <source xml:space="preserve">The meteor was destroyed</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">Астероид был уничтожен</target>
       </trans-unit>
-      <trans-unit id="181">
+      <trans-unit id="181" xml:space="preserve">
         <source xml:space="preserve">There have been no elections yet</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">Голосований сейчас нет</target>
       </trans-unit>
       <trans-unit id="182">
         <source xml:space="preserve">To start a new election</source>
@@ -704,15 +704,15 @@
       </trans-unit>
       <trans-unit id="183">
         <source xml:space="preserve">TwitchVotes</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="184">
         <source xml:space="preserve">UserVotes</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="185">
+      <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
-        <target xml:space="preserve">Когда казна будет построена, лидер сможет устанавливать налоги (функция в разработке)</target>
+        <target xml:space="preserve" state="translated">Когда Казна будет построена</target>
       </trans-unit>
     </body>
   </file>
