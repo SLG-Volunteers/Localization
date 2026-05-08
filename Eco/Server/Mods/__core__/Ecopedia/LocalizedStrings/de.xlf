@@ -3753,10 +3753,11 @@ Wenn ein Bürger zum Bewohner eines Grundstückes wird, erhält er einen speziel
 
 </target>
       </trans-unit>
-      <trans-unit id="353">
+      <trans-unit id="353" xml:space="preserve">
         <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">„Exhaustion“ ist eine Serverkonfiguration, um die maximale Spielzeit pro Tag zu begrenzen.
+</target>
       </trans-unit>
     </body>
   </file>
