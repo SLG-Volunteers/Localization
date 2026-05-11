@@ -9498,9 +9498,9 @@
         <source xml:space="preserve">Ecko demands <ph id="0">{0}</ph>!</source>
         <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled.">
+      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt.  Debt is now cancelled.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph> eftergav <ph id="1">{1}</ph> af din gæld. Gælden er nu slettet.</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> eftergav <ph id="1">{1}</ph> af din gæld. Gælden er nu slettet.</target>
       </trans-unit>
       <trans-unit id="{0} forgave {1} of your debt. {2} debt remains.">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt. <ph id="2">{2}</ph> debt remains.</source>
@@ -21330,9 +21330,9 @@
         <source xml:space="preserve">Perform Action</source>
         <target xml:space="preserve">Udfør Handling</target>
       </trans-unit>
-      <trans-unit id="You can't afford to buy this deed for {0}.  {1} only has {2}">
+      <trans-unit id="You can't afford to buy this deed for {0}.  {1} only has {2}" xml:space="preserve">
         <source xml:space="preserve">You can't afford to buy this deed for <ph id="0">{0}</ph>.  <ph id="1">{1}</ph> only has <ph id="2">{2}</ph></source>
-        <target xml:space="preserve">Du har ikke råd til at købe dette skøde for <ph id="0">{0}</ph>. <ph id="1">{1}</ph> har kun <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Du har ikke råd til at købe dette skøde for <ph id="0">{0}</ph>. <ph id="1">{1}</ph> har kun <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Could not cancel this project: {0}. Remaining project cancelled.">
         <source xml:space="preserve">Could not cancel this project: <ph id="0">{0}</ph>. Remaining project cancelled.</source>
@@ -22626,9 +22626,9 @@
         <source xml:space="preserve">Craft <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Lav <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="You contributed to {0} but are not a member of it!  To get credit for your contributions, join the work party at {1}.">
+      <trans-unit id="You contributed to {0} but are not a member of it!  To get credit for your contributions, join the work party at {1}." xml:space="preserve">
         <source xml:space="preserve">You contributed to <ph id="0">{0}</ph> but are not a member of it!  To get credit for your contributions, join the work party at <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve">Du har bidraget til <ph id="0">{0}</ph> men er ikke medlem af det! Du kan få kredit for dine bidrag ved at deltage i arbejdsgruppen på <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation">Du har bidraget til <ph id="0">{0}</ph> men er ikke medlem af det! Du kan få kredit for dine bidrag ved at deltage i arbejdsgruppen på <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Post failed: {0}">
         <source xml:space="preserve">Post failed: <ph id="0">{0}</ph></source>
@@ -23158,9 +23158,9 @@
         <source xml:space="preserve">Web Server now listening on: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Webserver lytter nu til: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Could not find the required files within any of the following directories: {0}.  Is your working path set correctly? The Server should be run with Server as the working directory">
+      <trans-unit id="Could not find the required files within any of the following directories: {0}.  Is your working path set correctly? The Server should be run with Server as the working directory" xml:space="preserve">
         <source xml:space="preserve">Could not find the required files within any of the following directories: <ph id="0">{0}</ph>.  Is your working path set correctly? The Server should be run with Server as the working directory</source>
-        <target xml:space="preserve">Kunne ikke finde de nødvendige filer i nogen af ​​følgende mapper: <ph id="0">{0}</ph>. Er din arbejdssti indstillet korrekt? Serveren skal køres med Server som arbejdsmappe</target>
+        <target xml:space="preserve" state="needs-translation">Kunne ikke finde de nødvendige filer i nogen af ​​følgende mapper: <ph id="0">{0}</ph>. Er din arbejdssti indstillet korrekt? Serveren skal køres med Server som arbejdsmappe</target>
       </trans-unit>
       <trans-unit id="Saving">
         <source xml:space="preserve">Saving</source>
@@ -24712,9 +24712,9 @@
         <source xml:space="preserve">This value will be reduced to <ph id="0">{0}</ph> in <ph id="1">{1}</ph> due to latest changes.</source>
         <target xml:space="preserve">Denne værdi vil blive reduceret til <ph id="0">{0}</ph> i <ph id="1">{1}</ph> på grund af de seneste ændringer.</target>
       </trans-unit>
-      <trans-unit id="Duplicate special type: {0} and {1}.  Destroying second one.">
+      <trans-unit id="Duplicate special type: {0} and {1}.  Destroying second one." xml:space="preserve">
         <source xml:space="preserve">Duplicate special type: <ph id="0">{0}</ph> and <ph id="1">{1}</ph>.  Destroying second one.</source>
-        <target xml:space="preserve">Dupliker special type: <ph id="0">{0}</ph> og <ph id="1">{1}</ph>. Ødelægger den anden.</target>
+        <target xml:space="preserve" state="needs-translation">Dupliker special type: <ph id="0">{0}</ph> og <ph id="1">{1}</ph>. Ødelægger den anden.</target>
       </trans-unit>
       <trans-unit id="Plugs Into">
         <source xml:space="preserve">Plugs Into</source>
@@ -27579,9 +27579,9 @@
         <source xml:space="preserve">Title <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Titel <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="No animals species named '{0}'.  Valid species are: {1}">
+      <trans-unit id="No animals species named '{0}'.  Valid species are: {1}" xml:space="preserve">
         <source xml:space="preserve">No animals species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Ingen dyrearter med navnet '<ph id="0">{0}</ph>'. Gyldige arter er: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Ingen dyrearter med navnet '<ph id="0">{0}</ph>'. Gyldige arter er: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="No animals species around named '{0}'.">
         <source xml:space="preserve">No animals species around named '<ph id="0">{0}</ph>'.</source>
@@ -27603,9 +27603,9 @@
         <source xml:space="preserve">Remove all tree stumps and debris from the property under the given marker.\n\nThe contractor will be temporarily rights to remove debris and stumps on the specified property.\n\nNote: You can split property into seperate deeds for more control.</source>
         <target xml:space="preserve">Fjern alle træstubbe og snavs fra ejendommen under den givne markør.\n\nEntreprenøren vil midlertidigt have rettigheder til at fjerne snavs og stubbe på den angivne ejendom.\n\nBemærk: Du kan opdele ejendom i separate gerninger for mere kontrol.</target>
       </trans-unit>
-      <trans-unit id="Remove all tree debris from property at {0}.  Contractor will be given temporary permission to remove debris on property.">
+      <trans-unit id="Remove all tree debris from property at {0}.  Contractor will be given temporary permission to remove debris on property." xml:space="preserve">
         <source xml:space="preserve">Remove all tree debris from property at <ph id="0">{0}</ph>.  Contractor will be given temporary permission to remove debris on property.</source>
-        <target xml:space="preserve">Fjern alt træaffald fra ejendommen på <ph id="0">{0}</ph>. Entreprenøren vil blive givet midlertidig tilladelse til at fjerne affald på ejendommen.</target>
+        <target xml:space="preserve" state="needs-translation">Fjern alt træaffald fra ejendommen på <ph id="0">{0}</ph>. Entreprenøren vil blive givet midlertidig tilladelse til at fjerne affald på ejendommen.</target>
       </trans-unit>
       <trans-unit id="With this clause, the contractor must plow the given number of square meters of field into plantable soil.\n\nThe contractor will temporarily be given right to plow on the specified property.\n\nNote: You can split property into seperate deeds for more control.">
         <source xml:space="preserve">With this clause, the contractor must plow the given number of square meters of field into plantable soil.\n\nThe contractor will temporarily be given right to plow on the specified property.\n\nNote: You can split property into seperate deeds for more control.</source>
@@ -28196,9 +28196,9 @@
         <source xml:space="preserve">m<ph id="0">{0}</ph></source>
         <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="{0} was owned by {1}, which has been removed.  Ownership changed to {2}.">
+      <trans-unit id="{0} was owned by {1}, which has been removed.  Ownership changed to {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was owned by <ph id="1">{1}</ph>, which has been removed.  Ownership changed to <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph> var ejet af <ph id="1">{1}</ph>, som er blevet fjernet. Ejerskab ændret til <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> var ejet af <ph id="1">{1}</ph>, som er blevet fjernet. Ejerskab ændret til <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="tag">
         <source xml:space="preserve">tag</source>
@@ -28292,9 +28292,9 @@
         <source xml:space="preserve">(with count: <ph id="0">{0}</ph>)</source>
         <target xml:space="preserve">(med antal: <ph id="0">{0}</ph>)</target>
       </trans-unit>
-      <trans-unit id="Duplicate deeds claiming plot {0}: '{1}' and '{2}'.  Removing from {3}.">
+      <trans-unit id="Duplicate deeds claiming plot {0}: '{1}' and '{2}'.  Removing from {3}." xml:space="preserve">
         <source xml:space="preserve">Duplicate deeds claiming plot <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' and '<ph id="2">{2}</ph>'.  Removing from <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve">Duplikerede skøder, der gør krav på plot <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' og '<ph id="2">{2}</ph>'. Fjerner fra <ph id="3">{3}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation">Duplikerede skøder, der gør krav på plot <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' og '<ph id="2">{2}</ph>'. Fjerner fra <ph id="3">{3}</ph>.</target>
       </trans-unit>
       <trans-unit id="Notify">
         <source xml:space="preserve">Notify</source>
@@ -28644,9 +28644,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> thrown exception when <ph id="1">{1}</ph> returned value.</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> kastet undtagelse, når <ph id="1">{1}</ph> returnerede værdi.</target>
       </trans-unit>
-      <trans-unit id="Mismatch between type of {0}  exception and {1}  exception for value: {2} != {3}.">
+      <trans-unit id="Mismatch between type of {0}  exception and {1}  exception for value: {2} != {3}." xml:space="preserve">
         <source xml:space="preserve">Mismatch between type of <ph id="0">{0}</ph>  exception and <ph id="1">{1}</ph>  exception for value: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve">Uoverensstemmelse mellem typen af <ph id="0">{0}</ph> undtagelse og <ph id="1">{1}</ph> undtagelse for værdi: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation">Uoverensstemmelse mellem typen af <ph id="0">{0}</ph> undtagelse og <ph id="1">{1}</ph> undtagelse for værdi: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</target>
       </trans-unit>
       <trans-unit id="type mismatch, {0}: {1} {2}: {3}">
         <source xml:space="preserve">type mismatch, <ph id="0">{0}</ph>: <ph id="1">{1}</ph> <ph id="2">{2}</ph>: <ph id="3">{3}</ph></source>
@@ -29296,9 +29296,9 @@
         <source xml:space="preserve">Select orphaned <ph id="0">{0}</ph> to attach to <ph id="1">{1}</ph></source>
         <target xml:space="preserve">Vælg forældreløse <ph id="0">{0}</ph> for at vedhæfte til <ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="This {0} is orphaned and has no host!  When placing a new object that can contain it, an option will be given to assign it.">
+      <trans-unit id="This {0} is orphaned and has no host!  When placing a new object that can contain it, an option will be given to assign it." xml:space="preserve">
         <source xml:space="preserve">This <ph id="0">{0}</ph> is orphaned and has no host!  When placing a new object that can contain it, an option will be given to assign it.</source>
-        <target xml:space="preserve">Denne <ph id="0">{0}</ph> er forældreløs og har ingen vært! Når du placerer et nyt objekt der kan indeholde det, vil der blive givet mulighed for at tildele det.</target>
+        <target xml:space="preserve" state="needs-translation">Denne <ph id="0">{0}</ph> er forældreløs og har ingen vært! Når du placerer et nyt objekt der kan indeholde det, vil der blive givet mulighed for at tildele det.</target>
       </trans-unit>
       <trans-unit id="Revision">
         <source xml:space="preserve">Revision</source>
@@ -29372,9 +29372,9 @@
         <source xml:space="preserve">Provision <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Bestemmelse <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Election for {0} started.  Voting ends in {1} hours.">
+      <trans-unit id="Election for {0} started.  Voting ends in {1} hours." xml:space="preserve">
         <source xml:space="preserve">Election for <ph id="0">{0}</ph> started.  Voting ends in <ph id="1">{1}</ph> hours.</source>
-        <target xml:space="preserve">Valget for <ph id="0">{0}</ph> startede. Afstemningen afsluttes om <ph id="1">{1}</ph> timer.</target>
+        <target xml:space="preserve" state="needs-translation">Valget for <ph id="0">{0}</ph> startede. Afstemningen afsluttes om <ph id="1">{1}</ph> timer.</target>
       </trans-unit>
       <trans-unit id="{0} voting has begun!">
         <source xml:space="preserve"><ph id="0">{0}</ph> voting has begun!</source>
