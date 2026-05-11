@@ -426,9 +426,9 @@
         <source xml:space="preserve">You equipped <ph id="0">{0}</ph></source>
         <target xml:space="preserve">你已经装备了 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired.">
+      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired." xml:space="preserve">
         <source xml:space="preserve">Your <ph id="0">{0}</ph> broke!  It will be much less efficient until repaired.</source>
-        <target xml:space="preserve">你的 <ph id="0">{0}</ph> 坏了! 在被修复之前它的效率会很低。</target>
+        <target xml:space="preserve" state="needs-translation">你的 <ph id="0">{0}</ph> 坏了! 在被修复之前它的效率会很低。</target>
       </trans-unit>
       <trans-unit id="You are not authorized to remove items from that.">
         <source xml:space="preserve">You are not authorized to remove items from that.</source>
@@ -7012,22 +7012,22 @@
         <source xml:space="preserve">Can't pay <ph id="0">{0}</ph> in debt, you only owe <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve">无法偿还 <ph id="0">{0}</ph>债务，你只欠 <ph id="1">{1}</ph>。</target>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled.">
+      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Debt is now cancelled.</source>
-        <target xml:space="preserve">你免除了<ph id="1">{1}</ph>的 <ph id="0">{0}</ph>债务。债务现已取消。</target>
+        <target xml:space="preserve" state="needs-translation">你免除了<ph id="1">{1}</ph>的 <ph id="0">{0}</ph>债务。债务现已取消。</target>
         <note from="developer">{0} = Amount of currency (10 Dollars) {1} = Username</note>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains.">
+      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  <ph id="2">{2}</ph> debt remains.</source>
-        <target xml:space="preserve">你免除了<ph id="1">{1}</ph>的 <ph id="0">{0}</ph>债务。仍有 <ph id="2">{2}</ph>债务。</target>
+        <target xml:space="preserve" state="needs-translation">你免除了<ph id="1">{1}</ph>的 <ph id="0">{0}</ph>债务。仍有 <ph id="2">{2}</ph>债务。</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off.">
+      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Your debt is now paid off.</source>
-        <target xml:space="preserve">向<ph id="1">{1}</ph>还清 <ph id="0">{0}</ph>债务。你的债务现已还清。</target>
+        <target xml:space="preserve" state="needs-translation">向<ph id="1">{1}</ph>还清 <ph id="0">{0}</ph>债务。你的债务现已还清。</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}.">
+      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  You now owe <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve">向<ph id="1">{1}</ph>还清 <ph id="0">{0}</ph>债务。你现在欠 <ph id="2">{2}</ph>。</target>
+        <target xml:space="preserve" state="needs-translation">向<ph id="1">{1}</ph>还清 <ph id="0">{0}</ph>债务。你现在欠 <ph id="2">{2}</ph>。</target>
       </trans-unit>
       <trans-unit id="&lt;unassigned&gt;">
         <source xml:space="preserve">&lt;unassigned&gt;</source>
@@ -7061,9 +7061,9 @@
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid material name</source>
         <target xml:space="preserve">'<ph id="0">{0}</ph>'不是有效的材料名称</target>
       </trans-unit>
-      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}">
+      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}" xml:space="preserve">
         <source xml:space="preserve">No plant species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">未发现名为'<ph id="0">{0}</ph>'的植物品种。有效品种为：<ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">未发现名为'<ph id="0">{0}</ph>'的植物品种。有效品种为：<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="'{0}' is not a valid block type name.">
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid block type name.</source>
@@ -7697,9 +7697,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> has raised the seas by <ph id="1">{1}</ph>!</source>
         <target xml:space="preserve"><ph id="0">{0}</ph>让海平面上升了 <ph id="1">{1}</ph>！</target>
       </trans-unit>
-      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}">
+      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}" xml:space="preserve">
         <source xml:space="preserve">Current sea level: <ph id="0">{0}</ph>  Amount raised so far: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">目前海平面：<ph id="0">{0}</ph>，目前为止的上升量：<ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">目前海平面：<ph id="0">{0}</ph>，目前为止的上升量：<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Compost">
         <source xml:space="preserve">Compost</source>
@@ -9498,9 +9498,9 @@
         <source xml:space="preserve">Ecko demands <ph id="0">{0}</ph>!</source>
         <target xml:space="preserve">埃克 要求<ph id="0">{0}</ph>！</target>
       </trans-unit>
-      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled.">
+      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt.  Debt is now cancelled.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph>免除了你所欠债务中的 <ph id="1">{1}</ph>。债务现已取消。</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph>免除了你所欠债务中的 <ph id="1">{1}</ph>。债务现已取消。</target>
       </trans-unit>
       <trans-unit id="{0} forgave {1} of your debt. {2} debt remains.">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt. <ph id="2">{2}</ph> debt remains.</source>
@@ -21330,9 +21330,9 @@
         <source xml:space="preserve">Perform Action</source>
         <target xml:space="preserve">执行动作</target>
       </trans-unit>
-      <trans-unit id="You can't afford to buy this deed for {0}.  {1} only has {2}">
+      <trans-unit id="You can't afford to buy this deed for {0}.  {1} only has {2}" xml:space="preserve">
         <source xml:space="preserve">You can't afford to buy this deed for <ph id="0">{0}</ph>.  <ph id="1">{1}</ph> only has <ph id="2">{2}</ph></source>
-        <target xml:space="preserve">你无法以<ph id="0">{0}</ph>的价格购买此契据。 <ph id="1">{1}</ph>只有<ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="needs-translation">你无法以<ph id="0">{0}</ph>的价格购买此契据。 <ph id="1">{1}</ph>只有<ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Could not cancel this project: {0}. Remaining project cancelled.">
         <source xml:space="preserve">Could not cancel this project: <ph id="0">{0}</ph>. Remaining project cancelled.</source>
@@ -22626,9 +22626,9 @@
         <source xml:space="preserve">Craft <ph id="0">{0}</ph></source>
         <target xml:space="preserve">工艺<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="You contributed to {0} but are not a member of it!  To get credit for your contributions, join the work party at {1}.">
+      <trans-unit id="You contributed to {0} but are not a member of it!  To get credit for your contributions, join the work party at {1}." xml:space="preserve">
         <source xml:space="preserve">You contributed to <ph id="0">{0}</ph> but are not a member of it!  To get credit for your contributions, join the work party at <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve">你为<ph id="0">{0}</ph>捐款，但不是其中的一员！要获得你贡献的荣誉，请加入<ph id="1">{1}</ph>的工作组。</target>
+        <target xml:space="preserve" state="needs-translation">你为<ph id="0">{0}</ph>捐款，但不是其中的一员！要获得你贡献的荣誉，请加入<ph id="1">{1}</ph>的工作组。</target>
       </trans-unit>
       <trans-unit id="Post failed: {0}">
         <source xml:space="preserve">Post failed: <ph id="0">{0}</ph></source>
@@ -23158,9 +23158,9 @@
         <source xml:space="preserve">Web Server now listening on: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">网络服务器现在正在监听：<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Could not find the required files within any of the following directories: {0}.  Is your working path set correctly? The Server should be run with Server as the working directory">
+      <trans-unit id="Could not find the required files within any of the following directories: {0}.  Is your working path set correctly? The Server should be run with Server as the working directory" xml:space="preserve">
         <source xml:space="preserve">Could not find the required files within any of the following directories: <ph id="0">{0}</ph>.  Is your working path set correctly? The Server should be run with Server as the working directory</source>
-        <target xml:space="preserve">在以下任何目录中找不到所需的文件：<ph id="0">{0}</ph>。你的工作路径设置正确吗？服务器应以服务器作为工作目录运行</target>
+        <target xml:space="preserve" state="needs-translation">在以下任何目录中找不到所需的文件：<ph id="0">{0}</ph>。你的工作路径设置正确吗？服务器应以服务器作为工作目录运行</target>
       </trans-unit>
       <trans-unit id="Saving">
         <source xml:space="preserve">Saving</source>
@@ -24712,9 +24712,9 @@
         <source xml:space="preserve">This value will be reduced to <ph id="0">{0}</ph> in <ph id="1">{1}</ph> due to latest changes.</source>
         <target xml:space="preserve">由于最新更改，此值将在<ph id="1">{1}</ph>中减小为<ph id="0">{0}</ph>。</target>
       </trans-unit>
-      <trans-unit id="Duplicate special type: {0} and {1}.  Destroying second one.">
+      <trans-unit id="Duplicate special type: {0} and {1}.  Destroying second one." xml:space="preserve">
         <source xml:space="preserve">Duplicate special type: <ph id="0">{0}</ph> and <ph id="1">{1}</ph>.  Destroying second one.</source>
-        <target xml:space="preserve">特殊类型重复：<ph id="0">{0}</ph>和<ph id="1">{1}</ph>。 删除第二个。</target>
+        <target xml:space="preserve" state="needs-translation">特殊类型重复：<ph id="0">{0}</ph>和<ph id="1">{1}</ph>。 删除第二个。</target>
       </trans-unit>
       <trans-unit id="Plugs Into">
         <source xml:space="preserve">Plugs Into</source>
@@ -24862,9 +24862,9 @@
         <source xml:space="preserve">Failed to invoke delayed action: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">无法调用延迟的操作：<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Duplicate named entry found and renamed. Old name:{0}  New name:{1}">
+      <trans-unit id="Duplicate named entry found and renamed. Old name:{0}  New name:{1}" xml:space="preserve">
         <source xml:space="preserve">Duplicate named entry found and renamed. Old name:<ph id="0">{0}</ph>  New name:<ph id="1">{1}</ph></source>
-        <target xml:space="preserve">找到重复的命名条目并重命名。旧名称：<ph id="0">{0}</ph> 新名称：<ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">找到重复的命名条目并重命名。旧名称：<ph id="0">{0}</ph> 新名称：<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove world {0}?">
         <source xml:space="preserve">Are you sure you want to remove world <ph id="0">{0}</ph>?</source>
@@ -27579,9 +27579,9 @@
         <source xml:space="preserve">Title <ph id="0">{0}</ph></source>
         <target xml:space="preserve">头衔<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="No animals species named '{0}'.  Valid species are: {1}">
+      <trans-unit id="No animals species named '{0}'.  Valid species are: {1}" xml:space="preserve">
         <source xml:space="preserve">No animals species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">没有名为“ <ph id="0">{0}</ph>”的动物。有效种类为：<ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">没有名为“ <ph id="0">{0}</ph>”的动物。有效种类为：<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="No animals species around named '{0}'.">
         <source xml:space="preserve">No animals species around named '<ph id="0">{0}</ph>'.</source>
@@ -27603,9 +27603,9 @@
         <source xml:space="preserve">Remove all tree stumps and debris from the property under the given marker.\n\nThe contractor will be temporarily rights to remove debris and stumps on the specified property.\n\nNote: You can split property into seperate deeds for more control.</source>
         <target xml:space="preserve">从给定标记下的属性中删除所有树桩和杂物。\n\n订约人将暂时有权在指定属性上移除杂物和树桩。\n\n注意：你可以将属性拆分为单独的行为以进行更多控制。</target>
       </trans-unit>
-      <trans-unit id="Remove all tree debris from property at {0}.  Contractor will be given temporary permission to remove debris on property.">
+      <trans-unit id="Remove all tree debris from property at {0}.  Contractor will be given temporary permission to remove debris on property." xml:space="preserve">
         <source xml:space="preserve">Remove all tree debris from property at <ph id="0">{0}</ph>.  Contractor will be given temporary permission to remove debris on property.</source>
-        <target xml:space="preserve">从属性<ph id="0">{0}</ph>处清除所有树木碎片。订约人将获得临时许可以清除土地上的碎屑。</target>
+        <target xml:space="preserve" state="needs-translation">从属性<ph id="0">{0}</ph>处清除所有树木碎片。订约人将获得临时许可以清除土地上的碎屑。</target>
       </trans-unit>
       <trans-unit id="With this clause, the contractor must plow the given number of square meters of field into plantable soil.\n\nThe contractor will temporarily be given right to plow on the specified property.\n\nNote: You can split property into seperate deeds for more control.">
         <source xml:space="preserve">With this clause, the contractor must plow the given number of square meters of field into plantable soil.\n\nThe contractor will temporarily be given right to plow on the specified property.\n\nNote: You can split property into seperate deeds for more control.</source>
@@ -28196,9 +28196,9 @@
         <source xml:space="preserve">m<ph id="0">{0}</ph></source>
         <target xml:space="preserve">m <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="{0} was owned by {1}, which has been removed.  Ownership changed to {2}.">
+      <trans-unit id="{0} was owned by {1}, which has been removed.  Ownership changed to {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was owned by <ph id="1">{1}</ph>, which has been removed.  Ownership changed to <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph>由<ph id="1">{1}</ph>拥有，已被删除。所有权更改为<ph id="2">{2}</ph>。</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph>由<ph id="1">{1}</ph>拥有，已被删除。所有权更改为<ph id="2">{2}</ph>。</target>
       </trans-unit>
       <trans-unit id="tag">
         <source xml:space="preserve">tag</source>
@@ -28292,9 +28292,9 @@
         <source xml:space="preserve">(with count: <ph id="0">{0}</ph>)</source>
         <target xml:space="preserve">（计数：<ph id="0">{0}</ph>）</target>
       </trans-unit>
-      <trans-unit id="Duplicate deeds claiming plot {0}: '{1}' and '{2}'.  Removing from {3}.">
+      <trans-unit id="Duplicate deeds claiming plot {0}: '{1}' and '{2}'.  Removing from {3}." xml:space="preserve">
         <source xml:space="preserve">Duplicate deeds claiming plot <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' and '<ph id="2">{2}</ph>'.  Removing from <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve">认领地块<ph id="0">{0}</ph> 的重复契据：“ <ph id="1">{1}</ph>”和“ <ph id="2">{2}</ph>”。从<ph id="3">{3}</ph> 中删除。</target>
+        <target xml:space="preserve" state="needs-translation">认领地块<ph id="0">{0}</ph> 的重复契据：“ <ph id="1">{1}</ph>”和“ <ph id="2">{2}</ph>”。从<ph id="3">{3}</ph> 中删除。</target>
       </trans-unit>
       <trans-unit id="Notify">
         <source xml:space="preserve">Notify</source>
@@ -28644,9 +28644,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> thrown exception when <ph id="1">{1}</ph> returned value.</source>
         <target xml:space="preserve"><ph id="1">{1}</ph>返回值时，<ph id="0">{0}</ph>引发异常。</target>
       </trans-unit>
-      <trans-unit id="Mismatch between type of {0}  exception and {1}  exception for value: {2} != {3}.">
+      <trans-unit id="Mismatch between type of {0}  exception and {1}  exception for value: {2} != {3}." xml:space="preserve">
         <source xml:space="preserve">Mismatch between type of <ph id="0">{0}</ph>  exception and <ph id="1">{1}</ph>  exception for value: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph>异常和<ph id="1">{1}</ph>异常的类型之间值不匹配：<ph id="2">{2}</ph>！= <ph id="3">{3}</ph>。</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph>异常和<ph id="1">{1}</ph>异常的类型之间值不匹配：<ph id="2">{2}</ph>！= <ph id="3">{3}</ph>。</target>
       </trans-unit>
       <trans-unit id="type mismatch, {0}: {1} {2}: {3}">
         <source xml:space="preserve">type mismatch, <ph id="0">{0}</ph>: <ph id="1">{1}</ph> <ph id="2">{2}</ph>: <ph id="3">{3}</ph></source>
@@ -29296,9 +29296,9 @@
         <source xml:space="preserve">Select orphaned <ph id="0">{0}</ph> to attach to <ph id="1">{1}</ph></source>
         <target xml:space="preserve">选择孤立的<ph id="0">{0}</ph> 来接入到<ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="This {0} is orphaned and has no host!  When placing a new object that can contain it, an option will be given to assign it.">
+      <trans-unit id="This {0} is orphaned and has no host!  When placing a new object that can contain it, an option will be given to assign it." xml:space="preserve">
         <source xml:space="preserve">This <ph id="0">{0}</ph> is orphaned and has no host!  When placing a new object that can contain it, an option will be given to assign it.</source>
-        <target xml:space="preserve">这个<ph id="0">{0}</ph> 被孤立，且无主机！当放置一个可容纳这个的全新对象，可以给予一个选择来分配它。</target>
+        <target xml:space="preserve" state="needs-translation">这个<ph id="0">{0}</ph> 被孤立，且无主机！当放置一个可容纳这个的全新对象，可以给予一个选择来分配它。</target>
       </trans-unit>
       <trans-unit id="Revision">
         <source xml:space="preserve">Revision</source>
@@ -29372,9 +29372,9 @@
         <source xml:space="preserve">Provision <ph id="0">{0}</ph></source>
         <target xml:space="preserve">条款<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Election for {0} started.  Voting ends in {1} hours.">
+      <trans-unit id="Election for {0} started.  Voting ends in {1} hours." xml:space="preserve">
         <source xml:space="preserve">Election for <ph id="0">{0}</ph> started.  Voting ends in <ph id="1">{1}</ph> hours.</source>
-        <target xml:space="preserve">为<ph id="0">{0}</ph> 的推选已开始。投票将在<ph id="1">{1}</ph> 小时内结束。</target>
+        <target xml:space="preserve" state="needs-translation">为<ph id="0">{0}</ph> 的推选已开始。投票将在<ph id="1">{1}</ph> 小时内结束。</target>
       </trans-unit>
       <trans-unit id="{0} voting has begun!">
         <source xml:space="preserve"><ph id="0">{0}</ph> voting has begun!</source>
@@ -38464,9 +38464,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> is now a student of <ph id="1">{1}</ph> at <ph id="2">{2}</ph>. <ph id="3">{3}</ph></source>
         <target xml:space="preserve"><ph id="0">{0}</ph> 现在是<ph id="1">{1}</ph> 在<ph id="2">{2}</ph> 的学生。<ph id="3">{3}</ph></target>
       </trans-unit>
-      <trans-unit id="{0} has enrolled in your {1} class.  You will collect {2} when they complete the class.">
+      <trans-unit id="{0} has enrolled in your {1} class.  You will collect {2} when they complete the class." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has enrolled in your <ph id="1">{1}</ph> class.  You will collect <ph id="2">{2}</ph> when they complete the class.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph> 已经报名参加了你的<ph id="1">{1}</ph> 班。 当他们完成课程时，你将收取<ph id="2">{2}</ph>。</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> 已经报名参加了你的<ph id="1">{1}</ph> 班。 当他们完成课程时，你将收取<ph id="2">{2}</ph>。</target>
       </trans-unit>
       <trans-unit id="Cannot become a teacher here, requirements not satisfied.">
         <source xml:space="preserve">Cannot become a teacher here, requirements not satisfied.</source>
@@ -38496,9 +38496,9 @@
         <source xml:space="preserve">Are you sure you want to stop teaching?</source>
         <target xml:space="preserve">你确定你要停止教学吗？</target>
       </trans-unit>
-      <trans-unit id="{0} calories applied to studying.  {1} of calories needed for class have been applied.">
+      <trans-unit id="{0} calories applied to studying.  {1} of calories needed for class have been applied." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> calories applied to studying.  <ph id="1">{1}</ph> of calories needed for class have been applied.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph> 卡路里应用于学习。 已应用了上课所需的<ph id="1">{1}</ph> 卡路里。</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> 卡路里应用于学习。 已应用了上课所需的<ph id="1">{1}</ph> 卡路里。</target>
       </trans-unit>
       <trans-unit id="Teaching not started:">
         <source xml:space="preserve">Teaching not started:</source>
@@ -38524,9 +38524,9 @@
         <source xml:space="preserve">You already have the maximum calories you can queue here (<ph id="0">{0}</ph> classes worth).</source>
         <target xml:space="preserve">你在这里已经有了可以排队的最大卡路里（<ph id="0">{0}</ph> 课程价值）。</target>
       </trans-unit>
-      <trans-unit id="{0} calories applied to teaching.  Calories queued to teach {1} full classes.">
+      <trans-unit id="{0} calories applied to teaching.  Calories queued to teach {1} full classes." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> calories applied to teaching.  Calories queued to teach <ph id="1">{1}</ph> full classes.</source>
-        <target xml:space="preserve">应用于教学的<ph id="0">{0}</ph> 卡路里。 排队教授<ph id="1">{1}</ph> 个完整班级的卡路里。</target>
+        <target xml:space="preserve" state="needs-translation">应用于教学的<ph id="0">{0}</ph> 卡路里。 排队教授<ph id="1">{1}</ph> 个完整班级的卡路里。</target>
       </trans-unit>
       <trans-unit id="Teaching time queued: {0} ({1} full classes)">
         <source xml:space="preserve">Teaching time queued: <ph id="0">{0}</ph> (<ph id="1">{1}</ph> full classes)</source>
@@ -38713,9 +38713,9 @@
         <source xml:space="preserve">You have access to <ph id="0">{0}</ph> here, but placement would not overlap another <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve">你在这里可以接触到<ph id="0">{0}</ph>，但位置不会与另一个<ph id="1">{1}</ph> 重叠。</target>
       </trans-unit>
-      <trans-unit id="Location overlaps {0} but the plot is unowned.  Claim the plot first to place here.">
+      <trans-unit id="Location overlaps {0} but the plot is unowned.  Claim the plot first to place here." xml:space="preserve">
         <source xml:space="preserve">Location overlaps <ph id="0">{0}</ph> but the plot is unowned.  Claim the plot first to place here.</source>
-        <target xml:space="preserve">位置与<ph id="0">{0}</ph> 重叠，但该地块无主。 请先认领该地块，以便在此放置。</target>
+        <target xml:space="preserve" state="needs-translation">位置与<ph id="0">{0}</ph> 重叠，但该地块无主。 请先认领该地块，以便在此放置。</target>
       </trans-unit>
       <trans-unit id="Location overlaps {0} but you don't have ownership access on this plot.">
         <source xml:space="preserve">Location overlaps <ph id="0">{0}</ph> but you don't have ownership access on this plot.</source>
@@ -47146,9 +47146,9 @@
         <source xml:space="preserve">You can attach more civic actions to the election (adding laws, etc) before starting it in the side panel.</source>
         <target xml:space="preserve">在开始推选前，你可以在侧边面板中，为推选附上更多的公民行动（添加章程等）。</target>
       </trans-unit>
-      <trans-unit id="{0} is disabled, cannot ratify constitution.  Check status tab.">
+      <trans-unit id="{0} is disabled, cannot ratify constitution.  Check status tab." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is disabled, cannot ratify constitution.  Check status tab.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph> 在开始推选前，你可以在侧边面板中，为推选附上更多的公民行动（添加章程等）。</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> 在开始推选前，你可以在侧边面板中，为推选附上更多的公民行动（添加章程等）。</target>
       </trans-unit>
       <trans-unit id="You can add additional provisions to it before starting voting.">
         <source xml:space="preserve">You can add additional provisions to it before starting voting.</source>
