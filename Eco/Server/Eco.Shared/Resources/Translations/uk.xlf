@@ -426,9 +426,9 @@
         <source xml:space="preserve">You equipped <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Ви вдягнули <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired.">
+      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired." xml:space="preserve">
         <source xml:space="preserve">Your <ph id="0">{0}</ph> broke!  It will be much less efficient until repaired.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph> зламано! Без ремонту ефективність предмету буде значно нижчою.</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> зламано! Без ремонту ефективність предмету буде значно нижчою.</target>
       </trans-unit>
       <trans-unit id="You are not authorized to remove items from that.">
         <source xml:space="preserve">You are not authorized to remove items from that.</source>
@@ -4654,13 +4654,13 @@
         <source xml:space="preserve">The currently selected language. If you change languages, you'll need to restart the server for changes to fully take effect.</source>
         <target xml:space="preserve">Поточна мова. Якщо ви змінюєте мову, вам необхідно перезапустити сервер, щоби зміни набули чинності.</target>
       </trans-unit>
-      <trans-unit id="Average {0} {1:n1}ms    Last: {2:n1}ms">
+      <trans-unit id="Average {0} {1:n1}ms    Last: {2:n1}ms" xml:space="preserve">
         <source xml:space="preserve">Average <ph id="0">{0}</ph> {1:n1}ms    Last: {2:n1}ms</source>
-        <target xml:space="preserve">Середнє <ph id="0">{0}</ph> {1:n1}мс Останнє: {2:n1}мс</target>
+        <target xml:space="preserve" state="needs-translation">Середнє <ph id="0">{0}</ph> {1:n1}мс Останнє: {2:n1}мс</target>
       </trans-unit>
-      <trans-unit id="Average {0} {1:n2}ms    Last: {2:n2}ms">
+      <trans-unit id="Average {0} {1:n2}ms    Last: {2:n2}ms" xml:space="preserve">
         <source xml:space="preserve">Average <ph id="0">{0}</ph> {1:n2}ms    Last: {2:n2}ms</source>
-        <target xml:space="preserve">Середнє <ph id="0">{0}</ph> {1:n2}мс Останнє: {2:n2}мс</target>
+        <target xml:space="preserve" state="needs-translation">Середнє <ph id="0">{0}</ph> {1:n2}мс Останнє: {2:n2}мс</target>
       </trans-unit>
       <trans-unit id="The world is safe for now, at least from the meteor.">
         <source xml:space="preserve">The world is safe for now, at least from the meteor.</source>
@@ -7012,22 +7012,22 @@
         <source xml:space="preserve">Can't pay <ph id="0">{0}</ph> in debt, you only owe <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve">Не можна сплатити <ph id="0">{0}</ph>, ви винні лише <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled.">
+      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Debt is now cancelled.</source>
-        <target xml:space="preserve">Ви пробачили <ph id="0">{0}</ph> боргу <ph id="1">{1}</ph>. Борг скасовано.</target>
+        <target xml:space="preserve" state="needs-translation">Ви пробачили <ph id="0">{0}</ph> боргу <ph id="1">{1}</ph>. Борг скасовано.</target>
         <note from="developer">{0} = Amount of currency (10 Dollars) {1} = Username</note>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains.">
+      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  <ph id="2">{2}</ph> debt remains.</source>
-        <target xml:space="preserve">Ви пробачили <ph id="0">{0}</ph> боргу <ph id="1">{1}</ph>. <ph id="2">{2}</ph> боргу залишилося.</target>
+        <target xml:space="preserve" state="needs-translation">Ви пробачили <ph id="0">{0}</ph> боргу <ph id="1">{1}</ph>. <ph id="2">{2}</ph> боргу залишилося.</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off.">
+      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Your debt is now paid off.</source>
-        <target xml:space="preserve">Виплачено <ph id="0">{0}</ph> боргу <ph id="1">{1}</ph>. Ваш блог сплачено.</target>
+        <target xml:space="preserve" state="needs-translation">Виплачено <ph id="0">{0}</ph> боргу <ph id="1">{1}</ph>. Ваш блог сплачено.</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}.">
+      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  You now owe <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve">Сплачено <ph id="0">{0}</ph> боргу <ph id="1">{1}</ph>. Ви залишилися винні <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation">Сплачено <ph id="0">{0}</ph> боргу <ph id="1">{1}</ph>. Ви залишилися винні <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="&lt;unassigned&gt;">
         <source xml:space="preserve">&lt;unassigned&gt;</source>
@@ -7061,9 +7061,9 @@
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid material name</source>
         <target xml:space="preserve">«<ph id="0">{0}</ph>» — недійсна назва матеріалу</target>
       </trans-unit>
-      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}">
+      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}" xml:space="preserve">
         <source xml:space="preserve">No plant species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Відсутні види рослин за назвою «<ph id="0">{0}</ph>». Існуючі види: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Відсутні види рослин за назвою «<ph id="0">{0}</ph>». Існуючі види: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="'{0}' is not a valid block type name.">
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid block type name.</source>
@@ -7697,9 +7697,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> has raised the seas by <ph id="1">{1}</ph>!</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> підняв моря на <ph id="1">{1}</ph>!</target>
       </trans-unit>
-      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}">
+      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}" xml:space="preserve">
         <source xml:space="preserve">Current sea level: <ph id="0">{0}</ph>  Amount raised so far: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Поточний рівень моря: <ph id="0">{0}</ph> Піднято наразі: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Поточний рівень моря: <ph id="0">{0}</ph> Піднято наразі: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Compost">
         <source xml:space="preserve">Compost</source>
@@ -9498,9 +9498,9 @@
         <source xml:space="preserve">Ecko demands <ph id="0">{0}</ph>!</source>
         <target xml:space="preserve">Еко вимагає <ph id="0">{0}</ph>!</target>
       </trans-unit>
-      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled.">
+      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt.  Debt is now cancelled.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph> пробачив <ph id="1">{1}</ph> вашого боргу. Борг скасовано.</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> пробачив <ph id="1">{1}</ph> вашого боргу. Борг скасовано.</target>
       </trans-unit>
       <trans-unit id="{0} forgave {1} of your debt. {2} debt remains.">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt. <ph id="2">{2}</ph> debt remains.</source>
@@ -21330,9 +21330,9 @@
         <source xml:space="preserve">Perform Action</source>
         <target xml:space="preserve">Виконати дію</target>
       </trans-unit>
-      <trans-unit id="You can't afford to buy this deed for {0}.  {1} only has {2}">
+      <trans-unit id="You can't afford to buy this deed for {0}.  {1} only has {2}" xml:space="preserve">
         <source xml:space="preserve">You can't afford to buy this deed for <ph id="0">{0}</ph>.  <ph id="1">{1}</ph> only has <ph id="2">{2}</ph></source>
-        <target xml:space="preserve">Ви не можете купити це право за <ph id="0">{0}</ph>. У <ph id="1">{1}</ph> має тільки <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Ви не можете купити це право за <ph id="0">{0}</ph>. У <ph id="1">{1}</ph> має тільки <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Could not cancel this project: {0}. Remaining project cancelled.">
         <source xml:space="preserve">Could not cancel this project: <ph id="0">{0}</ph>. Remaining project cancelled.</source>
@@ -22626,9 +22626,9 @@
         <source xml:space="preserve">Craft <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Ремесло <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="You contributed to {0} but are not a member of it!  To get credit for your contributions, join the work party at {1}.">
+      <trans-unit id="You contributed to {0} but are not a member of it!  To get credit for your contributions, join the work party at {1}." xml:space="preserve">
         <source xml:space="preserve">You contributed to <ph id="0">{0}</ph> but are not a member of it!  To get credit for your contributions, join the work party at <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve">Ви зробили внесок у <ph id="0">{0}</ph>, але не є його учасником! Щоб отримати кредит за свої внески, приєднайтеся до робочої групи за адресою <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation">Ви зробили внесок у <ph id="0">{0}</ph>, але не є його учасником! Щоб отримати кредит за свої внески, приєднайтеся до робочої групи за адресою <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Post failed: {0}">
         <source xml:space="preserve">Post failed: <ph id="0">{0}</ph></source>
@@ -23158,9 +23158,9 @@
         <source xml:space="preserve">Web Server now listening on: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Вебсервер працює з: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Could not find the required files within any of the following directories: {0}.  Is your working path set correctly? The Server should be run with Server as the working directory">
+      <trans-unit id="Could not find the required files within any of the following directories: {0}.  Is your working path set correctly? The Server should be run with Server as the working directory" xml:space="preserve">
         <source xml:space="preserve">Could not find the required files within any of the following directories: <ph id="0">{0}</ph>.  Is your working path set correctly? The Server should be run with Server as the working directory</source>
-        <target xml:space="preserve">Не вдалося знайти потрібні файли в жодному з таких каталогів: <ph id="0">{0}</ph>. Чи правильно встановлено ваш робочий шлях? Сервер слід запускати з Сервером як робочим каталогом</target>
+        <target xml:space="preserve" state="needs-translation">Не вдалося знайти потрібні файли в жодному з таких каталогів: <ph id="0">{0}</ph>. Чи правильно встановлено ваш робочий шлях? Сервер слід запускати з Сервером як робочим каталогом</target>
       </trans-unit>
       <trans-unit id="Saving">
         <source xml:space="preserve">Saving</source>
@@ -24862,9 +24862,9 @@
         <source xml:space="preserve">Failed to invoke delayed action: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Не вдалось викликати відкладену дію: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Duplicate named entry found and renamed. Old name:{0}  New name:{1}">
+      <trans-unit id="Duplicate named entry found and renamed. Old name:{0}  New name:{1}" xml:space="preserve">
         <source xml:space="preserve">Duplicate named entry found and renamed. Old name:<ph id="0">{0}</ph>  New name:<ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Знайдено і перейменовано копію імені. Старе ім'я:<ph id="0">{0}</ph> Нове ім'я:<ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Знайдено і перейменовано копію імені. Старе ім'я:<ph id="0">{0}</ph> Нове ім'я:<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Are you sure you want to remove world {0}?">
         <source xml:space="preserve">Are you sure you want to remove world <ph id="0">{0}</ph>?</source>
