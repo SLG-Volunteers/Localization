@@ -426,9 +426,9 @@
         <source xml:space="preserve">You equipped <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Έχεις εξοπλίσει <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired.">
+      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired." xml:space="preserve">
         <source xml:space="preserve">Your <ph id="0">{0}</ph> broke!  It will be much less efficient until repaired.</source>
-        <target xml:space="preserve">Το <ph id="0">{0}</ph> έσπασε! Θα είναι πολύ λιγότερο αποτελεσματικό μέχρι να επισκευαστεί.</target>
+        <target xml:space="preserve" state="needs-translation">Το <ph id="0">{0}</ph> έσπασε! Θα είναι πολύ λιγότερο αποτελεσματικό μέχρι να επισκευαστεί.</target>
       </trans-unit>
       <trans-unit id="You are not authorized to remove items from that.">
         <source xml:space="preserve">You are not authorized to remove items from that.</source>
@@ -7012,22 +7012,22 @@
         <source xml:space="preserve">Can't pay <ph id="0">{0}</ph> in debt, you only owe <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve">Δεν μπορείς να πληρώσεις <ph id="0">{0}</ph> σε χρέος, έχεις στην κατοχή σου μόνο <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled.">
+      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Debt is now cancelled.</source>
-        <target xml:space="preserve">Συγχώρεσες <ph id="0">{0}</ph> με χρέος στον <ph id="1">{1}</ph>. Το χρέος έχει τώρα ακυρωθεί.</target>
+        <target xml:space="preserve" state="needs-translation">Συγχώρεσες <ph id="0">{0}</ph> με χρέος στον <ph id="1">{1}</ph>. Το χρέος έχει τώρα ακυρωθεί.</target>
         <note from="developer">{0} = Amount of currency (10 Dollars) {1} = Username</note>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains.">
+      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  <ph id="2">{2}</ph> debt remains.</source>
-        <target xml:space="preserve">Συγχώρεσες <ph id="0">{0}</ph> με χρέος στον <ph id="1">{1}</ph>. <ph id="2">{2}</ph> χρέη απομένουν.</target>
+        <target xml:space="preserve" state="needs-translation">Συγχώρεσες <ph id="0">{0}</ph> με χρέος στον <ph id="1">{1}</ph>. <ph id="2">{2}</ph> χρέη απομένουν.</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off.">
+      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Your debt is now paid off.</source>
-        <target xml:space="preserve">Αποπλήρωσες <ph id="0">{0}</ph> χρέος σε <ph id="1">{1}</ph>. Το χρέος σου έχει τώρα αποπληρωθεί.</target>
+        <target xml:space="preserve" state="needs-translation">Αποπλήρωσες <ph id="0">{0}</ph> χρέος σε <ph id="1">{1}</ph>. Το χρέος σου έχει τώρα αποπληρωθεί.</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}.">
+      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  You now owe <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve">Αποπλήρωσες <ph id="0">{0}</ph> χρέος σε <ph id="1">{1}</ph>. Τώρα χρωστάς <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation">Αποπλήρωσες <ph id="0">{0}</ph> χρέος σε <ph id="1">{1}</ph>. Τώρα χρωστάς <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="&lt;unassigned&gt;">
         <source xml:space="preserve">&lt;unassigned&gt;</source>
@@ -7061,9 +7061,9 @@
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid material name</source>
         <target xml:space="preserve">'<ph id="0">{0}</ph>' δεν είναι ένα έγκυρο όνομα υλικού</target>
       </trans-unit>
-      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}">
+      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}" xml:space="preserve">
         <source xml:space="preserve">No plant species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Δεν υπάρχουν είδη φυτών με την ονομασία '<ph id="0">{0}</ph>'. Έγκυρα είδη είναι: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Δεν υπάρχουν είδη φυτών με την ονομασία '<ph id="0">{0}</ph>'. Έγκυρα είδη είναι: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="'{0}' is not a valid block type name.">
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid block type name.</source>
