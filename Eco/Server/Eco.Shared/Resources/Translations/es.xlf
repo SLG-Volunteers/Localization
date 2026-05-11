@@ -426,9 +426,9 @@
         <source xml:space="preserve">You equipped <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Te equipaste <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired.">
+      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired." xml:space="preserve">
         <source xml:space="preserve">Your <ph id="0">{0}</ph> broke!  It will be much less efficient until repaired.</source>
-        <target xml:space="preserve">¡Se ha roto tu <ph id="0">{0}</ph>! Hasta que lo repares, esta herramienta será mucho menos eficiente.</target>
+        <target xml:space="preserve" state="needs-translation">¡Se ha roto tu <ph id="0">{0}</ph>! Hasta que lo repares, esta herramienta será mucho menos eficiente.</target>
       </trans-unit>
       <trans-unit id="You are not authorized to remove items from that.">
         <source xml:space="preserve">You are not authorized to remove items from that.</source>
@@ -7017,9 +7017,9 @@
         <target xml:space="preserve">Usted perdonó la deuda de <ph id="0">{0}</ph> a <ph id="1">{1}</ph>.  La deuda está ahora cancelada.</target>
         <note from="developer">{0} = Amount of currency (10 Dollars) {1} = Username</note>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains.">
+      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  <ph id="2">{2}</ph> debt remains.</source>
-        <target xml:space="preserve">Usted perdonó la deuda de <ph id="0">{0}</ph> a <ph id="1">{1}</ph>. <ph id="2">{2}</ph> de deuda pendiente.</target>
+        <target xml:space="preserve" state="needs-translation">Usted perdonó la deuda de <ph id="0">{0}</ph> a <ph id="1">{1}</ph>. <ph id="2">{2}</ph> de deuda pendiente.</target>
       </trans-unit>
       <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off.">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Your debt is now paid off.</source>
@@ -7697,9 +7697,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> has raised the seas by <ph id="1">{1}</ph>!</source>
         <target xml:space="preserve">¡<ph id="0">{0}</ph> ha provocado la subida del nivel del mar en <ph id="1">{1}</ph>!</target>
       </trans-unit>
-      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}">
+      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}" xml:space="preserve">
         <source xml:space="preserve">Current sea level: <ph id="0">{0}</ph>  Amount raised so far: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Nivel actual del mar: <ph id="0">{0}</ph> Nivel total alcanzado: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Nivel actual del mar: <ph id="0">{0}</ph> Nivel total alcanzado: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Compost">
         <source xml:space="preserve">Compost</source>
@@ -28292,9 +28292,9 @@
         <source xml:space="preserve">(with count: <ph id="0">{0}</ph>)</source>
         <target xml:space="preserve">(con la cantidad: <ph id="0">{0}</ph>)</target>
       </trans-unit>
-      <trans-unit id="Duplicate deeds claiming plot {0}: '{1}' and '{2}'.  Removing from {3}.">
+      <trans-unit id="Duplicate deeds claiming plot {0}: '{1}' and '{2}'.  Removing from {3}." xml:space="preserve">
         <source xml:space="preserve">Duplicate deeds claiming plot <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' and '<ph id="2">{2}</ph>'.  Removing from <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve">Existen escrituras duplicadas que reclaman la parcela <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' y '<ph id="2">{2}</ph>'. Eliminando de <ph id="3">{3}</ph>...</target>
+        <target xml:space="preserve" state="needs-translation">Existen escrituras duplicadas que reclaman la parcela <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' y '<ph id="2">{2}</ph>'. Eliminando de <ph id="3">{3}</ph>...</target>
       </trans-unit>
       <trans-unit id="Notify">
         <source xml:space="preserve">Notify</source>
@@ -28644,9 +28644,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> thrown exception when <ph id="1">{1}</ph> returned value.</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> ha generado una excepción cuando <ph id="1">{1}</ph> ha devuelto un valor.</target>
       </trans-unit>
-      <trans-unit id="Mismatch between type of {0}  exception and {1}  exception for value: {2} != {3}.">
+      <trans-unit id="Mismatch between type of {0}  exception and {1}  exception for value: {2} != {3}." xml:space="preserve">
         <source xml:space="preserve">Mismatch between type of <ph id="0">{0}</ph>  exception and <ph id="1">{1}</ph>  exception for value: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve">Desajuste entre el tipo de excepción <ph id="0">{0}</ph> y la excepción <ph id="1">{1}</ph> para el valor: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation">Desajuste entre el tipo de excepción <ph id="0">{0}</ph> y la excepción <ph id="1">{1}</ph> para el valor: <ph id="2">{2}</ph> != <ph id="3">{3}</ph>.</target>
       </trans-unit>
       <trans-unit id="type mismatch, {0}: {1} {2}: {3}">
         <source xml:space="preserve">type mismatch, <ph id="0">{0}</ph>: <ph id="1">{1}</ph> <ph id="2">{2}</ph>: <ph id="3">{3}</ph></source>
@@ -29372,9 +29372,9 @@
         <source xml:space="preserve">Provision <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Provisión <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Election for {0} started.  Voting ends in {1} hours.">
+      <trans-unit id="Election for {0} started.  Voting ends in {1} hours." xml:space="preserve">
         <source xml:space="preserve">Election for <ph id="0">{0}</ph> started.  Voting ends in <ph id="1">{1}</ph> hours.</source>
-        <target xml:space="preserve">Las elecciones a <ph id="0">{0}</ph> han comenzado. Las votaciones se cerrarán en <ph id="1">{1}</ph> h.</target>
+        <target xml:space="preserve" state="needs-translation">Las elecciones a <ph id="0">{0}</ph> han comenzado. Las votaciones se cerrarán en <ph id="1">{1}</ph> h.</target>
       </trans-unit>
       <trans-unit id="{0} voting has begun!">
         <source xml:space="preserve"><ph id="0">{0}</ph> voting has begun!</source>
@@ -38524,9 +38524,9 @@
         <source xml:space="preserve">You already have the maximum calories you can queue here (<ph id="0">{0}</ph> classes worth).</source>
         <target xml:space="preserve">Ya tienes el máximo de calorías que puedes poner en cola aquí (<ph id="0">{0}</ph> clases de valor).</target>
       </trans-unit>
-      <trans-unit id="{0} calories applied to teaching.  Calories queued to teach {1} full classes.">
+      <trans-unit id="{0} calories applied to teaching.  Calories queued to teach {1} full classes." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> calories applied to teaching.  Calories queued to teach <ph id="1">{1}</ph> full classes.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph> calorías aplicadas a la enseñanza. Calorías en cola para impartir <ph id="1">{1}</ph> clases completas.</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> calorías aplicadas a la enseñanza. Calorías en cola para impartir <ph id="1">{1}</ph> clases completas.</target>
       </trans-unit>
       <trans-unit id="Teaching time queued: {0} ({1} full classes)">
         <source xml:space="preserve">Teaching time queued: <ph id="0">{0}</ph> (<ph id="1">{1}</ph> full classes)</source>
