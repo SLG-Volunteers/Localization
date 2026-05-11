@@ -2386,20 +2386,7 @@ Your Experience Multiplier (or XP Multiplier) is a personal value representing y
 
 
 </source>
-        <target xml:space="preserve">As you gain experience in Eco you will be able to unlock new specialties and new abilities within those specialties. There are two types of experience you will gain, Character Experience and Specialty Experience.  Both are increased by your Experience Multiplier.
-
-Character Experience
-Character Experience is your background learning rate, how fast you are gaining knowledge and abilities.  It is constantly going up, even when you’re offline.  Each real-day, you will gain Character Experience at the rate of 1 * your experience multiplier.  When you reach a level up, you will gain a new specialty unlock, represented by a star.  Each level up will require more and more character experience to gain, so it is very difficult to have more than a few specialties.
-
-Specialty Experience
-Specialty Experience is your skill at a specific ability, and rather than going up constantly, it only goes up when you perform actions related to that specialty, such as crafting or performing labor.  Like Character Experience, it too is multiplied by your Experience Multiplier. Along the left side of the screen, you’ll see icons displaying how much experience you’re gaining when you perform actions, and you can click these to get a closer look at the level ups for that specialty.
-Some level ups will allow you to unlock talents, which give specific bonuses related to the skills they’re in.
-
-Experience Multiplier
-Your Experience Multiplier (or XP Multiplier) is a personal value representing your health and support system, and it determines how fast you learn new skills.  It is determined as a sum of your {Nutrition} and {Housing|Housing Overview} values.  Because it affects both your character and specialty experience points, you’ll want to keep it as high as possible by eating the nutritious food and having a well-furnished house.
-
-
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="233">
         <source xml:space="preserve">There are two kinds of experience in Eco: Character Experience (gained by food and housing) and Specialty Experience (gained by performing actions in a specialty).
@@ -2453,11 +2440,7 @@ Każda żywność dostarcza zarówno kalorii, jak i składników odżywczych, wi
 A citizen's skills give them unique abilities and enhancements, which allows them to {Trade} with other citizens having different skills in the economy. As you gain {Experience}, you can unlock new {Specialties} and level-up existing ones.  The experience you gain is multiplied by your {Nutrition} and {Housing|Housing Overview}.    
   
 </source>
-        <target xml:space="preserve">Central to a thriving economy is the ability to specialize and trade, thereby working more efficiently than if you attempted to do everything yourself.  Achieving a successful society depends on successfully accomplishing both.  
-    
-    A citizen's skills give them unique abilities and enhancements, which allows them to {Trade} with other citizens having different skills in the economy. As you gain {Experience}, you can unlock new {Specialties} and level-up existing ones.  The experience you gain is multiplied by your {Nutrition} and {Housing|Housing Overview}.    
-  
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="237">
         <source xml:space="preserve">The skill system allows citizens to specialize in specific trades.
@@ -2737,14 +2720,7 @@ Many vehicles require {Power|Power Component} to operate and each have their own
 - Contruction: The {CraneItem} can quickly perform large-scale {Building} projects. The crane has a much larger building range than a citizen who is building with a hammer and can access large amounts of storage.
 
 </source>
-        <target xml:space="preserve">  
-- Transportation: Vehicles like the {WoodCartItem} can transport goods and people from place to place. As technology progresses, more advanced vehicles become available with faster movement speeds and higher carrying capacity at the cost of creating pollution
-
-- Excavation: The {ExcavatorItem} and {SkidSteerItem} can quickly move large quantites of dirt and rock. This will greatly increase the speed of {Mining} and allow areas of land to be quickly cleared for new construction projects.
-
-- Contruction: The {CraneItem} can quickly perform large-scale {Building} projects. The crane has a much larger building range than a citizen who is building with a hammer and can access large amounts of storage.
-
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="264">
         <source xml:space="preserve">Vehicles can be used for performing a variety of tasks.
@@ -2890,14 +2866,7 @@ As you take on new projects that require materials or labor that you lack the ab
 As you build up your capabilities and have more needs of other citizens, you can create your own stores, contracts, and work parties to seek their aid.  As you acquire wealth, your power to effect change (both good and bad) rises.
  
 </source>
-        <target xml:space="preserve">To bring a society through the ages to the peaks of technology, a thriving {Economy|Economy Overview} is needed, and by participating in it citizens can both help progress society as well advance their own abilities and wealth.
- 
-Participating in the economy takes place through {Trade} of both goods and services.  Finding existing settlements with {Stores|Store Component}, {Contracts}, and {Work Parties} will give citizens to trade the goods and labor they specialize in for the specialties of others, achieving their individual goals faster than if they had each worked alone.  
-As you take on new projects that require materials or labor you don't yourself have the ability to create or perform, you can instead sell the goods and services you can perform on the market, by creating stores and setting prices in a {Currency} of your choice. Using this currency to purchase the goods and services of others will then allow you to reach those goals without having to learn everything yourself.
-
-As you build up your capabilities and have more needs of other citizens, you can create your own stores, contracts, and work parties to seek their aid.  As you acquire wealth, your power to effect change (both good and bad) rises.
- 
-</target>
+        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="279">
         <source xml:space="preserve">The most efficient way to progress in knowledge and technology is trade within the economy.
