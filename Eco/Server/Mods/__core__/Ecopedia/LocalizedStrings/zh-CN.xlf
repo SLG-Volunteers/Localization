@@ -3324,6 +3324,423 @@ Available properties for rent can be found in the {Economy Viewer}. Once accepte
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
+      <trans-unit id="354">
+        <source xml:space="preserve">
+    TBD
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source xml:space="preserve">Consolidating and Filtering</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="356">
+        <source xml:space="preserve">
+Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="357">
+        <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="358">
+        <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
+
+ - Trades can be setup at a {Store Component}, listing buy/sell prices for the different goods you would like.  Citizens can then buy and sell goods to you asynchronously, without being present.
+ - Trade of labor can happen through {Contracts} and {Work Parties}, allowing players to perform work for payment within agreed upon terms.  This can be performed asynchronously as well.
+ - Trade of currencies can happen at a {Currency Exchange|Exchange Component}, listing buy/sell prices for exchanges of different currencies.
+ - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
+ - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
+</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="359">
+        <source xml:space="preserve">Injunctions</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="360">
+        <source xml:space="preserve">
+    Injunctions, which can be created on a {LargeCourtItem}, have the ability to block laws on a lesser court. Each injunction states a list of triggers and legal actions that will be blocked in a defined set of child settlements (or all, if left blank). This can be used by countries to block laws that a town have passed, for example.  
+    
+    The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="361">
+        <source xml:space="preserve">
+As the number of occupants increases, the occupancy penalty increases.  At small numbers of occupants (1 or 2), there is virtually no penalty, and citizens can effectively cohabitate this way and share in the benefit of a well-stocked house.  As the occupants increases beyond that (5 and above), the penalty becomes more steep, eventually topping out at 99% when the house is too overcrowded.
+
+However, the 'diminishing returns' rate of rooms is favorably affected by occupancy (because three bathrooms is overkill when you live alone, but great when you have roommates).  This means that you can overcome the penalty by building a larger house, and duplicate rooms will inversely affect the occupancy bonus.
+  
+To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
+</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="362">
+        <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source xml:space="preserve">
+    A settlement with sufficiently more culture than a neighboring settlement can annex it, merging it into itself, if requirements are met.
+
+    When two settlements of the same type neighbor each other, their influence ranges can push up against each other. In these cases, settlements with more culture than the other will push further into their boundaries. Eventually its possible for the cultural difference to be so large that one settlement can completely take over the other.
+
+    Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source xml:space="preserve">Requirements</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source xml:space="preserve">
+    The requirements that must be met before one settlement can annex another are:
+
+    Higher Tier Settlement. The annexing settlement must be a higher tier than its target, unless it's the top tier settlement (Federations), which are the only type that are allowed to annex the same tier.
+
+    Citizen Requirement. The annexing settlement must have a given percentage of the target settlement.
+
+    Surrounding Influence Requirement.  This means that the annexing settlement must have influenced plots surrounding the influence-border of the neighboring settlement.  After a defined threshold, this requirement is met, but growing the amount of plots surrounding the influence will increase the multiplier of the next requirement, culture.
+    
+    Culture Requirement. This requirement states that the culture of the annexing settlment must be more than the target settlement in two ways: it must be a given percentage more, and an absolute vaue more. This is to prevent small settlements with little culture from being too easily annexed, a baseline cultural advantage must be achieved.  Culture is grown in various ways described on the {Culture} page.
+    
+    Resource Cost.  This is a set of items that is the physical cost of performing the annex.  A portion of it be distributed to the target settlement's non-abandoned citizens, with the rest being wasted (that's why its always less costly to come to an agreement with another settlement rather than force it to your will). The resources to perform this annex must be linked to an emmbassy desk within the settlement's jurisdiction, and the storage must be accessible to the leader of the settlement.
+
+Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source xml:space="preserve">Performing the Annex</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source xml:space="preserve">
+    Once both these are met, the leader of the settlement can perform the annex at anytime on an {EmbassyDeskItem} associated with the annexing settlement.
+    
+    When activated, if the settlements are the same type, the target settlement will be removed and all citizens moved to the new settlement.  
+    If the settlements are different types, then the target will simply be removed from any current settlement parent and added as a child of the new settlement.  
+    In both cases all laws and other civic objects will be disabled and sent back to draft form. 
+    
+    Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source xml:space="preserve">Annexation Settings</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source xml:space="preserve">
+    Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source xml:space="preserve">Requirements</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source xml:space="preserve">
+      A dinner party will be triggered when valid food is eaten at a location. The requirements are:
+      - Dining while seated at a table.  Citizens must be seated, and eat food directly from the table (without picking it up into your inventory).
+      - Fresh food only. Food must be fresh to qualify for dinner parties. 
+      - Max dinner parties per day. A limited number of dinner parties per day per person is enforced (defaults to 1).
+      - No repeated food. Dinner parties can have multiple courses, up to a given maximum, but no food may be repeatedly fed to the same player.
+      - Claimed land. Dinner party must be taking place on claimed property.
+      - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
+    </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source xml:space="preserve">Freshness</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source xml:space="preserve">
+  Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
+  Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
+</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source xml:space="preserve">Bonuses</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source xml:space="preserve">
+    The value of the dinner party can be increased by following these guidelines:
+    - More guests. The more guests involved in the party, the higher the potential bonus.
+    - Attendees from multiple settlements. Dining with citizens not in a settlement, or all from a single settlement, will generate little culture. To get a significant Dinner Party bonus, you need to have citizens from multiple settlements attending.
+    - Average Nutrition. The average nutrient value of the food will be converted to culture points via a multiplier (below).
+    - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
+    - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source xml:space="preserve">Benefits</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source xml:space="preserve">
+ - Personal Nutrition Bonus Your nutrition multiplier will be increased based on the dinner parties you've recently attended.
+ - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
+ - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
+</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source xml:space="preserve">
+Dinner parties will decay in value overtime, until reaching zero, after which they are removed from bonuses. You can see the active Dinner Party bonuses you have by looking at the nutrition tooltip.
+
+Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
+</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source xml:space="preserve">Dinner Party Settings</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
+    -Arnold J. Toynbee
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source xml:space="preserve">
+    A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source xml:space="preserve">There are three levels of settlements:</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source xml:space="preserve">Towns are collections of citizens.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source xml:space="preserve">Settlement Concepts</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source xml:space="preserve">
+    - {Founding} - Multiple citizens can join together to found a new settlement.
+    - {Citizenship} - Citizens may be granted special rights and privileges, and being a citizen of a settlement increases its power.
+    - {Influence} - Settlements will cast an influence in a radius around certain buildings within which laws and property rules are enforced.
+    - {Settlement Property} - The more citizens in a settlement, the more property can be claimed.
+    - {Culture} - Culture allows settlements to exert influence on neighboring settlements, which can lead to their annexation.
+    - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
+    - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source xml:space="preserve">
+    Citizenship is membership in a settlement that provides civic powers. The more citizens a settlement has, the more {Settlement Property} it can claim.
+
+    Each settlement can grant citizenship to a list of individuals on the {CitizenRosterComponent} tab of the foundation object.   Non-citizens can also apply for citizenship here, which must be approved by the Approver, which is set in the {Immigration Policy} settings, defaulting to the settlement leader.  Additionally, all the citizens in any sub-settlements will also automatically be citizens in the parent settlement (IE, the citizens of every Town in a Country is also a citizen of the Country).
+
+    Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source xml:space="preserve">Citizenship Settings</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source xml:space="preserve">
+    Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source xml:space="preserve">Culture from Settlement Foundation</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source xml:space="preserve">Culture from Works of Art</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source xml:space="preserve">
+    When Citizens use an {EaselItem} a {HandheldCameraItem} or {TripodCameraItem} to create a picture, these pictures can be displayed in a frame on the wall to give Culture points to the property. The amount of culture depends on the reputation of both the picture and artist, and viewers will be prompted to rate the images they view to give them additional reputation. As these values go up, more culture is generated, up to a limit.  The culture bonus from Citizens in the same settlement, however, is reduced by 90%, so that the majority of value comes from other Citizens of other settlements spreading the reputation of the work. This makes it advantageous to gain reputation in a given settlement, but then sell or transfer it to another settlement, where it will have much more value due to originating from a different place.
+
+    Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source xml:space="preserve">Cultural Settings</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source xml:space="preserve">
+    The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
+</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source xml:space="preserve">Founding Requirements</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
+
+    When placed, the plot beneath it will be claimed as property of this new settlement, with ownership assigned to the leader.  More plots can be claimed using the {ClaimToolItem} (right-click the item to select the settlement deed as the target).  This will allow you to claim land around the foundation and build a room that meets the requirements.
+
+    Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
+</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source xml:space="preserve">Ratifying the Constitution</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source xml:space="preserve">
+    Once all the requirements are met, the election to ratify the settlement {Constitution} can begin.  On the Constitution tab, you can configure the constitution however you like, designing your government as you see fit (see Constitution guide). Once you click to start the voting, all current citizens of the settlement will be allowed to vote on it.  If it fails, you can make alterations and try again.
+
+    If you want, you can add other civic elements to the initial founding of your settlement, for example by placing a court on the initial settlement property you can create laws associated with the settlement, which can be placed on the same election as ratifying the constitution. You can package an arbitrary number of civic objects into a single election this way, if you want to start your government more fully formed.  If not, you can always add them later with additional elections.
+
+    Once all requirements are met and the constitution is ratified, the settlement is ready to be founded!  Click the button on the Foundation tab of the Foundation object to start the reveal ceremony, which all your citizens can attend to celebrate the beginning of a new settlement.
+
+    Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source xml:space="preserve">Settlement Foundation Settings</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source xml:space="preserve">
+    A settlement can have its rules about new Citizens defined in an {Immigration Policy}.
+
+    Every settlement always has one Immigration Policy associated with it.  It begins as an embedded object in the Settlement, with default settings that allow the leader to approve new Citizens, and is visible in the tooltips of the settlement.  Once an {ImmigrationDeskItem} is placed in that Settlement's influence, that policy can be edited.
+
+    Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source xml:space="preserve">Settlement Advertisement</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source xml:space="preserve">
+    When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="432">
+        <source xml:space="preserve">
+    Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="433">
+        <source xml:space="preserve">Culture Generates Influence</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="434">
+        <source xml:space="preserve">
+    Influence can be extended with {Culture}. The higher the culture level of a property, the more influence it will cast for the owning settlement.  This allows you to expand your borders by increasing culture, or creating new cultural properties. There are limits, however, on the number of cultural properties and the max influence castable, so borders cannot be expanded indefinitely. Each level-up of settlement allows a farther range of influence to be cast, and more cultural properties to be created.
+    
+    Influence is cast from the average position of the rooms on the property, weighted by their property values.  
+
+    {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source xml:space="preserve">Multiple Influencing Settlements</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source xml:space="preserve">
+    Each settlement level (Town, Country, Federation) has its own map of influence, and only one settlement of each type may influence a given plot (IE, two Towns cannot influence the same plot).  However, if a settlement is a sub-settlement of another settlement, then that parent will also cast influence on the plot (IE, a Country's influence will be cast everywhere its member town's influences are cast).  In plots influenced by more than one settlement in this way, the governments of all settlement will apply.
+    
+    When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
+</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source xml:space="preserve">Border Control</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source xml:space="preserve">
+    On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source xml:space="preserve">
+    A Property Crisis occurs when the number of Citizens in a settlement reduces such that there aren't enough Citizens to support the number of Claim Stakes and Claim Papers in use.
+    
+    Because settlements spawn Claim Stakes and Papers when Citizens join, and despawn them when they leave, it is possible for Citizens to leave and generate a property crisis when there aren't any available Stakes or Papers to despawn on the Settlement Foundation object.  When this happens, a timer will start, by the end of which Citizens must return the needed number of Stakes and Papers to the Settlement Foundation, unclaiming or collecting them however they can.  When Stakes and Claims are placed into a Settlement Foundation during a property crisis, they will be immediately de-spawned, and if the defecit is met, the crisis will end immediately.
+
+    If Citizens are unable or unwilling to return the needed Stakes and Papers before the timer expires, the Stakes and Papers will be destroyed wherever they are. When a property crisis resolves, it will perform these repossessions:
+    - First, claims/stakes that aren't being used (in a Citizen's backpack, say) will be destroyed.
+    - Then stakes/claims that are in-use will be destroyed if the defecit is still not met.
+    In both steps, claims owned by abandoned Citizens will be destroyed first.
+
+    Its very important for Settlements to manage their Citizen populations carefully to prevent a shortfall, and it is wise to hold some in reserve and not immediately use them, or to adjust when Citizens start to leave.
+
+    Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source xml:space="preserve">Property Crisis Settings</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source xml:space="preserve">
+    As more Citizens join a Settlement, more {Property} can be claimed, using Claim Stakes and Claim Papers associated with the settlement.
+
+    The settlement will spawn these objects based on their level, with claim stakes of {TownClaimStakeItem}, {CountryClaimStakeItem}, {FederationClaimStakeItem} varieties.  These will claim property in the name of the settlement they are associated with, and can be powered-up with {ClaimPaperItem} to claim more plots, by placing them in the inventory of the claim stake.
+
+    If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
+  </source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source xml:space="preserve">Homestead Support Claims</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source xml:space="preserve">Settlement Property Settings</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

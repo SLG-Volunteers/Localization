@@ -8652,11 +8652,11 @@
       </trans-unit>
       <trans-unit id="Error: Duplicate strings at: {0}, {1}">
         <source xml:space="preserve">Error: Duplicate strings at: <ph id="0">{0}</ph>, <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="obsolete"></target>
       </trans-unit>
       <trans-unit id="Error: The entry corresponding to string {0} could not be removed because it does not exist">
         <source xml:space="preserve">Error: The entry corresponding to string <ph id="0">{0}</ph> could not be removed because it does not exist</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="obsolete"></target>
       </trans-unit>
       <trans-unit id="Personal">
         <source xml:space="preserve">Personal</source>
@@ -41294,12 +41294,12 @@
       </trans-unit>
       <trans-unit id="repopulateanimallayer">
         <source xml:space="preserve">repopulateanimallayer</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="obsolete"></target>
         <note from="developer">Chat command</note>
       </trans-unit>
       <trans-unit id="Reset animal sim population to initial values (as it was on world generation)">
         <source xml:space="preserve">Reset animal sim population to initial values (as it was on world generation)</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="obsolete"></target>
         <note from="developer">Help text for chat command /repopulateanimallayer</note>
       </trans-unit>
       <trans-unit id="Displays info on what settlement this claim stake is tied to.">
@@ -61254,7 +61254,7 @@
       </trans-unit>
       <trans-unit id="Determines how often animals attack randomly when unprovoked. 1f means default from species, values less or more will multiply value defined in species config.">
         <source xml:space="preserve">Determines how often animals attack randomly when unprovoked. 1f means default from species, values less or more will multiply value defined in species config.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="obsolete"></target>
       </trans-unit>
       <trans-unit id="Repair Bounty">
         <source xml:space="preserve">Repair Bounty</source>
@@ -62033,7 +62033,7 @@
       </trans-unit>
       <trans-unit id="Reduced resource cost of Industry recipes in the Robotic Assembly Line and increased crafting speed at the cost of significantly increased power cost per talent level.">
         <source xml:space="preserve">Reduced resource cost of Industry recipes in the Robotic Assembly Line and increased crafting speed at the cost of significantly increased power cost per talent level.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="obsolete"></target>
       </trans-unit>
       <trans-unit id="Robotic Assistance: Industry">
         <source xml:space="preserve">Robotic Assistance: Industry</source>
@@ -67565,11 +67565,11 @@ Upgraded tools will allow you to place multiple blocks at a time.</source>
       </trans-unit>
       <trans-unit id="{0} disabled, ignored.">
         <source xml:space="preserve">{0} disabled, ignored.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="obsolete"></target>
       </trans-unit>
       <trans-unit id="{0} is rotten, ignored.">
         <source xml:space="preserve">{0} is rotten, ignored.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="obsolete"></target>
       </trans-unit>
       <trans-unit id="Ground pollution reduces the room value.&#10;">
         <source xml:space="preserve">Ground pollution reduces the room value.
@@ -69071,6 +69071,122 @@ Ctrl - x100</source>
       </trans-unit>
       <trans-unit id="Toggle Text">
         <source xml:space="preserve">Toggle Text</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Ecopedia: failed to load XLIFF '{0}'. {1}">
+        <source xml:space="preserve">Ecopedia: failed to load XLIFF '{0}'. {1}</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Reduced resource cost of Industry recipes in the Robotic Assembly Line and increased crafting speed at the cost of significantly increased power consumption.">
+        <source xml:space="preserve">Reduced resource cost of Industry recipes in the Robotic Assembly Line and increased crafting speed at the cost of significantly increased power consumption.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Determines how often animals attack randomly when unprovoked. Higher values increase the attack chance of all animals based on each species' individual base attack chance, lower values reduce it.">
+        <source xml:space="preserve">Determines how often animals attack randomly when unprovoked. Higher values increase the attack chance of all animals based on each species' individual base attack chance, lower values reduce it.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Single Level">
+        <source xml:space="preserve">Single Level</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Multi Level">
+        <source xml:space="preserve">Multi Level</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Unique Effect">
+        <source xml:space="preserve">Unique Effect</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Trade Off">
+        <source xml:space="preserve">Trade Off</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Allow Multiple Talent Picks">
+        <source xml:space="preserve">Allow Multiple Talent Picks</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="When enabled, players can pick more than one talent per skill level. When disabled, only one talent can be chosen per level.">
+        <source xml:space="preserve">When enabled, players can pick more than one talent per skill level. When disabled, only one talent can be chosen per level.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Min Threshold">
+        <source xml:space="preserve">Min Threshold</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Values below this threshold are clamped to 0 to suppress residual fuzz at biome borders.">
+        <source xml:space="preserve">Values below this threshold are clamped to 0 to suppress residual fuzz at biome borders.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="{0} {1} disabled, ignored.">
+        <source xml:space="preserve">{0} {1} disabled, ignored.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="{0} {1} rotten, ignored.">
+        <source xml:space="preserve">{0} {1} rotten, ignored.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Instant">
+        <source xml:space="preserve">Instant</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Level {0} Talent Choice at {1}.">
+        <source xml:space="preserve">Level {0} Talent Choice at {1}.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="• {0}">
+        <source xml:space="preserve">• {0}</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="• {0}: {1}">
+        <source xml:space="preserve">• {0}: {1}</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="{0} Level {1} talent preview (requires level {2})">
+        <source xml:space="preserve">{0} Level {1} talent preview (requires level {2})</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Hover each option in the selector for details, or click to preview:">
+        <source xml:space="preserve">Hover each option in the selector for details, or click to preview:</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="You can learn this talent once the specialty reaches the required level.">
+        <source xml:space="preserve">You can learn this talent once the specialty reaches the required level.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Free">
+        <source xml:space="preserve">Free</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="You have already picked a talent at this level.">
+        <source xml:space="preserve">You have already picked a talent at this level.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="This language is currently {0}% translated. Untranslated strings will appear in English.">
+        <source xml:space="preserve">This language is currently {0}% translated. Untranslated strings will appear in English.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: {0}">
+        <source xml:space="preserve">All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: {0}</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="our translation portal">
+        <source xml:space="preserve">our translation portal</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="WorldChunkGrid.GetChunkUpdate received a null chunk; skipping update. Likely a stale ChunkDelivery in the chunk update queue.">
+        <source xml:space="preserve">WorldChunkGrid.GetChunkUpdate received a null chunk; skipping update. Likely a stale ChunkDelivery in the chunk update queue.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link=&quot;{0}&quot;&gt;link&lt;/link&gt;.">
+        <source xml:space="preserve">All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link="{0}"&gt;link&lt;/link&gt;.</source>
+        <target xml:space="preserve" state="obsolete"></target>
+      </trans-unit>
+      <trans-unit id="!">
+        <source xml:space="preserve">!</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link=&quot;{0}&quot;&gt;our translation portal&lt;/link&gt;.">
+        <source xml:space="preserve">All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link="{0}"&gt;our translation portal&lt;/link&gt;.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
     </body>
