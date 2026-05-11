@@ -426,9 +426,9 @@
         <source xml:space="preserve">You equipped <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Je hebt <ph id="0">{0}</ph> uitgerust</target>
       </trans-unit>
-      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired.">
+      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired." xml:space="preserve">
         <source xml:space="preserve">Your <ph id="0">{0}</ph> broke!  It will be much less efficient until repaired.</source>
-        <target xml:space="preserve">Uw <ph id="0">{0}</ph> brak! Het is minder efficiënt tot het is gerepareerd.</target>
+        <target xml:space="preserve" state="needs-translation">Uw <ph id="0">{0}</ph> brak! Het is minder efficiënt tot het is gerepareerd.</target>
       </trans-unit>
       <trans-unit id="You are not authorized to remove items from that.">
         <source xml:space="preserve">You are not authorized to remove items from that.</source>
