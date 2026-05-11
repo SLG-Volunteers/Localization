@@ -426,9 +426,9 @@
         <source xml:space="preserve">You equipped <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Wyposażyłeś się w <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired.">
+      <trans-unit id="Your {0} broke!  It will be much less efficient until repaired." xml:space="preserve">
         <source xml:space="preserve">Your <ph id="0">{0}</ph> broke!  It will be much less efficient until repaired.</source>
-        <target xml:space="preserve">Zniszczyłeś <ph id="0">{0}</ph>! To narzędzie będzie znacznie mniej efektywne dopóki nie zostanie naprawione.</target>
+        <target xml:space="preserve" state="needs-translation">Zniszczyłeś <ph id="0">{0}</ph>! To narzędzie będzie znacznie mniej efektywne dopóki nie zostanie naprawione.</target>
       </trans-unit>
       <trans-unit id="You are not authorized to remove items from that.">
         <source xml:space="preserve">You are not authorized to remove items from that.</source>
@@ -7012,22 +7012,22 @@
         <source xml:space="preserve">Can't pay <ph id="0">{0}</ph> in debt, you only owe <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve">Nie możesz spłacić <ph id="0">{0}</ph>, masz tylko <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled.">
+      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Debt is now cancelled.</source>
-        <target xml:space="preserve">Umarzasz <ph id="0">{0}</ph> długu od <ph id="1">{1}</ph>. Anulowano zadłużenie.</target>
+        <target xml:space="preserve" state="needs-translation">Umarzasz <ph id="0">{0}</ph> długu od <ph id="1">{1}</ph>. Anulowano zadłużenie.</target>
         <note from="developer">{0} = Amount of currency (10 Dollars) {1} = Username</note>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains.">
+      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  <ph id="2">{2}</ph> debt remains.</source>
-        <target xml:space="preserve">Umarzasz <ph id="0">{0}</ph> długu od <ph id="1">{1}</ph>. Pozostaje <ph id="2">{2}</ph> zadłużenia.</target>
+        <target xml:space="preserve" state="needs-translation">Umarzasz <ph id="0">{0}</ph> długu od <ph id="1">{1}</ph>. Pozostaje <ph id="2">{2}</ph> zadłużenia.</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off.">
+      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Your debt is now paid off.</source>
-        <target xml:space="preserve">Spłacasz <ph id="0">{0}</ph> graczowi <ph id="1">{1}</ph>. Dług jest teraz spłacony.</target>
+        <target xml:space="preserve" state="needs-translation">Spłacasz <ph id="0">{0}</ph> graczowi <ph id="1">{1}</ph>. Dług jest teraz spłacony.</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}.">
+      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  You now owe <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve">Spłacasz <ph id="0">{0}</ph> graczowi <ph id="1">{1}</ph>. Do spłaty zostało <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation">Spłacasz <ph id="0">{0}</ph> graczowi <ph id="1">{1}</ph>. Do spłaty zostało <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="&lt;unassigned&gt;">
         <source xml:space="preserve">&lt;unassigned&gt;</source>
@@ -7061,9 +7061,9 @@
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid material name</source>
         <target xml:space="preserve">'<ph id="0">{0}</ph>' nie jest prawidłową nazwą materiału</target>
       </trans-unit>
-      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}">
+      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}" xml:space="preserve">
         <source xml:space="preserve">No plant species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Brak gatunków roślin o nazwie '<ph id="0">{0}</ph>'. Poprawnymi gatunkami są: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Brak gatunków roślin o nazwie '<ph id="0">{0}</ph>'. Poprawnymi gatunkami są: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="'{0}' is not a valid block type name.">
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid block type name.</source>
@@ -7697,9 +7697,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> has raised the seas by <ph id="1">{1}</ph>!</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> podniósł poziom morza o <ph id="1">{1}</ph>!</target>
       </trans-unit>
-      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}">
+      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}" xml:space="preserve">
         <source xml:space="preserve">Current sea level: <ph id="0">{0}</ph>  Amount raised so far: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Obecny poziom morza: <ph id="0">{0}</ph> Do tej pory wzrósł o: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Obecny poziom morza: <ph id="0">{0}</ph> Do tej pory wzrósł o: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Compost">
         <source xml:space="preserve">Compost</source>
@@ -9498,9 +9498,9 @@
         <source xml:space="preserve">Ecko demands <ph id="0">{0}</ph>!</source>
         <target xml:space="preserve">Ecko domaga się <ph id="0">{0}</ph>!</target>
       </trans-unit>
-      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled.">
+      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt.  Debt is now cancelled.</source>
-        <target xml:space="preserve"><ph id="0">{0}</ph> przymknął oko na <ph id="1">{1}</ph> Twojego długu. Dług jest anulowany.</target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> przymknął oko na <ph id="1">{1}</ph> Twojego długu. Dług jest anulowany.</target>
       </trans-unit>
       <trans-unit id="{0} forgave {1} of your debt. {2} debt remains.">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt. <ph id="2">{2}</ph> debt remains.</source>
@@ -21330,9 +21330,9 @@
         <source xml:space="preserve">Perform Action</source>
         <target xml:space="preserve">Wykonaj działanie</target>
       </trans-unit>
-      <trans-unit id="You can't afford to buy this deed for {0}.  {1} only has {2}">
+      <trans-unit id="You can't afford to buy this deed for {0}.  {1} only has {2}" xml:space="preserve">
         <source xml:space="preserve">You can't afford to buy this deed for <ph id="0">{0}</ph>.  <ph id="1">{1}</ph> only has <ph id="2">{2}</ph></source>
-        <target xml:space="preserve">Nie możesz pozwolić sobie na zakup tego dokumentu za <ph id="0">{0}</ph>. <ph id="1">{1}</ph> posiada jedynie <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Nie możesz pozwolić sobie na zakup tego dokumentu za <ph id="0">{0}</ph>. <ph id="1">{1}</ph> posiada jedynie <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Could not cancel this project: {0}. Remaining project cancelled.">
         <source xml:space="preserve">Could not cancel this project: <ph id="0">{0}</ph>. Remaining project cancelled.</source>
@@ -27579,9 +27579,9 @@
         <source xml:space="preserve">Title <ph id="0">{0}</ph></source>
         <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="No animals species named '{0}'.  Valid species are: {1}">
+      <trans-unit id="No animals species named '{0}'.  Valid species are: {1}" xml:space="preserve">
         <source xml:space="preserve">No animals species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Brak gatunków zwierząt o nazwie '<ph id="0">{0}</ph>'. Poprawnymi gatunkami są: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Brak gatunków zwierząt o nazwie '<ph id="0">{0}</ph>'. Poprawnymi gatunkami są: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="No animals species around named '{0}'.">
         <source xml:space="preserve">No animals species around named '<ph id="0">{0}</ph>'.</source>
@@ -27603,9 +27603,9 @@
         <source xml:space="preserve">Remove all tree stumps and debris from the property under the given marker.\n\nThe contractor will be temporarily rights to remove debris and stumps on the specified property.\n\nNote: You can split property into seperate deeds for more control.</source>
         <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="Remove all tree debris from property at {0}.  Contractor will be given temporary permission to remove debris on property.">
+      <trans-unit id="Remove all tree debris from property at {0}.  Contractor will be given temporary permission to remove debris on property." xml:space="preserve">
         <source xml:space="preserve">Remove all tree debris from property at <ph id="0">{0}</ph>.  Contractor will be given temporary permission to remove debris on property.</source>
-        <target xml:space="preserve">Zabierz wszelkie drzewne ścinki z tej działki w liczbie: <ph id="0">{0}</ph>. Wykonawca dostanie tymczasowe pozwolenie na usunięcie tych pozostałości.</target>
+        <target xml:space="preserve" state="needs-translation">Zabierz wszelkie drzewne ścinki z tej działki w liczbie: <ph id="0">{0}</ph>. Wykonawca dostanie tymczasowe pozwolenie na usunięcie tych pozostałości.</target>
       </trans-unit>
       <trans-unit id="With this clause, the contractor must plow the given number of square meters of field into plantable soil.\n\nThe contractor will temporarily be given right to plow on the specified property.\n\nNote: You can split property into seperate deeds for more control.">
         <source xml:space="preserve">With this clause, the contractor must plow the given number of square meters of field into plantable soil.\n\nThe contractor will temporarily be given right to plow on the specified property.\n\nNote: You can split property into seperate deeds for more control.</source>
