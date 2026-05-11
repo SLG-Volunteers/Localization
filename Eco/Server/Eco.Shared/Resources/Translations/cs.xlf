@@ -7012,22 +7012,22 @@
         <source xml:space="preserve">Can't pay <ph id="0">{0}</ph> in debt, you only owe <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve">Nemůžete splatit dluh <ph id="0">{0}</ph>, dlužíte pouze <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled.">
+      <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Debt is now cancelled.</source>
-        <target xml:space="preserve">Odpustili jste dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Dluh je nyní zrušen.</target>
+        <target xml:space="preserve" state="needs-translation">Odpustili jste dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Dluh je nyní zrušen.</target>
         <note from="developer">{0} = Amount of currency (10 Dollars) {1} = Username</note>
       </trans-unit>
-      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains.">
+      <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  <ph id="2">{2}</ph> debt remains.</source>
-        <target xml:space="preserve">Odpustili jste dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Zbývá <ph id="2">{2}</ph> dluh.</target>
+        <target xml:space="preserve" state="needs-translation">Odpustili jste dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Zbývá <ph id="2">{2}</ph> dluh.</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off.">
+      <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Your debt is now paid off.</source>
-        <target xml:space="preserve">Splacen dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Váš dluh je nyní splacen.</target>
+        <target xml:space="preserve" state="needs-translation">Splacen dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Váš dluh je nyní splacen.</target>
       </trans-unit>
-      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}.">
+      <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  You now owe <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve">Splacen dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Nyní dlužíte <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="needs-translation">Splacen dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Nyní dlužíte <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="&lt;unassigned&gt;">
         <source xml:space="preserve">&lt;unassigned&gt;</source>
@@ -7061,9 +7061,9 @@
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid material name</source>
         <target xml:space="preserve">'<ph id="0">{0}</ph>' není platný název materiálu</target>
       </trans-unit>
-      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}">
+      <trans-unit id="No plant species named '{0}'.  Valid species are: {1}" xml:space="preserve">
         <source xml:space="preserve">No plant species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Žádný rostlinný druh s názvem '<ph id="0">{0}</ph>'. Platné druhy jsou: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Žádný rostlinný druh s názvem '<ph id="0">{0}</ph>'. Platné druhy jsou: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="'{0}' is not a valid block type name.">
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid block type name.</source>
@@ -7697,9 +7697,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> has raised the seas by <ph id="1">{1}</ph>!</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> zvedl hladinu moře o <ph id="1">{1}</ph>!</target>
       </trans-unit>
-      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}">
+      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}" xml:space="preserve">
         <source xml:space="preserve">Current sea level: <ph id="0">{0}</ph>  Amount raised so far: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve">Současná hladina moře: <ph id="0">{0}</ph> Dosud zvýšená hladina: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="needs-translation">Současná hladina moře: <ph id="0">{0}</ph> Dosud zvýšená hladina: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Compost">
         <source xml:space="preserve">Compost</source>
@@ -9498,9 +9498,9 @@
         <source xml:space="preserve">Ecko demands <ph id="0">{0}</ph>!</source>
         <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled.">
+      <trans-unit id="{0} forgave {1} of your debt.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt.  Debt is now cancelled.</source>
-        <target xml:space="preserve">Odpustili jste dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Dluh je nyní zrušen.</target>
+        <target xml:space="preserve" state="needs-translation">Odpustili jste dluh ve výši <ph id="0">{0}</ph> společnosti <ph id="1">{1}</ph>. Dluh je nyní zrušen.</target>
       </trans-unit>
       <trans-unit id="{0} forgave {1} of your debt. {2} debt remains.">
         <source xml:space="preserve"><ph id="0">{0}</ph> forgave <ph id="1">{1}</ph> of your debt. <ph id="2">{2}</ph> debt remains.</source>
