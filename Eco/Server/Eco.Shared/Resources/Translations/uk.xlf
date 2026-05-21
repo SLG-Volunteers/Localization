@@ -2644,9 +2644,9 @@
         <source xml:space="preserve">Connecting...</source>
         <target xml:space="preserve">Підключення…</target>
       </trans-unit>
-      <trans-unit id="Shift">
+      <trans-unit id="Shift" xml:space="preserve">
         <source xml:space="preserve">Shift</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Зміна</target>
       </trans-unit>
       <trans-unit id="Impact in:">
         <source xml:space="preserve">Impact in:</source>
@@ -3782,9 +3782,9 @@
         <source xml:space="preserve">A stone stand which can hold burning fuel to provide light.</source>
         <target xml:space="preserve">Кам’яна стійка, на якій можна розмістити та запалити паливо, що забезпечує світло.</target>
       </trans-unit>
-      <trans-unit id="PLACEHOLDER">
+      <trans-unit id="PLACEHOLDER" xml:space="preserve">
         <source xml:space="preserve">PLACEHOLDER</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">МІСЦЕ ДЛЯ ТЕКСТУ</target>
       </trans-unit>
       <trans-unit id="A container you can store items in.">
         <source xml:space="preserve">A container you can store items in.</source>
