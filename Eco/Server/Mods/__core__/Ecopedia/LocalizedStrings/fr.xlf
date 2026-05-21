@@ -3715,9 +3715,9 @@ Lorsqu'un citoyen devient résident d'une propriété, il obtient un ensemble sp
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="355">
+      <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Consolidation et filtrage</target>
       </trans-unit>
       <trans-unit id="356">
         <source xml:space="preserve">
@@ -3725,9 +3725,9 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="357">
+      <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Les échanges entre citoyens aux capacités différentes et possédant des biens différents constituent l'épine dorsale de l'économie.</target>
       </trans-unit>
       <trans-unit id="358">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
@@ -3740,9 +3740,9 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="359">
+      <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Injonctions</target>
       </trans-unit>
       <trans-unit id="360">
         <source xml:space="preserve">
