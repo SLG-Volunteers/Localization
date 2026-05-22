@@ -3319,32 +3319,35 @@ Available properties for rent can be found in the {Economy Viewer}. Once accepte
 
 </target>
       </trans-unit>
-      <trans-unit id="353">
-        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.
-</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+      <trans-unit id="353" xml:space="preserve">
+        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.</source>
+        <target xml:space="preserve" state="translated">疲劳值是一种服务器配置，用于限制每天的最大游戏时间。</target>
       </trans-unit>
-      <trans-unit id="354">
+      <trans-unit id="354" xml:space="preserve">
         <source xml:space="preserve">
     TBD
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    待定
+  </target>
       </trans-unit>
-      <trans-unit id="355">
+      <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">整合与筛选</target>
       </trans-unit>
-      <trans-unit id="356">
+      <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+通过按下存储组件右下角的合并按钮，可以快速合并和整理成堆的相同物品。此外，还可以使用物品选择器或直接输入物品名称来过滤存储，仅显示特定类型的物品。
+  </target>
       </trans-unit>
-      <trans-unit id="357">
+      <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">不同能力,拥有不同商品的公民之间的交易是经济的支柱.</target>
       </trans-unit>
-      <trans-unit id="358">
+      <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
 
  - Trades can be setup at a {Store Component}, listing buy/sell prices for the different goods you would like.  Citizens can then buy and sell goods to you asynchronously, without being present.
@@ -3353,21 +3356,32 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">在《Eco》这款游戏中，与其他玩家进行交易至关重要，因为每位玩家都有一套自己的{专长}，在与擅长自己不熟悉职业的其他玩家进行交易时，这些专长能发挥最大效用。 
+
+ - 可以在{商店组件}上设置交易，列出您想要的不同商品的买入/卖出价格。市民们可以异步地与您进行商品买卖，无需亲自到场。
+ - 劳动力交易可以通过{合同}和{工作团队}进行，允许玩家在约定的条款内为获得报酬而执行工作。此过程也可以异步进行。
+ 货币交易可以在{货币兑换|兑换组件}上进行，该组件列出了不同货币兑换的买入/卖出价格。
+ - 贸易得益于{运输}，在你们文明中新兴的枢纽之间建设交通基础设施将极大地促进贸易能力。
+ - 交易需缴纳由{政府|政府概览}设定的{税款}，这些税款可能会提升或降低某些交易的价值。
+</target>
       </trans-unit>
-      <trans-unit id="359">
+      <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">禁令</target>
       </trans-unit>
-      <trans-unit id="360">
+      <trans-unit id="360" xml:space="preserve">
         <source xml:space="preserve">
     Injunctions, which can be created on a {LargeCourtItem}, have the ability to block laws on a lesser court. Each injunction states a list of triggers and legal actions that will be blocked in a defined set of child settlements (or all, if left blank). This can be used by countries to block laws that a town have passed, for example.  
     
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    禁令可在{最高法院项目}上创建，能够阻止下级法院的法律。每项禁令都会列出一系列触发因素和法律行为，这些将在定义的子定居点（或全部，如果留空）中被阻止。例如，国家可以利用这一点来阻止城镇通过的法律。  
+    
+    颁布禁令的能力是一项强大的功能，在组建国家或联邦时应当予以考虑，因为它会对子定居点的管理产生重大影响。  可以在定居点协议中明确权力，规定谁有权增加和更改禁令（如有）。  在联合组建国家时，城镇领导者应慎重讨论禁令的作用。
+  </target>
       </trans-unit>
-      <trans-unit id="361">
+      <trans-unit id="361" xml:space="preserve">
         <source xml:space="preserve">
 As the number of occupants increases, the occupancy penalty increases.  At small numbers of occupants (1 or 2), there is virtually no penalty, and citizens can effectively cohabitate this way and share in the benefit of a well-stocked house.  As the occupants increases beyond that (5 and above), the penalty becomes more steep, eventually topping out at 99% when the house is too overcrowded.
 
@@ -3375,13 +3389,19 @@ However, the 'diminishing returns' rate of rooms is favorably affected by occupa
   
 To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+随着居住者数量的增加，居住惩罚也会增加。  在居住者数量较少（1或2人）时，几乎不存在惩罚，居民可以有效地以这种方式共同居住，并分享一个物品齐全的房屋带来的好处。  随着居住者数量超过这个范围（5人及以上），惩罚变得更加严重，当房屋过于拥挤时，惩罚最终达到99%。
+
+然而，房间的“收益递减”率会受到入住率的有利影响（因为当你独自生活时，三间浴室显得多余，但当你与室友同住时，就显得很实用）。  这意味着你可以通过建造更大的房子来克服这一劣势，而重复的房间会对入住率奖励产生负面影响。
+  
+要成为某处房产的居民，请点击该房产的名称（当您身处该房产时，该名称会在弹出状态面板上显示）。在此，您可以成为居民（如果您拥有地契），也可以邀请他人成为居民。  这些被邀请的其他市民随后可通过同一界面加入成为居民。 您甚至可以通过指定头衔或人口统计信息来邀请团体，从而为特殊类别的市民（例如新玩家）创建住房。 您还可以设置最大居住人数，以确保以这种方式（通过邀请大型团体）管理的居住不会导致住房过度拥挤。
+</target>
       </trans-unit>
-      <trans-unit id="362">
+      <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">定居点是由人或其他定居点组成的组织。  它们是社会的结构和组织形式。</target>
       </trans-unit>
-      <trans-unit id="363">
+      <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
     A settlement with sufficiently more culture than a neighboring settlement can annex it, merging it into itself, if requirements are met.
 
@@ -3389,13 +3409,19 @@ To become a resident of a property, click the name of the property (visible on t
 
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    如果一个定居点的文化足够丰富，超过了邻近的定居点，那么在满足一定条件的情况下，它可以兼并邻近的定居点，将其并入自身。
+
+    当两个同类型的聚落彼此相邻时，它们的影响范围可能会相互挤压。在这种情况下，文化程度更高的聚落会进一步扩展其边界。最终，文化差异可能大到一方聚落完全取代另一方的程度。
+
+    对于那些拒绝遵守全球需求的无赖定居点而言，吞并可以成为使其接受法律的重要手段，因为吞并会使这些定居点的所有法律失效，并允许实施新的法律。
+  </target>
       </trans-unit>
-      <trans-unit id="364">
+      <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">需求</target>
       </trans-unit>
-      <trans-unit id="365">
+      <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
     The requirements that must be met before one settlement can annex another are:
 
@@ -3411,13 +3437,27 @@ To become a resident of a property, click the name of the property (visible on t
 
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    一个聚落要吞并另一个聚落，必须满足以下要求：
+
+    更高级别的定居点。进行吞并的定居点必须比其目标定居点级别更高，除非是最高级别的定居点（联邦），因为只有这种类型的定居点才允许吞并同级别的定居点。
+
+    公民要求。兼并定居点必须达到目标定居点的一定百分比。
+
+    周边影响力要求。  这意味着兼并的聚落必须对邻近聚落影响力边界周围的区域产生影响。  当达到设定的阈值后，这一要求即被满足，但周边影响区域地块的增加将提高下一个要求文化的乘数。
+    
+    文化要求。此要求规定，兼并定居点的文化必须在两个方面超过目标定居点：一是必须高出一定百分比，二是必须高出绝对值。这是为了防止文化程度低的小定居点过于容易被兼并，必须达到一定的文化优势基线。  文化可以通过{文化}页面上描述的各种方式来提升。
+    
+    资源成本。  这是一系列执行吞并行动所需的实际成本项目。  其中一部分会分配给目标聚落中未被放弃的居民，而剩余部分则会浪费掉（这就是为什么与另一个聚落达成协议总是比强行将其纳入你的统治之下成本更低的原因）。执行此吞并行动所需的资源必须与该聚落管辖范围内的大使馆办公桌相关联，且存储资源必须可供该聚落的领导者访问。
+
+请注意，定居点的类型很重要：定居点只能吞并等级较低的其他定居点（例如，城镇不能吞并国家，但联邦可以吞并城镇）。  如果进行吞并的定居点类型高于目标（例如，国家吞并邻近的城镇），则使用一组不同的、更简单的值（如下所示），以使操作更容易进行。
+  </target>
       </trans-unit>
-      <trans-unit id="366">
+      <trans-unit id="366" xml:space="preserve">
         <source xml:space="preserve">Performing the Annex</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">履行附录</target>
       </trans-unit>
-      <trans-unit id="367">
+      <trans-unit id="367" xml:space="preserve">
         <source xml:space="preserve">
     Once both these are met, the leader of the settlement can perform the annex at anytime on an {EmbassyDeskItem} associated with the annexing settlement.
     
@@ -3427,23 +3467,33 @@ Note that the type of settlement matters: a settlement can only annex other sett
     
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    一旦满足这两个条件，定居点的领导者就可以随时在与被兼并定居点相关的{大使馆办公桌物品}上执行兼并操作。
+    
+    当该功能被激活时，如果定居点类型相同，目标定居点将被移除，所有居民将被迁移至新的定居点。  
+    如果定居点是不同类型的，那么目标将从任何当前的定居点父节点中移除，并作为新定居点的子节点添加。  
+    在这两种情况下，所有法律和其他公民事务都将被禁用，并退回至草案状态。 
+    
+    一旦定居点被吞并，它就不能再执行“脱离定居点”的操作，而是会被锁定在父级中，直到父级将其移除。 
+  </target>
       </trans-unit>
-      <trans-unit id="368">
+      <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">合并设置</target>
       </trans-unit>
-      <trans-unit id="377">
+      <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    参加晚宴聚会可以为你的聚居地带来文化，同时还能为你的营养值提供技能加成。通过共享美食将居民们联系起来，是增加世界文化生成的一种宝贵方式。
+  </target>
       </trans-unit>
-      <trans-unit id="378">
+      <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">需求</target>
       </trans-unit>
-      <trans-unit id="379">
+      <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
       A dinner party will be triggered when valid food is eaten at a location. The requirements are:
       - Dining while seated at a table.  Citizens must be seated, and eat food directly from the table (without picking it up into your inventory).
@@ -3453,24 +3503,35 @@ Note that the type of settlement matters: a settlement can only annex other sett
       - Claimed land. Dinner party must be taking place on claimed property.
       - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
     </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+      当在特定地点食用有效食物时，将触发一场晚宴聚会。要求如下：
+      - 坐在餐桌前用餐。  市民必须坐在餐桌前，直接从餐桌上取食（不得将食物捡入背包）。
+      - 仅限新鲜食材。 食材必须新鲜，才能符合晚餐聚会的标准。 
+      - 每日最多晚宴次数。每人每日晚宴次数有限制（默认为1次）。
+      - 食物不得重复。 晚宴派对可有多道菜品，但不得超过规定的最大数量，且不得向同一玩家重复提供食物。
+      - 宣称的土地。晚宴必须在这块宣称的土地上举行。
+      - 饿着肚子来！你只能吃下那么多道菜（最多不超过下文规定的数量）来填饱肚子。
+    </target>
       </trans-unit>
-      <trans-unit id="380">
+      <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">新鲜度</target>
       </trans-unit>
-      <trans-unit id="381">
+      <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
   Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
   Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+  一旦创建，根据食谱制作出的任何食物都只能保持几分钟的新鲜度（具体时间在下面配置中定义），因此你需要有一名厨师实时准备餐食。 
+  然而，生食即使存放时间较长，也仍然适合用于晚宴。当食物被摆放在桌上时，其新鲜程度一目了然，因为食物上会呈现出蒸汽或其他效果，表明食物非常新鲜。将鼠标悬停在食物上，你就能看到食物还剩多少分钟。
+</target>
       </trans-unit>
-      <trans-unit id="382">
+      <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">额外奖励</target>
       </trans-unit>
-      <trans-unit id="383">
+      <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
     The value of the dinner party can be increased by following these guidelines:
     - More guests. The more guests involved in the party, the higher the potential bonus.
@@ -3479,69 +3540,88 @@ Note that the type of settlement matters: a settlement can only annex other sett
     - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
     - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    遵循以下指南，可提升晚宴的价值：
+    - 宾客越多。参与聚会的宾客越多，潜在的奖励就越高。
+    - 来自多个定居点的参与者。与非定居点的市民或来自同一定居点的所有市民一起用餐，产生的文化值很少。要想获得显著的晚宴派对加成，你需要有来自多个定居点的市民参加。
+    - 平均营养。食物的平均营养价值将通过一个乘数（见下文）转换为文化点数。
+    - 食物更美味。每道菜的价值取决于市民的个人口味加成，他们觉得食物越美味，加成就越大。
+    场地更佳。晚宴举办地契上的房产价值将决定最高奖励。
+  </target>
       </trans-unit>
-      <trans-unit id="384">
+      <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">益处</target>
       </trans-unit>
-      <trans-unit id="385">
+      <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
  - Personal Nutrition Bonus Your nutrition multiplier will be increased based on the dinner parties you've recently attended.
  - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
  - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+ - 个人营养加成 根据你最近参加的晚宴次数，你的营养加成将会增加。
+ - 聚落文化加成 聚落将根据在聚落建筑上举办的晚宴获得总文化值。
+ - 聚落影响力加成 如果在“文化”类型的建筑上举办，晚宴的文化值将计入整体文化值，从而提升其影响力。
+</target>
       </trans-unit>
-      <trans-unit id="386">
+      <trans-unit id="386" xml:space="preserve">
         <source xml:space="preserve">
 Dinner parties will decay in value overtime, until reaching zero, after which they are removed from bonuses. You can see the active Dinner Party bonuses you have by looking at the nutrition tooltip.
 
 Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+晚宴派对的价值会随时间逐渐降低，直至归零，之后它们将从奖励中移除。您可以通过查看营养提示来了解您当前拥有的活跃晚宴派对奖励。
+
+晚宴会在主人点击“结束”时结束，或在达到设定的时间限制后结束，又或者在所有人都吃得实在太饱，一口也吃不下了时结束。
+</target>
       </trans-unit>
-      <trans-unit id="387">
+      <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">晚宴布置</target>
       </trans-unit>
-      <trans-unit id="406">
+      <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">定居点是由公民组成的社区，他们根据商定的规则团结在一起。</target>
       </trans-unit>
-      <trans-unit id="407">
+      <trans-unit id="407" xml:space="preserve">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
     -Arnold J. Toynbee
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">“文明是一种运动而非一种状态，是一次旅程而非一处港湾。”
+    -阿诺德·J·汤因比
+  </target>
       </trans-unit>
-      <trans-unit id="408">
+      <trans-unit id="408" xml:space="preserve">
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    一群公民可以建立一个定居点，在其{影响}区域内建立政府。
+  </target>
       </trans-unit>
-      <trans-unit id="409">
+      <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">定居点分为三个等级：</target>
       </trans-unit>
-      <trans-unit id="410">
+      <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">城镇是居民的聚集地。</target>
       </trans-unit>
-      <trans-unit id="411">
+      <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">国家是城镇和公民的集合体。</target>
       </trans-unit>
-      <trans-unit id="412">
+      <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">联邦是由国家、城镇和公民组成的集合体。</target>
       </trans-unit>
-      <trans-unit id="413">
+      <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">定居点概念</target>
       </trans-unit>
-      <trans-unit id="414">
+      <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
     - {Founding} - Multiple citizens can join together to found a new settlement.
     - {Citizenship} - Citizens may be granted special rights and privileges, and being a citizen of a settlement increases its power.
@@ -3551,9 +3631,17 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    - {建立} - 多个市民可以联合起来建立一个新的定居点。
+    - {公民身份} - 公民可被赋予特殊权利和特权，成为定居点的公民可增强其力量。
+    - {影响力} - 聚落将在某些建筑周围的半径范围内施加影响力，在此范围内，法律和财产规则将得到执行。
+    - {定居点财产} - 定居点中的居民越多，可申领的财产就越多。
+    - {文化} - 文化使定居点能够对邻近定居点施加影响，进而可能导致其被吞并。
+    - {吞并} - 若定居点的文化水平足够高，它们可以吞并其他定居点或家园。
+    - {财产危机} - 如果定居点失去居民，可能无法维持已认领的财产。
+  </target>
       </trans-unit>
-      <trans-unit id="415">
+      <trans-unit id="415" xml:space="preserve">
         <source xml:space="preserve">
     Citizenship is membership in a settlement that provides civic powers. The more citizens a settlement has, the more {Settlement Property} it can claim.
 
@@ -3561,66 +3649,85 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    公民身份是指定居点中的成员身份，该身份赋予公民权力。定居点拥有的公民越多，其可主张的{定居点财产}就越多。
+
+    每个定居点都可以在基础对象的{公民花名册组件}标签页上为一系列个人授予公民身份。   非公民也可以在此申请公民身份，但必须得到批准者的批准，批准者可在{移民政策}设置中设置，默认为定居点领导者。  此外，任何子定居点的所有公民也将自动成为母定居点的公民（例如，一个国家中每个城镇的公民也是该国家的公民）。
+
+    拥有现有家园的玩家，通过使用{家园权益主张文书}，可以在其家园内存放等量的定居点申请书，从而无缝加入定居点。
+  </target>
       </trans-unit>
-      <trans-unit id="416">
+      <trans-unit id="416" xml:space="preserve">
         <source xml:space="preserve">Citizenship Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">公民身份设置</target>
       </trans-unit>
-      <trans-unit id="417">
+      <trans-unit id="417" xml:space="preserve">
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    文化由市民通过创作创意作品、发现历史文物（即将推出）、举办活动和节日（即将推出）以及建立定居点来创造。  文化始终与定居点相关联，定居点的文化越丰富，其{影响力}的范围就越广。
+  </target>
       </trans-unit>
-      <trans-unit id="418">
+      <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">聚落基础文化</target>
       </trans-unit>
-      <trans-unit id="419">
+      <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">一个已建立的聚落会为其领地生成一个默认的文化值，该值是固定的，并提供了一个基础的影响力水平。  若要进一步扩展该聚落，并从其他领地扩展，则必须使用其他来源。</target>
       </trans-unit>
-      <trans-unit id="420">
+      <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">艺术品的文化</target>
       </trans-unit>
-      <trans-unit id="421">
+      <trans-unit id="421" xml:space="preserve">
         <source xml:space="preserve">
     When Citizens use an {EaselItem} a {HandheldCameraItem} or {TripodCameraItem} to create a picture, these pictures can be displayed in a frame on the wall to give Culture points to the property. The amount of culture depends on the reputation of both the picture and artist, and viewers will be prompted to rate the images they view to give them additional reputation. As these values go up, more culture is generated, up to a limit.  The culture bonus from Citizens in the same settlement, however, is reduced by 90%, so that the majority of value comes from other Citizens of other settlements spreading the reputation of the work. This makes it advantageous to gain reputation in a given settlement, but then sell or transfer it to another settlement, where it will have much more value due to originating from a different place.
 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    当市民使用{画架物品}、{手持相机物品}或{三脚架相机物品}创作图片时，这些图片可以装在画框中挂在墙上，为该物业增加文化点数。文化点数的多少取决于图片和艺术家的声誉，系统会提示观众对他们所查看的图片进行评分，以增加图片的声誉。随着这些数值的上升，会产生更多的文化点数，但有一个上限。  然而，来自同一聚落市民的文化点数加成会减少90%，因此，大部分价值来自其他聚落市民传播作品的声誉。这使得在特定聚落中获得声誉变得有利可图，但随后可以将其出售或转移到另一个聚落，由于来源不同，其价值会大幅增加。
+
+    在单个画廊内，若将同一艺术家的作品整体展出，收益会逐渐递减。  为避免这种情况，你可以选择展出多位艺术家的作品集。
+  </target>
       </trans-unit>
-      <trans-unit id="422">
+      <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">文化设置</target>
       </trans-unit>
-      <trans-unit id="423">
+      <trans-unit id="423" xml:space="preserve">
         <source xml:space="preserve">
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    建立新定居点的第一步是放置基础建筑。  这些基础建筑包括{城镇基础建筑}、{国家基础建筑}和{联邦基础建筑}。一旦放置好，就会开始一个新的未建立的基础定居点，一旦满足所有要求，就可以触发建立仪式。
+</target>
       </trans-unit>
-      <trans-unit id="424">
+      <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">成立要求</target>
       </trans-unit>
-      <trans-unit id="425">
+      <trans-unit id="425" xml:space="preserve">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
 
     When placed, the plot beneath it will be claimed as property of this new settlement, with ownership assigned to the leader.  More plots can be claimed using the {ClaimToolItem} (right-click the item to select the settlement deed as the target).  This will allow you to claim land around the foundation and build a room that meets the requirements.
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">奠定基础的公民将成为该城镇的第一位领导者，并获得一些特殊特权，但这一职位会随着政府规则的变化而变化。
+
+    放置后，其下方的地块将被宣布为新定居点的财产，所有权归领导者所有。  可以使用{认领工具}（右键单击该物品以选择定居点契约作为目标）来认领更多地块。  这将使您能够在基地周围认领土地，并建造符合要求的房间。
+
+    定居点需要满足以下条件：至少有一定数量的居民、至少有一定数量的子定居点（即，一个国家需要有一定数量的城镇作为其组成部分以形成国家），以及所有子定居点都达到最低文化水平。  对于最低级别的定居点——城镇，则不需要文化和子定居点（因为城镇是最低级别的定居点，不能有子定居点）。  在基础对象的“居民”选项卡中，领导者可以邀请并批准申请的居民，其他非居民可以接受邀请并申请成为居民
+</target>
       </trans-unit>
-      <trans-unit id="426">
+      <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">批准宪法</target>
       </trans-unit>
-      <trans-unit id="427">
+      <trans-unit id="427" xml:space="preserve">
         <source xml:space="preserve">
     Once all the requirements are met, the election to ratify the settlement {Constitution} can begin.  On the Constitution tab, you can configure the constitution however you like, designing your government as you see fit (see Constitution guide). Once you click to start the voting, all current citizens of the settlement will be allowed to vote on it.  If it fails, you can make alterations and try again.
 
@@ -3630,13 +3737,21 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    一旦满足所有要求，即可开始选举以批准定居点{宪法}。  在“宪法”选项卡中，您可以根据喜好配置宪法，按照您认为合适的方式设计政府（请参阅宪法指南）。一旦点击开始投票，定居点的所有现有公民都将被允许参与投票。  如果投票失败，您可以进行修改并再次尝试。
+
+    如果你愿意，你可以在定居点的初步建立中加入其他市政元素，例如，在初始定居点地产上设置一个法庭，这样你就可以制定与定居点相关的法律，这些法律可以与批准宪法的选举同时进行。如果你想让你的政府更加完善，你可以通过这种方式将任意数量的公民事务纳入一次选举中。  如果不是这样，你也可以在后续的选举中随时添加它们。
+
+     一旦所有要求都得到满足且宪法获得批准，定居点便准备就绪，可以建立！  点击“基础”对象“基础”选项卡上的按钮，启动揭幕仪式，所有公民均可参加，共同庆祝新定居点的诞生。
+
+    一旦建立，你的定居点将开始产生{影响力}，生成{定居点属性}，并获得{文化}。
+  </target>
       </trans-unit>
-      <trans-unit id="428">
+      <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">定居点基础设置</target>
       </trans-unit>
-      <trans-unit id="429">
+      <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
     A settlement can have its rules about new Citizens defined in an {Immigration Policy}.
 
@@ -3644,29 +3759,39 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    一个定居点可以在{移民政策}中定义其关于新公民的规定。
+
+    每个聚落都会有一个与之相关的移民政策。  该政策最初是聚落中的一个嵌入式对象，具有默认设置，允许领导者批准新公民的加入，且在聚落的工具提示中可见。  一旦{移民服务台物件}被放置在该聚落的影响范围内，该政策就可以进行编辑。
+
+    可以设定一些要求，这些要求必须得到满足和/或保持，以保持定居点的居民身份。  居民若要成为或保持居民身份，则必须满足他们所加入的定居点及其所有上级定居点的所有这些要求。
+  </target>
       </trans-unit>
-      <trans-unit id="430">
+      <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">定居点公告</target>
       </trans-unit>
-      <trans-unit id="431">
+      <trans-unit id="431" xml:space="preserve">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    当定居点设置为允许全新玩家立即加入时，会解锁一项特殊功能。新加入的玩家在首次开始游戏时，除了其他可能的起始位置外，还会在地图上看到该定居点，以及来自定居点的提示（在移民政策的“公告”部分中指定）。  当他们以这种方式进入游戏世界并来到你的定居点时，他们将自动成为居民，并从移民局对象旁边的指定位置开始。  利用这一功能是吸引新玩家加入你的定居点并发展社区的好方法。
+  </target>
       </trans-unit>
-      <trans-unit id="432">
+      <trans-unit id="432" xml:space="preserve">
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    一旦定居点被{创立|成立}，它就会开始在基础周围的半径范围内施加影响。  任何受其影响的土地都将受到其法律和公民行动的约束。
+  </target>
       </trans-unit>
-      <trans-unit id="433">
+      <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">文化产生影响力</target>
       </trans-unit>
-      <trans-unit id="434">
+      <trans-unit id="434" xml:space="preserve">
         <source xml:space="preserve">
     Influence can be extended with {Culture}. The higher the culture level of a property, the more influence it will cast for the owning settlement.  This allows you to expand your borders by increasing culture, or creating new cultural properties. There are limits, however, on the number of cultural properties and the max influence castable, so borders cannot be expanded indefinitely. Each level-up of settlement allows a farther range of influence to be cast, and more cultural properties to be created.
     
@@ -3674,31 +3799,43 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    影响力可以通过{文化}来扩展。一个属性的文化等级越高，它对所属聚落的影响力就越大。  这使您能够通过提升文化等级或创建新的文化属性来扩大聚落的边界。然而，文化属性的数量和可施加的最大影响力是有限制的，因此聚落边界不能无限扩大。聚落每升级一次，其影响力的范围就会扩大，并且可以创建更多的文化属性。
+    
+    影响力的投射基于房产中房间的平均位置，并根据其房产价值进行加权。  
+
+     {家园|家园认领对象}是单人拥有的财产，与其所有者身为公民的任何定居点相关联。如果所有者不是任何定居点的公民，那么该财产将不受任何定居点的影响。  当公民放弃其公民身份时，这可能会在城镇影响力上造成漏洞，然而，一个强大的定居点可以通过{吞并}过程强制收回该财产。
+  </target>
       </trans-unit>
-      <trans-unit id="435">
+      <trans-unit id="435" xml:space="preserve">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">多个定居点影响力</target>
       </trans-unit>
-      <trans-unit id="436">
+      <trans-unit id="436" xml:space="preserve">
         <source xml:space="preserve">
     Each settlement level (Town, Country, Federation) has its own map of influence, and only one settlement of each type may influence a given plot (IE, two Towns cannot influence the same plot).  However, if a settlement is a sub-settlement of another settlement, then that parent will also cast influence on the plot (IE, a Country's influence will be cast everywhere its member town's influences are cast).  In plots influenced by more than one settlement in this way, the governments of all settlement will apply.
     
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    每个定居点层级（城镇、国家、联邦）都有其各自的影响力地图，且每种类型的定居点中只有一个可以对给定的地块产生影响（即，两个城镇不能对同一块地块产生影响）。  然而，如果一个定居点是另一个定居点的子定居点，那么其父级也会对该地块产生影响（即，一个国家的影响力将覆盖其成员城镇影响力的所有范围）。  在以这种方式受到多个定居点影响的地块上，所有定居点的政府都将发挥作用。
+    
+    当两个同类型的聚落相互竞争影响力时，距离较近的一方会进一步侵入另一方的影响范围。  然而，任何已被认领的土地，即使原本会被对方聚落所包围，也会继续受到其影响。这甚至可能导致聚落的部分区域脱离并被其他聚落包围。
+</target>
       </trans-unit>
-      <trans-unit id="437">
+      <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">边境管制</target>
       </trans-unit>
-      <trans-unit id="438">
+      <trans-unit id="438" xml:space="preserve">
         <source xml:space="preserve">
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    在{移民服务台|移民服务台对象}上，定居点的领导者可以指定邻近的家园或定居点，这些家园或定居点可以在我们的影响范围内提出要求。如果邻居想要（或许是有偿地）获得原本受您定居点影响的土地，可以通过这种方式来实现。
+  </target>
       </trans-unit>
-      <trans-unit id="439">
+      <trans-unit id="439" xml:space="preserve">
         <source xml:space="preserve">
     A Property Crisis occurs when the number of Citizens in a settlement reduces such that there aren't enough Citizens to support the number of Claim Stakes and Claim Papers in use.
     
@@ -3713,13 +3850,26 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    当定居点中的居民数量减少到不足以支持正在使用的土地认领桩和土地认领文件数量时，就会发生地产危机。
+    
+    由于定居点会在市民加入时生成地权桩和地契，并在他们离开时移除这些地权桩和地契，因此当定居点基础对象上没有可移除的地权桩或地契时，市民离开可能会引发地产危机。  当这种情况发生时，会启动一个计时器，计时结束时，市民必须以任何方式归还定居点基础所需数量的地权桩和地契，无论是放弃还是收集。  在地产危机期间，如果将地权桩和地契放置在定居点基础中，它们将立即被移除，如果满足了短缺数量，危机将立即结束。
+
+    如果公民在计时器结束前无法或不愿归还所需的地权桩和地契，这些地权桩和地契将在原地被销毁。当地产危机解决时，将执行以下收回地产的操作：
+    - 首先，未被使用的认领和木桩（比如在公民的背包里）将被销毁。
+    - 如果赤字仍未得到弥补，那么正在使用的木桩/认领将被销毁。
+    在这两个步骤中，首先将销毁被遗弃的公民所拥有的认领。
+
+    定居点需谨慎管理其居民人口，以防止出现短缺，明智的做法是储备一些，不要立即使用，或在居民开始离开时进行调整。
+
+    进入废弃{人口统计}区域的居民也将不再增加生成的木桩和地契的数量，这同样可能导致地产危机。
+  </target>
       </trans-unit>
-      <trans-unit id="440">
+      <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">地产危机设置</target>
       </trans-unit>
-      <trans-unit id="441">
+      <trans-unit id="441" xml:space="preserve">
         <source xml:space="preserve">
     As more Citizens join a Settlement, more {Property} can be claimed, using Claim Stakes and Claim Papers associated with the settlement.
 
@@ -3727,19 +3877,25 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    随着越来越多的居民加入定居点，可以使用与定居点相关的申领权和申领文件来申领更多的{地产}。
+
+    该定居点将根据这些物品的等级生成，并附带{城镇认领桩物品}、{国家认领桩物品}、{联邦认领桩物品}等类型的所有权凭证。  这些凭证将以与其关联的定居点的名义主张地产，并且可以通过将它们放入所有权凭证的库存中，使用{认领文件物品}来升级，从而主张更多的地块。
+
+    如果居民离开，允许的最大认领文件和认领桩数量将会减少，并从定居点所有权凭证库存中移除。  如果它们全部在使用中且无法归还，则会发生{地产危机}。
+  </target>
       </trans-unit>
-      <trans-unit id="442">
+      <trans-unit id="442" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">定居点援助申请</target>
       </trans-unit>
-      <trans-unit id="443">
+      <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">定居点还会生成{定居点援助申请|定居点援助申请表}，这些权利可以赠予或出售给非公民。这些权利将允许没有与定居点关联的家园在地图上的任何地方申请更多地块。  通常，偏远孤立地区的农民若想拥有更大的农场，会从世界各地的城镇寻求这些权利（通过交易食物或劳动力）。它们代表了定居点对外部地产保护的支持。</target>
       </trans-unit>
-      <trans-unit id="444">
+      <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">定居点地产设定</target>
       </trans-unit>
     </body>
   </file>
