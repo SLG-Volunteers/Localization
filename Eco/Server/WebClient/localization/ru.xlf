@@ -106,9 +106,9 @@
         <source xml:space="preserve">Elected officials receive 15 property claims</source>
         <target xml:space="preserve">Выбранные на должность получают 15 квитанций землемера</target>
       </trans-unit>
-      <trans-unit id="27">
+      <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve">Когда казна будет построена, лидер сможет устанавливать налоги (функция в разработке); they can set taxes (feature in progress)</target>
+        <target xml:space="preserve" state="translated">Когда Казна будет построена, лидер сможет устанавливать налоги (функция в разработке)</target>
       </trans-unit>
       <trans-unit id="28">
         <source xml:space="preserve">This election uses</source>
@@ -174,9 +174,9 @@
         <source xml:space="preserve">Cancel</source>
         <target xml:space="preserve">Отмена</target>
       </trans-unit>
-      <trans-unit id="44">
+      <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target xml:space="preserve">Новые выборы начнутся когда вы станете кандидатом; you must add yourself as a candidate</target>
+        <target xml:space="preserve" state="translated">Что бы начать новое голосование нужно стать кандидатом</target>
       </trans-unit>
       <trans-unit id="45">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -698,17 +698,17 @@
         <source xml:space="preserve">There have been no elections yet</source>
         <target xml:space="preserve" state="translated">Голосований сейчас нет</target>
       </trans-unit>
-      <trans-unit id="182">
+      <trans-unit id="182" xml:space="preserve">
         <source xml:space="preserve">To start a new election</source>
-        <target xml:space="preserve">Новые выборы начнутся когда вы станете кандидатом</target>
+        <target xml:space="preserve" state="translated">Что бы начать новое голосование</target>
       </trans-unit>
       <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">TwitchVotes</target>
+        <target xml:space="preserve" state="translated">Twitch голоса</target>
       </trans-unit>
       <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Голоса пользователей</target>
+        <target xml:space="preserve" state="translated">Голоса пользователей</target>
       </trans-unit>
       <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
