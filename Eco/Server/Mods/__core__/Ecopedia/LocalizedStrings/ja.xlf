@@ -844,14 +844,14 @@ Inventory can be moved between containers by dragging stacks of items from one c
 - Holding 'Alt' while clicking a stack of items will move one of that item to/from the open storage container.
 - Holding 'Ctrl' + 'Alt' while clicking a stack of items will move all items of that type to/from the open storage container.
   </source>
-        <target xml:space="preserve" state="needs-translation">
-Inventory can be moved between containers by dragging stacks of items from one container to another. Simply clicking on an item stack will instantly move it to and from the open storage container. A quick reference for the advanced hotkeys explained below can be found at the bottom of an item's tooltip when viewing it from a storage container:
+        <target xml:space="preserve" state="translated">
+インベントリ内のアイテムは、スタックをドラッグしてコンテナからコンテナへ移動できます。単にアイテムをクリックすると、スタックは空いているストレージのどこかに移動します。以下は高度なホットキーのクイックリファレンスですが、ストレージ画面のアイテムツールチップでも同じものを見ることができます。
 
-- Holding 'Shift' while dragging items between containers will move all stacks of that same item.
-- Holding 'Shift' while clicking a stack of items will allow dividing the stack into smaller quantities.
-- Holding ‘Ctrl’ while clicking a stack of items will move half of the stack to/from the open storage container.
-- Holding 'Alt' while clicking a stack of items will move one of that item to/from the open storage container.
-- Holding 'Ctrl' + 'Alt' while clicking a stack of items will move all items of that type to/from the open storage container.
+- Shiftを押しながらアイテムをドラッグ：同じ種類のスタックをすべて移動
+- Shiftを押しながらスタックをクリック：スタックを分割
+- Ctrlを押しながらスタックをクリック：スタックの半分を空きストレージへ移動
+- Altを押しながらスタックをクリック：アイテムを1個だけ移動
+- Ctrl+Altを押しながらスタックをクリック：その種類のアイテムをすべて移動
   </target>
       </trans-unit>
       <trans-unit id="109" xml:space="preserve">
@@ -1366,10 +1366,10 @@ As citizens burn fuel to cook or generate power, smelt metals, process sewage, a
 
 To ensure the survival of ecosystems and preserve resources like soil and water, players will have to manage and contain the sources of pollution their civilization creates. In some cases, spills or deadly concentrations will be inevitable, and then remediation and storage may be the only option to return the land to an unharmed state. 
 </source>
-        <target xml:space="preserve" state="needs-translation">
-As citizens burn fuel to cook or generate power, smelt metals, process sewage, and engage in countless other necessary industrial activities, a common byproduct is pollution. Pollution is any substance that can act as a contaminant or poison when introduced back into the environment. In Eco there are many sources and several varieties of pollution, some of which are more potent than others. Heavy metals can contaminate soil, affecting available nutrients and the health of plants and animals living on and in it. Water can spread contaminants rapidly and increase the size of their impact. Air pollution can pour invisibly or visibly from a stove or a power plant, adding to greenhouse gasses and impacting the air quality, as well as fall back down into the ground as acid rain. 
+        <target xml:space="preserve" state="translated">
+調理や発電のために燃料を燃やす、金属の精錬、下水処理その他様々な産業活動を行うと、その副産物として公害が発生します。公害とは、環境に戻されたときに汚染物質や毒物として作用しうるあらゆる物質のことです。Ecoには多くの汚染源があり、汚染にもいくつかの種類が存在し、その中には特に強力なものもあります。重金属は土壌を汚染し、栄養分の利用可能性や、土壌の上や中で生きる動植物の健康に影響を与えます。水は汚染物質を急速に拡散させ、その影響範囲を広げます。大気汚染はストーブや発電所から目に見えない形で放出され、温室効果ガスを増加させ、大気の質を悪化させます。また、酸性雨となって地表に降り注ぐこともあります。
 
-To ensure the survival of ecosystems and preserve resources like soil and water, players will have to manage and contain the sources of pollution their civilization creates. In some cases, spills or deadly concentrations will be inevitable, and then remediation and storage may be the only option to return the land to an unharmed state. 
+生態系を守り、土壌や水といった資源を守るために、プレイヤーは自分たちの文明が生み出す汚染源を管理・保管する必要があります。時には危険な濃度の汚染や流出が避けられないこともありますが、その時は浄化（リメディエーション）や安全な保管をすることが、土地を元の健全な状態に戻す唯一の手段となります。 
 </target>
       </trans-unit>
       <trans-unit id="168" xml:space="preserve">
@@ -1935,18 +1935,23 @@ Some room types have their value capped relative to the primary rooms of the hou
 Room Material Quality
 The average tier of the room material will also determine your housing value, by setting a soft cap.  Once your room value has exceeded the soft cap for the room, then you will get diminishing returns for additional housing points.  When this happens, it may be time to renovate the materials of the room.
 </source>
-        <target xml:space="preserve" state="translated">部屋は、外界への穴がすべて壁、ドア、窓で埋められている、雨風から保護された密閉されたエリアです。
+        <target xml:space="preserve" state="translated">部屋は、外界への穴がすべて壁、ドア、窓で塞がれ、雨風から保護された密閉空間です。
 
-部屋の情報が記載されているパネル内にいるときに、画面の右側にあるパネルで部屋の詳細を確認できます。 多くのタイプのオブジェクトには部屋要件があり、部屋のスペースを占有し、部屋の材質が特定の品質であることが必要です。 住宅の価値は部屋の材質の質にも影響されます。 これは、たとえばレンガの家は、土のあばら家よりもはるかに多くの利益をもたらすことを意味します。
+部屋の中にいるとき、画面右側のパネルでその部屋の詳細情報を見ることができます。多くのオブジェクトには「部屋要件」があり、部屋のスペースを占有し、部屋の材質が特定の品質であることを求めます。住宅価値（Housing Value）も部屋の材質の品質に影響されます。つまり、たとえばレンガ造りの家は、土の小屋よりもはるかに高い価値を提供します。
 
 
-家具と部屋のタイプ
-土地を主張し、そこに部屋を建てることで、追加の経験を獲得し始めます。これはオフラインでも持続します。 部屋の種類やそれらの部屋の家具を追加すると、さらに増加します。 各タイプの家具は、バスルーム、ベッドルーム、キッチン、または一般 (アイテムのツールチップに表示されます) といった部屋の種類に関連付けられています。 部屋のタイプは、家具の貢献度が最も高いカテゴリによって決定されます。 各部屋の価値は、その部屋にあるすべての家具を合計することによって計算されます。
+家具と部屋タイプ
+土地をクレームし、その上に部屋を建てることで追加の経験値を得られます（オフラインでも継続）。さらに、部屋の種類や家具を追加することで経験値は増加します。家具にはカテゴリがあり、部屋タイプは「最も多くの家具価値を占めるカテゴリ」によって決まります。部屋の価値は、その部屋に置かれたすべての家具の合計で算出されます。
 
-部屋の中で同じ家具を複数置いたり、家の中で同じタイプの部屋を複数作成すると、利益は現象します。 つまり、住宅ポイントを獲得できますが、最初のポイントほど多くはありません。 最終的にはポイントの増加はごくわずかになり、そのタイプの家具や部屋を家にこれ以上追加する価値はなくなります。 たとえば、12 番目のバスルームは、最初のバスルームよりも家に付加される価値がはるかに低くなります。
+同じ家具を複数置いたり、同じ部屋タイプを家に複数作っても、効果は逓減します。つまり、ポイントは得られますが、最初ほど多くはありません。最終的にはほぼ無価値になり、それ以上追加しても意味がなくなります。たとえば「12 個目のバスルーム」は「最初のバスルーム」よりはるかに価値が低くなります。物件の種類によってサポートできる部屋タイプは異なります。例：「Residence」では Bedroom が有効だが、Cultural では無効。Bathroom はどちらでも有効
 
-部屋の材質の品質
-ソフトキャップを設定することで、部屋の材質の平均層も住宅の価値を決定します。 部屋の価値がその部屋のソフトキャップを超えると、追加の住宅ポイントの収益は現象していきます。 このような場合は、部屋の材質をリニューアルする必要があるかもしれません。
+また、部屋カテゴリによっては他カテゴリの家具がサポートとして価値を与えることがあります（例：文化系家具がリビングの価値を補助）。ただし、この補助価値には上限があり、主要家具の一定割合までしか加算されません。（例：トイレがないバスルームでは、どれだけ装飾を置いても価値はつかない）
+
+一部の家具は「サポート専用カテゴリ」であり、それ自体を部屋タイプにすることはできません。例：装飾家具はどの部屋もサポートできるが、それ自体が部屋カテゴリにはならない。
+部屋タイプによっては、家の主要部屋に対する価値上限が設定されています。例：バスルームはデフォルトで「主要部屋の 33%」が上限。（つまり、巨大なバスルームだけの家は価値ゼロだが、他の部屋があれば価値が出る）
+
+部屋の材質品質
+部屋の材質の平均ティアは「ソフトキャップ」として住宅価値に影響します。部屋の価値がソフトキャップを超えると、追加ポイントは逓減します。この状態になったら、部屋の材質をリフォームするタイミングかもしれません。
 </target>
       </trans-unit>
       <trans-unit id="228" xml:space="preserve">
@@ -3107,21 +3112,23 @@ Available properties for rent can be found in the {Economy Viewer}. Once accepte
     TBD
   </target>
       </trans-unit>
-      <trans-unit id="355">
+      <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">整理とフィルター</target>
       </trans-unit>
-      <trans-unit id="356">
+      <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+同じ種類のアイテムスタックは、ストレージコンポーネント右下にある 「整理」ボタン を押すことで、すばやく整理・ソートできます。さらに、ストレージ内の表示を特定のアイテムだけに絞り込むこともできます。アイテムセレクターを使うか、アイテム名を入力とフィルタリングできます。
+  </target>
       </trans-unit>
-      <trans-unit id="357">
+      <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">異なる能力や異なる資材を有する市民同士の取引が経済の根幹を成しています。</target>
       </trans-unit>
-      <trans-unit id="358">
+      <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
 
  - Trades can be setup at a {Store Component}, listing buy/sell prices for the different goods you would like.  Citizens can then buy and sell goods to you asynchronously, without being present.
@@ -3130,21 +3137,32 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Eco では、市民同士の取引がとても重要です。各プレイヤーはそれぞれ異なる{Specialties}を持っており、自分が最も効率よく貢献できる分野で働き、他の専門職を持つ市民と取引することで文明を発展させていきます。
+
+ - 取引は{Store Component}で設定でき、購入価格・販売価格を好きなように指定できます。市民はその場にいなくても、非同期で商品を売買できます。
+ - 労働の取引は{Contracts}や{Work Parties}を通じて行われ、合意した条件のもとで作業を行い、報酬を受け取れます。これも非同期で実行できます。
+ - 通貨の取引は{Currency Exchange|Exchange Component}で行われ、異なる通貨の交換レート（買値・売値）を設定できます。
+ - 取引は{Transport}によって支えられており、文明の各拠点を結ぶ輸送インフラを整備することで、取引の利便性が大きく向上します。
+ - 取引には{Taxes}が適用され、これは{Government|Government Overview}によって設定されます。税率によって、特定の取引が促進されたり、逆に価値が下がったりします。
+</target>
       </trans-unit>
-      <trans-unit id="359">
+      <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">差止命令</target>
       </trans-unit>
-      <trans-unit id="360">
+      <trans-unit id="360" xml:space="preserve">
         <source xml:space="preserve">
     Injunctions, which can be created on a {LargeCourtItem}, have the ability to block laws on a lesser court. Each injunction states a list of triggers and legal actions that will be blocked in a defined set of child settlements (or all, if left blank). This can be used by countries to block laws that a town have passed, for example.  
     
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    差止命令（Injunctions）は{LargeCourtItem}で作成でき、下位の裁判所が制定した法律を無効化する力を持っています。各差止命令には、発動条件（トリガー）と無効化される法的行為の一覧が記されており、どの傘下自治体に適用するかを指定できます（空欄の場合はすべての傘下自治体に適用）。これは、たとえば国が特定の町が制定した法律を無効化するといった用途に使われます。
+
+    差止命令を作成できる権限は非常に強力であり、国や連邦を形成する際には慎重に検討すべき要素です。差止命令が傘下自治体の政府運営に大きな影響を与える可能性があるためです。どの役職が差止命令の追加・変更を行えるかは、自治体の憲法によって定義できます。複数の町が集まって国を形成する際には、差止命令の扱いについて町の代表者同士で十分に議論することが重要です。
+  </target>
       </trans-unit>
-      <trans-unit id="361">
+      <trans-unit id="361" xml:space="preserve">
         <source xml:space="preserve">
 As the number of occupants increases, the occupancy penalty increases.  At small numbers of occupants (1 or 2), there is virtually no penalty, and citizens can effectively cohabitate this way and share in the benefit of a well-stocked house.  As the occupants increases beyond that (5 and above), the penalty becomes more steep, eventually topping out at 99% when the house is too overcrowded.
 
@@ -3152,13 +3170,19 @@ However, the 'diminishing returns' rate of rooms is favorably affected by occupa
   
 To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+居住者の人数が増えるほど、居住ペナルティ（Occupancy Penalty）は大きくなります。1〜2人程度の少人数であれば、ペナルティはほとんどなく、よく整えられた家の恩恵を複数人で共有できます。しかし、居住者が 5人以上になるとペナルティは急激に増加し、家が過密状態になると最終的には最大 99%に達します。
+
+一方で、部屋の「収益逓減（diminishing returns）」は居住人数によって緩和されます（例：一人暮らしでバスルームが3つあっても過剰だが、ルームメイトがいれば有効になる。）つまり、家を大きく建てることでペナルティを相殺でき、重複した部屋は逆に居住ボーナスに有利に働くということです。
+
+物件の居住者になるには、物件名をクリックしてください（物件名は物件の中にいるときにステータスパネルで確認できます）そこで（権利書を所有している場合は）居住者になったり、他の市民を招待することもできます。招待された市民は、同じ画面から居住者として参加できます。さらに、役職（Titles）や属性（Demographics）を指定してグループを招待することも可能で、新規プレイヤーなど特定の市民層向けの住宅を作ることもできます。また、最大居住人数（Max Occupants）を設定することで、大人数を招待した場合でも過密状態にならないよう管理することができます。
+</target>
       </trans-unit>
-      <trans-unit id="362">
+      <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落（Settlements） とは、人々、あるいは他の集落によって構成される組織です。それらは社会の構造であり、社会を形づくる仕組みそのものです。</target>
       </trans-unit>
-      <trans-unit id="363">
+      <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
     A settlement with sufficiently more culture than a neighboring settlement can annex it, merging it into itself, if requirements are met.
 
@@ -3166,13 +3190,19 @@ To become a resident of a property, click the name of the property (visible on t
 
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    十分に高い文化力を持つ集落は、隣接する集落に対して条件を満たした場合、併合（Annex）することができます。併合されるとその集落は併合元の集落に統合されます。
+
+隣接する同種の集落同士では、互いの影響範囲（Influence Range）が押し合うことがあります。このとき、文化力の高い集落はより遠くまで影響範囲を押し広げます。文化力の差が大きくなりすぎると、最終的には一方の集落がもう一方を完全に支配し、併合できる状態になります。
+
+併合は、全体の方針に従わず暴走している集落（rogue settlement）に法律を適用させるための重要な手段となることがあります。併合が行われると、その集落の法律はすべて無効化され、併合した側の集落が新たな法律を制定できるようになります。
+  </target>
       </trans-unit>
-      <trans-unit id="364">
+      <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">必要条件</target>
       </trans-unit>
-      <trans-unit id="365">
+      <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
     The requirements that must be met before one settlement can annex another are:
 
@@ -3188,13 +3218,27 @@ To become a resident of a property, click the name of the property (visible on t
 
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    集落を併合するために満たすべき条件
+
+    上位ティアの集落であること。併合を行う集落は、対象となる集落よりも 上位ティアでなければなりません。ただし、最上位ティアである連邦（Federations）のみ、同じティアの集落を併合できます。
+
+    市民数の要件（Citizen Requirement）併合を行う集落は、対象集落の市民数に対して一定割合以上の市民を保有している必要があります。
+
+    周囲の影響力要件（Surrounding Influence Requirement）併合を行う集落は、対象集落の影響力境界（influence-border）を取り囲むように、自分の影響力を持つ区画（plots）を確保していなければなりません。一定の閾値を超えるとこの要件は満たされますが、さらに多くの区画で囲むほど、次の「カルチャー」要件の倍率（multiplier）が上昇します。
+
+    カルチャー要件（Culture Requirement）併合を行う集落は、対象集落よりも文化力が2つの基準で上回っている必要があります。カルチャーが一定割合以上高く、かつ一定の絶対値以上高いこと。これは、文化力の低い小規模集落が簡単に併合されすぎないようにするための仕組みです。文化力の増やし方は {Culture} ページ に記載されています。
+
+    資源コスト（Resource Cost）併合には、物理的なコストとなるアイテムのセット が必要です。このうち一部は、対象集落の放棄されていない市民に分配され、残りは失われます（そのため、強制併合よりも合意形成のほうが常に安上がりです）。併合に必要な資源は、併合を行う集落の管轄内にある 大使館デスク（embassy desk） にリンクされている必要があり、そのストレージには集落のリーダーがアクセスできなければなりません。
+
+集落の種類（ティア）は非常に重要です。集落は下位ティアの集落のみ併合可能です。（例：町は国を併合できない）上位ティアの集落が下位ティア の集落を併合する場合（例：国が隣接する町を併合する場合）は、より緩い条件が適用され、併合が容易になります。
+  </target>
       </trans-unit>
-      <trans-unit id="366">
+      <trans-unit id="366" xml:space="preserve">
         <source xml:space="preserve">Performing the Annex</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">併合の実行</target>
       </trans-unit>
-      <trans-unit id="367">
+      <trans-unit id="367" xml:space="preserve">
         <source xml:space="preserve">
     Once both these are met, the leader of the settlement can perform the annex at anytime on an {EmbassyDeskItem} associated with the annexing settlement.
     
@@ -3204,23 +3248,33 @@ Note that the type of settlement matters: a settlement can only annex other sett
     
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    両方の要件が満たされると、併合を行う集落のリーダーは、その集落に属する{EmbassyDeskItem}から、いつでも併合を実行できるようになります。
+    
+    併合が実行されると、同じティアの集落同士の場合、対象の集落は削除され、すべての市民が新しい集落へ移動します。
+    異なるティアの集落の場合、対象の集落は現在所属している上位集落から外され、併合を行う集落の傘下の集落として追加されます。
+    どちらの場合でも、対象集落が持っていたすべての法律や市民関連オブジェクトは無効化され、草案（Draft）状態に戻されます。
+    
+    一度併合された集落は、「Secede Settlement（離脱）」を実行できなくなり、親集落が解除するまでロックされた状態になります。 
+  </target>
       </trans-unit>
-      <trans-unit id="368">
+      <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">併合設定</target>
       </trans-unit>
-      <trans-unit id="377">
+      <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    ディナーパーティーに参加すると、あなたの集落に文化力が生まれ、さらに栄養に関するスキルボーナスも得られます。市民同士が食事を共にすることでつながりを生み、世界全体の文化生成量を高める貴重な手段となります。
+  </target>
       </trans-unit>
-      <trans-unit id="378">
+      <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">必要条件</target>
       </trans-unit>
-      <trans-unit id="379">
+      <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
       A dinner party will be triggered when valid food is eaten at a location. The requirements are:
       - Dining while seated at a table.  Citizens must be seated, and eat food directly from the table (without picking it up into your inventory).
@@ -3230,24 +3284,35 @@ Note that the type of settlement matters: a settlement can only annex other sett
       - Claimed land. Dinner party must be taking place on claimed property.
       - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
     </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+      ディナーパーティーは、条件を満たした食事が特定の場所で食べられたときに発生します。発動条件は以下のとおりです。
+テーブルに着席して食事すること。市民は椅子に座っている必要があり、食べ物はインベントリに拾わずテーブルから直接食べる必要があります。
+新鮮な食べ物であること。ディナーパーティーに使用できるのは新鮮な食品のみです。
+1日あたりの最大開催回数。1人につき1日に発生できるディナーパーティーの数には制限があります（デフォルトでは1回）。
+同じ料理の繰り返し禁止。ディナーパーティーは複数コース（最大数あり）で構成できますが、同じ料理を同じプレイヤーに繰り返し提供することはできません。
+土地がクレームされていること。ディナーパーティーは所有権のある土地で行われる必要があります。
+空腹で来ること！食べられるコース数（下記の最大値まで）は、胃の空き容量によって決まります。
+    </target>
       </trans-unit>
-      <trans-unit id="380">
+      <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">鮮度</target>
       </trans-unit>
-      <trans-unit id="381">
+      <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
   Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
   Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+  レシピで作られた料理は、調理された瞬間から一定時間（下記の設定で定義）だけディナーパーティーに適した「新鮮な状態」を保ちます。そのため、ディナーパーティーを行うには、シェフがリアルタイムで料理を準備する必要があります。
+一方で、生の食材（Raw Food）はもっと古くてもディナーパーティーの条件を満たすことができます。テーブルに置かれた食べ物には新鮮さが視覚的に表示され、蒸気や特別なエフェクト が出ているものは特に新鮮であることを示します。食べ物にカーソルを合わせると、新鮮さが残り何分か を確認できます。
+</target>
       </trans-unit>
-      <trans-unit id="382">
+      <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">ボーナス</target>
       </trans-unit>
-      <trans-unit id="383">
+      <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
     The value of the dinner party can be increased by following these guidelines:
     - More guests. The more guests involved in the party, the higher the potential bonus.
@@ -3256,69 +3321,88 @@ Note that the type of settlement matters: a settlement can only annex other sett
     - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
     - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    ディナーパーティーの価値は、以下のガイドラインに従うことでさらに高めることができます。
+より多くのゲストを招くこと。参加者が多いほど、得られる潜在的なボーナスは大きくなります。
+複数の集落からの参加者を集めること。無所属の市民だけ、または単一の集落の市民だけで食事をしても文化力はほとんど生まれません。大きな ディナーパーティーボーナスを得るには、複数の集落から市民が参加する必要があります。
+平均栄養価（Average Nutrition）食事の平均栄養価は、下記の倍率（multiplier）によって文化ポイントに変換されます。
+より美味しい料理を提供すること。各コースの価値は、市民ごとの味覚ボーナス（Taste Bonus）によって決まります。その市民が「美味しい」と感じるほど、より大きなボーナスが得られます。
+より良い会場（Nicer venue）ディナーパーティーが開催される土地の物件価値（Property Value）が、得られる最大ボーナスを決定します。
+  </target>
       </trans-unit>
-      <trans-unit id="384">
+      <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">効果</target>
       </trans-unit>
-      <trans-unit id="385">
+      <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
  - Personal Nutrition Bonus Your nutrition multiplier will be increased based on the dinner parties you've recently attended.
  - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
  - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+ 個人栄養ボーナス（Personal Nutrition Bonus）最近参加したディナーパーティーに応じて、あなたの 栄養倍率（Nutrition Multiplier）が上昇します。
+集落文化ボーナス（Settlement Culture Bonus）集落の土地で開催されたディナーパーティーに基づき、その集落は 文化力（Culture）を獲得します。
+集落影響力ボーナス（Settlement Influence Bonus）ディナーパーティーが 「文化（Cultural）」タイプの土地で開催された場合、そのパーティーで得られた文化値が 集落全体の文化値に加算され、結果として影響力（Influence）が増加します。
+</target>
       </trans-unit>
-      <trans-unit id="386">
+      <trans-unit id="386" xml:space="preserve">
         <source xml:space="preserve">
 Dinner parties will decay in value overtime, until reaching zero, after which they are removed from bonuses. You can see the active Dinner Party bonuses you have by looking at the nutrition tooltip.
 
 Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+ディナーパーティーの価値は 時間の経過とともに減少し、最終的に0になると、そのパーティーはボーナス一覧から削除されます。現在有効なディナーパーティーボーナスは、栄養ツールチップで確認できます。
+
+ディナーパーティーは、ホストが 「Finish」をクリックしたとき、設定された 制限時間 に達したとき、参加者全員が満腹でこれ以上食べられなくなったときのいずれかで終了します。
+</target>
       </trans-unit>
-      <trans-unit id="387">
+      <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">ディナーパーティー設定</target>
       </trans-unit>
-      <trans-unit id="406">
+      <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落（Settlements） とは、市民たちが 合意されたルールのもとに結束して形成する共同体 です。</target>
       </trans-unit>
-      <trans-unit id="407">
+      <trans-unit id="407" xml:space="preserve">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
     -Arnold J. Toynbee
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">「文明とは“状態”ではなく“運動”であり、港ではなく“航海”である。」  
+    - アーノルド・J・トインビー
+  </target>
       </trans-unit>
-      <trans-unit id="408">
+      <trans-unit id="408" xml:space="preserve">
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    集落（Settlement）は、市民たちが集まり、その地域の {Influence} 内で政府を樹立するために形成される共同体です。
+  </target>
       </trans-unit>
-      <trans-unit id="409">
+      <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落には３つのレベルがあります：</target>
       </trans-unit>
-      <trans-unit id="410">
+      <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">町（Towns）は市民（Citizens）の集合体です。</target>
       </trans-unit>
-      <trans-unit id="411">
+      <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">国（Countries）は町（Towns）と市民（Citizens）の共同体です。</target>
       </trans-unit>
-      <trans-unit id="412">
+      <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">連邦（Federations） は、複数の国（Countries）、町（Towns）、そして市民（Citizens）からなる共同体 です。</target>
       </trans-unit>
-      <trans-unit id="413">
+      <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落のコンセプト</target>
       </trans-unit>
-      <trans-unit id="414">
+      <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
     - {Founding} - Multiple citizens can join together to found a new settlement.
     - {Citizenship} - Citizens may be granted special rights and privileges, and being a citizen of a settlement increases its power.
@@ -3328,9 +3412,17 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    {Founding}（建国）- 複数の市民が協力して、新しい集落を設立できます。
+{Citizenship}（市民権）- 市民には特別な権利や特典を与えることができ、その集落の市民が増えるほど、集落の力も強まります。
+{Influence}（影響力）- 集落は特定の建物を中心に半径状の影響範囲を持ち、その範囲内では法律や土地ルールが適用されます。
+{Settlement Property}（集落の所有地）- 集落の市民が多いほど、より多くの土地をクレームできます。
+{Culture}（文化）- 文化は、隣接する集落へ影響力を及ぼす力となり、条件が整えば併合（Annexation）につながることがあります。
+{Annexation}（併合）- 集落は、文化レベルが十分に高ければ、他の集落やホームステッドを併合できます。
+{Property Crisis}（所有地危機）- 集落が市民を失うと、すでにクレームしている土地を維持できなくなる可能性があります。
+  </target>
       </trans-unit>
-      <trans-unit id="415">
+      <trans-unit id="415" xml:space="preserve">
         <source xml:space="preserve">
     Citizenship is membership in a settlement that provides civic powers. The more citizens a settlement has, the more {Settlement Property} it can claim.
 
@@ -3338,66 +3430,85 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    市民権（Citizenship） とは、集落に所属し、そこでの市民的な権限を得ることを指します。集落に所属する市民が多いほど、その集落がクレームできる {Settlement Property}（集落の所有地） も増えます。
+
+各集落は、基礎オブジェクト（foundation object）の{CitizenRosterComponent} タブから、市民として登録する個人を指定できます。また、市民でないプレイヤーもここから市民権を申請でき、その申請は {Immigration Policy}（移民ポリシー）の設定で指定された承認者（デフォルトでは集落リーダー）が承認する必要があります。さらに、下位集落（サブセットルメント）の市民は、自動的に親集落の市民にもなります。（例：国（Country）に属するすべての町（Town）の市民は、その国の市民でもある。）
+
+既にホームステッドを持っているプレイヤーは、{HomesteadSupportClaimPaperItem}を利用することで、自分のホームステッドにその集落のクレームペーパーを同数だけ預けるだけで、シームレスにその集落へ参加できます。
+  </target>
       </trans-unit>
-      <trans-unit id="416">
+      <trans-unit id="416" xml:space="preserve">
         <source xml:space="preserve">Citizenship Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">市民権の設定</target>
       </trans-unit>
-      <trans-unit id="417">
+      <trans-unit id="417" xml:space="preserve">
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    文化（Culture） は、市民が次のような活動を行うことで生み出されます。創造的な作品を制作すること、歴史的な遺物を発見すること（近日実装）、イベントや祭りを開催すること（近日実装）、集落（Settlement）を建国すること。文化は常に 特定の集落に紐づけられ、その集落が持つ文化量が多いほど、その集落の {Influence}（影響範囲）はより遠くまで広がります。
+  </target>
       </trans-unit>
-      <trans-unit id="418">
+      <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落の設立によって生み出される文化（Culture）</target>
       </trans-unit>
-      <trans-unit id="419">
+      <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落を設立するとその所有地に対して一定量の文化（Culture）を自動的に生成します。この量は固定で、集落が持つ影響力（Influence）の土台となります。これをさらに拡大したり、他の所有地から文化を得たりするためには、追加の文化生成源を利用する必要があります。</target>
       </trans-unit>
-      <trans-unit id="420">
+      <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">アートワークによるカルチャー</target>
       </trans-unit>
-      <trans-unit id="421">
+      <trans-unit id="421" xml:space="preserve">
         <source xml:space="preserve">
     When Citizens use an {EaselItem} a {HandheldCameraItem} or {TripodCameraItem} to create a picture, these pictures can be displayed in a frame on the wall to give Culture points to the property. The amount of culture depends on the reputation of both the picture and artist, and viewers will be prompted to rate the images they view to give them additional reputation. As these values go up, more culture is generated, up to a limit.  The culture bonus from Citizens in the same settlement, however, is reduced by 90%, so that the majority of value comes from other Citizens of other settlements spreading the reputation of the work. This makes it advantageous to gain reputation in a given settlement, but then sell or transfer it to another settlement, where it will have much more value due to originating from a different place.
 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    市民が {EaselItem}（イーゼル）、{HandheldCameraItem}（ハンドカメラ）、{TripodCameraItem}（三脚カメラ）を使って写真を撮影すると、その写真を壁のフレームに飾ることで、その土地に文化ポイント（Culture）を付与できます。生成される文化量は、作品そのものの評判（Reputation）と作者の評判の両方に依存します。写真を見たプレイヤーには評価（Rating）が促され、その評価によって作品と作者の評判がさらに上昇します。これらの値が上がるほど文化も増えますが、上限があります。ただし、同じ集落の市民による文化ボーナスは 90% 減少します。これは、作品の評判が「他の集落の市民によって広まる」ことに価値を置くためです。そのため、ある集落で評判を高めた作品を、別の集落に売却・移転すると、より高い価値を発揮する仕組みになっています。
+
+また、1 つのギャラリー内で同じ作者の作品を多数展示すると、全体としての文化価値は逓減（diminishing returns）します。これを避けるには、複数のアーティストの作品を展示すると効果的です。
+  </target>
       </trans-unit>
-      <trans-unit id="422">
+      <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">カルチャー設定</target>
       </trans-unit>
-      <trans-unit id="423">
+      <trans-unit id="423" xml:space="preserve">
         <source xml:space="preserve">
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    新しい集落（Settlement）を始める最初のステップは、基礎オブジェクト（Foundation Object）を設置することです。使用できる基礎オブジェクトは以下の3種類です。{TownFoundationItem}（タウン基礎）、{CountryFoundationItem}（カントリー基礎）、{FederationFoundationItem}（フェデレーション基礎）これらの基礎を設置すると、未設立状態の新しい集落 が開始されます。その後、すべての要件が満たされると、建国式（Founding Ceremony）を実行できるようになります。
+</target>
       </trans-unit>
-      <trans-unit id="424">
+      <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">設立の条件</target>
       </trans-unit>
-      <trans-unit id="425">
+      <trans-unit id="425" xml:space="preserve">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
 
     When placed, the plot beneath it will be claimed as property of this new settlement, with ownership assigned to the leader.  More plots can be claimed using the {ClaimToolItem} (right-click the item to select the settlement deed as the target).  This will allow you to claim land around the foundation and build a room that meets the requirements.
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">基礎オブジェクトを設置した市民は、その町の初代リーダーとなり、いくつかの特別な権限を与えられます。ただし、この役職は政府のルールによって時間とともに変わる場合があります。
+
+設置すると、その直下の区画は新しい集落の所有地としてクレームされ、所有者はリーダーに設定されます。さらに土地をクレームしたい場合は {ClaimToolItem} を使用します（右クリックして対象の集落デードを選択）。これにより、基礎の周囲の土地を取得し、要件を満たす部屋を建築できるようになります。
+
+集落を設立するには、最低人数の市民、最低数の下位集落（例：国を作るには一定数の町が必要）、そしてすべての下位集落における最低文化レベルが必要です。最下位の集落である Town には文化や下位集落の要件はありません（Town は下位集落を持てないため）。基礎オブジェクトの「Citizens」タブでは、リーダーが市民を招待したり、申請者を承認できます。また、市民でないプレイヤーは招待を受けたり、市民権を申請できます。
+</target>
       </trans-unit>
-      <trans-unit id="426">
+      <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">憲法の批准</target>
       </trans-unit>
-      <trans-unit id="427">
+      <trans-unit id="427" xml:space="preserve">
         <source xml:space="preserve">
     Once all the requirements are met, the election to ratify the settlement {Constitution} can begin.  On the Constitution tab, you can configure the constitution however you like, designing your government as you see fit (see Constitution guide). Once you click to start the voting, all current citizens of the settlement will be allowed to vote on it.  If it fails, you can make alterations and try again.
 
@@ -3407,13 +3518,21 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    すべての要件が満たされると、集落の{Constitution}（憲法）を批准するための選挙を開始できます。Constitutionタブでは、憲法を自由に設定でき、望む形の政府を設計できます（憲法ガイド参照）。投票開始をクリックすると、現在のすべての市民が投票できるようになります。否決された場合は、修正して再度試すことができます。
+
+必要であれば、集落の建国時に他の市民要素を追加することもできます。例えば、最初の集落の所有地に裁判所を設置することで、その集落に関連する法律を作成でき、憲法批准と同じ選挙に含めることができます。この方法を使えば、任意の数の市民オブジェクトを1つの選挙にまとめることができ、より完成された政府を最初から構築できます。そうしない場合でも、追加の選挙で後から追加できます。
+
+すべての要件が満たされ、憲法が批准されると、集落は建国の準備が整います！Foundation オブジェクトのFoundationタブにあるボタンをクリックすると、建国式（Reveal Ceremony）が開始され、市民全員が参加して新しい集落の誕生を祝えます。
+
+建国されると、集落は {Influence}を発し、{Settlement Property}を生成し、{Culture} を受け取るようになります。
+  </target>
       </trans-unit>
-      <trans-unit id="428">
+      <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落設立設定</target>
       </trans-unit>
-      <trans-unit id="429">
+      <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
     A settlement can have its rules about new Citizens defined in an {Immigration Policy}.
 
@@ -3421,29 +3540,39 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    集落は、新しい市民に関するルールを {Immigration Policy}（移民ポリシー）で定義できます。
+
+すべての集落には、必ず 1 つの移民ポリシーが関連付けられています。これは集落内に埋め込まれたオブジェクトとして始まり、デフォルト設定ではリーダーが新しい市民を承認できるようになっており、集落のツールチップにも表示されます。{ImmigrationDeskItem} がその集落の影響範囲内に設置されると、このポリシーを編集できるようになります。
+
+集落の市民であり続けるために満たすべき、または維持すべき要件を設定できます。市民が新たに市民になる場合も、既存の市民として留まる場合も、加入する集落およびそのすべての親集落におけるこれらの要件を満たす必要があります。
+  </target>
       </trans-unit>
-      <trans-unit id="430">
+      <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落の広告</target>
       </trans-unit>
-      <trans-unit id="431">
+      <trans-unit id="431" xml:space="preserve">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    集落が「新規プレイヤーの即時参加を許可する」設定になっている場合、特別な機能が解放されます。新しく参加するプレイヤーは、ゲーム開始時に選択できる他の開始地点と並んで、その集落がマップ上に表示され、さらに集落からのメッセージ（移民ポリシーの広告セクションで設定）が表示されます。この方法で世界に入ったプレイヤーは、自動的にその集落の市民となり、Immigration Desk オブジェクトの隣にある指定された位置からスタートします。この機能は、新規プレイヤーをあなたの集落に呼び込み、コミュニティを成長させるのに非常に役立ちます。
+  </target>
       </trans-unit>
-      <trans-unit id="432">
+      <trans-unit id="432" xml:space="preserve">
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    集落が {Founded|Founding}（建国済み／建国中）になると、基礎オブジェクトを中心とした半径範囲に影響力（Influence）を放ち始めます。その影響範囲内にある土地は、集落の法律や市民行動の対象となります。
+  </target>
       </trans-unit>
-      <trans-unit id="433">
+      <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">文化は影響力を生み出す</target>
       </trans-unit>
-      <trans-unit id="434">
+      <trans-unit id="434" xml:space="preserve">
         <source xml:space="preserve">
     Influence can be extended with {Culture}. The higher the culture level of a property, the more influence it will cast for the owning settlement.  This allows you to expand your borders by increasing culture, or creating new cultural properties. There are limits, however, on the number of cultural properties and the max influence castable, so borders cannot be expanded indefinitely. Each level-up of settlement allows a farther range of influence to be cast, and more cultural properties to be created.
     
@@ -3451,31 +3580,43 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    文化（Culture）によって影響力（Influence）を拡張できます。土地の文化レベルが高いほど、その土地を所有する集落が放つ影響力は大きくなります。これにより、文化を増やしたり、新たな文化的所有地を作ったりすることで、国境（境界）を広げることができます。ただし、文化的所有地の数や放てる影響力の最大値には制限があるため、境界を無限に拡張することはできません。集落がレベルアップするごとに、より広い範囲に影響力を放てるようになり、より多くの文化的所有地を作成できるようになります。
+
+影響力は、その土地にある部屋の平均位置を基準に、部屋の価値（Property Value）によって重み付けされて放たれます。
+
+{Homesteads|HomesteadClaimStakeObject} は単一プレイヤー用の所有地で、所有者が市民となっている集落に紐づきます。所有者がどの集落の市民でもない場合、その所有地はどの集落からも影響を受けません。市民が市民権を放棄すると、町の影響範囲に穴が空くことがありますが、強力な集落であれば {Annexation}（併合）によってこの所有地を強制的にクレームすることができます。
+  </target>
       </trans-unit>
-      <trans-unit id="435">
+      <trans-unit id="435" xml:space="preserve">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">複数の集落による影響</target>
       </trans-unit>
-      <trans-unit id="436">
+      <trans-unit id="436" xml:space="preserve">
         <source xml:space="preserve">
     Each settlement level (Town, Country, Federation) has its own map of influence, and only one settlement of each type may influence a given plot (IE, two Towns cannot influence the same plot).  However, if a settlement is a sub-settlement of another settlement, then that parent will also cast influence on the plot (IE, a Country's influence will be cast everywhere its member town's influences are cast).  In plots influenced by more than one settlement in this way, the governments of all settlement will apply.
     
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    各集落レベル（Town、Country、Federation）はそれぞれ独自の影響マップを持ち、同じ種類の集落は1つの区画に対して1つしか影響を与えることができません（例：2つの町が同じ区画に影響を与えることはできない）しかし、ある集落が別の集落の下位集落である場合、その親集落も同じ区画に影響を及ぼします（例：国は、その配下の町が影響を及ぼすすべての場所に影響を及ぼす）このように複数の集落が同じ区画に影響を与えている場合、すべての集落の政府ルールが適用されます。
+
+同じ種類の2つの集落が影響力を競っている場合、より近い方の集落が、もう一方の影響範囲を押し返すように広がります。ただし、すでにクレームされている土地は、たとえ相手の集落の影響範囲に含まれる位置になったとしても、元の集落の影響下に留まります。これにより、集落の一部が分断され、他の集落に包み込まれるような状況が発生することもあります。
+</target>
       </trans-unit>
-      <trans-unit id="437">
+      <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">境界線管理</target>
       </trans-unit>
-      <trans-unit id="438">
+      <trans-unit id="438" xml:space="preserve">
         <source xml:space="preserve">
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    {Immigration Desk|ImmigrationDeskObject} 上で、集落のリーダーは、影響範囲内で土地のクレームを許可する隣接するホームステッドや集落を指定できます。もし隣接する集落が、あなたの集落の影響下にある土地を（場合によっては対価を支払って）クレームしたい場合、この設定によってそれを許可できます。
+  </target>
       </trans-unit>
-      <trans-unit id="439">
+      <trans-unit id="439" xml:space="preserve">
         <source xml:space="preserve">
     A Property Crisis occurs when the number of Citizens in a settlement reduces such that there aren't enough Citizens to support the number of Claim Stakes and Claim Papers in use.
     
@@ -3490,13 +3631,26 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    集落内の市民数が減少し、使用中のClaim StakeとClaim Paperの数を支えるだけの市民が足りなくなったとき、Property Crisis（所有地危機）が発生します。
+
+市民が加入すると集落はClaim StakeとClaim Paperを生成し、市民が離脱するとそれらを消滅させます。しかし、Settlement Foundationオブジェクトに消滅させるためのStake や Paperが残っていない状態で市民が離脱すると、Property Crisisが発生する可能性があります。この状況になるとタイマーが開始され、その期限までに市民は必要数のStake と PaperをSettlement Foundationに返却しなければなりません。返却方法は、土地のクレーム解除や回収など、どんな手段でも構いません。危機発生中に Settlement Foundation にStake や Claimを入れると、それらは即座に消滅し、不足分が解消されれば危機は即座に終了します。
+
+市民が期限までに必要なStakeとPaperを返却できない、または返却しない場合、それらは所持場所に関係なく破壊されます。Property Crisisが解消される際には、次の順序で没収が行われます。
+- まず、使用されていないClaim/Stake（例：市民のバックパック内など）が破壊される。
+- それでも不足が解消されない場合、使用中のStake/Claimも破壊される。
+どちらの段階でも、放棄された市民（Abandoned Demographic）の所有する Claim が優先的に破壊されます。
+
+集落は、市民数の不足を防ぐために人口管理を慎重に行うことが非常に重要です。予備としていくつかの Stake / Paper を使わずに保持しておく、または市民が離脱し始めたタイミングで調整することが賢明です。
+
+Abandoned {Demographic}（放棄状態）に入った市民も、StakeやPaperの生成数に貢献しなくなるため、これも Property Crisis の原因となり得ます。
+  </target>
       </trans-unit>
-      <trans-unit id="440">
+      <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">プロパティ・クライシスの設定</target>
       </trans-unit>
-      <trans-unit id="441">
+      <trans-unit id="441" xml:space="preserve">
         <source xml:space="preserve">
     As more Citizens join a Settlement, more {Property} can be claimed, using Claim Stakes and Claim Papers associated with the settlement.
 
@@ -3504,19 +3658,25 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">
+    より多くの市民が集落に参加すると、集落に紐づくClaim StakeとClaim Paperを使って、より多くの {Property}（所有地）をクレームできるようになります。
+
+集落はそのレベルに応じて、{TownClaimStakeItem}、{CountryClaimStakeItem}、{FederationClaimStakeItem}といった種類の Claim Stake を生成します。これらは紐づいている集落の名義で土地をクレームし、さらに{ClaimPaperItem}をClaim Stakeのインベントリに入れることで、より多くの区画をクレームできるように強化できます。
+
+市民が離脱すると、使用可能なClaim PaperとClaim Stakeの最大数が減少し、Settlement Foundation のインベントリから削除されます。もしそれらがすべて使用中で返却できない場合、{Property Crisis}（所有地危機）が発生します。
+  </target>
       </trans-unit>
-      <trans-unit id="442">
+      <trans-unit id="442" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">ホームステッド支援クレーム</target>
       </trans-unit>
-      <trans-unit id="443">
+      <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落は {Homestead Support Claims|HomesteadSupportClaimPaperItem} も生成し、これらは非市民に渡したり販売したりできます。このクレームは、どの集落にも属していないホームステッドが、マップ上のどこでもより多くの区画をクレームできるようにするものです。通常、遠隔地や孤立した地域で大規模な農場を作りたい農家が、世界中の町から（食料や労働力と引き換えに）これらを求めます。これらは「集落が外部の所有地保護に対して提供する支援」を表しています。</target>
       </trans-unit>
-      <trans-unit id="444">
+      <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">集落の所有地設定</target>
       </trans-unit>
     </body>
   </file>
