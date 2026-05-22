@@ -674,41 +674,41 @@
         <source xml:space="preserve">No Active Titles</source>
         <target xml:space="preserve">没有可用的头衔</target>
       </trans-unit>
-      <trans-unit id="176">
+      <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">首次模拟时间结束后,网络图将可用</target>
       </trans-unit>
       <trans-unit id="177">
         <source xml:space="preserve">Argument over laws goes here</source>
         <target xml:space="preserve">关于法案的辩论均放于此处。可重新调整地图大小，以便日后更好地适应文本</target>
       </trans-unit>
-      <trans-unit id="178">
+      <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">没有流星</target>
       </trans-unit>
       <trans-unit id="179">
         <source xml:space="preserve">Select an election from the menu</source>
         <target xml:space="preserve">从菜单中选择一项推选，或者你可参加推选</target>
       </trans-unit>
-      <trans-unit id="180">
+      <trans-unit id="180" xml:space="preserve">
         <source xml:space="preserve">The meteor was destroyed</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">流星被摧毁了</target>
       </trans-unit>
-      <trans-unit id="181">
+      <trans-unit id="181" xml:space="preserve">
         <source xml:space="preserve">There have been no elections yet</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">目前尚未举行选举</target>
       </trans-unit>
       <trans-unit id="182">
         <source xml:space="preserve">To start a new election</source>
         <target xml:space="preserve">要开始新的推选</target>
       </trans-unit>
-      <trans-unit id="183">
+      <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">Twitch投票</target>
       </trans-unit>
-      <trans-unit id="184">
+      <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
-        <target xml:space="preserve" state="needs-translation" ></target>
+        <target xml:space="preserve" state="translated">用户投票</target>
       </trans-unit>
       <trans-unit id="185">
         <source xml:space="preserve">When a Treasury is built</source>
