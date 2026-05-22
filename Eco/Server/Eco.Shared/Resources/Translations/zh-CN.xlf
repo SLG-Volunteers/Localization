@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="zh-CN" datatype="plaintext" original="defaultstrings">
     <body>
-      <trans-unit id="Could not create save file: {0}">
+      <trans-unit id="Could not create save file: {0}" xml:space="preserve">
         <source xml:space="preserve">Could not create save file: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">无法创建保存文件: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Could not start server:">
         <source xml:space="preserve">Could not start server:</source>
