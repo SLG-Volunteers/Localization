@@ -6,9 +6,9 @@
         <source xml:space="preserve">404 page not found</source>
         <target xml:space="preserve">404 ページが見つかりません</target>
       </trans-unit>
-      <trans-unit id="2">
+      <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Allow Debug Calls</source>
-        <target xml:space="preserve">デバッグの呼び出しを許可します。</target>
+        <target xml:space="preserve" state="translated">デバッグの呼び出しを許可</target>
       </trans-unit>
       <trans-unit id="3">
         <source xml:space="preserve">Private Server</source>
@@ -38,9 +38,9 @@
         <source xml:space="preserve">Reputations</source>
         <target xml:space="preserve">評判</target>
       </trans-unit>
-      <trans-unit id="10">
+      <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">Use Waste</source>
-        <target xml:space="preserve">廃棄物を使用します。</target>
+        <target xml:space="preserve" state="translated">廃棄物を使用</target>
       </trans-unit>
       <trans-unit id="11">
         <source xml:space="preserve">Network Config</source>
@@ -78,13 +78,13 @@
         <source xml:space="preserve">Cause &amp; Effect Explorer</source>
         <target xml:space="preserve">原因・効果エクスプ ローラー</target>
       </trans-unit>
-      <trans-unit id="20">
+      <trans-unit id="20" xml:space="preserve">
         <source xml:space="preserve">Select Category</source>
-        <target xml:space="preserve">カテゴリを選択します。</target>
+        <target xml:space="preserve" state="translated">カテゴリを選択</target>
       </trans-unit>
-      <trans-unit id="21">
+      <trans-unit id="21" xml:space="preserve">
         <source xml:space="preserve">Select Layer</source>
-        <target xml:space="preserve">レイヤーを選択します。</target>
+        <target xml:space="preserve" state="translated">レイヤーを選択</target>
       </trans-unit>
       <trans-unit id="22">
         <source xml:space="preserve">Maps showing 400 square meters centered at 50</source>
@@ -94,9 +94,9 @@
         <source xml:space="preserve">Eco Elections</source>
         <target xml:space="preserve">エコ選挙</target>
       </trans-unit>
-      <trans-unit id="24">
+      <trans-unit id="24" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu or you can run for office</source>
-        <target xml:space="preserve">メニューまたオフィスから選挙を選択することができます。</target>
+        <target xml:space="preserve" state="translated">メニューまたオフィスから選挙を選択</target>
       </trans-unit>
       <trans-unit id="25">
         <source xml:space="preserve">Candidates</source>
@@ -154,17 +154,17 @@
         <source xml:space="preserve">Day</source>
         <target xml:space="preserve">日</target>
       </trans-unit>
-      <trans-unit id="39">
+      <trans-unit id="39" xml:space="preserve">
         <source xml:space="preserve">Enter your response</source>
-        <target xml:space="preserve">あなたの応答を入力してください。</target>
+        <target xml:space="preserve" state="translated">あなたの応答を入力</target>
       </trans-unit>
-      <trans-unit id="40">
+      <trans-unit id="40" xml:space="preserve">
         <source xml:space="preserve">Remove Graph</source>
-        <target xml:space="preserve">グラフを削除します。</target>
+        <target xml:space="preserve" state="translated">グラフを削除</target>
       </trans-unit>
-      <trans-unit id="41">
+      <trans-unit id="41" xml:space="preserve">
         <source xml:space="preserve">Remove Map</source>
-        <target xml:space="preserve">マップを削除します。</target>
+        <target xml:space="preserve" state="translated">マップを削除</target>
       </trans-unit>
       <trans-unit id="42">
         <source xml:space="preserve">Submit</source>
@@ -178,13 +178,13 @@
         <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
         <target xml:space="preserve">新しい選挙を開始するには、自分を候補として追加する必要があります; you must add yourself as a candidate</target>
       </trans-unit>
-      <trans-unit id="45">
+      <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
-        <target xml:space="preserve">あなたが選出すべき理由を説明してください。</target>
+        <target xml:space="preserve" state="translated">あなたが選出すべき理由を説明してください</target>
       </trans-unit>
-      <trans-unit id="46">
+      <trans-unit id="46" xml:space="preserve">
         <source xml:space="preserve">Enter Your Speech</source>
-        <target xml:space="preserve">あなたのスピーチを入力します。</target>
+        <target xml:space="preserve" state="translated">あなたのスピーチを入力してください</target>
       </trans-unit>
       <trans-unit id="49">
         <source xml:space="preserve">Scientific Data</source>
@@ -214,9 +214,9 @@
         <source xml:space="preserve">Proposed Laws</source>
         <target xml:space="preserve">提案された法律</target>
       </trans-unit>
-      <trans-unit id="59">
+      <trans-unit id="59" xml:space="preserve">
         <source xml:space="preserve">Select Map Layer</source>
-        <target xml:space="preserve">マップのレイヤーを選択します。</target>
+        <target xml:space="preserve" state="translated">マップのレイヤーを選択</target>
       </trans-unit>
       <trans-unit id="60">
         <source xml:space="preserve">Data</source>
@@ -238,9 +238,9 @@
         <source xml:space="preserve">Day</source>
         <target xml:space="preserve">日</target>
       </trans-unit>
-      <trans-unit id="65">
+      <trans-unit id="65" xml:space="preserve">
         <source xml:space="preserve">View the global effects that shape this world and how they influence each other</source>
-        <target xml:space="preserve">このワールドに影響を与えるグローバル エフェクトを表示します。</target>
+        <target xml:space="preserve" state="translated">このワールドに影響を与えるグローバル エフェクトを表示</target>
       </trans-unit>
       <trans-unit id="66">
         <source xml:space="preserve">Select a category above and use the time bar at the bottom to scroll through history</source>
@@ -286,9 +286,9 @@
         <source xml:space="preserve">Current Results</source>
         <target xml:space="preserve">現在の結果</target>
       </trans-unit>
-      <trans-unit id="77">
+      <trans-unit id="77" xml:space="preserve">
         <source xml:space="preserve">This law was passed</source>
-        <target xml:space="preserve">この法律は可決されました。</target>
+        <target xml:space="preserve" state="translated">この法律は可決されました</target>
       </trans-unit>
       <trans-unit id="78">
         <source xml:space="preserve">Yes</source>
@@ -298,13 +298,13 @@
         <source xml:space="preserve">No</source>
         <target xml:space="preserve">いいえ</target>
       </trans-unit>
-      <trans-unit id="80">
+      <trans-unit id="80" xml:space="preserve">
         <source xml:space="preserve">Add Graph</source>
-        <target xml:space="preserve">グラフを追加します。</target>
+        <target xml:space="preserve" state="translated">グラフを追加</target>
       </trans-unit>
-      <trans-unit id="81">
+      <trans-unit id="81" xml:space="preserve">
         <source xml:space="preserve">Add Map</source>
-        <target xml:space="preserve">マップを追加します。</target>
+        <target xml:space="preserve" state="translated">マップを追加</target>
       </trans-unit>
       <trans-unit id="82">
         <source xml:space="preserve">Cancel</source>
@@ -314,17 +314,17 @@
         <source xml:space="preserve">Name of Law</source>
         <target xml:space="preserve">法律の名前</target>
       </trans-unit>
-      <trans-unit id="84">
+      <trans-unit id="84" xml:space="preserve">
         <source xml:space="preserve">Add Districts</source>
-        <target xml:space="preserve">地区を追加します。</target>
+        <target xml:space="preserve" state="translated">地区を追加</target>
       </trans-unit>
       <trans-unit id="85">
         <source xml:space="preserve">Remove Districts</source>
         <target xml:space="preserve">地区を削除する</target>
       </trans-unit>
-      <trans-unit id="86">
+      <trans-unit id="86" xml:space="preserve">
         <source xml:space="preserve">Add New District</source>
-        <target xml:space="preserve">新しい地区を追加します。</target>
+        <target xml:space="preserve" state="translated">新しい地区を追加</target>
       </trans-unit>
       <trans-unit id="87">
         <source xml:space="preserve">Hold right click to draw district</source>
@@ -334,9 +334,9 @@
         <source xml:space="preserve">Reasoning</source>
         <target xml:space="preserve">論旨</target>
       </trans-unit>
-      <trans-unit id="89">
+      <trans-unit id="89" xml:space="preserve">
         <source xml:space="preserve">Propose Law</source>
-        <target xml:space="preserve">法律を提案します。</target>
+        <target xml:space="preserve" state="translated">法律を提案</target>
       </trans-unit>
       <trans-unit id="90">
         <source xml:space="preserve">Layer Select Dropdown</source>
@@ -478,9 +478,9 @@
         <source xml:space="preserve">Do you want to save your changes before proceeding?</source>
         <target xml:space="preserve">続行する前に変更を保存しますか？</target>
       </trans-unit>
-      <trans-unit id="125">
+      <trans-unit id="125" xml:space="preserve">
         <source xml:space="preserve">Don't Save</source>
-        <target xml:space="preserve">保存しません。</target>
+        <target xml:space="preserve" state="translated">保存しない</target>
       </trans-unit>
       <trans-unit id="126">
         <source xml:space="preserve">Server</source>
@@ -538,9 +538,9 @@
         <source xml:space="preserve">Citizen Activity</source>
         <target xml:space="preserve">住民の活動</target>
       </trans-unit>
-      <trans-unit id="140">
+      <trans-unit id="140" xml:space="preserve">
         <source xml:space="preserve">No Previous Elections</source>
-        <target xml:space="preserve">行われた選挙はありません。</target>
+        <target xml:space="preserve" state="translated">行われた選挙はありません</target>
       </trans-unit>
       <trans-unit id="141">
         <source xml:space="preserve">Server version</source>
@@ -682,33 +682,33 @@
         <source xml:space="preserve">Argument over laws goes here</source>
         <target xml:space="preserve">法律上の議論はここで行い、後でテキストに合わせて地図をサイズ変更することができます</target>
       </trans-unit>
-      <trans-unit id="178">
+      <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">隕石なし</target>
       </trans-unit>
-      <trans-unit id="179">
+      <trans-unit id="179" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu</source>
-        <target xml:space="preserve">メニューまたオフィスから選挙を選択することができます。</target>
+        <target xml:space="preserve" state="translated">メニューから選挙を選択</target>
       </trans-unit>
-      <trans-unit id="180">
+      <trans-unit id="180" xml:space="preserve">
         <source xml:space="preserve">The meteor was destroyed</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">隕石は撃墜されました</target>
       </trans-unit>
-      <trans-unit id="181">
+      <trans-unit id="181" xml:space="preserve">
         <source xml:space="preserve">There have been no elections yet</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">まだ選挙は行われていません</target>
       </trans-unit>
       <trans-unit id="182">
         <source xml:space="preserve">To start a new election</source>
         <target xml:space="preserve">新しい選挙を開始するには、自分を候補として追加する必要があります</target>
       </trans-unit>
-      <trans-unit id="183">
+      <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">TwitchVotes</target>
       </trans-unit>
-      <trans-unit id="184">
+      <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">UserVotes</target>
       </trans-unit>
       <trans-unit id="185">
         <source xml:space="preserve">When a Treasury is built</source>
