@@ -2,11 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="zh-CN" datatype="plaintext" original="EcopediaStrings">
     <body>
-      <trans-unit id="0">
-        <source xml:space="preserve">Components related to the economy.
-</source>
-        <target xml:space="preserve">与经济相关的组件。
-</target>
+      <trans-unit id="0" xml:space="preserve">
+        <source xml:space="preserve">Components related to the economy.</source>
+        <target xml:space="preserve" state="translated">与经济相关的组件。</target>
       </trans-unit>
       <trans-unit id="1">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.
