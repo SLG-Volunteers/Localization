@@ -2136,9 +2136,9 @@
         <source xml:space="preserve">Corns</source>
         <target xml:space="preserve">玉米</target>
       </trans-unit>
-      <trans-unit id="Ecoylent">
+      <trans-unit id="Ecoylent" xml:space="preserve">
         <source xml:space="preserve">Ecoylent</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">生态营养</target>
       </trans-unit>
       <trans-unit id="Fruit Salads">
         <source xml:space="preserve">Fruit Salads</source>
@@ -3996,9 +3996,9 @@
         <source xml:space="preserve">[Select on toolbar and right-click to place.]</source>
         <target xml:space="preserve">[在工具栏上选取并单击右键放置]</target>
       </trans-unit>
-      <trans-unit id="English">
+      <trans-unit id="English" xml:space="preserve">
         <source xml:space="preserve">English</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">英语</target>
       </trans-unit>
       <trans-unit id="That item is not the right type of clothing">
         <source xml:space="preserve">That item is not the right type of clothing</source>
@@ -5151,9 +5151,9 @@
         <source xml:space="preserve">Missing currency, failed.</source>
         <target xml:space="preserve">缺失货币，操作失败。</target>
       </trans-unit>
-      <trans-unit id="; ">
+      <trans-unit id="; " xml:space="preserve">
         <source xml:space="preserve">; </source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="needs-translation">; </target>
         <note from="developer">This string separates two error messages caused bt the same action in the laws system</note>
       </trans-unit>
       <trans-unit id="{0}'s {1}">
@@ -5667,9 +5667,9 @@
         <source xml:space="preserve">Order</source>
         <target xml:space="preserve">下单</target>
       </trans-unit>
-      <trans-unit id="ItemTemplate">
+      <trans-unit id="ItemTemplate" xml:space="preserve">
         <source xml:space="preserve">ItemTemplate</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">物品模板</target>
       </trans-unit>
       <trans-unit id="Meteor Spotted.">
         <source xml:space="preserve">Meteor Spotted.</source>
@@ -6528,9 +6528,9 @@
         <source xml:space="preserve">Mouse over this text link to view how to build or find a research table: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">将鼠标移动至文本链接上，查看如何建造或找到研究工作台：<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Discord">
+      <trans-unit id="Discord" xml:space="preserve">
         <source xml:space="preserve">Discord</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Discord</target>
       </trans-unit>
       <trans-unit id="The Meteor">
         <source xml:space="preserve">The Meteor</source>
@@ -6754,24 +6754,24 @@
         <target xml:space="preserve">用户</target>
         <note from="developer">As in the user type on the server</note>
       </trans-unit>
-      <trans-unit id="int">
+      <trans-unit id="int" xml:space="preserve">
         <source xml:space="preserve">int</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">整数</target>
         <note from="developer">As in the c# integer type</note>
       </trans-unit>
-      <trans-unit id="float">
+      <trans-unit id="float" xml:space="preserve">
         <source xml:space="preserve">float</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">浮动</target>
         <note from="developer">As in the c# float type</note>
       </trans-unit>
-      <trans-unit id="string">
+      <trans-unit id="string" xml:space="preserve">
         <source xml:space="preserve">string</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">字符串</target>
         <note from="developer">As in the c# string type</note>
       </trans-unit>
-      <trans-unit id="bool">
+      <trans-unit id="bool" xml:space="preserve">
         <source xml:space="preserve">bool</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">布尔</target>
         <note from="developer">As in the c# boolean type</note>
       </trans-unit>
       <trans-unit id="Regenerated {0}. It may take up to ten minutes to see the immediate consequences in the world.">
@@ -7485,9 +7485,9 @@
         <source xml:space="preserve">Pipe particle emitter</source>
         <target xml:space="preserve">管状粒子发射器</target>
       </trans-unit>
-      <trans-unit id="WorldObject">
+      <trans-unit id="WorldObject" xml:space="preserve">
         <source xml:space="preserve">WorldObject</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">世界物体</target>
       </trans-unit>
       <trans-unit id="No empty tilled blocks in range.">
         <source xml:space="preserve">No empty tilled blocks in range.</source>
@@ -7509,9 +7509,9 @@
         <source xml:space="preserve">Must have an owner to function.</source>
         <target xml:space="preserve">必须具有所有者方可发挥功能。</target>
       </trans-unit>
-      <trans-unit id="{0}ms">
+      <trans-unit id="{0}ms" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>ms</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph>ms</target>
       </trans-unit>
       <trans-unit id="LAN">
         <source xml:space="preserve">LAN</source>
@@ -9335,121 +9335,121 @@
         <source xml:space="preserve">Placing water</source>
         <target xml:space="preserve">放置水源</target>
       </trans-unit>
-      <trans-unit id="BackupPlugin">
+      <trans-unit id="BackupPlugin" xml:space="preserve">
         <source xml:space="preserve">BackupPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">备份插件</target>
       </trans-unit>
-      <trans-unit id="ControllerManager">
+      <trans-unit id="ControllerManager" xml:space="preserve">
         <source xml:space="preserve">ControllerManager</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">控制器管理器</target>
       </trans-unit>
-      <trans-unit id="StorageManager">
+      <trans-unit id="StorageManager" xml:space="preserve">
         <source xml:space="preserve">StorageManager</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">存储管理器</target>
       </trans-unit>
-      <trans-unit id="WebServerPlugin">
+      <trans-unit id="WebServerPlugin" xml:space="preserve">
         <source xml:space="preserve">WebServerPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Web服务器插件</target>
       </trans-unit>
-      <trans-unit id="DisasterPlugin">
+      <trans-unit id="DisasterPlugin" xml:space="preserve">
         <source xml:space="preserve">DisasterPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">灾难插件</target>
       </trans-unit>
-      <trans-unit id="EconomyPlugin">
+      <trans-unit id="EconomyPlugin" xml:space="preserve">
         <source xml:space="preserve">EconomyPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">经济插件</target>
       </trans-unit>
-      <trans-unit id="ReputationPlugin">
+      <trans-unit id="ReputationPlugin" xml:space="preserve">
         <source xml:space="preserve">ReputationPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">声誉插件</target>
       </trans-unit>
-      <trans-unit id="EconomyTracker">
+      <trans-unit id="EconomyTracker" xml:space="preserve">
         <source xml:space="preserve">EconomyTracker</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">经济追踪器</target>
       </trans-unit>
-      <trans-unit id="GarbagePlugin">
+      <trans-unit id="GarbagePlugin" xml:space="preserve">
         <source xml:space="preserve">GarbagePlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">垃圾插件</target>
       </trans-unit>
-      <trans-unit id="MinimapManager">
+      <trans-unit id="MinimapManager" xml:space="preserve">
         <source xml:space="preserve">MinimapManager</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">小地图管理器</target>
       </trans-unit>
-      <trans-unit id="EcoObjectManager">
+      <trans-unit id="EcoObjectManager" xml:space="preserve">
         <source xml:space="preserve">EcoObjectManager</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">生态对象管理器</target>
       </trans-unit>
-      <trans-unit id="WorldObjectManager">
+      <trans-unit id="WorldObjectManager" xml:space="preserve">
         <source xml:space="preserve">WorldObjectManager</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">世界对象管理器</target>
       </trans-unit>
-      <trans-unit id="ObjectivePlugin">
+      <trans-unit id="ObjectivePlugin" xml:space="preserve">
         <source xml:space="preserve">ObjectivePlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">任务插件</target>
       </trans-unit>
-      <trans-unit id="UserManager">
+      <trans-unit id="UserManager" xml:space="preserve">
         <source xml:space="preserve">UserManager</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">用户管理器</target>
       </trans-unit>
-      <trans-unit id="PropertyManager">
+      <trans-unit id="PropertyManager" xml:space="preserve">
         <source xml:space="preserve">PropertyManager</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">属性管理器</target>
       </trans-unit>
-      <trans-unit id="RoomPlugin">
+      <trans-unit id="RoomPlugin" xml:space="preserve">
         <source xml:space="preserve">RoomPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">房间插件</target>
       </trans-unit>
-      <trans-unit id="DifficultySettings">
+      <trans-unit id="DifficultySettings" xml:space="preserve">
         <source xml:space="preserve">DifficultySettings</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">难度设置</target>
       </trans-unit>
-      <trans-unit id="LocalizationPlugin">
+      <trans-unit id="LocalizationPlugin" xml:space="preserve">
         <source xml:space="preserve">LocalizationPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">本地化插件</target>
       </trans-unit>
-      <trans-unit id="SleepPlugin">
+      <trans-unit id="SleepPlugin" xml:space="preserve">
         <source xml:space="preserve">SleepPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">睡眠插件</target>
       </trans-unit>
-      <trans-unit id="ModKitPlugin">
+      <trans-unit id="ModKitPlugin" xml:space="preserve">
         <source xml:space="preserve">ModKitPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">模组开发插件</target>
       </trans-unit>
-      <trans-unit id="NetworkManager">
+      <trans-unit id="NetworkManager" xml:space="preserve">
         <source xml:space="preserve">NetworkManager</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">网络管理器</target>
       </trans-unit>
-      <trans-unit id="ClimateSim">
+      <trans-unit id="ClimateSim" xml:space="preserve">
         <source xml:space="preserve">ClimateSim</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">气候模拟器</target>
       </trans-unit>
-      <trans-unit id="EcoSim">
+      <trans-unit id="EcoSim" xml:space="preserve">
         <source xml:space="preserve">EcoSim</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">生态模拟</target>
       </trans-unit>
-      <trans-unit id="TimePlugin">
+      <trans-unit id="TimePlugin" xml:space="preserve">
         <source xml:space="preserve">TimePlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">时间插件</target>
       </trans-unit>
-      <trans-unit id="WorldLayerManager">
+      <trans-unit id="WorldLayerManager" xml:space="preserve">
         <source xml:space="preserve">WorldLayerManager</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">世界层管理器</target>
       </trans-unit>
-      <trans-unit id="WorldPlugin">
+      <trans-unit id="WorldPlugin" xml:space="preserve">
         <source xml:space="preserve">WorldPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">世界插件</target>
       </trans-unit>
-      <trans-unit id="WorldGeneratorPlugin">
+      <trans-unit id="WorldGeneratorPlugin" xml:space="preserve">
         <source xml:space="preserve">WorldGeneratorPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">世界生成插件</target>
       </trans-unit>
       <trans-unit id="Steam Truck">
         <source xml:space="preserve">Steam Truck</source>
         <target xml:space="preserve">蒸汽卡车</target>
       </trans-unit>
-      <trans-unit id="IntegrationTestsPlugin">
+      <trans-unit id="IntegrationTestsPlugin" xml:space="preserve">
         <source xml:space="preserve">IntegrationTestsPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">组合测试插件</target>
       </trans-unit>
       <trans-unit id="Redwood">
         <source xml:space="preserve">Redwood</source>
@@ -15895,9 +15895,9 @@
         <source xml:space="preserve">invalid</source>
         <target xml:space="preserve">无效</target>
       </trans-unit>
-      <trans-unit id="v">
+      <trans-unit id="v" xml:space="preserve">
         <source xml:space="preserve">v</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">v</target>
         <note from="developer">Version identifier</note>
       </trans-unit>
       <trans-unit id="Only can use this command when targeting a vehicle">
@@ -23392,9 +23392,9 @@
         <source xml:space="preserve">No benefits</source>
         <target xml:space="preserve">无增益</target>
       </trans-unit>
-      <trans-unit id="FXAA">
+      <trans-unit id="FXAA" xml:space="preserve">
         <source xml:space="preserve">FXAA</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">FXAA</target>
       </trans-unit>
       <trans-unit id="SMAA Low">
         <source xml:space="preserve">SMAA Low</source>
@@ -29730,21 +29730,21 @@
         <source xml:space="preserve">No deed exists for this object.</source>
         <target xml:space="preserve">对于该物品的契据不存在。</target>
       </trans-unit>
-      <trans-unit id="MintCurrency.ItemUsed">
+      <trans-unit id="MintCurrency.ItemUsed" xml:space="preserve">
         <source xml:space="preserve">MintCurrency.ItemUsed</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">铸造货币.已使用物品</target>
       </trans-unit>
-      <trans-unit id="MintCurrency.WorldObjectItem">
+      <trans-unit id="MintCurrency.WorldObjectItem" xml:space="preserve">
         <source xml:space="preserve">MintCurrency.WorldObjectItem</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">铸造货币.世界物品</target>
       </trans-unit>
-      <trans-unit id="CreateCurrency.ItemUsed">
+      <trans-unit id="CreateCurrency.ItemUsed" xml:space="preserve">
         <source xml:space="preserve">CreateCurrency.ItemUsed</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">创建货币.已使用物品</target>
       </trans-unit>
-      <trans-unit id="PlaceOrPickUpObject.WorldObjectItem">
+      <trans-unit id="PlaceOrPickUpObject.WorldObjectItem" xml:space="preserve">
         <source xml:space="preserve">PlaceOrPickUpObject.WorldObjectItem</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">放置或拾取物体.世界物体项</target>
       </trans-unit>
       <trans-unit id="The amount of items converted into currency.">
         <source xml:space="preserve">The amount of items converted into currency.</source>
@@ -30034,9 +30034,9 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> added to void storage for <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve">为了<ph id="1">{1}</ph>，已添加<ph id="0">{0}</ph> 至空白存储空间。</target>
       </trans-unit>
-      <trans-unit id="ItemCraftedAction.ItemUsed">
+      <trans-unit id="ItemCraftedAction.ItemUsed" xml:space="preserve">
         <source xml:space="preserve">ItemCraftedAction.ItemUsed</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">物品制作动作.物品使用</target>
       </trans-unit>
       <trans-unit id="The byproduct being crafted.">
         <source xml:space="preserve">The byproduct being crafted.</source>
@@ -32822,9 +32822,9 @@
         <source xml:space="preserve">Chef Profession, Advanced Baking Specialty</source>
         <target xml:space="preserve">厨师职业，高级烘焙专业</target>
       </trans-unit>
-      <trans-unit id="{0}%">
+      <trans-unit id="{0}%" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>%</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph>%</target>
       </trans-unit>
       <trans-unit id="District Map">
         <source xml:space="preserve">District Map</source>
@@ -38897,9 +38897,9 @@
         <source xml:space="preserve">Create</source>
         <target xml:space="preserve">创建</target>
       </trans-unit>
-      <trans-unit id="Channel name must be at least {0} characters long and cannot exceed {1} characters">
+      <trans-unit id="Channel name must be at least {0} characters long and cannot exceed {1} characters" xml:space="preserve">
         <source xml:space="preserve">Channel name must be at least <ph id="0">{0}</ph> characters long and cannot exceed <ph id="1">{1}</ph> characters</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">频道名称的长度必须至少为<ph id="0">{0}</ph> 字符且不能超过 <ph id="1">{1}</ph> 个字符</target>
       </trans-unit>
       <trans-unit id="Channel name must start with a letter; may only contain letters, numbers and dashes/underscores; and must end with a letter or number.">
         <source xml:space="preserve">Channel name must start with a letter; may only contain letters, numbers and dashes/underscores; and must end with a letter or number.</source>
@@ -39506,9 +39506,9 @@
         <source xml:space="preserve">Claim Papers are in use. Unclaim plots first.</source>
         <target xml:space="preserve">认领文书正在使用中。先取消认领地块。</target>
       </trans-unit>
-      <trans-unit id="this.DescribePlotsClaimed">
+      <trans-unit id="this.DescribePlotsClaimed" xml:space="preserve">
         <source xml:space="preserve">this.DescribePlotsClaimed</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">此.描绘地块宣称</target>
       </trans-unit>
       <trans-unit id="Items contributed towards property crisis successfully.">
         <source xml:space="preserve">Items contributed towards property crisis successfully.</source>
@@ -40407,9 +40407,9 @@
         <source xml:space="preserve">Enables / disables voice chat, this includes speaking and listening to other players.</source>
         <target xml:space="preserve">开启/关闭语音聊天，包括发送语音和接收其它玩家的语音。</target>
       </trans-unit>
-      <trans-unit id="Q">
+      <trans-unit id="Q" xml:space="preserve">
         <source xml:space="preserve">Q</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="needs-translation">Q</target>
       </trans-unit>
       <trans-unit id="Expand / collapse all trade groups.">
         <source xml:space="preserve">Expand / collapse all trade groups.</source>
@@ -41026,9 +41026,9 @@
         <source xml:space="preserve">Linkable inventories</source>
         <target xml:space="preserve">可链接的物品栏</target>
       </trans-unit>
-      <trans-unit id="53m NW">
+      <trans-unit id="53m NW" xml:space="preserve">
         <source xml:space="preserve">53m NW</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">53米 西北</target>
       </trans-unit>
       <trans-unit id="Wanted">
         <source xml:space="preserve">Wanted</source>
@@ -43803,9 +43803,9 @@
         <source xml:space="preserve">ignored</source>
         <target xml:space="preserve">已忽略</target>
       </trans-unit>
-      <trans-unit id="Select a file before printing.">
+      <trans-unit id="Select a file before printing." xml:space="preserve">
         <source xml:space="preserve">Select a file before printing.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">印刷前请选择一个文件。</target>
       </trans-unit>
       <trans-unit id="There are no seats available.">
         <source xml:space="preserve">There are no seats available.</source>
@@ -44007,9 +44007,9 @@
         <source xml:space="preserve">Connection to Twitch EBS established: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Twitch EBS 连接已建立：<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Twitch">
+      <trans-unit id="Twitch" xml:space="preserve">
         <source xml:space="preserve">Twitch</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Twitch</target>
       </trans-unit>
       <trans-unit id="Attempting to reconnect to Twitch EBS">
         <source xml:space="preserve">Attempting to reconnect to Twitch EBS</source>
@@ -44079,9 +44079,9 @@
         <source xml:space="preserve">Sell<ph id="0">{0}</ph></source>
         <target xml:space="preserve">出售 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="PicturePrinterUI">
+      <trans-unit id="PicturePrinterUI" xml:space="preserve">
         <source xml:space="preserve">PicturePrinterUI</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">图像打印界面</target>
       </trans-unit>
       <trans-unit id="Are you sure you would like to open this link in your browser?">
         <source xml:space="preserve">Are you sure you would like to open this link in your browser?</source>
@@ -44816,9 +44816,9 @@
         <source xml:space="preserve">Center In District</source>
         <target xml:space="preserve">区域内的树根</target>
       </trans-unit>
-      <trans-unit id="Is the average position in the district? Note that this point may not be on a plot of the deed.">
+      <trans-unit id="Is the average position in the district? Note that this point may not be on a plot of the deed." xml:space="preserve">
         <source xml:space="preserve">Is the average position in the district? Note that this point may not be on a plot of the deed.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这是该地区的平均位置吗？请注意，这个点可能不在地契图上。</target>
       </trans-unit>
       <trans-unit id="Granted Access">
         <source xml:space="preserve">Granted Access</source>
@@ -44950,9 +44950,9 @@
         <source xml:space="preserve">Citizen Demographic</source>
         <target xml:space="preserve">群体中的公民数：</target>
       </trans-unit>
-      <trans-unit id="Invite a member of a lower-level settlement to become a member of this settlement (or accept their application to do so, if it exists).  The target settlement will also need to perform a civic action to accept the invitation and become a child of this settlement.">
+      <trans-unit id="Invite a member of a lower-level settlement to become a member of this settlement (or accept their application to do so, if it exists).  The target settlement will also need to perform a civic action to accept the invitation and become a child of this settlement." xml:space="preserve">
         <source xml:space="preserve">Invite a member of a lower-level settlement to become a member of this settlement (or accept their application to do so, if it exists).  The target settlement will also need to perform a civic action to accept the invitation and become a child of this settlement.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">邀请一个较低级别聚落的一名成员加入本聚落（或接受其加入申请，如果存在的话）。  目标聚落还需执行一项公民行动以接受邀请，并成为本聚落的子聚落。</target>
       </trans-unit>
       <trans-unit id="Apply for this settlement to become a member of a higher-level settlement (or accept an invitation to do so, if it exists).  The targeted settlement will also need to perform a civic action to accept this settlement as a child.">
         <source xml:space="preserve">Apply for this settlement to become a member of a higher-level settlement (or accept an invitation to do so, if it exists).  The targeted settlement will also need to perform a civic action to accept this settlement as a child.</source>
@@ -45010,18 +45010,18 @@
         <target xml:space="preserve"></target>
         <note from="developer">Chat command shortcut</note>
       </trans-unit>
-      <trans-unit id="Disable Settlement requirements for the session (Ie, dont require child settlements or citizens for a country to spawn.">
+      <trans-unit id="Disable Settlement requirements for the session (Ie, dont require child settlements or citizens for a country to spawn." xml:space="preserve">
         <source xml:space="preserve">Disable Settlement requirements for the session (Ie, dont require child settlements or citizens for a country to spawn.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">禁用该会话的定居点要求（即，不要求国家生成子定居点或公民）。</target>
         <note from="developer">Help text for chat command /ignorerequirements</note>
       </trans-unit>
       <trans-unit id="Settlement Type">
         <source xml:space="preserve">Settlement Type</source>
         <target xml:space="preserve">定居点类型</target>
       </trans-unit>
-      <trans-unit id="Citizenship Of Citizen">
+      <trans-unit id="Citizenship Of Citizen" xml:space="preserve">
         <source xml:space="preserve">Citizenship Of Citizen</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">公民身份</target>
       </trans-unit>
       <trans-unit id="The settlement being queried.">
         <source xml:space="preserve">The settlement being queried.</source>
