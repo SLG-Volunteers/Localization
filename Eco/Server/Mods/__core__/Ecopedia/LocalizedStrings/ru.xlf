@@ -3793,9 +3793,9 @@ To become a resident of a property, click the name of the property (visible on t
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="364">
+      <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Требования</target>
       </trans-unit>
       <trans-unit id="365">
         <source xml:space="preserve">
