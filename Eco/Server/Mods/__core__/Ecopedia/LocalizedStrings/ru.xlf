@@ -3857,9 +3857,9 @@ Note that the type of settlement matters: a settlement can only annex other sett
     </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="380">
+      <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Свежесть</target>
       </trans-unit>
       <trans-unit id="381">
         <source xml:space="preserve">
@@ -3883,9 +3883,9 @@ Note that the type of settlement matters: a settlement can only annex other sett
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="384">
+      <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Преимущества</target>
       </trans-unit>
       <trans-unit id="385">
         <source xml:space="preserve">
@@ -3903,9 +3903,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="387">
+      <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Настройки званого ужина</target>
       </trans-unit>
       <trans-unit id="406">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
