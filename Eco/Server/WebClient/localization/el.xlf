@@ -622,25 +622,25 @@
         <source xml:space="preserve">Compare Maps</source>
         <target xml:space="preserve">Σύγκριση Χαρτών</target>
       </trans-unit>
-      <trans-unit id="162">
+      <trans-unit id="162" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Εκλεγμένοι Aξιωματούχοι</target>
       </trans-unit>
-      <trans-unit id="163">
+      <trans-unit id="163" xml:space="preserve">
         <source xml:space="preserve">Running Elections</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Εκλογές σε Εξέληξη</target>
       </trans-unit>
-      <trans-unit id="164">
+      <trans-unit id="164" xml:space="preserve">
         <source xml:space="preserve">No Running Elections</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δεν υπάρχουν εκλογές σε εξέληξη</target>
       </trans-unit>
-      <trans-unit id="165">
+      <trans-unit id="165" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Εκλεγμένοι Αξιωματούχοι</target>
       </trans-unit>
-      <trans-unit id="167">
+      <trans-unit id="167" xml:space="preserve">
         <source xml:space="preserve">Title Holders</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Κάτοχοι Τίτλων</target>
       </trans-unit>
       <trans-unit id="168">
         <source xml:space="preserve">Status</source>
@@ -674,45 +674,45 @@
         <source xml:space="preserve">No Active Titles</source>
         <target xml:space="preserve">Κανείς ενεργός τίτλος</target>
       </trans-unit>
-      <trans-unit id="176">
+      <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Τα γραφήματα ιστού θα είναι διαθέσιμα μετά το πρώτο βήμα προσομοίωσης</target>
       </trans-unit>
-      <trans-unit id="177">
+      <trans-unit id="177" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Η διαφωνία για τους νόμους ξεκινά εδώ</target>
       </trans-unit>
-      <trans-unit id="178">
+      <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Χωρίς Μετεωρίτη</target>
       </trans-unit>
-      <trans-unit id="179">
+      <trans-unit id="179" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Επέλεξε μια εκλογή από το μενού</target>
       </trans-unit>
-      <trans-unit id="180">
+      <trans-unit id="180" xml:space="preserve">
         <source xml:space="preserve">The meteor was destroyed</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Ο Μετεωρίτης καταστράφηκε</target>
       </trans-unit>
-      <trans-unit id="181">
+      <trans-unit id="181" xml:space="preserve">
         <source xml:space="preserve">There have been no elections yet</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Δεν έχουν γίνει ακόμα εκλογές</target>
       </trans-unit>
-      <trans-unit id="182">
+      <trans-unit id="182" xml:space="preserve">
         <source xml:space="preserve">To start a new election</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Για να ξεκινήσεις νέες εκλογές</target>
       </trans-unit>
-      <trans-unit id="183">
+      <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Ψήφοι Twitch</target>
       </trans-unit>
-      <trans-unit id="184">
+      <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Ψήφοι Χρηστών</target>
       </trans-unit>
-      <trans-unit id="185">
+      <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Όταν χτίζεται ένα Θησαυροφυλάκιο</target>
       </trans-unit>
     </body>
   </file>
