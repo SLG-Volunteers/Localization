@@ -3779,9 +3779,9 @@ To become a resident of a property, click the name of the property (visible on t
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="362">
+      <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Поселения это объединение жителей или других поселений.  Они представляют собой структуру и организацию общества.</target>
       </trans-unit>
       <trans-unit id="363">
         <source xml:space="preserve">
@@ -3831,9 +3831,9 @@ Note that the type of settlement matters: a settlement can only annex other sett
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="368">
+      <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Настройки Аннексии</target>
       </trans-unit>
       <trans-unit id="377">
         <source xml:space="preserve">
@@ -3841,9 +3841,9 @@ Note that the type of settlement matters: a settlement can only annex other sett
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="378">
+      <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Требования</target>
       </trans-unit>
       <trans-unit id="379">
         <source xml:space="preserve">
@@ -3965,9 +3965,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="416">
+      <trans-unit id="416" xml:space="preserve">
         <source xml:space="preserve">Citizenship Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Настройки гражданства</target>
       </trans-unit>
       <trans-unit id="417">
         <source xml:space="preserve">
@@ -3975,17 +3975,17 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="418">
+      <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Культура от основания Поселения</target>
       </trans-unit>
       <trans-unit id="419">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="420">
+      <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Культура от Произведений искусства</target>
       </trans-unit>
       <trans-unit id="421">
         <source xml:space="preserve">
@@ -3995,9 +3995,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="422">
+      <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Настройки Культуры</target>
       </trans-unit>
       <trans-unit id="423">
         <source xml:space="preserve">
@@ -4005,9 +4005,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="424">
+      <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Требования к основанию</target>
       </trans-unit>
       <trans-unit id="425">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
@@ -4018,9 +4018,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="426">
+      <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Ратификация Конституции</target>
       </trans-unit>
       <trans-unit id="427">
         <source xml:space="preserve">
@@ -4034,9 +4034,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="428">
+      <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Настройки основания Поселения</target>
       </trans-unit>
       <trans-unit id="429">
         <source xml:space="preserve">
@@ -4048,9 +4048,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="430">
+      <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Приветствие Поселения</target>
       </trans-unit>
       <trans-unit id="431">
         <source xml:space="preserve">
@@ -4064,9 +4064,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="433">
+      <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Культура генерирует Влияние</target>
       </trans-unit>
       <trans-unit id="434">
         <source xml:space="preserve">
@@ -4090,9 +4090,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="437">
+      <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Пограничный контроль</target>
       </trans-unit>
       <trans-unit id="438">
         <source xml:space="preserve">
@@ -4117,9 +4117,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
   </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="440">
+      <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Настройки Кризиса собственности</target>
       </trans-unit>
       <trans-unit id="441">
         <source xml:space="preserve">
@@ -4139,9 +4139,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="444">
+      <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="translated">Настройки участков Поселений</target>
       </trans-unit>
     </body>
   </file>
