@@ -2,30 +2,29 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="el" datatype="plaintext" original="EcopediaStrings">
     <body>
-      <trans-unit id="0">
-        <source xml:space="preserve">Components related to the economy.
-</source>
-        <target xml:space="preserve">Συνιστώσες σχετικές με την οικονομία.
-</target>
+      <trans-unit id="0" xml:space="preserve">
+        <source xml:space="preserve">Components related to the economy.</source>
+        <target xml:space="preserve" state="translated">Συνιστώσες σχετικές με την οικονομία.</target>
       </trans-unit>
-      <trans-unit id="1">
-        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.
-</source>
-        <target xml:space="preserve"></target>
+      <trans-unit id="1" xml:space="preserve">
+        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
+        <target xml:space="preserve" state="translated">Το Στοιχείο Τράπεζας είναι όπου δημιουργούνται και διαχειρίζονται οι {Bank Accounts}. Οι πολίτες μπορούν να δημιουργήσουν πολλούς λογαριασμούς για τον εαυτό τους ή να μοιραστούν λογαριασμούς με άλλους πολίτες. Οι λογαριασμοί μπορούν επίσης να ανατεθούν σε {Titles} και {Demographics}.</target>
       </trans-unit>
-      <trans-unit id="2">
+      <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Account Users can perform transactions using the account (adding and removing funds).
 
 Account Managers can change the users in both the manager list and the user list, rename the account, and perform transactions. 
 
-In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.
-</source>
-        <target xml:space="preserve"></target>
+In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
+        <target xml:space="preserve" state="translated">Οι χρήστες λογαριασμού μπορούν να πραγματοποιούν συναλλαγές χρησιμοποιώντας το λογαριασμό (προσθέτοντας και αφαιρώντας χρήματα).
+
+Οι διαχειριστές λογαριασμού μπορούν να αλλάζουν τους χρήστες τόσο στη λίστα διαχειριστών όσο και στη λίστα χρηστών, να μετονομάζουν τον λογαριασμό και να πραγματοποιούν συναλλαγές.
+
+Στις Προχωρημένες Ρυθμίσεις, μπορείτε να ορίσετε τον λογαριασμό ως Κυβερνητικό Λογαριασμό. Οι κυβερνητικοί λογαριασμοί μπορούν να λαμβάνουν και να πληρώνουν φόρους και αγνοούνται κατά τη συλλογή φόρων και τον υπολογισμό της προσωπικής περιουσίας. Για να το ορίσετε, πρέπει να έχετε προνόμια κυβερνητικής τραπεζικής, που εκχωρούνται από έναν {Elected Title|Elected Titles}.</target>
       </trans-unit>
-      <trans-unit id="3">
-        <source xml:space="preserve">The Bank component is used to create and manage bank accounts
-</source>
-        <target xml:space="preserve"></target>
+      <trans-unit id="3" xml:space="preserve">
+        <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
+        <target xml:space="preserve" state="translated">Το στοιχείο Τράπεζα χρησιμοποιείται για τη δημιουργία και τη διαχείριση τραπεζικών λογαριασμών</target>
       </trans-unit>
       <trans-unit id="4">
         <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.
