@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="el" datatype="plaintext" original="defaultstrings">
     <body>
-      <trans-unit id="Could not create save file: {0}">
+      <trans-unit id="Could not create save file: {0}" xml:space="preserve">
         <source xml:space="preserve">Could not create save file: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δεν μπόρεσε να δημιουργηθεί το αρχείο: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Could not start server:">
         <source xml:space="preserve">Could not start server:</source>
@@ -150,9 +150,9 @@
         <source xml:space="preserve">No currency found.</source>
         <target xml:space="preserve">Δεν βρέθηκε νόμισμα.</target>
       </trans-unit>
-      <trans-unit id="&lt;Unassigned&gt;">
+      <trans-unit id="&lt;Unassigned&gt;" xml:space="preserve">
         <source xml:space="preserve">&lt;Unassigned&gt;</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">&lt;Μη ανατεθειμένο&gt;</target>
       </trans-unit>
       <trans-unit id="That contract is too far away to accept.  Contract board is located at {0}.">
         <source xml:space="preserve">That contract is too far away to accept.  Contract board is located at <ph id="0">{0}</ph>.</source>
@@ -824,9 +824,9 @@
         <source xml:space="preserve">Fiddleheads</source>
         <target xml:space="preserve">Κουνουπίδι</target>
       </trans-unit>
-      <trans-unit id="Fireweed Shoots">
+      <trans-unit id="Fireweed Shoots" xml:space="preserve">
         <source xml:space="preserve">Fireweed Shoots</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Βλαστοί Πυρόχορτου</target>
       </trans-unit>
       <trans-unit id="Giant Cactus Fruit">
         <source xml:space="preserve">Giant Cactus Fruit</source>
@@ -1028,9 +1028,9 @@
         <source xml:space="preserve">Tallow</source>
         <target xml:space="preserve">Λίπος</target>
       </trans-unit>
-      <trans-unit id="Bannock">
+      <trans-unit id="Bannock" xml:space="preserve">
         <source xml:space="preserve">Bannock</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μπανόκ</target>
       </trans-unit>
       <trans-unit id="Bean Paste">
         <source xml:space="preserve">Bean Paste</source>
@@ -1180,9 +1180,9 @@
         <source xml:space="preserve">Elk Taco</source>
         <target xml:space="preserve">Τάκο Ελαφιού</target>
       </trans-unit>
-      <trans-unit id="Elk Wellington">
+      <trans-unit id="Elk Wellington" xml:space="preserve">
         <source xml:space="preserve">Elk Wellington</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μεγάλη Έλαφος Γουέλινγκτον</target>
       </trans-unit>
       <trans-unit id="Flatbread">
         <source xml:space="preserve">Flatbread</source>
@@ -1384,9 +1384,9 @@
         <source xml:space="preserve">Glass</source>
         <target xml:space="preserve">Γυαλί</target>
       </trans-unit>
-      <trans-unit id="Fiberglass">
+      <trans-unit id="Fiberglass" xml:space="preserve">
         <source xml:space="preserve">Fiberglass</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Υαλοβάμβακας</target>
       </trans-unit>
       <trans-unit id="Fishing Pole">
         <source xml:space="preserve">Fishing Pole</source>
@@ -1672,9 +1672,9 @@
         <source xml:space="preserve">Square Pot</source>
         <target xml:space="preserve">Τετράγωνο Δοχείο</target>
       </trans-unit>
-      <trans-unit id="Pump Jack">
+      <trans-unit id="Pump Jack" xml:space="preserve">
         <source xml:space="preserve">Pump Jack</source>
-        <target xml:space="preserve">Αντλία</target>
+        <target xml:space="preserve" state="translated">Αντλία Πίεσης</target>
       </trans-unit>
       <trans-unit id="Refrigerator">
         <source xml:space="preserve">Refrigerator</source>
@@ -1984,9 +1984,9 @@
         <source xml:space="preserve">Derpy Hat</source>
         <target xml:space="preserve">Χαζό Καπέλο</target>
       </trans-unit>
-      <trans-unit id="Fit Torso">
+      <trans-unit id="Fit Torso" xml:space="preserve">
         <source xml:space="preserve">Fit Torso</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Λεπτός Κορμός</target>
       </trans-unit>
       <trans-unit id="Garden Boots">
         <source xml:space="preserve">Garden Boots</source>
@@ -2644,9 +2644,9 @@
         <source xml:space="preserve">Connecting...</source>
         <target xml:space="preserve">Γίνεται Σύνδεση...</target>
       </trans-unit>
-      <trans-unit id="Shift">
+      <trans-unit id="Shift" xml:space="preserve">
         <source xml:space="preserve">Shift</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μετατόπιση</target>
       </trans-unit>
       <trans-unit id="Impact in:">
         <source xml:space="preserve">Impact in:</source>
@@ -3486,9 +3486,9 @@
         <source xml:space="preserve">Plant to grow a camas plant.</source>
         <target xml:space="preserve">Φύτεψε για να μεγαλώσεις ένα φυτό camas.</target>
       </trans-unit>
-      <trans-unit id="Camas">
+      <trans-unit id="Camas" xml:space="preserve">
         <source xml:space="preserve">Camas</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ινδικός Υάκινθος</target>
       </trans-unit>
       <trans-unit id="Plant to grow a cedar sapling.">
         <source xml:space="preserve">Plant to grow a cedar sapling.</source>
@@ -3530,9 +3530,9 @@
         <source xml:space="preserve">Plant to grow fireweed.</source>
         <target xml:space="preserve">Φύτεψε για να μεγαλώσεις fireweed.</target>
       </trans-unit>
-      <trans-unit id="Fireweed">
+      <trans-unit id="Fireweed" xml:space="preserve">
         <source xml:space="preserve">Fireweed</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πυρόχορτο</target>
       </trans-unit>
       <trans-unit id="Plant to grow a fir tree.">
         <source xml:space="preserve">Plant to grow a fir tree.</source>
@@ -3862,9 +3862,9 @@
         <source xml:space="preserve">Error or otherwise informative message goes here.</source>
         <target xml:space="preserve">Εδώ εμφανίζεται το σφάλμα ή άλλο πληροφοριακό μήνυμα.</target>
       </trans-unit>
-      <trans-unit id="Eco">
+      <trans-unit id="Eco" xml:space="preserve">
         <source xml:space="preserve">Eco</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Οικολογικό</target>
       </trans-unit>
       <trans-unit id="Mine">
         <source xml:space="preserve">Mine</source>
@@ -3927,9 +3927,9 @@
         <source xml:space="preserve">Otter</source>
         <target xml:space="preserve">Ενυδρίδα</target>
       </trans-unit>
-      <trans-unit id="Salal">
+      <trans-unit id="Salal" xml:space="preserve">
         <source xml:space="preserve">Salal</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σαλάλ</target>
       </trans-unit>
       <trans-unit id="Amanita Mushroom">
         <source xml:space="preserve">Amanita Mushroom</source>
@@ -3988,17 +3988,17 @@
         <source xml:space="preserve">Thanks for supporting ECO!</source>
         <target xml:space="preserve">Ευχαριστούμε που υποστηρίζετε το ECO!</target>
       </trans-unit>
-      <trans-unit id="AWOOOOOOOOO">
+      <trans-unit id="AWOOOOOOOOO" xml:space="preserve">
         <source xml:space="preserve">AWOOOOOOOOO</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">AWOOOOOOOOO</target>
       </trans-unit>
       <trans-unit id="[Select on toolbar and right-click to place.]">
         <source xml:space="preserve">[Select on toolbar and right-click to place.]</source>
         <target xml:space="preserve">[Επέλεξέ το από την γραμμή εργαλειών και τοποθέτησέ το με δεξί κλικ.]</target>
       </trans-unit>
-      <trans-unit id="English">
+      <trans-unit id="English" xml:space="preserve">
         <source xml:space="preserve">English</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αγγλικά</target>
       </trans-unit>
       <trans-unit id="That item is not the right type of clothing">
         <source xml:space="preserve">That item is not the right type of clothing</source>
@@ -4080,9 +4080,9 @@
         <source xml:space="preserve">Opens the world graphs.</source>
         <target xml:space="preserve">Ανοίγει τους γράφους του κόσμου.</target>
       </trans-unit>
-      <trans-unit id="Opens the objectives panel, showing the stated objectives and other activities of citizens.">
+      <trans-unit id="Opens the objectives panel, showing the stated objectives and other activities of citizens." xml:space="preserve">
         <source xml:space="preserve">Opens the objectives panel, showing the stated objectives and other activities of citizens.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ανοίγει τον πίνακα αποστολών, που εμφανίζει τις δηλωμένες αποστολές και άλλες δραστηριότητες των πολιτών.</target>
       </trans-unit>
       <trans-unit id="Store Credit">
         <source xml:space="preserve">Store Credit</source>
@@ -4377,9 +4377,9 @@
         <source xml:space="preserve">Plugins</source>
         <target xml:space="preserve">Πρόσθετα</target>
       </trans-unit>
-      <trans-unit id="ModKit">
+      <trans-unit id="ModKit" xml:space="preserve">
         <source xml:space="preserve">ModKit</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">ModKit</target>
       </trans-unit>
       <trans-unit id="Stats">
         <source xml:space="preserve">Stats</source>
@@ -4550,17 +4550,17 @@
         <source xml:space="preserve">{0:verb} {1:benefits description} by {2:skill bonus} {3:next level}</source>
         <target xml:space="preserve">{0:verb} {1:benefits description} από {2:skill bonus} {3:next level}</target>
       </trans-unit>
-      <trans-unit id="Contract State: {0}">
+      <trans-unit id="Contract State: {0}" xml:space="preserve">
         <source xml:space="preserve">Contract State: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Κατάσταση Συμβολαίου: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Client: {0}">
+      <trans-unit id="Client: {0}" xml:space="preserve">
         <source xml:space="preserve">Client: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πελάτης: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Contractor: {0}">
+      <trans-unit id="Contractor: {0}" xml:space="preserve">
         <source xml:space="preserve">Contractor: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Εργολάβος: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Contract time has expired!  Client can mark 'Job Failed' at anytime">
         <source xml:space="preserve">Contract time has expired!  Client can mark 'Job Failed' at anytime</source>
@@ -4735,9 +4735,9 @@
         <source xml:space="preserve">Submit</source>
         <target xml:space="preserve">Υποβολή</target>
       </trans-unit>
-      <trans-unit id="Pay">
+      <trans-unit id="Pay" xml:space="preserve">
         <source xml:space="preserve">Pay</source>
-        <target xml:space="preserve">Πληρωμή</target>
+        <target xml:space="preserve" state="translated">Πλήρωσε</target>
       </trans-unit>
       <trans-unit id="PAST DUE">
         <source xml:space="preserve">PAST DUE</source>
@@ -5034,17 +5034,17 @@
         <source xml:space="preserve">Name</source>
         <target xml:space="preserve">Όνομα</target>
       </trans-unit>
-      <trans-unit id="&lt;undefined material&gt;">
+      <trans-unit id="&lt;undefined material&gt;" xml:space="preserve">
         <source xml:space="preserve">&lt;undefined material&gt;</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">&lt;απροσδιόριστο υλικό&gt;</target>
       </trans-unit>
       <trans-unit id="Add">
         <source xml:space="preserve">Add</source>
         <target xml:space="preserve">Προσθήκη</target>
       </trans-unit>
-      <trans-unit id="&lt;undefined&gt;">
+      <trans-unit id="&lt;undefined&gt;" xml:space="preserve">
         <source xml:space="preserve">&lt;undefined&gt;</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">&lt;απροσδιόριστο&gt;</target>
       </trans-unit>
       <trans-unit id="Can't have a negative deposit.">
         <source xml:space="preserve">Can't have a negative deposit.</source>
@@ -5285,9 +5285,9 @@
         <source xml:space="preserve">Whether temperature changes should be simulated.</source>
         <target xml:space="preserve">Θα πρέπει να προσομοιωθούν οι αλλαγές της θερμοκρασίας.</target>
       </trans-unit>
-      <trans-unit id="Sea levels start rising when CO2 is above this value">
+      <trans-unit id="Sea levels start rising when CO2 is above this value" xml:space="preserve">
         <source xml:space="preserve">Sea levels start rising when CO2 is above this value</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Η στάθμη της θάλασσας αρχίζει να ανεβαίνει όταν το CO2 είναι πάνω από αυτήν την τιμή</target>
       </trans-unit>
       <trans-unit id="For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the sea level will rise 1 meter.">
         <source xml:space="preserve">For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the sea level will rise 1 meter.</source>
@@ -5627,9 +5627,9 @@
         <source xml:space="preserve">Age</source>
         <target xml:space="preserve">Ηλικία</target>
       </trans-unit>
-      <trans-unit id="Ping">
+      <trans-unit id="Ping" xml:space="preserve">
         <source xml:space="preserve">Ping</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ping</target>
       </trans-unit>
       <trans-unit id="Property">
         <source xml:space="preserve">Property</source>
@@ -6424,9 +6424,9 @@
         <source xml:space="preserve">Deposit In:</source>
         <target xml:space="preserve">Κατάθεση Σε:</target>
       </trans-unit>
-      <trans-unit id="DefaultObject">
+      <trans-unit id="DefaultObject" xml:space="preserve">
         <source xml:space="preserve">DefaultObject</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Προεπιλεγμένο Αντικείμενο</target>
       </trans-unit>
       <trans-unit id="Currency:">
         <source xml:space="preserve">Currency:</source>
@@ -6528,9 +6528,9 @@
         <source xml:space="preserve">Mouse over this text link to view how to build or find a research table: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">Άσε το ποντίκι πάνω αυτό το link για να δεις πώς να χρίσεις ή να βρεις ένα τραπέζι έρευνας: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Discord">
+      <trans-unit id="Discord" xml:space="preserve">
         <source xml:space="preserve">Discord</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Discord</target>
       </trans-unit>
       <trans-unit id="The Meteor">
         <source xml:space="preserve">The Meteor</source>
@@ -6705,9 +6705,9 @@
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  You now owe <ph id="2">{2}</ph>.</source>
         <target xml:space="preserve">Αποπλήρωσες <ph id="0">{0}</ph> χρέος σε <ph id="1">{1}</ph>. Τώρα χρωστάς <ph id="2">{2}</ph>.</target>
       </trans-unit>
-      <trans-unit id="&lt;unassigned&gt;">
+      <trans-unit id="&lt;unassigned&gt;" xml:space="preserve">
         <source xml:space="preserve">&lt;unassigned&gt;</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">&lt;μη ανατεθειμένο&gt;</target>
       </trans-unit>
       <trans-unit id="selling">
         <source xml:space="preserve">selling</source>
@@ -6754,14 +6754,14 @@
         <target xml:space="preserve">Χρήστης</target>
         <note from="developer">As in the user type on the server</note>
       </trans-unit>
-      <trans-unit id="int">
+      <trans-unit id="int" xml:space="preserve">
         <source xml:space="preserve">int</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">ακέραιος</target>
         <note from="developer">As in the c# integer type</note>
       </trans-unit>
-      <trans-unit id="float">
+      <trans-unit id="float" xml:space="preserve">
         <source xml:space="preserve">float</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">αριθμός κινητής υποδιαστολής</target>
         <note from="developer">As in the c# float type</note>
       </trans-unit>
       <trans-unit id="string">
@@ -6769,9 +6769,9 @@
         <target xml:space="preserve">κείμενο</target>
         <note from="developer">As in the c# string type</note>
       </trans-unit>
-      <trans-unit id="bool">
+      <trans-unit id="bool" xml:space="preserve">
         <source xml:space="preserve">bool</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Λογική τιμή</target>
         <note from="developer">As in the c# boolean type</note>
       </trans-unit>
       <trans-unit id="Regenerated {0}. It may take up to ten minutes to see the immediate consequences in the world.">
@@ -6805,137 +6805,137 @@
         <source xml:space="preserve">This world has an attached Discord server!</source>
         <target xml:space="preserve">Αυτός ο κόσμος έχει έναν συνημμένο Discord server!</target>
       </trans-unit>
-      <trans-unit id="Sends a signal to surrounding objects.">
+      <trans-unit id="Sends a signal to surrounding objects." xml:space="preserve">
         <source xml:space="preserve">Sends a signal to surrounding objects.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Στέλνει σήμα στα γύρω αντικείμενα.</target>
       </trans-unit>
-      <trans-unit id="Logic Gate">
+      <trans-unit id="Logic Gate" xml:space="preserve">
         <source xml:space="preserve">Logic Gate</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Λογική Πύλη</target>
       </trans-unit>
-      <trans-unit id="Toggle on any touching wires and electronic objects.">
+      <trans-unit id="Toggle on any touching wires and electronic objects." xml:space="preserve">
         <source xml:space="preserve">Toggle on any touching wires and electronic objects.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ενεργοποιεί τυχόν καλώδια και ηλεκτρονικά αντικείμενα που αγγίζουν.</target>
       </trans-unit>
-      <trans-unit id="Connects electronic components.">
+      <trans-unit id="Connects electronic components." xml:space="preserve">
         <source xml:space="preserve">Connects electronic components.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Συνδέει ηλεκτρονικά εξαρτήματα.</target>
       </trans-unit>
-      <trans-unit id="Face">
+      <trans-unit id="Face" xml:space="preserve">
         <source xml:space="preserve">Face</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πρόσωπο</target>
       </trans-unit>
-      <trans-unit id="This piece of corn needs a good slathering of butter to curb that burnt taste.">
+      <trans-unit id="This piece of corn needs a good slathering of butter to curb that burnt taste." xml:space="preserve">
         <source xml:space="preserve">This piece of corn needs a good slathering of butter to curb that burnt taste.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αυτό το κομμάτι καλαμποκιού χρειάζεται ένα καλό άλειμμα βουτύρου για να περιορίσει αυτή τη γεύση καμένου.</target>
       </trans-unit>
-      <trans-unit id="The blackened surface of this unrecognizable meat is 'golden brown'.">
+      <trans-unit id="The blackened surface of this unrecognizable meat is 'golden brown'." xml:space="preserve">
         <source xml:space="preserve">The blackened surface of this unrecognizable meat is 'golden brown'.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Η μαυρισμένη επιφάνεια αυτού του μη αναγνωρίσιμου κρέατος είναι «χρυσοκαφέ».</target>
       </trans-unit>
-      <trans-unit id="A collection of the furled fronds of young ferns; a unique addition to a meal.">
+      <trans-unit id="A collection of the furled fronds of young ferns; a unique addition to a meal." xml:space="preserve">
         <source xml:space="preserve">A collection of the furled fronds of young ferns; a unique addition to a meal.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μια συλλογή από μάλλινα φύλλα νεαρών φτέρων· μια μοναδική προσθήκη σε ένα γεύμα.</target>
       </trans-unit>
-      <trans-unit id="A metal barrel for carrying liquids.">
+      <trans-unit id="A metal barrel for carrying liquids." xml:space="preserve">
         <source xml:space="preserve">A metal barrel for carrying liquids.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μεταλλικό βαρέλι για τη μεταφορά υγρών.</target>
       </trans-unit>
-      <trans-unit id="Boiler">
+      <trans-unit id="Boiler" xml:space="preserve">
         <source xml:space="preserve">Boiler</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Λέβητας</target>
       </trans-unit>
-      <trans-unit id="Copper Bar">
+      <trans-unit id="Copper Bar" xml:space="preserve">
         <source xml:space="preserve">Copper Bar</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ράβδος Χαλκού</target>
       </trans-unit>
-      <trans-unit id="Iron Gear">
+      <trans-unit id="Iron Gear" xml:space="preserve">
         <source xml:space="preserve">Iron Gear</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σιδερένιο Γρανάζι</target>
       </trans-unit>
-      <trans-unit id="Provides speed and torque conversions from a rotating power source to another device">
+      <trans-unit id="Provides speed and torque conversions from a rotating power source to another device" xml:space="preserve">
         <source xml:space="preserve">Provides speed and torque conversions from a rotating power source to another device</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Παρέχει μετατροπές ταχύτητας και ροπής από μια περιστρεφόμενη πηγή ενέργειας σε μια άλλη συσκευή</target>
       </trans-unit>
-      <trans-unit id="Gold Bar">
+      <trans-unit id="Gold Bar" xml:space="preserve">
         <source xml:space="preserve">Gold Bar</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ράβδος Χρυσού</target>
       </trans-unit>
-      <trans-unit id="Heat Sink">
+      <trans-unit id="Heat Sink" xml:space="preserve">
         <source xml:space="preserve">Heat Sink</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ψύκτρα</target>
       </trans-unit>
-      <trans-unit id="A copper plate to draw and disperse heat.">
+      <trans-unit id="A copper plate to draw and disperse heat." xml:space="preserve">
         <source xml:space="preserve">A copper plate to draw and disperse heat.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μια χάλκινη πλάκα για την απορρόφηση και τη διασπορά της θερμότητας.</target>
       </trans-unit>
-      <trans-unit id="Iron Axle">
+      <trans-unit id="Iron Axle" xml:space="preserve">
         <source xml:space="preserve">Iron Axle</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σιδερένιος άξονας</target>
       </trans-unit>
-      <trans-unit id="Iron Bar">
+      <trans-unit id="Iron Bar" xml:space="preserve">
         <source xml:space="preserve">Iron Bar</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ράβδος Σιδήρου</target>
       </trans-unit>
-      <trans-unit id="Iron Plate">
+      <trans-unit id="Iron Plate" xml:space="preserve">
         <source xml:space="preserve">Iron Plate</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σιδερένια Πλάκα</target>
       </trans-unit>
-      <trans-unit id="Iron Wheel">
+      <trans-unit id="Iron Wheel" xml:space="preserve">
         <source xml:space="preserve">Iron Wheel</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σιδερένιος Τροχός</target>
       </trans-unit>
-      <trans-unit id="Light Bulb">
+      <trans-unit id="Light Bulb" xml:space="preserve">
         <source xml:space="preserve">Light Bulb</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Λάμπα</target>
       </trans-unit>
-      <trans-unit id="An electric light with a wire filament.">
+      <trans-unit id="An electric light with a wire filament." xml:space="preserve">
         <source xml:space="preserve">An electric light with a wire filament.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα ηλεκτρικό φως με σύρμα.</target>
       </trans-unit>
-      <trans-unit id="Portable Steam Engine">
+      <trans-unit id="Portable Steam Engine" xml:space="preserve">
         <source xml:space="preserve">Portable Steam Engine</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Φορητή Ατμομηχανή</target>
       </trans-unit>
-      <trans-unit id="An engine that generates mechanical power through steam.">
+      <trans-unit id="An engine that generates mechanical power through steam." xml:space="preserve">
         <source xml:space="preserve">An engine that generates mechanical power through steam.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μια μηχανή που παράγει μηχανική ενέργεια μέσω ατμού.</target>
       </trans-unit>
-      <trans-unit id="Property Tool">
+      <trans-unit id="Property Tool" xml:space="preserve">
         <source xml:space="preserve">Property Tool</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Εργαλείο Ιδιοκτησίας</target>
       </trans-unit>
-      <trans-unit id="Land Claim Stake">
+      <trans-unit id="Land Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Land Claim Stake</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πάσσαλος Διεκδίκησης Γης</target>
       </trans-unit>
-      <trans-unit id="Land Claim Stakes">
+      <trans-unit id="Land Claim Stakes" xml:space="preserve">
         <source xml:space="preserve">Land Claim Stakes</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πάσσαλοι Διεκδίκησης Γης</target>
       </trans-unit>
-      <trans-unit id="Radiator">
+      <trans-unit id="Radiator" xml:space="preserve">
         <source xml:space="preserve">Radiator</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Καλοριφέρ</target>
       </trans-unit>
-      <trans-unit id="A heat sink that uses liquid running through copper fins to disperse heat build-up.">
+      <trans-unit id="A heat sink that uses liquid running through copper fins to disperse heat build-up." xml:space="preserve">
         <source xml:space="preserve">A heat sink that uses liquid running through copper fins to disperse heat build-up.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μια ψύκτρα που χρησιμοποιεί υγρό που ρέει μέσα από χάλκινα πτερύγια για να διασκορπίσει τη συσσωρευμένη θερμότητα.</target>
       </trans-unit>
-      <trans-unit id="Rubber Wheel">
+      <trans-unit id="Rubber Wheel" xml:space="preserve">
         <source xml:space="preserve">Rubber Wheel</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Λαστιχένιος Τροχός</target>
       </trans-unit>
-      <trans-unit id="Screws">
+      <trans-unit id="Screws" xml:space="preserve">
         <source xml:space="preserve">Screws</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Βίδες</target>
       </trans-unit>
-      <trans-unit id="Steam Tractor Harvester">
+      <trans-unit id="Steam Tractor Harvester" xml:space="preserve">
         <source xml:space="preserve">Steam Tractor Harvester</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Θεριστική μηχανή ατμοκίνητου τρακτέρ</target>
       </trans-unit>
-      <trans-unit id="An attachment for the steam tractor that allows for quick harvesting of plants.">
+      <trans-unit id="An attachment for the steam tractor that allows for quick harvesting of plants." xml:space="preserve">
         <source xml:space="preserve">An attachment for the steam tractor that allows for quick harvesting of plants.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα εξάρτημα για το ατμοκίνητο τρακτέρ που επιτρέπει τη γρήγορη συγκομιδή φυτών.</target>
       </trans-unit>
       <trans-unit id="Steam Tractor Sower">
         <source xml:space="preserve">Steam Tractor Sower</source>
@@ -7045,165 +7045,165 @@
         <source xml:space="preserve">Smelt Gold</source>
         <target xml:space="preserve">Τήξη Χρυσού</target>
       </trans-unit>
-      <trans-unit id="Smelt Iron">
+      <trans-unit id="Smelt Iron" xml:space="preserve">
         <source xml:space="preserve">Smelt Iron</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Λιώσε Σίδερο</target>
       </trans-unit>
-      <trans-unit id="Grants ">
+      <trans-unit id="Grants " xml:space="preserve">
         <source xml:space="preserve">Grants </source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Επιχορηγήσεις </target>
       </trans-unit>
-      <trans-unit id="Chainsaw">
+      <trans-unit id="Chainsaw" xml:space="preserve">
         <source xml:space="preserve">Chainsaw</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αλυσοπρίονο</target>
       </trans-unit>
-      <trans-unit id="Crane">
+      <trans-unit id="Crane" xml:space="preserve">
         <source xml:space="preserve">Crane</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Γερανός</target>
       </trans-unit>
-      <trans-unit id="Allows the placement and transport of materials in an area.">
+      <trans-unit id="Allows the placement and transport of materials in an area." xml:space="preserve">
         <source xml:space="preserve">Allows the placement and transport of materials in an area.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Επιτρέπει την τοποθέτηση και τη μεταφορά υλικών σε μια περιοχή.</target>
       </trans-unit>
-      <trans-unit id="A tool that tills the field for farming.">
+      <trans-unit id="A tool that tills the field for farming." xml:space="preserve">
         <source xml:space="preserve">A tool that tills the field for farming.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα εργαλείο που οργώνει το χωράφι για καλλιέργεια.</target>
       </trans-unit>
-      <trans-unit id="Skid Steer">
+      <trans-unit id="Skid Steer" xml:space="preserve">
         <source xml:space="preserve">Skid Steer</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μπουλντόζα</target>
       </trans-unit>
-      <trans-unit id="Small wood cart for hauling minimal loads.">
+      <trans-unit id="Small wood cart for hauling minimal loads." xml:space="preserve">
         <source xml:space="preserve">Small wood cart for hauling minimal loads.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μικρό ξύλινο καρότσι για μεταφορά ελάχιστων φορτίων.</target>
       </trans-unit>
-      <trans-unit id="Truck">
+      <trans-unit id="Truck" xml:space="preserve">
         <source xml:space="preserve">Truck</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Φορτηγό</target>
       </trans-unit>
-      <trans-unit id="Modern truck for hauling sizable loads.">
+      <trans-unit id="Modern truck for hauling sizable loads." xml:space="preserve">
         <source xml:space="preserve">Modern truck for hauling sizable loads.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μοντέρνο φορτηγό για μεταφορά μεγάλων φορτίων.</target>
       </trans-unit>
-      <trans-unit id="Wheelbarrow">
+      <trans-unit id="Wheelbarrow" xml:space="preserve">
         <source xml:space="preserve">Wheelbarrow</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Καρότσι κήπου</target>
       </trans-unit>
-      <trans-unit id="Small cart for hauling small loads.">
+      <trans-unit id="Small cart for hauling small loads." xml:space="preserve">
         <source xml:space="preserve">Small cart for hauling small loads.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μικρό καρότσι για μεταφορά μικρών φορτίων.</target>
       </trans-unit>
-      <trans-unit id="Wooden Elevator">
+      <trans-unit id="Wooden Elevator" xml:space="preserve">
         <source xml:space="preserve">Wooden Elevator</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ξύλινος Ανελκυστήρας</target>
       </trans-unit>
-      <trans-unit id="An elevator for transporting loads vertically.">
+      <trans-unit id="An elevator for transporting loads vertically." xml:space="preserve">
         <source xml:space="preserve">An elevator for transporting loads vertically.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένας ανελκυστήρας για τη μεταφορά φορτίων κατακόρυφα.</target>
       </trans-unit>
-      <trans-unit id="Assembly Line">
+      <trans-unit id="Assembly Line" xml:space="preserve">
         <source xml:space="preserve">Assembly Line</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Γραμμή Συναρμολόγησης</target>
       </trans-unit>
-      <trans-unit id="Bison Mount">
+      <trans-unit id="Bison Mount" xml:space="preserve">
         <source xml:space="preserve">Bison Mount</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Στήριγμα Βίσωνα</target>
       </trans-unit>
-      <trans-unit id="A fluffy, but very dead, bison head on a mount.">
+      <trans-unit id="A fluffy, but very dead, bison head on a mount." xml:space="preserve">
         <source xml:space="preserve">A fluffy, but very dead, bison head on a mount.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα αφράτο, αλλά πολύ νεκρό, κεφάλι βίσωνα σε μια βάση.</target>
       </trans-unit>
-      <trans-unit id="Campsite">
+      <trans-unit id="Campsite" xml:space="preserve">
         <source xml:space="preserve">Campsite</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Κάμπινγκ</target>
       </trans-unit>
-      <trans-unit id="A campsite">
+      <trans-unit id="A campsite" xml:space="preserve">
         <source xml:space="preserve">A campsite</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα κάμπινγκ</target>
       </trans-unit>
-      <trans-unit id="Distribution Station">
+      <trans-unit id="Distribution Station" xml:space="preserve">
         <source xml:space="preserve">Distribution Station</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σταθμός Διανομής</target>
       </trans-unit>
-      <trans-unit id="Electric Lathe">
+      <trans-unit id="Electric Lathe" xml:space="preserve">
         <source xml:space="preserve">Electric Lathe</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ηλεκτρικός Τόρνος</target>
       </trans-unit>
-      <trans-unit id="Electric Machinist Table">
+      <trans-unit id="Electric Machinist Table" xml:space="preserve">
         <source xml:space="preserve">Electric Machinist Table</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ηλεκτρικό Τραπέζι Μηχανικού</target>
       </trans-unit>
-      <trans-unit id="Electric Planer">
+      <trans-unit id="Electric Planer" xml:space="preserve">
         <source xml:space="preserve">Electric Planer</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ηλεκτρική Μηχανή Πλανίσματος</target>
       </trans-unit>
-      <trans-unit id="Electric Stamping Press">
+      <trans-unit id="Electric Stamping Press" xml:space="preserve">
         <source xml:space="preserve">Electric Stamping Press</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ηλεκτρικό Πιεστήριο Σφράγισης</target>
       </trans-unit>
-      <trans-unit id="Elk Mount">
+      <trans-unit id="Elk Mount" xml:space="preserve">
         <source xml:space="preserve">Elk Mount</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Στήριγμα Άλκης</target>
       </trans-unit>
-      <trans-unit id="A hunting trophy for your house.">
+      <trans-unit id="A hunting trophy for your house." xml:space="preserve">
         <source xml:space="preserve">A hunting trophy for your house.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα τρόπαιο κυνηγιού για το σπίτι σου.</target>
       </trans-unit>
-      <trans-unit id="You can hear the faint cries of Ecko when this mythical elk antler is held aloft.">
+      <trans-unit id="You can hear the faint cries of Ecko when this mythical elk antler is held aloft." xml:space="preserve">
         <source xml:space="preserve">You can hear the faint cries of Ecko when this mythical elk antler is held aloft.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μπορείς να ακούσεις τα αδύναμα κλάματα του Έκκο όταν αυτό το μυθικό κέρας ελαφιού κρατιέται ψηλά.</target>
       </trans-unit>
-      <trans-unit id="Framed Glass Door">
+      <trans-unit id="Framed Glass Door" xml:space="preserve">
         <source xml:space="preserve">Framed Glass Door</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Γυάλινη Πόρτα με Πλαίσιο</target>
       </trans-unit>
-      <trans-unit id="A beautiful glass door made of steel and glass.">
+      <trans-unit id="A beautiful glass door made of steel and glass." xml:space="preserve">
         <source xml:space="preserve">A beautiful glass door made of steel and glass.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μια όμορφη γυάλινη πόρτα από ατσάλι και γυαλί.</target>
       </trans-unit>
-      <trans-unit id="A door made from roughly hewn logs.">
+      <trans-unit id="A door made from roughly hewn logs." xml:space="preserve">
         <source xml:space="preserve">A door made from roughly hewn logs.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μια πόρτα φτιαγμένη από πρόχειρα σμιλεμένους κορμούς.</target>
       </trans-unit>
-      <trans-unit id="Kitchen">
+      <trans-unit id="Kitchen" xml:space="preserve">
         <source xml:space="preserve">Kitchen</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Κουζίνα</target>
       </trans-unit>
-      <trans-unit id="Large Corrugated Steel Door">
+      <trans-unit id="Large Corrugated Steel Door" xml:space="preserve">
         <source xml:space="preserve">Large Corrugated Steel Door</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μεγάλη Κυματοειδής Ατσάλινη Πόρτα</target>
       </trans-unit>
-      <trans-unit id="Large Hanging Lumber Sign">
+      <trans-unit id="Large Hanging Lumber Sign" xml:space="preserve">
         <source xml:space="preserve">Large Hanging Lumber Sign</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μεγάλη Κρεμαστή Ξύλινη Επιγραφή</target>
       </trans-unit>
-      <trans-unit id="Large Hanging Stone Sign">
+      <trans-unit id="Large Hanging Stone Sign" xml:space="preserve">
         <source xml:space="preserve">Large Hanging Stone Sign</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μεγάλη Κρεμαστή Πέτρινη Επιγραφή</target>
       </trans-unit>
-      <trans-unit id="Large Lumber Door">
+      <trans-unit id="Large Lumber Door" xml:space="preserve">
         <source xml:space="preserve">Large Lumber Door</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μεγάλη Ξύλινη Πόρτα</target>
       </trans-unit>
-      <trans-unit id="Large Standing Lumber Sign">
+      <trans-unit id="Large Standing Lumber Sign" xml:space="preserve">
         <source xml:space="preserve">Large Standing Lumber Sign</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μεγάλη Επιδαπέδια Ξύλινη Πινακίδα</target>
       </trans-unit>
-      <trans-unit id="Large Standing Stone Sign">
+      <trans-unit id="Large Standing Stone Sign" xml:space="preserve">
         <source xml:space="preserve">Large Standing Stone Sign</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μεγάλη Επιδαπέδια Πέτρινη Πινακίδα</target>
       </trans-unit>
-      <trans-unit id="Large Windowed Lumber Door">
+      <trans-unit id="Large Windowed Lumber Door" xml:space="preserve">
         <source xml:space="preserve">Large Windowed Lumber Door</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μεγάλη Ξύλινη Πόρτα με Τζάμια</target>
       </trans-unit>
-      <trans-unit id="Lathe">
+      <trans-unit id="Lathe" xml:space="preserve">
         <source xml:space="preserve">Lathe</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Τόρνος</target>
       </trans-unit>
-      <trans-unit id="Latrine">
+      <trans-unit id="Latrine" xml:space="preserve">
         <source xml:space="preserve">Latrine</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Λατρίνα</target>
       </trans-unit>
       <trans-unit id="Lumber Door">
         <source xml:space="preserve">Lumber Door</source>
@@ -7217,583 +7217,583 @@
         <source xml:space="preserve">Machinist Table</source>
         <target xml:space="preserve">Τραπέζι Μηχανικού</target>
       </trans-unit>
-      <trans-unit id="Real Estate Desk">
+      <trans-unit id="Real Estate Desk" xml:space="preserve">
         <source xml:space="preserve">Real Estate Desk</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Γραφείο Ακινήτων</target>
       </trans-unit>
-      <trans-unit id="A place to manage the sale and transfer of deeds and property.">
+      <trans-unit id="A place to manage the sale and transfer of deeds and property." xml:space="preserve">
         <source xml:space="preserve">A place to manage the sale and transfer of deeds and property.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένας χώρος για να διαχειρίζεσαι την πώληση και τη μεταβίβαση συμβολαίων και ακινήτων.</target>
       </trans-unit>
-      <trans-unit id="Robotic Assembly Line">
+      <trans-unit id="Robotic Assembly Line" xml:space="preserve">
         <source xml:space="preserve">Robotic Assembly Line</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ρομποτική Γραμμή Συναρμολόγησης</target>
       </trans-unit>
-      <trans-unit id="Rug Large">
+      <trans-unit id="Rug Large" xml:space="preserve">
         <source xml:space="preserve">Rug Large</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Χαλί Μεγάλο</target>
       </trans-unit>
-      <trans-unit id="Rug Medium">
+      <trans-unit id="Rug Medium" xml:space="preserve">
         <source xml:space="preserve">Rug Medium</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Χαλί Μεσαίο</target>
       </trans-unit>
-      <trans-unit id="Rug Small">
+      <trans-unit id="Rug Small" xml:space="preserve">
         <source xml:space="preserve">Rug Small</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Χαλί Μικρό</target>
       </trans-unit>
-      <trans-unit id="Screw Press">
+      <trans-unit id="Screw Press" xml:space="preserve">
         <source xml:space="preserve">Screw Press</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πρέσα Βιδών</target>
       </trans-unit>
-      <trans-unit id="Shaper">
+      <trans-unit id="Shaper" xml:space="preserve">
         <source xml:space="preserve">Shaper</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Φορμαριστής</target>
       </trans-unit>
-      <trans-unit id="A small sign for all of your smaller text needs!">
+      <trans-unit id="A small sign for all of your smaller text needs!" xml:space="preserve">
         <source xml:space="preserve">A small sign for all of your smaller text needs!</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μία μικρή πινακίδα για όλες τις μικρότερες ανάγκες του κειμένου σου!</target>
       </trans-unit>
-      <trans-unit id="Small Hanging Lumber Sign">
+      <trans-unit id="Small Hanging Lumber Sign" xml:space="preserve">
         <source xml:space="preserve">Small Hanging Lumber Sign</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μικρή Κρεμαστή Ξύλινη Επιγραφή</target>
       </trans-unit>
-      <trans-unit id="Small Hanging Stone Sign">
+      <trans-unit id="Small Hanging Stone Sign" xml:space="preserve">
         <source xml:space="preserve">Small Hanging Stone Sign</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μικρή Κρεμαστή Πέτρινη Επιγραφή</target>
       </trans-unit>
-      <trans-unit id="Small Standing Lumber Sign">
+      <trans-unit id="Small Standing Lumber Sign" xml:space="preserve">
         <source xml:space="preserve">Small Standing Lumber Sign</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μικρή Επιδαπέδια Ξύλινη Επιγραφή</target>
       </trans-unit>
-      <trans-unit id="Small Standing Stone Sign">
+      <trans-unit id="Small Standing Stone Sign" xml:space="preserve">
         <source xml:space="preserve">Small Standing Stone Sign</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μικρή Επιδαπέδια Πέτρινη Επιγραφή</target>
       </trans-unit>
-      <trans-unit id="Small Stockpile">
+      <trans-unit id="Small Stockpile" xml:space="preserve">
         <source xml:space="preserve">Small Stockpile</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μικρό Αποθεμα</target>
       </trans-unit>
-      <trans-unit id="Designates a 3x3x3 area as storage for large items.">
+      <trans-unit id="Designates a 3x3x3 area as storage for large items." xml:space="preserve">
         <source xml:space="preserve">Designates a 3x3x3 area as storage for large items.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Καθορίζει μια περιοχή 3x3x3 ως αποθήκη για μεγάλα αντικείμενα.</target>
       </trans-unit>
-      <trans-unit id="Steam Engine">
+      <trans-unit id="Steam Engine" xml:space="preserve">
         <source xml:space="preserve">Steam Engine</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ατμομηχανή</target>
       </trans-unit>
-      <trans-unit id="A large steam engine for generating power.">
+      <trans-unit id="A large steam engine for generating power." xml:space="preserve">
         <source xml:space="preserve">A large steam engine for generating power.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μια μεγάλη ατμομηχανή για την παραγωγή ενέργειας.</target>
       </trans-unit>
-      <trans-unit id="Steel Ceiling Light">
+      <trans-unit id="Steel Ceiling Light" xml:space="preserve">
         <source xml:space="preserve">Steel Ceiling Light</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Φωτιστικό οροφής από ατσάλι</target>
       </trans-unit>
-      <trans-unit id="A more modern way to light up a room.">
+      <trans-unit id="A more modern way to light up a room." xml:space="preserve">
         <source xml:space="preserve">A more modern way to light up a room.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένας πιο μοντέρνος τρόπος να φωτίσεις ένα δωμάτιο.</target>
       </trans-unit>
-      <trans-unit id="Steel Floor Lamp">
+      <trans-unit id="Steel Floor Lamp" xml:space="preserve">
         <source xml:space="preserve">Steel Floor Lamp</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Φωτιστικό Δαπέδου από Ατσάλι</target>
       </trans-unit>
-      <trans-unit id="A more modern way to light up a room. This time from the floor.">
+      <trans-unit id="A more modern way to light up a room. This time from the floor." xml:space="preserve">
         <source xml:space="preserve">A more modern way to light up a room. This time from the floor.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένας πιο μοντέρνος τρόπος να φωτίσεις ένα δωμάτιο. Αυτή τη φορά από το πάτωμα.</target>
       </trans-unit>
-      <trans-unit id="Steel Table Lamp">
+      <trans-unit id="Steel Table Lamp" xml:space="preserve">
         <source xml:space="preserve">Steel Table Lamp</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ατσάλινο Επιτραπέζιο Φωτιστικό</target>
       </trans-unit>
-      <trans-unit id="For late night studying. Or working. Or anything, really.">
+      <trans-unit id="For late night studying. Or working. Or anything, really." xml:space="preserve">
         <source xml:space="preserve">For late night studying. Or working. Or anything, really.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Για μελέτη αργά το βράδυ. Ή δουλειά. Ή οτιδήποτε άλλο, αλήθεια.</target>
       </trans-unit>
-      <trans-unit id="Stone Door">
+      <trans-unit id="Stone Door" xml:space="preserve">
         <source xml:space="preserve">Stone Door</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πέτρινη Πόρτα</target>
       </trans-unit>
-      <trans-unit id="A heavy stone door.">
+      <trans-unit id="A heavy stone door." xml:space="preserve">
         <source xml:space="preserve">A heavy stone door.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μία βαριά πέτρινη πόρτα.</target>
       </trans-unit>
-      <trans-unit id="Store">
+      <trans-unit id="Store" xml:space="preserve">
         <source xml:space="preserve">Store</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Κατάστημα</target>
       </trans-unit>
-      <trans-unit id="Stuffed Elk">
+      <trans-unit id="Stuffed Elk" xml:space="preserve">
         <source xml:space="preserve">Stuffed Elk</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Γεμιστή Άλκη</target>
       </trans-unit>
-      <trans-unit id="It looks so real!">
+      <trans-unit id="It looks so real!" xml:space="preserve">
         <source xml:space="preserve">It looks so real!</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μοιάζει τόσο αληθινη!</target>
       </trans-unit>
-      <trans-unit id="Table">
+      <trans-unit id="Table" xml:space="preserve">
         <source xml:space="preserve">Table</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Τραπέζι</target>
       </trans-unit>
-      <trans-unit id="Tiny Stockpile">
+      <trans-unit id="Tiny Stockpile" xml:space="preserve">
         <source xml:space="preserve">Tiny Stockpile</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μικρή Αποθήκη</target>
       </trans-unit>
-      <trans-unit id="Designates a 2x3x2 area as storage for large items.">
+      <trans-unit id="Designates a 2x3x2 area as storage for large items." xml:space="preserve">
         <source xml:space="preserve">Designates a 2x3x2 area as storage for large items.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Καθορίζει μια περιοχή 2x3x2 ως αποθήκη για μεγάλα αντικείμενα.</target>
       </trans-unit>
-      <trans-unit id="Wooden Ceiling Light">
+      <trans-unit id="Wooden Ceiling Light" xml:space="preserve">
         <source xml:space="preserve">Wooden Ceiling Light</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ξύλινο Φωτιστικό Οροφής</target>
       </trans-unit>
-      <trans-unit id="Wooden Floor Lamp">
+      <trans-unit id="Wooden Floor Lamp" xml:space="preserve">
         <source xml:space="preserve">Wooden Floor Lamp</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ξύλινο Επιδαπέδιο Φωτιστικό</target>
       </trans-unit>
-      <trans-unit id="Wooden Table Lamp">
+      <trans-unit id="Wooden Table Lamp" xml:space="preserve">
         <source xml:space="preserve">Wooden Table Lamp</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ξύλινο Επιτραπέζιο Φωτιστικό</target>
       </trans-unit>
-      <trans-unit id="{0} has raised the seas by {1}!">
+      <trans-unit id="{0} has raised the seas by {1}!" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has raised the seas by <ph id="1">{1}</ph>!</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> έχει αυξήσει τη στάθμη της θάλασσας κατά <ph id="1">{1}</ph>!</target>
       </trans-unit>
-      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}">
+      <trans-unit id="Current sea level: {0}  Amount raised so far: {1}" xml:space="preserve">
         <source xml:space="preserve">Current sea level: <ph id="0">{0}</ph>  Amount raised so far: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Τρέχον επίπεδο θάλασσας: <ph id="0">{0}</ph> Ποσό που έχει συγκεντρωθεί μέχρι τώρα: <ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="Compost">
+      <trans-unit id="Compost" xml:space="preserve">
         <source xml:space="preserve">Compost</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Κομπόστ</target>
       </trans-unit>
-      <trans-unit id="Water">
+      <trans-unit id="Water" xml:space="preserve">
         <source xml:space="preserve">Water</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Νερό</target>
       </trans-unit>
-      <trans-unit id="4 x 1 Dirt Ramp.">
+      <trans-unit id="4 x 1 Dirt Ramp." xml:space="preserve">
         <source xml:space="preserve">4 x 1 Dirt Ramp.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">4 x 1 Λασπωμένη Ραμπα.</target>
       </trans-unit>
-      <trans-unit id="Starter Camp">
+      <trans-unit id="Starter Camp" xml:space="preserve">
         <source xml:space="preserve">Starter Camp</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αρχική Κατασκήνωση</target>
       </trans-unit>
-      <trans-unit id="Garbage">
+      <trans-unit id="Garbage" xml:space="preserve">
         <source xml:space="preserve">Garbage</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σκουπίδια</target>
       </trans-unit>
-      <trans-unit id="A disgusting pile of garbage.">
+      <trans-unit id="A disgusting pile of garbage." xml:space="preserve">
         <source xml:space="preserve">A disgusting pile of garbage.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένας αποκρουστικός σωρός σκουπιδιών.</target>
       </trans-unit>
-      <trans-unit id="Liquid Crafter">
+      <trans-unit id="Liquid Crafter" xml:space="preserve">
         <source xml:space="preserve">Liquid Crafter</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δημιουργός Υγρών</target>
       </trans-unit>
-      <trans-unit id="Liquid Converter">
+      <trans-unit id="Liquid Converter" xml:space="preserve">
         <source xml:space="preserve">Liquid Converter</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μετατροπέας Υγρών</target>
       </trans-unit>
-      <trans-unit id="Pump">
+      <trans-unit id="Pump" xml:space="preserve">
         <source xml:space="preserve">Pump</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αντλία</target>
       </trans-unit>
-      <trans-unit id="Connected to water source.">
+      <trans-unit id="Connected to water source." xml:space="preserve">
         <source xml:space="preserve">Connected to water source.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Συνδεδεμένο με πηγή νερού.</target>
       </trans-unit>
-      <trans-unit id="Not connected to water source.">
+      <trans-unit id="Not connected to water source." xml:space="preserve">
         <source xml:space="preserve">Not connected to water source.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δεν είναι συνδεδεμένο με πηγή νερού.</target>
       </trans-unit>
-      <trans-unit id="Steam Tractor">
+      <trans-unit id="Steam Tractor" xml:space="preserve">
         <source xml:space="preserve">Steam Tractor</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ατμοκίνητο Τρακτέρ</target>
       </trans-unit>
-      <trans-unit id="A tractor powered through steam.">
+      <trans-unit id="A tractor powered through steam." xml:space="preserve">
         <source xml:space="preserve">A tractor powered through steam.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα τρακτέρ που κινείται με ατμό.</target>
       </trans-unit>
-      <trans-unit id="Toll">
+      <trans-unit id="Toll" xml:space="preserve">
         <source xml:space="preserve">Toll</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Διόδια</target>
       </trans-unit>
-      <trans-unit id="You don't have access to directly switch this; you must pay the toll.">
+      <trans-unit id="You don't have access to directly switch this; you must pay the toll." xml:space="preserve">
         <source xml:space="preserve">You don't have access to directly switch this; you must pay the toll.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δεν έχεις πρόσβαση να το αλλάξεις απευθείας· πρέπει να πληρώσεις το διόδια.</target>
       </trans-unit>
-      <trans-unit id="No room for filtered waste.">
+      <trans-unit id="No room for filtered waste." xml:space="preserve">
         <source xml:space="preserve">No room for filtered waste.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δεν υπάρχει χώρος για φιλτραρισμένα απόβλητα.</target>
       </trans-unit>
-      <trans-unit id="{0} disabled, no room left for filtered waste.">
+      <trans-unit id="{0} disabled, no room left for filtered waste." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> disabled, no room left for filtered waste.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> απενεργοποιημένο, δεν υπάρχει χώρος για φιλτραρισμένα απόβλητα.</target>
       </trans-unit>
-      <trans-unit id="DOES CHEATER THINGS THROUGH CHEATING POWERS">
+      <trans-unit id="DOES CHEATER THINGS THROUGH CHEATING POWERS" xml:space="preserve">
         <source xml:space="preserve">DOES CHEATER THINGS THROUGH CHEATING POWERS</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">ΚΑΝΕΙ CHEATΑΡΙΣΜΕΝΑ ΠΡΑΓΜΑΤΑ ΜΕΣΩ ΤΗΣ ΔΥΝΑΜΗΣ ΤΟΥ CHEATING</target>
       </trans-unit>
-      <trans-unit id="Used to till soil and prepare it for planting.">
+      <trans-unit id="Used to till soil and prepare it for planting." xml:space="preserve">
         <source xml:space="preserve">Used to till soil and prepare it for planting.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Χρησιμοποιείται για το όργωμα του εδάφους και την προετοιμασία του για φύτευση.</target>
       </trans-unit>
-      <trans-unit id="Measures the water content of the environment.">
+      <trans-unit id="Measures the water content of the environment." xml:space="preserve">
         <source xml:space="preserve">Measures the water content of the environment.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μετράει την περιεκτικότητα νερού του περιβάλλοντος.</target>
       </trans-unit>
-      <trans-unit id="Beaker and measuring tools for detecting the factors influencing plants in the environment.">
+      <trans-unit id="Beaker and measuring tools for detecting the factors influencing plants in the environment." xml:space="preserve">
         <source xml:space="preserve">Beaker and measuring tools for detecting the factors influencing plants in the environment.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δοχείο και εργαλεία μέτρησης για την ανίχνευση των παραγόντων που επηρεάζουν τα φυτά στο περιβάλλον.</target>
       </trans-unit>
-      <trans-unit id="A smoke that contains a combination of pollutants.">
+      <trans-unit id="A smoke that contains a combination of pollutants." xml:space="preserve">
         <source xml:space="preserve">A smoke that contains a combination of pollutants.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Καπνός που περιέχει έναν συνδυασμό ρυπαντών.</target>
       </trans-unit>
-      <trans-unit id="A reactive gas needed for respiration.">
+      <trans-unit id="A reactive gas needed for respiration." xml:space="preserve">
         <source xml:space="preserve">A reactive gas needed for respiration.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα αντιδραστικό αέριο απαραίτητο για την αναπνοή.</target>
       </trans-unit>
-      <trans-unit id="A byproduct gas of respiration.">
+      <trans-unit id="A byproduct gas of respiration." xml:space="preserve">
         <source xml:space="preserve">A byproduct gas of respiration.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα παραπροϊόν αερίου της αναπνοής.</target>
       </trans-unit>
-      <trans-unit id="An inert gas.">
+      <trans-unit id="An inert gas." xml:space="preserve">
         <source xml:space="preserve">An inert gas.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ένα αδρανές αέριο.</target>
       </trans-unit>
-      <trans-unit id="Government">
+      <trans-unit id="Government" xml:space="preserve">
         <source xml:space="preserve">Government</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Κυβέρνηση</target>
       </trans-unit>
-      <trans-unit id="Economy Viewer">
+      <trans-unit id="Economy Viewer" xml:space="preserve">
         <source xml:space="preserve">Economy Viewer</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Προβολέας Οικονομίας</target>
       </trans-unit>
-      <trans-unit id="Remove blocks from the property at {0} until there are less than {1}.">
+      <trans-unit id="Remove blocks from the property at {0} until there are less than {1}." xml:space="preserve">
         <source xml:space="preserve">Remove blocks from the property at <ph id="0">{0}</ph> until there are less than <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αφαίρεσε τα μπλοκ από το ακίνητο στο <ph id="0">{0}</ph> μέχρι να μείνουν λιγότερα από <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Logged out. Last online {0} ago">
+      <trans-unit id="Logged out. Last online {0} ago" xml:space="preserve">
         <source xml:space="preserve">Logged out. Last online <ph id="0">{0}</ph> ago</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αποσυνδέθηκες. Τελευταία σύνδεση <ph id="0">{0}</ph> πριν</target>
       </trans-unit>
-      <trans-unit id="Unauthorized">
+      <trans-unit id="Unauthorized" xml:space="preserve">
         <source xml:space="preserve">Unauthorized</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μη εξουσιοδοτημένο</target>
       </trans-unit>
-      <trans-unit id="Pipe particle emitter">
+      <trans-unit id="Pipe particle emitter" xml:space="preserve">
         <source xml:space="preserve">Pipe particle emitter</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σωλήνας εκπομπής σωματιδίων</target>
       </trans-unit>
-      <trans-unit id="WorldObject">
+      <trans-unit id="WorldObject" xml:space="preserve">
         <source xml:space="preserve">WorldObject</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">ΑντικείμεναΚόσμου</target>
       </trans-unit>
-      <trans-unit id="No empty tilled blocks in range.">
+      <trans-unit id="No empty tilled blocks in range." xml:space="preserve">
         <source xml:space="preserve">No empty tilled blocks in range.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δεν υπάρχουν κενά όργωμένα τετράγωνα στην περιοχή.</target>
       </trans-unit>
-      <trans-unit id="voted">
+      <trans-unit id="voted" xml:space="preserve">
         <source xml:space="preserve">voted</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">ψήφισαν</target>
       </trans-unit>
-      <trans-unit id="Turned on">
+      <trans-unit id="Turned on" xml:space="preserve">
         <source xml:space="preserve">Turned on</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ανοιχτό</target>
       </trans-unit>
-      <trans-unit id="Turned off">
+      <trans-unit id="Turned off" xml:space="preserve">
         <source xml:space="preserve">Turned off</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Κλειστό</target>
       </trans-unit>
-      <trans-unit id="Must have an owner to function.">
+      <trans-unit id="Must have an owner to function." xml:space="preserve">
         <source xml:space="preserve">Must have an owner to function.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πρέπει να έχει ιδιοκτήτη για να λειτουργήσει.</target>
       </trans-unit>
-      <trans-unit id="{0}ms">
+      <trans-unit id="{0}ms" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>ms</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>ms</target>
       </trans-unit>
-      <trans-unit id="LAN">
+      <trans-unit id="LAN" xml:space="preserve">
         <source xml:space="preserve">LAN</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Τοπικό Δίκτυο</target>
       </trans-unit>
-      <trans-unit id="Recent">
+      <trans-unit id="Recent" xml:space="preserve">
         <source xml:space="preserve">Recent</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πρόσφατα</target>
       </trans-unit>
-      <trans-unit id="(Skip all tutorials)">
+      <trans-unit id="(Skip all tutorials)" xml:space="preserve">
         <source xml:space="preserve">(Skip all tutorials)</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">(Παράβλεψη όλης της εκμάθησης)</target>
       </trans-unit>
-      <trans-unit id="Next">
+      <trans-unit id="Next" xml:space="preserve">
         <source xml:space="preserve">Next</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Επόμενο</target>
       </trans-unit>
-      <trans-unit id="Item">
+      <trans-unit id="Item" xml:space="preserve">
         <source xml:space="preserve">Item</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Εντικείμενο</target>
       </trans-unit>
-      <trans-unit id="Property Rights">
+      <trans-unit id="Property Rights" xml:space="preserve">
         <source xml:space="preserve">Property Rights</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δικαιώματα Περιουσίας</target>
       </trans-unit>
-      <trans-unit id="Payment">
+      <trans-unit id="Payment" xml:space="preserve">
         <source xml:space="preserve">Payment</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πληρωμή</target>
       </trans-unit>
-      <trans-unit id="{0} more copy of this contract available.">
+      <trans-unit id="{0} more copy of this contract available." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> more copy of this contract available.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> περισσότερα αντίγραφα αυτού του συμβολαίου διαθέσιμα.</target>
       </trans-unit>
-      <trans-unit id="{0} more copies of this contract available.">
+      <trans-unit id="{0} more copies of this contract available." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> more copies of this contract available.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> περισσότερα αντίτυπα αυτού του συμβολαίου διαθέσιμα.</target>
       </trans-unit>
-      <trans-unit id="Contracts">
+      <trans-unit id="Contracts" xml:space="preserve">
         <source xml:space="preserve">Contracts</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Συμβόλαια</target>
       </trans-unit>
-      <trans-unit id="{0} began fast forwarding the server.">
+      <trans-unit id="{0} began fast forwarding the server." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> began fast forwarding the server.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> άρχισε να προχωράει γρήγορα τον διακομιστή.</target>
       </trans-unit>
-      <trans-unit id="{0} stopped fast forwarding the server.">
+      <trans-unit id="{0} stopped fast forwarding the server." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> stopped fast forwarding the server.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> σταμάτησε να προωθεί γρήγορα τον διακομιστή.</target>
       </trans-unit>
-      <trans-unit id="Discovered first by {0} on {1}">
+      <trans-unit id="Discovered first by {0} on {1}" xml:space="preserve">
         <source xml:space="preserve">Discovered first by <ph id="0">{0}</ph> on <ph id="1">{1}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ανακαλύφθηκε για πρώτη φορά από <ph id="0">{0}</ph> στις <ph id="1">{1}</ph></target>
         <note from="developer">{0} = Username {1} = Date.</note>
       </trans-unit>
-      <trans-unit id="Global level-ups: {0}">
+      <trans-unit id="Global level-ups: {0}" xml:space="preserve">
         <source xml:space="preserve">Global level-ups: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αναβαθμίσεις σε παγκόσμιο επίπεδο: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="{0} has abandoned the {1} specialty.">
+      <trans-unit id="{0} has abandoned the {1} specialty." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has abandoned the <ph id="1">{1}</ph> specialty.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> έχει εγκαταλείψει την ειδικότητα <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="The property on this deed can only be unclaimed by {0}">
+      <trans-unit id="The property on this deed can only be unclaimed by {0}" xml:space="preserve">
         <source xml:space="preserve">The property on this deed can only be unclaimed by <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Η ιδιοκτησία σε αυτό το συμβόλαιο μπορεί να απο-διεκδικηθεί μόνο από <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Owned by {0}">
+      <trans-unit id="Owned by {0}" xml:space="preserve">
         <source xml:space="preserve">Owned by <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ανήκει στον <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="{0} gave {1} a review: {2}">
+      <trans-unit id="{0} gave {1} a review: {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> gave <ph id="1">{1}</ph> a review: <ph id="2">{2}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> έδωσε στον <ph id="1">{1}</ph> μια αξιολόγηση: <ph id="2">{2}</ph></target>
       </trans-unit>
-      <trans-unit id="A trade from {0} failed because you didn't have enough {1}.">
+      <trans-unit id="A trade from {0} failed because you didn't have enough {1}." xml:space="preserve">
         <source xml:space="preserve">A trade from <ph id="0">{0}</ph> failed because you didn't have enough <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Μία συναλλαγή από <ph id="0">{0}</ph> απέτυχε επειδή δεν είχες αρκετό <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Sales">
+      <trans-unit id="Sales" xml:space="preserve">
         <source xml:space="preserve">Sales</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πωλήσεις</target>
       </trans-unit>
-      <trans-unit id="{0} claimed their community distributed items: {1}">
+      <trans-unit id="{0} claimed their community distributed items: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> claimed their community distributed items: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> ισχυρίστηκε ότι η κοινότητά τους διέθετε αντικείμενα: <ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="{0} gave {1} to {2} in exchange for {3}.">
+      <trans-unit id="{0} gave {1} to {2} in exchange for {3}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> gave <ph id="1">{1}</ph> to <ph id="2">{2}</ph> in exchange for <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> έδωσε <ph id="1">{1}</ph> σε <ph id="2">{2}</ph> με αντάλλαγμα <ph id="3">{3}</ph>.</target>
       </trans-unit>
-      <trans-unit id="You gave {0} to {1} in exchange for {2}.">
+      <trans-unit id="You gave {0} to {1} in exchange for {2}." xml:space="preserve">
         <source xml:space="preserve">You gave <ph id="0">{0}</ph> to <ph id="1">{1}</ph> in exchange for <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Έδωσες <ph id="0">{0}</ph> σε <ph id="1">{1}</ph> με αντάλλαγμα <ph id="2">{2}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} only has {1}.">
+      <trans-unit id="{0} only has {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> only has <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> έχει μόνο <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} is only selling {1}.">
+      <trans-unit id="{0} is only selling {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is only selling <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> πουλάει μόνο <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} is not selling any more {1}.">
+      <trans-unit id="{0} is not selling any more {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not selling any more <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> δεν πουλάει πια <ph id="1">{1}</ph>.</target>
         <note from="developer">{0} User / Shopname {1} Currency</note>
       </trans-unit>
-      <trans-unit id="{0} is only buying {1}.">
+      <trans-unit id="{0} is only buying {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is only buying <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> αγοράζει μόνο <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} is not buying any more {1}.">
+      <trans-unit id="{0} is not buying any more {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not buying any more <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> δεν αγοράζει πια <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} bought {1} from {2}">
+      <trans-unit id="{0} bought {1} from {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> bought <ph id="1">{1}</ph> from <ph id="2">{2}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> αγόρασε <ph id="1">{1}</ph> από <ph id="2">{2}</ph></target>
       </trans-unit>
-      <trans-unit id="You don't own this deed.">
+      <trans-unit id="You don't own this deed." xml:space="preserve">
         <source xml:space="preserve">You don't own this deed.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δεν κατέχεις αυτό το έγγραφο.</target>
       </trans-unit>
-      <trans-unit id="Meteor destruction sequence cancelled.">
+      <trans-unit id="Meteor destruction sequence cancelled." xml:space="preserve">
         <source xml:space="preserve">Meteor destruction sequence cancelled.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Η ακολουθία καταστροφής με μετεωρίτη ακυρώθηκε.</target>
       </trans-unit>
-      <trans-unit id="Sea Level">
+      <trans-unit id="Sea Level" xml:space="preserve">
         <source xml:space="preserve">Sea Level</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Επίπεδο Θαλάσσης</target>
       </trans-unit>
       <trans-unit id="Temperature">
         <source xml:space="preserve">Temperature</source>
         <target xml:space="preserve">Θερμοκρασία</target>
       </trans-unit>
-      <trans-unit id="Ground Pollution">
+      <trans-unit id="Ground Pollution" xml:space="preserve">
         <source xml:space="preserve">Ground Pollution</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ρύπανση Εδάφους</target>
       </trans-unit>
-      <trans-unit id="CO2 In Atmosphere">
+      <trans-unit id="CO2 In Atmosphere" xml:space="preserve">
         <source xml:space="preserve">CO2 In Atmosphere</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">CO2 Στην Ατμόσφαιρα</target>
       </trans-unit>
-      <trans-unit id="{0} Population">
+      <trans-unit id="{0} Population" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Population</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> Πληθυσμός</target>
       </trans-unit>
-      <trans-unit id="Sell">
+      <trans-unit id="Sell" xml:space="preserve">
         <source xml:space="preserve">Sell</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πούλησε</target>
       </trans-unit>
-      <trans-unit id="Play">
+      <trans-unit id="Play" xml:space="preserve">
         <source xml:space="preserve">Play</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Παίξε</target>
       </trans-unit>
-      <trans-unit id="Pay Tax">
+      <trans-unit id="Pay Tax" xml:space="preserve">
         <source xml:space="preserve">Pay Tax</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πλήρωσε Φόρο</target>
       </trans-unit>
-      <trans-unit id="Harvest">
+      <trans-unit id="Harvest" xml:space="preserve">
         <source xml:space="preserve">Harvest</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Συγκομιδή</target>
       </trans-unit>
-      <trans-unit id="Choose a World to Join.">
+      <trans-unit id="Choose a World to Join." xml:space="preserve">
         <source xml:space="preserve">Choose a World to Join.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Διάλεξε έναν κόσμο για να συμμετάσχεις.</target>
       </trans-unit>
-      <trans-unit id="Authorization">
+      <trans-unit id="Authorization" xml:space="preserve">
         <source xml:space="preserve">Authorization</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Εξουσιοδότηση</target>
       </trans-unit>
-      <trans-unit id="Are you sure you want to delete all markers?">
+      <trans-unit id="Are you sure you want to delete all markers?" xml:space="preserve">
         <source xml:space="preserve">Are you sure you want to delete all markers?</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Είσαι σίγουρος ότι θέλεις να διαγράψεις όλα τα σημάδια;</target>
       </trans-unit>
-      <trans-unit id="Skip the rest of the tutorial?">
+      <trans-unit id="Skip the rest of the tutorial?" xml:space="preserve">
         <source xml:space="preserve">Skip the rest of the tutorial?</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Παράλειψη της υπόλοιπης εκμάθησης;</target>
       </trans-unit>
-      <trans-unit id="Generate a random new world? This will take a while.">
+      <trans-unit id="Generate a random new world? This will take a while." xml:space="preserve">
         <source xml:space="preserve">Generate a random new world? This will take a while.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δημιουργία ενός τυχαίου κόσμου; Αυτό θα πάρει λίγη ώρα.</target>
       </trans-unit>
-      <trans-unit id="{0} unlock">
+      <trans-unit id="{0} unlock" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> unlock</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> ξεκλείδωμα</target>
       </trans-unit>
-      <trans-unit id="File">
+      <trans-unit id="File" xml:space="preserve">
         <source xml:space="preserve">File</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αρχείο</target>
       </trans-unit>
-      <trans-unit id="{0} sleeping users.">
+      <trans-unit id="{0} sleeping users." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> sleeping users.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> κοιμώμενοι χρήστες.</target>
       </trans-unit>
-      <trans-unit id="Browse Mods">
+      <trans-unit id="Browse Mods" xml:space="preserve">
         <source xml:space="preserve">Browse Mods</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Περιήγηση στα Mods</target>
       </trans-unit>
-      <trans-unit id="Repetitions">
+      <trans-unit id="Repetitions" xml:space="preserve">
         <source xml:space="preserve">Repetitions</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Επαναλήψεις</target>
       </trans-unit>
-      <trans-unit id="Designates how many times people can claim this contract before it is no longer offered.  Zero means unlimited.">
+      <trans-unit id="Designates how many times people can claim this contract before it is no longer offered.  Zero means unlimited." xml:space="preserve">
         <source xml:space="preserve">Designates how many times people can claim this contract before it is no longer offered.  Zero means unlimited.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Καθορίζει πόσες φορές οι άνθρωποι μπορούν να διεκδικήσουν αυτό το συμβόλαιο πριν σταματήσει να προσφέρεται. Το μηδέν σημαίνει απεριόριστα.</target>
       </trans-unit>
-      <trans-unit id="Collapse All">
+      <trans-unit id="Collapse All" xml:space="preserve">
         <source xml:space="preserve">Collapse All</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σύμπτυξη Όλων</target>
       </trans-unit>
-      <trans-unit id="Expand All">
+      <trans-unit id="Expand All" xml:space="preserve">
         <source xml:space="preserve">Expand All</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ανάπτυξη Όλων</target>
       </trans-unit>
-      <trans-unit id="This object requires a connection to a set of other objects via the power grid in order to function.  Nearby objects are automatically connected via the power grid.">
+      <trans-unit id="This object requires a connection to a set of other objects via the power grid in order to function.  Nearby objects are automatically connected via the power grid." xml:space="preserve">
         <source xml:space="preserve">This object requires a connection to a set of other objects via the power grid in order to function.  Nearby objects are automatically connected via the power grid.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αυτό το αντικείμενο χρειάζεται σύνδεση με ένα σύνολο άλλων αντικειμένων μέσω του δικτύου ηλεκτρικής ενέργειας για να λειτουργήσει. Τα κοντινά αντικείμενα συνδέονται αυτόματα μέσω του δικτύου ενέργειας.</target>
       </trans-unit>
-      <trans-unit id="Load this world?">
+      <trans-unit id="Load this world?" xml:space="preserve">
         <source xml:space="preserve">Load this world?</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Φόρτωση αυτού του κόσμου;</target>
       </trans-unit>
-      <trans-unit id="Pollution">
+      <trans-unit id="Pollution" xml:space="preserve">
         <source xml:space="preserve">Pollution</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Ρύπανση</target>
       </trans-unit>
-      <trans-unit id="Vehicles">
+      <trans-unit id="Vehicles" xml:space="preserve">
         <source xml:space="preserve">Vehicles</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Οχήματα</target>
       </trans-unit>
-      <trans-unit id="Blocks">
+      <trans-unit id="Blocks" xml:space="preserve">
         <source xml:space="preserve">Blocks</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Τετράγωνα</target>
       </trans-unit>
-      <trans-unit id="Modules">
+      <trans-unit id="Modules" xml:space="preserve">
         <source xml:space="preserve">Modules</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Τμήματα</target>
       </trans-unit>
-      <trans-unit id="Seed">
+      <trans-unit id="Seed" xml:space="preserve">
         <source xml:space="preserve">Seed</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Σπόρος</target>
       </trans-unit>
-      <trans-unit id="Skill Books">
+      <trans-unit id="Skill Books" xml:space="preserve">
         <source xml:space="preserve">Skill Books</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Βιβλία Δεξιοτήτων</target>
       </trans-unit>
-      <trans-unit id="Skill Scrolls">
+      <trans-unit id="Skill Scrolls" xml:space="preserve">
         <source xml:space="preserve">Skill Scrolls</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Πάυροι Δεξιοτήτων</target>
       </trans-unit>
-      <trans-unit id="World Object">
+      <trans-unit id="World Object" xml:space="preserve">
         <source xml:space="preserve">World Object</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αντικείμενο Κόσμου</target>
       </trans-unit>
-      <trans-unit id="Tech">
+      <trans-unit id="Tech" xml:space="preserve">
         <source xml:space="preserve">Tech</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Τεχνολογία</target>
       </trans-unit>
-      <trans-unit id="Crop">
+      <trans-unit id="Crop" xml:space="preserve">
         <source xml:space="preserve">Crop</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Καλλιέργεια</target>
       </trans-unit>
-      <trans-unit id="Fuel">
+      <trans-unit id="Fuel" xml:space="preserve">
         <source xml:space="preserve">Fuel</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Καύσιμο</target>
       </trans-unit>
-      <trans-unit id="Road">
+      <trans-unit id="Road" xml:space="preserve">
         <source xml:space="preserve">Road</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Δρόμος</target>
       </trans-unit>
-      <trans-unit id="Total Value of Stock: {0}">
+      <trans-unit id="Total Value of Stock: {0}" xml:space="preserve">
         <source xml:space="preserve">Total Value of Stock: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Συνολική αξία αποθέματος: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="This {0} is unowned.">
+      <trans-unit id="This {0} is unowned." xml:space="preserve">
         <source xml:space="preserve">This <ph id="0">{0}</ph> is unowned.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αυτό το <ph id="0">{0}</ph> δεν έχει ιδιοκτήτη.</target>
       </trans-unit>
-      <trans-unit id="This {0} belongs to a deed: {1}">
+      <trans-unit id="This {0} belongs to a deed: {1}" xml:space="preserve">
         <source xml:space="preserve">This <ph id="0">{0}</ph> belongs to a deed: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Αυτό το <ph id="0">{0}</ph> ανήκει σε ένα έγγραφο: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="This {0} is on unowned property.">
         <source xml:space="preserve">This <ph id="0">{0}</ph> is on unowned property.</source>
