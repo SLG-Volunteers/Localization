@@ -450,9 +450,9 @@
         <source xml:space="preserve">Loading</source>
         <target xml:space="preserve">Φόρτωση</target>
       </trans-unit>
-      <trans-unit id="118">
+      <trans-unit id="118" xml:space="preserve">
         <source xml:space="preserve">Populations</source>
-        <target xml:space="preserve">Πληθυσμός</target>
+        <target xml:space="preserve" state="translated">Πληθυσμοί</target>
       </trans-unit>
       <trans-unit id="119">
         <source xml:space="preserve">Player Skill Progress</source>
@@ -558,9 +558,9 @@
         <source xml:space="preserve">min</source>
         <target xml:space="preserve">min</target>
       </trans-unit>
-      <trans-unit id="145">
+      <trans-unit id="145" xml:space="preserve">
         <source xml:space="preserve">sec</source>
-        <target xml:space="preserve">sec</target>
+        <target xml:space="preserve" state="translated">δ</target>
       </trans-unit>
       <trans-unit id="147">
         <source xml:space="preserve">Projected result</source>
@@ -594,17 +594,17 @@
         <source xml:space="preserve">ago</source>
         <target xml:space="preserve">πριν</target>
       </trans-unit>
-      <trans-unit id="155">
+      <trans-unit id="155" xml:space="preserve">
         <source xml:space="preserve">days</source>
-        <target xml:space="preserve">days</target>
+        <target xml:space="preserve" state="translated">ημέρες</target>
       </trans-unit>
-      <trans-unit id="156">
+      <trans-unit id="156" xml:space="preserve">
         <source xml:space="preserve">hrs</source>
-        <target xml:space="preserve">hrs</target>
+        <target xml:space="preserve" state="translated">ώρες</target>
       </trans-unit>
-      <trans-unit id="157">
+      <trans-unit id="157" xml:space="preserve">
         <source xml:space="preserve">mins</source>
-        <target xml:space="preserve">mins</target>
+        <target xml:space="preserve" state="translated">λεπτά</target>
       </trans-unit>
       <trans-unit id="158">
         <source xml:space="preserve">in the last hour</source>
@@ -650,9 +650,9 @@
         <source xml:space="preserve">Election Info</source>
         <target xml:space="preserve">Πληροφορίες εκλογής</target>
       </trans-unit>
-      <trans-unit id="170">
+      <trans-unit id="170" xml:space="preserve">
         <source xml:space="preserve">Since</source>
-        <target xml:space="preserve">Since</target>
+        <target xml:space="preserve" state="translated">Από</target>
       </trans-unit>
       <trans-unit id="171">
         <source xml:space="preserve">Submitting</source>
