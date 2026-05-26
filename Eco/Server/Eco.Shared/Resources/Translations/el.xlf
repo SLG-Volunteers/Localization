@@ -4349,9 +4349,9 @@
         <source xml:space="preserve">Disasters</source>
         <target xml:space="preserve">Καταστροφές</target>
       </trans-unit>
-      <trans-unit id="Minimap">
+      <trans-unit id="Minimap" xml:space="preserve">
         <source xml:space="preserve">Minimap</source>
-        <target xml:space="preserve">Χάρτης</target>
+        <target xml:space="preserve" state="translated">Μικρός Χάρτης</target>
       </trans-unit>
       <trans-unit id="Chat">
         <source xml:space="preserve">Chat</source>
