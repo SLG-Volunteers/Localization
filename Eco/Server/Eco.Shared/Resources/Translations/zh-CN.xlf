@@ -45031,25 +45031,25 @@
         <source xml:space="preserve">Returns the population of the given settlement.</source>
         <target xml:space="preserve">返回給定定居點的人口。</target>
       </trans-unit>
-      <trans-unit id="Returns the age of the given settlement.">
+      <trans-unit id="Returns the age of the given settlement." xml:space="preserve">
         <source xml:space="preserve">Returns the age of the given settlement.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">返回给指定聚落或定居点的年代信息.</target>
       </trans-unit>
-      <trans-unit id="Settlement Influenced Plot Count">
+      <trans-unit id="Settlement Influenced Plot Count" xml:space="preserve">
         <source xml:space="preserve">Settlement Influenced Plot Count</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">沉降影响地块数</target>
       </trans-unit>
-      <trans-unit id="The number of plots influenced by the settlement.">
+      <trans-unit id="The number of plots influenced by the settlement." xml:space="preserve">
         <source xml:space="preserve">The number of plots influenced by the settlement.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">受沉降影响的地块数量。</target>
       </trans-unit>
-      <trans-unit id="Settlement Claimed Plot Count">
+      <trans-unit id="Settlement Claimed Plot Count" xml:space="preserve">
         <source xml:space="preserve">Settlement Claimed Plot Count</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">已申请地块结算数量</target>
       </trans-unit>
-      <trans-unit id="The number of plots claimed on deeds by the settlement.">
+      <trans-unit id="The number of plots claimed on deeds by the settlement." xml:space="preserve">
         <source xml:space="preserve">The number of plots claimed on deeds by the settlement.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">定居点在契约上声称拥有的地块数量。</target>
       </trans-unit>
       <trans-unit id="Settlement Culture">
         <source xml:space="preserve">Settlement Culture</source>
@@ -45087,9 +45087,9 @@
         <target xml:space="preserve"></target>
         <note from="developer">Chat command</note>
       </trans-unit>
-      <trans-unit id="Boost the value of the given deed, or the deed at the current position if not specified. Persists across server restart.">
+      <trans-unit id="Boost the value of the given deed, or the deed at the current position if not specified. Persists across server restart." xml:space="preserve">
         <source xml:space="preserve">Boost the value of the given deed, or the deed at the current position if not specified. Persists across server restart.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">提升给定契约的价值，若未指定，则提升当前位置的契约价值。该提升效果在服务器重启后仍然有效。</target>
         <note from="developer">Help text for chat command /boostdeed</note>
       </trans-unit>
       <trans-unit id="unlimitedclaim" translate="no">
@@ -45122,21 +45122,21 @@
         <source xml:space="preserve">Specifies the reason for the automatic shutdown. Controls what exit code the application closes with.</source>
         <target xml:space="preserve">自動關機的原因說明。控制應用程序關閉時的退出代碼。</target>
       </trans-unit>
-      <trans-unit id="Access Action">
+      <trans-unit id="Access Action" xml:space="preserve">
         <source xml:space="preserve">Access Action</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">访问操作</target>
       </trans-unit>
-      <trans-unit id="Permissions Changed">
+      <trans-unit id="Permissions Changed" xml:space="preserve">
         <source xml:space="preserve">Permissions Changed</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">权限已更改</target>
       </trans-unit>
-      <trans-unit id="Citizen Changed">
+      <trans-unit id="Citizen Changed" xml:space="preserve">
         <source xml:space="preserve">Citizen Changed</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">公民改变</target>
       </trans-unit>
-      <trans-unit id="Bank Account Permissions Changed">
+      <trans-unit id="Bank Account Permissions Changed" xml:space="preserve">
         <source xml:space="preserve">Bank Account Permissions Changed</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">银行账户权限已变更</target>
       </trans-unit>
       <trans-unit id="The citizen who updated the bank account permissions.">
         <source xml:space="preserve">The citizen who updated the bank account permissions.</source>
@@ -45146,21 +45146,21 @@
         <source xml:space="preserve">The bank account that got updated.</source>
         <target xml:space="preserve">已更新的銀行帳戶。</target>
       </trans-unit>
-      <trans-unit id="Did the user gain or lose access to the account?">
+      <trans-unit id="Did the user gain or lose access to the account?" xml:space="preserve">
         <source xml:space="preserve">Did the user gain or lose access to the account?</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">用户是获得了还是失去了对账户的访问权限？</target>
       </trans-unit>
-      <trans-unit id="The specific permissions that got updated.">
+      <trans-unit id="The specific permissions that got updated." xml:space="preserve">
         <source xml:space="preserve">The specific permissions that got updated.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">已更新的特定权限。</target>
       </trans-unit>
-      <trans-unit id="The user that gained or lost access to the bank account.">
+      <trans-unit id="The user that gained or lost access to the bank account." xml:space="preserve">
         <source xml:space="preserve">The user that gained or lost access to the bank account.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">获得或失去银行账户访问权限的用户。</target>
       </trans-unit>
-      <trans-unit id="A citizen changed the managers or the users of a bank account.">
+      <trans-unit id="A citizen changed the managers or the users of a bank account." xml:space="preserve">
         <source xml:space="preserve">A citizen changed the managers or the users of a bank account.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">一位公民更换了银行账户的管理者或使用者。</target>
       </trans-unit>
       <trans-unit id="What the type of property is being initially set to.">
         <source xml:space="preserve">What the type of property is being initially set to.</source>
@@ -45178,69 +45178,69 @@
         <source xml:space="preserve">Reputation Transferred Sign</source>
         <target xml:space="preserve">名譽轉移標誌</target>
       </trans-unit>
-      <trans-unit id="Reputation Source">
+      <trans-unit id="Reputation Source" xml:space="preserve">
         <source xml:space="preserve">Reputation Source</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">声誉来源</target>
       </trans-unit>
-      <trans-unit id="Reputation Amount Transferred">
+      <trans-unit id="Reputation Amount Transferred" xml:space="preserve">
         <source xml:space="preserve">Reputation Amount Transferred</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">声誉值转移</target>
       </trans-unit>
-      <trans-unit id="Reputation Transfer">
+      <trans-unit id="Reputation Transfer" xml:space="preserve">
         <source xml:space="preserve">Reputation Transfer</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">声誉转移</target>
       </trans-unit>
-      <trans-unit id="The citizen who's receiving the reputation.">
+      <trans-unit id="The citizen who's receiving the reputation." xml:space="preserve">
         <source xml:space="preserve">The citizen who's receiving the reputation.</source>
-        <target xml:space="preserve">收受聲譽的公民</target>
+        <target xml:space="preserve" state="translated">获得声誉的公民。</target>
       </trans-unit>
-      <trans-unit id="The citizen who's sending the reputation.">
+      <trans-unit id="The citizen who's sending the reputation." xml:space="preserve">
         <source xml:space="preserve">The citizen who's sending the reputation.</source>
-        <target xml:space="preserve">發送聲譽的公民</target>
+        <target xml:space="preserve" state="translated">发送声誉的公民。</target>
       </trans-unit>
-      <trans-unit id="Was the transferred reputation positive or negative?">
+      <trans-unit id="Was the transferred reputation positive or negative?" xml:space="preserve">
         <source xml:space="preserve">Was the transferred reputation positive or negative?</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">转移的声誉是正面的还是负面的？</target>
       </trans-unit>
-      <trans-unit id="Was the reputation transferred manually or from a labor party?">
+      <trans-unit id="Was the reputation transferred manually or from a labor party?" xml:space="preserve">
         <source xml:space="preserve">Was the reputation transferred manually or from a labor party?</source>
-        <target xml:space="preserve">聲譽由手動轉移還是從工作群組轉移？</target>
+        <target xml:space="preserve" state="translated">声誉是手动转移的还是通过工作群组转移的？</target>
       </trans-unit>
-      <trans-unit id="The amount of reputation that was transferred.">
+      <trans-unit id="The amount of reputation that was transferred." xml:space="preserve">
         <source xml:space="preserve">The amount of reputation that was transferred.</source>
-        <target xml:space="preserve">已轉移的聲譽數量</target>
+        <target xml:space="preserve" state="translated">已转移的声望值。</target>
       </trans-unit>
-      <trans-unit id="A citizen transferred reputation to another citizen.">
+      <trans-unit id="A citizen transferred reputation to another citizen." xml:space="preserve">
         <source xml:space="preserve">A citizen transferred reputation to another citizen.</source>
-        <target xml:space="preserve">一個公民將聲譽轉移給另一個公民</target>
+        <target xml:space="preserve" state="translated">一位公民将声誉转让给了另一位公民。</target>
       </trans-unit>
-      <trans-unit id="Destroyed By Block">
+      <trans-unit id="Destroyed By Block" xml:space="preserve">
         <source xml:space="preserve">Destroyed By Block</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">被方块摧毁</target>
       </trans-unit>
-      <trans-unit id="Was the plant destroyed by block or not?">
+      <trans-unit id="Was the plant destroyed by block or not?" xml:space="preserve">
         <source xml:space="preserve">Was the plant destroyed by block or not?</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这株植物是否被方块砸坏了？</target>
       </trans-unit>
-      <trans-unit id="A single item crafted from a completed work order.">
+      <trans-unit id="A single item crafted from a completed work order." xml:space="preserve">
         <source xml:space="preserve">A single item crafted from a completed work order.</source>
-        <target xml:space="preserve">根據工作訂單完成一個項目</target>
+        <target xml:space="preserve" state="translated">根据已完成的工作订单制作的物品。</target>
       </trans-unit>
-      <trans-unit id="Allows citizens to perform certain civic actions, which affect the government associated with this object.">
+      <trans-unit id="Allows citizens to perform certain civic actions, which affect the government associated with this object." xml:space="preserve">
         <source xml:space="preserve">Allows citizens to perform certain civic actions, which affect the government associated with this object.</source>
-        <target xml:space="preserve">允許公民執行某些公民行動，這些行動會影響與該對象相關的政府。</target>
+        <target xml:space="preserve" state="translated">允许公民执行某些公民行动，这些行动会影响与此对象相关的政府。</target>
       </trans-unit>
-      <trans-unit id="Provides a tool for claiming property around this object.  By adding claim papers from Settlements, you can increase the number of plots you can claim.">
+      <trans-unit id="Provides a tool for claiming property around this object.  By adding claim papers from Settlements, you can increase the number of plots you can claim." xml:space="preserve">
         <source xml:space="preserve">Provides a tool for claiming property around this object.  By adding claim papers from Settlements, you can increase the number of plots you can claim.</source>
-        <target xml:space="preserve">提供认领该物品周围财产的方法。通过添加来自于定居点的认领文书，你可以增加能认领的地块数量上限。</target>
+        <target xml:space="preserve" state="translated">提供了一种工具，用于认领此物体周围的土地。  通过添加来自定居点的认领文件，您可以增加可认领的地块数量。</target>
       </trans-unit>
-      <trans-unit id="As more citizens join a Settlement, more claim papers and stakes will be spawned here.  These can be used to claim more land.">
+      <trans-unit id="As more citizens join a Settlement, more claim papers and stakes will be spawned here.  These can be used to claim more land." xml:space="preserve">
         <source xml:space="preserve">As more citizens join a Settlement, more claim papers and stakes will be spawned here.  These can be used to claim more land.</source>
-        <target xml:space="preserve">当更多市民加入到一个定居点中时，额外的契据桩和认领文书会在此生成。这些可以用来认领更多的土地。</target>
+        <target xml:space="preserve" state="translated">随着越来越多的居民加入定居点，这里将生成更多的土地所有权申请文件和地契。  这些文件和地契可用于申请更多土地。</target>
       </trans-unit>
-      <trans-unit id="Spawned Claims">
+      <trans-unit id="Spawned Claims" xml:space="preserve">
         <source xml:space="preserve">Spawned Claims</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">产生认领</target>
       </trans-unit>
       <trans-unit id="Basic election process will be changed according to these values. This values will also be used as defaults for newly created election processes.">
         <source xml:space="preserve">Basic election process will be changed according to these values. This values will also be used as defaults for newly created election processes.</source>
@@ -45255,13 +45255,13 @@
         <source xml:space="preserve">Immigration Context</source>
         <target xml:space="preserve">移民背景</target>
       </trans-unit>
-      <trans-unit id="Allow Applicants">
+      <trans-unit id="Allow Applicants" xml:space="preserve">
         <source xml:space="preserve">Allow Applicants</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">允许申请人</target>
       </trans-unit>
-      <trans-unit id="Hours Failing Requirements Before Removed As Citizen">
+      <trans-unit id="Hours Failing Requirements Before Removed As Citizen" xml:space="preserve">
         <source xml:space="preserve">Hours Failing Requirements Before Removed As Citizen</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">未达到要求的小时数，作为公民被移除前</target>
       </trans-unit>
       <trans-unit id="Allow New People To Instantly Join">
         <source xml:space="preserve">Allow New People To Instantly Join</source>
@@ -45272,9 +45272,9 @@
         <target xml:space="preserve"></target>
         <note from="developer">Chat command</note>
       </trans-unit>
-      <trans-unit id="Controls initial spawn.">
+      <trans-unit id="Controls initial spawn." xml:space="preserve">
         <source xml:space="preserve">Controls initial spawn.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">控件初始生成。</target>
         <note from="developer">Help text for chat command /initialspawn</note>
       </trans-unit>
       <trans-unit id="update" translate="no">
@@ -45282,19 +45282,19 @@
         <target xml:space="preserve"></target>
         <note from="developer">Chat command</note>
       </trans-unit>
-      <trans-unit id="Force update the spawn position now.">
+      <trans-unit id="Force update the spawn position now." xml:space="preserve">
         <source xml:space="preserve">Force update the spawn position now.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">立即强制更新生成位置。</target>
         <note from="developer">Help text for chat command /update</note>
       </trans-unit>
-      <trans-unit id="Lists the initial spawn positions currently active.">
+      <trans-unit id="Lists the initial spawn positions currently active." xml:space="preserve">
         <source xml:space="preserve">Lists the initial spawn positions currently active.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">列出当前处于活动状态的初始生成位置。</target>
         <note from="developer">Help text for chat command /list</note>
       </trans-unit>
-      <trans-unit id="Access to forests for logging">
+      <trans-unit id="Access to forests for logging" xml:space="preserve">
         <source xml:space="preserve">Access to forests for logging</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">森林采伐权限</target>
       </trans-unit>
       <trans-unit id="Wild food for foraging">
         <source xml:space="preserve">Wild food for foraging</source>
@@ -45304,17 +45304,17 @@
         <source xml:space="preserve">Plains for farming</source>
         <target xml:space="preserve">適合耕種的平原</target>
       </trans-unit>
-      <trans-unit id="TwitchPlugin">
+      <trans-unit id="TwitchPlugin" xml:space="preserve">
         <source xml:space="preserve">TwitchPlugin</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">Twitch插件</target>
       </trans-unit>
-      <trans-unit id="When enabled users who have their Twitch account link and twitch support enabled in their settings will be able to show information about this server on their Twitch channel and allow chat interaction if configured.">
+      <trans-unit id="When enabled users who have their Twitch account link and twitch support enabled in their settings will be able to show information about this server on their Twitch channel and allow chat interaction if configured." xml:space="preserve">
         <source xml:space="preserve">When enabled users who have their Twitch account link and twitch support enabled in their settings will be able to show information about this server on their Twitch channel and allow chat interaction if configured.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">启用后，在设置中已关联Twitch账户并启用Twitch支持的用户，将能够在其Twitch频道上展示有关此服务器的信息，并在配置后允许聊天互动。</target>
       </trans-unit>
-      <trans-unit id="List containing the SLG ids of all users who can use the chat interaction features of the Eco Community extension. If this list is empty anyone can use these features.">
+      <trans-unit id="List containing the SLG ids of all users who can use the chat interaction features of the Eco Community extension. If this list is empty anyone can use these features." xml:space="preserve">
         <source xml:space="preserve">List containing the SLG ids of all users who can use the chat interaction features of the Eco Community extension. If this list is empty anyone can use these features.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">包含所有可使用Eco Community扩展聊天交互功能的用户SLG ID的列表。若此列表为空，则任何人都可以使用这些功能。</target>
       </trans-unit>
       <trans-unit id="message" translate="no">
         <source xml:space="preserve">message</source>
@@ -45356,33 +45356,33 @@
         <target xml:space="preserve"></target>
         <note from="developer">Parameter for chat command /setplaytimeboost</note>
       </trans-unit>
-      <trans-unit id="Could not find object with ID {0}">
+      <trans-unit id="Could not find object with ID {0}" xml:space="preserve">
         <source xml:space="preserve">Could not find object with ID <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">无法找到具有指定ID的对象 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Cannot remove special entries.">
+      <trans-unit id="Cannot remove special entries." xml:space="preserve">
         <source xml:space="preserve">Cannot remove special entries.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">无法删除特殊条目。</target>
       </trans-unit>
-      <trans-unit id="Must specify ID of object">
+      <trans-unit id="Must specify ID of object" xml:space="preserve">
         <source xml:space="preserve">Must specify ID of object</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">必须指定对象的ID</target>
       </trans-unit>
       <trans-unit id="Invalid maintenance reason: {0}. Valid options are [{1}]">
         <source xml:space="preserve">Invalid maintenance reason: <ph id="0">{0}</ph>. Valid options are [<ph id="1">{1}</ph>]</source>
         <target xml:space="preserve">無效維護原因：<ph id="0">{0}</ph>。有效選項為 [<ph id="1">{1}</ph>]</target>
       </trans-unit>
-      <trans-unit id="The animal that's currently being debugged will move toward the specified destination (just specifify the x and z coordinates)">
+      <trans-unit id="The animal that's currently being debugged will move toward the specified destination (just specifify the x and z coordinates)" xml:space="preserve">
         <source xml:space="preserve">The animal that's currently being debugged will move toward the specified destination (just specifify the x and z coordinates)</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">当前正在调试的动物会朝向指定的目的地移动（只需指定x坐标和z坐标即可）</target>
       </trans-unit>
       <trans-unit id="You cannot remove user from the channel because {0} is the creator of this channel.">
         <source xml:space="preserve">You cannot remove user from the channel because <ph id="0">{0}</ph> is the creator of this channel.</source>
         <target xml:space="preserve">您無法從頻道中刪除<ph id="0">{0}</ph>，因為他是該頻道的建立者。</target>
       </trans-unit>
-      <trans-unit id="Select color of map entry">
+      <trans-unit id="Select color of map entry" xml:space="preserve">
         <source xml:space="preserve">Select color of map entry</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">选择地图条目的颜色</target>
       </trans-unit>
       <trans-unit id="Voting in {0}">
         <source xml:space="preserve">Voting in <ph id="0">{0}</ph></source>
@@ -45440,9 +45440,9 @@
         <source xml:space="preserve">Where papers are signed and foreign affairs are settled.</source>
         <target xml:space="preserve">簽署文件和解決外交事務的地方。</target>
       </trans-unit>
-      <trans-unit id="Artifact">
+      <trans-unit id="Artifact" xml:space="preserve">
         <source xml:space="preserve">Artifact</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">工艺品</target>
       </trans-unit>
       <trans-unit id="A vital part of the courtroom.">
         <source xml:space="preserve">A vital part of the courtroom.</source>
@@ -45460,213 +45460,213 @@
         <source xml:space="preserve">A thin shaped piece of glass very useful for devices used to interact with light.</source>
         <target xml:space="preserve">一塊薄形玻璃，對於用於與光互動的裝置非常有用。</target>
       </trans-unit>
-      <trans-unit id="A sturdy basic combination of lines making a mesh used for catching fish on a larger scale.">
+      <trans-unit id="A sturdy basic combination of lines making a mesh used for catching fish on a larger scale." xml:space="preserve">
         <source xml:space="preserve">A sturdy basic combination of lines making a mesh used for catching fish on a larger scale.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">一种由坚固的线条构成的基本组合，形成一张用于大规模捕鱼的网。</target>
       </trans-unit>
-      <trans-unit id="A bundle of cotton used as stuffing or further tailoring processing.">
+      <trans-unit id="A bundle of cotton used as stuffing or further tailoring processing." xml:space="preserve">
         <source xml:space="preserve">A bundle of cotton used as stuffing or further tailoring processing.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">用作填充物或进一步裁缝加工的一捆棉花。</target>
       </trans-unit>
-      <trans-unit id="A solid copper plate giving higher grades of protection against erosion and improves conductivity.">
+      <trans-unit id="A solid copper plate giving higher grades of protection against erosion and improves conductivity." xml:space="preserve">
         <source xml:space="preserve">A solid copper plate giving higher grades of protection against erosion and improves conductivity.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">一块实心铜板，具有更高的抗腐蚀等级，并提高了导电性。</target>
       </trans-unit>
-      <trans-unit id="A sturdy construction material poured around a latice of rebar.">
+      <trans-unit id="A sturdy construction material poured around a latice of rebar." xml:space="preserve">
         <source xml:space="preserve">A sturdy construction material poured around a latice of rebar.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">一种坚固的建筑材料，浇筑在钢筋格栅周围。</target>
       </trans-unit>
-      <trans-unit id="{0} Value">
+      <trans-unit id="{0} Value" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Value</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 值</target>
       </trans-unit>
-      <trans-unit id="Part of the {0}">
+      <trans-unit id="Part of the {0}" xml:space="preserve">
         <source xml:space="preserve">Part of the <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">一部分 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="A {0} Deed which claims no property.">
+      <trans-unit id="A {0} Deed which claims no property." xml:space="preserve">
         <source xml:space="preserve">A <ph id="0">{0}</ph> Deed which claims no property.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">一份不主张任何地产的 <ph id="0">{0}</ph> 契约。</target>
       </trans-unit>
-      <trans-unit id="Owner:">
+      <trans-unit id="Owner:" xml:space="preserve">
         <source xml:space="preserve">Owner:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">所有者：</target>
       </trans-unit>
-      <trans-unit id="Property Value:">
+      <trans-unit id="Property Value:" xml:space="preserve">
         <source xml:space="preserve">Property Value:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">所有物价值：</target>
       </trans-unit>
-      <trans-unit id="Users Not Meeting Citizen Requirements">
+      <trans-unit id="Users Not Meeting Citizen Requirements" xml:space="preserve">
         <source xml:space="preserve">Users Not Meeting Citizen Requirements</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">不符合公民要求的用户</target>
       </trans-unit>
-      <trans-unit id="Can Be Performed At:">
+      <trans-unit id="Can Be Performed At:" xml:space="preserve">
         <source xml:space="preserve">Can Be Performed At:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">可在以下地点进行：</target>
       </trans-unit>
-      <trans-unit id="Claimed Plots:">
+      <trans-unit id="Claimed Plots:" xml:space="preserve">
         <source xml:space="preserve">Claimed Plots:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">声称地块：</target>
       </trans-unit>
       <trans-unit id="Culture:">
         <source xml:space="preserve">Culture:</source>
         <target xml:space="preserve">文化：</target>
       </trans-unit>
-      <trans-unit id="{0} on property:">
+      <trans-unit id="{0} on property:" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> on property:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 位于地产：</target>
       </trans-unit>
-      <trans-unit id="No rooms on property.">
+      <trans-unit id="No rooms on property." xml:space="preserve">
         <source xml:space="preserve">No rooms on property.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">地产内无客房。</target>
       </trans-unit>
-      <trans-unit id=" ({0} value)">
+      <trans-unit id=" ({0} value)" xml:space="preserve">
         <source xml:space="preserve"> (<ph id="0">{0}</ph> value)</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> (<ph id="0">{0}</ph> 值)</target>
       </trans-unit>
-      <trans-unit id="NOTE: {0} can be at most {1} of the value of the primary rooms of the property (currently {2}). Dropping value of {3} from {4} to {5}.">
+      <trans-unit id="NOTE: {0} can be at most {1} of the value of the primary rooms of the property (currently {2}). Dropping value of {3} from {4} to {5}." xml:space="preserve">
         <source xml:space="preserve">NOTE: <ph id="0">{0}</ph> can be at most <ph id="1">{1}</ph> of the value of the primary rooms of the property (currently <ph id="2">{2}</ph>). Dropping value of <ph id="3">{3}</ph> from <ph id="4">{4}</ph> to <ph id="5">{5}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">注意： <ph id="0">{0}</ph> 最多可以 <ph id="1">{1}</ph> 该地产主要房间的价值 (目前为 <ph id="2">{2}</ph>)。价值下降 <ph id="3">{3}</ph> 从 <ph id="4">{4}</ph> 到 <ph id="5">{5}</ph>.</target>
       </trans-unit>
-      <trans-unit id=" - {0} point reduction: {1}">
+      <trans-unit id=" - {0} point reduction: {1}" xml:space="preserve">
         <source xml:space="preserve"> - <ph id="0">{0}</ph> point reduction: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - <ph id="0">{0}</ph> 点数减少： <ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="Admin applied value boost: {0}">
+      <trans-unit id="Admin applied value boost: {0}" xml:space="preserve">
         <source xml:space="preserve">Admin applied value boost: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">管理员应用价值提升： <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id=" (No penalty for room count because of residents number: {0})">
+      <trans-unit id=" (No penalty for room count because of residents number: {0})" xml:space="preserve">
         <source xml:space="preserve"> (No penalty for room count because of residents number: <ph id="0">{0}</ph>)</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> (由于居民人数不足，不因房间数量进行处罚： <ph id="0">{0}</ph>)</target>
       </trans-unit>
       <trans-unit id="Room">
         <source xml:space="preserve">Room</source>
         <target xml:space="preserve">房间</target>
       </trans-unit>
-      <trans-unit id="{0} ({1} support)">
+      <trans-unit id="{0} ({1} support)" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> (<ph id="1">{1}</ph> support)</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> (<ph id="1">{1}</ph> 支持)</target>
       </trans-unit>
-      <trans-unit id=" - Ignoring {0}: {1} property doesnt receive value from {2} rooms.">
+      <trans-unit id=" - Ignoring {0}: {1} property doesnt receive value from {2} rooms." xml:space="preserve">
         <source xml:space="preserve"> - Ignoring <ph id="0">{0}</ph>: <ph id="1">{1}</ph> property doesnt receive value from <ph id="2">{2}</ph> rooms.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 忽略 <ph id="0">{0}</ph>: <ph id="1">{1}</ph> 该属性不从 <ph id="2">{2}</ph> 房间接收值。</target>
       </trans-unit>
-      <trans-unit id=" - Ignoring {0}: doesn't support {1}.">
+      <trans-unit id=" - Ignoring {0}: doesn't support {1}." xml:space="preserve">
         <source xml:space="preserve"> - Ignoring <ph id="0">{0}</ph>: doesn't support <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 忽略 <ph id="0">{0}</ph>: 不支持 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} prevents this room from providing housing value:{1}">
+      <trans-unit id="{0} prevents this room from providing housing value:{1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> prevents this room from providing housing value:<ph id="1">{1}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 阻止此房间提供房间价值：<ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="No valid objects found to give this room a type.">
+      <trans-unit id="No valid objects found to give this room a type." xml:space="preserve">
         <source xml:space="preserve">No valid objects found to give this room a type.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">未找到有效对象来为该房间指定类型。</target>
       </trans-unit>
-      <trans-unit id=" - Material quality: {0}">
+      <trans-unit id=" - Material quality: {0}" xml:space="preserve">
         <source xml:space="preserve"> - Material quality: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 材料质量： <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Room Value">
+      <trans-unit id="Room Value" xml:space="preserve">
         <source xml:space="preserve">Room Value</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">房间价值</target>
       </trans-unit>
-      <trans-unit id="Points are applied to the {0} of residents on {1}.">
+      <trans-unit id="Points are applied to the {0} of residents on {1}." xml:space="preserve">
         <source xml:space="preserve">Points are applied to the <ph id="0">{0}</ph> of residents on <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">积分适用于 <ph id="0">{0}</ph> 在居民中的 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Your home now provides {0} ({1} change)">
+      <trans-unit id="Your home now provides {0} ({1} change)" xml:space="preserve">
         <source xml:space="preserve">Your home now provides <ph id="0">{0}</ph> (<ph id="1">{1}</ph> change)</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">您的住宅现在提供 <ph id="0">{0}</ph> (<ph id="1">{1}</ph> 变化)</target>
       </trans-unit>
-      <trans-unit id="Residence: {0}">
+      <trans-unit id="Residence: {0}" xml:space="preserve">
         <source xml:space="preserve">Residence: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">住宅： <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Character XP Rate">
+      <trans-unit id="Character XP Rate" xml:space="preserve">
         <source xml:space="preserve">Character XP Rate</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">角色经验值倍率</target>
       </trans-unit>
-      <trans-unit id="details">
+      <trans-unit id="details" xml:space="preserve">
         <source xml:space="preserve">details</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">详情</target>
       </trans-unit>
-      <trans-unit id="Failed: Property is set to give culture points but it is not a part of any settlement!">
+      <trans-unit id="Failed: Property is set to give culture points but it is not a part of any settlement!" xml:space="preserve">
         <source xml:space="preserve">Failed: Property is set to give culture points but it is not a part of any settlement!</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">失败：该属性被设置为提供文化点数，但它不属于任何定居点！</target>
       </trans-unit>
       <trans-unit id="Cultural: {0}">
         <source xml:space="preserve">Cultural: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">文化：<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Start a Claim for {0}">
+      <trans-unit id="Start a Claim for {0}" xml:space="preserve">
         <source xml:space="preserve">Start a Claim for <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">发起宣称从 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="To place, location must be:">
+      <trans-unit id="To place, location must be:" xml:space="preserve">
         <source xml:space="preserve">To place, location must be:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">要放置，位置必须为：</target>
       </trans-unit>
-      <trans-unit id=" - Within an unclaimed plot.">
+      <trans-unit id=" - Within an unclaimed plot." xml:space="preserve">
         <source xml:space="preserve"> - Within an unclaimed plot.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 在一块无人认领的地块里。</target>
       </trans-unit>
-      <trans-unit id=" - Outside of the influence of all other {0}.">
+      <trans-unit id=" - Outside of the influence of all other {0}." xml:space="preserve">
         <source xml:space="preserve"> - Outside of the influence of all other <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 排除所有其他因素的影响 <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id=" - Inside the influence a town in which you are a citizen.">
+      <trans-unit id=" - Inside the influence a town in which you are a citizen." xml:space="preserve">
         <source xml:space="preserve"> - Inside the influence a town in which you are a citizen.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 在你身为公民的城镇中发挥影响力。</target>
       </trans-unit>
-      <trans-unit id="Place on an unclaimed plot outside the influence of any other {0}.">
+      <trans-unit id="Place on an unclaimed plot outside the influence of any other {0}." xml:space="preserve">
         <source xml:space="preserve">Place on an unclaimed plot outside the influence of any other <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">放置在任何其他影响范围之外的无人认领的地块上 <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Plots must be claimed inside the influence of the owning settlement, {0}.">
+      <trans-unit id="Plots must be claimed inside the influence of the owning settlement, {0}." xml:space="preserve">
         <source xml:space="preserve">Plots must be claimed inside the influence of the owning settlement, <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">地块必须在所属聚落的影响范围内被认领， <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Attached vessels: {0}/{1}">
+      <trans-unit id="Attached vessels: {0}/{1}" xml:space="preserve">
         <source xml:space="preserve">Attached vessels: <ph id="0">{0}</ph>/<ph id="1">{1}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">所属船只： <ph id="0">{0}</ph>/<ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="Boat Moorage Post">
+      <trans-unit id="Boat Moorage Post" xml:space="preserve">
         <source xml:space="preserve">Boat Moorage Post</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">泊船桩</target>
       </trans-unit>
-      <trans-unit id="World wrap set to {0},{1}">
+      <trans-unit id="World wrap set to {0},{1}" xml:space="preserve">
         <source xml:space="preserve">World wrap set to <ph id="0">{0}</ph>,<ph id="1">{1}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">世界环绕设置为 <ph id="0">{0}</ph>,<ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="Plot must be under the influence of {0}.">
+      <trans-unit id="Plot must be under the influence of {0}." xml:space="preserve">
         <source xml:space="preserve">Plot must be under the influence of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">情节必须受到以下影响 <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="This plot is influenced by {0} and cannot be claimed.">
+      <trans-unit id="This plot is influenced by {0} and cannot be claimed." xml:space="preserve">
         <source xml:space="preserve">This plot is influenced by <ph id="0">{0}</ph> and cannot be claimed.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">此地块受以下影响 <ph id="0">{0}</ph> 并且不能认领。</target>
       </trans-unit>
-      <trans-unit id="You may only start claims within the influence of {0}.">
+      <trans-unit id="You may only start claims within the influence of {0}." xml:space="preserve">
         <source xml:space="preserve">You may only start claims within the influence of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">您只能在影响范围内发起认领 <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="This plot is already a member of {0}, you cannot start a new claim here.">
+      <trans-unit id="This plot is already a member of {0}, you cannot start a new claim here." xml:space="preserve">
         <source xml:space="preserve">This plot is already a member of <ph id="0">{0}</ph>, you cannot start a new claim here.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">此地块已经是以下成员的 <ph id="0">{0}</ph>, 您无法在此处发起新的宣称。</target>
       </trans-unit>
-      <trans-unit id="This plot is unclaimed and influenced by {0}, you may start a new claim here.">
+      <trans-unit id="This plot is unclaimed and influenced by {0}, you may start a new claim here." xml:space="preserve">
         <source xml:space="preserve">This plot is unclaimed and influenced by <ph id="0">{0}</ph>, you may start a new claim here.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这个地块无人认领，且受以下影响 <ph id="0">{0}</ph>, 您可以在此处发起新的宣称。</target>
       </trans-unit>
-      <trans-unit id="This plot is influenced by {0} but you are not a citizen.">
+      <trans-unit id="This plot is influenced by {0} but you are not a citizen." xml:space="preserve">
         <source xml:space="preserve">This plot is influenced by <ph id="0">{0}</ph> but you are not a citizen.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这块土地受以下影响 <ph id="0">{0}</ph> 但你不是公民。</target>
       </trans-unit>
-      <trans-unit id="This plot is unclaimed and under the influence of {0}, of which you are a citizen.">
+      <trans-unit id="This plot is unclaimed and under the influence of {0}, of which you are a citizen." xml:space="preserve">
         <source xml:space="preserve">This plot is unclaimed and under the influence of <ph id="0">{0}</ph>, of which you are a citizen.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这块地无人认领，且处于以下影响 <ph id="0">{0}</ph>, 你是其中的公民。</target>
       </trans-unit>
       <trans-unit id="You may place your homestead here.">
         <source xml:space="preserve">You may place your homestead here.</source>
@@ -45676,53 +45676,53 @@
         <source xml:space="preserve">Lighting</source>
         <target xml:space="preserve">照明</target>
       </trans-unit>
-      <trans-unit id="Initial Spawn">
+      <trans-unit id="Initial Spawn" xml:space="preserve">
         <source xml:space="preserve">Initial Spawn</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">初始生成</target>
       </trans-unit>
       <trans-unit id="Settlements:">
         <source xml:space="preserve">Settlements:</source>
         <target xml:space="preserve">定居点:</target>
       </trans-unit>
-      <trans-unit id="{0} {1} Active">
+      <trans-unit id="{0} {1} Active" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> Active</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> 活跃的</target>
       </trans-unit>
       <trans-unit id="Culture">
         <source xml:space="preserve">Culture</source>
         <target xml:space="preserve">文化</target>
       </trans-unit>
-      <trans-unit id="No settlement found.">
+      <trans-unit id="No settlement found." xml:space="preserve">
         <source xml:space="preserve">No settlement found.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">未找到定居点。</target>
       </trans-unit>
-      <trans-unit id="Abilities unlocked on {0}:">
+      <trans-unit id="Abilities unlocked on {0}:" xml:space="preserve">
         <source xml:space="preserve">Abilities unlocked on <ph id="0">{0}</ph>:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">能力已解锁在 <ph id="0">{0}</ph>:</target>
       </trans-unit>
-      <trans-unit id="You can distribute {0} to claim more plots.">
+      <trans-unit id="You can distribute {0} to claim more plots." xml:space="preserve">
         <source xml:space="preserve">You can distribute <ph id="0">{0}</ph> to claim more plots.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">你可以分配 <ph id="0">{0}</ph> 来申领更多地块。</target>
       </trans-unit>
-      <trans-unit id="You can perform {0} concerning {1}.">
+      <trans-unit id="You can perform {0} concerning {1}." xml:space="preserve">
         <source xml:space="preserve">You can perform <ph id="0">{0}</ph> concerning <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">您可以执行 <ph id="0">{0}</ph> 关于 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="A new {0} has been founded, {1}! {2}">
+      <trans-unit id="A new {0} has been founded, {1}! {2}" xml:space="preserve">
         <source xml:space="preserve">A new <ph id="0">{0}</ph> has been founded, <ph id="1">{1}</ph>! <ph id="2">{2}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">一个新的 <ph id="0">{0}</ph> 已经成立， <ph id="1">{1}</ph>! <ph id="2">{2}</ph></target>
       </trans-unit>
-      <trans-unit id="This monument marks the beginning of the {0}.">
+      <trans-unit id="This monument marks the beginning of the {0}." xml:space="preserve">
         <source xml:space="preserve">This monument marks the beginning of the <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这座纪念碑标志着以下的开始 <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="This object marks the foundation of the {0}.">
+      <trans-unit id="This object marks the foundation of the {0}." xml:space="preserve">
         <source xml:space="preserve">This object marks the foundation of the <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这个物体标志着以下的基础 <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} on {1}.">
+      <trans-unit id="{0} on {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> on <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 位于 <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="It is a member of the {0}.">
         <source xml:space="preserve">It is a member of the <ph id="0">{0}</ph>.</source>
@@ -45736,13 +45736,13 @@
         <source xml:space="preserve">Claim Stakes and Claim Papers</source>
         <target xml:space="preserve">契据桩和认领文书</target>
       </trans-unit>
-      <trans-unit id="The {0} was founded here.">
+      <trans-unit id="The {0} was founded here." xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> was founded here.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这个 <ph id="0">{0}</ph> 在这里创立。</target>
       </trans-unit>
-      <trans-unit id="Claiming {0} of land for {1}.">
+      <trans-unit id="Claiming {0} of land for {1}." xml:space="preserve">
         <source xml:space="preserve">Claiming <ph id="0">{0}</ph> of land for <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">宣称 <ph id="0">{0}</ph> 的土地，用于 <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Settlement Claim Stake">
         <source xml:space="preserve">Settlement Claim Stake</source>
@@ -45752,9 +45752,9 @@
         <source xml:space="preserve">Homestead Claim Stake</source>
         <target xml:space="preserve">家园领地木桩</target>
       </trans-unit>
-      <trans-unit id="Can't claim here. Must be within influence of {0}.">
+      <trans-unit id="Can't claim here. Must be within influence of {0}." xml:space="preserve">
         <source xml:space="preserve">Can't claim here. Must be within influence of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">无法在此处申领。必须在以下影响的范围内。 <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0}'s Homestead">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s Homestead</source>
@@ -45764,29 +45764,29 @@
         <source xml:space="preserve"><ph id="0">{0}</ph> category rooms can exist on property types: <ph id="1">{1}</ph></source>
         <target xml:space="preserve"><ph id="0">{0}</ph> 分类的房间可以存在于以下土地类型：<ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id=" - {0} {1} can't be more than {2} a property's total value.">
+      <trans-unit id=" - {0} {1} can't be more than {2} a property's total value." xml:space="preserve">
         <source xml:space="preserve"> - <ph id="0">{0}</ph> <ph id="1">{1}</ph> can't be more than <ph id="2">{2}</ph> a property's total value.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - <ph id="0">{0}</ph> <ph id="1">{1}</ph> 不能超过 <ph id="2">{2}</ph> 这一属性的总值。</target>
       </trans-unit>
       <trans-unit id="They can get support from other furnishing types:{0}.">
         <source xml:space="preserve">They can get support from other furnishing types:<ph id="0">{0}</ph>.</source>
         <target xml:space="preserve">它们可以从其它家具类型得到增益：<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="{0} furniture can only serve as supporting furniture (a room can never be a '{1}' category room).">
+      <trans-unit id="{0} furniture can only serve as supporting furniture (a room can never be a '{1}' category room)." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> furniture can only serve as supporting furniture (a room can never be a '<ph id="1">{1}</ph>' category room).</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 家具只能作为辅助家具 (房间永远不能成为 '<ph id="1">{1}</ph>' 类别的房间).</target>
       </trans-unit>
       <trans-unit id="{0} 'Furniture' Properties:">
         <source xml:space="preserve"><ph id="0">{0}</ph> 'Furniture' Properties:</source>
         <target xml:space="preserve"><ph id="0">{0}</ph> “家具”的属性：</target>
       </trans-unit>
-      <trans-unit id=" - {0} furniture can serve as supporting furniture for any room category.">
+      <trans-unit id=" - {0} furniture can serve as supporting furniture for any room category." xml:space="preserve">
         <source xml:space="preserve"> - <ph id="0">{0}</ph> furniture can serve as supporting furniture for any room category.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - <ph id="0">{0}</ph> 家具可作为任何房间类别的辅助家具。</target>
       </trans-unit>
-      <trans-unit id=" - {0} furniture can provide support in other room categories: {1}.">
+      <trans-unit id=" - {0} furniture can provide support in other room categories: {1}." xml:space="preserve">
         <source xml:space="preserve"> - <ph id="0">{0}</ph> furniture can provide support in other room categories: <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - <ph id="0">{0}</ph> 家具可在其他房间类别中提供支持： <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id=" - {0} furniture cannot provide points in other room categories.">
         <source xml:space="preserve"> - <ph id="0">{0}</ph> furniture cannot provide points in other room categories.</source>
@@ -45796,570 +45796,570 @@
         <source xml:space="preserve"> - <ph id="0">{0}</ph> furniture can provide value in other rooms up to a max of <ph id="1">{1}</ph> of the main category of furniture.</source>
         <target xml:space="preserve"> - <ph id="0">{0}</ph> 家具可以在其它房间提供最大 <ph id="1">{1}</ph> 主要类别家具的价值。</target>
       </trans-unit>
-      <trans-unit id=" - Will negate the value of all other furniture in the room towards the property value.">
+      <trans-unit id=" - Will negate the value of all other furniture in the room towards the property value." xml:space="preserve">
         <source xml:space="preserve"> - Will negate the value of all other furniture in the room towards the property value.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 会降低房间内所有其他家具对房产价值的贡献。</target>
       </trans-unit>
-      <trans-unit id="Support Room Only.">
+      <trans-unit id="Support Room Only." xml:space="preserve">
         <source xml:space="preserve">Support Room Only.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">仅供支持使用。</target>
       </trans-unit>
       <trans-unit id="{0} (up to {1} of {2} furniture's value)">
         <source xml:space="preserve"><ph id="0">{0}</ph> (up to <ph id="1">{1}</ph> of <ph id="2">{2}</ph> furniture's value)</source>
         <target xml:space="preserve"><ph id="0">{0}</ph>（最大至 <ph id="2">{2}</ph> 家具价值的 <ph id="1">{1}</ph> ）</target>
       </trans-unit>
-      <trans-unit id="Missing room category for {0}.">
+      <trans-unit id="Missing room category for {0}." xml:space="preserve">
         <source xml:space="preserve">Missing room category for <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">缺少房间类别 <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Furnishing Value: {0}">
         <source xml:space="preserve">Furnishing Value: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">家具价值: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Can't perform trade on disabled store">
+      <trans-unit id="Can't perform trade on disabled store" xml:space="preserve">
         <source xml:space="preserve">Can't perform trade on disabled store</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">无法在已禁用的商店进行交易</target>
       </trans-unit>
-      <trans-unit id="You have attached the official {0} for {1} {2} to this object.">
+      <trans-unit id="You have attached the official {0} for {1} {2} to this object." xml:space="preserve">
         <source xml:space="preserve">You have attached the official <ph id="0">{0}</ph> for <ph id="1">{1}</ph> <ph id="2">{2}</ph> to this object.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">您已将官方文件 <ph id="0">{0}</ph> 给 <ph id="1">{1}</ph> <ph id="2">{2}</ph> 这个对象。</target>
       </trans-unit>
-      <trans-unit id="This will allow you to propose changes.">
+      <trans-unit id="This will allow you to propose changes." xml:space="preserve">
         <source xml:space="preserve">This will allow you to propose changes.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这将使您能够提出修改建议。</target>
       </trans-unit>
-      <trans-unit id="{0} Initial Starting Points Generated:">
+      <trans-unit id="{0} Initial Starting Points Generated:" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Initial Starting Points Generated:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 初始起始点已生成：</target>
       </trans-unit>
-      <trans-unit id="{0} procedural point(s), {1} settlement point(s)">
+      <trans-unit id="{0} procedural point(s), {1} settlement point(s)" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> procedural point(s), <ph id="1">{1}</ph> settlement point(s)</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 程序要点, <ph id="1">{1}</ph> 定居点 点数</target>
       </trans-unit>
-      <trans-unit id="InitialSpawn">
+      <trans-unit id="InitialSpawn" xml:space="preserve">
         <source xml:space="preserve">InitialSpawn</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">初始生成</target>
       </trans-unit>
       <trans-unit id="Cannot have citizenship requirements if you allow new people to instantly join.">
         <source xml:space="preserve">Cannot have citizenship requirements if you allow new people to instantly join.</source>
         <target xml:space="preserve">如果允许新人随时加入，就不能有公民身份要求。</target>
       </trans-unit>
-      <trans-unit id="No settlement at this position, cannot use.">
+      <trans-unit id="No settlement at this position, cannot use." xml:space="preserve">
         <source xml:space="preserve">No settlement at this position, cannot use.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">此位置未结算，无法使用。</target>
       </trans-unit>
-      <trans-unit id="disallows">
+      <trans-unit id="disallows" xml:space="preserve">
         <source xml:space="preserve">disallows</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">不允许</target>
       </trans-unit>
-      <trans-unit id="Craving Satisfied">
+      <trans-unit id="Craving Satisfied" xml:space="preserve">
         <source xml:space="preserve">Craving Satisfied</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">心满意足</target>
       </trans-unit>
-      <trans-unit id="Eat food you've got a hankering for.">
+      <trans-unit id="Eat food you've got a hankering for." xml:space="preserve">
         <source xml:space="preserve">Eat food you've got a hankering for.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">吃你渴望的食物。</target>
       </trans-unit>
-      <trans-unit id="Forestry 101">
+      <trans-unit id="Forestry 101" xml:space="preserve">
         <source xml:space="preserve">Forestry 101</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">林业基础</target>
       </trans-unit>
-      <trans-unit id="Plant 100 trees.">
+      <trans-unit id="Plant 100 trees." xml:space="preserve">
         <source xml:space="preserve">Plant 100 trees.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">种植100棵树。</target>
       </trans-unit>
-      <trans-unit id="Reap What You Sow">
+      <trans-unit id="Reap What You Sow" xml:space="preserve">
         <source xml:space="preserve">Reap What You Sow</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">种瓜得瓜，种豆得豆</target>
       </trans-unit>
-      <trans-unit id="Discover your favorite food.">
+      <trans-unit id="Discover your favorite food." xml:space="preserve">
         <source xml:space="preserve">Discover your favorite food.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">发现你最喜欢的食物。</target>
       </trans-unit>
-      <trans-unit id="Blech!">
+      <trans-unit id="Blech!" xml:space="preserve">
         <source xml:space="preserve">Blech!</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">哎呀！</target>
       </trans-unit>
-      <trans-unit id="Discover your most disliked food.">
+      <trans-unit id="Discover your most disliked food." xml:space="preserve">
         <source xml:space="preserve">Discover your most disliked food.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">发现你最不喜欢的食物。</target>
       </trans-unit>
-      <trans-unit id="Saved the World">
+      <trans-unit id="Saved the World" xml:space="preserve">
         <source xml:space="preserve">Saved the World</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">拯救了世界</target>
       </trans-unit>
-      <trans-unit id="Destroyed the meteor on a server.">
+      <trans-unit id="Destroyed the meteor on a server." xml:space="preserve">
         <source xml:space="preserve">Destroyed the meteor on a server.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">在服务器上摧毁了流星。</target>
       </trans-unit>
-      <trans-unit id="Best Laid Plans">
+      <trans-unit id="Best Laid Plans" xml:space="preserve">
         <source xml:space="preserve">Best Laid Plans</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">人算不如天算</target>
       </trans-unit>
-      <trans-unit id="Meteor destroyed the world.">
+      <trans-unit id="Meteor destroyed the world." xml:space="preserve">
         <source xml:space="preserve">Meteor destroyed the world.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">流星毁灭了世界。</target>
       </trans-unit>
-      <trans-unit id="Never to Return">
+      <trans-unit id="Never to Return" xml:space="preserve">
         <source xml:space="preserve">Never to Return</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">永不归来</target>
       </trans-unit>
-      <trans-unit id="A species went extinct.">
+      <trans-unit id="A species went extinct." xml:space="preserve">
         <source xml:space="preserve">A species went extinct.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">一个物种灭绝了。</target>
       </trans-unit>
-      <trans-unit id="Chop Chop x100">
+      <trans-unit id="Chop Chop x100" xml:space="preserve">
         <source xml:space="preserve">Chop Chop x100</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">伐伐伐伐木工</target>
       </trans-unit>
-      <trans-unit id="Chopped down 100 trees.">
+      <trans-unit id="Chopped down 100 trees." xml:space="preserve">
         <source xml:space="preserve">Chopped down 100 trees.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">砍倒了100棵树。</target>
       </trans-unit>
-      <trans-unit id="Make it Rain">
+      <trans-unit id="Make it Rain" xml:space="preserve">
         <source xml:space="preserve">Make it Rain</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">撒币</target>
       </trans-unit>
-      <trans-unit id="Conversion Fees">
+      <trans-unit id="Conversion Fees" xml:space="preserve">
         <source xml:space="preserve">Conversion Fees</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">兑换费</target>
       </trans-unit>
-      <trans-unit id="Hard Day's Work">
+      <trans-unit id="Hard Day's Work" xml:space="preserve">
         <source xml:space="preserve">Hard Day's Work</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">辛苦的一天</target>
       </trans-unit>
       <trans-unit id="Completed first contract.">
         <source xml:space="preserve">Completed first contract.</source>
         <target xml:space="preserve">已完成第一张合同。</target>
       </trans-unit>
-      <trans-unit id="Taxpayer">
+      <trans-unit id="Taxpayer" xml:space="preserve">
         <source xml:space="preserve">Taxpayer</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">纳税人</target>
       </trans-unit>
-      <trans-unit id="By the People, For the People">
+      <trans-unit id="By the People, For the People" xml:space="preserve">
         <source xml:space="preserve">By the People, For the People</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">人人为我，我为人人</target>
       </trans-unit>
-      <trans-unit id="Constitution passed.">
+      <trans-unit id="Constitution passed." xml:space="preserve">
         <source xml:space="preserve">Constitution passed.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">宪法已通过。</target>
       </trans-unit>
-      <trans-unit id="The Preamble">
+      <trans-unit id="The Preamble" xml:space="preserve">
         <source xml:space="preserve">The Preamble</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">序言</target>
       </trans-unit>
-      <trans-unit id="Propose a ratification of a constitution.">
+      <trans-unit id="Propose a ratification of a constitution." xml:space="preserve">
         <source xml:space="preserve">Propose a ratification of a constitution.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">提议批准一部宪法。</target>
       </trans-unit>
-      <trans-unit id="Born Leader">
+      <trans-unit id="Born Leader" xml:space="preserve">
         <source xml:space="preserve">Born Leader</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">天生领袖</target>
       </trans-unit>
-      <trans-unit id="Become elected to a government position.">
+      <trans-unit id="Become elected to a government position." xml:space="preserve">
         <source xml:space="preserve">Become elected to a government position.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">被选为政府职位。</target>
       </trans-unit>
-      <trans-unit id="It's Obviously Rigged">
+      <trans-unit id="It's Obviously Rigged" xml:space="preserve">
         <source xml:space="preserve">It's Obviously Rigged</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这显然是暗箱操作</target>
       </trans-unit>
-      <trans-unit id="Lose an election.">
+      <trans-unit id="Lose an election." xml:space="preserve">
         <source xml:space="preserve">Lose an election.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">在选举中落败。</target>
       </trans-unit>
-      <trans-unit id="I Am Not A Crook">
+      <trans-unit id="I Am Not A Crook" xml:space="preserve">
         <source xml:space="preserve">I Am Not A Crook</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">我是清白的</target>
       </trans-unit>
-      <trans-unit id="Failed to link Twitch account. {0}, press ok to try again.">
+      <trans-unit id="Failed to link Twitch account. {0}, press ok to try again." xml:space="preserve">
         <source xml:space="preserve">Failed to link Twitch account. <ph id="0">{0}</ph>, press ok to try again.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">无法链接Twitch账户。 <ph id="0">{0}</ph>,请按 确定 重试。</target>
       </trans-unit>
-      <trans-unit id="Time expired">
+      <trans-unit id="Time expired" xml:space="preserve">
         <source xml:space="preserve">Time expired</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">超时</target>
       </trans-unit>
-      <trans-unit id="Vehicle is turned over. Dismounting!">
+      <trans-unit id="Vehicle is turned over. Dismounting!" xml:space="preserve">
         <source xml:space="preserve">Vehicle is turned over. Dismounting!</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">翻车了。下车！</target>
       </trans-unit>
-      <trans-unit id="Set {0}">
+      <trans-unit id="Set {0}" xml:space="preserve">
         <source xml:space="preserve">Set <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">集合 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Loading icons...">
+      <trans-unit id="Loading icons..." xml:space="preserve">
         <source xml:space="preserve">Loading icons...</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">正在加载图标...</target>
       </trans-unit>
       <trans-unit id="Description: Shows a preview of the terrain with the current properties. Note: When this tab is first opened the preview will take some time to generate.">
         <source xml:space="preserve">Description: Shows a preview of the terrain with the current properties. Note: When this tab is first opened the preview will take some time to generate.</source>
         <target xml:space="preserve">说明：显示当前配置下的地形预览。\n\n注意：当该标签页首次打开时，会花费一些时间生成预览。</target>
       </trans-unit>
-      <trans-unit id="Animal '{0}' can not do '{1}'">
+      <trans-unit id="Animal '{0}' can not do '{1}'" xml:space="preserve">
         <source xml:space="preserve">Animal '<ph id="0">{0}</ph>' can not do '<ph id="1">{1}</ph>'</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">动物 '<ph id="0">{0}</ph>' 无法执行 '<ph id="1">{1}</ph>'</target>
       </trans-unit>
-      <trans-unit id="Next Tick">
+      <trans-unit id="Next Tick" xml:space="preserve">
         <source xml:space="preserve">Next Tick</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">下一时刻</target>
       </trans-unit>
-      <trans-unit id="True">
+      <trans-unit id="True" xml:space="preserve">
         <source xml:space="preserve">True</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">真</target>
       </trans-unit>
-      <trans-unit id="False">
+      <trans-unit id="False" xml:space="preserve">
         <source xml:space="preserve">False</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">假</target>
       </trans-unit>
-      <trans-unit id="can">
+      <trans-unit id="can" xml:space="preserve">
         <source xml:space="preserve">can</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">能</target>
       </trans-unit>
-      <trans-unit id="cannot">
+      <trans-unit id="cannot" xml:space="preserve">
         <source xml:space="preserve">cannot</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">不能</target>
       </trans-unit>
-      <trans-unit id="XP/day">
+      <trans-unit id="XP/day" xml:space="preserve">
         <source xml:space="preserve">XP/day</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">XP/天</target>
       </trans-unit>
-      <trans-unit id="Back to nature.">
+      <trans-unit id="Back to nature." xml:space="preserve">
         <source xml:space="preserve">Back to nature.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">回归自然。</target>
       </trans-unit>
-      <trans-unit id="Set the wrap-around-the-world count for the calling player.  This is a client side effect that makes the positions after traveling around the world be shifted by world-size.">
+      <trans-unit id="Set the wrap-around-the-world count for the calling player.  This is a client side effect that makes the positions after traveling around the world be shifted by world-size." xml:space="preserve">
         <source xml:space="preserve">Set the wrap-around-the-world count for the calling player.  This is a client side effect that makes the positions after traveling around the world be shifted by world-size.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">为调用玩家设置环绕世界计数。  这是一个客户端效果，使得玩家在环绕世界后的位置会根据世界大小进行偏移。</target>
       </trans-unit>
-      <trans-unit id="Delete all blocks above-ground that are constructed, delete all constructed world objects, remove all property, destroy all settlements and related objects.">
+      <trans-unit id="Delete all blocks above-ground that are constructed, delete all constructed world objects, remove all property, destroy all settlements and related objects." xml:space="preserve">
         <source xml:space="preserve">Delete all blocks above-ground that are constructed, delete all constructed world objects, remove all property, destroy all settlements and related objects.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">删除所有已建造的地面方块，删除所有已建造的世界物体，移除所有属性，摧毁所有定居点及相关物体。</target>
       </trans-unit>
-      <trans-unit id="Couldn't find any entry matching: {0}">
+      <trans-unit id="Couldn't find any entry matching: {0}" xml:space="preserve">
         <source xml:space="preserve">Couldn't find any entry matching: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">找不到任何与以下内容匹配的条目：<ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Found multiple matching entries: {0}">
+      <trans-unit id="Found multiple matching entries: {0}" xml:space="preserve">
         <source xml:space="preserve">Found multiple matching entries: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">找到了多个匹配项： <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Only citizens invited by {0} may join.">
+      <trans-unit id="Only citizens invited by {0} may join." xml:space="preserve">
         <source xml:space="preserve">Only citizens invited by <ph id="0">{0}</ph> may join.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">只有被 <ph id="0">{0}</ph> 邀请的公民才能加入。</target>
       </trans-unit>
-      <trans-unit id="Not currently accepting new {0}.">
+      <trans-unit id="Not currently accepting new {0}." xml:space="preserve">
         <source xml:space="preserve">Not currently accepting new <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">目前不接受新的 <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="New {0} must be approved by {1}.">
+      <trans-unit id="New {0} must be approved by {1}." xml:space="preserve">
         <source xml:space="preserve">New <ph id="0">{0}</ph> must be approved by <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">新的 <ph id="0">{0}</ph> 必须批准从 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="You have applied to become a {0}. {1}{2} has been notified and may approve or reject your application.">
+      <trans-unit id="You have applied to become a {0}. {1}{2} has been notified and may approve or reject your application." xml:space="preserve">
         <source xml:space="preserve">You have applied to become a <ph id="0">{0}</ph>. <ph id="1">{1}</ph><ph id="2">{2}</ph> has been notified and may approve or reject your application.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">您已申请成为 <ph id="0">{0}</ph>. <ph id="1">{1}</ph><ph id="2">{2}</ph> 已收到通知，并有权批准或拒绝您的申请。</target>
       </trans-unit>
-      <trans-unit id="Culture boost applied by admin: {0}">
+      <trans-unit id="Culture boost applied by admin: {0}" xml:space="preserve">
         <source xml:space="preserve">Culture boost applied by admin: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">文明文化提升通过管理： <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Destroy all towns and property stakes and unclaim all property.">
+      <trans-unit id="Destroy all towns and property stakes and unclaim all property." xml:space="preserve">
         <source xml:space="preserve">Destroy all towns and property stakes and unclaim all property.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">摧毁所有城镇和地产桩，并收回所有地产。</target>
         <note from="developer">Help text for chat command /clearall</note>
       </trans-unit>
-      <trans-unit id="The deed can only claim within {0} influence. This plot is not in its influence.">
+      <trans-unit id="The deed can only claim within {0} influence. This plot is not in its influence." xml:space="preserve">
         <source xml:space="preserve">The deed can only claim within <ph id="0">{0}</ph> influence. This plot is not in its influence.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">该契约只能在 <ph id="0">{0}</ph> 的影响范围内生效。 此地块不在其影响范围内。</target>
       </trans-unit>
-      <trans-unit id="the {0} which {1} is a citizen of">
+      <trans-unit id="the {0} which {1} is a citizen of" xml:space="preserve">
         <source xml:space="preserve">the <ph id="0">{0}</ph> which <ph id="1">{1}</ph> is a citizen of</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这个 <ph id="0">{0}</ph> 是 <ph id="1">{1}</ph> 的公民</target>
       </trans-unit>
-      <trans-unit id="population of {0}">
+      <trans-unit id="population of {0}" xml:space="preserve">
         <source xml:space="preserve">population of <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">人口数量 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="age of {0} in days">
+      <trans-unit id="age of {0} in days" xml:space="preserve">
         <source xml:space="preserve">age of <ph id="0">{0}</ph> in days</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">年龄 <ph id="0">{0}</ph> 以天为单位</target>
       </trans-unit>
-      <trans-unit id="influnenced plots of {0}">
+      <trans-unit id="influnenced plots of {0}" xml:space="preserve">
         <source xml:space="preserve">influnenced plots of <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">受影响的地块 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="claimed plots in {0}">
+      <trans-unit id="claimed plots in {0}" xml:space="preserve">
         <source xml:space="preserve">claimed plots in <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">声称的地块 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Can only spawn town on unclaimed plot.">
+      <trans-unit id="Can only spawn town on unclaimed plot." xml:space="preserve">
         <source xml:space="preserve">Can only spawn town on unclaimed plot.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">只能在未被认领的地块上生成城镇。</target>
       </trans-unit>
-      <trans-unit id="Settlement disabled, cannot execute.">
+      <trans-unit id="Settlement disabled, cannot execute." xml:space="preserve">
         <source xml:space="preserve">Settlement disabled, cannot execute.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">定居点功能已禁用，无法执行。</target>
       </trans-unit>
-      <trans-unit id="Ignore settlement requirements set to {0}.">
+      <trans-unit id="Ignore settlement requirements set to {0}." xml:space="preserve">
         <source xml:space="preserve">Ignore settlement requirements set to <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">忽略设定的定居点要求 <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} cannot perform this action on itself.">
+      <trans-unit id="{0} cannot perform this action on itself." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cannot perform this action on itself.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 无法自行执行此操作。</target>
       </trans-unit>
-      <trans-unit id="{0} is not a child of {1} or invited to become one.">
+      <trans-unit id="{0} is not a child of {1} or invited to become one." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not a child of <ph id="1">{1}</ph> or invited to become one.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 不是以下的子定居点 <ph id="1">{1}</ph> 或被邀请成为其中一员。</target>
       </trans-unit>
-      <trans-unit id="Invitation for {0} to become a child {1} rescinded.">
+      <trans-unit id="Invitation for {0} to become a child {1} rescinded." xml:space="preserve">
         <source xml:space="preserve">Invitation for <ph id="0">{0}</ph> to become a child <ph id="1">{1}</ph> rescinded.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">邀请 <ph id="0">{0}</ph> 成为以下子定居点 <ph id="1">{1}</ph> 的请求已撤销。</target>
       </trans-unit>
-      <trans-unit id="{0} is not a parent of {1}, nor is {2} applying to become a child of it.">
+      <trans-unit id="{0} is not a parent of {1}, nor is {2} applying to become a child of it." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not a parent of <ph id="1">{1}</ph>, nor is <ph id="2">{2}</ph> applying to become a child of it.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 不是以下的父项 <ph id="1">{1}</ph>, 也不是 <ph id="2">{2}</ph> 申请成为其子项。</target>
       </trans-unit>
-      <trans-unit id="Application to become a child of {0} cancelled.">
+      <trans-unit id="Application to become a child of {0} cancelled." xml:space="preserve">
         <source xml:space="preserve">Application to become a child of <ph id="0">{0}</ph> cancelled.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">申请成为子项 <ph id="0">{0}</ph> 请求已取消.</target>
       </trans-unit>
-      <trans-unit id="{0} is not a citizen of {1}.">
+      <trans-unit id="{0} is not a citizen of {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not a citizen of <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 不是以下的公民 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} contains no citizens of {1}.">
+      <trans-unit id="{0} contains no citizens of {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> contains no citizens of <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 不包含以下的公民 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Removed {0} from citizenship of {1}.">
+      <trans-unit id="Removed {0} from citizenship of {1}." xml:space="preserve">
         <source xml:space="preserve">Removed <ph id="0">{0}</ph> from citizenship of <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">移除 <ph id="0">{0}</ph> 公民身份从 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Remove {0} as a child {1} from {2} (or remove invitation to become one).">
+      <trans-unit id="Remove {0} as a child {1} from {2} (or remove invitation to become one)." xml:space="preserve">
         <source xml:space="preserve">Remove <ph id="0">{0}</ph> as a child <ph id="1">{1}</ph> from <ph id="2">{2}</ph> (or remove invitation to become one).</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">移除 <ph id="0">{0}</ph> 作为子元素 <ph id="1">{1}</ph> 从 <ph id="2">{2}</ph> (或删除成为其中一员的邀请).</target>
       </trans-unit>
-      <trans-unit id="Remove {0} from citizenship of {1}.">
+      <trans-unit id="Remove {0} from citizenship of {1}." xml:space="preserve">
         <source xml:space="preserve">Remove <ph id="0">{0}</ph> from citizenship of <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">移除 <ph id="0">{0}</ph> 的公民身份从 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Citizenship test passed: {0}">
+      <trans-unit id="Citizenship test passed: {0}" xml:space="preserve">
         <source xml:space="preserve">Citizenship test passed: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">公民身份考核通过： <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="You will remain a citizen of {0} until your application to {1} is approved.">
+      <trans-unit id="You will remain a citizen of {0} until your application to {1} is approved." xml:space="preserve">
         <source xml:space="preserve">You will remain a citizen of <ph id="0">{0}</ph> until your application to <ph id="1">{1}</ph> is approved.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">你讲继续作为 <ph id="0">{0}</ph> 的公民 直到 <ph id="1">{1}</ph> 的申请获得批准。</target>
       </trans-unit>
-      <trans-unit id="NOTE: Ignoring settlement requirments due to admin command.">
+      <trans-unit id="NOTE: Ignoring settlement requirments due to admin command." xml:space="preserve">
         <source xml:space="preserve">NOTE: Ignoring settlement requirments due to admin command.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">注意：由于管理员指令，忽略定居点要求。</target>
       </trans-unit>
       <trans-unit id="Plots claimed on this {0} claim stake: {1}">
         <source xml:space="preserve">Plots claimed on this <ph id="0">{0}</ph> claim stake: <ph id="1">{1}</ph></source>
         <target xml:space="preserve">在此 <ph id="0">{0}</ph> 契据桩所认领的地块数：<ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="Deed for this Deed Map no longer exists.">
+      <trans-unit id="Deed for this Deed Map no longer exists." xml:space="preserve">
         <source xml:space="preserve">Deed for this Deed Map no longer exists.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">本契约地图的契约已不存在。</target>
       </trans-unit>
-      <trans-unit id="Annexataion Possibilities">
+      <trans-unit id="Annexataion Possibilities" xml:space="preserve">
         <source xml:space="preserve">Annexataion Possibilities</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">吞并可能性</target>
       </trans-unit>
-      <trans-unit id="You haven't met the requirements to permit this annex.">
+      <trans-unit id="You haven't met the requirements to permit this annex." xml:space="preserve">
         <source xml:space="preserve">You haven't met the requirements to permit this annex.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">你还没有满足允许吞并的要求。</target>
       </trans-unit>
-      <trans-unit id="A {0} cannot annex a {1}.">
+      <trans-unit id="A {0} cannot annex a {1}." xml:space="preserve">
         <source xml:space="preserve">A <ph id="0">{0}</ph> cannot annex a <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">一个 <ph id="0">{0}</ph> 不能吞并一个 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="The {0} has annexed the {1}!">
+      <trans-unit id="The {0} has annexed the {1}!" xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> has annexed the <ph id="1">{1}</ph>!</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">这个 <ph id="0">{0}</ph> 已经吞并了 <ph id="1">{1}</ph>!</target>
       </trans-unit>
-      <trans-unit id="{0} is no longer a member {1}.">
+      <trans-unit id="{0} is no longer a member {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is no longer a member <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 已经不再是以下的成员 <ph id="1">{1}</ph>。</target>
       </trans-unit>
-      <trans-unit id="{0} are now also citizens of {1} as its new parent {2}.">
+      <trans-unit id="{0} are now also citizens of {1} as its new parent {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> are now also citizens of <ph id="1">{1}</ph> as its new parent <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 现在也是以下的公民 <ph id="1">{1}</ph> 因为其新父项是 <ph id="2">{2}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} is now removed and {1} are now citizens of {2} instead.">
+      <trans-unit id="{0} is now removed and {1} are now citizens of {2} instead." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is now removed and <ph id="1">{1}</ph> are now citizens of <ph id="2">{2}</ph> instead.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 现已被移除 以及 <ph id="1">{1}</ph> 现在成为了 <ph id="2">{2}</ph> 的公民。</target>
       </trans-unit>
-      <trans-unit id="{0} deactivated from {1}.">
+      <trans-unit id="{0} deactivated from {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> deactivated from <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 已从以下中停用 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Because {0} is a {1} and {2} is {3} {4},">
+      <trans-unit id="Because {0} is a {1} and {2} is {3} {4}," xml:space="preserve">
         <source xml:space="preserve">Because <ph id="0">{0}</ph> is a <ph id="1">{1}</ph> and <ph id="2">{2}</ph> is <ph id="3">{3}</ph> <ph id="4">{4}</ph>,</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">因为 <ph id="0">{0}</ph> 是一个 <ph id="1">{1}</ph> 且 <ph id="2">{2}</ph> 是 <ph id="3">{3}</ph> <ph id="4">{4}</ph>,</target>
       </trans-unit>
-      <trans-unit id="{0} has surrounded {1} by {2}, and so plot requirements {3} until it surrounds it by more than {4}.">
+      <trans-unit id="{0} has surrounded {1} by {2}, and so plot requirements {3} until it surrounds it by more than {4}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has surrounded <ph id="1">{1}</ph> by <ph id="2">{2}</ph>, and so plot requirements <ph id="3">{3}</ph> until it surrounds it by more than <ph id="4">{4}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 已包围 <ph id="1">{1}</ph> 用 <ph id="2">{2}</ph>, 因此地块需要 <ph id="3">{3}</ph> 直到它将其包围超过 <ph id="4">{4}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} has surrounded {1} by {2}, and so plot requirements {3} to annex it (Culture Requirements will still need to be met as well).">
+      <trans-unit id="{0} has surrounded {1} by {2}, and so plot requirements {3} to annex it (Culture Requirements will still need to be met as well)." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has surrounded <ph id="1">{1}</ph> by <ph id="2">{2}</ph>, and so plot requirements <ph id="3">{3}</ph> to annex it (Culture Requirements will still need to be met as well).</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 已包围 <ph id="1">{1}</ph> 用 <ph id="2">{2}</ph>, 因此要吞并它需满足 <ph id="3">{3}</ph> 的必须条件 (文化要求也需要满足).</target>
       </trans-unit>
-      <trans-unit id="For a {0} attempting to annex {1} {2}, the requirements are as follows:">
+      <trans-unit id="For a {0} attempting to annex {1} {2}, the requirements are as follows:" xml:space="preserve">
         <source xml:space="preserve">For a <ph id="0">{0}</ph> attempting to annex <ph id="1">{1}</ph> <ph id="2">{2}</ph>, the requirements are as follows:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">对于 <ph id="0">{0}</ph> 试图吞并 <ph id="1">{1}</ph> <ph id="2">{2}</ph>, 其要求如下：</target>
       </trans-unit>
-      <trans-unit id=" - When {0} surrounded or less, source culture counts for {1} against the target.">
+      <trans-unit id=" - When {0} surrounded or less, source culture counts for {1} against the target." xml:space="preserve">
         <source xml:space="preserve"> - When <ph id="0">{0}</ph> surrounded or less, source culture counts for <ph id="1">{1}</ph> against the target.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 当 <ph id="0">{0}</ph> 被包围或更少时, 源文化对目标文化的 <ph id="1">{1}</ph> 有影响。</target>
       </trans-unit>
-      <trans-unit id=" - When {0} surrounded or more, source culture counts for {1} against the target.">
+      <trans-unit id=" - When {0} surrounded or more, source culture counts for {1} against the target." xml:space="preserve">
         <source xml:space="preserve"> - When <ph id="0">{0}</ph> surrounded or more, source culture counts for <ph id="1">{1}</ph> against the target.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 当 <ph id="0">{0}</ph> 被包围或更多时, 源文化对目标文化的 <ph id="1">{1}</ph> 产生影响。</target>
       </trans-unit>
-      <trans-unit id=" - When between {0} and {1} surrounded, source culture percent is prorated from {2} to {3}.">
+      <trans-unit id=" - When between {0} and {1} surrounded, source culture percent is prorated from {2} to {3}." xml:space="preserve">
         <source xml:space="preserve"> - When between <ph id="0">{0}</ph> and <ph id="1">{1}</ph> surrounded, source culture percent is prorated from <ph id="2">{2}</ph> to <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"> - 当处于 <ph id="0">{0}</ph> 和 <ph id="1">{1}</ph> 之间时, 源文化百分比将调整 <ph id="2">{2}</ph> 到 <ph id="3">{3}</ph>.</target>
       </trans-unit>
-      <trans-unit id="In this case, {0} surrounds {1} of {2}'s influence, so {3} of its total culture ({4}) is counted towards annexation ({5}).">
+      <trans-unit id="In this case, {0} surrounds {1} of {2}'s influence, so {3} of its total culture ({4}) is counted towards annexation ({5})." xml:space="preserve">
         <source xml:space="preserve">In this case, <ph id="0">{0}</ph> surrounds <ph id="1">{1}</ph> of <ph id="2">{2}</ph>'s influence, so <ph id="3">{3}</ph> of its total culture (<ph id="4">{4}</ph>) is counted towards annexation (<ph id="5">{5}</ph>).</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">在这种情况下, <ph id="0">{0}</ph> 包围 <ph id="1">{1}</ph> 对 <ph id="2">{2}</ph>'s 的影响, 因此 <ph id="3">{3}</ph> 其整体文化 (<ph id="4">{4}</ph>) 被视为吞并 (<ph id="5">{5}</ph>).</target>
       </trans-unit>
-      <trans-unit id="Plot Requirements:">
+      <trans-unit id="Plot Requirements:" xml:space="preserve">
         <source xml:space="preserve">Plot Requirements:</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">土地要求：</target>
       </trans-unit>
-      <trans-unit id="claimed plots">
+      <trans-unit id="claimed plots" xml:space="preserve">
         <source xml:space="preserve">claimed plots</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">声称的地块</target>
       </trans-unit>
-      <trans-unit id="are not met">
+      <trans-unit id="are not met" xml:space="preserve">
         <source xml:space="preserve">are not met</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">未满足</target>
       </trans-unit>
-      <trans-unit id="are met">
+      <trans-unit id="are met" xml:space="preserve">
         <source xml:space="preserve">are met</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">满足</target>
       </trans-unit>
       <trans-unit id="Culture Requirements:">
         <source xml:space="preserve">Culture Requirements:</source>
         <target xml:space="preserve">文化需求：</target>
       </trans-unit>
-      <trans-unit id="how surrounded">
+      <trans-unit id="how surrounded" xml:space="preserve">
         <source xml:space="preserve">how surrounded</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">被围得水泄不通</target>
       </trans-unit>
-      <trans-unit id="All citizens of {0}">
+      <trans-unit id="All citizens of {0}" xml:space="preserve">
         <source xml:space="preserve">All citizens of <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">所有的公民 <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Annexed Citizens">
+      <trans-unit id="Annexed Citizens" xml:space="preserve">
         <source xml:space="preserve">Annexed Citizens</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">被吞并地区的公民</target>
       </trans-unit>
-      <trans-unit id="{0} has met the requirements to annex {1} at any time!">
+      <trans-unit id="{0} has met the requirements to annex {1} at any time!" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has met the requirements to annex <ph id="1">{1}</ph> at any time!</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 已随时满足吞并 <ph id="1">{1}</ph> 的条件!</target>
       </trans-unit>
-      <trans-unit id="{0} now has {1} of the culture it needs to annex {2}.">
+      <trans-unit id="{0} now has {1} of the culture it needs to annex {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> now has <ph id="1">{1}</ph> of the culture it needs to annex <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 现在拥有 <ph id="1">{1}</ph> 种文化 足以吞并 <ph id="2">{2}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0}'s ability to annex {1}">
+      <trans-unit id="{0}'s ability to annex {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s ability to annex <ph id="1">{1}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>吞并的能力 <ph id="1">{1}</ph></target>
       </trans-unit>
-      <trans-unit id="all its citizens">
+      <trans-unit id="all its citizens" xml:space="preserve">
         <source xml:space="preserve">all its citizens</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">全体公民</target>
       </trans-unit>
-      <trans-unit id="Civics Objects Deactivated In Annexation">
+      <trans-unit id="Civics Objects Deactivated In Annexation" xml:space="preserve">
         <source xml:space="preserve">Civics Objects Deactivated In Annexation</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">吞并后公民权利失效</target>
       </trans-unit>
-      <trans-unit id="also a">
+      <trans-unit id="also a" xml:space="preserve">
         <source xml:space="preserve">also a</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">同时也是</target>
       </trans-unit>
-      <trans-unit id="a lower-tier">
+      <trans-unit id="a lower-tier" xml:space="preserve">
         <source xml:space="preserve">a lower-tier</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">较低层级</target>
       </trans-unit>
-      <trans-unit id="another">
+      <trans-unit id="another" xml:space="preserve">
         <source xml:space="preserve">another</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">另一个</target>
       </trans-unit>
-      <trans-unit id="Civics Object">
+      <trans-unit id="Civics Object" xml:space="preserve">
         <source xml:space="preserve">Civics Object</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">公民目标</target>
       </trans-unit>
-      <trans-unit id="claimed plot">
+      <trans-unit id="claimed plot" xml:space="preserve">
         <source xml:space="preserve">claimed plot</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">声称的地块</target>
       </trans-unit>
-      <trans-unit id="You are a resident of this property.">
+      <trans-unit id="You are a resident of this property." xml:space="preserve">
         <source xml:space="preserve">You are a resident of this property.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">你是这处地产的居民。</target>
       </trans-unit>
-      <trans-unit id="You are a resident of this property and it provides you with {0}.">
+      <trans-unit id="You are a resident of this property and it provides you with {0}." xml:space="preserve">
         <source xml:space="preserve">You are a resident of this property and it provides you with <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">你是该地块的居民，该地块为你提供 <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="You are not a resident of this property, therefore it provides no housing XP to you.">
+      <trans-unit id="You are not a resident of this property, therefore it provides no housing XP to you." xml:space="preserve">
         <source xml:space="preserve">You are not a resident of this property, therefore it provides no housing XP to you.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">您并非此地产的居民，因此它不会为您提供住房经验值（XP）。</target>
       </trans-unit>
       <trans-unit id="Unclaimed">
         <source xml:space="preserve">Unclaimed</source>
         <target xml:space="preserve">未认领</target>
       </trans-unit>
-      <trans-unit id="Current Deeds">
+      <trans-unit id="Current Deeds" xml:space="preserve">
         <source xml:space="preserve">Current Deeds</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">近期行为</target>
       </trans-unit>
-      <trans-unit id="Deed not specified and no deed at current location.">
+      <trans-unit id="Deed not specified and no deed at current location." xml:space="preserve">
         <source xml:space="preserve">Deed not specified and no deed at current location.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">未指定契约，且当前地点无契约。</target>
       </trans-unit>
-      <trans-unit id="{0} value boosted by {1}.">
+      <trans-unit id="{0} value boosted by {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> value boosted by <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 的价值提升由 <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="off">
+      <trans-unit id="off" xml:space="preserve">
         <source xml:space="preserve">off</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">中止</target>
       </trans-unit>
-      <trans-unit id="Can't change property type when there are active residents.  Try again once residents are removed.">
+      <trans-unit id="Can't change property type when there are active residents.  Try again once residents are removed." xml:space="preserve">
         <source xml:space="preserve">Can't change property type when there are active residents.  Try again once residents are removed.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">当有活跃居民时，无法更改属性类型。  请在移除居民后重试。</target>
       </trans-unit>
-      <trans-unit id="{0} was marked as citizen of {1} but is not in roster, removing.">
+      <trans-unit id="{0} was marked as citizen of {1} but is not in roster, removing." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was marked as citizen of <ph id="1">{1}</ph> but is not in roster, removing.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 被标记为以下公民 <ph id="1">{1}</ph> 但不在名册中, 已移除.</target>
       </trans-unit>
-      <trans-unit id="{0} to present ({1})">
+      <trans-unit id="{0} to present ({1})" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> to present (<ph id="1">{1}</ph>)</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 展示为 (<ph id="1">{1}</ph>)</target>
       </trans-unit>
-      <trans-unit id="{0} to {1} ({2})">
+      <trans-unit id="{0} to {1} ({2})" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> to <ph id="1">{1}</ph> (<ph id="2">{2}</ph>)</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 到 <ph id="1">{1}</ph> (<ph id="2">{2}</ph>)</target>
       </trans-unit>
-      <trans-unit id="Admin boost time set: {0}">
+      <trans-unit id="Admin boost time set: {0}" xml:space="preserve">
         <source xml:space="preserve">Admin boost time set: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">管理加速时间设置： <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Online Citizens">
+      <trans-unit id="Online Citizens" xml:space="preserve">
         <source xml:space="preserve">Online Citizens</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">在线公民</target>
       </trans-unit>
-      <trans-unit id="Maintenance message cannot be empty.">
+      <trans-unit id="Maintenance message cannot be empty." xml:space="preserve">
         <source xml:space="preserve">Maintenance message cannot be empty.</source>
-        <target xml:space="preserve"></target>
+        <target xml:space="preserve" state="translated">维护消息不能为空。</target>
       </trans-unit>
       <trans-unit id="Failed to spoil some items">
         <source xml:space="preserve">Failed to spoil some items</source>
