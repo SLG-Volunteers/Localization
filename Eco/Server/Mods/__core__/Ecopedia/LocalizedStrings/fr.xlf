@@ -3709,27 +3709,31 @@ Lorsqu'un citoyen devient résident d'une propriété, il obtient un ensemble sp
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Exhaustion est une configuration de serveur qui limite le temps de jeu maximal par jour.
 </target>
       </trans-unit>
-      <trans-unit id="354">
+      <trans-unit id="354" xml:space="preserve">
         <source xml:space="preserve">
     TBD
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    À déterminer
+  </target>
       </trans-unit>
       <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
         <target xml:space="preserve" state="translated">Consolidation et filtrage</target>
       </trans-unit>
-      <trans-unit id="356">
+      <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+Tu peux rapidement regrouper et trier des piles d'objets identiques en appuyant sur le bouton « Regrouper » situé en bas à droite du module de stockage. De plus, tu peux filtrer les stocks pour n'afficher que certains types d'objets en utilisant le sélecteur d'objets ou simplement en tapant le nom de l'objet.
+  </target>
       </trans-unit>
       <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
         <target xml:space="preserve" state="translated">Les échanges entre citoyens aux capacités différentes et possédant des biens différents constituent l'épine dorsale de l'économie.</target>
       </trans-unit>
-      <trans-unit id="358">
+      <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
 
  - Trades can be setup at a {Store Component}, listing buy/sell prices for the different goods you would like.  Citizens can then buy and sell goods to you asynchronously, without being present.
@@ -3738,21 +3742,32 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Le commerce avec tes concitoyens est essentiel dans Eco, car chaque joueur dispose d'un ensemble de {Spécialités} auxquelles il peut contribuer le plus efficacement possible en échangeant avec d'autres citoyens compétents dans des professions qu'il ne maîtrise pas. 
+
+ - Les échanges peuvent être mis en place via un {Composant Boutique}, qui répertorie les prix d'achat et de vente des différents biens que tu souhaites.  Les citoyens peuvent alors t'acheter et te vendre des biens de manière asynchrone, sans être présents.
+ - Le commerce de main-d'œuvre peut se faire par le biais de {Contrats} et de {Chantiers}, permettant aux joueurs d'effectuer un travail contre rémunération selon des conditions convenues.  Cela peut également se faire de manière asynchrone.
+ - Le commerce de devises peut se faire dans un {Bureau de change|Composant de change}, où sont affichés les prix d'achat et de vente pour les échanges de différentes devises.
+ - Le commerce est facilité par le {Transport} et la construction d'infrastructures de transport entre les centres en plein essor de ta civilisation favorisera grandement les échanges commerciaux.
+ - Le commerce est soumis à des {Taxes}, fixées par le {Gouvernement|Aperçu du gouvernement}, qui peuvent soit favoriser, soit réduire la valeur de certains échanges.
+</target>
       </trans-unit>
       <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
         <target xml:space="preserve" state="translated">Injonctions</target>
       </trans-unit>
-      <trans-unit id="360">
+      <trans-unit id="360" xml:space="preserve">
         <source xml:space="preserve">
     Injunctions, which can be created on a {LargeCourtItem}, have the ability to block laws on a lesser court. Each injunction states a list of triggers and legal actions that will be blocked in a defined set of child settlements (or all, if left blank). This can be used by countries to block laws that a town have passed, for example.  
     
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Les injonctions, qui peuvent être créées sur un {LargeCourtItem}, permettent de bloquer des lois dans une juridiction inférieure. Chaque injonction énumère une liste de déclencheurs et d’actions juridiques qui seront bloquées dans un ensemble défini de colonies enfants (ou dans toutes, si le champ est laissé vide). Les pays peuvent s’en servir pour bloquer des lois adoptées par une ville, par exemple.  
+    
+    La possibilité de créer des injonctions est une fonctionnalité puissante à prendre en compte lors de la formation d’un pays ou d’une fédération, car elle peut avoir une grande influence sur le gouvernement des localités subordonnées. Les pouvoirs peuvent être définis dans la constitution de la localité pour déterminer qui peut ajouter ou modifier des injonctions, le cas échéant. Le rôle des injonctions doit être discuté avec soin entre les dirigeants des villes lorsqu’ils s’unissent pour former un pays.
+  </target>
       </trans-unit>
-      <trans-unit id="361">
+      <trans-unit id="361" xml:space="preserve">
         <source xml:space="preserve">
 As the number of occupants increases, the occupancy penalty increases.  At small numbers of occupants (1 or 2), there is virtually no penalty, and citizens can effectively cohabitate this way and share in the benefit of a well-stocked house.  As the occupants increases beyond that (5 and above), the penalty becomes more steep, eventually topping out at 99% when the house is too overcrowded.
 
@@ -3760,13 +3775,19 @@ However, the 'diminishing returns' rate of rooms is favorably affected by occupa
   
 To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+Plus le nombre d'occupants augmente, plus la pénalité d'occupation augmente.  Avec un petit nombre d'occupants (1 ou 2), il n'y a pratiquement pas de pénalité, et les citoyens peuvent cohabiter efficacement de cette manière et profiter des avantages d'une maison bien équipée.  Au-delà de ce nombre (5 et plus), la pénalité devient plus importante, pour atteindre finalement 99 % lorsque la maison est trop surpeuplée.
+
+Cependant, le taux de « rendements décroissants » des pièces est influencé favorablement par l’occupation (car trois salles de bains, c’est excessif quand on vit seul, mais idéal quand on a des colocataires).  Cela signifie que tu peux surmonter la pénalité en construisant une maison plus grande, et que les pièces en double auront un effet inverse sur le bonus d’occupation.
+  
+Pour devenir résident d’une propriété, clique sur le nom de la propriété (visible dans le panneau d’état contextuel lorsque tu te trouves dans la propriété). De là, tu peux devenir résident (si tu possèdes le titre de propriété) et inviter d’autres personnes à devenir résidents. Ces autres citoyens invités peuvent alors rejoindre la propriété en tant que résidents via la même interface. Tu peux même inviter des groupes en précisant des titres ou des critères démographiques, ce qui te permet de créer des logements pour des catégories spécifiques de citoyens (les nouveaux joueurs, par exemple). Tu peux également définir le nombre maximal d'occupants, afin de t'assurer que la gestion des résidences de cette manière (en invitant de grands groupes) n'entraîne pas de surpeuplement.
+</target>
       </trans-unit>
-      <trans-unit id="362">
+      <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Les colonies sont des regroupements de personnes ou d'autres colonies.  Elles constituent la structure et l'organisation de la société.</target>
       </trans-unit>
-      <trans-unit id="363">
+      <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
     A settlement with sufficiently more culture than a neighboring settlement can annex it, merging it into itself, if requirements are met.
 
@@ -3774,13 +3795,19 @@ To become a resident of a property, click the name of the property (visible on t
 
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Une colonie dont la culture est suffisamment supérieure à celle d’une colonie voisine peut l’annexer, en l’intégrant à elle-même, si les conditions sont remplies.
+
+    Lorsque deux colonies du même type sont voisines, leurs zones d’influence peuvent se heurter. Dans ces cas-là, la colonie dont la culture est supérieure à celle de l’autre s’étendra davantage à l’intérieur de ses frontières. À terme, la différence culturelle peut devenir si importante qu’une colonie peut complètement prendre le contrôle de l’autre.
+
+    L'annexion peut être un outil important pour imposer des lois à une colonie rebelle qui refuse de se conformer aux besoins mondiaux, car l'annexion désactivera toutes ses lois et permettra à la colonie annexante d'en mettre de nouvelles en place.
+  </target>
       </trans-unit>
-      <trans-unit id="364">
+      <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Configuration requise</target>
       </trans-unit>
-      <trans-unit id="365">
+      <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
     The requirements that must be met before one settlement can annex another are:
 
@@ -3796,13 +3823,27 @@ To become a resident of a property, click the name of the property (visible on t
 
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Les conditions à remplir pour qu'une colonie puisse en annexer une autre sont les suivantes :
+
+    Colonie de niveau supérieur. La colonie qui annexe doit être d'un niveau supérieur à sa cible, sauf s'il s'agit d'une colonie de niveau supérieur (Fédérations), qui est le seul type autorisé à annexer une colonie du même niveau.
+
+    Condition relative aux citoyens. La colonie qui annexe doit compter un pourcentage donné de la population de la colonie cible.
+
+    Condition d'influence environnante.  Cela signifie que la colonie qui annexe doit avoir influencé des parcelles situées autour de la frontière d'influence de la colonie voisine.  Une fois un seuil défini atteint, cette condition est remplie, mais augmenter le nombre de parcelles entourant l'influence augmentera le multiplicateur de la condition suivante, la culture.
+    
+    Exigence de culture. Cette exigence stipule que la culture de la colonie annexante doit être supérieure à celle de la colonie cible de deux manières : elle doit être supérieure d’un pourcentage donné et d’une valeur absolue. Cela vise à empêcher que les petites colonies ayant peu de culture ne soient annexées trop facilement ; un avantage culturel de base doit être atteint.  La culture se développe de diverses manières décrites sur la page {Culture}.
+    
+    Coût en ressources. Il s'agit d'un ensemble d'éléments qui constituent le coût matériel de l'annexion. Une partie de ce coût est distribuée aux citoyens non abandonnés de la colonie cible, le reste étant gaspillé (c'est pourquoi il est toujours moins coûteux de parvenir à un accord avec une autre colonie plutôt que de lui imposer ta volonté). Les ressources nécessaires à cette annexion doivent être liées à un bureau d'ambassade situé dans la juridiction de la colonie, et leur stockage doit être accessible au dirigeant de la colonie.
+
+Note que le type de colonie a son importance : une colonie ne peut annexer que des colonies de niveau inférieur (par exemple, une ville ne peut pas annexer un pays, mais une fédération peut annexer une ville). Si la colonie qui annexe est d'un type supérieur à la cible (par exemple, un pays annexant une ville voisine), un ensemble de valeurs différent et plus simple (affiché ci-dessous) est utilisé, ce qui facilite la mise en œuvre.
+  </target>
       </trans-unit>
-      <trans-unit id="366">
+      <trans-unit id="366" xml:space="preserve">
         <source xml:space="preserve">Performing the Annex</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Exécution de l'annexe</target>
       </trans-unit>
-      <trans-unit id="367">
+      <trans-unit id="367" xml:space="preserve">
         <source xml:space="preserve">
     Once both these are met, the leader of the settlement can perform the annex at anytime on an {EmbassyDeskItem} associated with the annexing settlement.
     
@@ -3812,23 +3853,33 @@ Note that the type of settlement matters: a settlement can only annex other sett
     
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Une fois ces deux conditions remplies, le chef de la colonie peut procéder à l'annexion à tout moment via un {EmbassyDeskItem} associé à la colonie qui annexe.
+    
+    Une fois activée, si les colonies sont du même type, la colonie cible sera supprimée et tous ses citoyens seront transférés vers la nouvelle colonie.  
+    Si les colonies sont de types différents, la cible sera simplement retirée de toute colonie parente actuelle et ajoutée en tant qu’enfant de la nouvelle colonie.  
+    Dans les deux cas, toutes les lois et autres objets civiques seront désactivés et renvoyés à l’état de projet. 
+    
+    Une fois qu’une colonie est annexée, elle ne peut plus effectuer l’action « Sécession de la colonie » ; elle sera verrouillée sur la colonie parente jusqu’à ce que celle-ci la retire. 
+  </target>
       </trans-unit>
-      <trans-unit id="368">
+      <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres d'annexion</target>
       </trans-unit>
-      <trans-unit id="377">
+      <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Participer à des dîners permettra de générer de la culture pour ta colonie, ainsi qu'un bonus de compétence pour ta nutrition. C'est un moyen précieux d'augmenter la génération de culture dans le monde en créant des liens entre les citoyens autour de repas partagés.
+  </target>
       </trans-unit>
-      <trans-unit id="378">
+      <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Configuration requise</target>
       </trans-unit>
-      <trans-unit id="379">
+      <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
       A dinner party will be triggered when valid food is eaten at a location. The requirements are:
       - Dining while seated at a table.  Citizens must be seated, and eat food directly from the table (without picking it up into your inventory).
@@ -3838,24 +3889,35 @@ Note that the type of settlement matters: a settlement can only annex other sett
       - Claimed land. Dinner party must be taking place on claimed property.
       - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
     </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+      Un dîner sera déclenché lorsque de la nourriture valide sera consommée à un endroit donné. Les conditions sont les suivantes :
+      - Manger assis à table.  Les citoyens doivent être assis et manger directement à table (sans mettre la nourriture dans leur inventaire).
+      - De la nourriture fraîche uniquement. La nourriture doit être fraîche pour pouvoir être consommée lors d'un dîner. 
+      - Nombre maximal de dîners par jour. Un nombre limité de dîners par jour et par personne est imposé (valeur par défaut : 1).
+      - Pas de répétition des plats. Les dîners peuvent comporter plusieurs plats, jusqu’à un maximum donné, mais aucun plat ne peut être servi plusieurs fois au même joueur.
+      - Terrain revendiqué. Le dîner doit avoir lieu sur un terrain revendiqué.
+      - Viens le ventre vide ! Tu ne peux manger que le nombre de plats (jusqu’à un maximum défini ci-dessous) nécessaire pour te rassasier.
+    </target>
       </trans-unit>
-      <trans-unit id="380">
+      <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Originalité</target>
       </trans-unit>
-      <trans-unit id="381">
+      <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
   Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
   Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+  Une fois préparés, les plats créés à partir de recettes ne resteront assez frais pour un dîner que pendant quelques minutes (définies dans la configuration ci-dessous) ; tu devras donc faire appel à un chef pour préparer les repas en temps réel. 
+  Les aliments crus peuvent toutefois être beaucoup plus anciens et rester valables pour les dîners. La fraîcheur sera visible sur les aliments une fois placés sur la table, qui affichera de la vapeur ou d'autres effets pour indiquer les aliments très frais. Tu peux voir combien de minutes il reste sur les aliments en passant la souris dessus.
+</target>
       </trans-unit>
-      <trans-unit id="382">
+      <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bonus</target>
       </trans-unit>
-      <trans-unit id="383">
+      <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
     The value of the dinner party can be increased by following these guidelines:
     - More guests. The more guests involved in the party, the higher the potential bonus.
@@ -3864,69 +3926,88 @@ Note that the type of settlement matters: a settlement can only annex other sett
     - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
     - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Tu peux augmenter la valeur du dîner en suivant ces conseils :
+    - Plus d'invités. Plus il y a d'invités à la fête, plus le bonus potentiel est élevé.
+    - Des participants provenant de plusieurs colonies. Dîner avec des citoyens qui ne font pas partie d'une colonie, ou qui proviennent tous d'une seule et même colonie, ne générera que peu de culture. Pour obtenir un bonus de dîner significatif, il faut que des citoyens de plusieurs colonies soient présents.
+    - Valeur nutritionnelle moyenne. La valeur nutritionnelle moyenne de la nourriture sera convertie en points de culture via un multiplicateur (ci-dessous).
+    - Nourriture plus savoureuse. La valeur de chaque plat est déterminée par les bonus de goût individuels de chaque citoyen : plus ils trouvent la nourriture savoureuse, plus le bonus est important.
+    - Lieu plus agréable. La valeur immobilière du terrain sur lequel se tient le dîner déterminera le bonus maximal.
+  </target>
       </trans-unit>
-      <trans-unit id="384">
+      <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Avantages</target>
       </trans-unit>
-      <trans-unit id="385">
+      <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
  - Personal Nutrition Bonus Your nutrition multiplier will be increased based on the dinner parties you've recently attended.
  - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
  - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+ - Bonus de nutrition personnelle : ton multiplicateur de nutrition augmentera en fonction des dîners auxquels tu as récemment participé.
+ - Bonus de culture de la colonie : la colonie gagnera de la culture en fonction des dîners organisés sur ses propriétés.
+ - Bonus d'influence de la colonie : si le dîner est organisé sur une propriété de type « Culturel », la valeur culturelle du dîner s'ajoutera à la valeur culturelle globale, augmentant ainsi son influence.
+</target>
       </trans-unit>
-      <trans-unit id="386">
+      <trans-unit id="386" xml:space="preserve">
         <source xml:space="preserve">
 Dinner parties will decay in value overtime, until reaching zero, after which they are removed from bonuses. You can see the active Dinner Party bonuses you have by looking at the nutrition tooltip.
 
 Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+La valeur des dîners diminuera au fil du temps, jusqu'à atteindre zéro, après quoi ils seront retirés des bonus. Tu peux voir les bonus de dîner actifs dont tu disposes en consultant l'infobulle « nutrition ».
+
+Les dîners se terminent lorsque l'hôte clique sur « Terminer », ou après le délai imparti, ou lorsque tout le monde est trop repu pour avaler une bouchée de plus.
+</target>
       </trans-unit>
-      <trans-unit id="387">
+      <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres du dîner</target>
       </trans-unit>
-      <trans-unit id="406">
+      <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Les colonies sont des communautés de citoyens qui se sont regroupés selon des règles convenues.</target>
       </trans-unit>
-      <trans-unit id="407">
+      <trans-unit id="407" xml:space="preserve">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
     -Arnold J. Toynbee
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">« La civilisation est un mouvement et non un état, un voyage et non un port. »
+    -Arnold J. Toynbee
+  </target>
       </trans-unit>
-      <trans-unit id="408">
+      <trans-unit id="408" xml:space="preserve">
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Une colonie peut être créée par un groupe de citoyens pour mettre en place un gouvernement dans ses zones d'{influence}.
+  </target>
       </trans-unit>
-      <trans-unit id="409">
+      <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Il y a trois niveaux de colonies :</target>
       </trans-unit>
-      <trans-unit id="410">
+      <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Les villes sont des regroupements de citoyens.</target>
       </trans-unit>
-      <trans-unit id="411">
+      <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Les pays sont constitués de villes et de citoyens.</target>
       </trans-unit>
-      <trans-unit id="412">
+      <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Les fédérations sont des regroupements de pays, de villes et de citoyens.</target>
       </trans-unit>
-      <trans-unit id="413">
+      <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Concepts de colonisation</target>
       </trans-unit>
-      <trans-unit id="414">
+      <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
     - {Founding} - Multiple citizens can join together to found a new settlement.
     - {Citizenship} - Citizens may be granted special rights and privileges, and being a citizen of a settlement increases its power.
@@ -3936,9 +4017,17 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    - {Fondation} - Plusieurs citoyens peuvent s'unir pour fonder une nouvelle colonie.
+    - {Citoyenneté} - Les citoyens peuvent se voir accorder des droits et privilèges spéciaux, et le fait d'être citoyen d'une colonie renforce son pouvoir.
+    - {Influence} - Les colonies exercent une influence dans un rayon autour de certains bâtiments, à l'intérieur duquel les lois et les règles de propriété sont appliquées.
+    - {Propriété de la colonie} - Plus il y a de citoyens dans une colonie, plus on peut revendiquer de propriétés.
+    - {Culture} - La culture permet aux colonies d'exercer une influence sur les colonies voisines, ce qui peut mener à leur annexion.
+    - {Annexion} - Les colonies peuvent prendre le contrôle d'autres colonies ou fermes si leur niveau de culture est suffisamment élevé.
+    - {Crise foncière} - Si une colonie perd des citoyens, elle risque de ne plus pouvoir conserver les terres déjà revendiquées.
+  </target>
       </trans-unit>
-      <trans-unit id="415">
+      <trans-unit id="415" xml:space="preserve">
         <source xml:space="preserve">
     Citizenship is membership in a settlement that provides civic powers. The more citizens a settlement has, the more {Settlement Property} it can claim.
 
@@ -3946,66 +4035,85 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    La citoyenneté, c'est l'appartenance à une colonie qui confère des pouvoirs civiques. Plus une colonie compte de citoyens, plus elle peut revendiquer de {Propriété de la colonie}.
+
+    Chaque colonie peut accorder la citoyenneté à une liste d'individus dans l'onglet {CitizenRosterComponent} de l'objet fondation.   Les non-citoyens peuvent également demander la citoyenneté ici, ce qui doit être approuvé par l’Approver, défini dans les paramètres {Immigration Policy}, par défaut le chef de la colonie.  De plus, tous les citoyens des sous-colonies deviendront automatiquement citoyens de la colonie mère (c’est-à-dire que les citoyens de chaque ville d’un pays sont également citoyens de ce pays).
+
+    Les joueurs possédant déjà une propriété familiale, en utilisant le {HomesteadSupportClaimPaperItem}, peuvent rejoindre des colonies en toute simplicité en déposant un nombre équivalent de documents de revendication de cette colonie au sein de leur propriété familiale.
+  </target>
       </trans-unit>
-      <trans-unit id="416">
+      <trans-unit id="416" xml:space="preserve">
         <source xml:space="preserve">Citizenship Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres de citoyenneté</target>
       </trans-unit>
-      <trans-unit id="417">
+      <trans-unit id="417" xml:space="preserve">
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    La culture est créée par les citoyens qui réalisent des œuvres créatives, découvrent des artefacts historiques (à venir), organisent des événements et des festivals (à venir) et fondent des colonies. La culture est toujours attribuée à une colonie, et plus une colonie a de culture, plus son {Influence} s'étendra loin.
+  </target>
       </trans-unit>
-      <trans-unit id="418">
+      <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">La culture de Settlement Foundation</target>
       </trans-unit>
-      <trans-unit id="419">
+      <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Une colonie fondée génère un niveau de culture par défaut pour sa propriété ; ce niveau est constant et constitue une base d'influence. Pour l'augmenter davantage et à partir d'autres propriétés, il faut utiliser d'autres sources.</target>
       </trans-unit>
-      <trans-unit id="420">
+      <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">La culture à travers les œuvres d'art</target>
       </trans-unit>
-      <trans-unit id="421">
+      <trans-unit id="421" xml:space="preserve">
         <source xml:space="preserve">
     When Citizens use an {EaselItem} a {HandheldCameraItem} or {TripodCameraItem} to create a picture, these pictures can be displayed in a frame on the wall to give Culture points to the property. The amount of culture depends on the reputation of both the picture and artist, and viewers will be prompted to rate the images they view to give them additional reputation. As these values go up, more culture is generated, up to a limit.  The culture bonus from Citizens in the same settlement, however, is reduced by 90%, so that the majority of value comes from other Citizens of other settlements spreading the reputation of the work. This makes it advantageous to gain reputation in a given settlement, but then sell or transfer it to another settlement, where it will have much more value due to originating from a different place.
 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Quand les citoyens utilisent un {EaselItem}, un {HandheldCameraItem} ou un {TripodCameraItem} pour prendre une photo, ces photos peuvent être exposées dans un cadre accroché au mur pour donner des points de culture à la propriété. La quantité de culture dépend de la réputation de la photo et de l’artiste, et les spectateurs seront invités à noter les images qu’ils regardent pour leur donner une réputation supplémentaire. À mesure que ces valeurs augmentent, davantage de culture est générée, jusqu’à une certaine limite.  Le bonus de culture provenant des citoyens de la même colonie est toutefois réduit de 90 %, de sorte que la majeure partie de la valeur provient d’autres citoyens d’autres colonies qui font connaître l’œuvre. Il est donc avantageux de gagner de la réputation dans une colonie donnée, puis de la vendre ou de la transférer vers une autre colonie, où elle aura beaucoup plus de valeur du fait de provenir d’un autre endroit.
+
+    Au sein d'une même galerie, l'exposition d'œuvres du même artiste sur l'ensemble de la propriété entraîne des rendements décroissants. Pour éviter cela, tu peux plutôt présenter une collection regroupant plusieurs artistes.
+  </target>
       </trans-unit>
-      <trans-unit id="422">
+      <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres culturels</target>
       </trans-unit>
-      <trans-unit id="423">
+      <trans-unit id="423" xml:space="preserve">
         <source xml:space="preserve">
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    La première étape pour créer une nouvelle colonie consiste à placer l'objet de fondation. Il s'agit de {TownFoundationItem}, {CountryFoundationItem} et {FederationFoundationItem}. Une fois placé, cela lancera la création d'une nouvelle colonie, et dès que toutes les conditions seront remplies, la cérémonie de fondation pourra être déclenchée.
+</target>
       </trans-unit>
-      <trans-unit id="424">
+      <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Conditions de création</target>
       </trans-unit>
-      <trans-unit id="425">
+      <trans-unit id="425" xml:space="preserve">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
 
     When placed, the plot beneath it will be claimed as property of this new settlement, with ownership assigned to the leader.  More plots can be claimed using the {ClaimToolItem} (right-click the item to select the settlement deed as the target).  This will allow you to claim land around the foundation and build a room that meets the requirements.
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Le citoyen qui pose la fondation deviendra le premier dirigeant de la ville et se verra accorder certains privilèges spéciaux, mais ce poste peut évoluer au fil du temps en fonction des règles du gouvernement.
+
+    Une fois posée, la parcelle située en dessous sera revendiquée comme propriété de cette nouvelle colonie, la propriété étant attribuée au dirigeant.  Tu peux revendiquer d'autres parcelles à l'aide de l'{ClaimToolItem} (clique avec le bouton droit sur l'objet pour sélectionner l'acte de propriété de la colonie comme cible).  Cela te permettra de revendiquer des terres autour de la fondation et de construire une pièce qui répond aux exigences.
+
+    Les colonies ont besoin d'un nombre minimum de citoyens, d'un nombre minimum de sous-colonies (c'est-à-dire qu'un pays aura besoin d'un certain nombre de villes pour se former) et d'un niveau de culture minimum dans toutes les sous-colonies.  Pour la colonie de niveau le plus bas, une ville, la culture et les sous-colonies ne sont pas requises (car une ville ne peut pas avoir de sous-colonies, c'est le niveau le plus bas).  Dans l'onglet « Citoyens » de l'objet fondation, le chef peut inviter et approuver les citoyens candidats, et les autres non-citoyens peuvent accepter les invitations et postuler pour devenir citoyens.min
+</target>
       </trans-unit>
-      <trans-unit id="426">
+      <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ratification de la Constitution</target>
       </trans-unit>
-      <trans-unit id="427">
+      <trans-unit id="427" xml:space="preserve">
         <source xml:space="preserve">
     Once all the requirements are met, the election to ratify the settlement {Constitution} can begin.  On the Constitution tab, you can configure the constitution however you like, designing your government as you see fit (see Constitution guide). Once you click to start the voting, all current citizens of the settlement will be allowed to vote on it.  If it fails, you can make alterations and try again.
 
@@ -4015,13 +4123,21 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Une fois toutes les conditions remplies, l'élection visant à ratifier la {Constitution} de la colonie peut commencer.  Dans l'onglet Constitution, tu peux configurer la constitution comme tu le souhaites, en concevant ton gouvernement comme bon te semble (voir le guide de la Constitution). Une fois que tu cliques pour lancer le vote, tous les citoyens actuels de la colonie seront autorisés à voter.  Si le vote échoue, tu peux apporter des modifications et réessayer.
+
+    Si tu le souhaites, tu peux ajouter d’autres éléments civiques à la fondation initiale de ta colonie ; par exemple, en plaçant un tribunal sur la propriété de la colonie initiale, tu peux créer des lois associées à la colonie, qui peuvent être soumises au vote lors de la même élection que la ratification de la Constitution. Tu peux regrouper un nombre illimité d’objets civiques dans une seule élection de cette manière, si tu souhaites que ton gouvernement soit plus abouti dès le départ. Sinon, tu peux toujours les ajouter plus tard lors d’élections supplémentaires.
+
+    Une fois toutes les conditions remplies et la constitution ratifiée, la colonie est prête à être fondée !  Clique sur le bouton de l'onglet Fondation de l'objet Fondation pour lancer la cérémonie d'inauguration, à laquelle tous tes citoyens peuvent assister pour célébrer le début d'une nouvelle colonie.
+
+    Une fois fondée, ta colonie commencera à exercer une {Influence}, à générer des {Propriétés de colonie} et à recevoir de la {Culture}.
+  </target>
       </trans-unit>
-      <trans-unit id="428">
+      <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres de base de la colonie</target>
       </trans-unit>
-      <trans-unit id="429">
+      <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
     A settlement can have its rules about new Citizens defined in an {Immigration Policy}.
 
@@ -4029,29 +4145,39 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Une colonie peut définir ses propres règles concernant les nouveaux citoyens dans une {Politique d'immigration}.
+
+    Chaque colonie est toujours associée à une seule Politique d'immigration.  Elle commence comme un objet intégré à la colonie, avec des paramètres par défaut qui permettent au dirigeant d'approuver de nouveaux citoyens, et elle est visible dans les infobulles de la colonie.  Une fois qu'un {ImmigrationDeskItem} est placé dans la zone d'influence de cette colonie, cette politique peut être modifiée.
+
+    Des conditions peuvent être définies et doivent être remplies et/ou maintenues pour rester citoyen de la colonie. Pour que les citoyens deviennent ou restent citoyens, ils doivent remplir toutes ces conditions dans la colonie qu’ils rejoignent ainsi que dans toutes ses colonies mères.
+  </target>
       </trans-unit>
-      <trans-unit id="430">
+      <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Publicité pour la colonie</target>
       </trans-unit>
-      <trans-unit id="431">
+      <trans-unit id="431" xml:space="preserve">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Lorsqu'une colonie est configurée pour permettre à de nouveaux arrivants de la rejoindre instantanément, une fonctionnalité spéciale est débloquée. Les nouveaux arrivants verront la colonie sur la carte dès leur premier démarrage, parmi d'autres positions de départ possibles, ainsi qu'une note de la colonie (définie dans la section « Publicité » de la politique d'immigration).  Lorsqu'ils entrent dans le monde et rejoignent ta colonie de cette manière, ils deviennent automatiquement citoyens et commencent à un emplacement désigné à côté de l'objet « Bureau de l'immigration ».  Utiliser cette fonctionnalité est un excellent moyen d'attirer de nouveaux joueurs dans tes colonies et de développer une communauté.
+  </target>
       </trans-unit>
-      <trans-unit id="432">
+      <trans-unit id="432" xml:space="preserve">
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Une fois qu'une colonie est {fondée|fondation}, elle commence à exercer une influence dans un rayon autour de son emplacement.  Tout territoire sous son influence sera soumis à ses lois et à ses mesures civiques.
+  </target>
       </trans-unit>
-      <trans-unit id="433">
+      <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">La culture génère de l'influence</target>
       </trans-unit>
-      <trans-unit id="434">
+      <trans-unit id="434" xml:space="preserve">
         <source xml:space="preserve">
     Influence can be extended with {Culture}. The higher the culture level of a property, the more influence it will cast for the owning settlement.  This allows you to expand your borders by increasing culture, or creating new cultural properties. There are limits, however, on the number of cultural properties and the max influence castable, so borders cannot be expanded indefinitely. Each level-up of settlement allows a farther range of influence to be cast, and more cultural properties to be created.
     
@@ -4059,31 +4185,43 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    L'influence peut être étendue grâce à la {Culture}. Plus le niveau de culture d'un bien est élevé, plus il aura d'influence sur la colonie qui le possède.  Cela te permet d'étendre tes frontières en augmentant la culture ou en créant de nouveaux biens culturels. Il existe toutefois des limites quant au nombre de biens culturels et à l'influence maximale pouvant être exercée, de sorte que les frontières ne peuvent pas être étendues indéfiniment. Chaque niveau gagné par la colonie permet d'étendre la portée de l'influence et de créer davantage de biens culturels.
+    
+    L'influence est exercée à partir de la position moyenne des pièces de la propriété, pondérée par leur valeur.  
+
+    Les {Homesteads|HomesteadClaimStakeObject} sont des biens individuels associés à la colonie dont leur propriétaire est citoyen. Si le propriétaire n'est citoyen d'aucune colonie, il ne sera influencé par aucune. Cela peut créer des lacunes dans l'influence de la ville lorsque des citoyens renoncent à leur citoyenneté, mais une colonie puissante peut revendiquer de force ce bien par le biais du processus d'{Annexation}.
+  </target>
       </trans-unit>
-      <trans-unit id="435">
+      <trans-unit id="435" xml:space="preserve">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Plusieurs colonies influentes</target>
       </trans-unit>
-      <trans-unit id="436">
+      <trans-unit id="436" xml:space="preserve">
         <source xml:space="preserve">
     Each settlement level (Town, Country, Federation) has its own map of influence, and only one settlement of each type may influence a given plot (IE, two Towns cannot influence the same plot).  However, if a settlement is a sub-settlement of another settlement, then that parent will also cast influence on the plot (IE, a Country's influence will be cast everywhere its member town's influences are cast).  In plots influenced by more than one settlement in this way, the governments of all settlement will apply.
     
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Chaque niveau de colonie (Ville, Pays, Fédération) a sa propre zone d'influence, et une seule colonie de chaque type peut influencer une parcelle donnée (c'est-à-dire que deux Villes ne peuvent pas influencer la même parcelle).  Cependant, si une colonie est une sous-colonie d'une autre colonie, alors cette colonie mère exercera également son influence sur la parcelle (c'est-à-dire que l'influence d'un Pays s'étendra partout où s'étend l'influence de ses villes membres).  Dans les parcelles influencées de cette manière par plusieurs localités, les gouvernements de toutes ces localités s’appliqueront.
+    
+    Lorsque deux localités du même type se disputent l’influence, celle qui est la plus proche s’étendra davantage dans les limites d’influence de l’autre.  Cependant, toute terre déjà revendiquée restera sous influence même si elle se trouvait autrement dans la localité adverse. Cela peut même conduire à ce que des parties de la localité se détachent et soient englobées par d’autres localités.
+</target>
       </trans-unit>
-      <trans-unit id="437">
+      <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Contrôle des frontières</target>
       </trans-unit>
-      <trans-unit id="438">
+      <trans-unit id="438" xml:space="preserve">
         <source xml:space="preserve">
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Sur un {Bureau de l'immigration|ImmigrationDeskObject}, les dirigeants d'une colonie peuvent désigner des fermes ou des colonies voisines qui peuvent revendiquer des terres sous notre influence. Si un voisin souhaite revendiquer des terres qui sont sous l'influence de ta colonie (peut-être moyennant finance), c'est ainsi qu'on peut l'autoriser.
+  </target>
       </trans-unit>
-      <trans-unit id="439">
+      <trans-unit id="439" xml:space="preserve">
         <source xml:space="preserve">
     A Property Crisis occurs when the number of Citizens in a settlement reduces such that there aren't enough Citizens to support the number of Claim Stakes and Claim Papers in use.
     
@@ -4098,13 +4236,26 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Une crise immobilière survient lorsque le nombre de citoyens dans une colonie diminue au point qu’il n’y a plus assez de citoyens pour soutenir le nombre de piquets et de titres de propriété en circulation.
+    
+    Comme les colonies génèrent des piquets et des titres de propriété lorsque des citoyens les rejoignent, et les suppriment lorsqu’ils partent, il est possible que des citoyens partent et provoquent une crise immobilière s’il n’y a plus de piquets ou de titres disponibles à supprimer sur l’objet « Fondation de la colonie ».  Quand ça arrive, un compte à rebours démarre, à la fin duquel les citoyens doivent rendre le nombre nécessaire de piquets et de documents à la Fondation de la colonie, en annulant leurs revendications ou en les récupérant comme ils peuvent.  Quand des piquets et des revendications sont placés dans une Fondation de la colonie pendant une crise foncière, ils sont immédiatement supprimés, et si le déficit est comblé, la crise prend fin immédiatement.
+
+    Si les citoyens ne peuvent pas ou ne veulent pas rendre les piquets et les papiers nécessaires avant la fin du compte à rebours, ceux-ci seront détruits où qu'ils se trouvent. Lorsqu'une crise foncière est résolue, les saisies suivantes auront lieu :
+    - Tout d'abord, les revendications/piquets qui ne sont pas utilisés (dans le sac à dos d'un citoyen, par exemple) seront détruits.
+    - Ensuite, les enjeux/revendications en cours d'utilisation seront détruits si le déficit n'est toujours pas comblé.
+    Dans les deux étapes, les revendications appartenant à des citoyens qui ont abandonné la colonie seront détruites en premier.
+
+    Il est très important que les colonies gèrent soigneusement leur population de citoyens pour éviter un déficit, et il est judicieux d'en garder en réserve et de ne pas les utiliser immédiatement, ou de s'adapter lorsque les citoyens commencent à partir.
+
+    Les citoyens qui entrent dans la catégorie « Abandonné » cesseront également de contribuer au nombre de Stakes et de Papers générés, ce qui peut également entraîner une crise immobilière.
+  </target>
       </trans-unit>
-      <trans-unit id="440">
+      <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres de la crise immobilière</target>
       </trans-unit>
-      <trans-unit id="441">
+      <trans-unit id="441" xml:space="preserve">
         <source xml:space="preserve">
     As more Citizens join a Settlement, more {Property} can be claimed, using Claim Stakes and Claim Papers associated with the settlement.
 
@@ -4112,19 +4263,25 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Plus il y a de citoyens qui rejoignent une colonie, plus on peut revendiquer de {Propriétés}, en utilisant des piquets de revendication et des documents de revendication associés à la colonie.
+
+    La colonie générera ces objets en fonction de son niveau, avec des piquets de revendication de types {TownClaimStakeItem}, {CountryClaimStakeItem} et {FederationClaimStakeItem}.  Ces derniers revendiqueront des propriétés au nom de la colonie à laquelle ils sont associés, et peuvent être améliorés avec des {ClaimPaperItem} pour revendiquer davantage de parcelles, en les plaçant dans l'inventaire du piquet de revendication.
+
+    Si des citoyens partent, le nombre maximal de documents de revendication et de piquets autorisés diminuera et sera retiré de l'inventaire de la Fondation de la colonie.  S'ils sont tous utilisés et ne peuvent pas être rendus, une {Property Crisis} se produira.
+  </target>
       </trans-unit>
-      <trans-unit id="442">
+      <trans-unit id="442" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Demandes d'aide à l'installation</target>
       </trans-unit>
-      <trans-unit id="443">
+      <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Les colonies généreront également des {Homestead Support Claims|HomesteadSupportClaimPaperItem} qui peuvent être donnés ou vendus à des non-citoyens. Ces titres permettront aux fermes qui ne sont associées à aucune colonie de revendiquer davantage de parcelles, n'importe où sur la carte.  En général, les agriculteurs des régions éloignées et isolées qui souhaitent agrandir leurs exploitations les rechercheront (en échange de nourriture ou de main-d'œuvre) auprès des villes du monde entier.  Elles représentent le soutien d'une colonie appliqué à la protection des biens extérieurs.</target>
       </trans-unit>
-      <trans-unit id="444">
+      <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres des propriétés des colonies</target>
       </trans-unit>
     </body>
   </file>
