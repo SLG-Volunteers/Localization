@@ -3795,32 +3795,35 @@ Quando un cittadino diventa un residente di una proprietà, otterrà una serie d
 
 </target>
       </trans-unit>
-      <trans-unit id="353">
-        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.
-</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+      <trans-unit id="353" xml:space="preserve">
+        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.</source>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Exhaustion è una configurazione del server che limita il tempo massimo di gioco giornaliero.</target>
       </trans-unit>
-      <trans-unit id="354">
+      <trans-unit id="354" xml:space="preserve">
         <source xml:space="preserve">
     TBD
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Da definire
+  </target>
       </trans-unit>
-      <trans-unit id="355">
+      <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Consolidamento e filtraggio</target>
       </trans-unit>
-      <trans-unit id="356">
+      <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+È possibile raggruppare e ordinare rapidamente pile di oggetti identici premendo il pulsante "Consolida" che si trova in basso a destra nel componente "Magazzino". Inoltre, puoi filtrare il magazzino per visualizzare solo determinati tipi di oggetti utilizzando il selettore di oggetti o semplicemente digitando il nome dell'oggetto.
+  </target>
       </trans-unit>
-      <trans-unit id="357">
+      <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Il commercio tra cittadini con abilità diverse e in possesso di beni diversi è la spina dorsale dell'economia.</target>
       </trans-unit>
-      <trans-unit id="358">
+      <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
 
  - Trades can be setup at a {Store Component}, listing buy/sell prices for the different goods you would like.  Citizens can then buy and sell goods to you asynchronously, without being present.
@@ -3829,21 +3832,32 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Il commercio con i tuoi concittadini è essenziale in Eco, poiché ogni giocatore ha una serie di {Specialità} con cui può contribuire in modo più efficace, scambiando con altri cittadini esperti in professioni in cui lui non lo è. 
+
+ - Gli scambi possono essere impostati in un {Componente Negozio}, elencando i prezzi di acquisto/vendita per i diversi beni che desideri.  I cittadini possono quindi acquistare e vendere beni da te in modo asincrono, senza essere presenti.
+ - Lo scambio di manodopera può avvenire tramite {Contratti} e {Gruppi di lavoro}, consentendo ai giocatori di svolgere un lavoro a pagamento secondo i termini concordati.  Anche questo può essere effettuato in modo asincrono.
+ - Lo scambio di valute può avvenire presso un {Cambio valuta|Componente di cambio}, che elenca i prezzi di acquisto/vendita per lo scambio di diverse valute.
+ - Il commercio è facilitato dai {Trasporti} e la costruzione di infrastrutture di trasporto tra i centri in espansione della tua civiltà promuoverà notevolmente la capacità di commerciare.
+ - Il commercio è soggetto a {Tasse}, stabilite dal {Governo|Panoramica del Governo}, che possono promuovere o ridurre il valore di determinati scambi.
+</target>
       </trans-unit>
-      <trans-unit id="359">
+      <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ingiunzioni</target>
       </trans-unit>
-      <trans-unit id="360">
+      <trans-unit id="360" xml:space="preserve">
         <source xml:space="preserve">
     Injunctions, which can be created on a {LargeCourtItem}, have the ability to block laws on a lesser court. Each injunction states a list of triggers and legal actions that will be blocked in a defined set of child settlements (or all, if left blank). This can be used by countries to block laws that a town have passed, for example.  
     
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Le ingiunzioni, che possono essere create su un {LargeCourtItem}, hanno la capacità di bloccare le leggi in un tribunale di grado inferiore. Ogni ingiunzione elenca una serie di condizioni e azioni legali che verranno bloccate in un insieme definito di insediamenti secondari (o in tutti, se lasciato vuoto). Questo può essere usato dai paesi per bloccare leggi approvate da una città, per esempio.  
+    
+    La possibilità di creare ingiunzioni è una funzione potente che va presa in considerazione quando si forma un paese o una federazione, poiché può avere una grande influenza sul governo degli insediamenti secondari. I poteri possono essere definiti nella costituzione dell'insediamento per stabilire chi può aggiungere o modificare le ingiunzioni, se necessario. Il ruolo delle ingiunzioni dovrebbe essere discusso attentamente tra i leader delle città quando si uniscono per formare un paese.
+  </target>
       </trans-unit>
-      <trans-unit id="361">
+      <trans-unit id="361" xml:space="preserve">
         <source xml:space="preserve">
 As the number of occupants increases, the occupancy penalty increases.  At small numbers of occupants (1 or 2), there is virtually no penalty, and citizens can effectively cohabitate this way and share in the benefit of a well-stocked house.  As the occupants increases beyond that (5 and above), the penalty becomes more steep, eventually topping out at 99% when the house is too overcrowded.
 
@@ -3851,13 +3865,19 @@ However, the 'diminishing returns' rate of rooms is favorably affected by occupa
   
 To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+Man mano che il numero di occupanti aumenta, aumenta anche la penalità di occupazione.  Con un numero ridotto di occupanti (1 o 2), la penalità è praticamente inesistente, e i cittadini possono convivere efficacemente in questo modo e condividere i benefici di una casa ben fornita.  Man mano che gli occupanti superano quel numero (5 e oltre), la penalità diventa più marcata, raggiungendo infine il 99% quando la casa è troppo sovraffollata.
+
+Tuttavia, il tasso di "rendimenti decrescenti" delle stanze è influenzato positivamente dall'occupazione (perché tre bagni sono eccessivi quando vivi da solo, ma ottimi quando hai dei coinquilini).  Questo significa che puoi superare la penalità costruendo una casa più grande, e le stanze duplicate influenzeranno inversamente il bonus di occupazione.
+  
+Per diventare residente di un immobile, clicca sul nome dell'immobile (visibile nel pannello di stato a comparsa quando ti trovi all'interno dell'immobile). Da lì puoi diventare residente (se possiedi l'atto di proprietà) e invitare altri a diventare residenti.  Questi altri cittadini invitati potranno quindi unirsi come residenti attraverso la stessa interfaccia. Puoi persino invitare gruppi specificando titoli o dati demografici, il che ti permette di creare alloggi per classi speciali di cittadini (ad esempio i nuovi giocatori). Puoi anche impostare il numero massimo di occupanti, per assicurarti che la gestione della residenza in questo modo (invitando grandi gruppi) non porti a un sovraffollamento degli alloggi.
+</target>
       </trans-unit>
-      <trans-unit id="362">
+      <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gli insediamenti sono gruppi di persone o altri insediamenti.  Sono la struttura e l'organizzazione della società.</target>
       </trans-unit>
-      <trans-unit id="363">
+      <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
     A settlement with sufficiently more culture than a neighboring settlement can annex it, merging it into itself, if requirements are met.
 
@@ -3865,13 +3885,19 @@ To become a resident of a property, click the name of the property (visible on t
 
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Un insediamento con una cultura sufficientemente superiore a quella di un insediamento vicino può annetterlo, fondendolo con sé stesso, se i requisiti sono soddisfatti.
+
+    Quando due insediamenti dello stesso tipo sono vicini, le loro sfere di influenza possono scontrarsi. In questi casi, gli insediamenti con una cultura superiore a quella dell'altro si spingeranno oltre i propri confini. Alla fine è possibile che la differenza culturale sia così grande che un insediamento possa prendere completamente il sopravvento sull'altro.
+
+    L'annessione può essere uno strumento importante per imporre leggi a un insediamento ribelle che si rifiuta di conformarsi alle esigenze globali, poiché l'annessione disattiverà tutte le sue leggi e consentirà all'insediamento che lo annette di implementarne di nuove.
+  </target>
       </trans-unit>
-      <trans-unit id="364">
+      <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Requisiti</target>
       </trans-unit>
-      <trans-unit id="365">
+      <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
     The requirements that must be met before one settlement can annex another are:
 
@@ -3887,13 +3913,27 @@ To become a resident of a property, click the name of the property (visible on t
 
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    I requisiti che devono essere soddisfatti prima che un insediamento possa annettere un altro sono:
+
+    Insediamento di livello superiore. L'insediamento che annette deve essere di livello superiore rispetto a quello di destinazione, a meno che non si tratti di un insediamento di livello massimo (Federazioni), che sono l'unico tipo autorizzato ad annettere insediamenti dello stesso livello.
+
+    Requisito dei cittadini. L'insediamento che annette deve avere una determinata percentuale di cittadini rispetto all'insediamento bersaglio.
+
+    Requisito dell'influenza circostante.  Questo significa che l'insediamento che annette deve avere influenzato gli appezzamenti che circondano il confine di influenza dell'insediamento vicino.  Superata una soglia definita, questo requisito è soddisfatto, ma aumentare il numero di appezzamenti che circondano l'influenza aumenterà il moltiplicatore del requisito successivo, la cultura.
+    
+    Requisito di cultura. Questo requisito stabilisce che la cultura dell'insediamento che annette deve essere superiore a quella dell'insediamento bersaglio in due modi: deve essere superiore di una determinata percentuale e di un valore assoluto. Questo serve a impedire che piccoli insediamenti con poca cultura vengano annessi troppo facilmente; è necessario raggiungere un vantaggio culturale di base.  La cultura si accresce in vari modi descritti nella pagina {Cultura}.
+    
+    Costo delle risorse. Si tratta di una serie di oggetti che rappresentano il costo fisico dell'annessione. Una parte di essi viene distribuita ai cittadini non abbandonati dell'insediamento bersaglio, mentre il resto va sprecato (ecco perché è sempre meno costoso raggiungere un accordo con un altro insediamento piuttosto che costringerlo a sottostare alla tua volontà). Le risorse necessarie per eseguire questa annessione devono essere collegate a una scrivania dell'ambasciata all'interno della giurisdizione dell'insediamento, e il magazzino deve essere accessibile al leader dell'insediamento.
+
+Tieni presente che il tipo di insediamento è importante: un insediamento può annettere solo altri insediamenti di livello inferiore (ad esempio, una città non può annettere un paese, ma una federazione può annettere una città). Se l'insediamento che annette è di tipo superiore rispetto a quello di destinazione (ad esempio, un paese che annette una città vicina), viene utilizzata una serie di valori diversa e più semplice (visualizzata di seguito) che rende l'operazione più facile da eseguire.
+  </target>
       </trans-unit>
-      <trans-unit id="366">
+      <trans-unit id="366" xml:space="preserve">
         <source xml:space="preserve">Performing the Annex</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Esecuzione dell'Annex</target>
       </trans-unit>
-      <trans-unit id="367">
+      <trans-unit id="367" xml:space="preserve">
         <source xml:space="preserve">
     Once both these are met, the leader of the settlement can perform the annex at anytime on an {EmbassyDeskItem} associated with the annexing settlement.
     
@@ -3903,23 +3943,33 @@ Note that the type of settlement matters: a settlement can only annex other sett
     
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Una volta soddisfatti entrambi questi requisiti, il leader dell'insediamento può eseguire l'annessione in qualsiasi momento su un {EmbassyDeskItem} associato all'insediamento che annette.
+    
+    Una volta attivata, se gli insediamenti sono dello stesso tipo, l'insediamento di destinazione verrà rimosso e tutti i cittadini trasferiti nel nuovo insediamento.  
+    Se gli insediamenti sono di tipo diverso, l'insediamento di destinazione verrà semplicemente rimosso da qualsiasi insediamento genitore attuale e aggiunto come figlio del nuovo insediamento.  
+    In entrambi i casi, tutte le leggi e gli altri oggetti civici verranno disabilitati e riportati allo stato di bozza. 
+    
+    Una volta che un insediamento è stato annesso, non può più eseguire l'azione "Secede Settlement" (Separare l'insediamento); rimarrà legato all'insediamento genitore finché quest'ultimo non lo rimuove. 
+  </target>
       </trans-unit>
-      <trans-unit id="368">
+      <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Impostazioni di annessione</target>
       </trans-unit>
-      <trans-unit id="377">
+      <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Partecipare alle cene genererà cultura per il tuo insediamento, oltre a un bonus alle tue abilità nutrizionali. Sono un modo prezioso per aumentare la generazione di cultura nel mondo, mettendo in contatto i cittadini attraverso pasti condivisi.
+  </target>
       </trans-unit>
-      <trans-unit id="378">
+      <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Requisiti</target>
       </trans-unit>
-      <trans-unit id="379">
+      <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
       A dinner party will be triggered when valid food is eaten at a location. The requirements are:
       - Dining while seated at a table.  Citizens must be seated, and eat food directly from the table (without picking it up into your inventory).
@@ -3929,24 +3979,35 @@ Note that the type of settlement matters: a settlement can only annex other sett
       - Claimed land. Dinner party must be taking place on claimed property.
       - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
     </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+      Una cena verrà attivata quando si mangia del cibo valido in un determinato luogo. I requisiti sono:
+      - Mangiare seduti a tavola.  I cittadini devono essere seduti e mangiare direttamente dal tavolo (senza prendere il cibo e metterlo nell'inventario).
+      - Solo cibo fresco. Il cibo deve essere fresco per poter partecipare alle cene. 
+      - Numero massimo di cene al giorno. Viene applicato un numero limitato di cene al giorno per persona (il valore predefinito è 1).
+      - Nessun cibo ripetuto. Le cene possono avere più portate, fino a un massimo prestabilito, ma nessun cibo può essere servito ripetutamente allo stesso giocatore.
+      - Terreno rivendicato. La cena deve svolgersi su una proprietà rivendicata.
+      - Vieni affamato! Puoi mangiare solo tante portate (fino a un massimo definito di seguito) da riempirti lo stomaco.
+    </target>
       </trans-unit>
-      <trans-unit id="380">
+      <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Freschezza</target>
       </trans-unit>
-      <trans-unit id="381">
+      <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
   Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
   Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+  Una volta preparati, i piatti creati con le ricette saranno freschi abbastanza per una cena solo per un certo numero di minuti (definito nelle impostazioni qui sotto), quindi dovrai avere uno chef che prepari i pasti in tempo reale. 
+  Il cibo crudo può essere molto più vecchio e comunque adatto alle cene. La freschezza sarà visibile sul cibo quando viene messo in tavola, con vapore o altri effetti per indicare che è freschissimo. Puoi vedere quanti minuti mancano al cibo passandoci sopra con il mouse.
+</target>
       </trans-unit>
-      <trans-unit id="382">
+      <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bonus</target>
       </trans-unit>
-      <trans-unit id="383">
+      <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
     The value of the dinner party can be increased by following these guidelines:
     - More guests. The more guests involved in the party, the higher the potential bonus.
@@ -3955,69 +4016,88 @@ Note that the type of settlement matters: a settlement can only annex other sett
     - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
     - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Il valore della cena può essere aumentato seguendo queste linee guida:
+    - Più ospiti. Più ospiti partecipano alla festa, maggiore è il potenziale bonus.
+    - Partecipanti provenienti da più insediamenti. Cenare con cittadini che non vivono in un insediamento, o tutti provenienti da un unico insediamento, genererà poca cultura. Per ottenere un bonus significativo dalla cena, è necessario che partecipino cittadini provenienti da più insediamenti.
+    - Valore nutrizionale medio. Il valore nutrizionale medio del cibo verrà convertito in punti cultura tramite un moltiplicatore (vedi sotto).
+    - Cibo più gustoso. Il valore di ogni portata è determinato dai bonus di gusto individuali di ciascun cittadino: più trovano gustoso il cibo, maggiore sarà il bonus.
+    - Location più bella. Il valore della proprietà su cui si tiene la cena determinerà il bonus massimo.
+  </target>
       </trans-unit>
-      <trans-unit id="384">
+      <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Vantaggi</target>
       </trans-unit>
-      <trans-unit id="385">
+      <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
  - Personal Nutrition Bonus Your nutrition multiplier will be increased based on the dinner parties you've recently attended.
  - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
  - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+ - Bonus nutrizionale personale Il tuo moltiplicatore nutrizionale aumenterà in base alle cene a cui hai partecipato di recente.
+ - Bonus cultura dell'insediamento L'insediamento otterrà cultura totale in base alle cene organizzate nelle proprietà dell'insediamento.
+ - Bonus influenza dell'insediamento Se ospitata in una proprietà di tipo "Culturale", il valore culturale della cena verrà aggiunto al valore culturale complessivo, aumentando così la sua influenza.
+</target>
       </trans-unit>
-      <trans-unit id="386">
+      <trans-unit id="386" xml:space="preserve">
         <source xml:space="preserve">
 Dinner parties will decay in value overtime, until reaching zero, after which they are removed from bonuses. You can see the active Dinner Party bonuses you have by looking at the nutrition tooltip.
 
 Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+Il valore delle cene diminuirà col passare del tempo, fino a raggiungere lo zero, dopodiché verranno rimosse dai bonus. Puoi vedere i bonus attivi delle cene che hai guardando il tooltip della nutrizione.
+
+Le cene finiranno quando l'ospite clicca su "Fine", oppure dopo il limite di tempo stabilito, o quando tutti sono troppo sazi per mangiare un altro boccone.
+</target>
       </trans-unit>
-      <trans-unit id="387">
+      <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Impostazioni per la cena</target>
       </trans-unit>
-      <trans-unit id="406">
+      <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gli insediamenti sono comunità di cittadini che si sono uniti secondo regole concordate.</target>
       </trans-unit>
-      <trans-unit id="407">
+      <trans-unit id="407" xml:space="preserve">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
     -Arnold J. Toynbee
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">"La civiltà è un movimento e non una condizione, un viaggio e non un porto."
+    -Arnold J. Toynbee
+  </target>
       </trans-unit>
-      <trans-unit id="408">
+      <trans-unit id="408" xml:space="preserve">
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Un insediamento può essere creato da un gruppo di cittadini per istituire un governo all'interno delle sue aree di {influenza}.
+  </target>
       </trans-unit>
-      <trans-unit id="409">
+      <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ci sono tre livelli di insediamenti:</target>
       </trans-unit>
-      <trans-unit id="410">
+      <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Le città sono insiemi di cittadini.</target>
       </trans-unit>
-      <trans-unit id="411">
+      <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">I paesi sono insiemi di città e cittadini.</target>
       </trans-unit>
-      <trans-unit id="412">
+      <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Le federazioni sono insiemi di paesi, città e cittadini.</target>
       </trans-unit>
-      <trans-unit id="413">
+      <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Concetti di insediamento</target>
       </trans-unit>
-      <trans-unit id="414">
+      <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
     - {Founding} - Multiple citizens can join together to found a new settlement.
     - {Citizenship} - Citizens may be granted special rights and privileges, and being a citizen of a settlement increases its power.
@@ -4027,9 +4107,17 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    - {Fondazione} - Più cittadini possono unirsi per fondare un nuovo insediamento.
+    - {Cittadinanza} - Ai cittadini possono essere concessi diritti e privilegi speciali, ed essere cittadini di un insediamento ne aumenta il potere.
+    - {Influenza} - Gli insediamenti eserciteranno un'influenza in un raggio intorno a determinati edifici, all'interno del quale vengono applicate leggi e regole sulla proprietà.
+    - {Proprietà dell'insediamento} - Più cittadini ci sono in un insediamento, più proprietà possono essere rivendicate.
+    - {Cultura} - La cultura permette agli insediamenti di esercitare influenza sugli insediamenti vicini, il che può portare alla loro annessione.
+    - {Annessione} - Gli insediamenti possono conquistare altri insediamenti o fattorie se i loro livelli di cultura sono abbastanza alti.
+    - {Crisi immobiliare} - Se un insediamento perde cittadini, potrebbe non essere in grado di mantenere le proprietà già rivendicate.
+  </target>
       </trans-unit>
-      <trans-unit id="415">
+      <trans-unit id="415" xml:space="preserve">
         <source xml:space="preserve">
     Citizenship is membership in a settlement that provides civic powers. The more citizens a settlement has, the more {Settlement Property} it can claim.
 
@@ -4037,66 +4125,85 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    La cittadinanza è l'appartenenza a un insediamento che conferisce poteri civici. Più cittadini ha un insediamento, più {Proprietà dell'insediamento} può rivendicare.
+
+    Ogni insediamento può concedere la cittadinanza a una lista di individui nella scheda {CitizenRosterComponent} dell'oggetto fondazione.   Anche i non cittadini possono richiedere la cittadinanza qui, che deve essere approvata dall'Approvatore, impostato nelle impostazioni {Immigration Policy}, che di default è il capo dell'insediamento.  Inoltre, tutti i cittadini di qualsiasi insediamento secondario saranno automaticamente cittadini anche dell'insediamento principale (cioè, i cittadini di ogni città di un paese sono anche cittadini del paese).
+
+    I giocatori che possiedono già una proprietà, utilizzando il {HomesteadSupportClaimPaperItem}, possono unirsi senza problemi agli insediamenti depositando un numero equivalente di documenti di rivendicazione di quell'insediamento all'interno della loro proprietà.
+  </target>
       </trans-unit>
-      <trans-unit id="416">
+      <trans-unit id="416" xml:space="preserve">
         <source xml:space="preserve">Citizenship Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Impostazioni di cittadinanza</target>
       </trans-unit>
-      <trans-unit id="417">
+      <trans-unit id="417" xml:space="preserve">
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    La Cultura viene creata dai cittadini attraverso la realizzazione di opere creative, la scoperta di reperti storici (in arrivo), l'organizzazione di eventi e festival (in arrivo) e la fondazione di insediamenti. La Cultura è sempre assegnata a un insediamento, e maggiore è la Cultura di un insediamento, più lontano arriverà la sua {Influenza}.
+  </target>
       </trans-unit>
-      <trans-unit id="418">
+      <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Cultura dalla Fondazione degli Insediamenti</target>
       </trans-unit>
-      <trans-unit id="419">
+      <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Un insediamento fondato genererà una quantità predefinita di cultura per la sua proprietà; questa quantità è costante e fornisce un livello base di influenza. Per espanderla ulteriormente e attingendo da altre proprietà, è necessario ricorrere ad altre fonti.</target>
       </trans-unit>
-      <trans-unit id="420">
+      <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">La cultura nelle opere d'arte</target>
       </trans-unit>
-      <trans-unit id="421">
+      <trans-unit id="421" xml:space="preserve">
         <source xml:space="preserve">
     When Citizens use an {EaselItem} a {HandheldCameraItem} or {TripodCameraItem} to create a picture, these pictures can be displayed in a frame on the wall to give Culture points to the property. The amount of culture depends on the reputation of both the picture and artist, and viewers will be prompted to rate the images they view to give them additional reputation. As these values go up, more culture is generated, up to a limit.  The culture bonus from Citizens in the same settlement, however, is reduced by 90%, so that the majority of value comes from other Citizens of other settlements spreading the reputation of the work. This makes it advantageous to gain reputation in a given settlement, but then sell or transfer it to another settlement, where it will have much more value due to originating from a different place.
 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Quando i cittadini usano un {EaselItem}, una {HandheldCameraItem} o una {TripodCameraItem} per scattare una foto, queste immagini possono essere esposte in una cornice appesa al muro per dare punti Cultura alla proprietà. La quantità di cultura dipende dalla reputazione sia della foto che dell'artista, e a chi guarda verrà chiesto di valutare le immagini che vede per dare loro ulteriore reputazione. Man mano che questi valori aumentano, viene generata più Cultura, fino a un limite. Il bonus di Cultura dei Cittadini dello stesso insediamento, tuttavia, viene ridotto del 90%, in modo che la maggior parte del valore provenga da altri Cittadini di altri insediamenti che diffondono la reputazione dell'opera. Questo rende vantaggioso guadagnare reputazione in un determinato insediamento, per poi venderla o trasferirla a un altro insediamento, dove avrà molto più valore poiché proviene da un luogo diverso.
+
+    All’interno di una singola galleria, ci sono rendimenti decrescenti nell’esporre immagini dello stesso artista nell’intera proprietà. Per evitarlo, puoi invece mostrare una collezione di molti artisti.
+  </target>
       </trans-unit>
-      <trans-unit id="422">
+      <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Impostazioni culturali</target>
       </trans-unit>
-      <trans-unit id="423">
+      <trans-unit id="423" xml:space="preserve">
         <source xml:space="preserve">
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Il primo passo per fondare un nuovo insediamento è posizionare l'oggetto di fondazione.  Questi sono {TownFoundationItem}, {CountryFoundationItem} e {FederationFoundationItem}. Una volta posizionati, daranno vita a un nuovo insediamento non ancora fondato e, una volta soddisfatti tutti i requisiti, sarà possibile avviare la cerimonia di fondazione.
+</target>
       </trans-unit>
-      <trans-unit id="424">
+      <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Requisiti di fondazione</target>
       </trans-unit>
-      <trans-unit id="425">
+      <trans-unit id="425" xml:space="preserve">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
 
     When placed, the plot beneath it will be claimed as property of this new settlement, with ownership assigned to the leader.  More plots can be claimed using the {ClaimToolItem} (right-click the item to select the settlement deed as the target).  This will allow you to claim land around the foundation and build a room that meets the requirements.
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Il cittadino che pone le fondamenta diventerà il primo leader della città e riceverà alcuni privilegi speciali, ma questa posizione può cambiare nel tempo a seconda delle regole del governo.
+
+    Una volta posizionata, l'area sottostante verrà rivendicata come proprietà di questo nuovo insediamento, con la proprietà assegnata al leader.  È possibile rivendicare altre aree utilizzando il {ClaimToolItem} (fai clic con il tasto destro sull'oggetto per selezionare l'atto di proprietà dell'insediamento come destinazione).  Questo ti permetterà di rivendicare il terreno intorno alla fondazione e costruire una stanza che soddisfi i requisiti.
+
+    Gli insediamenti richiedono un numero minimo di cittadini, un numero minimo di insediamenti secondari (ad esempio, un paese avrà bisogno di un certo numero di città come parte di esso per formarsi) e un livello minimo di cultura in tutti gli insediamenti secondari.  Per l'insediamento di livello più basso, una Città, non sono richiesti cultura e insediamenti secondari (poiché una Città non può avere insediamenti secondari, essendo quella di livello più basso).  Nella scheda "Cittadini" dell'oggetto fondazione, il leader può invitare e approvare i cittadini che hanno presentato domanda, mentre gli altri non cittadini possono accettare gli inviti e presentare domanda per diventare cittadini.min
+</target>
       </trans-unit>
-      <trans-unit id="426">
+      <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ratifica della Costituzione</target>
       </trans-unit>
-      <trans-unit id="427">
+      <trans-unit id="427" xml:space="preserve">
         <source xml:space="preserve">
     Once all the requirements are met, the election to ratify the settlement {Constitution} can begin.  On the Constitution tab, you can configure the constitution however you like, designing your government as you see fit (see Constitution guide). Once you click to start the voting, all current citizens of the settlement will be allowed to vote on it.  If it fails, you can make alterations and try again.
 
@@ -4106,13 +4213,21 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Una volta soddisfatti tutti i requisiti, può iniziare l'elezione per ratificare l'insediamento {Costituzione}.  Nella scheda Costituzione, puoi configurare la costituzione come preferisci, progettando il tuo governo come meglio credi (vedi la guida alla Costituzione). Una volta cliccato per avviare la votazione, tutti gli attuali cittadini dell'insediamento potranno votare.  Se fallisce, puoi apportare modifiche e riprovare.
+
+    Se vuoi, puoi aggiungere altri elementi civici alla fondazione iniziale del tuo insediamento; ad esempio, posizionando un tribunale sulla proprietà iniziale dell'insediamento puoi creare leggi associate all'insediamento, che possono essere inserite nella stessa elezione della ratifica della costituzione. In questo modo puoi raggruppare un numero arbitrario di oggetti civici in un'unica elezione, se vuoi che il tuo governo sia più completo fin dall'inizio.  Altrimenti, puoi sempre aggiungerli in seguito con elezioni aggiuntive.
+
+    Una volta soddisfatti tutti i requisiti e ratificata la costituzione, l'insediamento è pronto per essere fondato!  Clicca sul pulsante nella scheda Fondazione dell'oggetto Fondazione per dare il via alla cerimonia di inaugurazione, alla quale tutti i tuoi cittadini possono partecipare per festeggiare l'inizio di un nuovo insediamento.
+
+    Una volta fondato, il tuo insediamento inizierà a esercitare {Influenza}, a generare {Proprietà dell'insediamento} e a ricevere {Cultura}.
+  </target>
       </trans-unit>
-      <trans-unit id="428">
+      <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Impostazioni di base degli insediamenti</target>
       </trans-unit>
-      <trans-unit id="429">
+      <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
     A settlement can have its rules about new Citizens defined in an {Immigration Policy}.
 
@@ -4120,29 +4235,39 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Un insediamento può avere le proprie regole sui nuovi cittadini definite in una {Politica di immigrazione}.
+
+    Ogni insediamento ha sempre una politica di immigrazione associata.  Inizia come oggetto incorporato nell'insediamento, con impostazioni predefinite che permettono al leader di approvare nuovi cittadini, ed è visibile nei suggerimenti dell'insediamento.  Una volta che un {ImmigrationDeskItem} viene posizionato nell'area di influenza di quell'insediamento, quella politica può essere modificata.
+
+    Si possono impostare dei requisiti che devono essere soddisfatti e/o mantenuti per rimanere cittadini dell'insediamento. Per diventare o rimanere cittadini, i cittadini devono soddisfare tutti questi requisiti nell'insediamento a cui si uniscono, così come in tutti i suoi insediamenti genitori.
+  </target>
       </trans-unit>
-      <trans-unit id="430">
+      <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Pubblicità di insediamento</target>
       </trans-unit>
-      <trans-unit id="431">
+      <trans-unit id="431" xml:space="preserve">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Quando un insediamento è impostato per consentire a nuove persone di unirsi immediatamente, viene sbloccata una funzione speciale. Le persone che si uniscono vedranno l'insediamento sulla mappa quando iniziano per la prima volta, tra le altre possibili posizioni di partenza, oltre a una nota dall'insediamento (assegnata nella sezione Pubblicità della politica sull'immigrazione).  Quando entrano nel mondo nel tuo insediamento in questo modo, diventeranno automaticamente cittadini e inizieranno in una posizione designata accanto all'oggetto Banco Immigrazione.  Usare questa funzione è un ottimo modo per attirare nuovi giocatori nei tuoi insediamenti e far crescere una comunità.
+  </target>
       </trans-unit>
-      <trans-unit id="432">
+      <trans-unit id="432" xml:space="preserve">
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Una volta che un insediamento viene {fondato|fondazione}, inizierà a esercitare la sua influenza in un raggio intorno al luogo di fondazione.  Qualsiasi territorio sotto la sua influenza sarà soggetto alle sue leggi e alle sue azioni civiche.
+  </target>
       </trans-unit>
-      <trans-unit id="433">
+      <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">La cultura genera influenza</target>
       </trans-unit>
-      <trans-unit id="434">
+      <trans-unit id="434" xml:space="preserve">
         <source xml:space="preserve">
     Influence can be extended with {Culture}. The higher the culture level of a property, the more influence it will cast for the owning settlement.  This allows you to expand your borders by increasing culture, or creating new cultural properties. There are limits, however, on the number of cultural properties and the max influence castable, so borders cannot be expanded indefinitely. Each level-up of settlement allows a farther range of influence to be cast, and more cultural properties to be created.
     
@@ -4150,31 +4275,43 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    L'influenza può essere estesa con la {Cultura}. Più alto è il livello di cultura di una proprietà, maggiore sarà l'influenza che eserciterà sull'insediamento proprietario. Questo ti permette di espandere i tuoi confini aumentando la cultura o creando nuove proprietà culturali. Ci sono però dei limiti al numero di proprietà culturali e all'influenza massima esercitabile, quindi i confini non possono essere espansi all'infinito. Ogni aumento di livello dell'insediamento permette di esercitare un'influenza su un raggio più ampio e di creare più proprietà culturali.
+    
+    L'influenza viene esercitata dalla posizione media delle stanze presenti nella proprietà, ponderata in base al loro valore.  
+
+    {Homesteads|HomesteadClaimStakeObject} sono proprietà individuali associate all'insediamento di cui il proprietario è cittadino. Se il proprietario non è cittadino di nessun insediamento, allora non sarà influenzato da nessuno.  Questo può creare dei vuoti nell'influenza della città quando i cittadini rinunciano alla loro cittadinanza, tuttavia un insediamento potente può rivendicare con la forza questa proprietà attraverso il processo di {Annessione}.
+  </target>
       </trans-unit>
-      <trans-unit id="435">
+      <trans-unit id="435" xml:space="preserve">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Insediamenti che influenzano a vicenda</target>
       </trans-unit>
-      <trans-unit id="436">
+      <trans-unit id="436" xml:space="preserve">
         <source xml:space="preserve">
     Each settlement level (Town, Country, Federation) has its own map of influence, and only one settlement of each type may influence a given plot (IE, two Towns cannot influence the same plot).  However, if a settlement is a sub-settlement of another settlement, then that parent will also cast influence on the plot (IE, a Country's influence will be cast everywhere its member town's influences are cast).  In plots influenced by more than one settlement in this way, the governments of all settlement will apply.
     
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Ogni livello di insediamento (Città, Paese, Federazione) ha la propria mappa di influenza, e solo un insediamento per tipo può influenzare un determinato territorio (ad esempio, due Città non possono influenzare lo stesso territorio).  Tuttavia, se un insediamento è un sotto-insediamento di un altro insediamento, anche il genitore eserciterà la propria influenza sul territorio (ad esempio, l'influenza di un Paese si estenderà ovunque si estenda l'influenza delle città che ne fanno parte).  Nei territori influenzati da più di un insediamento in questo modo, si applicheranno i governi di tutti gli insediamenti.
+    
+    Quando due insediamenti dello stesso tipo competono per l'influenza, quello più vicino si spingerà più in profondità nei confini di influenza dell'altro.  Tuttavia, qualsiasi territorio già rivendicato rimarrà influenzato anche se altrimenti sarebbe contenuto nell'insediamento avversario. Questo può persino portare a parti dell'insediamento che si staccano e vengono inglobate da altri insediamenti.
+</target>
       </trans-unit>
-      <trans-unit id="437">
+      <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Controllo delle frontiere</target>
       </trans-unit>
-      <trans-unit id="438">
+      <trans-unit id="438" xml:space="preserve">
         <source xml:space="preserve">
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Su un {Immigration Desk|ImmigrationDeskObject}, la leadership di un insediamento può designare fattorie o insediamenti vicini che possono rivendicare la nostra influenza. Se un vicino vuole rivendicare un terreno che è altrimenti influenzato dal tuo insediamento (magari a un prezzo), questo è il modo per permetterglielo.
+  </target>
       </trans-unit>
-      <trans-unit id="439">
+      <trans-unit id="439" xml:space="preserve">
         <source xml:space="preserve">
     A Property Crisis occurs when the number of Citizens in a settlement reduces such that there aren't enough Citizens to support the number of Claim Stakes and Claim Papers in use.
     
@@ -4189,13 +4326,26 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Si verifica una crisi immobiliare quando il numero di cittadini in un insediamento si riduce al punto che non ce ne sono abbastanza per sostenere il numero di picchetti e documenti di rivendicazione in uso.
+    
+    Dato che gli insediamenti generano picchetti e documenti di rivendicazione quando i cittadini si uniscono, e li eliminano quando se ne vanno, è possibile che i cittadini se ne vadano e generino una crisi immobiliare quando non ci sono picchetti o documenti disponibili da eliminare sull'oggetto Fondazione dell'Insediamento.  Quando ciò accade, partirà un timer, entro la cui scadenza i cittadini dovranno restituire il numero necessario di picchetti e documenti alla Fondazione dell'Insediamento, rinunciando ai diritti o recuperandoli in qualsiasi modo possibile.  Quando i picchetti e i documenti vengono inseriti in una Fondazione dell'Insediamento durante una crisi immobiliare, verranno immediatamente rimossi e, se il deficit viene colmato, la crisi terminerà immediatamente.
+
+    Se i cittadini non sono in grado o non vogliono restituire i Pali e i Documenti necessari prima che il timer scada, i Pali e i Documenti verranno distrutti ovunque si trovino. Quando una crisi immobiliare si risolve, verranno eseguiti questi recuperi:
+    - Per prima cosa, i diritti/pali che non vengono utilizzati (ad esempio nello zaino di un cittadino) verranno distrutti.
+    - Poi, i diritti di proprietà in uso verranno distrutti se il deficit non è ancora stato colmato.
+    In entrambe le fasi, i diritti di proprietà di cittadini abbandonati verranno distrutti per primi.
+
+    È molto importante che gli Insediamenti gestiscano con attenzione la popolazione dei propri Cittadini per evitare un deficit, ed è saggio tenerne alcuni di riserva e non usarli immediatamente, oppure adeguarsi quando i Cittadini iniziano ad andarsene.
+
+    I Cittadini che entrano nella categoria {Demografica} Abbandonati smetteranno anche di contribuire al numero di Stakes e Papers generati, il che può portare a una crisi immobiliare.
+  </target>
       </trans-unit>
-      <trans-unit id="440">
+      <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Impostazioni della crisi immobiliare</target>
       </trans-unit>
-      <trans-unit id="441">
+      <trans-unit id="441" xml:space="preserve">
         <source xml:space="preserve">
     As more Citizens join a Settlement, more {Property} can be claimed, using Claim Stakes and Claim Papers associated with the settlement.
 
@@ -4203,19 +4353,25 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Man mano che più cittadini si uniscono a un insediamento, è possibile rivendicare più {Proprietà}, utilizzando i paletti di rivendicazione e i documenti di rivendicazione associati all'insediamento.
+
+    L'insediamento genererà questi oggetti in base al proprio livello, con paletti di rivendicazione delle varietà {TownClaimStakeItem}, {CountryClaimStakeItem}, {FederationClaimStakeItem}.  Questi rivendicheranno la proprietà a nome dell'insediamento a cui sono associati e possono essere potenziati con {ClaimPaperItem} per rivendicare più appezzamenti, inserendoli nell'inventario del paletto di rivendicazione.
+
+    Se i cittadini se ne vanno, il numero massimo di documenti di rivendicazione e paletti consentiti si ridurrà e verrà rimosso dall'inventario della Fondazione dell'Insediamento.  Se sono tutti in uso e non possono essere restituiti, si verificherà una {Crisi Immobiliare}.
+  </target>
       </trans-unit>
-      <trans-unit id="442">
+      <trans-unit id="442" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Richieste di assistenza per Homestead</target>
       </trans-unit>
-      <trans-unit id="443">
+      <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gli insediamenti genereranno anche {Homestead Support Claims|HomesteadSupportClaimPaperItem}, che possono essere dati o venduti a chi non è cittadino. Questi diritti permetteranno alle fattorie che non hanno un insediamento associato di rivendicare più appezzamenti, ovunque sulla mappa.  In genere, gli agricoltori delle regioni remote e isolate che vogliono avere fattorie più grandi cercheranno questi diritti (scambiando cibo o manodopera) dalle città di tutto il mondo. Rappresentano il sostegno di un insediamento applicato alla protezione delle proprietà esterne.</target>
       </trans-unit>
-      <trans-unit id="444">
+      <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Impostazioni delle proprietà degli insediamenti</target>
       </trans-unit>
     </body>
   </file>
