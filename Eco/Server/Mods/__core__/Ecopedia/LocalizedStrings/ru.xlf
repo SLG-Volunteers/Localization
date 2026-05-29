@@ -3726,27 +3726,31 @@ Available properties for rent can be found in the {Economy Viewer}. Once accepte
         <target xml:space="preserve" state="translated">Истощение это параметр ограничивающий максимальное количество игровых часов в день.
 </target>
       </trans-unit>
-      <trans-unit id="354">
+      <trans-unit id="354" xml:space="preserve">
         <source xml:space="preserve">
     TBD
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Будет определено позже
+  </target>
       </trans-unit>
-      <trans-unit id="355">
+      <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Объединение и фильтрация</target>
       </trans-unit>
-      <trans-unit id="356">
+      <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+Стопки одинаковых предметов можно быстро объединить и отсортировать, нажав кнопку «Объединить», расположенную в правом нижнем углу компонента хранилища. Кроме того, хранилища можно отфильтровать, чтобы отображать только определенные типы предметов, используя селектор предметов или просто введя название предмета.
+  </target>
       </trans-unit>
-      <trans-unit id="357">
+      <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Торговля между гражданами с разными способностями и разными товарами — это основа экономики.</target>
       </trans-unit>
-      <trans-unit id="358">
+      <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
 
  - Trades can be setup at a {Store Component}, listing buy/sell prices for the different goods you would like.  Citizens can then buy and sell goods to you asynchronously, without being present.
@@ -3755,21 +3759,32 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Торговля с другими жителями в Eco играет важную роль, так как у каждого игрока есть набор {специальностей}, в которых он может приносить максимальную пользу, обмениваясь товарами с теми, кто владеет навыками в тех профессиях, в которых он сам не силен. 
+
+ - Торговые точки можно настроить в {Store Component}, указав цены на покупку и продажу нужных тебе товаров.  Жители смогут покупать и продавать тебе товары в асинхронном режиме, даже не присутствуя на месте.
+ - Торговля рабочей силой может происходить через {Контракты} и {Рабочие группы}, позволяя игрокам выполнять работу за оплату в соответствии с оговоренными условиями.  Это также можно делать асинхронно.
+ - Торговля валютами может происходить в {Валютной бирже|Компоненте биржи}, где указаны цены покупки/продажи для обмена разных валют.
+ - Торговле способствует {Транспорт}, а строительство транспортной инфраструктуры между быстроразвивающимися центрами твоей цивилизации значительно улучшит возможности для торговли.
+ - Торговля облагается {Налогами}, устанавливаемыми {Правительством|Обзор правительства}, что может либо повысить, либо снизить ценность определённых видов торговли.
+</target>
       </trans-unit>
-      <trans-unit id="359">
+      <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Предписания</target>
       </trans-unit>
-      <trans-unit id="360">
+      <trans-unit id="360" xml:space="preserve">
         <source xml:space="preserve">
     Injunctions, which can be created on a {LargeCourtItem}, have the ability to block laws on a lesser court. Each injunction states a list of triggers and legal actions that will be blocked in a defined set of child settlements (or all, if left blank). This can be used by countries to block laws that a town have passed, for example.  
     
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Судебные запреты, которые можно создавать на {LargeCourtItem}, позволяют блокировать законы в судах низшего уровня. Каждый судебный запрет содержит список триггеров и юридических действий, которые будут заблокированы в определённом наборе подчиненных поселений (или во всех, если поле оставить пустым). Это может использоваться странами, например, для блокировки законов, принятых каким-то городом.  
+    
+    Возможность создавать судебные запреты — это мощная функция, которую стоит учитывать при создании страны или федерации, так как она может сильно повлиять на управление подчиненными поселениями.  В конституции поселения можно определить полномочия, чтобы установить, кто может вносить дополнения и изменения в судебные запреты, если таковые имеются.  Роль судебных запретов следует тщательно обсудить между лидерами городов, когда они объединяются для создания страны.
+  </target>
       </trans-unit>
-      <trans-unit id="361">
+      <trans-unit id="361" xml:space="preserve">
         <source xml:space="preserve">
 As the number of occupants increases, the occupancy penalty increases.  At small numbers of occupants (1 or 2), there is virtually no penalty, and citizens can effectively cohabitate this way and share in the benefit of a well-stocked house.  As the occupants increases beyond that (5 and above), the penalty becomes more steep, eventually topping out at 99% when the house is too overcrowded.
 
@@ -3777,13 +3792,19 @@ However, the 'diminishing returns' rate of rooms is favorably affected by occupa
   
 To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+По мере увеличения количества жильцов штраф за перенаселенность растет.  При небольшом количестве жильцов (1 или 2) штраф практически отсутствует, и граждане могут эффективно сосуществовать таким образом и делить преимущества хорошо укомплектованного дома.  Когда количество жильцов превышает этот порог (5 и более), штраф становится более суровым, в конечном итоге достигая 99%, когда дом становится слишком переполненным.
+
+Однако на коэффициент «убывающей доходности» комнат благотворно влияет заселенность (ведь три ванные комнаты — это перебор, когда ты живешь один, но отлично, когда у тебя есть соседи). Это значит, что ты можешь преодолеть штраф, построив дом побольше, а дублирующиеся комнаты будут обратно пропорционально влиять на бонус за заселенность.
+  
+Чтобы стать жильцом объекта недвижимости, нажми на его название (оно отображается на всплывающей панели статуса, когда ты находишься в объекте). Оттуда ты можешь стать жильцом (если у тебя есть право собственности), а также пригласить других стать жильцами.  Эти приглашенные граждане могут затем присоединиться в качестве жильцов через тот же интерфейс. Ты даже можешь приглашать группы, указав титулы или демографические данные, что позволит тебе создавать жилье для особых категорий граждан (например, для новых игроков). Ты также можешь установить максимальное количество жильцов, чтобы управление резиденцией таким образом (путём приглашения больших групп) не привело к перенаселенности жилья.
+</target>
       </trans-unit>
       <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
         <target xml:space="preserve" state="translated">Поселения это объединение жителей или других поселений.  Они представляют собой структуру и организацию общества.</target>
       </trans-unit>
-      <trans-unit id="363">
+      <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
     A settlement with sufficiently more culture than a neighboring settlement can annex it, merging it into itself, if requirements are met.
 
@@ -3791,13 +3812,19 @@ To become a resident of a property, click the name of the property (visible on t
 
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Поселение, уровень культуры которого значительно превышает уровень соседнего поселения, может аннексировать его, присоединив к себе, если выполнены необходимые условия.
+
+    Когда два поселения одного типа находятся по соседству, их зоны влияния могут сталкиваться друг с другом. В таких случаях поселение с более высоким уровнем культуры будет продвигаться дальше вглубь границ другого. В конечном итоге разница в уровне культуры может стать настолько большой, что одно поселение сможет полностью захватить другое.
+
+    Аннексия может стать важным инструментом для наведения порядка в непокорном поселении, которое отказывается подчиняться общим требованиям, так как аннексия отменит все его законы и позволит аннексирующему поселению ввести новые.
+  </target>
       </trans-unit>
       <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
         <target xml:space="preserve" state="translated">Требования</target>
       </trans-unit>
-      <trans-unit id="365">
+      <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
     The requirements that must be met before one settlement can annex another are:
 
@@ -3813,13 +3840,27 @@ To become a resident of a property, click the name of the property (visible on t
 
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Требования, которые нужно выполнить, чтобы одно поселение могло аннексировать другое:
+
+    Поселение более высокого уровня. Аннексирующее поселение должно быть выше по уровню, чем целевое, за исключением поселений высшего уровня (федераций) — только они могут аннексировать поселения того же уровня.
+
+    Требование к количеству граждан. Аннексирующий поселение должно иметь определенный процент от количества граждан целевого поселения.
+
+    Требование к окружающему влиянию.  Это означает, что аннексирующее поселение должно иметь участки, находящиеся под его влиянием, вокруг границы влияния соседнего поселения.  После достижения определенного порога это требование считается выполненным, но увеличение количества участков, окружающих зону влияния, повысит множитель следующего требования — культуры.
+    
+    Требование к культуре. Это требование гласит, что культура аннексирующего поселения должна превосходить культуру целевого поселения в двух отношениях: она должна быть выше на определенный процент и на определенное абсолютное значение. Это нужно для того, чтобы небольшие поселения с низким уровнем культуры не могли быть слишком легко аннексированы — необходимо достичь базового культурного преимущества.  Культуру можно повышать различными способами, описанными на странице {Культура}.
+    
+    Стоимость ресурсов. Это набор предметов, представляющий собой материальные затраты на проведение аннексии. Часть этих ресурсов распределяется среди не покинувших поселение граждан, а остальное пропадает зря (поэтому всегда дешевле договориться с другим поселением, чем заставлять его подчиняться твоей воле). Ресурсы, необходимые для проведения этой аннексии, должны быть привязаны к столу посольства в пределах юрисдикции поселения, а хранилище должно быть доступно лидеру поселения.
+
+Обрати внимание, что тип поселения имеет значение: поселение может аннексировать только другие поселения более низкого уровня (т. е. город не может аннексировать страну, но федерация может аннексировать город).  Если аннексирующее поселение имеет более высокий тип, чем цель (т. е. страна аннексирует соседний город), используется другой, более простой набор значений (приведенный ниже), который упрощает выполнение.
+  </target>
       </trans-unit>
-      <trans-unit id="366">
+      <trans-unit id="366" xml:space="preserve">
         <source xml:space="preserve">Performing the Annex</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Выполнение приложения</target>
       </trans-unit>
-      <trans-unit id="367">
+      <trans-unit id="367" xml:space="preserve">
         <source xml:space="preserve">
     Once both these are met, the leader of the settlement can perform the annex at anytime on an {EmbassyDeskItem} associated with the annexing settlement.
     
@@ -3829,23 +3870,33 @@ Note that the type of settlement matters: a settlement can only annex other sett
     
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Как только оба этих условия выполнены, лидер поселения может в любой момент провести аннексию на {EmbassyDeskItem}, связанном с аннексирующим поселением.
+    
+    При активации, если поселения одного типа, целевое поселение будет удалено, а все жители переселены в новое поселение.  
+    Если поселения разных типов, то целевое поселение просто будет удалено из любого текущего родительского поселения и добавлено в качестве дочернего к новому поселению.  
+    В обоих случаях все законы и другие гражданские объекты будут отключены и возвращены в черновой вариант. 
+    
+    Как только поселение аннексировано, оно больше не сможет выполнять действие «Отделиться от поселения», оно будет привязано к родительскому поселению, пока родительское поселение не удалит его. 
+  </target>
       </trans-unit>
       <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
         <target xml:space="preserve" state="translated">Настройки Аннексии</target>
       </trans-unit>
-      <trans-unit id="377">
+      <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Посещение ужинов будет способствовать развитию культуры твоего поселения, а также даст бонус к навыку питания. Это отличный способ повысить уровень культуры в мире, объединяя граждан за общим столом.
+  </target>
       </trans-unit>
       <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
         <target xml:space="preserve" state="translated">Требования</target>
       </trans-unit>
-      <trans-unit id="379">
+      <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
       A dinner party will be triggered when valid food is eaten at a location. The requirements are:
       - Dining while seated at a table.  Citizens must be seated, and eat food directly from the table (without picking it up into your inventory).
@@ -3855,24 +3906,35 @@ Note that the type of settlement matters: a settlement can only annex other sett
       - Claimed land. Dinner party must be taking place on claimed property.
       - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
     </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+      Ужин будет организован, если в определенном месте съедят подходящую еду. Требования:
+      - Ужинать, сидя за столом.  Граждане должны сидеть и есть прямо со стола (не забирая еду в инвентарь).
+      - Только свежая еда. Еда должна быть свежей, чтобы подходить для ужина. 
+      - Максимальное количество ужинов в день. Установлено ограничение на количество ужинов в день на человека (по умолчанию — 1).
+      - Никакой повторяющейся еды. Ужины могут состоять из нескольких блюд, вплоть до установленного максимума, но одному и тому же игроку нельзя давать одно и то же блюдо повторно.
+      - Занятая земля. Ужин должен проходить на занятой территории.
+      - Приходи голодным! Ты можешь съесть только столько блюд (до максимального количества, указанного ниже), сколько нужно, чтобы наесться.
+    </target>
       </trans-unit>
       <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
         <target xml:space="preserve" state="translated">Свежесть</target>
       </trans-unit>
-      <trans-unit id="381">
+      <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
   Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
   Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+  После приготовления любая еда, созданная по рецепту, будет свежей для ужина всего несколько минут (количество определено в настройках ниже), поэтому тебе понадобится повар, готовящий блюда в режиме реального времени. 
+  Однако сырая еда может быть гораздо старее и все равно подходить для ужина. Свежесть будет видна на еде, когда её поставят на стол: для очень свежих блюд будет отображаться пар или другие эффекты. Ты можешь увидеть, сколько минут осталось у еды, наведя на неё курсор.
+</target>
       </trans-unit>
-      <trans-unit id="382">
+      <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Бонусы</target>
       </trans-unit>
-      <trans-unit id="383">
+      <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
     The value of the dinner party can be increased by following these guidelines:
     - More guests. The more guests involved in the party, the higher the potential bonus.
@@ -3881,69 +3943,88 @@ Note that the type of settlement matters: a settlement can only annex other sett
     - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
     - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Значение ужина можно увеличить, следуя этим рекомендациям:
+    - Больше гостей. Чем больше гостей на вечеринке, тем выше потенциальный бонус.
+    - Гости из разных поселений. Ужин с жителями, не проживающими в поселении, или со всеми жителями одного поселения принесет мало культуры. Чтобы получить значительный бонус за ужин, нужно, чтобы на нем присутствовали жители из разных поселений.
+    - Средняя питательность. Средняя питательная ценность еды будет преобразована в очки культуры с помощью множителя (см. ниже).
+    - Вкусная еда. Ценность каждого блюда определяется индивидуальными бонусами к вкусу, которыми обладает гражданин: чем вкуснее им кажется еда, тем больше бонус.
+    - Лучшее место проведения. Стоимость участка, на котором проходит ужин, определяет максимальный бонус.
+  </target>
       </trans-unit>
       <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
         <target xml:space="preserve" state="translated">Преимущества</target>
       </trans-unit>
-      <trans-unit id="385">
+      <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
  - Personal Nutrition Bonus Your nutrition multiplier will be increased based on the dinner parties you've recently attended.
  - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
  - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+ - Бонус личного питания Твой множитель питания будет увеличиваться в зависимости от ужинов, на которых ты недавно побывал.
+ - Бонус культуры поселения Поселение получит общий показатель культуры в зависимости от ужинов, организованных на территории поселения.
+ - Бонус влияния поселения Если ужин организован на территории типа «Культурная», его культурная ценность будет добавлена к общему показателю культуры, что увеличит влияние поселения.
+</target>
       </trans-unit>
-      <trans-unit id="386">
+      <trans-unit id="386" xml:space="preserve">
         <source xml:space="preserve">
 Dinner parties will decay in value overtime, until reaching zero, after which they are removed from bonuses. You can see the active Dinner Party bonuses you have by looking at the nutrition tooltip.
 
 Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+Бонусы от ужинов со временем теряют свою ценность, пока не достигнут нуля, после чего они исчезают из списка бонусов. Ты можешь посмотреть, какие бонусы от ужинов у тебя активны, взглянув на всплывающую подсказку о питании.
+
+Ужины заканчиваются, когда хозяин нажимает «Завершить», по истечении установленного времени или когда все настолько наелись, что больше ни кусочка не могут съесть.
+</target>
       </trans-unit>
       <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
         <target xml:space="preserve" state="translated">Настройки званого ужина</target>
       </trans-unit>
-      <trans-unit id="406">
+      <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Поселения — это сообщества граждан, объединившихся на основе согласованных правил.</target>
       </trans-unit>
-      <trans-unit id="407">
+      <trans-unit id="407" xml:space="preserve">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
     -Arnold J. Toynbee
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">«Цивилизация — это движение, а не состояние, путешествие, а не пристань».
+    — Арнольд Дж. Тойнби
+  </target>
       </trans-unit>
-      <trans-unit id="408">
+      <trans-unit id="408" xml:space="preserve">
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Поселение может быть создано группой граждан для формирования правительства в пределах своей зоны {влияния}.
+  </target>
       </trans-unit>
-      <trans-unit id="409">
+      <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Есть три уровня поселений:</target>
       </trans-unit>
-      <trans-unit id="410">
+      <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Города — это скопления граждан.</target>
       </trans-unit>
-      <trans-unit id="411">
+      <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Страны — это совокупности городов и граждан.</target>
       </trans-unit>
-      <trans-unit id="412">
+      <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Федерации — это объединения стран, городов и граждан.</target>
       </trans-unit>
-      <trans-unit id="413">
+      <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Концепции поселений</target>
       </trans-unit>
-      <trans-unit id="414">
+      <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
     - {Founding} - Multiple citizens can join together to found a new settlement.
     - {Citizenship} - Citizens may be granted special rights and privileges, and being a citizen of a settlement increases its power.
@@ -3953,9 +4034,17 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    - {Основание} — Несколько граждан могут объединиться, чтобы основать новое поселение.
+    - {Гражданство} — Гражданам могут быть предоставлены особые права и привилегии, а статус гражданина поселения усиливает его влияние.
+    - {Влияние} — Поселения оказывают влияние в радиусе вокруг определенных зданий, в пределах которого действуют законы и правила владения собственностью.
+    - {Собственность поселения} - Чем больше граждан в поселении, тем больше собственности можно занять.
+    - {Культура} - Культура позволяет поселениям оказывать влияние на соседние поселения, что может привести к их аннексии.
+    - {Аннексия} - Поселения могут захватывать другие поселения или усадьбы, если их уровень культуры достаточно высок.
+    - {Кризис собственности} — Если поселение теряет жителей, оно может не смочь удержать уже завоеванную собственность.
+  </target>
       </trans-unit>
-      <trans-unit id="415">
+      <trans-unit id="415" xml:space="preserve">
         <source xml:space="preserve">
     Citizenship is membership in a settlement that provides civic powers. The more citizens a settlement has, the more {Settlement Property} it can claim.
 
@@ -3963,66 +4052,85 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Гражданство — это членство в поселении, которое дает гражданские права. Чем больше граждан в поселении, тем больше {Собственности поселения} оно может получить.
+
+    Каждое поселение может предоставить гражданство списку людей на вкладке {CitizenRosterComponent} объекта-основателя.   Неграждане также могут подать здесь заявку на гражданство, которая должна быть одобрена Утверждающим лицом, которое задается в настройках {Иммиграционная политика} и по умолчанию является лидером поселения.  Кроме того, все граждане любых подпоселений автоматически становятся гражданами родительского поселения (т. е. граждане каждого города в стране также являются гражданами этой страны).
+
+    Игроки, у которых уже есть усадьба, могут с помощью {HomesteadSupportClaimPaperItem} легко присоединиться к поселениям, разместив в своей усадьбе соответствующее количество документов на право владения этим поселением.
+  </target>
       </trans-unit>
       <trans-unit id="416" xml:space="preserve">
         <source xml:space="preserve">Citizenship Settings</source>
         <target xml:space="preserve" state="translated">Настройки гражданства</target>
       </trans-unit>
-      <trans-unit id="417">
+      <trans-unit id="417" xml:space="preserve">
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Культура создается гражданами посредством творчества, открытия исторических артефактов (скоро будет), проведения мероприятий и фестивалей (скоро будет), а также основания поселений.  Культура всегда привязана к поселению, и чем больше культуры в поселении, тем дальше распространяется его {Влияние}.
+  </target>
       </trans-unit>
       <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
         <target xml:space="preserve" state="translated">Культура от основания Поселения</target>
       </trans-unit>
-      <trans-unit id="419">
+      <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Основанное поселение будет генерировать определенное количество культуры для своей территории; это количество является постоянным и обеспечивает базовый уровень влияния.  Чтобы расширить его и получить культуру с других территорий, необходимо использовать другие источники.</target>
       </trans-unit>
       <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
         <target xml:space="preserve" state="translated">Культура от Произведений искусства</target>
       </trans-unit>
-      <trans-unit id="421">
+      <trans-unit id="421" xml:space="preserve">
         <source xml:space="preserve">
     When Citizens use an {EaselItem} a {HandheldCameraItem} or {TripodCameraItem} to create a picture, these pictures can be displayed in a frame on the wall to give Culture points to the property. The amount of culture depends on the reputation of both the picture and artist, and viewers will be prompted to rate the images they view to give them additional reputation. As these values go up, more culture is generated, up to a limit.  The culture bonus from Citizens in the same settlement, however, is reduced by 90%, so that the majority of value comes from other Citizens of other settlements spreading the reputation of the work. This makes it advantageous to gain reputation in a given settlement, but then sell or transfer it to another settlement, where it will have much more value due to originating from a different place.
 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Когда жители используют {EaselItem}, {HandheldCameraItem} или {TripodCameraItem} для создания фотографии, эти снимки можно выставить в рамке на стене, чтобы придать объекту недвижимости очки культуры. Количество очков культуры зависит от репутации как самой фотографии, так и художника, а зрителям будет предложено оценить просматриваемые изображения, чтобы повысить их репутацию. По мере роста этих значений генерируется больше культуры, но до определенного предела. Однако бонус к культуре от жителей того же поселения уменьшается на 90%, так что большая часть ценности приходит от жителей других поселений, которые распространяют репутацию работы. Это делает выгодным зарабатывать репутацию в одном поселении, а затем продавать или передавать её в другое, где она будет иметь гораздо большую ценность, поскольку происходит из другого места.
+
+    В пределах одной галереи выставка картин одного и того же художника приводит к снижению доходности в целом. Чтобы этого избежать, можно вместо этого показать коллекцию работ многих художников.
+  </target>
       </trans-unit>
       <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
         <target xml:space="preserve" state="translated">Настройки Культуры</target>
       </trans-unit>
-      <trans-unit id="423">
+      <trans-unit id="423" xml:space="preserve">
         <source xml:space="preserve">
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Первый шаг при создании нового поселения — разместить объект-основу. Это {TownFoundationItem}, {CountryFoundationItem} и {FederationFoundationItem}. После размещения начнётся создание нового поселения, и как только все требования будут выполнены, можно будет запустить церемонию основания.
+</target>
       </trans-unit>
       <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
         <target xml:space="preserve" state="translated">Требования к основанию</target>
       </trans-unit>
-      <trans-unit id="425">
+      <trans-unit id="425" xml:space="preserve">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
 
     When placed, the plot beneath it will be claimed as property of this new settlement, with ownership assigned to the leader.  More plots can be claimed using the {ClaimToolItem} (right-click the item to select the settlement deed as the target).  This will allow you to claim land around the foundation and build a room that meets the requirements.
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Гражданин, заложивший фундамент, станет первым лидером города и получит некоторые особые привилегии, но эта должность может со временем меняться в зависимости от правил правительства.
+
+    После размещения участок под ним будет заявлен как собственность этого нового поселения, а право собственности перейдет к лидеру.  Дополнительные участки можно заявлять с помощью {ClaimToolItem} (щелкни правой кнопкой мыши по предмету, чтобы выбрать документ о праве собственности на поселение в качестве цели).  Это позволит тебе занять землю вокруг фундамента и построить здание, соответствующее требованиям.
+
+    Поселениям требуется минимальное количество граждан, минимальное количество подпоселений (например, для образования страны необходимо определенное количество городов в ее составе) и минимальный уровень культуры во всех подпоселениях.  Для поселения самого низкого уровня, Города, культура и подпоселения не требуются (поскольку Город не может иметь подпоселений, это самый низкий уровень).  На вкладке «Граждане» объекта-основания лидер может приглашать и утверждать подавших заявки граждан, а другие неграждане могут принимать приглашения и подавать заявки на получение гражданства.min
+</target>
       </trans-unit>
       <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
         <target xml:space="preserve" state="translated">Ратификация Конституции</target>
       </trans-unit>
-      <trans-unit id="427">
+      <trans-unit id="427" xml:space="preserve">
         <source xml:space="preserve">
     Once all the requirements are met, the election to ratify the settlement {Constitution} can begin.  On the Constitution tab, you can configure the constitution however you like, designing your government as you see fit (see Constitution guide). Once you click to start the voting, all current citizens of the settlement will be allowed to vote on it.  If it fails, you can make alterations and try again.
 
@@ -4032,13 +4140,21 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Как только все требования будут выполнены, можно начинать голосование для утверждения {Конституции} поселения.  На вкладке «Конституция» ты можешь настроить конституцию по своему усмотрению, создав правительство так, как считаешь нужным (см. руководство по Конституции). Как только ты нажмешь, чтобы начать голосование, все нынешние жители поселения смогут проголосовать.  Если голосование провалится, ты можешь внести изменения и попробовать ещё раз.
+
+    Если хочешь, ты можешь добавить другие гражданские элементы при первоначальном основании своего поселения. Например, разместив суд на участке первоначального поселения, ты сможешь создавать законы, связанные с поселением, которые можно вынести на голосование вместе с ратификацией конституции. Таким образом, ты можешь объединить любое количество гражданских объектов в одно голосование, если хочешь, чтобы твоя система правления была более сформированной с самого начала. Если нет, ты всегда сможешь добавить их позже с помощью дополнительных голосований.
+
+    Как только все требования будут выполнены и конституция ратифицирована, поселение готово к основанию!  Нажми кнопку на вкладке «Основание» объекта «Основание», чтобы начать церемонию открытия, на которую могут прийти все твои граждане, чтобы отпраздновать начало нового поселения.
+
+    После основания твое поселение начнет оказывать {Влияние}, генерировать {Собственность поселения} и получать {Культуру}.
+  </target>
       </trans-unit>
       <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
         <target xml:space="preserve" state="translated">Настройки основания Поселения</target>
       </trans-unit>
-      <trans-unit id="429">
+      <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
     A settlement can have its rules about new Citizens defined in an {Immigration Policy}.
 
@@ -4046,29 +4162,39 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    У поселения могут быть свои правила в отношении новых граждан, определенные в {Иммиграционной политике}.
+
+    Каждое поселение всегда имеет одну связанную с ним Иммиграционную политику.  Она начинается как встроенный объект в Поселении с настройками по умолчанию, которые позволяют лидеру утверждать новых граждан, и отображается в подсказках поселения.  Как только {ImmigrationDeskItem} размещается в зоне влияния этого Поселения, эту политику можно редактировать.
+
+    Можно установить требования, которые необходимо выполнить и/или поддерживать, чтобы оставаться гражданином поселения. Чтобы граждане стали или остались гражданами, они должны выполнять все эти требования как в поселении, к которому присоединяются, так и во всех его родительских поселениях.
+  </target>
       </trans-unit>
       <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
         <target xml:space="preserve" state="translated">Приветствие Поселения</target>
       </trans-unit>
-      <trans-unit id="431">
+      <trans-unit id="431" xml:space="preserve">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Когда в поселении разрешено мгновенное присоединение новых людей, открывается специальная функция. Новички увидят поселение на карте при первом запуске среди других возможных стартовых позиций, а также получат сообщение от поселения (назначаемое в разделе «Реклама» в настройках иммиграционной политики).  Когда они таким образом попадают в твое поселение, они автоматически становятся гражданами и начинают игру на назначенной позиции рядом с объектом «Иммиграционный стол».  Использование этой функции — отличный способ привлечь новых игроков в твои поселения и развивать сообщество.
+  </target>
       </trans-unit>
-      <trans-unit id="432">
+      <trans-unit id="432" xml:space="preserve">
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Как только поселение будет {основано|основано}, оно начнет оказывать влияние в радиусе вокруг места основания. Любая земля, находящаяся под его влиянием, будет подчиняться его законам и гражданским мерам.
+  </target>
       </trans-unit>
       <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
         <target xml:space="preserve" state="translated">Культура генерирует Влияние</target>
       </trans-unit>
-      <trans-unit id="434">
+      <trans-unit id="434" xml:space="preserve">
         <source xml:space="preserve">
     Influence can be extended with {Culture}. The higher the culture level of a property, the more influence it will cast for the owning settlement.  This allows you to expand your borders by increasing culture, or creating new cultural properties. There are limits, however, on the number of cultural properties and the max influence castable, so borders cannot be expanded indefinitely. Each level-up of settlement allows a farther range of influence to be cast, and more cultural properties to be created.
     
@@ -4076,31 +4202,43 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Влияние можно расширить с помощью {Культуры}. Чем выше уровень культуры объекта, тем большее влияние он окажет на поселение-владельца. Это позволяет тебе расширять границы, повышая уровень культуры или создавая новые культурные объекты. Однако существуют ограничения на количество культурных объектов и максимальное возможное влияние, поэтому границы нельзя расширять бесконечно. Каждый новый уровень поселения позволяет оказывать влияние на более удаленные территории и создавать больше культурных объектов.
+    
+    Влияние распространяется от среднего положения комнат на объекте, взвешенного по их стоимости.  
+
+    {Homesteads|HomesteadClaimStakeObject} — это объекты, принадлежащие одному человеку и связанные с тем поселением, гражданином которого является их владелец. Если владелец не является гражданином ни одного поселения, то на него не будет оказывать влияние ни одно из них.  Это может создавать пробелы в влиянии города, когда граждане отказываются от своего гражданства, однако сильное поселение может принудительно заявить права на этот объект через процесс {Annexation}.
+  </target>
       </trans-unit>
-      <trans-unit id="435">
+      <trans-unit id="435" xml:space="preserve">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Множество влиятельных поселений</target>
       </trans-unit>
-      <trans-unit id="436">
+      <trans-unit id="436" xml:space="preserve">
         <source xml:space="preserve">
     Each settlement level (Town, Country, Federation) has its own map of influence, and only one settlement of each type may influence a given plot (IE, two Towns cannot influence the same plot).  However, if a settlement is a sub-settlement of another settlement, then that parent will also cast influence on the plot (IE, a Country's influence will be cast everywhere its member town's influences are cast).  In plots influenced by more than one settlement in this way, the governments of all settlement will apply.
     
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Каждый уровень поселения (город, страна, федерация) имеет свою собственную зону влияния, и только одно поселение каждого типа может влиять на данный участок (то есть два города не могут влиять на один и тот же участок).  Однако, если поселение является подчиненным другим поселением, то это родительское поселение также будет оказывать влияние на участок (то есть влияние страны будет распространяться везде, где распространяется влияние входящих в нее городов).  На участках, на которые таким образом влияют несколько поселений, будут действовать правительства всех этих поселений.
+    
+    Когда два поселения одного типа соревнуются за влияние, то более близкое из них проникает дальше в зону влияния другого.  Однако любая земля, на которую уже заявлены права, останется под влиянием, даже если она в противном случае оказалась бы в пределах противостоящего поселения. Это может даже привести к тому, что части поселения отколются и окажутся в окружении других поселений.
+</target>
       </trans-unit>
       <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
         <target xml:space="preserve" state="translated">Пограничный контроль</target>
       </trans-unit>
-      <trans-unit id="438">
+      <trans-unit id="438" xml:space="preserve">
         <source xml:space="preserve">
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    На {Иммиграционном столе|ImmigrationDeskObject} руководство поселения может обозначить соседние усадьбы или поселения, которые могут претендовать на земли в зоне нашего влияния. Если сосед хочет получить землю, на которую иначе влияет твое поселение (возможно, за определенную плату), это способ разрешить ему это.
+  </target>
       </trans-unit>
-      <trans-unit id="439">
+      <trans-unit id="439" xml:space="preserve">
         <source xml:space="preserve">
     A Property Crisis occurs when the number of Citizens in a settlement reduces such that there aren't enough Citizens to support the number of Claim Stakes and Claim Papers in use.
     
@@ -4115,13 +4253,26 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Кризис собственности возникает, когда количество жителей в поселении уменьшается настолько, что их не хватает для поддержки количества используемых колов и документов на права собственности.
+    
+    Поскольку поселения создают колы и документы, когда жители присоединяются, и удаляют их, когда те уходят, жители могут уйти и вызвать кризис собственности, если на объекте «Фонд поселения» не останется доступных колов или документов для удаления.  Когда это происходит, запускается таймер, по истечении которого жители должны вернуть необходимое количество кольев и документов в Фонд поселения, отказавшись от прав на них или собрав их любым доступным способом.  Если во время кризиса собственности колья и документы прав на землю помещаются в Фонд поселения, они сразу же исчезают, и если дефицит устранен, кризис немедленно заканчивается.
+
+    Если граждане не могут или не хотят вернуть необходимые колья и документы до истечения таймера, они будут уничтожены, где бы они ни находились. Когда кризис с собственностью разрешится, будут произведены следующие изъятия:
+    - Сначала будут уничтожены права на землю/колья, которые не используются (например, лежат в рюкзаке гражданина).
+    - Затем будут уничтожены используемые доли/права, если дефицит все еще не будет покрыт.
+    На обоих этапах в первую очередь будут уничтожены права, принадлежащие покинувшим поселение гражданам.
+
+    Поселениям очень важно тщательно управлять численностью граждан, чтобы не допустить дефицита, и разумно держать часть в резерве, не используя их сразу, или корректировать ситуацию, когда граждане начинают уходить.
+
+    Граждане, которые попадают в категорию «Покинутые {Демография}», также перестанут влиять на количество появляющихся ставок и документов, что тоже может привести к кризису с недвижимостью.
+  </target>
       </trans-unit>
       <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
         <target xml:space="preserve" state="translated">Настройки Кризиса собственности</target>
       </trans-unit>
-      <trans-unit id="441">
+      <trans-unit id="441" xml:space="preserve">
         <source xml:space="preserve">
     As more Citizens join a Settlement, more {Property} can be claimed, using Claim Stakes and Claim Papers associated with the settlement.
 
@@ -4129,15 +4280,21 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+    Чем больше граждан присоединяется к поселению, тем больше {Property} можно занять, используя колья и документы на право владения, связанные с этим поселением.
+
+    Поселение будет генерировать эти предметы в зависимости от своего уровня, с кольями для заявления прав на владение типа {TownClaimStakeItem}, {CountryClaimStakeItem} и {FederationClaimStakeItem}.  Они будут заявлять права на собственность от имени поселения, с которым связаны, и их можно усилить с помощью {ClaimPaperItem}, чтобы занять больше участков, поместив их в инвентарь кола.
+
+    Если жители уйдут, максимальное количество разрешенных документов и кольев уменьшится, и они будут удалены из инвентаря Фонда поселения.  Если все они используются и их нельзя вернуть, произойдет {Property Crisis}.
+  </target>
       </trans-unit>
-      <trans-unit id="442">
+      <trans-unit id="442" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Заявки на поддержку Homestead</target>
       </trans-unit>
-      <trans-unit id="443">
+      <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
+        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">В поселениях также будут появляться {Homestead Support Claims|HomesteadSupportClaimPaperItem}, которые можно дарить или продавать негражданам. Эти права позволят хозяйствам, не связанным с каким-либо поселением, претендовать на дополнительные участки в любой точке карты.  Как правило, фермеры из отдаленных, изолированных регионов, которые хотят иметь более крупные фермы, будут искать их (обмениваясь едой или рабочей силой) в городах по всему миру.  Они представляют собой поддержку со стороны поселения, применяемую к защите внешней собственности.</target>
       </trans-unit>
       <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
