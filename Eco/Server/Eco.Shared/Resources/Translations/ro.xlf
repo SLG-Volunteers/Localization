@@ -12835,10 +12835,9 @@
         <source xml:space="preserve">For plants that shouldn't ever grow more. Old growth, mostly. Normal growth is needed for world gen to work properly.</source>
         <target xml:space="preserve">Pentru plantele care nu ar trebui să crească niciodată mai mult. Creștere veche, mai ales. Creșterea normală este necesară pentru ca genul mondial să funcționeze corect.</target>
       </trans-unit>
-      <trans-unit id="Global Reputation" translate="no">
+      <trans-unit id="Global Reputation">
         <source xml:space="preserve">Global Reputation</source>
-        <target xml:space="preserve">Reputație Globală</target>
-        <note from="developer">Obsolete string</note>
+        <target xml:space="preserve" state="translated">Reputație Globală</target>
       </trans-unit>
       <trans-unit id="Object Rights">
         <source xml:space="preserve">Object Rights</source>
@@ -12848,10 +12847,9 @@
         <source xml:space="preserve">Permanently</source>
         <target xml:space="preserve">Permanent</target>
       </trans-unit>
-      <trans-unit id="Contract End" translate="no">
+      <trans-unit id="Contract End">
         <source xml:space="preserve">Contract End</source>
-        <target xml:space="preserve">Încheierea Contractului</target>
-        <note from="developer">Obsolete string</note>
+        <target xml:space="preserve" state="translated">Încheierea Contractului</target>
       </trans-unit>
       <trans-unit id="{0} Location: {1}">
         <source xml:space="preserve"><ph id="0">{0}</ph> Location: <ph id="1">{1}</ph></source>
@@ -67423,15 +67421,15 @@
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Couldn't find an object type '{0}'. Ex, {1}&#10;&#10;Available object types: {2}">
-        <source xml:space="preserve">Couldn't find an object type '{0}'. Ex, {1}
+        <source xml:space="preserve">Couldn't find an object type '<ph id="0">{0}</ph>'. Ex, <ph id="1">{1}</ph>
 
-Available object types: {2}</source>
+Available object types: <ph id="2">{2}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Object type was missing, must specify the type of object you want to target.  Ex, {0}&#10;&#10;Available object types: {1}">
-        <source xml:space="preserve">Object type was missing, must specify the type of object you want to target.  Ex, {0}
+        <source xml:space="preserve">Object type was missing, must specify the type of object you want to target.  Ex, <ph id="0">{0}</ph>
 
-Available object types: {1}</source>
+Available object types: <ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Select a target to transfer ownership to.&#10;&#10;(This will only be permitted if you own the property or a law specially allows the Property Transfer action.)">
@@ -67441,18 +67439,18 @@ Available object types: {1}</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Carrying {0}kg (max {1}kg).&#10;">
-        <source xml:space="preserve">Carrying {0}kg (max {1}kg).
+        <source xml:space="preserve">Carrying <ph id="0">{0}</ph>kg (max <ph id="1">{1}</ph>kg).
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="This skill is currently being researched.&#10;{0} furthest ahead at {1} completion, located at {2}.">
         <source xml:space="preserve">This skill is currently being researched.
-{0} furthest ahead at {1} completion, located at {2}.</source>
+<ph id="0">{0}</ph> furthest ahead at <ph id="1">{1}</ph> completion, located at <ph id="2">{2}</ph>.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Level {0}:&#10;{1}">
-        <source xml:space="preserve">Level {0}:
-{1}</source>
+        <source xml:space="preserve">Level <ph id="0">{0}</ph>:
+<ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Transport all materials from container A to container B.&#10;&#10;The contractor will be granted authorization rights to remove items from container A and add them container to B.">
@@ -67465,8 +67463,8 @@ The contractor will be granted authorization rights to remove items from contain
         <source xml:space="preserve">This clause allows you to restrict the acceptance of a contract to only those that have a reputation equal to or greater than the defined amount.
 
 There are two kinds of reputation you can specify here: 
- - {0}, which is the sum of all player's ratings, multiplied by a network effect.
- - {1}, which is the sum of the opinions from players you have rated favorably (and who they have rated favorably, etc).
+ - <ph id="0">{0}</ph>, which is the sum of all player's ratings, multiplied by a network effect.
+ - <ph id="1">{1}</ph>, which is the sum of the opinions from players you have rated favorably (and who they have rated favorably, etc).
 
 You can review the reputations of all players on the server through the citizen list, which displays players in reputation order, and displays reviews from other players in the reputation tooltip.</source>
         <target xml:space="preserve" state="needs-translation"></target>
@@ -67522,7 +67520,7 @@ The borrower can specify the amount they want to borrow, which the lender define
       <trans-unit id="Defines a container that must contain a set of objects. Both you and the contractor must have access rights on the selected container.&#10;&#10;You can automatically give the contractor access rights to the container for the term of the contract with an additional {0} contract clause.">
         <source xml:space="preserve">Defines a container that must contain a set of objects. Both you and the contractor must have access rights on the selected container.
 
-You can automatically give the contractor access rights to the container for the term of the contract with an additional {0} contract clause.</source>
+You can automatically give the contractor access rights to the container for the term of the contract with an additional <ph id="0">{0}</ph> contract clause.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="All plants yielding the given types of resources must be harvested from this property, and placed into the specified container.&#10;&#10;The contractor will temporarily be given rights to harvest on the specified property.&#10;&#10;Note: You can split property into seperate deeds for more control.">
@@ -67536,12 +67534,12 @@ Note: You can split property into seperate deeds for more control.</source>
       <trans-unit id="This clause allows players to define in words what they would like done. When using this clause, the contract can no longer be auto-approved, and the client will have to approve it before accepting it. When accepting a contract with a custom clause, it is wise to first review the reputation of the citizen offering it, because it is fully at their discretion to approve or deny its completion.&#10;&#10;You must uncheck {0} at the bottom of the contract to use this clause.">
         <source xml:space="preserve">This clause allows players to define in words what they would like done. When using this clause, the contract can no longer be auto-approved, and the client will have to approve it before accepting it. When accepting a contract with a custom clause, it is wise to first review the reputation of the citizen offering it, because it is fully at their discretion to approve or deny its completion.
 
-You must uncheck {0} at the bottom of the contract to use this clause.</source>
+You must uncheck <ph id="0">{0}</ph> at the bottom of the contract to use this clause.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Defines a position where a room must be built, with a minimum volume and made of at least the listed materials.&#10;The position is marked by a {0}, and you must place one on the location you want the room built.">
         <source xml:space="preserve">Defines a position where a room must be built, with a minimum volume and made of at least the listed materials.
-The position is marked by a {0}, and you must place one on the location you want the room built.</source>
+The position is marked by a <ph id="0">{0}</ph>, and you must place one on the location you want the room built.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Defines a set of blocks that must exist, or not exist on a property. This can be used for all kinds of things:&#10; - Removing unwanted plants&#10; - Removing pollution&#10; - Planting fields (planted blocks must exist)&#10; - Removing structures or obstacles.&#10;&#10;If {0} is checked, only surface blocks will be examined. Otherwise, blocks to a depth of {1} below the highest block will be examined.">
@@ -67551,7 +67549,7 @@ The position is marked by a {0}, and you must place one on the location you want
  - Planting fields (planted blocks must exist)
  - Removing structures or obstacles.
 
-If {0} is checked, only surface blocks will be examined. Otherwise, blocks to a depth of {1} below the highest block will be examined.</source>
+If <ph id="0">{0}</ph> is checked, only surface blocks will be examined. Otherwise, blocks to a depth of <ph id="1">{1}</ph> below the highest block will be examined.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="This clause provides a payment, with the option of collecting a deposit from the contractor.&#10;&#10;Deposits and payments are held in escrow for the duration of the contract. The amount in escrow is given to the contractor if the contract is successfully completed, or it goes to the client if the contract is marked as failed.">
@@ -67566,17 +67564,17 @@ Upgraded tools will allow you to place multiple blocks at a time.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id=" - Capping total value of {0} furnishings, {1} -&gt; {2}&#10;   (Capped at {3} of {4} furnishings: {5})">
-        <source xml:space="preserve"> - Capping total value of {0} furnishings, {1} -&gt; {2}
-   (Capped at {3} of {4} furnishings: {5})</source>
+        <source xml:space="preserve"> - Capping total value of <ph id="0">{0}</ph> furnishings, <ph id="1">{1}</ph> -&gt; <ph id="2">{2}</ph>
+   (Capped at <ph id="3">{3}</ph> of <ph id="4">{4}</ph> furnishings: <ph id="5">{5}</ph>)</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} disabled, ignored." translate="no">
-        <source xml:space="preserve">{0} disabled, ignored.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> disabled, ignored.</source>
         <target xml:space="preserve"></target>
         <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="{0} is rotten, ignored." translate="no">
-        <source xml:space="preserve">{0} is rotten, ignored.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> is rotten, ignored.</source>
         <target xml:space="preserve"></target>
         <note from="developer">Obsolete string</note>
       </trans-unit>
@@ -67592,24 +67590,24 @@ Upgraded tools will allow you to place multiple blocks at a time.</source>
       </trans-unit>
       <trans-unit id="&#10;&lt;b&gt;Total: {0} stars&lt;/b&gt;">
         <source xml:space="preserve">
-&lt;b&gt;Total: {0} stars&lt;/b&gt;</source>
+&lt;b&gt;Total: <ph id="0">{0}</ph> stars&lt;/b&gt;</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Server dirtied tooltip parts:&#10;{0}">
         <source xml:space="preserve">Server dirtied tooltip parts:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} is undiscovered.&#10;&#10;Craft {1} {2} at a {3} to discover it.">
-        <source xml:space="preserve">{0} is undiscovered.
+        <source xml:space="preserve"><ph id="0">{0}</ph> is undiscovered.
 
-Craft {1} {2} at a {3} to discover it.</source>
+Craft <ph id="1">{1}</ph> <ph id="2">{2}</ph> at a <ph id="3">{3}</ph> to discover it.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="This specialty has been discovered, but you haven't learned it yet.&#10;&#10;Acquire and read a {0} to learn it.">
         <source xml:space="preserve">This specialty has been discovered, but you haven't learned it yet.
 
-Acquire and read a {0} to learn it.</source>
+Acquire and read a <ph id="0">{0}</ph> to learn it.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="This is a test server containing the next release of the game, which will be kept stable (so you can play normally here long-term).&#10;&#10;To play here, you will need to switch to the staging build.">
@@ -67620,18 +67618,18 @@ To play here, you will need to switch to the staging build.</source>
       </trans-unit>
       <trans-unit id="Fetching servers from Strange Cloud failed, cached data will be used instead. Exception:&#10;{0}">
         <source xml:space="preserve">Fetching servers from Strange Cloud failed, cached data will be used instead. Exception:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0}&#10;Guide">
-        <source xml:space="preserve">{0}
+        <source xml:space="preserve"><ph id="0">{0}</ph>
 Guide</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="The following error message popped up:&#10;```&#10;{0}&#10;```">
         <source xml:space="preserve">The following error message popped up:
 ```
-{0}
+<ph id="0">{0}</ph>
 ```</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
@@ -67640,10 +67638,11 @@ Guide</source>
 Hosting a single player Eco server requires a 64-bit system, and you are currently running 32-bits.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
-      <trans-unit id="Calibrating {0}.&#13;&#10;Please move your face left/right, open/close mouth, open/close eyes, smile and make a sad face to calibrate">
-        <source xml:space="preserve">Calibrating {0}.
+      <trans-unit id="Calibrating {0}.&#13;&#10;Please move your face left/right, open/close mouth, open/close eyes, smile and make a sad face to calibrate" translate="no">
+        <source xml:space="preserve">Calibrating <ph id="0">{0}</ph>.
 Please move your face left/right, open/close mouth, open/close eyes, smile and make a sad face to calibrate</source>
         <target xml:space="preserve" state="needs-translation"></target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="You can map your expressions onto the avatar face using your webcam.&#13;&#10;Press &quot;Search&quot; to find and register cameras on your machine.&#13;&#10;Turn the feature on/off by clicking on the webcam icon.">
         <source xml:space="preserve">You can map your expressions onto the avatar face using your webcam.
@@ -67658,108 +67657,108 @@ Now look at the center of the screen and press the Confirm button on the right</
       </trans-unit>
       <trans-unit id="Population Changes:&#10;{0}">
         <source xml:space="preserve">Population Changes:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Last Population Changes (tick interval: {0} min):&#10;{1}">
-        <source xml:space="preserve">Last Population Changes (tick interval: {0} min):
-{1}</source>
+        <source xml:space="preserve">Last Population Changes (tick interval: <ph id="0">{0}</ph> min):
+<ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Animal populations at {0}:&#10;{1}">
-        <source xml:space="preserve">Animal populations at {0}:
-{1}</source>
+        <source xml:space="preserve">Animal populations at <ph id="0">{0}</ph>:
+<ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Plant populations at {0}:&#10;{1}">
-        <source xml:space="preserve">Plant populations at {0}:
-{1}</source>
+        <source xml:space="preserve">Plant populations at <ph id="0">{0}</ph>:
+<ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Species Cull Summary:&#10;Species: {0}&#10;Target amount: {1}&#10;Search distance: {2} meters (expanded to {3} meters)&#10;Actually removed: {4} from {5} cells&#10;Population before: {6}&#10;Population after: {7}&#10;Total population remaining: {8}">
         <source xml:space="preserve">Species Cull Summary:
-Species: {0}
-Target amount: {1}
-Search distance: {2} meters (expanded to {3} meters)
-Actually removed: {4} from {5} cells
-Population before: {6}
-Population after: {7}
-Total population remaining: {8}</source>
+Species: <ph id="0">{0}</ph>
+Target amount: <ph id="1">{1}</ph>
+Search distance: <ph id="2">{2}</ph> meters (expanded to <ph id="3">{3}</ph> meters)
+Actually removed: <ph id="4">{4}</ph> from <ph id="5">{5}</ph> cells
+Population before: <ph id="6">{6}</ph>
+Population after: <ph id="7">{7}</ph>
+Total population remaining: <ph id="8">{8}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Unable to export game to S3: {0}&#10;{1}">
-        <source xml:space="preserve">Unable to export game to S3: {0}
-{1}</source>
+        <source xml:space="preserve">Unable to export game to S3: <ph id="0">{0}</ph>
+<ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Failed to invoke in-line button rpc with name: {0} on controller with linkID: {1} &#10; {2}">
-        <source xml:space="preserve">Failed to invoke in-line button rpc with name: {0} on controller with linkID: {1} 
- {2}</source>
+        <source xml:space="preserve">Failed to invoke in-line button rpc with name: <ph id="0">{0}</ph> on controller with linkID: <ph id="1">{1}</ph> 
+ <ph id="2">{2}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Nested clause failed because all sub-clauses failed:&#10;&#10;{0}">
         <source xml:space="preserve">Nested clause failed because all sub-clauses failed:
 
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Nested clause failed because at least one sub-clauses failed:&#10;&#10;{0}">
         <source xml:space="preserve">Nested clause failed because at least one sub-clauses failed:
 
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Nested clause failed because at least one sub-clause succeeded:&#10;&#10;{0}">
         <source xml:space="preserve">Nested clause failed because at least one sub-clause succeeded:
 
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Tree still has unharvested logs:&#10;{0}">
         <source xml:space="preserve">Tree still has unharvested logs:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="&#10;Found {0} at {1}.">
         <source xml:space="preserve">
-Found {0} at {1}.</source>
+Found <ph id="0">{0}</ph> at <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Contract invalid:&#10;{0}">
         <source xml:space="preserve">Contract invalid:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} accepted your contract: {1}&#10;{2} {3}">
-        <source xml:space="preserve">{0} accepted your contract: {1}
-{2} {3}</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> accepted your contract: <ph id="1">{1}</ph>
+<ph id="2">{2}</ph> <ph id="3">{3}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="You accepted contract from {0}: {1}&#10;{2} {3}">
-        <source xml:space="preserve">You accepted contract from {0}: {1}
-{2} {3}</source>
+        <source xml:space="preserve">You accepted contract from <ph id="0">{0}</ph>: <ph id="1">{1}</ph>
+<ph id="2">{2}</ph> <ph id="3">{3}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Couldn't add {0} to itself.&#10;(Strange loops are too dangerous to support.)">
-        <source xml:space="preserve">Couldn't add {0} to itself.
+        <source xml:space="preserve">Couldn't add <ph id="0">{0}</ph> to itself.
 (Strange loops are too dangerous to support.)</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Couldn't add {0} because it references back to {1}.&#10;(Strange loops are too dangerous to support.)">
-        <source xml:space="preserve">Couldn't add {0} because it references back to {1}.
+        <source xml:space="preserve">Couldn't add <ph id="0">{0}</ph> because it references back to <ph id="1">{1}</ph>.
 (Strange loops are too dangerous to support.)</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Can't start election.&#10;&#10;There's already an active election regarding {0} : {1}">
         <source xml:space="preserve">Can't start election.
 
-There's already an active election regarding {0} : {1}</source>
+There's already an active election regarding <ph id="0">{0}</ph> : <ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Treasury disabled.&#10;Only players holding the following titles can change treasury settings.&#10;{0}">
         <source xml:space="preserve">Treasury disabled.
 Only players holding the following titles can change treasury settings.
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Treasury disabled.&#10;You must create an elected title that gives treasury permissions, and then assign a player to it.">
@@ -67774,24 +67773,24 @@ Try loading or rejoining the server.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="This key is currently assigned to {0}.&#10;Do you want to assign it here instead?">
-        <source xml:space="preserve">This key is currently assigned to {0}.
+        <source xml:space="preserve">This key is currently assigned to <ph id="0">{0}</ph>.
 Do you want to assign it here instead?</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Pollution: {0}&#13;&#10;">
-        <source xml:space="preserve">Pollution: {0}
+        <source xml:space="preserve">Pollution: <ph id="0">{0}</ph>
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Nitrogen: {0}&#10;Phosphorus: {1}&#10;Potassium: {2}">
-        <source xml:space="preserve">Nitrogen: {0}
-Phosphorus: {1}
-Potassium: {2}</source>
+        <source xml:space="preserve">Nitrogen: <ph id="0">{0}</ph>
+Phosphorus: <ph id="1">{1}</ph>
+Potassium: <ph id="2">{2}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Rainfall: {0}&#10;Total soil moisture: {1}">
-        <source xml:space="preserve">Rainfall: {0}
-Total soil moisture: {1}</source>
+        <source xml:space="preserve">Rainfall: <ph id="0">{0}</ph>
+Total soil moisture: <ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Total size:      {0:n1}kb&#13;&#10;">
@@ -67800,53 +67799,53 @@ Total soil moisture: {1}</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Total ticks:     {0}&#13;&#10;">
-        <source xml:space="preserve">Total ticks:     {0}
+        <source xml:space="preserve">Total ticks:     <ph id="0">{0}</ph>
 </source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="[SimStats] Failed recording population '{0}', skipping.&#10;{1}">
-        <source xml:space="preserve">[SimStats] Failed recording population '{0}', skipping.
-{1}</source>
+        <source xml:space="preserve">[SimStats] Failed recording population '<ph id="0">{0}</ph>', skipping.
+<ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="[SimStats] Failed recording climate stat props, skipping.&#10;{0}">
         <source xml:space="preserve">[SimStats] Failed recording climate stat props, skipping.
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="[SimStats] Failed recording stat holder, skipping.&#10;{0}">
         <source xml:space="preserve">[SimStats] Failed recording stat holder, skipping.
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="[SimStats] OnStatsCollected handler failed.&#10;{0}">
         <source xml:space="preserve">[SimStats] OnStatsCollected handler failed.
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="[SimStats] Stat property '{0}.{1}' failed, skipping.&#10;{2}">
-        <source xml:space="preserve">[SimStats] Stat property '{0}.{1}' failed, skipping.
-{2}</source>
+        <source xml:space="preserve">[SimStats] Stat property '<ph id="0">{0}</ph>.<ph id="1">{1}</ph>' failed, skipping.
+<ph id="2">{2}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} hrs&#10;{1}:{2}">
-        <source xml:space="preserve">{0} hrs
-{1}:{2}</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> hrs
+<ph id="1">{1}</ph>:<ph id="2">{2}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} hr&#10;{1}:{2}">
-        <source xml:space="preserve">{0} hr
-{1}:{2}</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> hr
+<ph id="1">{1}</ph>:<ph id="2">{2}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0}&#10;sec">
-        <source xml:space="preserve">{0}
+        <source xml:space="preserve"><ph id="0">{0}</ph>
 sec</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} previously was recycled by stack trace:&#10;{1}">
-        <source xml:space="preserve">{0} previously was recycled by stack trace:
-{1}</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> previously was recycled by stack trace:
+<ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="The server has refused connection, as your username contains contents listed on its profanity filter.&#10;&#10;Please change your username or contact the server administrator to connect to this server.">
@@ -67857,45 +67856,45 @@ Please change your username or contact the server administrator to connect to th
       </trans-unit>
       <trans-unit id="Error when loading main string tables:&#10;{0}">
         <source xml:space="preserve">Error when loading main string tables:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Error when loading Mod string tables:&#10;{0}">
         <source xml:space="preserve">Error when loading Mod string tables:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Control-click: multiply input by {0}&#10;Alt-click: multiply input by {1}.">
-        <source xml:space="preserve">Control-click: multiply input by {0}
-Alt-click: multiply input by {1}.</source>
+        <source xml:space="preserve">Control-click: multiply input by <ph id="0">{0}</ph>
+Alt-click: multiply input by <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Login failed:&#10;{0}">
         <source xml:space="preserve">Login failed:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="To install `dotnet-dump`: {0}&#10;To install `dotnet-trace`: {1}">
-        <source xml:space="preserve">To install `dotnet-dump`: {0}
-To install `dotnet-trace`: {1}</source>
+        <source xml:space="preserve">To install `dotnet-dump`: <ph id="0">{0}</ph>
+To install `dotnet-trace`: <ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Connected to:&#13;&#10;{0}">
         <source xml:space="preserve">Connected to:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="You were invited to {0} {1} at {2}. &#10; {3}">
-        <source xml:space="preserve">You were invited to {0} {1} at {2}. 
- {3}</source>
+        <source xml:space="preserve">You were invited to <ph id="0">{0}</ph> <ph id="1">{1}</ph> at <ph id="2">{2}</ph>. 
+ <ph id="3">{3}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="There shouldn't be a null object as part of the setting list: &#10; PlayerName: {0} &#10; Container.Type: {1} &#10; Container.ToString(): {2} &#10; new list items: {3}">
         <source xml:space="preserve">There shouldn't be a null object as part of the setting list: 
- PlayerName: {0} 
- Container.Type: {1} 
- Container.ToString(): {2} 
- new list items: {3}</source>
+ PlayerName: <ph id="0">{0}</ph> 
+ Container.Type: <ph id="1">{1}</ph> 
+ Container.ToString(): <ph id="2">{2}</ph> 
+ new list items: <ph id="3">{3}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Here you can control access to your tent.&#10;You can also configure access to your entire property as follows:">
@@ -67910,13 +67909,13 @@ To find more food you'll need to collect it from other players.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} of {1} citizens currently sleeping.&#10;(All online citizens must sleep for time to accelerate.)">
-        <source xml:space="preserve">{0} of {1} citizens currently sleeping.
+        <source xml:space="preserve"><ph id="0">{0}</ph> of <ph id="1">{1}</ph> citizens currently sleeping.
 (All online citizens must sleep for time to accelerate.)</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Sleeping users:&#13;&#10;{0}">
         <source xml:space="preserve">Sleeping users:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="&#10;Room Configuration:">
@@ -67950,76 +67949,76 @@ Deed Information:</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Are you sure you want to leave residency of {0}? You will lose access to your items on the deed:&#10;&#10;{1}.">
-        <source xml:space="preserve">Are you sure you want to leave residency of {0}? You will lose access to your items on the deed:
+        <source xml:space="preserve">Are you sure you want to leave residency of <ph id="0">{0}</ph>? You will lose access to your items on the deed:
 
-{1}.</source>
+<ph id="1">{1}</ph>.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="You are currently a resident of {0}, are you sure you want to leave residency there and switch to {1}? You will lose access to your items on the deed:&#10;&#10;{2}.">
-        <source xml:space="preserve">You are currently a resident of {0}, are you sure you want to leave residency there and switch to {1}? You will lose access to your items on the deed:
+        <source xml:space="preserve">You are currently a resident of <ph id="0">{0}</ph>, are you sure you want to leave residency there and switch to <ph id="1">{1}</ph>? You will lose access to your items on the deed:
 
-{2}.</source>
+<ph id="2">{2}</ph>.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="You will lose access to all items placed by {0} on the deed:&#10;&#10;{1}.">
-        <source xml:space="preserve">You will lose access to all items placed by {0} on the deed:
+        <source xml:space="preserve">You will lose access to all items placed by <ph id="0">{0}</ph> on the deed:
 
-{1}.</source>
+<ph id="1">{1}</ph>.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Becoming a resident here has the following costs:&#10;&#10;{0}&#10;Do you want to proceed and specify a bank account to pay from?">
         <source xml:space="preserve">Becoming a resident here has the following costs:
 
-{0}
+<ph id="0">{0}</ph>
 Do you want to proceed and specify a bank account to pay from?</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Your property {0} has a home value of {1} and you can set it as your residency. &#10; {2}">
-        <source xml:space="preserve">Your property {0} has a home value of {1} and you can set it as your residency. 
- {2}</source>
+        <source xml:space="preserve">Your property <ph id="0">{0}</ph> has a home value of <ph id="1">{1}</ph> and you can set it as your residency. 
+ <ph id="2">{2}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Your property {0} has a larger home value of {1}, which is better than your current residency. &#10; {2}">
-        <source xml:space="preserve">Your property {0} has a larger home value of {1}, which is better than your current residency. 
- {2}</source>
+        <source xml:space="preserve">Your property <ph id="0">{0}</ph> has a larger home value of <ph id="1">{1}</ph>, which is better than your current residency. 
+ <ph id="2">{2}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Can't seed a tree within {0} meters of another tree.&#10;&#10;Closest tree is {1} at {2:N1} meters {3}.">
-        <source xml:space="preserve">Can't seed a tree within {0} meters of another tree.
+        <source xml:space="preserve">Can't seed a tree within <ph id="0">{0}</ph> meters of another tree.
 
-Closest tree is {1} at {2:N1} meters {3}.</source>
+Closest tree is <ph id="1">{1}</ph> at {2:N1} meters <ph id="3">{3}</ph>.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} Specialty&#10;Learned">
-        <source xml:space="preserve">{0} Specialty
+        <source xml:space="preserve"><ph id="0">{0}</ph> Specialty
 Learned</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} Specialty&#10;Leveled-Up">
-        <source xml:space="preserve">{0} Specialty
+        <source xml:space="preserve"><ph id="0">{0}</ph> Specialty
 Leveled-Up</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Level {0}&#10;New Specialty Available.">
-        <source xml:space="preserve">Level {0}
+        <source xml:space="preserve">Level <ph id="0">{0}</ph>
 New Specialty Available.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} tax rates changed&#10; {1}">
-        <source xml:space="preserve">{0} tax rates changed
- {1}</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> tax rates changed
+ <ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="The {0} is:&#10;&#10;{1} {2}&#10;&#10;Do you want to proceed and specify a bank account to pay from?">
-        <source xml:space="preserve">The {0} is:
+        <source xml:space="preserve">The <ph id="0">{0}</ph> is:
 
-{1} {2}
+<ph id="1">{1}</ph> <ph id="2">{2}</ph>
 
 Do you want to proceed and specify a bank account to pay from?</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="You are now a teacher of {0}!  For teaching to begin:&#10;&#10; - Students must enroll beyond the minimum number required.&#10; - Students must add studying labor.&#10; - You must add teaching labor.&#10;&#10; When these are satisfied, their education in the given subject will begin increasing.">
-        <source xml:space="preserve">You are now a teacher of {0}!  For teaching to begin:
+        <source xml:space="preserve">You are now a teacher of <ph id="0">{0}</ph>!  For teaching to begin:
 
  - Students must enroll beyond the minimum number required.
  - Students must add studying labor.
@@ -68029,36 +68028,36 @@ Do you want to proceed and specify a bank account to pay from?</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="This element is currently in Election draft {0}.&#10;&#10;You can start it in the side bar.">
-        <source xml:space="preserve">This element is currently in Election draft {0}.
+        <source xml:space="preserve">This element is currently in Election draft <ph id="0">{0}</ph>.
 
 You can start it in the side bar.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Couldn't open save '{0}'.&#10;{1}">
-        <source xml:space="preserve">Couldn't open save '{0}'.
-{1}</source>
+        <source xml:space="preserve">Couldn't open save '<ph id="0">{0}</ph>'.
+<ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} [{1:n0}]:&#13;&#10; - Next save in: {2:n1}s; {3}">
-        <source xml:space="preserve">{0} [{1:n0}]:
- - Next save in: {2:n1}s; {3}</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> [{1:n0}]:
+ - Next save in: {2:n1}s; <ph id="3">{3}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="&#13;&#10;&#13;&#10;Force Save All Stats:&#13;&#10;{0}">
         <source xml:space="preserve">
 
 Force Save All Stats:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="The server crashed with error:&#10;{0}">
         <source xml:space="preserve">The server crashed with error:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Failed to open server GUI. You can run with -nogui to hide this warning. The exception encountered was:&#10;{0}">
         <source xml:space="preserve">Failed to open server GUI. You can run with -nogui to hide this warning. The exception encountered was:
-{0}</source>
+<ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Template&#10;">
@@ -69083,7 +69082,7 @@ Ctrl - x100</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Ecopedia: failed to load XLIFF '{0}'. {1}">
-        <source xml:space="preserve">Ecopedia: failed to load XLIFF '{0}'. {1}</source>
+        <source xml:space="preserve">Ecopedia: failed to load XLIFF '<ph id="0">{0}</ph>'. <ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Reduced resource cost of Industry recipes in the Robotic Assembly Line and increased crafting speed at the cost of significantly increased power consumption.">
@@ -69127,11 +69126,11 @@ Ctrl - x100</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} {1} disabled, ignored.">
-        <source xml:space="preserve">{0} {1} disabled, ignored.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> disabled, ignored.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} {1} rotten, ignored.">
-        <source xml:space="preserve">{0} {1} rotten, ignored.</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> rotten, ignored.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Instant">
@@ -69139,19 +69138,19 @@ Ctrl - x100</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Level {0} Talent Choice at {1}.">
-        <source xml:space="preserve">Level {0} Talent Choice at {1}.</source>
+        <source xml:space="preserve">Level <ph id="0">{0}</ph> Talent Choice at <ph id="1">{1}</ph>.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="• {0}">
-        <source xml:space="preserve">• {0}</source>
+        <source xml:space="preserve">• <ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="• {0}: {1}">
-        <source xml:space="preserve">• {0}: {1}</source>
+        <source xml:space="preserve">• <ph id="0">{0}</ph>: <ph id="1">{1}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="{0} Level {1} talent preview (requires level {2})">
-        <source xml:space="preserve">{0} Level {1} talent preview (requires level {2})</source>
+        <source xml:space="preserve"><ph id="0">{0}</ph> Level <ph id="1">{1}</ph> talent preview (requires level <ph id="2">{2}</ph>)</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Hover each option in the selector for details, or click to preview:">
@@ -69171,11 +69170,11 @@ Ctrl - x100</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="This language is currently {0}% translated. Untranslated strings will appear in English.">
-        <source xml:space="preserve">This language is currently {0}% translated. Untranslated strings will appear in English.</source>
+        <source xml:space="preserve">This language is currently <ph id="0">{0}</ph>% translated. Untranslated strings will appear in English.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: {0}">
-        <source xml:space="preserve">All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: {0}</source>
+        <source xml:space="preserve">All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: <ph id="0">{0}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="our translation portal">
@@ -69187,7 +69186,7 @@ Ctrl - x100</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link=&quot;{0}&quot;&gt;link&lt;/link&gt;." translate="no">
-        <source xml:space="preserve">All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link="{0}"&gt;link&lt;/link&gt;.</source>
+        <source xml:space="preserve">All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link="<ph id="0">{0}</ph>"&gt;link&lt;/link&gt;.</source>
         <target xml:space="preserve"></target>
         <note from="developer">Obsolete string</note>
       </trans-unit>
@@ -69196,7 +69195,107 @@ Ctrl - x100</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link=&quot;{0}&quot;&gt;our translation portal&lt;/link&gt;.">
-        <source xml:space="preserve">All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link="{0}"&gt;our translation portal&lt;/link&gt;.</source>
+        <source xml:space="preserve">All translations of Eco are made by the community. If you want to correct a wrong translation or help with translating Eco into a specific language, please visit: &lt;link="<ph id="0">{0}</ph>"&gt;our translation portal&lt;/link&gt;.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="{0}% increased">
+        <source xml:space="preserve"><ph id="0">{0}</ph>% increased</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Select Currency Filter">
+        <source xml:space="preserve">Select Currency Filter</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Calibrating {0}">
+        <source xml:space="preserve">Calibrating <ph id="0">{0}</ph></source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Press &quot;Search&quot; to find and register cameras on your machine.">
+        <source xml:space="preserve">Press "Search" to find and register cameras on your machine.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Please move your face left/right, open/close mouth, open/close eyes, smile and make a sad face to calibrate">
+        <source xml:space="preserve">Please move your face left/right, open/close mouth, open/close eyes, smile and make a sad face to calibrate</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Cannot trade: you don't have access to that bank account.">
+        <source xml:space="preserve">Cannot trade: you don't have access to that bank account.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="This will remove the specialty {0}, which will reset all talents gained and drop the level of {1} to {2}. No XP will be refunded.">
+        <source xml:space="preserve">This will remove the specialty <ph id="0">{0}</ph>, which will reset all talents gained and drop the level of <ph id="1">{1}</ph> to <ph id="2">{2}</ph>. No XP will be refunded.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Rooms: queued {0} housing object positions for post-fix room recovery sweep.">
+        <source xml:space="preserve">Rooms: queued <ph id="0">{0}</ph> housing object positions for post-fix room recovery sweep.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Invalid position: {0}.">
+        <source xml:space="preserve">Invalid position: <ph id="0">{0}</ph>.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Column ({0}, {1}): TopSolidBlockY = {2}, top block = {3}.">
+        <source xml:space="preserve">Column (<ph id="0">{0}</ph>, <ph id="1">{1}</ph>): TopSolidBlockY = <ph id="2">{2}</ph>, top block = <ph id="3">{3}</ph>.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Ceiling check at y={0}: {1}.">
+        <source xml:space="preserve">Ceiling check at y=<ph id="0">{0}</ph>: <ph id="1">{1}</ph>.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="{0} already has a {1}. Refusing to overwrite.">
+        <source xml:space="preserve"><ph id="0">{0}</ph> already has a <ph id="1">{1}</ph>. Refusing to overwrite.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="BrickCubeBlock not registered on this server.">
+        <source xml:space="preserve">BrickCubeBlock not registered on this server.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Marker placed at {0}. Smite to remove.">
+        <source xml:space="preserve">Marker placed at <ph id="0">{0}</ph>. Smite to remove.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Place a marker block at a coordinate and print column info (top-solid Y, top block). Useful for chasing 'no ceiling' failures. Smite to remove.">
+        <source xml:space="preserve">Place a marker block at a coordinate and print column info (top-solid Y, top block). Useful for chasing 'no ceiling' failures. Smite to remove.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="You don't have an invitation to {0}.">
+        <source xml:space="preserve">You don't have an invitation to <ph id="0">{0}</ph>.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="You don't have government banking privileges in {0}.">
+        <source xml:space="preserve">You don't have government banking privileges in <ph id="0">{0}</ph>.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Target not found.">
+        <source xml:space="preserve">Target not found.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="You don't have access to do that.">
+        <source xml:space="preserve">You don't have access to do that.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="You don't own that.">
+        <source xml:space="preserve">You don't own that.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="No bank account specified.">
+        <source xml:space="preserve">No bank account specified.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="You don't have {0} access to {1}.">
+        <source xml:space="preserve">You don't have <ph id="0">{0}</ph> access to <ph id="1">{1}</ph>.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="You're doing that too fast.">
+        <source xml:space="preserve">You're doing that too fast.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Currency Filter">
+        <source xml:space="preserve">Currency Filter</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Display only offers in the selected currencies.">
+        <source xml:space="preserve">Display only offers in the selected currencies.</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
     </body>
