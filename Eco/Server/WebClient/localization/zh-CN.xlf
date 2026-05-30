@@ -174,9 +174,9 @@
         <source xml:space="preserve">Cancel</source>
         <target xml:space="preserve">取消</target>
       </trans-unit>
-      <trans-unit id="44">
+      <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target xml:space="preserve">要开始新的推选; you must add yourself as a candidate</target>
+        <target xml:space="preserve" state="translated">要开始新的推选; 你必须将自己列为候选人</target>
       </trans-unit>
       <trans-unit id="45">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -362,9 +362,9 @@
         <source xml:space="preserve">Layer Select by Name or Number</source>
         <target xml:space="preserve">按名称或编号选择图层</target>
       </trans-unit>
-      <trans-unit id="96">
+      <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target xml:space="preserve">关于法案的辩论均放于此处。可重新调整地图大小，以便日后更好地适应文本; maps can be resized to fit with text better later</target>
+        <target xml:space="preserve" state="translated">关于法案的辩论均放于此处。可重新调整地图大小，以便日后更好地适应文本</target>
       </trans-unit>
       <trans-unit id="97">
         <source xml:space="preserve">Student Progress</source>
