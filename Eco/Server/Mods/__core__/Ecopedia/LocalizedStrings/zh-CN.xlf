@@ -6,45 +6,35 @@
         <source xml:space="preserve">Components related to the economy.</source>
         <target xml:space="preserve" state="translated">与经济相关的组件。</target>
       </trans-unit>
-      <trans-unit id="1">
-        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.
-</source>
-        <target xml:space="preserve">银行组件是创建和管理[Bank Accounts]的地方。公民可以为自己创建多个帐户，也可以与其他公民共享帐户。帐户也可以分配给[Titles]和[Demographics]。
-</target>
+      <trans-unit id="1" xml:space="preserve">
+        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
+        <target xml:space="preserve" state="translated">银行组件是创建和管理[银行账户]的地方。公民可以为自己创建多个帐户，也可以与其他公民共享帐户。帐户也可以分配给[职位]和[人口特征]。</target>
       </trans-unit>
-      <trans-unit id="2">
+      <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Account Users can perform transactions using the account (adding and removing funds).
 
 Account Managers can change the users in both the manager list and the user list, rename the account, and perform transactions. 
 
-In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.
-</source>
-        <target xml:space="preserve">帐户用户可以使用该帐户执行交易（添加和删除资金）。
+In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
+        <target xml:space="preserve" state="translated">帐户用户可以使用该帐户执行交易（添加和删除资金）。
 
 客户经理可以更改经理列表和用户列表中的用户，重命名帐户并执行交易。在高级设置中，你可以将帐户设置为公会帐户。
 
-公会帐户可以接收和支付税收资金，在收取税收和计算个人财富时将被忽略。要进行此设置，你必须具有由[Elected Title|Elected Titles]分配的公会银行特权。
-</target>
+公会帐户可以接收和支付税收资金，在收取税收和计算个人财富时将被忽略。要进行此设置，你必须具有由[当选头衔|当选头衔]分配的公会银行特权。</target>
       </trans-unit>
-      <trans-unit id="3">
-        <source xml:space="preserve">The Bank component is used to create and manage bank accounts
-</source>
-        <target xml:space="preserve">银行组件用于创建和管理银行账户
-</target>
+      <trans-unit id="3" xml:space="preserve">
+        <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
+        <target xml:space="preserve" state="translated">银行组件用于创建和管理银行账户</target>
       </trans-unit>
-      <trans-unit id="4">
-        <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.
-</source>
-        <target xml:space="preserve">合同公告板允许公民发布和接受[Contracts]和[Work Parties]，从而允许公民之间执行强制劳动和其他协议。
-</target>
+      <trans-unit id="4" xml:space="preserve">
+        <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.</source>
+        <target xml:space="preserve" state="translated">合同公告板允许公民发布和接受[合同]和[工作团队]，从而允许公民之间执行强制劳动和其他协议。</target>
       </trans-unit>
-      <trans-unit id="5">
-        <source xml:space="preserve">Setting Up a Contract
-</source>
-        <target xml:space="preserve">订立合同
-</target>
+      <trans-unit id="5" xml:space="preserve">
+        <source xml:space="preserve">Setting Up a Contract</source>
+        <target xml:space="preserve" state="translated">订立合同</target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">
 When posting a contract, it may have as many or as few clauses as desired, and each clause can be configured to describe the job requested.  Each clause must be satisfied before the contract is considered complete.
 
@@ -57,47 +47,42 @@ When auto-detection is unchecked, the contractor will click 'Job Finished' when 
 Contracts have a set time length they must be completed within, determined when posting the contract. In addition, contracts can be set to repeat for recurring jobs. When this is enabled, each time a contract is accepted, repetition counter will be reduced by one.
 
 Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract is completed successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure.
-  
-</source>
-        <target xml:space="preserve">在发布合同时，可以根据需要制定任意数量的条款，每个条款都可以制定为描述所请求的工作。必须满足每一项条款合同才会被认定为完成。
+  </source>
+        <target xml:space="preserve" state="translated">
+在发布合同时，可以根据需要制定任意数量的条款，每个条款都可以制定为描述所请求的工作。必须满足每一项条款合同才会被认定为完成。
 
 当“自动接受”被选择时，系统会自动检测到合同的完成。例如，如果一份合同被设定为在两点之间修建一条道路，执行该工作的订约人可以在其侧边菜单中打开该合同，并按下“工作完成”，这将触发检测工作是否确实完成。如果是，合同将按协议交付并自动结束。
 
 “自定义条款”是一种特殊条款，允许玩家用语言描述他们想要做的事情。如果一个合同包含这样的条款，它必须由客户手动批准(自动接受此时不可用)，因为自动检测不能确定何时完成。
 
-当自动检测未启用时，如果订约人认为任务已经完成，他们就可以点击“任务完成”，然后订约人就会接受或拒绝完成任务。没有自动接受的合同要求公民之间有更多的信任，因为不能保证订约人会诚实地接受完成的工作。建议公民在这些情况下使用[Reputation]作为确定声望的一种手段。
+当自动检测未启用时，如果订约人认为任务已经完成，他们就可以点击“任务完成”，然后订约人就会接受或拒绝完成任务。没有自动接受的合同要求公民之间有更多的信任，因为不能保证订约人会诚实地接受完成的工作。建议公民在这些情况下使用[声誉]作为确定声望的一种手段。
 
 合同有一个固定的时间限制，这个限制需在制定合同时确定。此外，可以将合同设置为可重复进行——当启用此功能时，每次接受一个合同时，重复计数器将减少1。
 
-合同有效时，为合同提供的任何款项都会保存在特殊的托管帐户[Bank Account|Bank Accounts]中。 如果合同成功完成，则该款项将转移给订约人，如果失败，则将退还给客户。 订约人也可以收取押金，该押金将由第三方保管，并在成功完成后退还给订约人，或者在失败时退还给客户。
-
-</target>
+合同有效时，为合同提供的任何款项都会保存在特殊的托管帐户[银行账户|银行账户]中。 如果合同成功完成，则该款项将转移给订约人，如果失败，则将退还给客户。 订约人也可以收取押金，该押金将由第三方保管，并在成功完成后退还给订约人，或者在失败时退还给客户。
+  </target>
       </trans-unit>
-      <trans-unit id="7">
-        <source xml:space="preserve">Work Parties
-</source>
-        <target xml:space="preserve">工作组
-</target>
+      <trans-unit id="7" xml:space="preserve">
+        <source xml:space="preserve">Work Parties</source>
+        <target xml:space="preserve" state="translated">工作组</target>
       </trans-unit>
-      <trans-unit id="8">
+      <trans-unit id="8" xml:space="preserve">
         <source xml:space="preserve">
 {Work Parties} can also be posted on a Contract Board, allowing the creation of tasks that can be completed by multiple other citizens, as opposed to contracts which is an agreement between two parties only. Before posting a work party, a citizen must start a work order on a crafting table they own.
 
 After posting a work party, Laborers can join the project at the Contract Board. By default, anyone can join the work party as a laborer, but requirements can be set for individual roles or general requirements for anyone to join. When 'Expand Roles When Full' is checked, space for new laborers to join is created automatically when all roles are filled.
 
 When setting the Work desired, the poster of the work party can decide to hire for labor, resources, or both. Any citizen who contributes to the work party will receive a share of the payment based on the amount of work they provided. By assigning additional Weight to a particular job in a work party, that job will receive a higher share of the payment.
-
 </source>
-        <target xml:space="preserve">
+        <target xml:space="preserve" state="translated">
 [Work Parties]也可以张贴在合同公告板上，允许创建可由其他多个公民完成的任务，而不是仅由两方之间达成协议的合同。在发布工作组之前，公民必须在其拥有的手工桌子上开始工作指令。
 
 发布工作组后，工人可以在合同公告板中加入该项目。默认情况下，任何人都可以以工人的身份加入工作组，但是可以为每个人加入的个人角色或一般要求设置要求。选中“将角色扩展为“满员””后，将在填补所有角色后自动创建新的工人栏位。
 
 在设置所需的工作时，工作组的发布者可以决定雇用劳动力，资源或两者兼而有之。向工作组捐款的任何公民都将根据他们提供的工作量获得一定比例的付款。通过为工作组中的特定工作分配额外的权重，该工作将获得更高的付款份额
-
 </target>
       </trans-unit>
-      <trans-unit id="9">
+      <trans-unit id="9" xml:space="preserve">
         <source xml:space="preserve">
 There are a variety of Payment options for a work party, and multiple payment options can be offered for the same work party.
 
@@ -108,9 +93,8 @@ There are a variety of Payment options for a work party, and multiple payment op
 - When offering {Research} as payment, all citizens who contribute the required amount will instantly discover the technology when the work party is finished. Research can be offered as payment only when the work party is creating a research book or if the citizen offering the work party has the research book in their inventory when posting the work party.
 
 - When granting a {Title|Titles} as payment, the citizen posting the contract must be a title manager for the title being offered. All citizens who contribute the minimum amount will be granted the new title. The Access Type determines if they will become a title manager or title user.
-
 </source>
-        <target xml:space="preserve">
+        <target xml:space="preserve" state="translated">
 工作组有多种支付方式，每个工作组也可以使用多种支付方式。
 
 -使用[Currency]作为支付方式时，可以使用“随用随付”的选项，它将按工人的贡献度来支付，而不是在合同完成时一次性付清。 
@@ -120,57 +104,47 @@ There are a variety of Payment options for a work party, and multiple payment op
 -使用[Research]作为支付方式时，所有参与工作的公民将在工作组结束后立即发现该技术。仅当工作组正在创建研究书时，或者提供工作组的公民在发布工作组时其库存中有研究书时，才可以将研究作为支付方式。 
 
 -授予[Title|Titles]作为支付方式时，发布合同的公民必须是所提供头衔的管理员。所有达到最低贡献值的公民将被授予新头衔。访问类型确定他们是否成为头衔管理员或头衔所有者。
-
 </target>
       </trans-unit>
-      <trans-unit id="10">
-        <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.
-</source>
-        <target xml:space="preserve">合同公告板组件允许公民发布或接受合同以及工作组订单
-</target>
+      <trans-unit id="10" xml:space="preserve">
+        <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.</source>
+        <target xml:space="preserve" state="translated">合同公告板组件允许公民发布或接受合同以及工作组订单.</target>
       </trans-unit>
-      <trans-unit id="11">
+      <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
-  
-</source>
-        <target xml:space="preserve">信用组件允许公民为他们拥有的对象上的所有交易设置货币和银行账户
-  
-</target>
+  </source>
+        <target xml:space="preserve" state="translated">信用组件允许公民为他们拥有的对象上的所有交易设置货币和银行账户.
+  </target>
       </trans-unit>
-      <trans-unit id="12">
+      <trans-unit id="12" xml:space="preserve">
         <source xml:space="preserve">
 When selecting {Bank Accounts}, citizens can select any account they have been granted access to (performed in a {Bank Component}). By default, the citizen's personal account will be selected.
 
 Any of the world's {Currencies|Currency} can be selected in the Credit Component. This is the currency that will be used for any transactions that take place on that object (for example a {Store|Store Component} will accept whatever currency is set here). 
 
-When selecting None for the currency in a store, direct trades are possible without the need for a currency.
+When selecting "None" for the currency in a store, direct trades are possible without the need for a currency.
 
 Objects with a {Crafting Component} can define a fee for authorized citizens to use them. The settings in the Credit Component will determine what currency that fee is charged in and what account the funds are deposited to.
-  
-</source>
-        <target xml:space="preserve">
-选择[Bank Accounts]时，公民可以选择已被授予访问权限的任何帐户（在[Bank Component]中执行）。默认情况下，将选择公民的个人帐户。
+  </source>
+        <target xml:space="preserve" state="translated">
+选择[银行账户]时，公民可以选择已被授予访问权限的任何帐户（在[银行模块]中执行）。默认情况下，将选择公民的个人帐户。
 
-可以在信用组件中选择世界上任何一种[Currencies|Currency]。这将指定对某物品上发生的任何交易时采用的货币（例如[Store|Store Component]将接受此处设置的任何货币）。
+可以在信用组件中选择世界上任何一种[货币|货币]。这将指定对某物品上发生的任何交易时采用的货币（例如[商店|商店组件]将接受此处设置的任何货币）。
 
 当为商店中的货币选择为无时，无需货币就可以进行直接交易。
-</target>
+  </target>
       </trans-unit>
-      <trans-unit id="13">
-        <source xml:space="preserve">The Credit Component allows citizens to set the bank account and currency for transactions on an object.
-</source>
-        <target xml:space="preserve">信用组件允许公民为一个物品上的所有交易设置货币和银行账户。
-</target>
+      <trans-unit id="13" xml:space="preserve">
+        <source xml:space="preserve">The Credit Component allows citizens to set the bank account and currency for transactions on an object.</source>
+        <target xml:space="preserve" state="translated">信用组件允许公民为一个物品上的所有交易设置货币和银行账户.</target>
       </trans-unit>
-      <trans-unit id="14">
+      <trans-unit id="14" xml:space="preserve">
         <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell {Property}.
-  
-</source>
-        <target xml:space="preserve">契据销售组件允许公民购买和出售[Property]
-  
-</target>
+  </source>
+        <target xml:space="preserve" state="translated">契据销售组件允许公民购买和出售[地产].
+  </target>
       </trans-unit>
-      <trans-unit id="15">
+      <trans-unit id="15" xml:space="preserve">
         <source xml:space="preserve">
 By visiting a {Real Estate Desk|Real Estate Desk Item}, citizens can create listings for their deeds and view the listings of other citizens. All posted listings can be accessed from any real estate desk.
 
@@ -179,102 +153,80 @@ When creating a listing, the property owner sets the price and {Currency} used. 
 When buying a deed, the currency will be taken from the bank account selected by the buyer. 
 
 After the property is sold, the deed and all objects contained on the deed are transferred to the new owner. 
-  
-</source>
-        <target xml:space="preserve">
-通过访问[Real Estate Desk|Real Estate Desk Item]，公民可以为其契据创建清单，并查看其他公民的清单。可以从任何房地产服务台查看所有发布的列表。
+  </source>
+        <target xml:space="preserve" state="translated">
+通过访问[房地产办公桌|房地产办公桌物品]，公民可以为其契据创建清单，并查看其他公民的清单。可以从任何房地产服务台查看所有发布的列表。
 
-创建清单时，业主设置价格以及使用的[Currency]。所有收入都将进入所选的[Bank Account|Bank Accounts]。
+创建清单时，业主设置价格以及使用的[货币]。所有收入都将进入所选的[银行账户|银行账户]。
 
 购买契据时，货币将从购买者选择的银行账户中提取。
 
 房产出售后，契据和契据中包含的所有物体均会移交给新所有者。 
-  
-</target>
+  </target>
       </trans-unit>
-      <trans-unit id="16">
-        <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell property.
-</source>
-        <target xml:space="preserve">契据销售组件允许公民购买和出售房产。
-</target>
+      <trans-unit id="16" xml:space="preserve">
+        <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell property.</source>
+        <target xml:space="preserve" state="translated">契据销售组件允许公民购买和出售房产。</target>
       </trans-unit>
-      <trans-unit id="17">
-        <source xml:space="preserve">The Exchange Component allows citizens to trade one {Currency} for another.
-</source>
-        <target xml:space="preserve">货币兑换组件允许公民将一种[Currency]换成另一种货币。
-</target>
+      <trans-unit id="17" xml:space="preserve">
+        <source xml:space="preserve">The Exchange Component allows citizens to trade one {Currency} for another.</source>
+        <target xml:space="preserve" state="translated">货币兑换组件允许公民将一种[货币]换成另一种货币。</target>
       </trans-unit>
-      <trans-unit id="18">
-        <source xml:space="preserve">Exchanging Currency
-</source>
-        <target xml:space="preserve">货币兑换
-</target>
+      <trans-unit id="18" xml:space="preserve">
+        <source xml:space="preserve">Exchanging Currency</source>
+        <target xml:space="preserve" state="translated">货币兑换</target>
       </trans-unit>
-      <trans-unit id="19">
+      <trans-unit id="19" xml:space="preserve">
         <source xml:space="preserve">
 The owner of a {CurrencyExchangeItem} uses the Exchange Component to offer currency exchanges to other citizens. When setting up an exchange, the Owner Currency is the currency being offered for sale. For each unit of owner currency purchased, citizens will be charged the set amount of alternate currency.
 
 When an {Authorized Consumer|Authorization Component} visits the currency exchange, they will see a list of all offered exchanges. By default, all citizens are authorized consumers.
-	
-</source>
-        <target xml:space="preserve">
-[CurrencyExchangeItem] 的所有者可以使用货币兑换组件向其他公民提供货币兑换。设置交易所时，所有者的货币是要出售的货币。对于购买的每单位所有者货币，将向公民收取设定的替代货币金额。
+	</source>
+        <target xml:space="preserve" state="translated">
+[货币兑换项] 的所有者可以使用货币兑换组件向其他公民提供货币兑换。设置交易所时，所有者的货币是要出售的货币。对于购买的每单位所有者货币，将向公民收取设定的替代货币金额。
 
-当[Authorized Consumer|Authorization Component] 访问货币交易所时，他们会看到所有提供兑换的货币列表。默认情况下，所有公民都是授权消费者。
-	
-</target>
+当[授权消费者|授权组件] 访问货币交易所时，他们会看到所有提供兑换的货币列表。默认情况下，所有公民都是授权消费者。
+	</target>
       </trans-unit>
-      <trans-unit id="20">
-        <source xml:space="preserve">Exchange Restrictions
-</source>
-        <target xml:space="preserve">兑换限制
-</target>
+      <trans-unit id="20" xml:space="preserve">
+        <source xml:space="preserve">Exchange Restrictions</source>
+        <target xml:space="preserve" state="translated">兑换限制</target>
       </trans-unit>
-      <trans-unit id="21">
+      <trans-unit id="21" xml:space="preserve">
         <source xml:space="preserve">
 The owner of the Currency Exchange has the option to setup Balance Restrictions. These will prevent citizens from exchanging currency if the amount of currency in the chosen account does not meet the restriction.
 
 The number on the left is the minimum currency holding and the number on the right is the maximum currency holding. If either value for the balance restriction is left at 0, there will be no limit for that part of the balance restriction.
-	
-</source>
-        <target xml:space="preserve">
+	</source>
+        <target xml:space="preserve" state="translated">
 货币兑换组件的所有者可以选择设置余额限制。如果所选帐户中的货币数量不符合限制，将会阻止公民兑换货币。
 
 左边的数字是最小货币持有量，右边的数字是最大货币持有量。如果设置为0，则代表没有限制。
-	
-</target>
+	</target>
       </trans-unit>
-      <trans-unit id="22">
-        <source xml:space="preserve">Allows citizens to setup a currency exchange .
-</source>
-        <target xml:space="preserve">允许公民设立货币交易所。
-</target>
+      <trans-unit id="22" xml:space="preserve">
+        <source xml:space="preserve">Allows citizens to setup a currency exchange .</source>
+        <target xml:space="preserve" state="translated">允许公民设立货币交易所。</target>
       </trans-unit>
-      <trans-unit id="23">
-        <source xml:space="preserve">The Item Distribution Component allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
-</source>
-        <target xml:space="preserve">物品分发组件允许所有者发起慈善捐赠，向新公民提供免费物品，促进前期发展。
-</target>
+      <trans-unit id="23" xml:space="preserve">
+        <source xml:space="preserve">The Item Distribution Component allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.</source>
+        <target xml:space="preserve" state="translated">物品分发组件允许所有者发起慈善捐赠，向新公民提供免费物品，促进前期发展。</target>
       </trans-unit>
-      <trans-unit id="24">
+      <trans-unit id="24" xml:space="preserve">
         <source xml:space="preserve">
 All new citizens who qualify (based on how long they have played) can collect their items by visiting the {DistributionStationItem}. Upon entering the world, new citizens will start with a global map marker to alert them that the items are available. Note that the {Storage Component} must remain stocked with the items being distributed to allow new citizens to collect them.
 
 The owner may designate what items are to be distributed, how many of each item, and how recently the citizen must have joined the world to be eligible.
-  
-</source>
-        <target xml:space="preserve">
-所有符合条件的新公民（根据他们玩了多长时间）都可以访问[DistributionStationItem]来领取他们的物品。进入世界后，新公民将在大地图上看到标记，以提醒他们有物品可领取。请注意，[Storage Component]必须包含所分发的物品，这样新公民才能领取它们。
+  </source>
+        <target xml:space="preserve" state="translated">
+所有符合条件的新公民（根据他们玩了多长时间）都可以访问[配送站项目]来领取他们的物品。进入世界后，新公民将在大地图上看到标记，以提醒他们有物品可领取。请注意，[存储组件]必须包含所分发的物品，这样新公民才能领取它们。
 
 所有者可以指定要分发的物品，每件物品的数量以及公民必须玩多久才能获得领取资格。
-  
-</target>
+  </target>
       </trans-unit>
-      <trans-unit id="25">
-        <source xml:space="preserve">Allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
-</source>
-        <target xml:space="preserve">允许所有者发起慈善捐赠，向新公民提供免费物品，促进前期发展。
-</target>
+      <trans-unit id="25" xml:space="preserve">
+        <source xml:space="preserve">Allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.</source>
+        <target xml:space="preserve" state="translated">允许所有者发起慈善捐赠，向新公民提供免费物品，促进前期发展。</target>
       </trans-unit>
       <trans-unit id="26">
         <source xml:space="preserve">The Mint Component allows citizens to create {Currencies|Currency} which are backed by a resource. 
@@ -283,43 +235,37 @@ The owner may designate what items are to be distributed, how many of each item,
         <target xml:space="preserve">铸币厂组件允许公民创建由资源担保的[Currencies|Currency]。
 </target>
       </trans-unit>
-      <trans-unit id="27">
+      <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">
 When creating a currency at a {MintItem}, a backing item is chosen, as well as an amount of Coins per Item that are generated from each item consumed.  By using a backing item for currency, the total possible amount of currency can be limited to the number of items contributed, thus providing more stability as it becomes harder to flood the market with new currency.  The choice in backing item will affect this, with more rare items generally providing more stability by being harder to obtain.
 
 The backing material and coins per item are permanent, so be careful when deciding how to back a currency. Once a currency is minted, it will become tied to the mint it was created on, even if that mint is picked up.
 
 Citizens who have been granted consumer rights in the {Authorization Component} can use the Mint Component to mint additional currency. Currency can be minted into the target {Bank Account|Bank Accounts} selected by the mint owner, or any bank account the citizen minting has access to in the {Bank Component}.
-  
-</source>
-        <target xml:space="preserve">
-在[MintItem]创建货币时，必须选择一种物品作为担保，以及消耗没单位物品生成的货币数量。通过设置担保物，可以将可能的货币总量限制为所提供担保物的数量，避免大量新货币冲击市场从而保证稳定性。选择的担保物会影响这一点，因为更稀有物品通常更难获得，因此可以提供更高的稳定性。
+  </source>
+        <target xml:space="preserve" state="translated">
+在[铸币厂]创建货币时，必须选择一种物品作为担保，以及消耗没单位物品生成的货币数量。通过设置担保物，可以将可能的货币总量限制为所提供担保物的数量，避免大量新货币冲击市场从而保证稳定性。选择的担保物会影响这一点，因为更稀有物品通常更难获得，因此可以提供更高的稳定性。
 
 每个担保物对应的货币数量是永久性的，因此在选择担保物时请多加注意。货币铸造后，铸币厂将会与创建的货币绑定，即便铸币厂被移动。
 
-在[Authorization Component]中被授予使用权利的公民可以使用铸币厂组件铸造其他货币。可以将货币铸造到所有者选择的目标[Bank Account|Bank Accounts]中，也可以铸造给任何[Bank Component]中公民可以访问的银行账户中。
-  
-</target>
+在[权限组件]中被授予使用权利的公民可以使用铸币厂组件铸造其他货币。可以将货币铸造到所有者选择的目标[银行账户|银行账户]中，也可以铸造给任何[银行组件]中公民可以访问的银行账户中。
+  </target>
       </trans-unit>
-      <trans-unit id="28">
-        <source xml:space="preserve">Allows citizens to create and print backed currencies.
-</source>
-        <target xml:space="preserve">允许公民创建和铸造担保货币。
-</target>
+      <trans-unit id="28" xml:space="preserve">
+        <source xml:space="preserve">Allows citizens to create and print backed currencies.</source>
+        <target xml:space="preserve" state="translated">允许公民创建和铸造担保货币。</target>
       </trans-unit>
-      <trans-unit id="29">
+      <trans-unit id="29" xml:space="preserve">
         <source xml:space="preserve">
 The Store Component allows citizens to set items they wish to buy from and sell to other citizens. These actions can happen automatically, not requiring the store owner to be online.
-  
-</source>
-        <target xml:space="preserve">
+  </source>
+        <target xml:space="preserve" state="translated">
 商店组件允许公民设置他们希望从购买或出售的物品。这些操作可以自动发生，不需要商店所有者在线。
-  
-</target>
+  </target>
       </trans-unit>
-      <trans-unit id="30">
+      <trans-unit id="30" xml:space="preserve">
         <source xml:space="preserve">
-The currency and bank account selected in the {Credit Component} will be used for all transactions at the store. When selecting None for the currency in a store, direct trades are possible that are not subject to sales tax. 
+The currency and bank account selected in the {Credit Component} will be used for all transactions at the store. When selecting "None" for the currency in a store, direct trades are possible that are not subject to sales tax. 
  
 A store owner can link specific containers in the {Storage Component} to pick which items are considered part of the store's inventory. By default, all nearby storage containers are linked to the store when it is first placed.
 
@@ -328,41 +274,40 @@ When creating a Sale List, only the price needs to be set. The inventory for a S
 When creating a Purchase List, the price and Max to Buy quantity for each item must be decided. If the Max to Buy quantity is left at zero, the store will continue to purchase items until the linked containers are full. If a Max to Buy quantity is specified, citizens can sell that item until the linked storage contains that amount.
 
 For tools with durability, a minimum durability to buy/sell can be set, and only items of that durability or higher will be eligible for trade via the store.
+ </source>
+        <target xml:space="preserve" state="translated">
+在{信用组件}中选择的货币和银行账户将用于商店的所有交易。当在商店中选择货币为“无”时，可以进行直接交易，且交易金额无需缴纳销售税。 
  
-</source>
-        <target xml:space="preserve">
-在[Credit Component]中选择的货币和银行账户将用于商店中的所有交易。当为商店中的货币选择为“无”时，可以进行不需缴纳营业税的直接交易。 
-</target>
+商店所有者可以将{存储组件}中的特定容器关联起来，以选择哪些物品被视为商店库存的一部分。默认情况下，所有附近的存储容器在首次放置时都会与商店关联。
+
+在创建销售清单时，只需设置价格。销售清单的库存量将根据关联存储容器中的物品可用量自动确定。
+
+在创建采购清单时，必须确定每件商品的价格和最大采购量。如果最大采购量设为零，则商店将继续采购商品，直至关联的容器装满。如果指定了最大采购量，则市民可以出售该商品，直至关联的仓库达到该数量。
+
+对于具有耐久性的工具，可以设定一个最低的耐久性购买/出售标准，只有达到或超过该标准的物品才有资格通过商店进行交易。
+ </target>
       </trans-unit>
-      <trans-unit id="32">
-        <source xml:space="preserve">Sets up an interface for other citizens to buy and sell goods from/to you automatically.
-</source>
-        <target xml:space="preserve">为其他公民设置一个界面，可供与你之间自动购买和销售货物。
-</target>
+      <trans-unit id="32" xml:space="preserve">
+        <source xml:space="preserve">Sets up an interface for other citizens to buy and sell goods from/to you automatically.</source>
+        <target xml:space="preserve" state="translated">为其他公民设置一个界面，可供与你之间自动购买和销售货物。</target>
       </trans-unit>
-      <trans-unit id="33">
-        <source xml:space="preserve">Components related to the government.
-</source>
-        <target xml:space="preserve">与公会相关的组件。
-</target>
+      <trans-unit id="33" xml:space="preserve">
+        <source xml:space="preserve">Components related to the government.</source>
+        <target xml:space="preserve" state="translated">与公会相关的组件。</target>
       </trans-unit>
-      <trans-unit id="34">
+      <trans-unit id="34" xml:space="preserve">
         <source xml:space="preserve">
 The Civic Action Component allows citizens to participate in {Elections}, perform {Executive Actions}, and resign from office, depending on which object is being used.
-
 </source>
-        <target xml:space="preserve">
-公民行动组件允许公民参与[Elections]，执行[Executive Actions] 以及辞职，这取决于所使用的对象。
-
+        <target xml:space="preserve" state="translated">
+公民行动组件允许公民参与[选举]，执行[行政命令] 以及辞职，这取决于所使用的对象。
 </target>
       </trans-unit>
-      <trans-unit id="35">
-        <source xml:space="preserve">Participating in Elections
-</source>
-        <target xml:space="preserve">参加推选
-</target>
+      <trans-unit id="35" xml:space="preserve">
+        <source xml:space="preserve">Participating in Elections</source>
+        <target xml:space="preserve" state="translated">参与选举</target>
       </trans-unit>
-      <trans-unit id="36">
+      <trans-unit id="36" xml:space="preserve">
         <source xml:space="preserve">
 When using the Civic Action Component at a {Ballot Box|Ballot Box Item}, citizens can run for {Elected Titles} and participate in elections. 
 
@@ -371,168 +316,144 @@ By pressing the Vote button, players are redirected to the web interface where t
 Citizens who have been granted Veto power in the current {Election Process|Election Processes} can instantly overturn an election.
 
 To run for elected titles, first an eligible citizen must use the Start Election action. Once an election has started, eligible citizens can select Enter Election to join the race and give a campaign speech. Candidates can opt to Withdraw from Election at any time using the option available on a Ballot Box.
-
 </source>
-        <target xml:space="preserve">
-在[Ballot Box|Ballot Box Item] 使用公民行动组件时，公民可以推选[Elected Titles] 并参加推选。通过按下“投票”按钮，玩家将被重定向到网络界面，在这里他们可以查看所有正在进行的[Elections]（推选），与他们的同胞讨论，使用[Data] 提供论证证据并投票。在当前的[Election Process|Election Processes] 中获得否决权的公民可以立即颠覆推选。要推选民选头衔，首先，符合条件的公民必须使用“开始推选”行动。推选开始后，符合条件的公民可以选择“参加推选”参加比赛并发表推选演讲。候选人可以随时使用投票箱上的选项选择退出推选。
+        <target xml:space="preserve" state="translated">
+在{投票箱|投票箱项目}中使用公民行动组件时，公民可以竞选{民选职位}并参与选举。 
 
+点击“投票”按钮后，玩家将被重定向至网页界面，在那里他们可以查看所有正在进行的{选举}，与他们的公民同胞进行讨论，使用{数据}为自己的论点提供证据，并进行投票。  
+
+在当前{选举流程|选举流程}中被授予否决权的公民，可以立即推翻选举结果。
+
+要竞选公职，首先，符合条件的公民必须使用“开始选举”操作。选举一旦开始，符合条件的公民可以选择“参加选举”来加入竞选并发表竞选演讲。候选人可以随时使用投票箱上的选项选择“退出选举”。
 </target>
       </trans-unit>
-      <trans-unit id="37">
-        <source xml:space="preserve">Performing Executive Actions
-</source>
-        <target xml:space="preserve">执行行政行动
-</target>
+      <trans-unit id="37" xml:space="preserve">
+        <source xml:space="preserve">Performing Executive Actions</source>
+        <target xml:space="preserve" state="translated">执行行政行动</target>
       </trans-unit>
-      <trans-unit id="38">
+      <trans-unit id="38" xml:space="preserve">
         <source xml:space="preserve">
 Using the Civic Action Component at an {Executive Office|Executive Office Item} allows an elected title to perform one-time executive actions that affect a set of citizens.
 
 The Citizen Conditions dictate which citizens the executive action applies to, and multiple conditions can be set for a citizen to qualify. To perform an action for all citizens, use the {Demographic} ‘Everyone’ as the citizen condition.
 
 The Action on Each Citizen will take effect as soon as the executive action is approved. Multiple actions can be performed at once for each citizen who meets the conditions.
-
 </source>
-        <target xml:space="preserve">
-通过在[Executive Office|Executive Office Item] 使用公民行动组件，可以使民选职务执行一次影响一系列公民的行政行动。公民条件规定了行政行为适用于哪些公民，并且可以为公民设定质量的多个条件。要对所有公民执行某项操作，请使用[Demographic]“所有人”作为公民条件。一旦批准行政行动，对每个公民的行动将立即生效。每个符合条件的公民可以一次执行多项行动。
+        <target xml:space="preserve" state="translated">
+在{行政办公室|行政办公室项目}中使用公民行动组件，允许当选的头衔执行影响一组公民的一次性行政行动。
 
+公民条件规定了行政行为适用于哪些公民，可以为公民设定多种条件以获得资格。要为所有公民执行行动，请使用{人口统计}中的“每个人”作为公民条件。
+
+关于每个公民的行动将在行政行动获得批准后立即生效。每个符合条件的公民都可以同时执行多项操作。
 </target>
       </trans-unit>
-      <trans-unit id="39">
-        <source xml:space="preserve">Government Office Actions
-</source>
-        <target xml:space="preserve">公会的行动
-</target>
+      <trans-unit id="39" xml:space="preserve">
+        <source xml:space="preserve">Government Office Actions</source>
+        <target xml:space="preserve" state="translated">政府办公室行动</target>
       </trans-unit>
-      <trans-unit id="40">
+      <trans-unit id="40" xml:space="preserve">
         <source xml:space="preserve">
 At the {Government Office|Government Office Item}, the Civic Action Component allows elected titles to resign or remove other elected titles from office.
 
 The Resign from Office action allows any elected official to step down from their position. If a Successor title was assigned to the Elected Title when it was created, a new official will be randomly selected from all citizens holding that title; otherwise the Elected Title becomes vacant.
 
 The Remove Official from Office action allows citizens who have been given the authority to remove elected titles from office. The same rules for finding a successor apply as if the official resigned.
-
 </source>
-        <target xml:space="preserve">
-在[Government Office|Government Office Item]，公民行动组件允许民选职务辞职或将其他民选职务撤职。 “辞职”行动使任何当选官员都能辞职。如果创建后继头衔分配给当选头衔，将从拥有该头衔的所有公民中随机选出新官员；否则，当选头衔将空缺。 “罢免官员”行动允许已被授予权力的公民将当选头衔免职。寻找继任者的规则与正式辞职时相同。
+        <target xml:space="preserve" state="translated">
+在{政府办公室|政府办公室项目}中，公民行动部分允许当选头衔辞职或罢免其他当选头衔。
 
+辞职行动允许任何当选官员辞职。如果在创建当选头衔时为其分配了继承人头衔，则将从持有该头衔的所有公民中随机选出一名新官员；否则，当选头衔将空缺。
+
+罢免官员行动允许有权罢免当选职务的公民。寻找继任者的规则与官员辞职一样适用。
 </target>
       </trans-unit>
-      <trans-unit id="41">
-        <source xml:space="preserve">Allows citizens to participate in elections and perform executive actions.
-</source>
-        <target xml:space="preserve">允许公民参加推选和执行行政行为。
-</target>
+      <trans-unit id="41" xml:space="preserve">
+        <source xml:space="preserve">Allows citizens to participate in elections and perform executive actions.</source>
+        <target xml:space="preserve" state="translated">允许公民参加推选和执行行政行为。</target>
       </trans-unit>
-      <trans-unit id="42">
+      <trans-unit id="42" xml:space="preserve">
         <source xml:space="preserve">    
-The Civic Object Component allows citizens to propose, amend, and repeal various Civic Objects. 
-</source>
-        <target xml:space="preserve">    
-公民对象组件允许公民提议，修改和废除各种公民对象。 
-</target>
+The Civic Object Component allows citizens to propose, amend, and repeal various Civic Objects. </source>
+        <target xml:space="preserve" state="translated">    
+公民对象组件允许公民提议，修改和废除各种公民对象。 </target>
       </trans-unit>
-      <trans-unit id="43">
-        <source xml:space="preserve">Civic Duties
-</source>
-        <target xml:space="preserve">公民职责
-</target>
+      <trans-unit id="43" xml:space="preserve">
+        <source xml:space="preserve">Civic Duties</source>
+        <target xml:space="preserve" state="translated">公民职责</target>
       </trans-unit>
-      <trans-unit id="44">
-        <source xml:space="preserve">Within a Civic Object Component, you will see a list of your {Civic Duties}. This informs the citizen what permissions they have regarding civic objects, given the current {Constitution}.The possibilities of different civic duties are:
-</source>
-        <target xml:space="preserve">在“公民对象”组件中，你将看到[Civic Duties]的列表。鉴于目前的[Constitution]，这将告知公民他们对公民物品具有哪些许可:
-</target>
+      <trans-unit id="44" xml:space="preserve">
+        <source xml:space="preserve">Within a Civic Object Component, you will see a list of your {Civic Duties}. This informs the citizen what permissions they have regarding civic objects, given the current {Constitution}.The possibilities of different civic duties are:</source>
+        <target xml:space="preserve" state="translated">在“公民对象”组件中，你将看到[公民责任]的列表。鉴于目前的[宪法]，这将告知公民他们对公民物品具有哪些许可:</target>
       </trans-unit>
-      <trans-unit id="45">
-        <source xml:space="preserve">The Civic Object Component allows citizens to propose, amend, and repeal civic objects.
-</source>
-        <target xml:space="preserve">公民对象组件允许公民提议，修改和废除公民对象。
-</target>
+      <trans-unit id="45" xml:space="preserve">
+        <source xml:space="preserve">The Civic Object Component allows citizens to propose, amend, and repeal civic objects.</source>
+        <target xml:space="preserve" state="translated">公民对象组件允许公民提议，修改和废除公民对象。</target>
       </trans-unit>
-      <trans-unit id="46">
-        <source xml:space="preserve">The Registrar Component allows for the creation and management of non-elected {Titles}.  These titles can be used for many of the same purposes as {Elected Titles}, but they are appointed at the Registrar.
-</source>
-        <target xml:space="preserve">登记员组件允许创建和管理非推选[Titles]。这些头衔可用于与[Elected Titles] 相同的目的，但它们是由书记官长任命的。
-</target>
+      <trans-unit id="46" xml:space="preserve">
+        <source xml:space="preserve">The Registrar Component allows for the creation and management of non-elected {Titles}.  These titles can be used for many of the same purposes as {Elected Titles}, but they are appointed at the Registrar.</source>
+        <target xml:space="preserve" state="translated">登记员组件允许创建和管理非推选[头衔]。这些头衔可用于与[当选头衔] 相同的目的，但它们是由书记官长任命的。</target>
       </trans-unit>
-      <trans-unit id="47">
-        <source xml:space="preserve">Assigning Titles
-</source>
-        <target xml:space="preserve">分配头衔
-</target>
+      <trans-unit id="47" xml:space="preserve">
+        <source xml:space="preserve">Assigning Titles</source>
+        <target xml:space="preserve" state="translated">分配头衔</target>
       </trans-unit>
-      <trans-unit id="48">
+      <trans-unit id="48" xml:space="preserve">
         <source xml:space="preserve">Title Managers can rename the title and assign new managers and title holders. Title Managers are not considered Title Users.
 
 Title Users are the citizens considered title holders and receive all associated benefits and conditions.
-	
-</source>
-        <target xml:space="preserve">头衔管理员可以重命名头衔并分配新的管理员和头衔持有者。头衔管理员不被视为头衔用户。所有权使用者是被视为所有权持有人的公民，并会获得所有相关的利益和条件。
-	
-</target>
+	</source>
+        <target xml:space="preserve" state="translated">产权管理员可以重命名产权，并指派新的管理员和产权持有人。产权管理员不被视为产权用户。
+
+产权用户是指被视为产权持有人的公民，他们享有所有相关的权益并受相关条款约束。
+	</target>
       </trans-unit>
-      <trans-unit id="49">
-        <source xml:space="preserve">Advanced Settings
-</source>
-        <target xml:space="preserve">高级设置
-</target>
+      <trans-unit id="49" xml:space="preserve">
+        <source xml:space="preserve">Advanced Settings</source>
+        <target xml:space="preserve" state="translated">高级设置</target>
       </trans-unit>
-      <trans-unit id="50">
+      <trans-unit id="50" xml:space="preserve">
         <source xml:space="preserve">
 In the Advanced Settings, requirements for title holders can be set, and hourly wages can be assigned to title holders who qualify.
   
 When deciding what is Required of Office Holders, a variety of conditions can be set. If a citizen fails to maintain these requirements, they will lose their assignment as a Title User. By using a 'Set of Conditions', multiple requirements can be set for title holders.
  
 Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title Manager has been given permission to use in the {Bank Component}. Wages are paid each hour (depending on World settings) into the personal account of each Title User. The Wage Type can be used to exclude offline hours from wage payments.
-	
-</source>
-        <target xml:space="preserve">
-在“高级设置”中，可以设置头衔持有者的要求，并且可以将小时工资分配给有资格的头衔持有者。在确定办公室持有人需要什么时，可以设置各种条件。如果公民未能遵守这些要求，他们将失去其作为“头衔用户”的分配。通过使用“一组条件”，可以为头衔持有者设置多个要求。工资是从头衔管理者已被允许在[Bank Component] 中使用的任何[Bank Account|Bank Accounts] 中支付给头衔用户的。每小时（取决于世界设置）将工资支付给每个头衔用户的个人帐户。工资类型可用于从工资中排除离线时间。
-	
-</target>
+	</source>
+        <target xml:space="preserve" state="translated">
+在“高级设置”中，可以设定头衔持有者的要求，并为符合条件的头衔持有者分配时薪。
+  
+在决定“对职务持有者的要求”时，可以设置多种条件。如果公民未能满足这些要求，他们将失去作为头衔用户的资格。通过使用“条件集”，可以为头衔持有者设定多项要求。
+ 
+薪资将从头衔管理员在{银行组件}中获准使用的任何{银行账户|银行账户}中支付给头衔用户。薪资每小时（取决于世界设置）支付至每位头衔用户的个人账户。可通过“薪资类型”设置将离线时间排除在薪资支付之外。
+	</target>
       </trans-unit>
-      <trans-unit id="51">
-        <source xml:space="preserve">Allows creation and management of non-elected titles.
-</source>
-        <target xml:space="preserve">允许创建和管理非推选头衔。
-</target>
+      <trans-unit id="51" xml:space="preserve">
+        <source xml:space="preserve">Allows creation and management of non-elected titles.</source>
+        <target xml:space="preserve" state="translated">允许创建和管理非推选头衔。</target>
       </trans-unit>
-      <trans-unit id="52">
-        <source xml:space="preserve">The Treasury Component allows {Elected Titles} that have been granted the right to 'Set Taxes at the Treasury' to adjust the tax rate and select the World Default Currency.
-</source>
-        <target xml:space="preserve">金库组件允许已被授予“在金库设置税款”的权利的[Elected Titles] 调整税率并选择“世界默认货币”。
-</target>
+      <trans-unit id="52" xml:space="preserve">
+        <source xml:space="preserve">The Treasury Component allows {Elected Titles} that have been granted the right to 'Set Taxes at the Treasury' to adjust the tax rate and select the World Default Currency.</source>
+        <target xml:space="preserve" state="translated">金库组件允许已被授予“在金库设置税款”的权利的[选定头衔] 调整税率并选择“世界默认货币”。</target>
       </trans-unit>
-      <trans-unit id="53">
-        <source xml:space="preserve">Taxes
-</source>
-        <target xml:space="preserve">税
-</target>
+      <trans-unit id="53" xml:space="preserve">
+        <source xml:space="preserve">Taxes</source>
+        <target xml:space="preserve" state="translated">税</target>
       </trans-unit>
-      <trans-unit id="54">
-        <source xml:space="preserve">After {Taxes} are set in the Treasury Component, they are automatically applied to all relevant transactions. All revenue goes into the Treasury {Bank Account|Bank Accounts}. Elected titles that have the setting 'Government Banking Privileges' can transact directly from the Treasury account (allowing selection of the account within the {Credit Component}).  Money can also come out of the treasury via {Laws} that make payments to citizens.
-</source>
-        <target xml:space="preserve">在“金库组件”中设置[Taxes] 后，它们会自动应用于所有相关交易。所有收入都进入金库[Bank Account|Bank Accounts]。具有“公会银行特权”设置的选定头衔可以直接从金库帐户进行交易（允许在[Credit Component] 中选择该帐户）。钱也可以通过[Laws] 从金库中出来，向公民付款。
-</target>
+      <trans-unit id="54" xml:space="preserve">
+        <source xml:space="preserve">After {Taxes} are set in the Treasury Component, they are automatically applied to all relevant transactions. All revenue goes into the Treasury {Bank Account|Bank Accounts}. Elected titles that have the setting 'Government Banking Privileges' can transact directly from the Treasury account (allowing selection of the account within the {Credit Component}).  Money can also come out of the treasury via {Laws} that make payments to citizens.</source>
+        <target xml:space="preserve" state="translated">在“国库组件”中设置{税项}后，这些税项将自动应用于所有相关交易。所有收入均汇入国库的{银行账户|银行账户群}。拥有“政府银行特权”设置的当选职位可直接从国库账户进行交易（允许在{信贷组件}中选择该账户）。  资金也可通过向公民支付款项的{法律}从国库中流出。</target>
       </trans-unit>
-      <trans-unit id="55">
-        <source xml:space="preserve">World Default Currency
-</source>
-        <target xml:space="preserve">世界默认货币
-</target>
+      <trans-unit id="55" xml:space="preserve">
+        <source xml:space="preserve">World Default Currency</source>
+        <target xml:space="preserve" state="translated">世界默认货币</target>
       </trans-unit>
-      <trans-unit id="56">
-        <source xml:space="preserve">The World Default Currency is the default {Currency} used when placing a new object that contains the Credit Component. Citizens can still choose to use any currency in a {Trade}, but having a World Default Currency makes it is easier to establish an economy with a common currency.
-</source>
-        <target xml:space="preserve">世界默认货币是放置包含信用成分的新对象时使用的默认[Currency]。公民仍然可以选择使用[Trade]中的任何货币，但是拥有世界默认货币可以更轻松地建立具有通用货币的经济。
-</target>
+      <trans-unit id="56" xml:space="preserve">
+        <source xml:space="preserve">The World Default Currency is the default {Currency} used when placing a new object that contains the Credit Component. Citizens can still choose to use any currency in a {Trade}, but having a World Default Currency makes it is easier to establish an economy with a common currency.</source>
+        <target xml:space="preserve" state="translated">世界默认货币是放置包含信用成分的新对象时使用的默认[货币]。公民仍然可以选择使用[贸易]中的任何货币，但是拥有世界默认货币可以更轻松地建立具有通用货币的经济。</target>
       </trans-unit>
-      <trans-unit id="57">
-        <source xml:space="preserve">Direct Taxes
-</source>
-        <target xml:space="preserve">直接税
-</target>
+      <trans-unit id="57" xml:space="preserve">
+        <source xml:space="preserve">Direct Taxes</source>
+        <target xml:space="preserve" state="translated">直接税</target>
       </trans-unit>
       <trans-unit id="58">
         <source xml:space="preserve">Elected Titles with rights to 'Set Taxes at the Treasury' can tax or allocate funds directly from citizens. This is done through managing the desired currency and selecting which citizens the action will apply to. An elected title must always give a reason why they are performing this action that is displayed to all citizens.
