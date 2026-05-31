@@ -704,7 +704,7 @@
       </trans-unit>
       <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">TwitchVotes</target>
+        <target xml:space="preserve" state="translated">Votes des Twitch</target>
       </trans-unit>
       <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
