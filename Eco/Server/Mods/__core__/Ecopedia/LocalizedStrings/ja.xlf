@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
-        <target xml:space="preserve" state="translated">銀行コンポーネントは [Bank Accounts] が作成および管理される場所です。 国民は自分用に複数の口座を作成したり、他の国民と口座を共有したりできます。 口座を [Titles] と [Demographics] に割り当てることもできます。</target>
+        <target xml:space="preserve" state="translated">銀行コンポーネントは [Bank Accounts] が作成および管理される場所です。 市民は自分用に複数の口座を作成したり、他の市民と口座を共有したりできます。 口座を [Titles] と [Demographics] に割り当てることもできます。</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Account Users can perform transactions using the account (adding and removing funds).
@@ -18,9 +18,9 @@ Account Managers can change the users in both the manager list and the user list
 In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
         <target xml:space="preserve" state="translated">口座のユーザーは、その口座を使用して取引(資金の追加と削除) が出来ます。
 
-口座管理者は、管理者リストとユーザーリストの両方でユーザーを変更したり、口座の名前を変更したり、トランザクションを実行したりできます。
+口座管理者は、管理者リストとユーザーリストの両方でユーザーを変更したり、口座の名前を変更したり、取引を実行したりできます。
 
-詳細設定では、口座を政府口座として設定できます。 政府口座は税金の受け取りと支払いが可能ですが、徴税や個人資産の計算では無視されます。 これを設定するには、[Elected Title|Elected Titles] によって割り当てられた政府銀行権限が必要です。</target>
+詳細設定では、口座を政府口座として設定できます。 政府口座は税金の受け取りと支払いが可能ですが、徴税や個人資産の計算では無視されます。 政府口座を設定するには、[Elected Title|Elected Titles] によって政府銀行管理権限を割り当てられている必要があります。</target>
       </trans-unit>
       <trans-unit id="3" xml:space="preserve">
         <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
@@ -28,7 +28,7 @@ In the Advanced Settings, you can set the account as a Government Account.  Gove
       </trans-unit>
       <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.</source>
-        <target xml:space="preserve" state="translated">契約掲示板コンポーネントは、国民が [Contracts] と [Work Parties] を投稿および受諾できるようになり、国民間の強制労働やその他の協定が可能になります。</target>
+        <target xml:space="preserve" state="translated">契約掲示板コンポーネントは、市民が [Contracts] と [Work Parties] を投稿および受諾できるようになり、市民間の強制労働やその他の協定が可能になります。</target>
       </trans-unit>
       <trans-unit id="5" xml:space="preserve">
         <source xml:space="preserve">Setting Up a Contract</source>
@@ -49,17 +49,17 @@ Contracts have a set time length they must be completed within, determined when 
 Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract is completed successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure.
   </source>
         <target xml:space="preserve" state="translated">
-契約書を投稿する場合、契約書には必要な数の条項を含めることができ、各条項は要求された仕事を説明するように構成できます。 契約が完了したとみなされる前に、各条項が満たされている必要があります。
+契約書を投稿する場合、契約書にはひとつまたは複数の条項を含めることができ、各条項は作業の依頼内容を設定できます。すべの条項が満たされて初めて契約は完了とみなされます。
 
-「自動承諾」にチェックを入れると、契約の完了がシステムによって自動検出されます。 たとえば、2 地点間に道路を建設するように契約が設定されている場合、作業を実行する請負業者はサイド メニューで契約を開き、[ジョブ終了] を押すと、ジョブが実際に完了したかどうかの検出がトリガーされます。 その場合、契約は契約に従って支払われ、自動的に終了します。
+「自動承諾」が有効な場合、契約が完了しているかどうかはシステムによって自動検出されます。 たとえば、2 地点間に道路を建設するような契約であれば、作業者はサイドメニューから契約を開き [作業完了] を押すと、本当に作業が完了したかどうかがチェックされます。 作業が完了していた場合契約に定められていた報酬が支払われ、契約は自動的に終了します。
 
-「カスタム条項」は、プレイヤーがやってほしいことを言葉で説明できる特別な条項です。 契約にそのような条項が含まれている場合、自動検出では終了時期を判断できないため、クライアントが手動で承認する必要があります (自動承諾がチェックされていない場合があります)。
+「カスタム条項」は、プレイヤーが依頼内容を文章で自由に記述できる特別な条項です。この条項を含む 契約では自動承認を有効にすることはできず、クライアントが手動で承認する必要があります 。
   
-自動検出のチェックが外されている場合、請負業者はジョブが完了したと判断した場合に「ジョブ完了」をクリックし、完了を承認または拒否します。 自動承諾のない契約では、請負業者が完了した仕事を正直に承諾する保証がないため、国民間のさらなる信頼が必要になります。 市民は、このような状況において信頼性を判断する手段として [Reputation] を使用することをお勧めします。
+自動検出が無効な場合、作業者は「作業完了」をクリックして完了を申告し、クライアントが承認または却下します。 自動承諾のない契約では、作業者が正直に完了を申告している保証がないため、市民間の信頼がより重要になります。 このような状況では、信頼性の判断材料として [Reputation] を活用することが推奨されます。
 
-契約には期限内に完了しなければならない設定期間があり、契約書の発行時に決定されます。 さらに、定期的なジョブに対して契約を繰り返すように設定できます。これを有効にすると、契約が受け入れられるたびに、カウンタが 1ずつ減ります。
+契約には投稿時に設定される「完了期限」があります。 さらに、契約を定期的に繰り返す設定にすることもできます。これを有効にすると、契約が受諾されるたびに繰り返し回数が 1減ります。
 
-契約に対して提供された支払いは、契約が有効である間、特別なエスクロー [Bank Account|Bank Accounts] に保管されます。 契約が正常に完了した場合、その支払いは請負人に送金され、失敗した場合はクライアントに返金されます。 請負人が手付金を徴収することもでき、これはエスクローに保管され、正常に完了した場合には請負人に返金され、失敗した場合にはクライアントに渡されます。
+契約に提示された支払いは、契約が有効である間、特別なエスクロー用 [Bank Account|Bank Accounts] に保管されます。 契約がうまく完了した場合、その支払いは作業者に送金され、失敗した場合はクライアントに返金されます。 また作業者が保証金を預けることもでき、これもエスクローに保管されます。保証金は契約が成功すれば作業者に返金され、失敗すればクライアントに渡ります。
   </target>
       </trans-unit>
       <trans-unit id="7" xml:space="preserve">
@@ -75,11 +75,11 @@ After posting a work party, Laborers can join the project at the Contract Board.
 When setting the Work desired, the poster of the work party can decide to hire for labor, resources, or both. Any citizen who contributes to the work party will receive a share of the payment based on the amount of work they provided. By assigning additional Weight to a particular job in a work party, that job will receive a higher share of the payment.
 </source>
         <target xml:space="preserve" state="translated">
-[Work Parties] は契約掲示板に投稿することもでき、2者間のみの合意である契約とは対照的に、他の複数の国民が完了できるタスクを作成できます。 協働依頼を投稿する前に、国民は自分が所有する作業テーブルで作業指示を開始する必要があります。
+[Work Parties] は契約掲示板に投稿することもでき、複数の市民が参加して完了できるタスクを作成できます。これは2者間のみの合意である契約とは異なる仕組みです。ワークパーティを投稿する前に、市民は自分が所有する作業台でワークオーダーを出しておく必要があります。
 
-協働依頼を投稿した後、労働者は契約委員会でプロジェクトに参加できます。 デフォルトでは、誰でも労働者として協働依頼に参加できますが、個々の役割または誰でも参加できる一般的な要件に対して要件を設定できます。 「満員時に役割を拡張」がチェックされている場合、すべての役割が満たされたときに、新しい労働者が参加するためのスペースが自動的に作成されます。
+ワークパーティが投稿されると、労働者は契約掲示板からプロジェクトに参加できます。 デフォルトでは誰でも労働者としてワークパーティに参加できますが、役割ごとの参加条件や、参加者全員に共通する条件を設定することもできます。「役割が埋まったら自動で枠を拡張」を有効にすると、すべての役割が埋まったときに新しい労働枠が自動的に作成されます。
 
-希望する作業を設定するとき、協働依頼の投稿者は、労働力、リソース、またはその両方を雇用することを決定できます。 協働依頼に貢献した国民は、提供した作業量に基づいて支払いの一部を受け取ります。 協働依頼内の特定のジョブに追加の報酬を割り当てると、その職業がより多くの支払いを受け取ります。
+必要な作業内容を設定するとき、投稿者はその募集内容を「労働」「資源」あるいは「その両方」から選べます。ワークパーティに貢献した市民は、提供した作業量に応じて報酬の分配を受け取ります。特定の作業に比重を追加すると、その作業を担当した労働者はより多くの報酬を受け取ることができます。
 </target>
       </trans-unit>
       <trans-unit id="9" xml:space="preserve">
@@ -539,13 +539,13 @@ By adding an upgrade in the {Modules Component}, work orders on a crafting table
 If a project is cancelled early (by right clicking the order), the resources will be refunded but the spent labor will be lost.
   </source>
         <target xml:space="preserve" state="translated">
-作成するアイテムと数量を選択した後、プロジェクトを開始するにはリソースと労働力が必要です。 これらのリソースは、手動で追加するか (作業テーブルに直接配置する)、またはリソースを含む[Storage Component] を接続することで追加できます。
+クラフトするアイテムと数量を選択すると、プロジェクトを開始するために資源と労働力が必要になります。 これらの資源は、手動で作業台に直接追加するか、必要な資源を含む[Storage Component] をリンクすることで追加できます。
 
-関連する [Specialty|Specialties] を持つ国民は、労働力を追加するために必要なカロリーが少なくなります。 一部のプロジェクトでは、対応する専門分野を持つ国民の熟練した労働力が必要です。 この削減は作業命令の開始後に適用されるため、さまざまなスキル レベルの国民が同じ作業依頼に貢献できます。
+関連する [Specialty|Specialties] を持つ市民は、少ないカロリーで労働力を追加することができます。 一部のプロジェクトでは、対応する専門分野を持つ市民による熟練労働力が必要です。このカロリー軽減効果はワークオーダー開始後に適用されるため、さまざまなスキル レベルの市民が同じワークパーティに貢献できます。
 
-[Modules Component] にアップグレードを追加すると、作業テーブルでの作業指示書の作成時間とリソース コストが削減されます。
+[Modules Component] にアップグレードを追加すると、その作業台のワークオーダーはクラフトにかかる時間が短くなり、少ない資源コストで済むようになります。
 
-プロジェクトが早期に (注文を右クリックして) キャンセルされた場合、リソースは返金されますが、費やした労働力は失われます。
+プロジェクトを途中でキャンセルした場合 (ワークオーダーを右クリック)、資源は返却されますが費やした労働力は失われます。
   </target>
       </trans-unit>
       <trans-unit id="70" xml:space="preserve">
@@ -559,9 +559,9 @@ For every unit of labor needed, {Calories|Nutrition} are consumed. After a work 
 Once a project is started, labor can quickly be added from outside the Crafting Component by right clicking on a crafting table. When adding labor in this way, holding down 'Ctrl' will add 5x the normal amount of labor. Holding down 'Alt' will add all available calories.
   </source>
         <target xml:space="preserve" state="translated">
-必要な労働単位ごとに、[Calories|Nutrition] が消費されます。 作業指示が開始された後、国民はクラフトコンポーネントの「作業」ボタンを押すことで労働力を追加できます。
+必要な労働単位ごとに [Calories|Nutrition] が消費されます。 ワークオーダーが開始された後、市民はクラフトコンポーネントの「作業」ボタンを押すことで労働力を追加できます。
 
-プロジェクトが開始されると、作業テーブルを右クリックすることで、作業コンポーネントの外側から作業をすぐに追加できます。 この方法で労力を追加する場合、「Ctrl」キーを押したままにすると、通常の 5 倍の労力が追加されます。 「Alt」を押し続けると、利用可能なカロリーがすべて追加されます。
+プロジェクトが開始されると、作業コンポーネントを開くことなく右クリックで労働力を投入することができるようになります。「Ctrl」キーを押しながら右クリックすると通常の 5 倍の労働力をまとめて投入、「Alt」を押しながら右クリックすると利用可能なカロリーすべてを投入することができます。
   </target>
       </trans-unit>
       <trans-unit id="72" xml:space="preserve">
@@ -1097,23 +1097,23 @@ Payment can take a variety of forms:
 
 The economy of Eco is focused not just on trading of goods but trading of labor, and work parties make it easy to farm out many kinds of work to the general populace.
   </source>
-        <target xml:space="preserve" state="translated">協働依頼は、複数の国民が仕事を行うための合意です。協働依頼は、個々の市民が[Contract Board|Contract Board Component] にアクセスし、依頼書を作成した後に開始します。
+        <target xml:space="preserve" state="translated">ワークパーティは複数の国民が仕事を行うための合意です。ワークオーダーを作成した後、市民が[Contract Board|Contract Board Component] を訪れることでワークパーティが開始されます。
 
-協働依頼を発行する国民は、以下のような作業のさまざまな設定を定義できます：
- - 完了すべき作業指示
- - 参加したい市民に求められること。
- - 参加した人にどのような支払いをするか。
- - その支払いはどのように分配されるか。
+ワークパーティを発行する市民は、以下のような作業パラメータを設定できます：
+ - 完了すべきワークオーダー
+ - 参加したい市民に求められる条件
+ - 参加者に支払われる報酬
+ - 報酬の分配方法
 
-協働依頼は特に[Research] を行うのに便利です。国民は、大量のリソースを消費する研究プロジェクトを立ち上げ、それに協働依頼を割り当てることができます。市民は、（発行元の市民がオフラインであっても、指定された要件を満たしていれば）自動的に協働依頼に参加し、タスクの実行を開始することができます。
+ワークパーティは特に[Research] を行う際に有用です。市民は大量の資源を必要とする研究プロジェクトを立ち上げ、それにワークパーティを紐づけることができます。指定された要件を満たしていれば、発行元の市民がオフラインであってもワークパーティに参加し、作業を開始することができます。
 
 支払いにはさまざまな形態があります：
-- [Currency]: 即座、または完了時に、どれだけ仕事を行ったかに応じて分配される。
-- [Reputation]: 作業依頼の作成者から労働者に与えられる（1日に与えられる評判には上限がある）。
-- 特定の専門に関する知識（スキル・スクロールを読むのと同じ効果）: この恩恵を受けるには、作業依頼作成者がその専門分野の技能書を所持しているか、パーティの作業命令の1つにクラフトされていなければならない。
-- [Title] の付与: 財産やその他の能力にアクセスするための新たな特権を与えることができます。
+- [Currency]: 作業量応じて分配され、即時または完了時に支払われます。
+- [Reputation]: ワークパーティの作成者が労働者に付与します（1日に可能な評判付与には上限があります）。
+- 特定の専門分野の知識（スキル・スクロールを読むのと同じ効果）: この報酬を与えるには、ワークパーティ作成者がその専門分野のスキルブックを所持しているか、ワークパーティにそのスキルブッククラフトのワークオーダーが含まれている必要があります。
+- [Title] の付与: 財産や土地アクセスなどの新しい特権を得られる場合があります。
 
-Ecoの経済は物の取引だけでなく労働力の取引にも重点を置いており、協働依頼を利用することで、多くの種類の仕事を一般民衆に簡単に依頼することができます。
+Ecoの経済は物の取引だけでなく労働力の取引にも重点を置いています。ワークパーティは多様な仕事を市民全体に効率よく依頼するための仕組みです。
   </target>
       </trans-unit>
       <trans-unit id="137" xml:space="preserve">
