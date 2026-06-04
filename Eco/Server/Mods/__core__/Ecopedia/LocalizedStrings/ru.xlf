@@ -3736,7 +3736,7 @@ Available properties for rent can be found in the {Economy Viewer}. Once accepte
       </trans-unit>
       <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Объединение и фильтрация</target>
+        <target xml:space="preserve" state="translated">Объединение и фильтрация</target>
       </trans-unit>
       <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
