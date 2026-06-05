@@ -606,9 +606,9 @@
         <source xml:space="preserve">mins</source>
         <target xml:space="preserve">分</target>
       </trans-unit>
-      <trans-unit id="158">
+      <trans-unit id="158" xml:space="preserve">
         <source xml:space="preserve">in the last hour</source>
-        <target xml:space="preserve">في الساعة الأخيرة</target>
+        <target xml:space="preserve" state="translated">1時間前</target>
       </trans-unit>
       <trans-unit id="159">
         <source xml:space="preserve">The winner was</source>
