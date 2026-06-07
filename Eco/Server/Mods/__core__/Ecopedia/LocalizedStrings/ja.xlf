@@ -2848,7 +2848,7 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
       </trans-unit>
       <trans-unit id="326" xml:space="preserve">
         <source xml:space="preserve">Carpenter</source>
-        <target xml:space="preserve" state="translated">大工</target>
+        <target xml:space="preserve" state="translated">木工技術</target>
       </trans-unit>
       <trans-unit id="327" xml:space="preserve">
         <source xml:space="preserve">
