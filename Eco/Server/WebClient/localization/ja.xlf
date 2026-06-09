@@ -174,9 +174,9 @@
         <source xml:space="preserve">Cancel</source>
         <target xml:space="preserve">キャンセル</target>
       </trans-unit>
-      <trans-unit id="44">
+      <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target xml:space="preserve">新しい選挙を開始するには、自分を候補として追加する必要があります; you must add yourself as a candidate</target>
+        <target xml:space="preserve" state="translated">新しい選挙を開始するには、自分を候補として追加する必要があります</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
