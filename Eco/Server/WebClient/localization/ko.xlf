@@ -2,693 +2,693 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="ko" datatype="plaintext" original="WebClientStrings">
     <body>
-      <trans-unit id="1">
+      <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">404 page not found</source>
-        <target xml:space="preserve">404 페이지를 찾을 수 없습니다</target>
+        <target xml:space="preserve" state="translated">404 페이지를 찾을 수 없습니다</target>
       </trans-unit>
-      <trans-unit id="2">
+      <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Allow Debug Calls</source>
-        <target xml:space="preserve">디버그를 호출합니다</target>
+        <target xml:space="preserve" state="translated">디버그를 호출합니다</target>
       </trans-unit>
-      <trans-unit id="3">
+      <trans-unit id="3" xml:space="preserve">
         <source xml:space="preserve">Private Server</source>
-        <target xml:space="preserve">개인 사설서버</target>
+        <target xml:space="preserve" state="translated">개인 사설서버</target>
       </trans-unit>
-      <trans-unit id="4">
+      <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">White list</source>
-        <target xml:space="preserve">화이트리스트</target>
+        <target xml:space="preserve" state="translated">화이트리스트</target>
       </trans-unit>
-      <trans-unit id="5">
+      <trans-unit id="5" xml:space="preserve">
         <source xml:space="preserve">Black list</source>
-        <target xml:space="preserve">블랙리스트</target>
+        <target xml:space="preserve" state="translated">블랙리스트</target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">Admin</source>
-        <target xml:space="preserve">관리자</target>
+        <target xml:space="preserve" state="translated">관리자</target>
       </trans-unit>
-      <trans-unit id="7">
+      <trans-unit id="7" xml:space="preserve">
         <source xml:space="preserve">Max Slots</source>
-        <target xml:space="preserve">슬롯이 꽉 찼습니다</target>
+        <target xml:space="preserve" state="translated">슬롯이 꽉 찼습니다</target>
       </trans-unit>
-      <trans-unit id="8">
+      <trans-unit id="8" xml:space="preserve">
         <source xml:space="preserve">Spawn location</source>
-        <target xml:space="preserve">스폰 위치</target>
+        <target xml:space="preserve" state="translated">스폰 위치</target>
       </trans-unit>
-      <trans-unit id="9">
+      <trans-unit id="9" xml:space="preserve">
         <source xml:space="preserve">Reputations</source>
-        <target xml:space="preserve">명성</target>
+        <target xml:space="preserve" state="translated">명성</target>
       </trans-unit>
-      <trans-unit id="10">
+      <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">Use Waste</source>
-        <target xml:space="preserve">하수 사용량</target>
+        <target xml:space="preserve" state="translated">하수 사용량</target>
       </trans-unit>
-      <trans-unit id="11">
+      <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">Network Config</source>
-        <target xml:space="preserve">네트워크 설정</target>
+        <target xml:space="preserve" state="translated">네트워크 설정</target>
       </trans-unit>
-      <trans-unit id="12">
+      <trans-unit id="12" xml:space="preserve">
         <source xml:space="preserve">Public server</source>
-        <target xml:space="preserve">공개 서버</target>
+        <target xml:space="preserve" state="translated">공개 서버</target>
       </trans-unit>
-      <trans-unit id="13">
+      <trans-unit id="13" xml:space="preserve">
         <source xml:space="preserve">IP address</source>
-        <target xml:space="preserve">IP 주소</target>
+        <target xml:space="preserve" state="translated">IP 주소</target>
       </trans-unit>
-      <trans-unit id="14">
+      <trans-unit id="14" xml:space="preserve">
         <source xml:space="preserve">Game server port</source>
-        <target xml:space="preserve">게임 서버의 포트</target>
+        <target xml:space="preserve" state="translated">게임 서버의 포트</target>
       </trans-unit>
-      <trans-unit id="15">
+      <trans-unit id="15" xml:space="preserve">
         <source xml:space="preserve">Web server port</source>
-        <target xml:space="preserve">웹 서버의 포트</target>
+        <target xml:space="preserve" state="translated">웹 서버의 포트</target>
       </trans-unit>
-      <trans-unit id="16">
+      <trans-unit id="16" xml:space="preserve">
         <source xml:space="preserve">Rate</source>
-        <target xml:space="preserve">비율(Rate)</target>
+        <target xml:space="preserve" state="translated">비율(Rate)</target>
       </trans-unit>
-      <trans-unit id="17">
+      <trans-unit id="17" xml:space="preserve">
         <source xml:space="preserve">Server browser service</source>
-        <target xml:space="preserve">서버 브라우저 기능</target>
+        <target xml:space="preserve" state="translated">서버 브라우저 기능</target>
       </trans-unit>
-      <trans-unit id="18">
+      <trans-unit id="18" xml:space="preserve">
         <source xml:space="preserve">SAVE</source>
-        <target xml:space="preserve">저장</target>
+        <target xml:space="preserve" state="translated">저장</target>
       </trans-unit>
-      <trans-unit id="19">
+      <trans-unit id="19" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect Explorer</source>
-        <target xml:space="preserve">인과관계 탐색기</target>
+        <target xml:space="preserve" state="translated">인과관계 탐색기</target>
       </trans-unit>
-      <trans-unit id="20">
+      <trans-unit id="20" xml:space="preserve">
         <source xml:space="preserve">Select Category</source>
-        <target xml:space="preserve">카테고리 선택</target>
+        <target xml:space="preserve" state="translated">카테고리 선택</target>
       </trans-unit>
-      <trans-unit id="21">
+      <trans-unit id="21" xml:space="preserve">
         <source xml:space="preserve">Select Layer</source>
-        <target xml:space="preserve">레이어 선택</target>
+        <target xml:space="preserve" state="translated">레이어 선택</target>
       </trans-unit>
-      <trans-unit id="22">
+      <trans-unit id="22" xml:space="preserve">
         <source xml:space="preserve">Maps showing 400 square meters centered at 50</source>
-        <target xml:space="preserve">중심점으로부터 총 400제곱미터 만큼의 지도를 보여줍니다;50</target>
+        <target xml:space="preserve" state="translated">중심점으로부터 총 400제곱미터 만큼의 지도를 보여줍니다;50</target>
       </trans-unit>
-      <trans-unit id="23">
+      <trans-unit id="23" xml:space="preserve">
         <source xml:space="preserve">Eco Elections</source>
-        <target xml:space="preserve">Eco의 선거</target>
+        <target xml:space="preserve" state="translated">Eco의 선거</target>
       </trans-unit>
-      <trans-unit id="24">
+      <trans-unit id="24" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu or you can run for office</source>
-        <target xml:space="preserve">메뉴에서 선거를 선택하거나 직접 선거에 출마하십시오</target>
+        <target xml:space="preserve" state="translated">메뉴에서 선거를 선택하거나 직접 선거에 출마하십시오</target>
       </trans-unit>
-      <trans-unit id="25">
+      <trans-unit id="25" xml:space="preserve">
         <source xml:space="preserve">Candidates</source>
-        <target xml:space="preserve">후보자</target>
+        <target xml:space="preserve" state="translated">후보자</target>
       </trans-unit>
-      <trans-unit id="26">
+      <trans-unit id="26" xml:space="preserve">
         <source xml:space="preserve">Elected officials receive 15 property claims</source>
-        <target xml:space="preserve">당선된 후보자는 15개의 부지 소유권을 받습니다</target>
+        <target xml:space="preserve" state="translated">당선된 후보자는 15개의 부지 소유권을 받습니다</target>
       </trans-unit>
-      <trans-unit id="27">
+      <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve">국고가 건설되어 있다면; they can set taxes (feature in progress)</target>
+        <target xml:space="preserve" state="translated">국고가 건설되어 있다면; they can set taxes (feature in progress)</target>
       </trans-unit>
-      <trans-unit id="28">
+      <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
-        <target xml:space="preserve">해당 선거는</target>
+        <target xml:space="preserve" state="translated">해당 선거는</target>
       </trans-unit>
-      <trans-unit id="29">
+      <trans-unit id="29" xml:space="preserve">
         <source xml:space="preserve">Instant Runoff Voting</source>
-        <target xml:space="preserve">일정 득표수 이상 받은 후보자가 승리합니다</target>
+        <target xml:space="preserve" state="translated">일정 득표수 이상 받은 후보자가 승리합니다</target>
       </trans-unit>
-      <trans-unit id="30">
+      <trans-unit id="30" xml:space="preserve">
         <source xml:space="preserve">Submit Vote</source>
-        <target xml:space="preserve">투표하기</target>
+        <target xml:space="preserve" state="translated">투표하기</target>
       </trans-unit>
-      <trans-unit id="31">
+      <trans-unit id="31" xml:space="preserve">
         <source xml:space="preserve">Run For Office</source>
-        <target xml:space="preserve">선거에 출마하기</target>
+        <target xml:space="preserve" state="translated">선거에 출마하기</target>
       </trans-unit>
-      <trans-unit id="32">
+      <trans-unit id="32" xml:space="preserve">
         <source xml:space="preserve">Remove Self</source>
-        <target xml:space="preserve">후보 사퇴하기</target>
+        <target xml:space="preserve" state="translated">후보 사퇴하기</target>
       </trans-unit>
-      <trans-unit id="33">
+      <trans-unit id="33" xml:space="preserve">
         <source xml:space="preserve">Current Results</source>
-        <target xml:space="preserve">중간 결과 확인</target>
+        <target xml:space="preserve" state="translated">중간 결과 확인</target>
       </trans-unit>
-      <trans-unit id="34">
+      <trans-unit id="34" xml:space="preserve">
         <source xml:space="preserve">No one has voted yet</source>
-        <target xml:space="preserve">투표권을 행사한 주민이 없습니다</target>
+        <target xml:space="preserve" state="translated">투표권을 행사한 주민이 없습니다</target>
       </trans-unit>
-      <trans-unit id="35">
+      <trans-unit id="35" xml:space="preserve">
         <source xml:space="preserve">Votes per round</source>
-        <target xml:space="preserve">회차 당 투표수</target>
+        <target xml:space="preserve" state="translated">회차 당 투표수</target>
       </trans-unit>
-      <trans-unit id="36">
+      <trans-unit id="36" xml:space="preserve">
         <source xml:space="preserve">View All Votes</source>
-        <target xml:space="preserve">모든 투표자 보기</target>
+        <target xml:space="preserve" state="translated">모든 투표자 보기</target>
       </trans-unit>
-      <trans-unit id="37">
+      <trans-unit id="37" xml:space="preserve">
         <source xml:space="preserve">Discussion</source>
-        <target xml:space="preserve">토의</target>
+        <target xml:space="preserve" state="translated">토의</target>
       </trans-unit>
-      <trans-unit id="38">
+      <trans-unit id="38" xml:space="preserve">
         <source xml:space="preserve">Day</source>
-        <target xml:space="preserve">시간(일)</target>
+        <target xml:space="preserve" state="translated">시간(일)</target>
       </trans-unit>
-      <trans-unit id="39">
+      <trans-unit id="39" xml:space="preserve">
         <source xml:space="preserve">Enter your response</source>
-        <target xml:space="preserve">의견 작성하기</target>
+        <target xml:space="preserve" state="translated">의견 작성하기</target>
       </trans-unit>
-      <trans-unit id="40">
+      <trans-unit id="40" xml:space="preserve">
         <source xml:space="preserve">Remove Graph</source>
-        <target xml:space="preserve">그래프 치우기</target>
+        <target xml:space="preserve" state="translated">그래프 치우기</target>
       </trans-unit>
-      <trans-unit id="41">
+      <trans-unit id="41" xml:space="preserve">
         <source xml:space="preserve">Remove Map</source>
-        <target xml:space="preserve">지도 치우기</target>
+        <target xml:space="preserve" state="translated">지도 치우기</target>
       </trans-unit>
-      <trans-unit id="42">
+      <trans-unit id="42" xml:space="preserve">
         <source xml:space="preserve">Submit</source>
-        <target xml:space="preserve">보내기</target>
+        <target xml:space="preserve" state="translated">보내기</target>
       </trans-unit>
-      <trans-unit id="43">
+      <trans-unit id="43" xml:space="preserve">
         <source xml:space="preserve">Cancel</source>
-        <target xml:space="preserve">취소</target>
+        <target xml:space="preserve" state="translated">취소</target>
       </trans-unit>
-      <trans-unit id="44">
+      <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target xml:space="preserve">새로운 선거를 시행하기 위해선; you must add yourself as a candidate</target>
+        <target xml:space="preserve" state="translated">새로운 선거를 시행하기 위해선; you must add yourself as a candidate</target>
       </trans-unit>
-      <trans-unit id="45">
+      <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
-        <target xml:space="preserve">어째서 당선이 되어야 하는지 설명해 주십시오</target>
+        <target xml:space="preserve" state="translated">어째서 당선이 되어야 하는지 설명해 주십시오</target>
       </trans-unit>
-      <trans-unit id="46">
+      <trans-unit id="46" xml:space="preserve">
         <source xml:space="preserve">Enter Your Speech</source>
-        <target xml:space="preserve">연설 내용 입력</target>
+        <target xml:space="preserve" state="translated">연설 내용 입력</target>
       </trans-unit>
-      <trans-unit id="49">
+      <trans-unit id="49" xml:space="preserve">
         <source xml:space="preserve">Scientific Data</source>
-        <target xml:space="preserve">데이터 통계</target>
+        <target xml:space="preserve" state="translated">데이터 통계</target>
       </trans-unit>
-      <trans-unit id="50">
+      <trans-unit id="50" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect</source>
-        <target xml:space="preserve">인과관계</target>
+        <target xml:space="preserve" state="translated">인과관계</target>
       </trans-unit>
-      <trans-unit id="51">
+      <trans-unit id="51" xml:space="preserve">
         <source xml:space="preserve">Run For Office</source>
-        <target xml:space="preserve">선거에 출마하기</target>
+        <target xml:space="preserve" state="translated">선거에 출마하기</target>
       </trans-unit>
-      <trans-unit id="52">
+      <trans-unit id="52" xml:space="preserve">
         <source xml:space="preserve">Current Election</source>
-        <target xml:space="preserve">진행 중인 선거</target>
+        <target xml:space="preserve" state="translated">진행 중인 선거</target>
       </trans-unit>
-      <trans-unit id="53">
+      <trans-unit id="53" xml:space="preserve">
         <source xml:space="preserve">Previous Elections</source>
-        <target xml:space="preserve">지난 선거</target>
+        <target xml:space="preserve" state="translated">지난 선거</target>
       </trans-unit>
-      <trans-unit id="56">
+      <trans-unit id="56" xml:space="preserve">
         <source xml:space="preserve">Active Laws</source>
-        <target xml:space="preserve">제정된 법률</target>
+        <target xml:space="preserve" state="translated">제정된 법률</target>
       </trans-unit>
-      <trans-unit id="57">
+      <trans-unit id="57" xml:space="preserve">
         <source xml:space="preserve">Proposed Laws</source>
-        <target xml:space="preserve">입법 제안</target>
+        <target xml:space="preserve" state="translated">입법 제안</target>
       </trans-unit>
-      <trans-unit id="59">
+      <trans-unit id="59" xml:space="preserve">
         <source xml:space="preserve">Select Map Layer</source>
-        <target xml:space="preserve">지도 레이어 선택하기</target>
+        <target xml:space="preserve" state="translated">지도 레이어 선택하기</target>
       </trans-unit>
-      <trans-unit id="60">
+      <trans-unit id="60" xml:space="preserve">
         <source xml:space="preserve">Data</source>
-        <target xml:space="preserve">데이터</target>
+        <target xml:space="preserve" state="translated">데이터</target>
       </trans-unit>
-      <trans-unit id="61">
+      <trans-unit id="61" xml:space="preserve">
         <source xml:space="preserve">Graph</source>
-        <target xml:space="preserve">그래프</target>
+        <target xml:space="preserve" state="translated">그래프</target>
       </trans-unit>
-      <trans-unit id="62">
+      <trans-unit id="62" xml:space="preserve">
         <source xml:space="preserve">Lines</source>
-        <target xml:space="preserve">꺾은 선</target>
+        <target xml:space="preserve" state="translated">꺾은 선</target>
       </trans-unit>
-      <trans-unit id="63">
+      <trans-unit id="63" xml:space="preserve">
         <source xml:space="preserve">Bars</source>
-        <target xml:space="preserve">막대</target>
+        <target xml:space="preserve" state="translated">막대</target>
       </trans-unit>
-      <trans-unit id="64">
+      <trans-unit id="64" xml:space="preserve">
         <source xml:space="preserve">Day</source>
-        <target xml:space="preserve">시간(일)</target>
+        <target xml:space="preserve" state="translated">시간(일)</target>
       </trans-unit>
-      <trans-unit id="65">
+      <trans-unit id="65" xml:space="preserve">
         <source xml:space="preserve">View the global effects that shape this world and how they influence each other</source>
-        <target xml:space="preserve">이 세계에서 일어나는 다양한 일들이 어떠한 결과를 만드는지 확인하십시오</target>
+        <target xml:space="preserve" state="translated">이 세계에서 일어나는 다양한 일들이 어떠한 결과를 만드는지 확인하십시오</target>
       </trans-unit>
-      <trans-unit id="66">
+      <trans-unit id="66" xml:space="preserve">
         <source xml:space="preserve">Select a category above and use the time bar at the bottom to scroll through history</source>
-        <target xml:space="preserve">상단에 있는 목록을 선택하고 하단에 시간을 표시하는 막대를 이용해 시간대별 모습을 확인하십시오</target>
+        <target xml:space="preserve" state="translated">상단에 있는 목록을 선택하고 하단에 시간을 표시하는 막대를 이용해 시간대별 모습을 확인하십시오</target>
       </trans-unit>
-      <trans-unit id="67">
+      <trans-unit id="67" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect Exploration</source>
-        <target xml:space="preserve">인과관계 탐색기</target>
+        <target xml:space="preserve" state="translated">인과관계 탐색기</target>
       </trans-unit>
-      <trans-unit id="68">
+      <trans-unit id="68" xml:space="preserve">
         <source xml:space="preserve">Users Config</source>
-        <target xml:space="preserve">사용자 설정</target>
+        <target xml:space="preserve" state="translated">사용자 설정</target>
       </trans-unit>
-      <trans-unit id="69">
+      <trans-unit id="69" xml:space="preserve">
         <source xml:space="preserve">Require Authentication</source>
-        <target xml:space="preserve">권한 인증이 필요합니다</target>
+        <target xml:space="preserve" state="translated">권한 인증이 필요합니다</target>
       </trans-unit>
-      <trans-unit id="70">
+      <trans-unit id="70" xml:space="preserve">
         <source xml:space="preserve">days/sec</source>
-        <target xml:space="preserve">일/초</target>
+        <target xml:space="preserve" state="translated">일/초</target>
       </trans-unit>
-      <trans-unit id="71">
+      <trans-unit id="71" xml:space="preserve">
         <source xml:space="preserve">In-Game Actions</source>
-        <target xml:space="preserve">게임 플레이 중 변경사항</target>
+        <target xml:space="preserve" state="translated">게임 플레이 중 변경사항</target>
       </trans-unit>
-      <trans-unit id="72">
+      <trans-unit id="72" xml:space="preserve">
         <source xml:space="preserve">Eco Laws</source>
-        <target xml:space="preserve">Eco의 법률</target>
+        <target xml:space="preserve" state="translated">Eco의 법률</target>
       </trans-unit>
-      <trans-unit id="73">
+      <trans-unit id="73" xml:space="preserve">
         <source xml:space="preserve">Select a law from the menu</source>
-        <target xml:space="preserve">목록에서 법률을 선택하십시오</target>
+        <target xml:space="preserve" state="translated">목록에서 법률을 선택하십시오</target>
       </trans-unit>
-      <trans-unit id="74">
+      <trans-unit id="74" xml:space="preserve">
         <source xml:space="preserve">Law Info</source>
-        <target xml:space="preserve">법률 내용</target>
+        <target xml:space="preserve" state="translated">법률 내용</target>
       </trans-unit>
-      <trans-unit id="75">
+      <trans-unit id="75" xml:space="preserve">
         <source xml:space="preserve">Reasoning</source>
-        <target xml:space="preserve">근거 제시</target>
+        <target xml:space="preserve" state="translated">근거 제시</target>
       </trans-unit>
-      <trans-unit id="76">
+      <trans-unit id="76" xml:space="preserve">
         <source xml:space="preserve">Current Results</source>
-        <target xml:space="preserve">중간 결과 확인</target>
+        <target xml:space="preserve" state="translated">중간 결과 확인</target>
       </trans-unit>
-      <trans-unit id="77">
+      <trans-unit id="77" xml:space="preserve">
         <source xml:space="preserve">This law was passed</source>
-        <target xml:space="preserve">해당 법률은 통과되었습니다</target>
+        <target xml:space="preserve" state="translated">해당 법률은 통과되었습니다</target>
       </trans-unit>
-      <trans-unit id="78">
+      <trans-unit id="78" xml:space="preserve">
         <source xml:space="preserve">Yes</source>
-        <target xml:space="preserve">찬성</target>
+        <target xml:space="preserve" state="translated">찬성</target>
       </trans-unit>
-      <trans-unit id="79">
+      <trans-unit id="79" xml:space="preserve">
         <source xml:space="preserve">No</source>
-        <target xml:space="preserve">반대</target>
+        <target xml:space="preserve" state="translated">반대</target>
       </trans-unit>
-      <trans-unit id="80">
+      <trans-unit id="80" xml:space="preserve">
         <source xml:space="preserve">Add Graph</source>
-        <target xml:space="preserve">그래프 추가하기</target>
+        <target xml:space="preserve" state="translated">그래프 추가하기</target>
       </trans-unit>
-      <trans-unit id="81">
+      <trans-unit id="81" xml:space="preserve">
         <source xml:space="preserve">Add Map</source>
-        <target xml:space="preserve">지도 추가하기</target>
+        <target xml:space="preserve" state="translated">지도 추가하기</target>
       </trans-unit>
-      <trans-unit id="82">
+      <trans-unit id="82" xml:space="preserve">
         <source xml:space="preserve">Cancel</source>
-        <target xml:space="preserve">취소</target>
+        <target xml:space="preserve" state="translated">취소</target>
       </trans-unit>
-      <trans-unit id="83">
+      <trans-unit id="83" xml:space="preserve">
         <source xml:space="preserve">Name of Law</source>
-        <target xml:space="preserve">법률의 이름</target>
+        <target xml:space="preserve" state="translated">법률의 이름</target>
       </trans-unit>
-      <trans-unit id="84">
+      <trans-unit id="84" xml:space="preserve">
         <source xml:space="preserve">Add Districts</source>
-        <target xml:space="preserve">구역 추가하기</target>
+        <target xml:space="preserve" state="translated">구역 추가하기</target>
       </trans-unit>
-      <trans-unit id="85">
+      <trans-unit id="85" xml:space="preserve">
         <source xml:space="preserve">Remove Districts</source>
-        <target xml:space="preserve">구역 제거하기</target>
+        <target xml:space="preserve" state="translated">구역 제거하기</target>
       </trans-unit>
-      <trans-unit id="86">
+      <trans-unit id="86" xml:space="preserve">
         <source xml:space="preserve">Add New District</source>
-        <target xml:space="preserve">새로운 구역 추가하기</target>
+        <target xml:space="preserve" state="translated">새로운 구역 추가하기</target>
       </trans-unit>
-      <trans-unit id="87">
+      <trans-unit id="87" xml:space="preserve">
         <source xml:space="preserve">Hold right click to draw district</source>
-        <target xml:space="preserve">마우스 오른쪽 버튼을 누른 채로 구역을 설정하십시오</target>
+        <target xml:space="preserve" state="translated">마우스 오른쪽 버튼을 누른 채로 구역을 설정하십시오</target>
       </trans-unit>
-      <trans-unit id="88">
+      <trans-unit id="88" xml:space="preserve">
         <source xml:space="preserve">Reasoning</source>
-        <target xml:space="preserve">근거 제시</target>
+        <target xml:space="preserve" state="translated">근거 제시</target>
       </trans-unit>
-      <trans-unit id="89">
+      <trans-unit id="89" xml:space="preserve">
         <source xml:space="preserve">Propose Law</source>
-        <target xml:space="preserve">입법 제안</target>
+        <target xml:space="preserve" state="translated">입법 제안</target>
       </trans-unit>
-      <trans-unit id="90">
+      <trans-unit id="90" xml:space="preserve">
         <source xml:space="preserve">Layer Select Dropdown</source>
-        <target xml:space="preserve">메뉴에서 레이어를 선택하기</target>
+        <target xml:space="preserve" state="translated">메뉴에서 레이어를 선택하기</target>
       </trans-unit>
-      <trans-unit id="91">
+      <trans-unit id="91" xml:space="preserve">
         <source xml:space="preserve">Terrain</source>
-        <target xml:space="preserve">지형</target>
+        <target xml:space="preserve" state="translated">지형</target>
       </trans-unit>
-      <trans-unit id="92">
+      <trans-unit id="92" xml:space="preserve">
         <source xml:space="preserve">Temperature</source>
-        <target xml:space="preserve">온도</target>
+        <target xml:space="preserve" state="translated">온도</target>
       </trans-unit>
-      <trans-unit id="93">
+      <trans-unit id="93" xml:space="preserve">
         <source xml:space="preserve">Height</source>
-        <target xml:space="preserve">고도</target>
+        <target xml:space="preserve" state="translated">고도</target>
       </trans-unit>
-      <trans-unit id="94">
+      <trans-unit id="94" xml:space="preserve">
         <source xml:space="preserve">unity could send a full list of options to the dropdown later</source>
-        <target xml:space="preserve">이후 유니티를 통해 드롭다운 메뉴에 모든 옵션이 추가될 것입니다</target>
+        <target xml:space="preserve" state="translated">이후 유니티를 통해 드롭다운 메뉴에 모든 옵션이 추가될 것입니다</target>
       </trans-unit>
-      <trans-unit id="95">
+      <trans-unit id="95" xml:space="preserve">
         <source xml:space="preserve">Layer Select by Name or Number</source>
-        <target xml:space="preserve">이름 또는 번호로 레이어 선택하기</target>
+        <target xml:space="preserve" state="translated">이름 또는 번호로 레이어 선택하기</target>
       </trans-unit>
-      <trans-unit id="96">
+      <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target xml:space="preserve">이곳에서 법률에 대한 논의를 할 수 있습니다; maps can be resized to fit with text better later</target>
+        <target xml:space="preserve" state="translated">이곳에서 법률에 대한 논의를 할 수 있습니다; maps can be resized to fit with text better later</target>
       </trans-unit>
-      <trans-unit id="97">
+      <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
-        <target xml:space="preserve">학생 진도</target>
+        <target xml:space="preserve" state="translated">학생 진도</target>
       </trans-unit>
-      <trans-unit id="98">
+      <trans-unit id="98" xml:space="preserve">
         <source xml:space="preserve">There are no districts set yet</source>
-        <target xml:space="preserve">아직 설정된 구역이 없습니다</target>
+        <target xml:space="preserve" state="translated">아직 설정된 구역이 없습니다</target>
       </trans-unit>
-      <trans-unit id="99">
+      <trans-unit id="99" xml:space="preserve">
         <source xml:space="preserve">Active Districts</source>
-        <target xml:space="preserve">설정된 구역</target>
+        <target xml:space="preserve" state="translated">설정된 구역</target>
       </trans-unit>
-      <trans-unit id="100">
+      <trans-unit id="100" xml:space="preserve">
         <source xml:space="preserve">Candidate Ranks For Each Year</source>
-        <target xml:space="preserve">각 연도별 후보자 순위</target>
+        <target xml:space="preserve" state="translated">각 연도별 후보자 순위</target>
       </trans-unit>
-      <trans-unit id="101">
+      <trans-unit id="101" xml:space="preserve">
         <source xml:space="preserve">No Active Laws</source>
-        <target xml:space="preserve">제정된 법률 없음</target>
+        <target xml:space="preserve" state="translated">제정된 법률 없음</target>
       </trans-unit>
-      <trans-unit id="102">
+      <trans-unit id="102" xml:space="preserve">
         <source xml:space="preserve">No Proposed Laws</source>
-        <target xml:space="preserve">제안된 법률안 없음</target>
+        <target xml:space="preserve" state="translated">제안된 법률안 없음</target>
       </trans-unit>
-      <trans-unit id="103">
+      <trans-unit id="103" xml:space="preserve">
         <source xml:space="preserve">Online Players</source>
-        <target xml:space="preserve">접속 중인 플레이어</target>
+        <target xml:space="preserve" state="translated">접속 중인 플레이어</target>
       </trans-unit>
-      <trans-unit id="104">
+      <trans-unit id="104" xml:space="preserve">
         <source xml:space="preserve">Time</source>
-        <target xml:space="preserve">시간</target>
+        <target xml:space="preserve" state="translated">시간</target>
       </trans-unit>
-      <trans-unit id="105">
+      <trans-unit id="105" xml:space="preserve">
         <source xml:space="preserve">Meteor Impact</source>
-        <target xml:space="preserve">운석 충돌까지</target>
+        <target xml:space="preserve" state="translated">운석 충돌까지</target>
       </trans-unit>
-      <trans-unit id="106">
+      <trans-unit id="106" xml:space="preserve">
         <source xml:space="preserve">Plants</source>
-        <target xml:space="preserve">식물의 수</target>
+        <target xml:space="preserve" state="translated">식물의 수</target>
       </trans-unit>
-      <trans-unit id="107">
+      <trans-unit id="107" xml:space="preserve">
         <source xml:space="preserve">World Size</source>
-        <target xml:space="preserve">세계 크기</target>
+        <target xml:space="preserve" state="translated">세계 크기</target>
       </trans-unit>
-      <trans-unit id="108">
+      <trans-unit id="108" xml:space="preserve">
         <source xml:space="preserve">Pre-Made Graphs</source>
-        <target xml:space="preserve">주제별 그래프</target>
+        <target xml:space="preserve" state="translated">주제별 그래프</target>
       </trans-unit>
-      <trans-unit id="109">
+      <trans-unit id="109" xml:space="preserve">
         <source xml:space="preserve">My Saved Graphs</source>
-        <target xml:space="preserve">사용자 설정 그래프</target>
+        <target xml:space="preserve" state="translated">사용자 설정 그래프</target>
       </trans-unit>
-      <trans-unit id="110">
+      <trans-unit id="110" xml:space="preserve">
         <source xml:space="preserve">OK</source>
-        <target xml:space="preserve">확인</target>
+        <target xml:space="preserve" state="translated">확인</target>
       </trans-unit>
-      <trans-unit id="111">
+      <trans-unit id="111" xml:space="preserve">
         <source xml:space="preserve">Doing Something...</source>
-        <target xml:space="preserve">작업 중...</target>
+        <target xml:space="preserve" state="translated">작업 중...</target>
       </trans-unit>
-      <trans-unit id="112">
+      <trans-unit id="112" xml:space="preserve">
         <source xml:space="preserve">Some information for you to read!</source>
-        <target xml:space="preserve">당신이 알아야 할 정보!</target>
+        <target xml:space="preserve" state="translated">당신이 알아야 할 정보!</target>
       </trans-unit>
-      <trans-unit id="113">
+      <trans-unit id="113" xml:space="preserve">
         <source xml:space="preserve">Datasets</source>
-        <target xml:space="preserve">데이터 모음</target>
+        <target xml:space="preserve" state="translated">데이터 모음</target>
       </trans-unit>
-      <trans-unit id="114">
+      <trans-unit id="114" xml:space="preserve">
         <source xml:space="preserve">Clear Categories</source>
-        <target xml:space="preserve">카테고리 초기화</target>
+        <target xml:space="preserve" state="translated">카테고리 초기화</target>
       </trans-unit>
-      <trans-unit id="115">
+      <trans-unit id="115" xml:space="preserve">
         <source xml:space="preserve">Curves</source>
-        <target xml:space="preserve">꺾은 선</target>
+        <target xml:space="preserve" state="translated">꺾은 선</target>
       </trans-unit>
-      <trans-unit id="116">
+      <trans-unit id="116" xml:space="preserve">
         <source xml:space="preserve">Pie</source>
-        <target xml:space="preserve">원형</target>
+        <target xml:space="preserve" state="translated">원형</target>
       </trans-unit>
-      <trans-unit id="117">
+      <trans-unit id="117" xml:space="preserve">
         <source xml:space="preserve">Loading</source>
-        <target xml:space="preserve">불러오는 중</target>
+        <target xml:space="preserve" state="translated">불러오는 중</target>
       </trans-unit>
-      <trans-unit id="118">
+      <trans-unit id="118" xml:space="preserve">
         <source xml:space="preserve">Populations</source>
-        <target xml:space="preserve">개체군</target>
+        <target xml:space="preserve" state="translated">개체군</target>
       </trans-unit>
-      <trans-unit id="119">
+      <trans-unit id="119" xml:space="preserve">
         <source xml:space="preserve">Player Skill Progress</source>
-        <target xml:space="preserve">플레이어의 기술 발전도</target>
+        <target xml:space="preserve" state="translated">플레이어의 기술 발전도</target>
       </trans-unit>
-      <trans-unit id="120">
+      <trans-unit id="120" xml:space="preserve">
         <source xml:space="preserve">Polution Progress</source>
-        <target xml:space="preserve">오염 진행도</target>
+        <target xml:space="preserve" state="translated">오염 진행도</target>
       </trans-unit>
-      <trans-unit id="121">
+      <trans-unit id="121" xml:space="preserve">
         <source xml:space="preserve">A graph with that title already exists! Choose a unique title for your graph.</source>
-        <target xml:space="preserve">이미 존재 중인 그래프의 제목입니다! 당신만의 그래프 제목을 정해주십시오.</target>
+        <target xml:space="preserve" state="translated">이미 존재 중인 그래프의 제목입니다! 당신만의 그래프 제목을 정해주십시오.</target>
       </trans-unit>
-      <trans-unit id="122">
+      <trans-unit id="122" xml:space="preserve">
         <source xml:space="preserve">Please add a dataset to your graph before saving.</source>
-        <target xml:space="preserve">그래픽을 저장하기 전 데이터 모음에 추가해 주십시오.</target>
+        <target xml:space="preserve" state="translated">그래픽을 저장하기 전 데이터 모음에 추가해 주십시오.</target>
       </trans-unit>
-      <trans-unit id="123">
+      <trans-unit id="123" xml:space="preserve">
         <source xml:space="preserve">Graph copied. Type a unique name and save it.</source>
-        <target xml:space="preserve">그래프 복사 완료. 그래프 이름을 지어 저장해 주십시오.</target>
+        <target xml:space="preserve" state="translated">그래프 복사 완료. 그래프 이름을 지어 저장해 주십시오.</target>
       </trans-unit>
-      <trans-unit id="124">
+      <trans-unit id="124" xml:space="preserve">
         <source xml:space="preserve">Do you want to save your changes before proceeding?</source>
-        <target xml:space="preserve">계속 진행하기 전에 변경 사항을 저장하시겠습니까?</target>
+        <target xml:space="preserve" state="translated">계속 진행하기 전에 변경 사항을 저장하시겠습니까?</target>
       </trans-unit>
-      <trans-unit id="125">
+      <trans-unit id="125" xml:space="preserve">
         <source xml:space="preserve">Don't Save</source>
-        <target xml:space="preserve">저장 안 함</target>
+        <target xml:space="preserve" state="translated">저장 안 함</target>
       </trans-unit>
-      <trans-unit id="126">
+      <trans-unit id="126" xml:space="preserve">
         <source xml:space="preserve">Server</source>
-        <target xml:space="preserve">서버</target>
+        <target xml:space="preserve" state="translated">서버</target>
       </trans-unit>
-      <trans-unit id="127">
+      <trans-unit id="127" xml:space="preserve">
         <source xml:space="preserve">User</source>
-        <target xml:space="preserve">플레이어</target>
+        <target xml:space="preserve" state="translated">플레이어</target>
       </trans-unit>
-      <trans-unit id="128">
+      <trans-unit id="128" xml:space="preserve">
         <source xml:space="preserve">Delete Proposal</source>
-        <target xml:space="preserve">제안된 법률안 삭제</target>
+        <target xml:space="preserve" state="translated">제안된 법률안 삭제</target>
       </trans-unit>
-      <trans-unit id="129">
+      <trans-unit id="129" xml:space="preserve">
         <source xml:space="preserve">Rank the candidates from best to worst.</source>
-        <target xml:space="preserve">후보자를 오름차순으로 정리합니다.</target>
+        <target xml:space="preserve" state="translated">후보자를 오름차순으로 정리합니다.</target>
       </trans-unit>
-      <trans-unit id="130">
+      <trans-unit id="130" xml:space="preserve">
         <source xml:space="preserve">Update Vote</source>
-        <target xml:space="preserve">투표 정보 업데이트</target>
+        <target xml:space="preserve" state="translated">투표 정보 업데이트</target>
       </trans-unit>
-      <trans-unit id="131">
+      <trans-unit id="131" xml:space="preserve">
         <source xml:space="preserve">Round</source>
-        <target xml:space="preserve">회차</target>
+        <target xml:space="preserve" state="translated">회차</target>
       </trans-unit>
-      <trans-unit id="132">
+      <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Total</source>
-        <target xml:space="preserve">총합</target>
+        <target xml:space="preserve" state="translated">총합</target>
       </trans-unit>
-      <trans-unit id="133">
+      <trans-unit id="133" xml:space="preserve">
         <source xml:space="preserve">Candidates Ranked</source>
-        <target xml:space="preserve">후보자 순위</target>
+        <target xml:space="preserve" state="translated">후보자 순위</target>
       </trans-unit>
-      <trans-unit id="134">
+      <trans-unit id="134" xml:space="preserve">
         <source xml:space="preserve">All Votes</source>
-        <target xml:space="preserve">투표 총합</target>
+        <target xml:space="preserve" state="translated">투표 총합</target>
       </trans-unit>
-      <trans-unit id="135">
+      <trans-unit id="135" xml:space="preserve">
         <source xml:space="preserve">Voters</source>
-        <target xml:space="preserve">투표자</target>
+        <target xml:space="preserve" state="translated">투표자</target>
       </trans-unit>
-      <trans-unit id="136">
+      <trans-unit id="136" xml:space="preserve">
         <source xml:space="preserve">Current Events</source>
-        <target xml:space="preserve">진행 중</target>
+        <target xml:space="preserve" state="translated">진행 중</target>
       </trans-unit>
-      <trans-unit id="137">
+      <trans-unit id="137" xml:space="preserve">
         <source xml:space="preserve">Government Activity</source>
-        <target xml:space="preserve">정부 활동</target>
+        <target xml:space="preserve" state="translated">정부 활동</target>
       </trans-unit>
-      <trans-unit id="138">
+      <trans-unit id="138" xml:space="preserve">
         <source xml:space="preserve">User Activity</source>
-        <target xml:space="preserve">플레이어 활동</target>
+        <target xml:space="preserve" state="translated">플레이어 활동</target>
       </trans-unit>
-      <trans-unit id="139">
+      <trans-unit id="139" xml:space="preserve">
         <source xml:space="preserve">Citizen Activity</source>
-        <target xml:space="preserve">주민 활동</target>
+        <target xml:space="preserve" state="translated">주민 활동</target>
       </trans-unit>
-      <trans-unit id="140">
+      <trans-unit id="140" xml:space="preserve">
         <source xml:space="preserve">No Previous Elections</source>
-        <target xml:space="preserve">시행되었던 선거가 없습니다</target>
+        <target xml:space="preserve" state="translated">시행되었던 선거가 없습니다</target>
       </trans-unit>
-      <trans-unit id="141">
+      <trans-unit id="141" xml:space="preserve">
         <source xml:space="preserve">Server version</source>
-        <target xml:space="preserve">서버 버전</target>
+        <target xml:space="preserve" state="translated">서버 버전</target>
       </trans-unit>
-      <trans-unit id="142">
+      <trans-unit id="142" xml:space="preserve">
         <source xml:space="preserve">Clauses</source>
-        <target xml:space="preserve">조항</target>
+        <target xml:space="preserve" state="translated">조항</target>
       </trans-unit>
-      <trans-unit id="143">
+      <trans-unit id="143" xml:space="preserve">
         <source xml:space="preserve">hr</source>
-        <target xml:space="preserve">시간</target>
+        <target xml:space="preserve" state="translated">시간</target>
       </trans-unit>
-      <trans-unit id="144">
+      <trans-unit id="144" xml:space="preserve">
         <source xml:space="preserve">min</source>
-        <target xml:space="preserve">분</target>
+        <target xml:space="preserve" state="translated">분</target>
       </trans-unit>
-      <trans-unit id="145">
+      <trans-unit id="145" xml:space="preserve">
         <source xml:space="preserve">sec</source>
-        <target xml:space="preserve">초</target>
+        <target xml:space="preserve" state="translated">초</target>
       </trans-unit>
-      <trans-unit id="147">
+      <trans-unit id="147" xml:space="preserve">
         <source xml:space="preserve">Projected result</source>
-        <target xml:space="preserve">예상 결과</target>
+        <target xml:space="preserve" state="translated">예상 결과</target>
       </trans-unit>
-      <trans-unit id="148">
+      <trans-unit id="148" xml:space="preserve">
         <source xml:space="preserve">Vote</source>
-        <target xml:space="preserve">투표</target>
+        <target xml:space="preserve" state="translated">투표</target>
       </trans-unit>
-      <trans-unit id="149">
+      <trans-unit id="149" xml:space="preserve">
         <source xml:space="preserve">Votes</source>
-        <target xml:space="preserve">투표</target>
+        <target xml:space="preserve" state="translated">투표</target>
       </trans-unit>
-      <trans-unit id="150">
+      <trans-unit id="150" xml:space="preserve">
         <source xml:space="preserve">Vote ends in</source>
-        <target xml:space="preserve">투표 종료까지</target>
+        <target xml:space="preserve" state="translated">투표 종료까지</target>
       </trans-unit>
-      <trans-unit id="151">
+      <trans-unit id="151" xml:space="preserve">
         <source xml:space="preserve">Title</source>
-        <target xml:space="preserve">제목/직위</target>
+        <target xml:space="preserve" state="translated">제목/직위</target>
       </trans-unit>
-      <trans-unit id="152">
+      <trans-unit id="152" xml:space="preserve">
         <source xml:space="preserve">Winner</source>
-        <target xml:space="preserve">결과</target>
+        <target xml:space="preserve" state="translated">결과</target>
       </trans-unit>
-      <trans-unit id="153">
+      <trans-unit id="153" xml:space="preserve">
         <source xml:space="preserve">Ended</source>
-        <target xml:space="preserve">종료된 지</target>
+        <target xml:space="preserve" state="translated">종료된 지</target>
       </trans-unit>
-      <trans-unit id="154">
+      <trans-unit id="154" xml:space="preserve">
         <source xml:space="preserve">ago</source>
-        <target xml:space="preserve">지남</target>
+        <target xml:space="preserve" state="translated">지남</target>
       </trans-unit>
-      <trans-unit id="155">
+      <trans-unit id="155" xml:space="preserve">
         <source xml:space="preserve">days</source>
-        <target xml:space="preserve">일</target>
+        <target xml:space="preserve" state="translated">일</target>
       </trans-unit>
-      <trans-unit id="156">
+      <trans-unit id="156" xml:space="preserve">
         <source xml:space="preserve">hrs</source>
-        <target xml:space="preserve">시간</target>
+        <target xml:space="preserve" state="translated">시간</target>
       </trans-unit>
-      <trans-unit id="157">
+      <trans-unit id="157" xml:space="preserve">
         <source xml:space="preserve">mins</source>
-        <target xml:space="preserve">분</target>
+        <target xml:space="preserve" state="translated">분</target>
       </trans-unit>
-      <trans-unit id="158">
+      <trans-unit id="158" xml:space="preserve">
         <source xml:space="preserve">in the last hour</source>
-        <target xml:space="preserve">지난 한 시간 동안</target>
+        <target xml:space="preserve" state="translated">지난 한 시간 동안</target>
       </trans-unit>
-      <trans-unit id="159">
+      <trans-unit id="159" xml:space="preserve">
         <source xml:space="preserve">The winner was</source>
-        <target xml:space="preserve">투표의 결과는</target>
+        <target xml:space="preserve" state="translated">투표의 결과는</target>
       </trans-unit>
-      <trans-unit id="160">
+      <trans-unit id="160" xml:space="preserve">
         <source xml:space="preserve">Law</source>
-        <target xml:space="preserve">법률</target>
+        <target xml:space="preserve" state="translated">법률</target>
       </trans-unit>
-      <trans-unit id="161">
+      <trans-unit id="161" xml:space="preserve">
         <source xml:space="preserve">Compare Maps</source>
-        <target xml:space="preserve">지도 비교하기</target>
+        <target xml:space="preserve" state="translated">지도 비교하기</target>
       </trans-unit>
-      <trans-unit id="162">
+      <trans-unit id="162" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
-        <target xml:space="preserve">공직자 목록</target>
+        <target xml:space="preserve" state="translated">공직자 목록</target>
       </trans-unit>
-      <trans-unit id="163">
+      <trans-unit id="163" xml:space="preserve">
         <source xml:space="preserve">Running Elections</source>
-        <target xml:space="preserve">시행 중인 선거</target>
+        <target xml:space="preserve" state="translated">시행 중인 선거</target>
       </trans-unit>
-      <trans-unit id="164">
+      <trans-unit id="164" xml:space="preserve">
         <source xml:space="preserve">No Running Elections</source>
-        <target xml:space="preserve">시행 중인 선거 없음</target>
+        <target xml:space="preserve" state="translated">시행 중인 선거 없음</target>
       </trans-unit>
-      <trans-unit id="165">
+      <trans-unit id="165" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
-        <target xml:space="preserve">공직자 목록</target>
+        <target xml:space="preserve" state="translated">공직자 목록</target>
       </trans-unit>
-      <trans-unit id="167">
+      <trans-unit id="167" xml:space="preserve">
         <source xml:space="preserve">Title Holders</source>
-        <target xml:space="preserve">해당 직위의 소유자</target>
+        <target xml:space="preserve" state="translated">해당 직위의 소유자</target>
       </trans-unit>
-      <trans-unit id="168">
+      <trans-unit id="168" xml:space="preserve">
         <source xml:space="preserve">Status</source>
-        <target xml:space="preserve">직위</target>
+        <target xml:space="preserve" state="translated">직위</target>
       </trans-unit>
-      <trans-unit id="169">
+      <trans-unit id="169" xml:space="preserve">
         <source xml:space="preserve">Election Info</source>
-        <target xml:space="preserve">선거 정보</target>
+        <target xml:space="preserve" state="translated">선거 정보</target>
       </trans-unit>
-      <trans-unit id="170">
+      <trans-unit id="170" xml:space="preserve">
         <source xml:space="preserve">Since</source>
-        <target xml:space="preserve">선거 시작된 지</target>
+        <target xml:space="preserve" state="translated">선거 시작된 지</target>
       </trans-unit>
-      <trans-unit id="171">
+      <trans-unit id="171" xml:space="preserve">
         <source xml:space="preserve">Submitting</source>
-        <target xml:space="preserve">결과 집계 중</target>
+        <target xml:space="preserve" state="translated">결과 집계 중</target>
       </trans-unit>
-      <trans-unit id="172">
+      <trans-unit id="172" xml:space="preserve">
         <source xml:space="preserve">Your vote has been counted</source>
-        <target xml:space="preserve">투표가 반영되었습니다</target>
+        <target xml:space="preserve" state="translated">투표가 반영되었습니다</target>
       </trans-unit>
-      <trans-unit id="173">
+      <trans-unit id="173" xml:space="preserve">
         <source xml:space="preserve">Voting will end in</source>
-        <target xml:space="preserve">투표 마감되기까지</target>
+        <target xml:space="preserve" state="translated">투표 마감되기까지</target>
       </trans-unit>
-      <trans-unit id="174">
+      <trans-unit id="174" xml:space="preserve">
         <source xml:space="preserve">choice</source>
-        <target xml:space="preserve">선택</target>
+        <target xml:space="preserve" state="translated">선택</target>
       </trans-unit>
-      <trans-unit id="175">
+      <trans-unit id="175" xml:space="preserve">
         <source xml:space="preserve">No Active Titles</source>
-        <target xml:space="preserve">현재 선출된 직위가 없습니다</target>
+        <target xml:space="preserve" state="translated">현재 선출된 직위가 없습니다</target>
       </trans-unit>
       <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">첫 번째 시뮬레이션 틱이 지나면 웹 그래프를 확인할 수 있습니다.</target>
       </trans-unit>
-      <trans-unit id="177">
+      <trans-unit id="177" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here</source>
-        <target xml:space="preserve">이곳에서 법률에 대한 논의를 할 수 있습니다</target>
+        <target xml:space="preserve" state="translated">이곳에서 법률에 대한 논의를 할 수 있습니다</target>
       </trans-unit>
       <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">유성 없음</target>
       </trans-unit>
-      <trans-unit id="179">
+      <trans-unit id="179" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu</source>
-        <target xml:space="preserve">메뉴에서 선거를 선택하거나 직접 선거에 출마하십시오</target>
+        <target xml:space="preserve" state="translated">메뉴에서 선거를 선택하거나 직접 선거에 출마하십시오</target>
       </trans-unit>
       <trans-unit id="180" xml:space="preserve">
         <source xml:space="preserve">The meteor was destroyed</source>
@@ -698,9 +698,9 @@
         <source xml:space="preserve">There have been no elections yet</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">아직 선거는 실시되지 않았습니다</target>
       </trans-unit>
-      <trans-unit id="182">
+      <trans-unit id="182" xml:space="preserve">
         <source xml:space="preserve">To start a new election</source>
-        <target xml:space="preserve">새로운 선거를 시행하기 위해선</target>
+        <target xml:space="preserve" state="translated">새로운 선거를 시행하기 위해선</target>
       </trans-unit>
       <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
@@ -710,9 +710,9 @@
         <source xml:space="preserve">UserVotes</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">사용자 투표</target>
       </trans-unit>
-      <trans-unit id="185">
+      <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
-        <target xml:space="preserve">국고가 건설되어 있다면</target>
+        <target xml:space="preserve" state="translated">국고가 건설되어 있다면</target>
       </trans-unit>
     </body>
   </file>
