@@ -67694,8 +67694,7 @@ Total population remaining: <ph id="8">{8}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Failed to invoke in-line button rpc with name: {0} on controller with linkID: {1} &#10; {2}">
-        <source xml:space="preserve">Failed to invoke in-line button rpc with name: <ph id="0">{0}</ph> on controller with linkID: <ph id="1">{1}</ph> 
- <ph id="2">{2}</ph></source>
+        <source xml:space="preserve">Failed to invoke in-line button rpc with name: <ph id="0">{0}</ph> on controller with linkID: <ph id="1">{1}</ph><ph id="2">{2}</ph></source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="Nested clause failed because all sub-clauses failed:&#10;&#10;{0}">
@@ -69298,6 +69297,219 @@ Ctrl - x100</source>
       </trans-unit>
       <trans-unit id="Display only offers in the selected currencies.">
         <source xml:space="preserve">Display only offers in the selected currencies.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="highlight">
+        <source xml:space="preserve">highlight</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="export">
+        <source xml:space="preserve">export</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="Server data export tools.">
+        <source xml:space="preserve">Server data export tools.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+        <note>Help text for chat command /export</note>
+      </trans-unit>
+      <trans-unit id="treehashset">
+        <source xml:space="preserve">treehashset</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="exporttreehashset">
+        <source xml:space="preserve">exporttreehashset</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Dumps the tree subset of the live MinimapObject hashset to disk for bulk-load benchmarking. Optional &lt;filename&gt; overrides the auto timestamped basename.">
+        <source xml:space="preserve">Dumps the tree subset of the live MinimapObject hashset to disk for bulk-load benchmarking. Optional &lt;filename&gt; overrides the auto timestamped basename.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+        <note>Help text for chat command /treehashset</note>
+      </trans-unit>
+      <trans-unit id="The location of the dinner party.">
+        <source xml:space="preserve">The location of the dinner party.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="The deed hosting the dinner party.">
+        <source xml:space="preserve">The deed hosting the dinner party.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="The citizen involved in the dinner party.">
+        <source xml:space="preserve">The citizen involved in the dinner party.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Second Citizen">
+        <source xml:space="preserve">Second Citizen</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="The second citizen to dine, whose arrival started the party.">
+        <source xml:space="preserve">The second citizen to dine, whose arrival started the party.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="A dinner party has started.">
+        <source xml:space="preserve">A dinner party has started.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Triggers laws on settlements influencing the deed and the citizens' settlements.">
+        <source xml:space="preserve">Triggers laws on settlements influencing the deed and the citizens' settlements.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Dinner Party">
+        <source xml:space="preserve">Dinner Party</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Guest Count">
+        <source xml:space="preserve">Guest Count</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Culture Total">
+        <source xml:space="preserve">Culture Total</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Settlement Count">
+        <source xml:space="preserve">Settlement Count</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Meals Count">
+        <source xml:space="preserve">Meals Count</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Dinner Party Ended">
+        <source xml:space="preserve">Dinner Party Ended</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Number of guests who attended.">
+        <source xml:space="preserve">Number of guests who attended.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Total culture generated by the dinner party.">
+        <source xml:space="preserve">Total culture generated by the dinner party.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Number of different settlements whose members attended.">
+        <source xml:space="preserve">Number of different settlements whose members attended.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Total number of dishes eaten across all guests.">
+        <source xml:space="preserve">Total number of dishes eaten across all guests.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="A dinner party has finished.">
+        <source xml:space="preserve">A dinner party has finished.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Participate In Dinner Party">
+        <source xml:space="preserve">Participate In Dinner Party</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="A citizen participated in a dinner party.">
+        <source xml:space="preserve">A citizen participated in a dinner party.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Triggers laws on settlements influencing the deed and the citizen's settlements.">
+        <source xml:space="preserve">Triggers laws on settlements influencing the deed and the citizen's settlements.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Eat Food In Dinner Party">
+        <source xml:space="preserve">Eat Food In Dinner Party</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="The food that was eaten.">
+        <source xml:space="preserve">The food that was eaten.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="The table the food was eaten at.">
+        <source xml:space="preserve">The table the food was eaten at.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="The chair the citizen was seated on.">
+        <source xml:space="preserve">The chair the citizen was seated on.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="A citizen ate a food item at a dinner party.">
+        <source xml:space="preserve">A citizen ate a food item at a dinner party.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Matches Citizen">
+        <source xml:space="preserve">Matches Citizen</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Test if it matches one of the given citizens.">
+        <source xml:space="preserve">Test if it matches one of the given citizens.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Test a citizen is as expected.">
+        <source xml:space="preserve">Test a citizen is as expected.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Citizen Bank Account">
+        <source xml:space="preserve">Citizen Bank Account</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="The citizen whose personal bank account to get.">
+        <source xml:space="preserve">The citizen whose personal bank account to get.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="The personal (default) bank account of a citizen.">
+        <source xml:space="preserve">The personal (default) bank account of a citizen.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Get the owner (citizen or title) of a given deed.">
+        <source xml:space="preserve">Get the owner (citizen or title) of a given deed.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="notificationstats">
+        <source xml:space="preserve">notificationstats</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="Records controller notification fan-out and writes a sorted report to Logs/NotificationStats. Optionally pass duration in seconds, defaults to 180 seconds.">
+        <source xml:space="preserve">Records controller notification fan-out and writes a sorted report to Logs/NotificationStats. Optionally pass duration in seconds, defaults to 180 seconds.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+        <note>Help text for chat command /notificationstats</note>
+      </trans-unit>
+      <trans-unit id="filename">
+        <source xml:space="preserve">filename</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+        <note>Parameter for chat command /treehashset</note>
+      </trans-unit>
+      <trans-unit id="personal bank account of {0}">
+        <source xml:space="preserve">personal bank account of <ph id="0">{0}</ph></source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Owner of {0}.">
+        <source xml:space="preserve">Owner of <ph id="0">{0}</ph>.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Capturing controller notification stats for {0} seconds...">
+        <source xml:space="preserve">Capturing controller notification stats for <ph id="0">{0}</ph> seconds...</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Notification stats written to Logs/NotificationStats ({0} entries).">
+        <source xml:space="preserve">Notification stats written to Logs/NotificationStats (<ph id="0">{0}</ph> entries).</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Notification stats capture is already running.">
+        <source xml:space="preserve">Notification stats capture is already running.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Exported {0} tree minimap entries ({1} KiB) to {2}.">
+        <source xml:space="preserve">Exported <ph id="0">{0}</ph> tree minimap entries (<ph id="1">{1}</ph> KiB) to <ph id="2">{2}</ph>.</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="[/export TreeHashSet] {0} of {1} minimap objects exported to {2} ({3} KiB) in {4} ms. Species: {5}">
+        <source xml:space="preserve">[/export TreeHashSet] <ph id="0">{0}</ph> of <ph id="1">{1}</ph> minimap objects exported to <ph id="2">{2}</ph> (<ph id="3">{3}</ph> KiB) in <ph id="4">{4}</ph> ms. Species: <ph id="5">{5}</ph></source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Export">
+        <source xml:space="preserve">Export</source>
+        <target xml:space="preserve" state="needs-translation"></target>
+      </trans-unit>
+      <trans-unit id="Private Dinner Party (Hide dinner parties from public announcements)">
+        <source xml:space="preserve">Private Dinner Party (Hide dinner parties from public announcements)</source>
         <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
     </body>
