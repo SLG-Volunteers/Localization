@@ -3,14 +3,12 @@
   <file source-language="en" target-language="ar" datatype="plaintext" original="EcopediaStrings">
     <body>
       <trans-unit id="0" xml:space="preserve">
-        <source xml:space="preserve">Components related to the economy.
-</source>
+        <source xml:space="preserve">Components related to the economy.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">المكونات المتعلقة بالاقتصاد.
 </target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
-        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.
-</source>
+        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">مكون البنك هو المكان الذي يتم فيه إنشاء وإدارة {الحسابات المصرفية}. يمكن للمواطنين إنشاء حسابات متعددة لأنفسهم أو مشاركة الحسابات مع مواطنين آخرين. يمكن أيضًا تخصيص الحسابات لـ {الألقاب} و{التركيبة السكانية}.
 </target>
       </trans-unit>
@@ -19,8 +17,7 @@
 
 Account Managers can change the users in both the manager list and the user list, rename the account, and perform transactions. 
 
-In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.
-</source>
+In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يمكن لمستخدمي الحساب إجراء معاملات باستخدام الحساب (إضافة الأموال وسحبها).
 
 يمكن لمديري الحسابات تغيير المستخدمين في كل من قائمة المديرين وقائمة المستخدمين، وإعادة تسمية الحساب، وإجراء المعاملات. 
@@ -29,20 +26,17 @@ In the Advanced Settings, you can set the account as a Government Account.  Gove
 </target>
       </trans-unit>
       <trans-unit id="3" xml:space="preserve">
-        <source xml:space="preserve">The Bank component is used to create and manage bank accounts
-</source>
+        <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يُستخدم مكون "البنك" لإنشاء وإدارة الحسابات المصرفية
 </target>
       </trans-unit>
       <trans-unit id="4" xml:space="preserve">
-        <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.
-</source>
+        <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يتيح مكون "لوحة العقود" للمواطنين نشر وقبول {العقود} و{مجموعات العمل}، مما يسمح بالعمل الإجباري والاتفاقات الأخرى بين المواطنين.
 </target>
       </trans-unit>
       <trans-unit id="5" xml:space="preserve">
-        <source xml:space="preserve">Setting Up a Contract
-</source>
+        <source xml:space="preserve">Setting Up a Contract</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">إعداد عقد
 </target>
       </trans-unit>
@@ -59,8 +53,7 @@ When auto-detection is unchecked, the contractor will click 'Job Finished' when 
 Contracts have a set time length they must be completed within, determined when posting the contract. In addition, contracts can be set to repeat for recurring jobs. When this is enabled, each time a contract is accepted, repetition counter will be reduced by one.
 
 Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract is completed successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure.
-  
-</source>
+  </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 عند نشر عقد، يمكن أن يحتوي على أي عدد من البنود حسب الرغبة، ويمكن تكوين كل بند لوصف المهمة المطلوبة.  يجب استيفاء كل بند قبل اعتبار العقد مكتملًا.
 
@@ -77,8 +70,7 @@ Any payment offered for a contract will be held in a special Escrow {Bank Accoun
 </target>
       </trans-unit>
       <trans-unit id="7" xml:space="preserve">
-        <source xml:space="preserve">Work Parties
-</source>
+        <source xml:space="preserve">Work Parties</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">مجموعات العمل
 </target>
       </trans-unit>
@@ -89,7 +81,6 @@ Any payment offered for a contract will be held in a special Escrow {Bank Accoun
 After posting a work party, Laborers can join the project at the Contract Board. By default, anyone can join the work party as a laborer, but requirements can be set for individual roles or general requirements for anyone to join. When 'Expand Roles When Full' is checked, space for new laborers to join is created automatically when all roles are filled.
 
 When setting the Work desired, the poster of the work party can decide to hire for labor, resources, or both. Any citizen who contributes to the work party will receive a share of the payment based on the amount of work they provided. By assigning additional Weight to a particular job in a work party, that job will receive a higher share of the payment.
-
 </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 يمكن أيضًا نشر {مجموعات العمل} على لوحة العقود، مما يسمح بإنشاء مهام يمكن إنجازها من قبل العديد من المواطنين الآخرين، على عكس العقود التي هي اتفاق بين طرفين فقط. قبل نشر مجموعة عمل، يجب على المواطن بدء أمر عمل على طاولة صناعة يمتلكها.
@@ -111,7 +102,6 @@ There are a variety of Payment options for a work party, and multiple payment op
 - When offering {Research} as payment, all citizens who contribute the required amount will instantly discover the technology when the work party is finished. Research can be offered as payment only when the work party is creating a research book or if the citizen offering the work party has the research book in their inventory when posting the work party.
 
 - When granting a {Title|Titles} as payment, the citizen posting the contract must be a title manager for the title being offered. All citizens who contribute the minimum amount will be granted the new title. The Access Type determines if they will become a title manager or title user.
-
 </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 هناك مجموعة متنوعة من خيارات الدفع لفريق العمل، ويمكن تقديم خيارات دفع متعددة لنفس فريق العمل.
@@ -127,15 +117,13 @@ There are a variety of Payment options for a work party, and multiple payment op
 </target>
       </trans-unit>
       <trans-unit id="10" xml:space="preserve">
-        <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.
-</source>
+        <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يتيح مكون "لوحة العقود" للمواطنين نشر أو قبول العقود وعروض العمل.
 </target>
       </trans-unit>
       <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
-  
-</source>
+  </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يتيح مكون الائتمان للمواطنين تحديد العملة والحساب المصرفي لجميع المعاملات المتعلقة بأي شيء يمتلكونه.
   
 </target>
@@ -146,11 +134,10 @@ When selecting {Bank Accounts}, citizens can select any account they have been g
 
 Any of the world's {Currencies|Currency} can be selected in the Credit Component. This is the currency that will be used for any transactions that take place on that object (for example a {Store|Store Component} will accept whatever currency is set here). 
 
-When selecting None for the currency in a store, direct trades are possible without the need for a currency.
+When selecting "None" for the currency in a store, direct trades are possible without the need for a currency.
 
 Objects with a {Crafting Component} can define a fee for authorized citizens to use them. The settings in the Credit Component will determine what currency that fee is charged in and what account the funds are deposited to.
-  
-</source>
+  </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 عند اختيار {الحسابات المصرفية}، يمكن للمواطنين اختيار أي حساب تم منحهم حق الوصول إليه (يتم ذلك في {مكون البنك}). بشكل افتراضي، سيتم اختيار الحساب الشخصي للمواطن.
 
@@ -163,15 +150,13 @@ Objects with a {Crafting Component} can define a fee for authorized citizens to 
 </target>
       </trans-unit>
       <trans-unit id="13" xml:space="preserve">
-        <source xml:space="preserve">The Credit Component allows citizens to set the bank account and currency for transactions on an object.
-</source>
+        <source xml:space="preserve">The Credit Component allows citizens to set the bank account and currency for transactions on an object.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يتيح مكون الائتمان للمواطنين تحديد الحساب المصرفي والعملة المستخدمة في المعاملات المتعلقة بأحد الكائنات.
 </target>
       </trans-unit>
       <trans-unit id="14" xml:space="preserve">
         <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell {Property}.
-  
-</source>
+  </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يتيح مكون بيع العقارات للمواطنين شراء وبيع {العقارات}.
   
 </target>
@@ -185,8 +170,7 @@ When creating a listing, the property owner sets the price and {Currency} used. 
 When buying a deed, the currency will be taken from the bank account selected by the buyer. 
 
 After the property is sold, the deed and all objects contained on the deed are transferred to the new owner. 
-  
-</source>
+  </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 من خلال زيارة {مكتب العقارات|عنصر مكتب العقارات}، يمكن للمواطنين إنشاء قوائم لعقاراتهم وعرض قوائم المواطنين الآخرين. يمكن الوصول إلى جميع القوائم المنشورة من أي مكتب عقارات.
 
@@ -199,20 +183,17 @@ After the property is sold, the deed and all objects contained on the deed are t
 </target>
       </trans-unit>
       <trans-unit id="16" xml:space="preserve">
-        <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell property.
-</source>
+        <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell property.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">ويسمح مكون بيع العقارات للمواطنين بشراء وبيع العقارات.
 </target>
       </trans-unit>
       <trans-unit id="17" xml:space="preserve">
-        <source xml:space="preserve">The Exchange Component allows citizens to trade one {Currency} for another.
-</source>
+        <source xml:space="preserve">The Exchange Component allows citizens to trade one {Currency} for another.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يتيح مكون التبادل للمواطنين تبادل {عملة} بأخرى.
 </target>
       </trans-unit>
       <trans-unit id="18" xml:space="preserve">
-        <source xml:space="preserve">Exchanging Currency
-</source>
+        <source xml:space="preserve">Exchanging Currency</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">تبادل العملات
 </target>
       </trans-unit>
@@ -221,8 +202,7 @@ After the property is sold, the deed and all objects contained on the deed are t
 The owner of a {CurrencyExchangeItem} uses the Exchange Component to offer currency exchanges to other citizens. When setting up an exchange, the Owner Currency is the currency being offered for sale. For each unit of owner currency purchased, citizens will be charged the set amount of alternate currency.
 
 When an {Authorized Consumer|Authorization Component} visits the currency exchange, they will see a list of all offered exchanges. By default, all citizens are authorized consumers.
-	
-</source>
+	</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 يستخدم مالك {CurrencyExchangeItem} مكون الصرف لتقديم خدمات صرف العملات للمواطنين الآخرين. عند إعداد عملية صرف، تكون عملة المالك هي العملة المعروضة للبيع. مقابل كل وحدة من عملة المالك يتم شراؤها، سيتم تحصيل المبلغ المحدد من العملة البديلة من المواطنين.
 
@@ -231,8 +211,7 @@ When an {Authorized Consumer|Authorization Component} visits the currency exchan
 </target>
       </trans-unit>
       <trans-unit id="20" xml:space="preserve">
-        <source xml:space="preserve">Exchange Restrictions
-</source>
+        <source xml:space="preserve">Exchange Restrictions</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">قيود التبادل
 </target>
       </trans-unit>
@@ -241,8 +220,7 @@ When an {Authorized Consumer|Authorization Component} visits the currency exchan
 The owner of the Currency Exchange has the option to setup Balance Restrictions. These will prevent citizens from exchanging currency if the amount of currency in the chosen account does not meet the restriction.
 
 The number on the left is the minimum currency holding and the number on the right is the maximum currency holding. If either value for the balance restriction is left at 0, there will be no limit for that part of the balance restriction.
-	
-</source>
+	</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 يمتلك صاحب صرافة العملات خيار إعداد قيود الرصيد. ستمنع هذه القيود المواطنين من صرف العملات إذا كان مبلغ العملة في الحساب المختار لا يفي بالقيود.
 
@@ -251,14 +229,12 @@ The number on the left is the minimum currency holding and the number on the rig
 </target>
       </trans-unit>
       <trans-unit id="22" xml:space="preserve">
-        <source xml:space="preserve">Allows citizens to setup a currency exchange .
-</source>
+        <source xml:space="preserve">Allows citizens to setup a currency exchange .</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">تسمح للمواطنين بإنشاء سوق صرف العملات.
 </target>
       </trans-unit>
       <trans-unit id="23" xml:space="preserve">
-        <source xml:space="preserve">The Item Distribution Component allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
-</source>
+        <source xml:space="preserve">The Item Distribution Component allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يتيح مكون توزيع العناصر للمالك تقديم عناصر مجانية للمواطنين الجدد، كبادرة حسن نية ولتعزيز الرخاء الأولي للمواطنين.
 </target>
       </trans-unit>
@@ -267,8 +243,7 @@ The number on the left is the minimum currency holding and the number on the rig
 All new citizens who qualify (based on how long they have played) can collect their items by visiting the {DistributionStationItem}. Upon entering the world, new citizens will start with a global map marker to alert them that the items are available. Note that the {Storage Component} must remain stocked with the items being distributed to allow new citizens to collect them.
 
 The owner may designate what items are to be distributed, how many of each item, and how recently the citizen must have joined the world to be eligible.
-  
-</source>
+  </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 يمكن لجميع المواطنين الجدد المؤهلين (بناءً على مدة لعبهم) الحصول على أغراضهم من خلال زيارة {DistributionStationItem}. عند دخول العالم، سيبدأ المواطنون الجدد بعلامة على الخريطة العالمية لتنبيههم بأن الأغراض متوفرة. لاحظ أن {Storage Component} يجب أن تظل مزودة بالأغراض الموزعة للسماح للمواطنين الجدد بالحصول عليها.
 
@@ -277,14 +252,12 @@ The owner may designate what items are to be distributed, how many of each item,
 </target>
       </trans-unit>
       <trans-unit id="25" xml:space="preserve">
-        <source xml:space="preserve">Allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
-</source>
+        <source xml:space="preserve">Allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">تسمح اللعبة للمالك بتقديم عناصر مجانية للمواطنين الجدد، كبادرة حسن نية ولتعزيز الرخاء الأولي للمواطنين.
 </target>
       </trans-unit>
       <trans-unit id="26" xml:space="preserve">
         <source xml:space="preserve">The Mint Component allows citizens to create {Currencies|Currency} which are backed by a resource. 
-
 </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">يتيح مكون Mint للمواطنين إنشاء {عملات|عملة} مدعومة بمورد ما. 
 
@@ -297,8 +270,7 @@ When creating a currency at a {MintItem}, a backing item is chosen, as well as a
 The backing material and coins per item are permanent, so be careful when deciding how to back a currency. Once a currency is minted, it will become tied to the mint it was created on, even if that mint is picked up.
 
 Citizens who have been granted consumer rights in the {Authorization Component} can use the Mint Component to mint additional currency. Currency can be minted into the target {Bank Account|Bank Accounts} selected by the mint owner, or any bank account the citizen minting has access to in the {Bank Component}.
-  
-</source>
+  </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 عند إنشاء عملة في {MintItem}، يتم اختيار عنصر دعم، بالإضافة إلى مبلغ من العملات لكل عنصر يتم توليده من كل عنصر يتم استهلاكه.  باستخدام عنصر دعم للعملة، يمكن تحديد المبلغ الإجمالي المحتمل للعملة بعدد العناصر المساهمة، مما يوفر مزيدًا من الاستقرار حيث يصبح من الصعب إغراق السوق بعملة جديدة.  سيؤثر اختيار العنصر الداعم على ذلك، حيث توفر العناصر الأكثر ندرة عمومًا مزيدًا من الاستقرار نظرًا لصعوبة الحصول عليها.
 
@@ -309,16 +281,14 @@ Citizens who have been granted consumer rights in the {Authorization Component} 
 </target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
-        <source xml:space="preserve">Allows citizens to create and print backed currencies.
-</source>
+        <source xml:space="preserve">Allows citizens to create and print backed currencies.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">تسمح للمواطنين بإنشاء وطباعة عملات مدعومة.
 </target>
       </trans-unit>
       <trans-unit id="29" xml:space="preserve">
         <source xml:space="preserve">
 The Store Component allows citizens to set items they wish to buy from and sell to other citizens. These actions can happen automatically, not requiring the store owner to be online.
-  
-</source>
+  </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 يتيح مكون المتجر للمواطنين تحديد العناصر التي يرغبون في شرائها وبيعها للمواطنين الآخرين. يمكن أن تحدث هذه الإجراءات تلقائيًا، دون الحاجة إلى أن يكون صاحب المتجر متصلاً بالإنترنت.
   
@@ -326,7 +296,7 @@ The Store Component allows citizens to set items they wish to buy from and sell 
       </trans-unit>
       <trans-unit id="30" xml:space="preserve">
         <source xml:space="preserve">
-The currency and bank account selected in the {Credit Component} will be used for all transactions at the store. When selecting None for the currency in a store, direct trades are possible that are not subject to sales tax. 
+The currency and bank account selected in the {Credit Component} will be used for all transactions at the store. When selecting "None" for the currency in a store, direct trades are possible that are not subject to sales tax. 
  
 A store owner can link specific containers in the {Storage Component} to pick which items are considered part of the store's inventory. By default, all nearby storage containers are linked to the store when it is first placed.
 
@@ -335,8 +305,7 @@ When creating a Sale List, only the price needs to be set. The inventory for a S
 When creating a Purchase List, the price and Max to Buy quantity for each item must be decided. If the Max to Buy quantity is left at zero, the store will continue to purchase items until the linked containers are full. If a Max to Buy quantity is specified, citizens can sell that item until the linked storage contains that amount.
 
 For tools with durability, a minimum durability to buy/sell can be set, and only items of that durability or higher will be eligible for trade via the store.
- 
-</source>
+ </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 سيتم استخدام العملة والحساب المصرفي المحددين في {مكون الائتمان} لجميع المعاملات في المتجر. عند تحديد "بلا" للعملة في المتجر، يمكن إجراء معاملات مباشرة لا تخضع لضريبة المبيعات.
  
@@ -351,21 +320,18 @@ For tools with durability, a minimum durability to buy/sell can be set, and only
 </target>
       </trans-unit>
       <trans-unit id="32" xml:space="preserve">
-        <source xml:space="preserve">Sets up an interface for other citizens to buy and sell goods from/to you automatically.
-</source>
+        <source xml:space="preserve">Sets up an interface for other citizens to buy and sell goods from/to you automatically.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">تقوم بإعداد واجهة للمواطنين الآخرين لشراء وبيع السلع منك وإليك تلقائيًا.
 </target>
       </trans-unit>
       <trans-unit id="33" xml:space="preserve">
-        <source xml:space="preserve">Components related to the government.
-</source>
+        <source xml:space="preserve">Components related to the government.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">المكونات المتعلقة بالحكومة.
 </target>
       </trans-unit>
       <trans-unit id="34" xml:space="preserve">
         <source xml:space="preserve">
 The Civic Action Component allows citizens to participate in {Elections}, perform {Executive Actions}, and resign from office, depending on which object is being used.
-
 </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 يتيح مكون العمل المدني للمواطنين المشاركة في {الانتخابات}، وتنفيذ {الإجراءات التنفيذية}، والاستقالة من المنصب، اعتمادًا على الكائن المستخدم.
@@ -373,8 +339,7 @@ The Civic Action Component allows citizens to participate in {Elections}, perfor
 </target>
       </trans-unit>
       <trans-unit id="35" xml:space="preserve">
-        <source xml:space="preserve">Participating in Elections
-</source>
+        <source xml:space="preserve">Participating in Elections</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">المشاركة في الانتخابات
 </target>
       </trans-unit>
@@ -387,7 +352,6 @@ By pressing the Vote button, players are redirected to the web interface where t
 Citizens who have been granted Veto power in the current {Election Process|Election Processes} can instantly overturn an election.
 
 To run for elected titles, first an eligible citizen must use the Start Election action. Once an election has started, eligible citizens can select Enter Election to join the race and give a campaign speech. Candidates can opt to Withdraw from Election at any time using the option available on a Ballot Box.
-
 </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 عند استخدام مكون العمل المدني في {صندوق الاقتراع|عنصر صندوق الاقتراع}، يمكن للمواطنين الترشح لـ {الألقاب المنتخبة} والمشاركة في الانتخابات. 
@@ -401,8 +365,7 @@ To run for elected titles, first an eligible citizen must use the Start Election
 </target>
       </trans-unit>
       <trans-unit id="37" xml:space="preserve">
-        <source xml:space="preserve">Performing Executive Actions
-</source>
+        <source xml:space="preserve">Performing Executive Actions</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">تنفيذ الإجراءات التنفيذية
 </target>
       </trans-unit>
@@ -413,7 +376,6 @@ Using the Civic Action Component at an {Executive Office|Executive Office Item} 
 The Citizen Conditions dictate which citizens the executive action applies to, and multiple conditions can be set for a citizen to qualify. To perform an action for all citizens, use the {Demographic} ‘Everyone’ as the citizen condition.
 
 The Action on Each Citizen will take effect as soon as the executive action is approved. Multiple actions can be performed at once for each citizen who meets the conditions.
-
 </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 يتيح استخدام مكون "الإجراء المدني" في {المكتب التنفيذي|عنصر المكتب التنفيذي} لمنصب منتخب تنفيذ إجراءات تنفيذية لمرة واحدة تؤثر على مجموعة من المواطنين.
@@ -425,8 +387,7 @@ The Action on Each Citizen will take effect as soon as the executive action is a
 </target>
       </trans-unit>
       <trans-unit id="39" xml:space="preserve">
-        <source xml:space="preserve">Government Office Actions
-</source>
+        <source xml:space="preserve">Government Office Actions</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">إجراءات المكاتب الحكومية
 </target>
       </trans-unit>
@@ -437,7 +398,6 @@ At the {Government Office|Government Office Item}, the Civic Action Component al
 The Resign from Office action allows any elected official to step down from their position. If a Successor title was assigned to the Elected Title when it was created, a new official will be randomly selected from all citizens holding that title; otherwise the Elected Title becomes vacant.
 
 The Remove Official from Office action allows citizens who have been given the authority to remove elected titles from office. The same rules for finding a successor apply as if the official resigned.
-
 </source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
 في {مكتب الحكومة|عنصر مكتب الحكومة}، يسمح مكون العمل المدني للألقاب المنتخبة بالاستقالة أو عزل الألقاب المنتخبة الأخرى من مناصبها.
