@@ -2,109 +2,109 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="ru" datatype="plaintext" original="WebClientStrings">
     <body>
-      <trans-unit id="1">
+      <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">404 page not found</source>
-        <target xml:space="preserve">404 страница не найдена</target>
+        <target xml:space="preserve" state="translated">404 страница не найдена</target>
       </trans-unit>
-      <trans-unit id="2">
+      <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Allow Debug Calls</source>
-        <target xml:space="preserve">Разрешить отладку</target>
+        <target xml:space="preserve" state="translated">Разрешить отладку</target>
       </trans-unit>
-      <trans-unit id="3">
+      <trans-unit id="3" xml:space="preserve">
         <source xml:space="preserve">Private Server</source>
-        <target xml:space="preserve">Частный сервер</target>
+        <target xml:space="preserve" state="translated">Частный сервер</target>
       </trans-unit>
-      <trans-unit id="4">
+      <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">White list</source>
-        <target xml:space="preserve">Белый список</target>
+        <target xml:space="preserve" state="translated">Белый список</target>
       </trans-unit>
-      <trans-unit id="5">
+      <trans-unit id="5" xml:space="preserve">
         <source xml:space="preserve">Black list</source>
-        <target xml:space="preserve">Черный список</target>
+        <target xml:space="preserve" state="translated">Черный список</target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">Admin</source>
-        <target xml:space="preserve">Администратор</target>
+        <target xml:space="preserve" state="translated">Администратор</target>
       </trans-unit>
-      <trans-unit id="7">
+      <trans-unit id="7" xml:space="preserve">
         <source xml:space="preserve">Max Slots</source>
-        <target xml:space="preserve">Максимум слотов</target>
+        <target xml:space="preserve" state="translated">Максимум слотов</target>
       </trans-unit>
-      <trans-unit id="8">
+      <trans-unit id="8" xml:space="preserve">
         <source xml:space="preserve">Spawn location</source>
-        <target xml:space="preserve">Место появления</target>
+        <target xml:space="preserve" state="translated">Место появления</target>
       </trans-unit>
-      <trans-unit id="9">
+      <trans-unit id="9" xml:space="preserve">
         <source xml:space="preserve">Reputations</source>
-        <target xml:space="preserve">Репутация</target>
+        <target xml:space="preserve" state="translated">Репутация</target>
       </trans-unit>
-      <trans-unit id="10">
+      <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">Use Waste</source>
-        <target xml:space="preserve">Использовать отходы</target>
+        <target xml:space="preserve" state="translated">Использовать отходы</target>
       </trans-unit>
-      <trans-unit id="11">
+      <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">Network Config</source>
-        <target xml:space="preserve">Настройки сети</target>
+        <target xml:space="preserve" state="translated">Настройки сети</target>
       </trans-unit>
-      <trans-unit id="12">
+      <trans-unit id="12" xml:space="preserve">
         <source xml:space="preserve">Public server</source>
-        <target xml:space="preserve">Публичный сервер</target>
+        <target xml:space="preserve" state="translated">Публичный сервер</target>
       </trans-unit>
-      <trans-unit id="13">
+      <trans-unit id="13" xml:space="preserve">
         <source xml:space="preserve">IP address</source>
-        <target xml:space="preserve">IP адрес</target>
+        <target xml:space="preserve" state="translated">IP адрес</target>
       </trans-unit>
-      <trans-unit id="14">
+      <trans-unit id="14" xml:space="preserve">
         <source xml:space="preserve">Game server port</source>
-        <target xml:space="preserve">Порт игрового сервера</target>
+        <target xml:space="preserve" state="translated">Порт игрового сервера</target>
       </trans-unit>
-      <trans-unit id="15">
+      <trans-unit id="15" xml:space="preserve">
         <source xml:space="preserve">Web server port</source>
-        <target xml:space="preserve">Порт веб-сервера</target>
+        <target xml:space="preserve" state="translated">Порт веб-сервера</target>
       </trans-unit>
-      <trans-unit id="16">
+      <trans-unit id="16" xml:space="preserve">
         <source xml:space="preserve">Rate</source>
-        <target xml:space="preserve">Частота</target>
+        <target xml:space="preserve" state="translated">Частота</target>
       </trans-unit>
-      <trans-unit id="17">
+      <trans-unit id="17" xml:space="preserve">
         <source xml:space="preserve">Server browser service</source>
-        <target xml:space="preserve">Сервис обозревателя серверов</target>
+        <target xml:space="preserve" state="translated">Сервис обозревателя серверов</target>
       </trans-unit>
-      <trans-unit id="18">
+      <trans-unit id="18" xml:space="preserve">
         <source xml:space="preserve">SAVE</source>
-        <target xml:space="preserve">Сохранить</target>
+        <target xml:space="preserve" state="translated">Сохранить</target>
       </trans-unit>
-      <trans-unit id="19">
+      <trans-unit id="19" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect Explorer</source>
-        <target xml:space="preserve">Исследователь причины и эффекта</target>
+        <target xml:space="preserve" state="translated">Исследователь причины и эффекта</target>
       </trans-unit>
-      <trans-unit id="20">
+      <trans-unit id="20" xml:space="preserve">
         <source xml:space="preserve">Select Category</source>
-        <target xml:space="preserve">Выбор категории</target>
+        <target xml:space="preserve" state="translated">Выбор категории</target>
       </trans-unit>
-      <trans-unit id="21">
+      <trans-unit id="21" xml:space="preserve">
         <source xml:space="preserve">Select Layer</source>
-        <target xml:space="preserve">Выбор слоя</target>
+        <target xml:space="preserve" state="translated">Выбор слоя</target>
       </trans-unit>
       <trans-unit id="22" xml:space="preserve">
         <source xml:space="preserve">Maps showing 400 square meters centered at 50</source>
         <target xml:space="preserve" state="translated">Карта отображает 400 кв. метров с центром в 50</target>
       </trans-unit>
-      <trans-unit id="23">
+      <trans-unit id="23" xml:space="preserve">
         <source xml:space="preserve">Eco Elections</source>
-        <target xml:space="preserve">Eco Голосования</target>
+        <target xml:space="preserve" state="translated">Eco Голосования</target>
       </trans-unit>
       <trans-unit id="24" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu or you can run for office</source>
         <target xml:space="preserve" state="translated">Выберите голосование в меню или начните новое</target>
       </trans-unit>
-      <trans-unit id="25">
+      <trans-unit id="25" xml:space="preserve">
         <source xml:space="preserve">Candidates</source>
-        <target xml:space="preserve">Кандидаты</target>
+        <target xml:space="preserve" state="translated">Кандидаты</target>
       </trans-unit>
-      <trans-unit id="26">
+      <trans-unit id="26" xml:space="preserve">
         <source xml:space="preserve">Elected officials receive 15 property claims</source>
-        <target xml:space="preserve">Выбранные на должность получают 15 квитанций землемера</target>
+        <target xml:space="preserve" state="translated">Выбранные на должность получают 15 квитанций землемера</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
@@ -114,13 +114,13 @@
         <source xml:space="preserve">This election uses</source>
         <target xml:space="preserve" state="translated">Это голосование использует</target>
       </trans-unit>
-      <trans-unit id="29">
+      <trans-unit id="29" xml:space="preserve">
         <source xml:space="preserve">Instant Runoff Voting</source>
-        <target xml:space="preserve">Мгновенное рейтинговое голосование</target>
+        <target xml:space="preserve" state="translated">Мгновенное рейтинговое голосование</target>
       </trans-unit>
-      <trans-unit id="30">
+      <trans-unit id="30" xml:space="preserve">
         <source xml:space="preserve">Submit Vote</source>
-        <target xml:space="preserve">Голосовать</target>
+        <target xml:space="preserve" state="translated">Голосовать</target>
       </trans-unit>
       <trans-unit id="31" xml:space="preserve">
         <source xml:space="preserve">Run For Office</source>
@@ -130,69 +130,69 @@
         <source xml:space="preserve">Remove Self</source>
         <target xml:space="preserve" state="translated">Снять свою кандидатуру</target>
       </trans-unit>
-      <trans-unit id="33">
+      <trans-unit id="33" xml:space="preserve">
         <source xml:space="preserve">Current Results</source>
-        <target xml:space="preserve">Текущие результаты</target>
+        <target xml:space="preserve" state="translated">Текущие результаты</target>
       </trans-unit>
       <trans-unit id="34" xml:space="preserve">
         <source xml:space="preserve">No one has voted yet</source>
         <target xml:space="preserve" state="translated">Пока никто не проголосовал</target>
       </trans-unit>
-      <trans-unit id="35">
+      <trans-unit id="35" xml:space="preserve">
         <source xml:space="preserve">Votes per round</source>
-        <target xml:space="preserve">Голоса за раунд</target>
+        <target xml:space="preserve" state="translated">Голоса за раунд</target>
       </trans-unit>
-      <trans-unit id="36">
+      <trans-unit id="36" xml:space="preserve">
         <source xml:space="preserve">View All Votes</source>
-        <target xml:space="preserve">Показать все голоса</target>
+        <target xml:space="preserve" state="translated">Показать все голоса</target>
       </trans-unit>
-      <trans-unit id="37">
+      <trans-unit id="37" xml:space="preserve">
         <source xml:space="preserve">Discussion</source>
-        <target xml:space="preserve">Обсуждение</target>
+        <target xml:space="preserve" state="translated">Обсуждение</target>
       </trans-unit>
-      <trans-unit id="38">
+      <trans-unit id="38" xml:space="preserve">
         <source xml:space="preserve">Day</source>
-        <target xml:space="preserve">День</target>
+        <target xml:space="preserve" state="translated">День</target>
       </trans-unit>
-      <trans-unit id="39">
+      <trans-unit id="39" xml:space="preserve">
         <source xml:space="preserve">Enter your response</source>
-        <target xml:space="preserve">Введите ваш комментарий</target>
+        <target xml:space="preserve" state="translated">Введите ваш комментарий</target>
       </trans-unit>
-      <trans-unit id="40">
+      <trans-unit id="40" xml:space="preserve">
         <source xml:space="preserve">Remove Graph</source>
-        <target xml:space="preserve">Удалить график</target>
+        <target xml:space="preserve" state="translated">Удалить график</target>
       </trans-unit>
-      <trans-unit id="41">
+      <trans-unit id="41" xml:space="preserve">
         <source xml:space="preserve">Remove Map</source>
-        <target xml:space="preserve">Удалить карту</target>
+        <target xml:space="preserve" state="translated">Удалить карту</target>
       </trans-unit>
-      <trans-unit id="42">
+      <trans-unit id="42" xml:space="preserve">
         <source xml:space="preserve">Submit</source>
-        <target xml:space="preserve">Отправить</target>
+        <target xml:space="preserve" state="translated">Отправить</target>
       </trans-unit>
-      <trans-unit id="43">
+      <trans-unit id="43" xml:space="preserve">
         <source xml:space="preserve">Cancel</source>
-        <target xml:space="preserve">Отмена</target>
+        <target xml:space="preserve" state="translated">Отмена</target>
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
         <target xml:space="preserve" state="translated">Что бы начать новое голосование нужно стать кандидатом</target>
       </trans-unit>
-      <trans-unit id="45">
+      <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
-        <target xml:space="preserve">Пожалуйста расскажите почему вас должны выбрать</target>
+        <target xml:space="preserve" state="translated">Пожалуйста расскажите почему вас должны выбрать</target>
       </trans-unit>
-      <trans-unit id="46">
+      <trans-unit id="46" xml:space="preserve">
         <source xml:space="preserve">Enter Your Speech</source>
-        <target xml:space="preserve">Введите вашу речь</target>
+        <target xml:space="preserve" state="translated">Введите вашу речь</target>
       </trans-unit>
-      <trans-unit id="49">
+      <trans-unit id="49" xml:space="preserve">
         <source xml:space="preserve">Scientific Data</source>
-        <target xml:space="preserve">Научные данные</target>
+        <target xml:space="preserve" state="translated">Научные данные</target>
       </trans-unit>
-      <trans-unit id="50">
+      <trans-unit id="50" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect</source>
-        <target xml:space="preserve">Причины и Следствия</target>
+        <target xml:space="preserve" state="translated">Причины и Следствия</target>
       </trans-unit>
       <trans-unit id="51" xml:space="preserve">
         <source xml:space="preserve">Run For Office</source>
@@ -206,221 +206,221 @@
         <source xml:space="preserve">Previous Elections</source>
         <target xml:space="preserve" state="translated">Предыдущие голосования</target>
       </trans-unit>
-      <trans-unit id="56">
+      <trans-unit id="56" xml:space="preserve">
         <source xml:space="preserve">Active Laws</source>
-        <target xml:space="preserve">Активные законы</target>
+        <target xml:space="preserve" state="translated">Активные законы</target>
       </trans-unit>
-      <trans-unit id="57">
+      <trans-unit id="57" xml:space="preserve">
         <source xml:space="preserve">Proposed Laws</source>
-        <target xml:space="preserve">Предложенные законы</target>
+        <target xml:space="preserve" state="translated">Предложенные законы</target>
       </trans-unit>
-      <trans-unit id="59">
+      <trans-unit id="59" xml:space="preserve">
         <source xml:space="preserve">Select Map Layer</source>
-        <target xml:space="preserve">Выбор слоя карты</target>
+        <target xml:space="preserve" state="translated">Выбор слоя карты</target>
       </trans-unit>
-      <trans-unit id="60">
+      <trans-unit id="60" xml:space="preserve">
         <source xml:space="preserve">Data</source>
-        <target xml:space="preserve">Данные</target>
+        <target xml:space="preserve" state="translated">Данные</target>
       </trans-unit>
-      <trans-unit id="61">
+      <trans-unit id="61" xml:space="preserve">
         <source xml:space="preserve">Graph</source>
-        <target xml:space="preserve">График</target>
+        <target xml:space="preserve" state="translated">График</target>
       </trans-unit>
-      <trans-unit id="62">
+      <trans-unit id="62" xml:space="preserve">
         <source xml:space="preserve">Lines</source>
-        <target xml:space="preserve">Линейный</target>
+        <target xml:space="preserve" state="translated">Линейный</target>
       </trans-unit>
-      <trans-unit id="63">
+      <trans-unit id="63" xml:space="preserve">
         <source xml:space="preserve">Bars</source>
-        <target xml:space="preserve">Столбчатый</target>
+        <target xml:space="preserve" state="translated">Столбчатый</target>
       </trans-unit>
-      <trans-unit id="64">
+      <trans-unit id="64" xml:space="preserve">
         <source xml:space="preserve">Day</source>
-        <target xml:space="preserve">День</target>
+        <target xml:space="preserve" state="translated">День</target>
       </trans-unit>
-      <trans-unit id="65">
+      <trans-unit id="65" xml:space="preserve">
         <source xml:space="preserve">View the global effects that shape this world and how they influence each other</source>
-        <target xml:space="preserve">Просмотр глобальных эффектов воздействующих на мир и их взаимодействие друг с другом</target>
+        <target xml:space="preserve" state="translated">Просмотр глобальных эффектов воздействующих на мир и их взаимодействие друг с другом</target>
       </trans-unit>
-      <trans-unit id="66">
+      <trans-unit id="66" xml:space="preserve">
         <source xml:space="preserve">Select a category above and use the time bar at the bottom to scroll through history</source>
-        <target xml:space="preserve">Выберите категорию вверху и используя панель времени внизу просматривайте историю</target>
+        <target xml:space="preserve" state="translated">Выберите категорию вверху и используя панель времени внизу просматривайте историю</target>
       </trans-unit>
-      <trans-unit id="67">
+      <trans-unit id="67" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect Exploration</source>
-        <target xml:space="preserve">Исследование причины и эффекта</target>
+        <target xml:space="preserve" state="translated">Исследование причины и эффекта</target>
       </trans-unit>
-      <trans-unit id="68">
+      <trans-unit id="68" xml:space="preserve">
         <source xml:space="preserve">Users Config</source>
-        <target xml:space="preserve">Настройки пользователей</target>
+        <target xml:space="preserve" state="translated">Настройки пользователей</target>
       </trans-unit>
-      <trans-unit id="69">
+      <trans-unit id="69" xml:space="preserve">
         <source xml:space="preserve">Require Authentication</source>
-        <target xml:space="preserve">Требуется аутентификация</target>
+        <target xml:space="preserve" state="translated">Требуется аутентификация</target>
       </trans-unit>
-      <trans-unit id="70">
+      <trans-unit id="70" xml:space="preserve">
         <source xml:space="preserve">days/sec</source>
-        <target xml:space="preserve">дни/сек</target>
+        <target xml:space="preserve" state="translated">дни/сек</target>
       </trans-unit>
-      <trans-unit id="71">
+      <trans-unit id="71" xml:space="preserve">
         <source xml:space="preserve">In-Game Actions</source>
-        <target xml:space="preserve">Внутри-игровые действия</target>
+        <target xml:space="preserve" state="translated">Внутри-игровые действия</target>
       </trans-unit>
-      <trans-unit id="72">
+      <trans-unit id="72" xml:space="preserve">
         <source xml:space="preserve">Eco Laws</source>
-        <target xml:space="preserve">Eco законы</target>
+        <target xml:space="preserve" state="translated">Eco законы</target>
       </trans-unit>
-      <trans-unit id="73">
+      <trans-unit id="73" xml:space="preserve">
         <source xml:space="preserve">Select a law from the menu</source>
-        <target xml:space="preserve">Выберите закон из списка</target>
+        <target xml:space="preserve" state="translated">Выберите закон из списка</target>
       </trans-unit>
-      <trans-unit id="74">
+      <trans-unit id="74" xml:space="preserve">
         <source xml:space="preserve">Law Info</source>
-        <target xml:space="preserve">Информация о законе</target>
+        <target xml:space="preserve" state="translated">Информация о законе</target>
       </trans-unit>
-      <trans-unit id="75">
+      <trans-unit id="75" xml:space="preserve">
         <source xml:space="preserve">Reasoning</source>
-        <target xml:space="preserve">Причины</target>
+        <target xml:space="preserve" state="translated">Причины</target>
       </trans-unit>
-      <trans-unit id="76">
+      <trans-unit id="76" xml:space="preserve">
         <source xml:space="preserve">Current Results</source>
-        <target xml:space="preserve">Текущие результаты</target>
+        <target xml:space="preserve" state="translated">Текущие результаты</target>
       </trans-unit>
-      <trans-unit id="77">
+      <trans-unit id="77" xml:space="preserve">
         <source xml:space="preserve">This law was passed</source>
-        <target xml:space="preserve">Этот закон был принят</target>
+        <target xml:space="preserve" state="translated">Этот закон был принят</target>
       </trans-unit>
-      <trans-unit id="78">
+      <trans-unit id="78" xml:space="preserve">
         <source xml:space="preserve">Yes</source>
-        <target xml:space="preserve">Да</target>
+        <target xml:space="preserve" state="translated">Да</target>
       </trans-unit>
-      <trans-unit id="79">
+      <trans-unit id="79" xml:space="preserve">
         <source xml:space="preserve">No</source>
-        <target xml:space="preserve">Нет</target>
+        <target xml:space="preserve" state="translated">Нет</target>
       </trans-unit>
-      <trans-unit id="80">
+      <trans-unit id="80" xml:space="preserve">
         <source xml:space="preserve">Add Graph</source>
-        <target xml:space="preserve">Добавить график</target>
+        <target xml:space="preserve" state="translated">Добавить график</target>
       </trans-unit>
-      <trans-unit id="81">
+      <trans-unit id="81" xml:space="preserve">
         <source xml:space="preserve">Add Map</source>
-        <target xml:space="preserve">Добавить карту</target>
+        <target xml:space="preserve" state="translated">Добавить карту</target>
       </trans-unit>
-      <trans-unit id="82">
+      <trans-unit id="82" xml:space="preserve">
         <source xml:space="preserve">Cancel</source>
-        <target xml:space="preserve">Отмена</target>
+        <target xml:space="preserve" state="translated">Отмена</target>
       </trans-unit>
-      <trans-unit id="83">
+      <trans-unit id="83" xml:space="preserve">
         <source xml:space="preserve">Name of Law</source>
-        <target xml:space="preserve">Название закона</target>
+        <target xml:space="preserve" state="translated">Название закона</target>
       </trans-unit>
-      <trans-unit id="84">
+      <trans-unit id="84" xml:space="preserve">
         <source xml:space="preserve">Add Districts</source>
-        <target xml:space="preserve">Добавить район</target>
+        <target xml:space="preserve" state="translated">Добавить район</target>
       </trans-unit>
-      <trans-unit id="85">
+      <trans-unit id="85" xml:space="preserve">
         <source xml:space="preserve">Remove Districts</source>
-        <target xml:space="preserve">Удалить район</target>
+        <target xml:space="preserve" state="translated">Удалить район</target>
       </trans-unit>
-      <trans-unit id="86">
+      <trans-unit id="86" xml:space="preserve">
         <source xml:space="preserve">Add New District</source>
-        <target xml:space="preserve">Добавить новый район</target>
+        <target xml:space="preserve" state="translated">Добавить новый район</target>
       </trans-unit>
-      <trans-unit id="87">
+      <trans-unit id="87" xml:space="preserve">
         <source xml:space="preserve">Hold right click to draw district</source>
-        <target xml:space="preserve">Удерживайте ПКМ чтобы рисовать</target>
+        <target xml:space="preserve" state="translated">Удерживайте ПКМ чтобы рисовать</target>
       </trans-unit>
-      <trans-unit id="88">
+      <trans-unit id="88" xml:space="preserve">
         <source xml:space="preserve">Reasoning</source>
-        <target xml:space="preserve">Причины</target>
+        <target xml:space="preserve" state="translated">Причины</target>
       </trans-unit>
-      <trans-unit id="89">
+      <trans-unit id="89" xml:space="preserve">
         <source xml:space="preserve">Propose Law</source>
-        <target xml:space="preserve">Предложить закон</target>
+        <target xml:space="preserve" state="translated">Предложить закон</target>
       </trans-unit>
-      <trans-unit id="90">
+      <trans-unit id="90" xml:space="preserve">
         <source xml:space="preserve">Layer Select Dropdown</source>
-        <target xml:space="preserve">Выпадающий список выбора слоя</target>
+        <target xml:space="preserve" state="translated">Выпадающий список выбора слоя</target>
       </trans-unit>
-      <trans-unit id="91">
+      <trans-unit id="91" xml:space="preserve">
         <source xml:space="preserve">Terrain</source>
-        <target xml:space="preserve">Поверхность</target>
+        <target xml:space="preserve" state="translated">Поверхность</target>
       </trans-unit>
-      <trans-unit id="92">
+      <trans-unit id="92" xml:space="preserve">
         <source xml:space="preserve">Temperature</source>
-        <target xml:space="preserve">Температура</target>
+        <target xml:space="preserve" state="translated">Температура</target>
       </trans-unit>
       <trans-unit id="93" xml:space="preserve">
         <source xml:space="preserve">Height</source>
         <target xml:space="preserve" state="translated">Высота</target>
       </trans-unit>
-      <trans-unit id="94">
+      <trans-unit id="94" xml:space="preserve">
         <source xml:space="preserve">unity could send a full list of options to the dropdown later</source>
-        <target xml:space="preserve">unity сможет выдавать весь список опций позже</target>
+        <target xml:space="preserve" state="translated">unity сможет выдавать весь список опций позже</target>
       </trans-unit>
-      <trans-unit id="95">
+      <trans-unit id="95" xml:space="preserve">
         <source xml:space="preserve">Layer Select by Name or Number</source>
-        <target xml:space="preserve">Выбор слоя по имени или номеру</target>
+        <target xml:space="preserve" state="translated">Выбор слоя по имени или номеру</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
         <target xml:space="preserve" state="translated">Аргументируйте необходимость закона, карта будет сдвинута для соответствия тексту позднее</target>
       </trans-unit>
-      <trans-unit id="97">
+      <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
-        <target xml:space="preserve">Прогресс студентов</target>
+        <target xml:space="preserve" state="translated">Прогресс студентов</target>
       </trans-unit>
-      <trans-unit id="98">
+      <trans-unit id="98" xml:space="preserve">
         <source xml:space="preserve">There are no districts set yet</source>
-        <target xml:space="preserve">Нет созданных районов</target>
+        <target xml:space="preserve" state="translated">Нет созданных районов</target>
       </trans-unit>
-      <trans-unit id="99">
+      <trans-unit id="99" xml:space="preserve">
         <source xml:space="preserve">Active Districts</source>
-        <target xml:space="preserve">Активные районы</target>
+        <target xml:space="preserve" state="translated">Активные районы</target>
       </trans-unit>
-      <trans-unit id="100">
+      <trans-unit id="100" xml:space="preserve">
         <source xml:space="preserve">Candidate Ranks For Each Year</source>
-        <target xml:space="preserve">Ранги кандидатов за каждый год</target>
+        <target xml:space="preserve" state="translated">Ранги кандидатов за каждый год</target>
       </trans-unit>
-      <trans-unit id="101">
+      <trans-unit id="101" xml:space="preserve">
         <source xml:space="preserve">No Active Laws</source>
-        <target xml:space="preserve">Нет активных законов</target>
+        <target xml:space="preserve" state="translated">Нет активных законов</target>
       </trans-unit>
-      <trans-unit id="102">
+      <trans-unit id="102" xml:space="preserve">
         <source xml:space="preserve">No Proposed Laws</source>
-        <target xml:space="preserve">Нет предложенных законов</target>
+        <target xml:space="preserve" state="translated">Нет предложенных законов</target>
       </trans-unit>
-      <trans-unit id="103">
+      <trans-unit id="103" xml:space="preserve">
         <source xml:space="preserve">Online Players</source>
-        <target xml:space="preserve">Игроки в сети</target>
+        <target xml:space="preserve" state="translated">Игроки в сети</target>
       </trans-unit>
-      <trans-unit id="104">
+      <trans-unit id="104" xml:space="preserve">
         <source xml:space="preserve">Time</source>
-        <target xml:space="preserve">Время</target>
+        <target xml:space="preserve" state="translated">Время</target>
       </trans-unit>
-      <trans-unit id="105">
+      <trans-unit id="105" xml:space="preserve">
         <source xml:space="preserve">Meteor Impact</source>
-        <target xml:space="preserve">Падение астероида</target>
+        <target xml:space="preserve" state="translated">Падение астероида</target>
       </trans-unit>
-      <trans-unit id="106">
+      <trans-unit id="106" xml:space="preserve">
         <source xml:space="preserve">Plants</source>
-        <target xml:space="preserve">Растения</target>
+        <target xml:space="preserve" state="translated">Растения</target>
       </trans-unit>
       <trans-unit id="107" xml:space="preserve">
         <source xml:space="preserve">World Size</source>
         <target xml:space="preserve" state="translated">Размер мира</target>
       </trans-unit>
-      <trans-unit id="108">
+      <trans-unit id="108" xml:space="preserve">
         <source xml:space="preserve">Pre-Made Graphs</source>
-        <target xml:space="preserve">Подготовленные графики</target>
+        <target xml:space="preserve" state="translated">Подготовленные графики</target>
       </trans-unit>
-      <trans-unit id="109">
+      <trans-unit id="109" xml:space="preserve">
         <source xml:space="preserve">My Saved Graphs</source>
-        <target xml:space="preserve">Мои графики</target>
+        <target xml:space="preserve" state="translated">Мои графики</target>
       </trans-unit>
-      <trans-unit id="110">
+      <trans-unit id="110" xml:space="preserve">
         <source xml:space="preserve">OK</source>
-        <target xml:space="preserve">ОК</target>
+        <target xml:space="preserve" state="translated">ОК</target>
       </trans-unit>
       <trans-unit id="111" xml:space="preserve">
         <source xml:space="preserve">Doing Something...</source>
@@ -430,81 +430,81 @@
         <source xml:space="preserve">Some information for you to read!</source>
         <target xml:space="preserve" state="translated">Информация для ознакомления!</target>
       </trans-unit>
-      <trans-unit id="113">
+      <trans-unit id="113" xml:space="preserve">
         <source xml:space="preserve">Datasets</source>
-        <target xml:space="preserve">Наборы данных</target>
+        <target xml:space="preserve" state="translated">Наборы данных</target>
       </trans-unit>
-      <trans-unit id="114">
+      <trans-unit id="114" xml:space="preserve">
         <source xml:space="preserve">Clear Categories</source>
-        <target xml:space="preserve">Очистить категории</target>
+        <target xml:space="preserve" state="translated">Очистить категории</target>
       </trans-unit>
-      <trans-unit id="115">
+      <trans-unit id="115" xml:space="preserve">
         <source xml:space="preserve">Curves</source>
-        <target xml:space="preserve">Кривые</target>
+        <target xml:space="preserve" state="translated">Кривые</target>
       </trans-unit>
-      <trans-unit id="116">
+      <trans-unit id="116" xml:space="preserve">
         <source xml:space="preserve">Pie</source>
-        <target xml:space="preserve">Диаграмма</target>
+        <target xml:space="preserve" state="translated">Диаграмма</target>
       </trans-unit>
-      <trans-unit id="117">
+      <trans-unit id="117" xml:space="preserve">
         <source xml:space="preserve">Loading</source>
-        <target xml:space="preserve">Загрузка</target>
+        <target xml:space="preserve" state="translated">Загрузка</target>
       </trans-unit>
-      <trans-unit id="118">
+      <trans-unit id="118" xml:space="preserve">
         <source xml:space="preserve">Populations</source>
-        <target xml:space="preserve">Популяции</target>
+        <target xml:space="preserve" state="translated">Популяции</target>
       </trans-unit>
-      <trans-unit id="119">
+      <trans-unit id="119" xml:space="preserve">
         <source xml:space="preserve">Player Skill Progress</source>
-        <target xml:space="preserve">Развитие навыков игроков</target>
+        <target xml:space="preserve" state="translated">Развитие навыков игроков</target>
       </trans-unit>
-      <trans-unit id="120">
+      <trans-unit id="120" xml:space="preserve">
         <source xml:space="preserve">Polution Progress</source>
-        <target xml:space="preserve">Распространение загрязнения</target>
+        <target xml:space="preserve" state="translated">Распространение загрязнения</target>
       </trans-unit>
-      <trans-unit id="121">
+      <trans-unit id="121" xml:space="preserve">
         <source xml:space="preserve">A graph with that title already exists! Choose a unique title for your graph.</source>
-        <target xml:space="preserve">График с таким названием уже существует! Выберите уникальное название для вашего графика.</target>
+        <target xml:space="preserve" state="translated">График с таким названием уже существует! Выберите уникальное название для вашего графика.</target>
       </trans-unit>
-      <trans-unit id="122">
+      <trans-unit id="122" xml:space="preserve">
         <source xml:space="preserve">Please add a dataset to your graph before saving.</source>
-        <target xml:space="preserve">Пожалуйста, добавьте набор данных в ваш график перед сохранением.</target>
+        <target xml:space="preserve" state="translated">Пожалуйста, добавьте набор данных в ваш график перед сохранением.</target>
       </trans-unit>
-      <trans-unit id="123">
+      <trans-unit id="123" xml:space="preserve">
         <source xml:space="preserve">Graph copied. Type a unique name and save it.</source>
-        <target xml:space="preserve">График скопирован. Введите уникальное имя и сохраните его.</target>
+        <target xml:space="preserve" state="translated">График скопирован. Введите уникальное имя и сохраните его.</target>
       </trans-unit>
-      <trans-unit id="124">
+      <trans-unit id="124" xml:space="preserve">
         <source xml:space="preserve">Do you want to save your changes before proceeding?</source>
-        <target xml:space="preserve">Сохранить изменения перед продолжением?</target>
+        <target xml:space="preserve" state="translated">Сохранить изменения перед продолжением?</target>
       </trans-unit>
-      <trans-unit id="125">
+      <trans-unit id="125" xml:space="preserve">
         <source xml:space="preserve">Don't Save</source>
-        <target xml:space="preserve">Не сохранять</target>
+        <target xml:space="preserve" state="translated">Не сохранять</target>
       </trans-unit>
-      <trans-unit id="126">
+      <trans-unit id="126" xml:space="preserve">
         <source xml:space="preserve">Server</source>
-        <target xml:space="preserve">Сервер</target>
+        <target xml:space="preserve" state="translated">Сервер</target>
       </trans-unit>
-      <trans-unit id="127">
+      <trans-unit id="127" xml:space="preserve">
         <source xml:space="preserve">User</source>
-        <target xml:space="preserve">Пользователь</target>
+        <target xml:space="preserve" state="translated">Пользователь</target>
       </trans-unit>
       <trans-unit id="128" xml:space="preserve">
         <source xml:space="preserve">Delete Proposal</source>
         <target xml:space="preserve" state="translated">Удалить предложение</target>
       </trans-unit>
-      <trans-unit id="129">
+      <trans-unit id="129" xml:space="preserve">
         <source xml:space="preserve">Rank the candidates from best to worst.</source>
-        <target xml:space="preserve">Оцените кандидатов от лучшего к худшему.</target>
+        <target xml:space="preserve" state="translated">Оцените кандидатов от лучшего к худшему.</target>
       </trans-unit>
-      <trans-unit id="130">
+      <trans-unit id="130" xml:space="preserve">
         <source xml:space="preserve">Update Vote</source>
-        <target xml:space="preserve">Изменить решение</target>
+        <target xml:space="preserve" state="translated">Изменить решение</target>
       </trans-unit>
-      <trans-unit id="131">
+      <trans-unit id="131" xml:space="preserve">
         <source xml:space="preserve">Round</source>
-        <target xml:space="preserve">Тур</target>
+        <target xml:space="preserve" state="translated">Тур</target>
       </trans-unit>
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Total</source>
@@ -514,117 +514,117 @@
         <source xml:space="preserve">Candidates Ranked</source>
         <target xml:space="preserve" state="translated">Рейтинг кандидатов</target>
       </trans-unit>
-      <trans-unit id="134">
+      <trans-unit id="134" xml:space="preserve">
         <source xml:space="preserve">All Votes</source>
-        <target xml:space="preserve">Все голоса</target>
+        <target xml:space="preserve" state="translated">Все голоса</target>
       </trans-unit>
-      <trans-unit id="135">
+      <trans-unit id="135" xml:space="preserve">
         <source xml:space="preserve">Voters</source>
-        <target xml:space="preserve">Проголосовавшие</target>
+        <target xml:space="preserve" state="translated">Проголосовавшие</target>
       </trans-unit>
-      <trans-unit id="136">
+      <trans-unit id="136" xml:space="preserve">
         <source xml:space="preserve">Current Events</source>
-        <target xml:space="preserve">Текущие события</target>
+        <target xml:space="preserve" state="translated">Текущие события</target>
       </trans-unit>
-      <trans-unit id="137">
+      <trans-unit id="137" xml:space="preserve">
         <source xml:space="preserve">Government Activity</source>
-        <target xml:space="preserve">Активность правительства</target>
+        <target xml:space="preserve" state="translated">Активность правительства</target>
       </trans-unit>
-      <trans-unit id="138">
+      <trans-unit id="138" xml:space="preserve">
         <source xml:space="preserve">User Activity</source>
-        <target xml:space="preserve">Активность игроков</target>
+        <target xml:space="preserve" state="translated">Активность игроков</target>
       </trans-unit>
-      <trans-unit id="139">
+      <trans-unit id="139" xml:space="preserve">
         <source xml:space="preserve">Citizen Activity</source>
-        <target xml:space="preserve">Активность граждан</target>
+        <target xml:space="preserve" state="translated">Активность граждан</target>
       </trans-unit>
       <trans-unit id="140" xml:space="preserve">
         <source xml:space="preserve">No Previous Elections</source>
         <target xml:space="preserve" state="translated">Предыдущих голосований не было</target>
       </trans-unit>
-      <trans-unit id="141">
+      <trans-unit id="141" xml:space="preserve">
         <source xml:space="preserve">Server version</source>
-        <target xml:space="preserve">Версия сервера</target>
+        <target xml:space="preserve" state="translated">Версия сервера</target>
       </trans-unit>
       <trans-unit id="142" xml:space="preserve">
         <source xml:space="preserve">Clauses</source>
         <target xml:space="preserve" state="translated">Пункты</target>
       </trans-unit>
-      <trans-unit id="143">
+      <trans-unit id="143" xml:space="preserve">
         <source xml:space="preserve">hr</source>
-        <target xml:space="preserve">ч</target>
+        <target xml:space="preserve" state="translated">ч</target>
       </trans-unit>
-      <trans-unit id="144">
+      <trans-unit id="144" xml:space="preserve">
         <source xml:space="preserve">min</source>
-        <target xml:space="preserve">мин</target>
+        <target xml:space="preserve" state="translated">мин</target>
       </trans-unit>
-      <trans-unit id="145">
+      <trans-unit id="145" xml:space="preserve">
         <source xml:space="preserve">sec</source>
-        <target xml:space="preserve">сек</target>
+        <target xml:space="preserve" state="translated">сек</target>
       </trans-unit>
-      <trans-unit id="147">
+      <trans-unit id="147" xml:space="preserve">
         <source xml:space="preserve">Projected result</source>
-        <target xml:space="preserve">Прогнозируемый результат</target>
+        <target xml:space="preserve" state="translated">Прогнозируемый результат</target>
       </trans-unit>
-      <trans-unit id="148">
+      <trans-unit id="148" xml:space="preserve">
         <source xml:space="preserve">Vote</source>
-        <target xml:space="preserve">Голоса</target>
+        <target xml:space="preserve" state="translated">Голоса</target>
       </trans-unit>
-      <trans-unit id="149">
+      <trans-unit id="149" xml:space="preserve">
         <source xml:space="preserve">Votes</source>
-        <target xml:space="preserve">Голоса</target>
+        <target xml:space="preserve" state="translated">Голоса</target>
       </trans-unit>
-      <trans-unit id="150">
+      <trans-unit id="150" xml:space="preserve">
         <source xml:space="preserve">Vote ends in</source>
-        <target xml:space="preserve">Голосование заканчивается через</target>
+        <target xml:space="preserve" state="translated">Голосование заканчивается через</target>
       </trans-unit>
       <trans-unit id="151" xml:space="preserve">
         <source xml:space="preserve">Title</source>
         <target xml:space="preserve" state="translated">Титул</target>
       </trans-unit>
-      <trans-unit id="152">
+      <trans-unit id="152" xml:space="preserve">
         <source xml:space="preserve">Winner</source>
-        <target xml:space="preserve">Победитель</target>
+        <target xml:space="preserve" state="translated">Победитель</target>
       </trans-unit>
-      <trans-unit id="153">
+      <trans-unit id="153" xml:space="preserve">
         <source xml:space="preserve">Ended</source>
-        <target xml:space="preserve">Завершено</target>
+        <target xml:space="preserve" state="translated">Завершено</target>
       </trans-unit>
-      <trans-unit id="154">
+      <trans-unit id="154" xml:space="preserve">
         <source xml:space="preserve">ago</source>
-        <target xml:space="preserve">тому назад</target>
+        <target xml:space="preserve" state="translated">тому назад</target>
       </trans-unit>
-      <trans-unit id="155">
+      <trans-unit id="155" xml:space="preserve">
         <source xml:space="preserve">days</source>
-        <target xml:space="preserve">дней</target>
+        <target xml:space="preserve" state="translated">дней</target>
       </trans-unit>
-      <trans-unit id="156">
+      <trans-unit id="156" xml:space="preserve">
         <source xml:space="preserve">hrs</source>
-        <target xml:space="preserve">ч</target>
+        <target xml:space="preserve" state="translated">ч</target>
       </trans-unit>
-      <trans-unit id="157">
+      <trans-unit id="157" xml:space="preserve">
         <source xml:space="preserve">mins</source>
-        <target xml:space="preserve">мин</target>
+        <target xml:space="preserve" state="translated">мин</target>
       </trans-unit>
-      <trans-unit id="158">
+      <trans-unit id="158" xml:space="preserve">
         <source xml:space="preserve">in the last hour</source>
-        <target xml:space="preserve">за последний час</target>
+        <target xml:space="preserve" state="translated">за последний час</target>
       </trans-unit>
-      <trans-unit id="159">
+      <trans-unit id="159" xml:space="preserve">
         <source xml:space="preserve">The winner was</source>
-        <target xml:space="preserve">Победитель</target>
+        <target xml:space="preserve" state="translated">Победитель</target>
       </trans-unit>
-      <trans-unit id="160">
+      <trans-unit id="160" xml:space="preserve">
         <source xml:space="preserve">Law</source>
-        <target xml:space="preserve">Закон</target>
+        <target xml:space="preserve" state="translated">Закон</target>
       </trans-unit>
-      <trans-unit id="161">
+      <trans-unit id="161" xml:space="preserve">
         <source xml:space="preserve">Compare Maps</source>
-        <target xml:space="preserve">Сравнение карт</target>
+        <target xml:space="preserve" state="translated">Сравнение карт</target>
       </trans-unit>
-      <trans-unit id="162">
+      <trans-unit id="162" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
-        <target xml:space="preserve">Выборные должности</target>
+        <target xml:space="preserve" state="translated">Выборные должности</target>
       </trans-unit>
       <trans-unit id="163" xml:space="preserve">
         <source xml:space="preserve">Running Elections</source>
@@ -634,45 +634,45 @@
         <source xml:space="preserve">No Running Elections</source>
         <target xml:space="preserve" state="translated">Нет проводимых голосований</target>
       </trans-unit>
-      <trans-unit id="165">
+      <trans-unit id="165" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
-        <target xml:space="preserve">Выборные должности</target>
+        <target xml:space="preserve" state="translated">Выборные должности</target>
       </trans-unit>
-      <trans-unit id="167">
+      <trans-unit id="167" xml:space="preserve">
         <source xml:space="preserve">Title Holders</source>
-        <target xml:space="preserve">Обладатели титула</target>
+        <target xml:space="preserve" state="translated">Обладатели титула</target>
       </trans-unit>
-      <trans-unit id="168">
+      <trans-unit id="168" xml:space="preserve">
         <source xml:space="preserve">Status</source>
-        <target xml:space="preserve">Статус</target>
+        <target xml:space="preserve" state="translated">Статус</target>
       </trans-unit>
-      <trans-unit id="169">
+      <trans-unit id="169" xml:space="preserve">
         <source xml:space="preserve">Election Info</source>
-        <target xml:space="preserve">Информация о голосовании</target>
+        <target xml:space="preserve" state="translated">Информация о голосовании</target>
       </trans-unit>
-      <trans-unit id="170">
+      <trans-unit id="170" xml:space="preserve">
         <source xml:space="preserve">Since</source>
-        <target xml:space="preserve">С</target>
+        <target xml:space="preserve" state="translated">С</target>
       </trans-unit>
-      <trans-unit id="171">
+      <trans-unit id="171" xml:space="preserve">
         <source xml:space="preserve">Submitting</source>
-        <target xml:space="preserve">Отправка</target>
+        <target xml:space="preserve" state="translated">Отправка</target>
       </trans-unit>
       <trans-unit id="172" xml:space="preserve">
         <source xml:space="preserve">Your vote has been counted</source>
         <target xml:space="preserve" state="translated">Ваш голос был учтён</target>
       </trans-unit>
-      <trans-unit id="173">
+      <trans-unit id="173" xml:space="preserve">
         <source xml:space="preserve">Voting will end in</source>
-        <target xml:space="preserve">Голосование закончится через</target>
+        <target xml:space="preserve" state="translated">Голосование закончится через</target>
       </trans-unit>
-      <trans-unit id="174">
+      <trans-unit id="174" xml:space="preserve">
         <source xml:space="preserve">choice</source>
-        <target xml:space="preserve">выбор</target>
+        <target xml:space="preserve" state="translated">выбор</target>
       </trans-unit>
-      <trans-unit id="175">
+      <trans-unit id="175" xml:space="preserve">
         <source xml:space="preserve">No Active Titles</source>
-        <target xml:space="preserve">Нет должностей</target>
+        <target xml:space="preserve" state="translated">Нет должностей</target>
       </trans-unit>
       <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
