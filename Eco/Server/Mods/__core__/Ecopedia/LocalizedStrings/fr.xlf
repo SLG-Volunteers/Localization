@@ -3352,8 +3352,7 @@ Lorsqu'un citoyen devient résident d'une propriété, il obtient un ensemble sp
 </target>
       </trans-unit>
       <trans-unit id="353" xml:space="preserve">
-        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.
-</source>
+        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Exhaustion est une configuration de serveur qui limite le temps de jeu maximal par jour.
 </target>
       </trans-unit>
