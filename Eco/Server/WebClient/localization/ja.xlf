@@ -2,81 +2,81 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="ja" datatype="plaintext" original="WebClientStrings">
     <body>
-      <trans-unit id="1">
+      <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">404 page not found</source>
-        <target xml:space="preserve">404 ページが見つかりません</target>
+        <target xml:space="preserve" state="translated">404 ページが見つかりません</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Allow Debug Calls</source>
         <target xml:space="preserve" state="translated">デバッグの呼び出しを許可</target>
       </trans-unit>
-      <trans-unit id="3">
+      <trans-unit id="3" xml:space="preserve">
         <source xml:space="preserve">Private Server</source>
-        <target xml:space="preserve">プライベート サーバー</target>
+        <target xml:space="preserve" state="translated">プライベート サーバー</target>
       </trans-unit>
-      <trans-unit id="4">
+      <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">White list</source>
-        <target xml:space="preserve">ホワイト リスト</target>
+        <target xml:space="preserve" state="translated">ホワイト リスト</target>
       </trans-unit>
-      <trans-unit id="5">
+      <trans-unit id="5" xml:space="preserve">
         <source xml:space="preserve">Black list</source>
-        <target xml:space="preserve">ブラック リスト</target>
+        <target xml:space="preserve" state="translated">ブラック リスト</target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">Admin</source>
-        <target xml:space="preserve">管理者</target>
+        <target xml:space="preserve" state="translated">管理者</target>
       </trans-unit>
-      <trans-unit id="7">
+      <trans-unit id="7" xml:space="preserve">
         <source xml:space="preserve">Max Slots</source>
-        <target xml:space="preserve">最大スロット数</target>
+        <target xml:space="preserve" state="translated">最大スロット数</target>
       </trans-unit>
-      <trans-unit id="8">
+      <trans-unit id="8" xml:space="preserve">
         <source xml:space="preserve">Spawn location</source>
-        <target xml:space="preserve">スポーンする場所</target>
+        <target xml:space="preserve" state="translated">スポーンする場所</target>
       </trans-unit>
-      <trans-unit id="9">
+      <trans-unit id="9" xml:space="preserve">
         <source xml:space="preserve">Reputations</source>
-        <target xml:space="preserve">評判</target>
+        <target xml:space="preserve" state="translated">評判</target>
       </trans-unit>
       <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">Use Waste</source>
         <target xml:space="preserve" state="translated">廃棄物を使用</target>
       </trans-unit>
-      <trans-unit id="11">
+      <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">Network Config</source>
-        <target xml:space="preserve">ネットワーク設定</target>
+        <target xml:space="preserve" state="translated">ネットワーク設定</target>
       </trans-unit>
-      <trans-unit id="12">
+      <trans-unit id="12" xml:space="preserve">
         <source xml:space="preserve">Public server</source>
-        <target xml:space="preserve">パブリックサーバー</target>
+        <target xml:space="preserve" state="translated">パブリックサーバー</target>
       </trans-unit>
-      <trans-unit id="13">
+      <trans-unit id="13" xml:space="preserve">
         <source xml:space="preserve">IP address</source>
-        <target xml:space="preserve">IP アドレス</target>
+        <target xml:space="preserve" state="translated">IP アドレス</target>
       </trans-unit>
-      <trans-unit id="14">
+      <trans-unit id="14" xml:space="preserve">
         <source xml:space="preserve">Game server port</source>
-        <target xml:space="preserve">ゲーム サーバーポート</target>
+        <target xml:space="preserve" state="translated">ゲーム サーバーポート</target>
       </trans-unit>
-      <trans-unit id="15">
+      <trans-unit id="15" xml:space="preserve">
         <source xml:space="preserve">Web server port</source>
-        <target xml:space="preserve">Web サーバー ポート</target>
+        <target xml:space="preserve" state="translated">Web サーバー ポート</target>
       </trans-unit>
-      <trans-unit id="16">
+      <trans-unit id="16" xml:space="preserve">
         <source xml:space="preserve">Rate</source>
-        <target xml:space="preserve">レート</target>
+        <target xml:space="preserve" state="translated">レート</target>
       </trans-unit>
-      <trans-unit id="17">
+      <trans-unit id="17" xml:space="preserve">
         <source xml:space="preserve">Server browser service</source>
-        <target xml:space="preserve">サーバーブラウザサービス</target>
+        <target xml:space="preserve" state="translated">サーバーブラウザサービス</target>
       </trans-unit>
-      <trans-unit id="18">
+      <trans-unit id="18" xml:space="preserve">
         <source xml:space="preserve">SAVE</source>
-        <target xml:space="preserve">保存</target>
+        <target xml:space="preserve" state="translated">保存</target>
       </trans-unit>
-      <trans-unit id="19">
+      <trans-unit id="19" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect Explorer</source>
-        <target xml:space="preserve">原因・効果エクスプ ローラー</target>
+        <target xml:space="preserve" state="translated">原因・効果エクスプ ローラー</target>
       </trans-unit>
       <trans-unit id="20" xml:space="preserve">
         <source xml:space="preserve">Select Category</source>
@@ -86,73 +86,73 @@
         <source xml:space="preserve">Select Layer</source>
         <target xml:space="preserve" state="translated">レイヤーを選択</target>
       </trans-unit>
-      <trans-unit id="22">
+      <trans-unit id="22" xml:space="preserve">
         <source xml:space="preserve">Maps showing 400 square meters centered at 50</source>
-        <target xml:space="preserve">50,50を中心とする400平方メートルを示す地図;50</target>
+        <target xml:space="preserve" state="translated">50,50を中心とする400平方メートルを示す地図;50</target>
       </trans-unit>
-      <trans-unit id="23">
+      <trans-unit id="23" xml:space="preserve">
         <source xml:space="preserve">Eco Elections</source>
-        <target xml:space="preserve">エコ選挙</target>
+        <target xml:space="preserve" state="translated">エコ選挙</target>
       </trans-unit>
       <trans-unit id="24" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu or you can run for office</source>
         <target xml:space="preserve" state="translated">メニューまたオフィスから選挙を選択</target>
       </trans-unit>
-      <trans-unit id="25">
+      <trans-unit id="25" xml:space="preserve">
         <source xml:space="preserve">Candidates</source>
-        <target xml:space="preserve">候補者</target>
+        <target xml:space="preserve" state="translated">候補者</target>
       </trans-unit>
-      <trans-unit id="26">
+      <trans-unit id="26" xml:space="preserve">
         <source xml:space="preserve">Elected officials receive 15 property claims</source>
-        <target xml:space="preserve">選出された役員は15の不動産の請求を受ける</target>
+        <target xml:space="preserve" state="translated">選出された役員は15の不動産の請求を受ける</target>
       </trans-unit>
-      <trans-unit id="27">
+      <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve">財務省が建設されると、税金を設定することができます(進行中の機能); they can set taxes (feature in progress)</target>
+        <target xml:space="preserve" state="translated">財務省が建設されると、税金を設定することができます(進行中の機能); they can set taxes (feature in progress)</target>
       </trans-unit>
-      <trans-unit id="28">
+      <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
-        <target xml:space="preserve">この選挙では</target>
+        <target xml:space="preserve" state="translated">この選挙では</target>
       </trans-unit>
-      <trans-unit id="29">
+      <trans-unit id="29" xml:space="preserve">
         <source xml:space="preserve">Instant Runoff Voting</source>
-        <target xml:space="preserve">即決投票</target>
+        <target xml:space="preserve" state="translated">即決投票</target>
       </trans-unit>
-      <trans-unit id="30">
+      <trans-unit id="30" xml:space="preserve">
         <source xml:space="preserve">Submit Vote</source>
-        <target xml:space="preserve">投票を送信する</target>
+        <target xml:space="preserve" state="translated">投票を送信する</target>
       </trans-unit>
-      <trans-unit id="31">
+      <trans-unit id="31" xml:space="preserve">
         <source xml:space="preserve">Run For Office</source>
-        <target xml:space="preserve">オフィス向けに実行</target>
+        <target xml:space="preserve" state="translated">オフィス向けに実行</target>
       </trans-unit>
-      <trans-unit id="32">
+      <trans-unit id="32" xml:space="preserve">
         <source xml:space="preserve">Remove Self</source>
-        <target xml:space="preserve">自分を取り消す</target>
+        <target xml:space="preserve" state="translated">自分を取り消す</target>
       </trans-unit>
-      <trans-unit id="33">
+      <trans-unit id="33" xml:space="preserve">
         <source xml:space="preserve">Current Results</source>
-        <target xml:space="preserve">現在の結果</target>
+        <target xml:space="preserve" state="translated">現在の結果</target>
       </trans-unit>
-      <trans-unit id="34">
+      <trans-unit id="34" xml:space="preserve">
         <source xml:space="preserve">No one has voted yet</source>
-        <target xml:space="preserve">誰もまだ投票していない</target>
+        <target xml:space="preserve" state="translated">誰もまだ投票していない</target>
       </trans-unit>
-      <trans-unit id="35">
+      <trans-unit id="35" xml:space="preserve">
         <source xml:space="preserve">Votes per round</source>
-        <target xml:space="preserve">1ラウンドあたりの投票数</target>
+        <target xml:space="preserve" state="translated">1ラウンドあたりの投票数</target>
       </trans-unit>
-      <trans-unit id="36">
+      <trans-unit id="36" xml:space="preserve">
         <source xml:space="preserve">View All Votes</source>
-        <target xml:space="preserve">すべての投票を見る</target>
+        <target xml:space="preserve" state="translated">すべての投票を見る</target>
       </trans-unit>
-      <trans-unit id="37">
+      <trans-unit id="37" xml:space="preserve">
         <source xml:space="preserve">Discussion</source>
-        <target xml:space="preserve">ディスカッション</target>
+        <target xml:space="preserve" state="translated">ディスカッション</target>
       </trans-unit>
-      <trans-unit id="38">
+      <trans-unit id="38" xml:space="preserve">
         <source xml:space="preserve">Day</source>
-        <target xml:space="preserve">日</target>
+        <target xml:space="preserve" state="translated">日</target>
       </trans-unit>
       <trans-unit id="39" xml:space="preserve">
         <source xml:space="preserve">Enter your response</source>
@@ -166,13 +166,13 @@
         <source xml:space="preserve">Remove Map</source>
         <target xml:space="preserve" state="translated">マップを削除</target>
       </trans-unit>
-      <trans-unit id="42">
+      <trans-unit id="42" xml:space="preserve">
         <source xml:space="preserve">Submit</source>
-        <target xml:space="preserve">提出する</target>
+        <target xml:space="preserve" state="translated">提出する</target>
       </trans-unit>
-      <trans-unit id="43">
+      <trans-unit id="43" xml:space="preserve">
         <source xml:space="preserve">Cancel</source>
-        <target xml:space="preserve">キャンセル</target>
+        <target xml:space="preserve" state="translated">キャンセル</target>
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
@@ -186,117 +186,117 @@
         <source xml:space="preserve">Enter Your Speech</source>
         <target xml:space="preserve" state="translated">あなたのスピーチを入力してください</target>
       </trans-unit>
-      <trans-unit id="49">
+      <trans-unit id="49" xml:space="preserve">
         <source xml:space="preserve">Scientific Data</source>
-        <target xml:space="preserve">科学的データ</target>
+        <target xml:space="preserve" state="translated">科学的データ</target>
       </trans-unit>
-      <trans-unit id="50">
+      <trans-unit id="50" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect</source>
-        <target xml:space="preserve">原因・結果</target>
+        <target xml:space="preserve" state="translated">原因・結果</target>
       </trans-unit>
-      <trans-unit id="51">
+      <trans-unit id="51" xml:space="preserve">
         <source xml:space="preserve">Run For Office</source>
-        <target xml:space="preserve">選挙に立候補</target>
+        <target xml:space="preserve" state="translated">選挙に立候補</target>
       </trans-unit>
-      <trans-unit id="52">
+      <trans-unit id="52" xml:space="preserve">
         <source xml:space="preserve">Current Election</source>
-        <target xml:space="preserve">現在の選挙</target>
+        <target xml:space="preserve" state="translated">現在の選挙</target>
       </trans-unit>
-      <trans-unit id="53">
+      <trans-unit id="53" xml:space="preserve">
         <source xml:space="preserve">Previous Elections</source>
-        <target xml:space="preserve">過去の選挙</target>
+        <target xml:space="preserve" state="translated">過去の選挙</target>
       </trans-unit>
-      <trans-unit id="56">
+      <trans-unit id="56" xml:space="preserve">
         <source xml:space="preserve">Active Laws</source>
-        <target xml:space="preserve">有効な法律</target>
+        <target xml:space="preserve" state="translated">有効な法律</target>
       </trans-unit>
-      <trans-unit id="57">
+      <trans-unit id="57" xml:space="preserve">
         <source xml:space="preserve">Proposed Laws</source>
-        <target xml:space="preserve">提案された法律</target>
+        <target xml:space="preserve" state="translated">提案された法律</target>
       </trans-unit>
       <trans-unit id="59" xml:space="preserve">
         <source xml:space="preserve">Select Map Layer</source>
         <target xml:space="preserve" state="translated">マップのレイヤーを選択</target>
       </trans-unit>
-      <trans-unit id="60">
+      <trans-unit id="60" xml:space="preserve">
         <source xml:space="preserve">Data</source>
-        <target xml:space="preserve">データ</target>
+        <target xml:space="preserve" state="translated">データ</target>
       </trans-unit>
-      <trans-unit id="61">
+      <trans-unit id="61" xml:space="preserve">
         <source xml:space="preserve">Graph</source>
-        <target xml:space="preserve">グラフ</target>
+        <target xml:space="preserve" state="translated">グラフ</target>
       </trans-unit>
-      <trans-unit id="62">
+      <trans-unit id="62" xml:space="preserve">
         <source xml:space="preserve">Lines</source>
-        <target xml:space="preserve">ライン</target>
+        <target xml:space="preserve" state="translated">ライン</target>
       </trans-unit>
-      <trans-unit id="63">
+      <trans-unit id="63" xml:space="preserve">
         <source xml:space="preserve">Bars</source>
-        <target xml:space="preserve">バー</target>
+        <target xml:space="preserve" state="translated">バー</target>
       </trans-unit>
-      <trans-unit id="64">
+      <trans-unit id="64" xml:space="preserve">
         <source xml:space="preserve">Day</source>
-        <target xml:space="preserve">日</target>
+        <target xml:space="preserve" state="translated">日</target>
       </trans-unit>
       <trans-unit id="65" xml:space="preserve">
         <source xml:space="preserve">View the global effects that shape this world and how they influence each other</source>
         <target xml:space="preserve" state="translated">このワールドに影響を与えるグローバル エフェクトを表示</target>
       </trans-unit>
-      <trans-unit id="66">
+      <trans-unit id="66" xml:space="preserve">
         <source xml:space="preserve">Select a category above and use the time bar at the bottom to scroll through history</source>
-        <target xml:space="preserve">上のカテゴリを選択し、下のタイムバーを使用して履歴をスクロールします</target>
+        <target xml:space="preserve" state="translated">上のカテゴリを選択し、下のタイムバーを使用して履歴をスクロールします</target>
       </trans-unit>
-      <trans-unit id="67">
+      <trans-unit id="67" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect Exploration</source>
-        <target xml:space="preserve">原因・影響調査</target>
+        <target xml:space="preserve" state="translated">原因・影響調査</target>
       </trans-unit>
-      <trans-unit id="68">
+      <trans-unit id="68" xml:space="preserve">
         <source xml:space="preserve">Users Config</source>
-        <target xml:space="preserve">ユーザー設定</target>
+        <target xml:space="preserve" state="translated">ユーザー設定</target>
       </trans-unit>
-      <trans-unit id="69">
+      <trans-unit id="69" xml:space="preserve">
         <source xml:space="preserve">Require Authentication</source>
-        <target xml:space="preserve">認証が必要です</target>
+        <target xml:space="preserve" state="translated">認証が必要です</target>
       </trans-unit>
-      <trans-unit id="70">
+      <trans-unit id="70" xml:space="preserve">
         <source xml:space="preserve">days/sec</source>
-        <target xml:space="preserve">日/秒</target>
+        <target xml:space="preserve" state="translated">日/秒</target>
       </trans-unit>
-      <trans-unit id="71">
+      <trans-unit id="71" xml:space="preserve">
         <source xml:space="preserve">In-Game Actions</source>
-        <target xml:space="preserve">ゲーム内のアクション</target>
+        <target xml:space="preserve" state="translated">ゲーム内のアクション</target>
       </trans-unit>
-      <trans-unit id="72">
+      <trans-unit id="72" xml:space="preserve">
         <source xml:space="preserve">Eco Laws</source>
-        <target xml:space="preserve">環境法</target>
+        <target xml:space="preserve" state="translated">環境法</target>
       </trans-unit>
-      <trans-unit id="73">
+      <trans-unit id="73" xml:space="preserve">
         <source xml:space="preserve">Select a law from the menu</source>
-        <target xml:space="preserve">メニューから法律を選択</target>
+        <target xml:space="preserve" state="translated">メニューから法律を選択</target>
       </trans-unit>
-      <trans-unit id="74">
+      <trans-unit id="74" xml:space="preserve">
         <source xml:space="preserve">Law Info</source>
-        <target xml:space="preserve">法律情報</target>
+        <target xml:space="preserve" state="translated">法律情報</target>
       </trans-unit>
-      <trans-unit id="75">
+      <trans-unit id="75" xml:space="preserve">
         <source xml:space="preserve">Reasoning</source>
-        <target xml:space="preserve">推論</target>
+        <target xml:space="preserve" state="translated">推論</target>
       </trans-unit>
-      <trans-unit id="76">
+      <trans-unit id="76" xml:space="preserve">
         <source xml:space="preserve">Current Results</source>
-        <target xml:space="preserve">現在の結果</target>
+        <target xml:space="preserve" state="translated">現在の結果</target>
       </trans-unit>
       <trans-unit id="77" xml:space="preserve">
         <source xml:space="preserve">This law was passed</source>
         <target xml:space="preserve" state="translated">この法律は可決されました</target>
       </trans-unit>
-      <trans-unit id="78">
+      <trans-unit id="78" xml:space="preserve">
         <source xml:space="preserve">Yes</source>
-        <target xml:space="preserve">はい</target>
+        <target xml:space="preserve" state="translated">はい</target>
       </trans-unit>
-      <trans-unit id="79">
+      <trans-unit id="79" xml:space="preserve">
         <source xml:space="preserve">No</source>
-        <target xml:space="preserve">いいえ</target>
+        <target xml:space="preserve" state="translated">いいえ</target>
       </trans-unit>
       <trans-unit id="80" xml:space="preserve">
         <source xml:space="preserve">Add Graph</source>
@@ -306,381 +306,381 @@
         <source xml:space="preserve">Add Map</source>
         <target xml:space="preserve" state="translated">マップを追加</target>
       </trans-unit>
-      <trans-unit id="82">
+      <trans-unit id="82" xml:space="preserve">
         <source xml:space="preserve">Cancel</source>
-        <target xml:space="preserve">キャンセル</target>
+        <target xml:space="preserve" state="translated">キャンセル</target>
       </trans-unit>
-      <trans-unit id="83">
+      <trans-unit id="83" xml:space="preserve">
         <source xml:space="preserve">Name of Law</source>
-        <target xml:space="preserve">法律の名前</target>
+        <target xml:space="preserve" state="translated">法律の名前</target>
       </trans-unit>
       <trans-unit id="84" xml:space="preserve">
         <source xml:space="preserve">Add Districts</source>
         <target xml:space="preserve" state="translated">地区を追加</target>
       </trans-unit>
-      <trans-unit id="85">
+      <trans-unit id="85" xml:space="preserve">
         <source xml:space="preserve">Remove Districts</source>
-        <target xml:space="preserve">地区を削除する</target>
+        <target xml:space="preserve" state="translated">地区を削除する</target>
       </trans-unit>
       <trans-unit id="86" xml:space="preserve">
         <source xml:space="preserve">Add New District</source>
         <target xml:space="preserve" state="translated">新しい地区を追加</target>
       </trans-unit>
-      <trans-unit id="87">
+      <trans-unit id="87" xml:space="preserve">
         <source xml:space="preserve">Hold right click to draw district</source>
-        <target xml:space="preserve">右クリックして地区を描く</target>
+        <target xml:space="preserve" state="translated">右クリックして地区を描く</target>
       </trans-unit>
-      <trans-unit id="88">
+      <trans-unit id="88" xml:space="preserve">
         <source xml:space="preserve">Reasoning</source>
-        <target xml:space="preserve">論旨</target>
+        <target xml:space="preserve" state="translated">論旨</target>
       </trans-unit>
       <trans-unit id="89" xml:space="preserve">
         <source xml:space="preserve">Propose Law</source>
         <target xml:space="preserve" state="translated">法律を提案</target>
       </trans-unit>
-      <trans-unit id="90">
+      <trans-unit id="90" xml:space="preserve">
         <source xml:space="preserve">Layer Select Dropdown</source>
-        <target xml:space="preserve">レイヤー選択ドロップダウン</target>
+        <target xml:space="preserve" state="translated">レイヤー選択ドロップダウン</target>
       </trans-unit>
-      <trans-unit id="91">
+      <trans-unit id="91" xml:space="preserve">
         <source xml:space="preserve">Terrain</source>
-        <target xml:space="preserve">地形</target>
+        <target xml:space="preserve" state="translated">地形</target>
       </trans-unit>
-      <trans-unit id="92">
+      <trans-unit id="92" xml:space="preserve">
         <source xml:space="preserve">Temperature</source>
-        <target xml:space="preserve">温度</target>
+        <target xml:space="preserve" state="translated">温度</target>
       </trans-unit>
-      <trans-unit id="93">
+      <trans-unit id="93" xml:space="preserve">
         <source xml:space="preserve">Height</source>
-        <target xml:space="preserve">高さ</target>
+        <target xml:space="preserve" state="translated">高さ</target>
       </trans-unit>
-      <trans-unit id="94">
+      <trans-unit id="94" xml:space="preserve">
         <source xml:space="preserve">unity could send a full list of options to the dropdown later</source>
-        <target xml:space="preserve">後でドロップダウンにオプションの完全なリストを送ることができます</target>
+        <target xml:space="preserve" state="translated">後でドロップダウンにオプションの完全なリストを送ることができます</target>
       </trans-unit>
-      <trans-unit id="95">
+      <trans-unit id="95" xml:space="preserve">
         <source xml:space="preserve">Layer Select by Name or Number</source>
-        <target xml:space="preserve">名前または番号でレイヤー選択</target>
+        <target xml:space="preserve" state="translated">名前または番号でレイヤー選択</target>
       </trans-unit>
-      <trans-unit id="96">
+      <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target xml:space="preserve">法律上の議論はここで行い、後でテキストに合わせて地図をサイズ変更することができます; maps can be resized to fit with text better later</target>
+        <target xml:space="preserve" state="translated">法律上の議論はここで行い、後でテキストに合わせて地図をサイズ変更することができます; maps can be resized to fit with text better later</target>
       </trans-unit>
-      <trans-unit id="97">
+      <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
-        <target xml:space="preserve">学生の進捗状況</target>
+        <target xml:space="preserve" state="translated">学生の進捗状況</target>
       </trans-unit>
-      <trans-unit id="98">
+      <trans-unit id="98" xml:space="preserve">
         <source xml:space="preserve">There are no districts set yet</source>
-        <target xml:space="preserve">まだ地区が設定されていない</target>
+        <target xml:space="preserve" state="translated">まだ地区が設定されていない</target>
       </trans-unit>
-      <trans-unit id="99">
+      <trans-unit id="99" xml:space="preserve">
         <source xml:space="preserve">Active Districts</source>
-        <target xml:space="preserve">アクティブな地区</target>
+        <target xml:space="preserve" state="translated">アクティブな地区</target>
       </trans-unit>
-      <trans-unit id="100">
+      <trans-unit id="100" xml:space="preserve">
         <source xml:space="preserve">Candidate Ranks For Each Year</source>
-        <target xml:space="preserve">各年度の候補者ランク</target>
+        <target xml:space="preserve" state="translated">各年度の候補者ランク</target>
       </trans-unit>
-      <trans-unit id="101">
+      <trans-unit id="101" xml:space="preserve">
         <source xml:space="preserve">No Active Laws</source>
-        <target xml:space="preserve">有効な法律なし</target>
+        <target xml:space="preserve" state="translated">有効な法律なし</target>
       </trans-unit>
-      <trans-unit id="102">
+      <trans-unit id="102" xml:space="preserve">
         <source xml:space="preserve">No Proposed Laws</source>
-        <target xml:space="preserve">提案された法律はない</target>
+        <target xml:space="preserve" state="translated">提案された法律はない</target>
       </trans-unit>
-      <trans-unit id="103">
+      <trans-unit id="103" xml:space="preserve">
         <source xml:space="preserve">Online Players</source>
-        <target xml:space="preserve">オンラインプレイヤー</target>
+        <target xml:space="preserve" state="translated">オンラインプレイヤー</target>
       </trans-unit>
-      <trans-unit id="104">
+      <trans-unit id="104" xml:space="preserve">
         <source xml:space="preserve">Time</source>
-        <target xml:space="preserve">時間</target>
+        <target xml:space="preserve" state="translated">時間</target>
       </trans-unit>
-      <trans-unit id="105">
+      <trans-unit id="105" xml:space="preserve">
         <source xml:space="preserve">Meteor Impact</source>
-        <target xml:space="preserve">隕石の衝突まで</target>
+        <target xml:space="preserve" state="translated">隕石の衝突まで</target>
       </trans-unit>
-      <trans-unit id="106">
+      <trans-unit id="106" xml:space="preserve">
         <source xml:space="preserve">Plants</source>
-        <target xml:space="preserve">植物</target>
+        <target xml:space="preserve" state="translated">植物</target>
       </trans-unit>
-      <trans-unit id="107">
+      <trans-unit id="107" xml:space="preserve">
         <source xml:space="preserve">World Size</source>
-        <target xml:space="preserve">ワールドサイズ</target>
+        <target xml:space="preserve" state="translated">ワールドサイズ</target>
       </trans-unit>
-      <trans-unit id="108">
+      <trans-unit id="108" xml:space="preserve">
         <source xml:space="preserve">Pre-Made Graphs</source>
-        <target xml:space="preserve">あらかじめ作成されたグラフ</target>
+        <target xml:space="preserve" state="translated">あらかじめ作成されたグラフ</target>
       </trans-unit>
-      <trans-unit id="109">
+      <trans-unit id="109" xml:space="preserve">
         <source xml:space="preserve">My Saved Graphs</source>
-        <target xml:space="preserve">私の保存したグラフ</target>
+        <target xml:space="preserve" state="translated">私の保存したグラフ</target>
       </trans-unit>
-      <trans-unit id="110">
+      <trans-unit id="110" xml:space="preserve">
         <source xml:space="preserve">OK</source>
-        <target xml:space="preserve">OK</target>
+        <target xml:space="preserve" state="translated">OK</target>
       </trans-unit>
-      <trans-unit id="111">
+      <trans-unit id="111" xml:space="preserve">
         <source xml:space="preserve">Doing Something...</source>
-        <target xml:space="preserve">なんかやってる...</target>
+        <target xml:space="preserve" state="translated">なんかやってる...</target>
       </trans-unit>
-      <trans-unit id="112">
+      <trans-unit id="112" xml:space="preserve">
         <source xml:space="preserve">Some information for you to read!</source>
-        <target xml:space="preserve">いくつかの情報を読んでください!</target>
+        <target xml:space="preserve" state="translated">いくつかの情報を読んでください!</target>
       </trans-unit>
-      <trans-unit id="113">
+      <trans-unit id="113" xml:space="preserve">
         <source xml:space="preserve">Datasets</source>
-        <target xml:space="preserve">データセット</target>
+        <target xml:space="preserve" state="translated">データセット</target>
       </trans-unit>
-      <trans-unit id="114">
+      <trans-unit id="114" xml:space="preserve">
         <source xml:space="preserve">Clear Categories</source>
-        <target xml:space="preserve">カテゴリをクリアする</target>
+        <target xml:space="preserve" state="translated">カテゴリをクリアする</target>
       </trans-unit>
-      <trans-unit id="115">
+      <trans-unit id="115" xml:space="preserve">
         <source xml:space="preserve">Curves</source>
-        <target xml:space="preserve">曲線</target>
+        <target xml:space="preserve" state="translated">曲線</target>
       </trans-unit>
-      <trans-unit id="116">
+      <trans-unit id="116" xml:space="preserve">
         <source xml:space="preserve">Pie</source>
-        <target xml:space="preserve">パイ</target>
+        <target xml:space="preserve" state="translated">パイ</target>
       </trans-unit>
-      <trans-unit id="117">
+      <trans-unit id="117" xml:space="preserve">
         <source xml:space="preserve">Loading</source>
-        <target xml:space="preserve">読み込み中</target>
+        <target xml:space="preserve" state="translated">読み込み中</target>
       </trans-unit>
-      <trans-unit id="118">
+      <trans-unit id="118" xml:space="preserve">
         <source xml:space="preserve">Populations</source>
-        <target xml:space="preserve">人口</target>
+        <target xml:space="preserve" state="translated">人口</target>
       </trans-unit>
-      <trans-unit id="119">
+      <trans-unit id="119" xml:space="preserve">
         <source xml:space="preserve">Player Skill Progress</source>
-        <target xml:space="preserve">プレイヤーのスキルの進行状況</target>
+        <target xml:space="preserve" state="translated">プレイヤーのスキルの進行状況</target>
       </trans-unit>
-      <trans-unit id="120">
+      <trans-unit id="120" xml:space="preserve">
         <source xml:space="preserve">Polution Progress</source>
-        <target xml:space="preserve">汚染の進行状況</target>
+        <target xml:space="preserve" state="translated">汚染の進行状況</target>
       </trans-unit>
-      <trans-unit id="121">
+      <trans-unit id="121" xml:space="preserve">
         <source xml:space="preserve">A graph with that title already exists! Choose a unique title for your graph.</source>
-        <target xml:space="preserve">そのタイトルを持つグラフが既に存在します! ユニークなグラフタイトルを選択します。</target>
+        <target xml:space="preserve" state="translated">そのタイトルを持つグラフが既に存在します! ユニークなグラフタイトルを選択します。</target>
       </trans-unit>
-      <trans-unit id="122">
+      <trans-unit id="122" xml:space="preserve">
         <source xml:space="preserve">Please add a dataset to your graph before saving.</source>
-        <target xml:space="preserve">データセットを保存する前に、グラフに追加してください。</target>
+        <target xml:space="preserve" state="translated">データセットを保存する前に、グラフに追加してください。</target>
       </trans-unit>
-      <trans-unit id="123">
+      <trans-unit id="123" xml:space="preserve">
         <source xml:space="preserve">Graph copied. Type a unique name and save it.</source>
-        <target xml:space="preserve">グラフがコピーされます。名前を入力し保存します。</target>
+        <target xml:space="preserve" state="translated">グラフがコピーされます。名前を入力し保存します。</target>
       </trans-unit>
-      <trans-unit id="124">
+      <trans-unit id="124" xml:space="preserve">
         <source xml:space="preserve">Do you want to save your changes before proceeding?</source>
-        <target xml:space="preserve">続行する前に変更を保存しますか？</target>
+        <target xml:space="preserve" state="translated">続行する前に変更を保存しますか？</target>
       </trans-unit>
       <trans-unit id="125" xml:space="preserve">
         <source xml:space="preserve">Don't Save</source>
         <target xml:space="preserve" state="translated">保存しない</target>
       </trans-unit>
-      <trans-unit id="126">
+      <trans-unit id="126" xml:space="preserve">
         <source xml:space="preserve">Server</source>
-        <target xml:space="preserve">サーバー</target>
+        <target xml:space="preserve" state="translated">サーバー</target>
       </trans-unit>
-      <trans-unit id="127">
+      <trans-unit id="127" xml:space="preserve">
         <source xml:space="preserve">User</source>
-        <target xml:space="preserve">ユーザー</target>
+        <target xml:space="preserve" state="translated">ユーザー</target>
       </trans-unit>
-      <trans-unit id="128">
+      <trans-unit id="128" xml:space="preserve">
         <source xml:space="preserve">Delete Proposal</source>
-        <target xml:space="preserve">提案を削除</target>
+        <target xml:space="preserve" state="translated">提案を削除</target>
       </trans-unit>
-      <trans-unit id="129">
+      <trans-unit id="129" xml:space="preserve">
         <source xml:space="preserve">Rank the candidates from best to worst.</source>
-        <target xml:space="preserve">Ohodnoťte kandidáty od nejlepšího po nejhorší.</target>
+        <target xml:space="preserve" state="translated">Ohodnoťte kandidáty od nejlepšího po nejhorší.</target>
       </trans-unit>
-      <trans-unit id="130">
+      <trans-unit id="130" xml:space="preserve">
         <source xml:space="preserve">Update Vote</source>
-        <target xml:space="preserve">投票を更新</target>
+        <target xml:space="preserve" state="translated">投票を更新</target>
       </trans-unit>
-      <trans-unit id="131">
+      <trans-unit id="131" xml:space="preserve">
         <source xml:space="preserve">Round</source>
-        <target xml:space="preserve">ラウンド</target>
+        <target xml:space="preserve" state="translated">ラウンド</target>
       </trans-unit>
-      <trans-unit id="132">
+      <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Total</source>
-        <target xml:space="preserve">トータル</target>
+        <target xml:space="preserve" state="translated">トータル</target>
       </trans-unit>
-      <trans-unit id="133">
+      <trans-unit id="133" xml:space="preserve">
         <source xml:space="preserve">Candidates Ranked</source>
-        <target xml:space="preserve">تصنيف المرشحين</target>
+        <target xml:space="preserve" state="translated">تصنيف المرشحين</target>
       </trans-unit>
-      <trans-unit id="134">
+      <trans-unit id="134" xml:space="preserve">
         <source xml:space="preserve">All Votes</source>
-        <target xml:space="preserve">全ての投票</target>
+        <target xml:space="preserve" state="translated">全ての投票</target>
       </trans-unit>
-      <trans-unit id="135">
+      <trans-unit id="135" xml:space="preserve">
         <source xml:space="preserve">Voters</source>
-        <target xml:space="preserve">投票者</target>
+        <target xml:space="preserve" state="translated">投票者</target>
       </trans-unit>
-      <trans-unit id="136">
+      <trans-unit id="136" xml:space="preserve">
         <source xml:space="preserve">Current Events</source>
-        <target xml:space="preserve">時事問題</target>
+        <target xml:space="preserve" state="translated">時事問題</target>
       </trans-unit>
-      <trans-unit id="137">
+      <trans-unit id="137" xml:space="preserve">
         <source xml:space="preserve">Government Activity</source>
-        <target xml:space="preserve">政府の活動</target>
+        <target xml:space="preserve" state="translated">政府の活動</target>
       </trans-unit>
-      <trans-unit id="138">
+      <trans-unit id="138" xml:space="preserve">
         <source xml:space="preserve">User Activity</source>
-        <target xml:space="preserve">ユーザーの活動</target>
+        <target xml:space="preserve" state="translated">ユーザーの活動</target>
       </trans-unit>
-      <trans-unit id="139">
+      <trans-unit id="139" xml:space="preserve">
         <source xml:space="preserve">Citizen Activity</source>
-        <target xml:space="preserve">住民の活動</target>
+        <target xml:space="preserve" state="translated">住民の活動</target>
       </trans-unit>
       <trans-unit id="140" xml:space="preserve">
         <source xml:space="preserve">No Previous Elections</source>
         <target xml:space="preserve" state="translated">行われた選挙はありません</target>
       </trans-unit>
-      <trans-unit id="141">
+      <trans-unit id="141" xml:space="preserve">
         <source xml:space="preserve">Server version</source>
-        <target xml:space="preserve">サーバーバージョン</target>
+        <target xml:space="preserve" state="translated">サーバーバージョン</target>
       </trans-unit>
-      <trans-unit id="142">
+      <trans-unit id="142" xml:space="preserve">
         <source xml:space="preserve">Clauses</source>
-        <target xml:space="preserve">条項</target>
+        <target xml:space="preserve" state="translated">条項</target>
       </trans-unit>
-      <trans-unit id="143">
+      <trans-unit id="143" xml:space="preserve">
         <source xml:space="preserve">hr</source>
-        <target xml:space="preserve">時間</target>
+        <target xml:space="preserve" state="translated">時間</target>
       </trans-unit>
-      <trans-unit id="144">
+      <trans-unit id="144" xml:space="preserve">
         <source xml:space="preserve">min</source>
-        <target xml:space="preserve">分</target>
+        <target xml:space="preserve" state="translated">分</target>
       </trans-unit>
-      <trans-unit id="145">
+      <trans-unit id="145" xml:space="preserve">
         <source xml:space="preserve">sec</source>
-        <target xml:space="preserve">秒</target>
+        <target xml:space="preserve" state="translated">秒</target>
       </trans-unit>
-      <trans-unit id="147">
+      <trans-unit id="147" xml:space="preserve">
         <source xml:space="preserve">Projected result</source>
-        <target xml:space="preserve">見通し</target>
+        <target xml:space="preserve" state="translated">見通し</target>
       </trans-unit>
-      <trans-unit id="148">
+      <trans-unit id="148" xml:space="preserve">
         <source xml:space="preserve">Vote</source>
-        <target xml:space="preserve">投票</target>
+        <target xml:space="preserve" state="translated">投票</target>
       </trans-unit>
-      <trans-unit id="149">
+      <trans-unit id="149" xml:space="preserve">
         <source xml:space="preserve">Votes</source>
-        <target xml:space="preserve">投票</target>
+        <target xml:space="preserve" state="translated">投票</target>
       </trans-unit>
-      <trans-unit id="150">
+      <trans-unit id="150" xml:space="preserve">
         <source xml:space="preserve">Vote ends in</source>
-        <target xml:space="preserve">投票終了まで</target>
+        <target xml:space="preserve" state="translated">投票終了まで</target>
       </trans-unit>
-      <trans-unit id="151">
+      <trans-unit id="151" xml:space="preserve">
         <source xml:space="preserve">Title</source>
-        <target xml:space="preserve">タイトル</target>
+        <target xml:space="preserve" state="translated">タイトル</target>
       </trans-unit>
-      <trans-unit id="152">
+      <trans-unit id="152" xml:space="preserve">
         <source xml:space="preserve">Winner</source>
-        <target xml:space="preserve">勝者</target>
+        <target xml:space="preserve" state="translated">勝者</target>
       </trans-unit>
-      <trans-unit id="153">
+      <trans-unit id="153" xml:space="preserve">
         <source xml:space="preserve">Ended</source>
-        <target xml:space="preserve">終了</target>
+        <target xml:space="preserve" state="translated">終了</target>
       </trans-unit>
-      <trans-unit id="154">
+      <trans-unit id="154" xml:space="preserve">
         <source xml:space="preserve">ago</source>
-        <target xml:space="preserve">前</target>
+        <target xml:space="preserve" state="translated">前</target>
       </trans-unit>
-      <trans-unit id="155">
+      <trans-unit id="155" xml:space="preserve">
         <source xml:space="preserve">days</source>
-        <target xml:space="preserve">日</target>
+        <target xml:space="preserve" state="translated">日</target>
       </trans-unit>
-      <trans-unit id="156">
+      <trans-unit id="156" xml:space="preserve">
         <source xml:space="preserve">hrs</source>
-        <target xml:space="preserve">時間</target>
+        <target xml:space="preserve" state="translated">時間</target>
       </trans-unit>
-      <trans-unit id="157">
+      <trans-unit id="157" xml:space="preserve">
         <source xml:space="preserve">mins</source>
-        <target xml:space="preserve">分</target>
+        <target xml:space="preserve" state="translated">分</target>
       </trans-unit>
       <trans-unit id="158" xml:space="preserve">
         <source xml:space="preserve">in the last hour</source>
         <target xml:space="preserve" state="translated">1時間前</target>
       </trans-unit>
-      <trans-unit id="159">
+      <trans-unit id="159" xml:space="preserve">
         <source xml:space="preserve">The winner was</source>
-        <target xml:space="preserve">勝者</target>
+        <target xml:space="preserve" state="translated">勝者</target>
       </trans-unit>
-      <trans-unit id="160">
+      <trans-unit id="160" xml:space="preserve">
         <source xml:space="preserve">Law</source>
-        <target xml:space="preserve">法律</target>
+        <target xml:space="preserve" state="translated">法律</target>
       </trans-unit>
-      <trans-unit id="161">
+      <trans-unit id="161" xml:space="preserve">
         <source xml:space="preserve">Compare Maps</source>
-        <target xml:space="preserve">マップ比較</target>
+        <target xml:space="preserve" state="translated">マップ比較</target>
       </trans-unit>
-      <trans-unit id="162">
+      <trans-unit id="162" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
-        <target xml:space="preserve">Verkozen ambtenaren</target>
+        <target xml:space="preserve" state="translated">Verkozen ambtenaren</target>
       </trans-unit>
-      <trans-unit id="163">
+      <trans-unit id="163" xml:space="preserve">
         <source xml:space="preserve">Running Elections</source>
-        <target xml:space="preserve">進行中の選挙</target>
+        <target xml:space="preserve" state="translated">進行中の選挙</target>
       </trans-unit>
-      <trans-unit id="164">
+      <trans-unit id="164" xml:space="preserve">
         <source xml:space="preserve">No Running Elections</source>
-        <target xml:space="preserve">進行中の選挙はありません</target>
+        <target xml:space="preserve" state="translated">進行中の選挙はありません</target>
       </trans-unit>
-      <trans-unit id="165">
+      <trans-unit id="165" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
-        <target xml:space="preserve">Vald kandidat</target>
+        <target xml:space="preserve" state="translated">Vald kandidat</target>
       </trans-unit>
-      <trans-unit id="167">
+      <trans-unit id="167" xml:space="preserve">
         <source xml:space="preserve">Title Holders</source>
-        <target xml:space="preserve">タイトル ホルダー</target>
+        <target xml:space="preserve" state="translated">タイトル ホルダー</target>
       </trans-unit>
-      <trans-unit id="168">
+      <trans-unit id="168" xml:space="preserve">
         <source xml:space="preserve">Status</source>
-        <target xml:space="preserve">ステータス</target>
+        <target xml:space="preserve" state="translated">ステータス</target>
       </trans-unit>
-      <trans-unit id="169">
+      <trans-unit id="169" xml:space="preserve">
         <source xml:space="preserve">Election Info</source>
-        <target xml:space="preserve">選挙の詳細</target>
+        <target xml:space="preserve" state="translated">選挙の詳細</target>
       </trans-unit>
-      <trans-unit id="170">
+      <trans-unit id="170" xml:space="preserve">
         <source xml:space="preserve">Since</source>
-        <target xml:space="preserve">以来</target>
+        <target xml:space="preserve" state="translated">以来</target>
       </trans-unit>
-      <trans-unit id="171">
+      <trans-unit id="171" xml:space="preserve">
         <source xml:space="preserve">Submitting</source>
-        <target xml:space="preserve">提出する</target>
+        <target xml:space="preserve" state="translated">提出する</target>
       </trans-unit>
-      <trans-unit id="172">
+      <trans-unit id="172" xml:space="preserve">
         <source xml:space="preserve">Your vote has been counted</source>
-        <target xml:space="preserve">投票は記録されました</target>
+        <target xml:space="preserve" state="translated">投票は記録されました</target>
       </trans-unit>
-      <trans-unit id="173">
+      <trans-unit id="173" xml:space="preserve">
         <source xml:space="preserve">Voting will end in</source>
-        <target xml:space="preserve">投票終了まであと</target>
+        <target xml:space="preserve" state="translated">投票終了まであと</target>
       </trans-unit>
-      <trans-unit id="174">
+      <trans-unit id="174" xml:space="preserve">
         <source xml:space="preserve">choice</source>
-        <target xml:space="preserve">選択</target>
+        <target xml:space="preserve" state="translated">選択</target>
       </trans-unit>
-      <trans-unit id="175">
+      <trans-unit id="175" xml:space="preserve">
         <source xml:space="preserve">No Active Titles</source>
-        <target xml:space="preserve">有効なタイトルはありません</target>
+        <target xml:space="preserve" state="translated">有効なタイトルはありません</target>
       </trans-unit>
       <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
         <target xml:space="preserve" state="translated">Web グラフは、最初のシミュレーション ティックが発生した後に利用可能になります</target>
       </trans-unit>
-      <trans-unit id="177">
+      <trans-unit id="177" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here</source>
-        <target xml:space="preserve">法律上の議論はここで行い、後でテキストに合わせて地図をサイズ変更することができます</target>
+        <target xml:space="preserve" state="translated">法律上の議論はここで行い、後でテキストに合わせて地図をサイズ変更することができます</target>
       </trans-unit>
       <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
@@ -698,9 +698,9 @@
         <source xml:space="preserve">There have been no elections yet</source>
         <target xml:space="preserve" state="translated">まだ選挙は行われていません</target>
       </trans-unit>
-      <trans-unit id="182">
+      <trans-unit id="182" xml:space="preserve">
         <source xml:space="preserve">To start a new election</source>
-        <target xml:space="preserve">新しい選挙を開始するには、自分を候補として追加する必要があります</target>
+        <target xml:space="preserve" state="translated">新しい選挙を開始するには、自分を候補として追加する必要があります</target>
       </trans-unit>
       <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
@@ -710,9 +710,9 @@
         <source xml:space="preserve">UserVotes</source>
         <target xml:space="preserve" state="translated">UserVotes</target>
       </trans-unit>
-      <trans-unit id="185">
+      <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
-        <target xml:space="preserve">財務省が建設されると、税金を設定することができます(進行中の機能)</target>
+        <target xml:space="preserve" state="translated">財務省が建設されると、税金を設定することができます(進行中の機能)</target>
       </trans-unit>
     </body>
   </file>
