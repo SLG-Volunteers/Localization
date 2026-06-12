@@ -2,51 +2,45 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="tr" datatype="plaintext" original="EcopediaStrings">
     <body>
-      <trans-unit id="0">
-        <source xml:space="preserve">Components related to the economy.
-</source>
-        <target xml:space="preserve">Ekonomiye bağlı bileşenler.
+      <trans-unit id="0" xml:space="preserve">
+        <source xml:space="preserve">Components related to the economy.</source>
+        <target xml:space="preserve" state="translated">Ekonomiye bağlı bileşenler.
 </target>
       </trans-unit>
-      <trans-unit id="1">
-        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.
-</source>
-        <target xml:space="preserve">Banka Elemanları [Bank Accounts]'ın oluşturulduğu ve yönetildiği yerdir. Vatandaşlar Kendileri için birden çok hesap açabilir ya da diğer vatandaşlarla ortak hesap kullanabilirler. Hesaplar aynı zamanda [Titles] ve [Demographics]'e bağlanabilir.
+      <trans-unit id="1" xml:space="preserve">
+        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
+        <target xml:space="preserve" state="translated">Banka Elemanları [Bank Accounts]'ın oluşturulduğu ve yönetildiği yerdir. Vatandaşlar Kendileri için birden çok hesap açabilir ya da diğer vatandaşlarla ortak hesap kullanabilirler. Hesaplar aynı zamanda [Titles] ve [Demographics]'e bağlanabilir.
 </target>
       </trans-unit>
-      <trans-unit id="2">
+      <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Account Users can perform transactions using the account (adding and removing funds).
 
 Account Managers can change the users in both the manager list and the user list, rename the account, and perform transactions. 
 
-In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.
-</source>
-        <target xml:space="preserve">Hesap Kullanıcıları hesabı kullanarak işlem yapabilir (para ekleme ve çıkarma).
+In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
+        <target xml:space="preserve" state="translated">Hesap Kullanıcıları hesabı kullanarak işlem yapabilir (para ekleme ve çıkarma).
 
 Hesap Yöneticileri, hem yönetici listesindeki hem de kullanıcı listesindeki kullanıcıları değiştirebilir, hesabı yeniden adlandırabilir ve işlem yapabilir.
 
 Gelişmiş Ayarlar'da hesabı Devlet Hesabı olarak ayarlayabilirsiniz.  Devlet hesapları vergi fonlarını alabilir ve ödeyebilir ve vergi toplanırken ve kişisel servet hesaplanırken göz ardı edilir.  Bunu ayarlamak için, [Elected Title|Elected Titles] tarafından atanan devlet bankacılığı ayrıcalıklarına sahip olmanız gerekir.
 </target>
       </trans-unit>
-      <trans-unit id="3">
-        <source xml:space="preserve">The Bank component is used to create and manage bank accounts
-</source>
-        <target xml:space="preserve">Banka bileşeni, banka hesapları oluşturmak ve yönetmek için kullanılır
+      <trans-unit id="3" xml:space="preserve">
+        <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
+        <target xml:space="preserve" state="translated">Banka bileşeni, banka hesapları oluşturmak ve yönetmek için kullanılır
 </target>
       </trans-unit>
-      <trans-unit id="4">
-        <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.
-</source>
-        <target xml:space="preserve">Sözleşme Kurulu Bileşeni, vatandaşların [Contracts] ve [Work Parties] göndermesine ve kabul etmesine izin vererek, vatandaşlar arasında zorunlu çalışma ve diğer sözleşmelere izin verir.
+      <trans-unit id="4" xml:space="preserve">
+        <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.</source>
+        <target xml:space="preserve" state="translated">Sözleşme Kurulu Bileşeni, vatandaşların [Contracts] ve [Work Parties] göndermesine ve kabul etmesine izin vererek, vatandaşlar arasında zorunlu çalışma ve diğer sözleşmelere izin verir.
 </target>
       </trans-unit>
-      <trans-unit id="5">
-        <source xml:space="preserve">Setting Up a Contract
-</source>
-        <target xml:space="preserve">Sözleşme hazırlamak
+      <trans-unit id="5" xml:space="preserve">
+        <source xml:space="preserve">Setting Up a Contract</source>
+        <target xml:space="preserve" state="translated">Sözleşme hazırlamak
 </target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">
 When posting a contract, it may have as many or as few clauses as desired, and each clause can be configured to describe the job requested.  Each clause must be satisfied before the contract is considered complete.
 
@@ -59,9 +53,8 @@ When auto-detection is unchecked, the contractor will click 'Job Finished' when 
 Contracts have a set time length they must be completed within, determined when posting the contract. In addition, contracts can be set to repeat for recurring jobs. When this is enabled, each time a contract is accepted, repetition counter will be reduced by one.
 
 Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract is completed successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure.
-  
-</source>
-        <target xml:space="preserve">
+  </source>
+        <target xml:space="preserve" state="translated">
 Bir sözleşmeyi gönderirken, istenildiği kadar çok veya az maddeye sahip olabilir ve her madde, istenen işi tanımlayacak şekilde yapılandırılabilir.  Sözleşmenin tamamlandığı kabul edilmeden önce her madde yerine getirilmelidir.
 
 'Otomatik Kabul Et' işaretlendiğinde, sözleşmelerin tamamlandığı sistem tarafından otomatik olarak algılanır.  Örneğin, bir sözleşme iki nokta arasında bir yol inşa etmek için ayarlanmışsa, işi yapan müteahhit yan menüsünde sözleşmeyi açabilir ve işin gerçekten tamamlanıp tamamlanmadığını algılamayı tetikleyen 'İş Bitirildi' seçeneğine basabilir.  Eğer öyleyse, sözleşme sözleşmeye göre ödenecek ve otomatik olarak kapanacaktır.
@@ -75,10 +68,9 @@ Sözleşmelerin, sözleşmeyi gönderirken belirlenen, içinde tamamlanması ger
 Bir sözleşme için teklif edilen herhangi bir ödeme, sözleşme etkinken özel bir Emanet [Bank Account|Bank Accounts] içinde tutulacaktır.  Sözleşme başarılı bir şekilde tamamlanırsa, bu ödeme yükleniciye aktarılacak ve başarısız olursa müşteriye iade edilecektir.  Müteahhit tarafından emanette tutulacak ve başarılı bir şekilde tamamlandığında yükleniciye iade edilecek veya başarısız olduğunda müşteriye verilecek bir depozito da alınabilir.  
 </target>
       </trans-unit>
-      <trans-unit id="7">
-        <source xml:space="preserve">Work Parties
-</source>
-        <target xml:space="preserve">Çalışma Grupları
+      <trans-unit id="7" xml:space="preserve">
+        <source xml:space="preserve">Work Parties</source>
+        <target xml:space="preserve" state="translated">Çalışma Grupları
 </target>
       </trans-unit>
       <trans-unit id="8">
@@ -90,7 +82,6 @@ After posting a work party, Laborers can join the project at the Contract Board.
 When setting the Work desired, the poster of the work party can decide to hire for labor, resources, or both. Any citizen who contributes to the work party will receive a share of the payment based on the amount of work they provided. By assigning additional Weight to a particular job in a work party, that job will receive a higher share of the payment.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="9">
         <source xml:space="preserve">
@@ -105,18 +96,15 @@ There are a variety of Payment options for a work party, and multiple payment op
 - When granting a {Title|Titles} as payment, the citizen posting the contract must be a title manager for the title being offered. All citizens who contribute the minimum amount will be granted the new title. The Access Type determines if they will become a title manager or title user.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="10">
         <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="11">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="12">
         <source xml:space="preserve">
@@ -129,18 +117,15 @@ When selecting None for the currency in a store, direct trades are possible with
 Objects with a {Crafting Component} can define a fee for authorized citizens to use them. The settings in the Credit Component will determine what currency that fee is charged in and what account the funds are deposited to.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="13">
         <source xml:space="preserve">The Credit Component allows citizens to set the bank account and currency for transactions on an object.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="14">
         <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell {Property}.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="15">
         <source xml:space="preserve">
@@ -153,22 +138,18 @@ When buying a deed, the currency will be taken from the bank account selected by
 After the property is sold, the deed and all objects contained on the deed are transferred to the new owner. 
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="16">
         <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell property.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="17">
         <source xml:space="preserve">The Exchange Component allows citizens to trade one {Currency} for another.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="18">
         <source xml:space="preserve">Exchanging Currency
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="19">
         <source xml:space="preserve">
@@ -177,12 +158,10 @@ The owner of a {CurrencyExchangeItem} uses the Exchange Component to offer curre
 When an {Authorized Consumer|Authorization Component} visits the currency exchange, they will see a list of all offered exchanges. By default, all citizens are authorized consumers.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="20">
         <source xml:space="preserve">Exchange Restrictions
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="21">
         <source xml:space="preserve">
@@ -191,17 +170,14 @@ The owner of the Currency Exchange has the option to setup Balance Restrictions.
 The number on the left is the minimum currency holding and the number on the right is the maximum currency holding. If either value for the balance restriction is left at 0, there will be no limit for that part of the balance restriction.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="22">
         <source xml:space="preserve">Allows citizens to setup a currency exchange .
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="23">
         <source xml:space="preserve">The Item Distribution Component allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="24">
         <source xml:space="preserve">
@@ -210,18 +186,15 @@ All new citizens who qualify (based on how long they have played) can collect th
 The owner may designate what items are to be distributed, how many of each item, and how recently the citizen must have joined the world to be eligible.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="25">
         <source xml:space="preserve">Allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="26">
         <source xml:space="preserve">The Mint Component allows citizens to create {Currencies|Currency} which are backed by a resource. 
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="27">
         <source xml:space="preserve">
@@ -232,19 +205,16 @@ The backing material and coins per item are permanent, so be careful when decidi
 Citizens who have been granted consumer rights in the {Authorization Component} can use the Mint Component to mint additional currency. Currency can be minted into the target {Bank Account|Bank Accounts} selected by the mint owner, or any bank account the citizen minting has access to in the {Bank Component}.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="28">
         <source xml:space="preserve">Allows citizens to create and print backed currencies.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="29">
         <source xml:space="preserve">
 The Store Component allows citizens to set items they wish to buy from and sell to other citizens. These actions can happen automatically, not requiring the store owner to be online.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="30">
         <source xml:space="preserve">
@@ -259,29 +229,24 @@ When creating a Purchase List, the price and Max to Buy quantity for each item m
 For tools with durability, a minimum durability to buy/sell can be set, and only items of that durability or higher will be eligible for trade via the store.
  
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="32">
         <source xml:space="preserve">Sets up an interface for other citizens to buy and sell goods from/to you automatically.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="33">
         <source xml:space="preserve">Components related to the government.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="34">
         <source xml:space="preserve">
 The Civic Action Component allows citizens to participate in {Elections}, perform {Executive Actions}, and resign from office, depending on which object is being used.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="35">
-        <source xml:space="preserve">Participating in Elections
-</source>
-        <target xml:space="preserve">Seçimlere dahil olunuyor
+      <trans-unit id="35" xml:space="preserve">
+        <source xml:space="preserve">Participating in Elections</source>
+        <target xml:space="preserve" state="translated">Seçimlere dahil olunuyor
 </target>
       </trans-unit>
       <trans-unit id="36">
@@ -295,12 +260,10 @@ Citizens who have been granted Veto power in the current {Election Process|Elect
 To run for elected titles, first an eligible citizen must use the Start Election action. Once an election has started, eligible citizens can select Enter Election to join the race and give a campaign speech. Candidates can opt to Withdraw from Election at any time using the option available on a Ballot Box.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="37">
         <source xml:space="preserve">Performing Executive Actions
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="38">
         <source xml:space="preserve">
@@ -311,12 +274,10 @@ The Citizen Conditions dictate which citizens the executive action applies to, a
 The Action on Each Citizen will take effect as soon as the executive action is approved. Multiple actions can be performed at once for each citizen who meets the conditions.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="39">
-        <source xml:space="preserve">Government Office Actions
-</source>
-        <target xml:space="preserve">Hükümet Ofisi Eylemleri
+      <trans-unit id="39" xml:space="preserve">
+        <source xml:space="preserve">Government Office Actions</source>
+        <target xml:space="preserve" state="translated">Hükümet Ofisi Eylemleri
 </target>
       </trans-unit>
       <trans-unit id="40">
@@ -328,44 +289,36 @@ The Resign from Office action allows any elected official to step down from thei
 The Remove Official from Office action allows citizens who have been given the authority to remove elected titles from office. The same rules for finding a successor apply as if the official resigned.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="41">
         <source xml:space="preserve">Allows citizens to participate in elections and perform executive actions.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="42">
         <source xml:space="preserve">    
 The Civic Object Component allows citizens to propose, amend, and repeal various Civic Objects. 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="43">
-        <source xml:space="preserve">Civic Duties
-</source>
-        <target xml:space="preserve">Kentsel Görevler
+      <trans-unit id="43" xml:space="preserve">
+        <source xml:space="preserve">Civic Duties</source>
+        <target xml:space="preserve" state="translated">Kentsel Görevler
 </target>
       </trans-unit>
       <trans-unit id="44">
         <source xml:space="preserve">Within a Civic Object Component, you will see a list of your {Civic Duties}. This informs the citizen what permissions they have regarding civic objects, given the current {Constitution}.The possibilities of different civic duties are:
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="45">
         <source xml:space="preserve">The Civic Object Component allows citizens to propose, amend, and repeal civic objects.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="46">
         <source xml:space="preserve">The Registrar Component allows for the creation and management of non-elected {Titles}.  These titles can be used for many of the same purposes as {Elected Titles}, but they are appointed at the Registrar.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="47">
         <source xml:space="preserve">Assigning Titles
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="48">
         <source xml:space="preserve">Title Managers can rename the title and assign new managers and title holders. Title Managers are not considered Title Users.
@@ -373,12 +326,10 @@ The Civic Object Component allows citizens to propose, amend, and repeal various
 Title Users are the citizens considered title holders and receive all associated benefits and conditions.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="49">
-        <source xml:space="preserve">Advanced Settings
-</source>
-        <target xml:space="preserve">Gelişmiş Ayarlar
+      <trans-unit id="49" xml:space="preserve">
+        <source xml:space="preserve">Advanced Settings</source>
+        <target xml:space="preserve" state="translated">Gelişmiş Ayarlar
 </target>
       </trans-unit>
       <trans-unit id="50">
@@ -390,43 +341,35 @@ When deciding what is Required of Office Holders, a variety of conditions can be
 Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title Manager has been given permission to use in the {Bank Component}. Wages are paid each hour (depending on World settings) into the personal account of each Title User. The Wage Type can be used to exclude offline hours from wage payments.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="51">
         <source xml:space="preserve">Allows creation and management of non-elected titles.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="52">
         <source xml:space="preserve">The Treasury Component allows {Elected Titles} that have been granted the right to 'Set Taxes at the Treasury' to adjust the tax rate and select the World Default Currency.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="53">
-        <source xml:space="preserve">Taxes
-</source>
-        <target xml:space="preserve">Vergiler
+      <trans-unit id="53" xml:space="preserve">
+        <source xml:space="preserve">Taxes</source>
+        <target xml:space="preserve" state="translated">Vergiler
 </target>
       </trans-unit>
       <trans-unit id="54">
         <source xml:space="preserve">After {Taxes} are set in the Treasury Component, they are automatically applied to all relevant transactions. All revenue goes into the Treasury {Bank Account|Bank Accounts}. Elected titles that have the setting 'Government Banking Privileges' can transact directly from the Treasury account (allowing selection of the account within the {Credit Component}).  Money can also come out of the treasury via {Laws} that make payments to citizens.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="55">
         <source xml:space="preserve">World Default Currency
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="56">
         <source xml:space="preserve">The World Default Currency is the default {Currency} used when placing a new object that contains the Credit Component. Citizens can still choose to use any currency in a {Trade}, but having a World Default Currency makes it is easier to establish an economy with a common currency.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="57">
         <source xml:space="preserve">Direct Taxes
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="58">
         <source xml:space="preserve">Elected Titles with rights to 'Set Taxes at the Treasury' can tax or allocate funds directly from citizens. This is done through managing the desired currency and selecting which citizens the action will apply to. An elected title must always give a reason why they are performing this action that is displayed to all citizens.
@@ -434,23 +377,19 @@ Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title
 Treasury management also includes the option to dump currency from the Treasury account. This will remove the currency permanently, so be careful when using this ability on backed currencies.
 	  
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="59">
         <source xml:space="preserve"> Allows citizens holding an Elected Title with tax permission to set taxes and select the World Default Currency.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="60">
         <source xml:space="preserve">Components related to housing.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="61">
         <source xml:space="preserve">The Authorization Component allows specifying what permissions citizens have on the object.
     
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="62">
         <source xml:space="preserve">
@@ -461,41 +400,34 @@ Authorized Consumers can be listed here, either as specific people, {Titles}, or
 All placed objects have authorization components.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="63">
         <source xml:space="preserve">Allows citizens to set the access rights of a given object.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="64">
         <source xml:space="preserve">Beds allow citizens to accelerate time when all citizens are using it simultaneously (or offline).  
   
 (This feature is disabled by default on dedicated servers to prevent accelerating time when users are offline, but can be enabled by a server administrator.)
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="65">
         <source xml:space="preserve">Allows sleeping in single-player servers or servers where sleep is enabled.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="66">
         <source xml:space="preserve">Components related to industry.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="67">
         <source xml:space="preserve">
     The Crafting Component is used to {Craft|Crafting} items, add resources or labor, and cancel existing projects. When contributing to a {Work Party|Work Parties}, the Crafting Component can be accessed by citizens who have joined the work party.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="68">
         <source xml:space="preserve">Crafting Items
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="69">
         <source xml:space="preserve">
@@ -508,12 +440,10 @@ By adding an upgrade in the {Modules Component}, work orders on a crafting table
 If a project is cancelled early (by right clicking the order), the resources will be refunded but the spent labor will be lost.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="70">
         <source xml:space="preserve">Adding Labor
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="71">
         <source xml:space="preserve">
@@ -522,12 +452,10 @@ For every unit of labor needed, {Calories|Nutrition} are consumed. After a work 
 Once a project is started, labor can quickly be added from outside the Crafting Component by right clicking on a crafting table. When adding labor in this way, holding down 'Ctrl' will add 5x the normal amount of labor. Holding down 'Alt' will add all available calories.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="72">
         <source xml:space="preserve">Tagged Ingredients
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="73">
         <source xml:space="preserve">
@@ -536,12 +464,10 @@ Some recipes use Tagged Ingredients that can accept similar items as inputs. For
 Tagged ingredients will be consumed automatically, so there is no need to create separate orders using the different ingredients.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="74">
         <source xml:space="preserve">Parent Recipes
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="75">
         <source xml:space="preserve">
@@ -550,22 +476,18 @@ Some recipes are part of larger group of recipes, known as Parent Recipes. When 
 By default only recipes that have available resources will be displayed. By checking 'Show All', all possible variations will be displayed.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="76">
         <source xml:space="preserve">The Crafting Component is used to craft items and add labor to projects.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="77">
         <source xml:space="preserve"> The Modules Component allows citizens to insert upgrades into their {Crafting} tables. After inserting an upgrade, work orders on that table will have reduced resource costs and crafting times.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="78">
         <source xml:space="preserve">Using Upgrades
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="79">
         <source xml:space="preserve">
@@ -576,12 +498,10 @@ Crafting tables accept different types of upgrades. Early tables accept 'Basic U
 Some recipes have costs using Static Ingredients. Static ingredients are not affected by the resource cost reduction, but the recipes that contain them still get a reduction for crafting time. 
 		
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="80">
-        <source xml:space="preserve">Specialty Upgrades
-</source>
-        <target xml:space="preserve">Uzmanlık Geliştirmeleri
+      <trans-unit id="80" xml:space="preserve">
+        <source xml:space="preserve">Specialty Upgrades</source>
+        <target xml:space="preserve" state="translated">Uzmanlık Geliştirmeleri
 </target>
       </trans-unit>
       <trans-unit id="81">
@@ -591,24 +511,20 @@ The highest level of upgrade can only be crafted by a citizen who has reached th
 Some specialties have different tiers of upgrades that correspond to different crafting tables. For example, {CarpentrySkill} has the {CarpentryBasicUpgradeItem} for the {CarpentryTableItem} and the {CarpentryAdvancedUpgradeItem} for the {SawmillItem}.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="82">
         <source xml:space="preserve">Allows citizens to upgrade their crafting tables.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="83">
         <source xml:space="preserve">
 The Pipe Component allows a citizen to check the status of an object’s smog output, water usage, and sewage flow.  
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="84">
         <source xml:space="preserve">Smog Output
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="85">
         <source xml:space="preserve">
@@ -619,12 +535,10 @@ Pipes can be used to redirect the flow of the air pollution. The pipes containin
 Objects that emit smog pollution only pollute when the object is active. 
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="86">
         <source xml:space="preserve">Water and Sewage
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="87">
         <source xml:space="preserve">
@@ -635,22 +549,18 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="88">
         <source xml:space="preserve">The Pipe Component allows a citizen to check the status of an object’s smog output and water usage.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="89">
         <source xml:space="preserve">The Power Component is used to check the status of local power grid. It is also used to check the consumption of objects that require fuel to operate.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="90">
-        <source xml:space="preserve">Fuel
-</source>
-        <target xml:space="preserve">Yakıt
+      <trans-unit id="90" xml:space="preserve">
+        <source xml:space="preserve">Fuel</source>
+        <target xml:space="preserve" state="translated">Yakıt
 </target>
       </trans-unit>
       <trans-unit id="91">
@@ -660,12 +570,10 @@ Objects that consume fuel will have fuel input here, and each may require differ
 While operating, an object consumes fuel every second, measured in Watts (W). Each type of fuel contains a different amount of potential energy, measured in Joules (J). For every 1 Watt needed per second, 1 Joule of energy is consumed. Fuel is not consumed while the object is inactive.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="92">
         <source xml:space="preserve">Energy Stats
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="93">
         <source xml:space="preserve">
@@ -674,17 +582,14 @@ There are two types of {Power} that can be used by an object, Electric and Mecha
 Power generators that consume fuel become inactive if there are no nearby objects demanding power. There is no need to turn them on and off to conserve fuel.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="94">
         <source xml:space="preserve">The Power Component is used to check the supply and demand for power and fuel.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="95">
         <source xml:space="preserve">The Repair Component allows citizens to repair tools at a {ToolBenchItem}.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="96">
         <source xml:space="preserve">
@@ -693,24 +598,20 @@ After inserting a broken tool, the repair cost will appear. Advanced tools can b
 The owner of a Tool Bench can allow other citizens access to repair their own tools for a fee set in the {Credit Component}. When offering tool repair to the public, consumer rights must be given in the {Authorization Component}.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="97">
         <source xml:space="preserve">Allows citizens to repair tools.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="98">
         <source xml:space="preserve">
 The Status Component allows citizens to see the requirements for an object to be active, and which of those requirements are met. If an object causes {Pollution}, the status component also shows the lifetime pollution production for that object.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="99">
         <source xml:space="preserve">Object Status
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="100">
         <source xml:space="preserve">
@@ -723,44 +624,41 @@ Each condition in the Status Component must be satisfied before an object can be
 - A working {Sewage} system
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="101">
         <source xml:space="preserve">Status Indicator
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="102">
         <source xml:space="preserve">
 When interacting with an object with a Status Component, citizens can quickly see the status of the object by checking the status indicator in the top left corner. A green circle means an object is active while a red circle means it is inactive.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="103">
         <source xml:space="preserve">Displays if an object is active or inactive and why.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="104">
+      <trans-unit id="104" xml:space="preserve">
         <source xml:space="preserve">The Storage Component is used to manage the inventory of storage containers and link them to objects that require access to storage.
-  
-</source>
-        <target xml:space="preserve">The Storage Component is used to manage the inventory of storage containers and link them to objects that need storage.
+  </source>
+        <target xml:space="preserve" state="translated">The Storage Component is used to manage the inventory of storage containers and link them to objects that need storage.
   
 </target>
       </trans-unit>
       <trans-unit id="105">
         <source xml:space="preserve">Managing Storage
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="106">
+      <trans-unit id="106" xml:space="preserve">
         <source xml:space="preserve">
-Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
-  
-</source>
-        <target xml:space="preserve">
+Some storage containers, like a {StockpileItem}, can contain any type of item. Other storage containers, like a {StorageChestItem}, can only contain non-carriable items. Objects like a {StorageSiloItem} can only store specific types of items.
+
+Containers can be linked to an object as an input and/or output by toggling the associated button in the Storage Component of that object. When linked as an input, the object gains access to all items in that container to be used as crafting ingredients or as inventory in a store. Linking containers as an output allows them to be used as storage for finished products and store purchases.
+
+When linking storage containers, the topmost container in the Storage Component will be used first for pulling inputs and storing outputs. The order can be changed by clicking and dragging the storages displayed in this list.
+  </source>
+        <target xml:space="preserve" state="translated">
 Inventory can be moved between containers by dragging stacks of items from one container to another.
 
 Holding down the 'Shift' key while dragging items will move all stacks of the same item between containers. Right clicking a stack of items will allow a player to divide a stack into smaller quantities. Holding down ‘Ctrl’ when clicking a stack of items will split the stack in half.
@@ -769,13 +667,12 @@ Some storage containers, like a [StockpileItem], can contain any type of item. O
   
 </target>
       </trans-unit>
-      <trans-unit id="107">
-        <source xml:space="preserve">Consolidating and Filtering
-</source>
-        <target xml:space="preserve">Linking Storage Containers
+      <trans-unit id="107" xml:space="preserve">
+        <source xml:space="preserve">Storage Hotkeys</source>
+        <target xml:space="preserve" state="translated">Linking Storage Containers
 </target>
       </trans-unit>
-      <trans-unit id="108">
+      <trans-unit id="108" xml:space="preserve">
         <source xml:space="preserve">
 Inventory can be moved between containers by dragging stacks of items from one container to another. Simply clicking on an item stack will instantly move it to and from the open storage container. A quick reference for the advanced hotkeys explained below can be found at the bottom of an item's tooltip when viewing it from a storage container:
 
@@ -784,9 +681,8 @@ Inventory can be moved between containers by dragging stacks of items from one c
 - Holding ‘Ctrl’ while clicking a stack of items will move half of the stack to/from the open storage container.
 - Holding 'Alt' while clicking a stack of items will move one of that item to/from the open storage container.
 - Holding 'Ctrl' + 'Alt' while clicking a stack of items will move all items of that type to/from the open storage container.
-  
-</source>
-        <target xml:space="preserve">
+  </source>
+        <target xml:space="preserve" state="translated">
 An object can be linked to containers in the Storage Component by selecting the check box for the container. Once linked, the object gain access to all items in the containers and can use the container for storage. When linking storage containers, the topmost container in the Storage Component will be used first for storage.  The order can be changed by clicking and dragging the storage displays in the list. 
   
 </target>
@@ -794,12 +690,10 @@ An object can be linked to containers in the Storage Component by selecting the 
       <trans-unit id="109">
         <source xml:space="preserve">Manages inventory and allows linking storage to other objects.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="110">
         <source xml:space="preserve">An economy thriving with trade is essential to developing the technology needed to stop the meteor.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="111">
         <source xml:space="preserve">Bank accounts are storages of {Currency} that one or more citizen can access.  Each citizen enters the world with a permanent Personal Bank Account, containing an infinite amount of their Personal Credit. Additional bank accounts can be granted and have their access-rights adjusted at a {Bank|bank component}.
@@ -807,18 +701,15 @@ An object can be linked to containers in the Storage Component by selecting the 
 Bank accounts are useful for organizing currency, allowing access to funds by multiple parties, and storing the collection of taxes and designating who can access them.  Governments will generally setup a number of bank accounts to manage the in-flow of taxes, ensuring the funds are used as intended.  Each bank account can hold unlimited amounts of unlimited currencies, with each currency tracked separately. Clicking on the bank account will display the ledger listing all transactions to or from it, as all transactions in Eco are public.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="112">
         <source xml:space="preserve">Bank accounts serve as a storage and separation of currency for different uses by various citizens and government entities.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="113">
         <source xml:space="preserve">
     A contract is an agreement between two citizens created at a {Contract Board|contract board component}.  The agreement can have any number of clauses, and specify combinations of work to be performed and compensation to be paid.  It is posted by the client citizen, and can be accepted by any valid citizen asynchronously.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="114">
         <source xml:space="preserve">Examples of contract include:
@@ -828,12 +719,10 @@ Bank accounts are useful for organizing currency, allowing access to funds by mu
     - Custom requirements described in text, and accepted/rejected by the client upon completion.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="115">
         <source xml:space="preserve">Contracts maintain an agreement between two citizens.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="116">
         <source xml:space="preserve">
@@ -846,12 +735,10 @@ The inputs and outputs can either be taken directly from the crafting table, or 
 Many recipes require labor of a specific {Skill|skills overview}.  While any citizen can start a crafting recipe or contribute ingredients, only a citizen with the required skills may add labor to it.  To form a group and have many citizens contribute to a work order while sharing in payment, {Work Parties} may be created.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="117">
         <source xml:space="preserve">Crafting is the creation of products by citizens at specific tables.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="118">
         <source xml:space="preserve">Currency is a means of facilitating trade, as a representation of value. Its value is entirely determined by how it is used.
@@ -865,30 +752,25 @@ Backed currencies are much more stable. A backed currency is created at a {Mint|
 Currencies can be transferred to others in the Economy Viewer, as well as through {Trade}.  All currency is stored in a {Bank Account|Bank Accounts}.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="119">
         <source xml:space="preserve">Currency is a societal construct that makes trade easier.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="120">
         <source xml:space="preserve">Economy has frequently nothing whatever to do with the amount of money being spent, but with the wisdom used in spending it.
     Henry Ford
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="121">
         <source xml:space="preserve">The economy comprises the actions of harvesting, production and trade among citizens, taking from the {Ecosystem|Ecosystem Overview} under the regulation of the {Government|Government Overview}. Citizens will need to ensure a smoothly running economy in order to progress technology enough to stop the meteor, without letting it run amok and destroy the planet through pollution in the process.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="122">
         <source xml:space="preserve">Economy Concepts
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="123">
         <source xml:space="preserve">
@@ -903,12 +785,10 @@ Currencies can be transferred to others in the Economy Viewer, as well as throug
 - {Finance}. Providing capital to other citizens to help them progress while making a profit yourself.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="124">
         <source xml:space="preserve">The economy consists of all resource usage, trade, and technological progress by citizens.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="125">
         <source xml:space="preserve">Through the use of {Contracts}, Citizens in Eco can create loan and bond agreements between two parties, tracking automatically the interest payment and due date of the funds.  Loans and bonds are a great way for new citizens to collaborate with long-time citizens with more wealth in a way that benefits both parties and increases societal progress.
@@ -919,29 +799,24 @@ If a citizen purchases a bond, they give money to the offering party which they 
 Penalties for defaulting on loans can be constructed using {Laws}, by watching for the Default on Loan/Bond trigger.  Actions can then be taken, such as repossessing property or applying other penalties and fines.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="126">
         <source xml:space="preserve">Finance is the management of currency to promote progress.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="127">
         <source xml:space="preserve">Each player can affect the Reputation of any other player, which can in turn be used as a factor in laws, contracts, etc, which may query a citizens reputation and determine privileges (or lack thereof) based on the value). To set reputation on a citizen, hover over their name in chat and click their reputation listing in the tooltip (a list of all citizens can be found on the page {Current Citizens}).
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="128">
         <source xml:space="preserve">Reputation is modified by a Network Multiplier, which is a calculate as +1 for every citizen giving you positive reputation, and -1 for every citizen giving you negative reputation.  This way, it becomes more beneficial to help many citizens and gain a wide-spread reputation than to focus narrowly on a few citizens.  Relative Reputation is another value that only takes into account citizens that you have given positive reputation to.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="129">
         <source xml:space="preserve">A value set by other citizens or from laws that represents your social standing.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="130">
         <source xml:space="preserve">Research creates new shareable knowledge, unlocking new types of products and abilities.  It is conducted at a {ResearchTableItem} where you craft a skill book.  Once created, a skill book can be used to create an unlimited number of skill scrolls, which will unlock the specialty for a citizen that uses one.
@@ -951,12 +826,10 @@ Each skill scroll is a one-time-use consumable that unlocks a new {Specialty|spe
 Skill books are some of the most difficult items to create, and citizens will typically need to collaborate to acquire all the various resources and labor required to produce them.  As such, research projects are especially well-suited for {Work Parties}, as citizens can use them to share the work needed to create them along with the knowledge reward upon completion.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="131">
         <source xml:space="preserve">Research creates new shareable knowledge, unlocking new types of products and abilities.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="132">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
@@ -968,12 +841,10 @@ Skill books are some of the most difficult items to create, and citizens will ty
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="133">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="134">
         <source xml:space="preserve">With resources spread out through the world and the locations where they are collected and processed differing from where they’re used, transport becomes a critical factor to success in Eco.
@@ -983,12 +854,10 @@ To efficiently transform materials, you’ll need to create vehicles to carry th
 Building roads between villages and resource caches will take time and the effort of many citizens, and is a great candidate for public works projects funded by {Taxes} and built using {Work Parties}.  As the world progresses in technology, more and more transportation infrastructure will be created to aid the flow of commerce, eventually growing to a point where the road construction and vehicle usage will create an impact on the environment.  Careful management of this influence will be key to preserving the ecosystems that they pass through.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="135">
         <source xml:space="preserve">With resources and their usage spread out across the world, transforming the world by building transportation infrastructure becomes necessary.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="136">
         <source xml:space="preserve">A Work Party is an agreement among multiple citizens to perform work.  They are started by an individual citizen by visiting a {Contract Board|Contract Board Component} after creating a work order.
@@ -1010,17 +879,14 @@ Payment can take a variety of forms:
 The economy of Eco is focused not just on trading of goods but trading of labor, and work parties make it easy to farm out many kinds of work to the general populace.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="137">
         <source xml:space="preserve">Work Parties are joint agreements by a number of players to perform a given task, with compensation being distributed in various ways.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="138">
         <source xml:space="preserve">The living biome of the world, providing resources which humans must use to survive.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="139">
         <source xml:space="preserve">
@@ -1031,12 +897,10 @@ Biomes are ecosystems within the global ecosystem, and within biomes there are s
 Climate change may shift the boundaries of biomes, displacing communities-- some species will survive and adapt, but others will not be so resilient. Direct displacement of soil and other habitat destruction from activities like construction, farming, mining, and logging will also have an impact on species within biomes to differing degrees. Species of plants or animals might not only prefer particular biomes, but particular parts of sub-biomes, which will mean a greater impact if those highly localized areas are altered or destroyed. Resilient and adaptive species will be able to thrive across biome boundaries as they are altered, but those same species may become a threat to more sensitive plants or animals in the new biomes they are introduced to.
  
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="140">
         <source xml:space="preserve">Biomes in Eco:
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="141">
         <source xml:space="preserve">Ocean : The parts of the ocean on the continental shelves, abundant with life.
@@ -1059,17 +923,14 @@ High Desert : A geologically uplifted part of the desert with species more toler
 Cold Steppe : A slightly colder grassland, often characterized by even fewer trees and larger open spaces.  
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="142">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="143">
-        <source xml:space="preserve">Graphs
-</source>
-        <target xml:space="preserve">Grafikler
+      <trans-unit id="143" xml:space="preserve">
+        <source xml:space="preserve">Graphs</source>
+        <target xml:space="preserve" state="translated">Grafikler
 </target>
       </trans-unit>
       <trans-unit id="144">
@@ -1079,12 +940,10 @@ Each Eco world stores every action in the game and monitors the progress of ever
 Graphs are most useful for comparing the states of various metrics and viewing them overtime. As such, they’re especially useful for determining the results of laws and regulations in retrospect, by studying how things changed after they were implemented.  They are also useful for extrapolating into future effects, projecting the rate at which things are changing (i.e., population dropping as a result of deforestation) and making changes before they occur. Reading, composing, and understanding graphs is a very powerful tool for the government, and citizens are given the tools to craft graphs that support or refute arguments and present them to their fellow citizens directly on discussions for civic actions.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="145">
-        <source xml:space="preserve">Heatmaps
-</source>
-        <target xml:space="preserve">Heatmaps
+      <trans-unit id="145" xml:space="preserve">
+        <source xml:space="preserve">Heatmaps</source>
+        <target xml:space="preserve" state="translated">Heatmaps
 </target>
       </trans-unit>
       <trans-unit id="146">
@@ -1094,12 +953,10 @@ Eco worlds are varied places, with many different biomes and locations of human 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="147">
-        <source xml:space="preserve">Map
-</source>
-        <target xml:space="preserve">Mini-Map
+      <trans-unit id="147" xml:space="preserve">
+        <source xml:space="preserve">Map</source>
+        <target xml:space="preserve" state="translated">Mini-Map
 </target>
       </trans-unit>
       <trans-unit id="148">
@@ -1109,18 +966,15 @@ The map is a powerful tool within the game that serves many purposes: navigation
 Currently we’re working on adding in-game designation of property and districts, as well as specifying land areas for work parties and contracts, allowing for example citizens to highlight in-game the areas they wish to hire others to plow a field, or build a road, etc. This will greatly open up the ability for the labor market, letting citizens be much more specific in an easier way when designating where they would like work to be performed.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="149">
-        <source xml:space="preserve">Data on the ecosystem and economy can provide valuable insights into the actions of society and help guide future decisions.
-</source>
-        <target xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
+      <trans-unit id="149" xml:space="preserve">
+        <source xml:space="preserve">Data on the ecosystem and economy can provide valuable insights into the actions of society and help guide future decisions.</source>
+        <target xml:space="preserve" state="translated">The living system of plants and animals which provides the means for humans to survive.
 </target>
       </trans-unit>
       <trans-unit id="150">
         <source xml:space="preserve">The true meaning of life is to plant trees, under whose shade you do not expect to sit.\n– Nelson Henderson
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="151">
         <source xml:space="preserve">
@@ -1130,34 +984,28 @@ The ecosystem is an end unto itself in Eco, and its continued prosperity is the 
 The ecosystem in Eco runs on a continuous simulation, active as long as the server is running, regardless of whether players are in the game or not. Each simulated plant and animal are growing, consuming food sources and reproducing. It is the sole source of materials from which players must build their society, and the process of extracting them will affect it greatly. Chopping down a forest might destroy a creature’s habitat, driving them to extinction. Mine tailings may pollute nearby rivers and lakes, poisoning farms that rely on it. The actions players take in Eco affect their environment, and players will need to understand the impact they’re having in order to thrive and stop the meteor. It is not an option to leave the ecosystem in a pristine, untouched state; the meteor ensures that choice will also lead to the ecosystem’s destruction. To save it, citizens must take from it, building a society that has the power to stop the meteor, while also having the restraint to not destroy the ecosystem in the process.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="152">
-        <source xml:space="preserve">Gameplay
-</source>
-        <target xml:space="preserve">Gameplay
+      <trans-unit id="152" xml:space="preserve">
+        <source xml:space="preserve">Gameplay</source>
+        <target xml:space="preserve" state="translated">Gameplay
 </target>
       </trans-unit>
       <trans-unit id="153">
         <source xml:space="preserve">The ecosystem is the foundational system which citizens must understand and contend with. From growing large {Farms|Farming} and {Mines|Mining} to understanding the impact of {Pollution} through study, the impact of citizens on the ecosystem will determine the success or failure of player decisions. Understanding how it functions using in-game {Data} becomes a key requirement of survival. Unlike the {Economy|Economy Overview} and the {Government|Government Overview}, the ecosystem is not a citizen construct – its behavior is absolute, nothing about how it functions can be changed by fiat the way the economy can. In this sense it’s a reality check, the place where the conflicting biases and beliefs of citizens collide and reveal the true consequences.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="154">
         <source xml:space="preserve">Between Economy and Government
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="155">
         <source xml:space="preserve">As citizens progress society, they must beware the ‘Tragedy of the Commons’; that giving a population unfettered access to a common resource will frequently result in its destruction. To prevent this, citizens must organize, deciding rules for the common good through {Laws} and other civic regulations which may limit the individual but allow the group to survive. This conflict, the individual vs the group, forms the heart of the challenge of building a civilization.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="156">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="157">
         <source xml:space="preserve">
@@ -1168,12 +1016,10 @@ Farmers will need to pay attention to the resources and health of their soil, av
 Farming is a big activity in Eco that we want to enhance and expand as we move forward with development. Balancing and storage will be a core part of farming improvements to start, as we make sure that Eco societies generate an appropriate demand from farmers to fuel technological growth, and that the storage objects and mechanics exist to support these demands. Farming itself has many possible improvements and expansions, among them developing and modifying seeds and organisms to be more productive or resistant to pollutants, or other environmental factors.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="158">
-        <source xml:space="preserve">Soil
-</source>
-        <target xml:space="preserve">Soil
+      <trans-unit id="158" xml:space="preserve">
+        <source xml:space="preserve">Soil</source>
+        <target xml:space="preserve" state="translated">Soil
 </target>
       </trans-unit>
       <trans-unit id="159">
@@ -1183,12 +1029,10 @@ The soil of Eco contains nutrients that allow plants to grow and thrive: too muc
 As we increase the dependencies of the animals on the plant layers, we can have those parts of the ecosystems further affect the soil as species that consume plants can also remove nutrients from the soil. Another addition that can be considered is how topsoil exists within Eco: currently it’s purely cosmetic and tied to the biome of the area, but in each biome the topsoil is a unique and valuable resource compared to the dense clay and dirt below.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="160">
-        <source xml:space="preserve">The cultivation of plants for food, fibers, and raw materials in production.
-</source>
-        <target xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
+      <trans-unit id="160" xml:space="preserve">
+        <source xml:space="preserve">The cultivation of plants for food, fibers, and raw materials in production.</source>
+        <target xml:space="preserve" state="translated">The living system of plants and animals which provides the means for humans to survive.
 </target>
       </trans-unit>
       <trans-unit id="161">
@@ -1196,24 +1040,20 @@ As we increase the dependencies of the animals on the plant layers, we can have 
 The ground beneath you is host to a huge variety of resources, such as rocks, metals, and other mineral deposits. Different types of rock host different kinds of mineral deposits or lend themselves to trapping other resources like petroleum. Due to the immense complexity of earth resources in reality and the necessity in Eco of providing players with a predictable balance of raw materials to start with, rocks and their deposits are generated based on Biomes. Each biome comes with a suite of associated rocks and deposits that sprawls out beneath it in layers.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="162">
         <source xml:space="preserve">Mining by Hand
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="163">
         <source xml:space="preserve">
 To mine ore, first you must locate it. Ores in Eco are each hosted in particular host rocks, so learning which rocks have the type of ore you want and then digging near rocks of those type is a good way to start. Use a {WoodenShovelItem} or better to dig away soil from the surface or start digging into a hill from the side. Once you hit rock you want to go through, you'll need to use a pickaxe like the {StonePickaxeItem} to break it. When breaking rocks with the pickaxe, sometimes you'll break off a larger piece of rock that needs to be hit again to break into pieces small enough to pick up. It's a good idea to pick up rock as you break it, and stack it elsewhere for use, preferably in a {StockpileItem} or vehicle you're using to transport your ore like a {WoodCartItem}.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="164">
         <source xml:space="preserve">Mineral Processing
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="165">
         <source xml:space="preserve">
@@ -1224,12 +1064,10 @@ Concentration: Concentration is a way to separate the desired metals in an ore r
 Smelting: Once you have precious ore concentrate, you can at last smelt it into metal products like {IronBarItem} at a {BloomeryItem} or using a more advanced smelting technology. 
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="166">
-        <source xml:space="preserve">The extraction of ore, coal, and other valuable minerals from the ground.
-</source>
-        <target xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
+      <trans-unit id="166" xml:space="preserve">
+        <source xml:space="preserve">The extraction of ore, coal, and other valuable minerals from the ground.</source>
+        <target xml:space="preserve" state="translated">The living system of plants and animals which provides the means for humans to survive.
 </target>
       </trans-unit>
       <trans-unit id="167">
@@ -1239,12 +1077,10 @@ As citizens burn fuel to cook or generate power, smelt metals, process sewage, a
 To ensure the survival of ecosystems and preserve resources like soil and water, players will have to manage and contain the sources of pollution their civilization creates. In some cases, spills or deadly concentrations will be inevitable, and then remediation and storage may be the only option to return the land to an unharmed state. 
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="168">
-        <source xml:space="preserve">Ground Pollution
-</source>
-        <target xml:space="preserve">Toprak Kirliliği
+      <trans-unit id="168" xml:space="preserve">
+        <source xml:space="preserve">Ground Pollution</source>
+        <target xml:space="preserve" state="translated">Toprak Kirliliği
 </target>
       </trans-unit>
       <trans-unit id="169">
@@ -1252,12 +1088,10 @@ To ensure the survival of ecosystems and preserve resources like soil and water,
 Once released into the soils and water table, ground pollutants are not easy to stop or remove. Various materials in Eco are sources of ground pollution, most notably tailings from mining and garbage from crafting and other player activities. Pollution spreads as a gradient that increases in concentration with time if the source of pollutants remains or increases. When the source of pollutants is removed from contact with the ground, ground pollution spreads and dissipates with time.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="170">
-        <source xml:space="preserve">Air Pollution
-</source>
-        <target xml:space="preserve">Hava Kirliliği
+      <trans-unit id="170" xml:space="preserve">
+        <source xml:space="preserve">Air Pollution</source>
+        <target xml:space="preserve" state="translated">Hava Kirliliği
 </target>
       </trans-unit>
       <trans-unit id="171">
@@ -1267,12 +1101,10 @@ Many player activities can create harmful emissions which if released into the a
 Concentrations of air pollution will fall back to the ground as acid rain, which we simulate using the air pollution and local rainfall quantities. 
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="172">
         <source xml:space="preserve">Water Pollution
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="173">
         <source xml:space="preserve">
@@ -1281,12 +1113,10 @@ Water is a medium through which pollution spreads more quickly and further, rush
 Removal of the source is the only way to currently stop water pollution, but clean-up and remediation strategies are features we are considering for the future.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="174">
-        <source xml:space="preserve">Containment
-</source>
-        <target xml:space="preserve">Containment
+      <trans-unit id="174" xml:space="preserve">
+        <source xml:space="preserve">Containment</source>
+        <target xml:space="preserve" state="translated">Containment
 </target>
       </trans-unit>
       <trans-unit id="175">
@@ -1296,12 +1126,10 @@ In many cases, there is no perfect solution to deal with polluting materials. Sp
 Containment mechanics are the forefront of features we want to improve related to the Pollution group of features in Eco. Players should be using containment to deal with the vast quantities of tailings and garbage that their societies produce.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="176">
-        <source xml:space="preserve">The introduction of harmful contaminates into the natural environment that can cause adverse changes.
-</source>
-        <target xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
+      <trans-unit id="176" xml:space="preserve">
+        <source xml:space="preserve">The introduction of harmful contaminates into the natural environment that can cause adverse changes.</source>
+        <target xml:space="preserve" state="translated">The living system of plants and animals which provides the means for humans to survive.
 </target>
       </trans-unit>
       <trans-unit id="177">
@@ -1312,14 +1140,12 @@ Constitutional Articles can be added in two places.  On a {CapitolItem}, you can
 Defining the rules of the government is very important for keeping it a stable, society-supporting structure.  Governments can be granted a great deal of power over the world with laws, and there's a danger of this power being abused.  By setting a system of checks and balances, citizens can design a government that can undergo a number of changes, including changes of leadership, while maintaining the power to effect positive changes in the world.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="178">
         <source xml:space="preserve">A set of rules about how the government works.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="179">
+      <trans-unit id="179" xml:space="preserve">
         <source xml:space="preserve">A constitution is a founding document defining how a society will be governed.  A constitution must be created before any other government object. They are created at a {Capitol|CapitolItem}.
  
 Ratifying a Constitution
@@ -1328,9 +1154,8 @@ Once a capitol is placed, a constitution can be proposed by opening it and click
 Overthrowing Governments
 If there is already a constitution active, a new constitution can be proposed to take its place if the housing value of the new capitol room exceeds that of the existing capitol by a significant amount, depending on the server settings.
  
-Note: A forthcoming update of Eco will allow multiple concurrent governments.
-</source>
-        <target xml:space="preserve">A constitution is a founding document defining how a society will be governed.  A constitution must be created before any other government object. They are created at a [Capitol|CapitolItem].
+Note: A forthcoming update of Eco will allow multiple concurrent governments.</source>
+        <target xml:space="preserve" state="translated">A constitution is a founding document defining how a society will be governed.  A constitution must be created before any other government object. They are created at a [Capitol|CapitolItem].
  
 Overthrowing Governments
 Once a capitol is placed, a constitution can be ratified by opening it and clicking Ratify. As long as there are no other constitutions, the government will be immediately created.
@@ -1343,7 +1168,6 @@ Note: A forthcoming update of Eco will allow multiple concurrent governments.
       <trans-unit id="180">
         <source xml:space="preserve">The founding document for a government.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="181">
         <source xml:space="preserve">
@@ -1356,12 +1180,10 @@ Demographics are defined at a {Census Bureau|CensusBureauItem}.
 Demographics can also have wages set on them. Wages are paid periodically as long as a citizen remains within the demographic.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="182">
-        <source xml:space="preserve">Defines a set of citizens matching some criteria.
-</source>
-        <target xml:space="preserve">Defines a set of citizens matchings some criteria.
+      <trans-unit id="182" xml:space="preserve">
+        <source xml:space="preserve">Defines a set of citizens matching some criteria.</source>
+        <target xml:space="preserve" state="translated">Defines a set of citizens matchings some criteria.
 </target>
       </trans-unit>
       <trans-unit id="183">
@@ -1372,12 +1194,10 @@ A district is a selected area of land, non-contiguous, which players can adjust 
 Districts can be used to designate where actions are allowed with laws. A law can be created, for example, players can create a law that prevents chopping trees in a 'Protected Zone' district.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="184">
         <source xml:space="preserve">A defined section of land, which can be referenced by laws and other systems.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="185">
         <source xml:space="preserve">Elected Titles are government officials that can be assigned permissions to manage government policy. These titles can be used anywhere you can specify a citizen (permissions, laws, etc.). 
@@ -1399,12 +1219,10 @@ While creating an elected title, the following permissions can be assigned:
 Elected titles can be assigned wages that are paid periodically to the citizens that hold the title.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="186">
         <source xml:space="preserve">Elected Titles are government officials that can be assigned permissions to manage government policy.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="187">
         <source xml:space="preserve">Citizens can define new types of elections at a {BoardOfElectionsItem}, and each election process created there can be used for various changes to government and leadership.
@@ -1414,14 +1232,12 @@ Elected titles can be assigned wages that are paid periodically to the citizens 
 Each Election Process can define a different set of voters, vetoers, timings, percentage needed to win, etc.  Using different types of elections, citizens can design their government to have different seats of power. For example, they can define a powerful Title that must be elected by the general population but can be impeached by them as well. 
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="188">
         <source xml:space="preserve">Defines how an election takes place.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="189">
+      <trans-unit id="189" xml:space="preserve">
         <source xml:space="preserve">Elections can take two forms:
     - Elections of Officials. These are elections of {Elected Titles} which give specific powers to a citizen.
     - Referendums.  A yes-or-no vote that will determine if a specific civic action should be taken.
@@ -1431,9 +1247,8 @@ Elections of Officials are started at a {BallotBoxItem}, where citizens can also
 Referendums are started at the various government buildings, each corresponding to a different government action. These include things like creating a new {Law|Laws} or performing an {Executive Action|Executive Actions}. When proposing an election of this type, multiple provisions can be added to one election package that will be part of the same yes-or-no vote. 
 
 Elections can have a number of settings determined by their {Election Process|Election Processes}. This will state who can vote, who can veto, how long the election lasts, what percent is needed to win, etc.  Multiple types of elections can be created for different purposes. For example, a representative government could be created with some elections only allowing elected officials to vote, while most citizens vote only in elections for representatives.
-  
-</source>
-        <target xml:space="preserve">Elections can take two forms:
+  </source>
+        <target xml:space="preserve" state="translated">Elections can take two forms:
   
     - Elections of Officials . These are elections of [Elected Titles] which give specific powers to a citizen.
     - Referendums.  A yes-or-no vote that will determine if a specific civic action should be taken.
@@ -1447,7 +1262,6 @@ Elections can have a number of settings determined by their [Election Process|El
       <trans-unit id="190">
         <source xml:space="preserve">A poll set to a group of citizens to determine a position or referendum.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="191">
         <source xml:space="preserve">Executive Actions are one-time actions that can affect a specific group of citizens or all citizens at once.
@@ -1459,52 +1273,44 @@ Elections can have a number of settings determined by their [Election Process|El
 Depending on what {Civic Articles} are available, these actions may or may not require an election. Some civic articles state that only {Elected Titles} may perform Executive Actions.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="192">
         <source xml:space="preserve">An action performed by a government official having effects on taxes, property, etc.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="193">
         <source xml:space="preserve">The punishment which the wise suffer who refuse to take part in the government, is to live under the government of worse men.\n- Plato
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="194">
         <source xml:space="preserve">Between the ecosystem and the economy lies the government, run by citizens to ensure the survival and thriving of both.
   
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="195">
         <source xml:space="preserve">
     The government is created by citizens, piece by piece, growing their power and capability alongside the power of the populace.  The parts of the government are:
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="196">
         <source xml:space="preserve">{Constitution}
 Before any other aspect of government can be created, a Constitution must be created at a {CapitolItem}. It determines how the government operates via civic articles.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="197">
         <source xml:space="preserve">{Civic Articles}
 A constitution contains civic articles which define how the government functions: who can do what, and how.  They can be created at a {CapitolItem} on a new constitution or added to an existing constitution at an {AmendmentsItem} table.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="198">
+      <trans-unit id="198" xml:space="preserve">
         <source xml:space="preserve">{Laws}
 Laws determine rules and processes that all citizens are compelled to follow.  A {SmallCourtItem} can hold up to 2 laws and a {LargeCourtItem} up to 5. 
-
 </source>
-        <target xml:space="preserve">[Laws]
+        <target xml:space="preserve" state="translated">[Laws]
 Laws determine rules and processes that all citizens are compelled to follow.  A [CourtItem] can hold up to 3 laws. 
 
 </target>
@@ -1514,50 +1320,43 @@ Laws determine rules and processes that all citizens are compelled to follow.  A
 Elections will start automatically when making changes that require them, as determined by the constitution. They can have many effects (changing laws, electing leaders, performing executive actions).
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="200">
         <source xml:space="preserve">{Election Processes}
 An election process determines how elections work: who can vote and veto, how long they last, what majorities are required, etc. A {BoardOfElectionsItem} can hold up to three election processes.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="201">
         <source xml:space="preserve">{Elected Titles}
 An Elected Title is a government position that can be given special privileges. A {GovernmentOfficeItem} can hold one elected title.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="202">
         <source xml:space="preserve">{Demographics}
 A demographic defines a group of people according to specific rules. This group can then be used in other aspects of the government.  A {CensusBureauItem} can hold up to three demographics.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="203">
         <source xml:space="preserve">{Districts}
 Defines an area of land which can be referenced in laws and other places.  A {ZoningOfficeItem} can hold up to three district maps.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="204">
         <source xml:space="preserve">{Executive Actions}
 An executive action is a one-time operation that can be performed to enact changes to society. They are performed at an {ExecutiveOfficeItem} by users given privileges from the constitution (typically elected titles).
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="205">
+      <trans-unit id="205" xml:space="preserve">
         <source xml:space="preserve">
   {Ballot Boxes|Elections}
   A ballot box allows operations to be performed related to elections and holding office.
-
 </source>
-        <target xml:space="preserve">
+        <target xml:space="preserve" state="translated">
   [Ballot Boxes|Civic Action Component]
   A ballot box allows operations to be performed related to elections and holding office.
 
@@ -1569,12 +1368,10 @@ An executive action is a one-time operation that can be performed to enact chang
   Determines taxes on various parts of the economy.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="207">
         <source xml:space="preserve">An institution designed and run by the people to promote the common good.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="209">
         <source xml:space="preserve">Laws are the means by which the government makes changes in the world, to achieve the goals of the populace.
@@ -1584,12 +1381,10 @@ Laws are created by placing a {SmallCourtItem} or a {LargeCourtItem}, and depend
 Many ‘Cause’ choices will provide context about the citizen who triggered it, where it was triggered, etc. These ‘context’ properties can be seen in the Cause tooltip, and are available for specifying data in the ‘Effects’.  For example, an effect may tax the specific player who chopped down a tree.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="210">
         <source xml:space="preserve">Cause-and-Effect rules designed by citizens and enforced automatically in order to achieve societal goals.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="211">
         <source xml:space="preserve">For the good of the people, or at least the enrichment of the government, taxes can be levied on many actions in Eco.
@@ -1610,12 +1405,10 @@ Taxes can also be set through {Laws}, which can have their amounts and destinati
 For example, a 'Minister of Transportation' Elected Title position could be created, having sole access to a Transportation Fund {Bank Account|Bank Accounts}.  A law could then be created to tax the production and trade of fuel, with proceeds going into the Transportation Fund, where the currently elected Minister of Transportation can use them to fund new roadbuilding {Work Parties}.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="212">
         <source xml:space="preserve">Tax can be taken from the economy to fund publics works project as well as incentivize or disincentivize economic activity.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="213">
         <source xml:space="preserve">Titles are used for designating a group of users, then referencing that group in other things like permissions.  They are different from {Demographics} in that Titles are specified directly by citizens, while the citizens within a demographic are automatically defined based on a citizen-defined condition.
@@ -1632,12 +1425,10 @@ By setting requirements on the Elected Title, you can ensure the continued good 
 Titles can also have wages set on them. Wages are paid periodically as long as a citizen continues to occupy the title (and the payer has funds).
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="214">
         <source xml:space="preserve">Positions which can hold one or more citizens.  Used for designating permissions and paying wages.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="215">
         <source xml:space="preserve">A citizen cannot thrive without proper shelter, and together with your {Nutrition} your Housing value will determine your {Experience} multiplier.  The better your house’s materials and furnishing are, the higher your experience multiplier.  
@@ -1650,12 +1441,10 @@ Additionally, many objects require houses and utilities to operate. The housing 
  - {Sewage}. Certain items require a sewage system of pipes, pumps, and wastewater treatment.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="216">
         <source xml:space="preserve">Your housing (along with your diet) determines your skill gain.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="217">
         <source xml:space="preserve">Many objects require power to function, and as your society progresses the types of power will progress as well.
@@ -1665,61 +1454,51 @@ Early on, most power will come from calories expended by citizens.  Local-power 
 Many types of power generation exist, and each has different fuel needs as well as environmental impact.  The building, fueling, and operation of power plants can become a major {Pollution} source as technology advances, and citizens will need to carefully regulate the types of power used and how pollution is handled to prevent an ecological catastrophe.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="218">
         <source xml:space="preserve">Many objects require power to function, which can be generated in a variety of ways.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="219">
         <source xml:space="preserve">
     By claiming Property, citizens can protect access to plots of land, determining who is allowed to access the land and what they are allowed to do on objects contained on it.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="220">
         <source xml:space="preserve">Land Property Rights
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="221">
+      <trans-unit id="221" xml:space="preserve">
         <source xml:space="preserve">
-  Land can be claimed as property by using a {Land Claim Stake|ClaimToolItem} and targeting an unclaimed plot of land.  When targeted, a {Settlement Claim Stake|SettlementProperty} will be planted, and the citizen will become the owner on the deed. The property at your current position can be seen in the world panel in the bottom right of the screen, and clicking the title will open the deed.
-</source>
-        <target xml:space="preserve">
+  Land can be claimed as property by using a {Land Claim Stake|ClaimToolItem} and targeting an unclaimed plot of land.  When targeted, a {Settlement Claim Stake|SettlementProperty} will be planted, and the citizen will become the owner on the deed. The property at your current position can be seen in the world panel in the bottom right of the screen, and clicking the title will open the deed.</source>
+        <target xml:space="preserve" state="translated">
   Land can be claimed as property by using a [Land Claim Stake|Property Tool Item] and targeting an unclaimed plot of land.  When targeted, a [Land Claim Paper|Property Claim Item] will be consumed, and the citizen will become the owner on the deed. The property at your current position can be seen in the world panel in the bottom right of the screen, and clicking the title will open the deed.
 </target>
       </trans-unit>
       <trans-unit id="222">
         <source xml:space="preserve">Object Property Rights
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="223">
         <source xml:space="preserve">Objects can have their access rights set separately from the land they are on, to allow consumer access to objects that are on private land.  These settings are determined in an {Authorization Component}.  
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="224">
-        <source xml:space="preserve">Deeds
-</source>
-        <target xml:space="preserve">Belgeler
+      <trans-unit id="224" xml:space="preserve">
+        <source xml:space="preserve">Deeds</source>
+        <target xml:space="preserve" state="translated">Belgeler
 </target>
       </trans-unit>
       <trans-unit id="225">
         <source xml:space="preserve">On the deed, citizens can add and remove parties that may access the land (place or remove blocks).  The owner can also be changed by clicking the gear beside the owner name.  Note that both {Demographics} and {Titles} can both be given ownership on a deed, including {Elected Titles}. Structuring a government this way can allow only elected officials to have certain access rights to land.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="226">
         <source xml:space="preserve">Citizens and governments may own property and determine the access rights of them.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="227">
+      <trans-unit id="227" xml:space="preserve">
         <source xml:space="preserve">Rooms are enclosed areas protected from the elements where all holes to the outside world are filled with walls, doors and windows.
 
 You can see the details about a room in a panel on the right side of the screen while you’re inside one stating its information. Many types of objects have Room Requirements and will take up space in their room, and require the materials of the room to be a specific quality.  Your housing value is also affected by the quality of the room materials.  This means a brick house for example will provide much more benefit than a dirt hovel.
@@ -1737,9 +1516,8 @@ Some room types have their value capped relative to the primary rooms of the hou
 
 Room Material Quality
 The average tier of the room material will also determine your housing value, by setting a soft cap.  Once your room value has exceeded the soft cap for the room, then you will get diminishing returns for additional housing points.  When this happens, it may be time to renovate the materials of the room.
-
 </source>
-        <target xml:space="preserve">Rooms are enclosed areas protected from the elements where all holes to the outside world are filled with walls, doors and windows.
+        <target xml:space="preserve" state="translated">Rooms are enclosed areas protected from the elements where all holes to the outside world are filled with walls, doors and windows.
 
 You can see the details about a room in a panel on the right side of the screen while you’re inside one stating its information. Many types of objects have Room Requirements and will take up space in their room, and require the materials of the room to be a specific quality.  Your housing value is also affected by the quality of the room materials.  This means a brick a house for example will provide much more benefit than a dirt hovel.
 
@@ -1757,7 +1535,6 @@ The average tier of the room material will also determine your housing value, by
       <trans-unit id="228">
         <source xml:space="preserve">Rooms protect you and your equipment from the elements, providing skill points and allowing equipment to function.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="229">
         <source xml:space="preserve">
@@ -1768,18 +1545,15 @@ Sewage systems are created by connecting a {MechanicalWaterPumpItem} or {Electri
 Pipes will automatically connect to any adjacent pipe block of the same type.  To make sewage systems with different pipes in close proximity, use different materials of pipes.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="230">
-        <source xml:space="preserve">Certain objects require sewage systems to supply water and remove wastewater.
-</source>
-        <target xml:space="preserve">Certain items require sewage to supply water and remove wastewater.
+      <trans-unit id="230" xml:space="preserve">
+        <source xml:space="preserve">Certain objects require sewage systems to supply water and remove wastewater.</source>
+        <target xml:space="preserve" state="translated">Certain items require sewage to supply water and remove wastewater.
 </target>
       </trans-unit>
       <trans-unit id="231">
         <source xml:space="preserve">Components related to industry.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="232">
         <source xml:space="preserve">As you gain experience in Eco you will be able to unlock new specialties and new abilities within those specialties. There are two types of experience you will gain, Character Experience and Specialty Experience.  Both are increased by your Experience Multiplier.
@@ -1796,12 +1570,10 @@ Your Experience Multiplier (or XP Multiplier) is a personal value representing y
 
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="233">
         <source xml:space="preserve">There are two kinds of experience in Eco: Character Experience (gained by food and housing) and Specialty Experience (gained by performing actions in a specialty).
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="234">
         <source xml:space="preserve">
@@ -1820,12 +1592,10 @@ Calories, unlike nutrients, are spent when you perform work, and when you run ou
 All food provides both calories and nutrients, so while gaining calories from food you’re also determining your skill multiplier, so watch that diet.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="235">
         <source xml:space="preserve">Nutrition, alongside housing, determines how fast you gain experience.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="236">
         <source xml:space="preserve">Central to a thriving economy is the ability to specialize and trade, thereby working more efficiently than if you attempted to do everything yourself.  Achieving a successful society depends on successfully accomplishing both.  
@@ -1833,12 +1603,10 @@ All food provides both calories and nutrients, so while gaining calories from fo
 A citizen's skills give them unique abilities and enhancements, which allows them to {Trade} with other citizens having different skills in the economy. As you gain {Experience}, you can unlock new {Specialties} and level-up existing ones.  The experience you gain is multiplied by your {Nutrition} and {Housing|Housing Overview}.    
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="237">
         <source xml:space="preserve">The skill system allows citizens to specialize in specific trades.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="238">
         <source xml:space="preserve">
@@ -1856,17 +1624,14 @@ You can see the spread of specialties that other citizens have chosen on the ski
 
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="239">
         <source xml:space="preserve">Specialties can be gained by collecting Character Experience, and each specialty will unlock new unique abilities.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="240">
         <source xml:space="preserve">Food, along with housing, is essential for increasing your skills.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="241">
         <source xml:space="preserve">Carpenters are specialist at working with wood.
@@ -1877,12 +1642,10 @@ You can see the spread of specialties that other citizens have chosen on the ski
   - {PaperMillingSkill} allows citizens to refine wood pulp into {PaperItem}. Paper is used for some specialty furniture.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="242">
         <source xml:space="preserve">Carpenters are specialist at working with wood.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="243">
         <source xml:space="preserve">Chefs cook high quality food that enables citizens to gain experience faster. Using the raw food produced by farmers and hunters, chefs create food that is high in nutrients. As technology advances, the chef specialties cook progressively higher quality food.
@@ -1894,12 +1657,10 @@ You can see the spread of specialties that other citizens have chosen on the ski
   - {AdvancedBakingSkill} is an alternative to Advanced Cooking that uses {YeastItem} to produce high quality baked goods with {LeavenedDoughItem}.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="244">
         <source xml:space="preserve">Chefs cook high quality food that enables citizens to gain experience faster.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="245">
         <source xml:space="preserve">Engineers use the materials created by other professions to lead the way in technological advancement. The vehicles they produce greatly improve the capacity for trade and the speed at which citizens work. The crafting tables they produce are used by a variety of professions to create high-end goods. Being an engineer requires frequent interaction with other professions as engineers are unable to produce the primary inputs necessary for crafting.
@@ -1911,12 +1672,10 @@ You can see the spread of specialties that other citizens have chosen on the ski
 -{ElectronicsSkill} is a high-end engineer specialty that uses expensive ingredients to produce the most advanced materials needed for modern crafting projects. In addition to this and providing a source of green electricity, electronics is used to craft the {LaserItem} needed to save the world from the meteor.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="246">
         <source xml:space="preserve">Engineers are master inventors who produce vehicles and other advanced products for other citizens.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="247">
         <source xml:space="preserve">
@@ -1928,12 +1687,10 @@ You can see the spread of specialties that other citizens have chosen on the ski
   - {MillingSkill} allows citizens to process produce in a {MillItem} for use by chefs in more advanced recipes.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="248">
         <source xml:space="preserve">Farmers are specialists in agriculture.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="249">
         <source xml:space="preserve">
@@ -1943,12 +1700,10 @@ You can see the spread of specialties that other citizens have chosen on the ski
   - {HuntingSkill} grants citizens bonus damage when hunting animals and allows them to approach animals at a closer distance without causing them to run.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="250">
         <source xml:space="preserve">Hunters are specialists at hunting animals and preparing meat for chefs.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="251">
         <source xml:space="preserve">Masons are specialists at mining and working with stone. They provide a valuable source of building material and furniture for homes. The ore they collect is used by Smiths to smelt metal bars.
@@ -1960,12 +1715,10 @@ You can see the spread of specialties that other citizens have chosen on the ski
   -{AdvancedMasonrySkill} is a high-level mason skill that produces the finest quality Ashlar Stone building material and furniture.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="252">
         <source xml:space="preserve">Masons are specialist at mining and working with stone.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="253">
         <source xml:space="preserve">Professions are groups of similar {Specialties} that unlock new crafting recipes and provide abilities like reduced calorie usage when crafting or using a tool. Within each profession is a group of similar specialties.
@@ -1973,12 +1726,10 @@ You can see the spread of specialties that other citizens have chosen on the ski
 Below is a list of all professions and the corresponding specialties. Citizens can choose to focus on one profession or learn specialties from a variety of professions.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="254">
-        <source xml:space="preserve">Professions grant citizens special abilities and allow them to craft advanced items.
-</source>
-        <target xml:space="preserve">Professions grant citizens special ability and the ability to craft advanced items.
+      <trans-unit id="254" xml:space="preserve">
+        <source xml:space="preserve">Professions grant citizens special abilities and allow them to craft advanced items.</source>
+        <target xml:space="preserve" state="translated">Professions grant citizens special ability and the ability to craft advanced items.
 </target>
       </trans-unit>
       <trans-unit id="255">
@@ -1988,12 +1739,10 @@ Below is a list of all professions and the corresponding specialties. Citizens c
 - {AdvancedSmeltingSkill} allows citizens to further refine iron bars into {Steel|SteelBarItem} for use in industry and high-tier building materials. Citizens with this specialty can use the steel they create to even more modern tools than the iron tools created by basic smelting.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="256">
         <source xml:space="preserve">Smiths smelt ore into metal bars and create advanced tools.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="257">
         <source xml:space="preserve">All citizens are survialists in the world of Eco. 
@@ -2001,12 +1750,10 @@ Below is a list of all professions and the corresponding specialties. Citizens c
 Experience in {SelfImprovementSkill} is gained anytime a citizen levels up another specialty. Self-improvement has two main benefits. As citizens progress, they will have increased carry weight capacity and a larger stomach capcity for extra calories. In addition, less calories are consumed when using hammers, shovels, and drills.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="258">
         <source xml:space="preserve">Survialists expend less calories when using basic tools and have increased carrying weight.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="259">
         <source xml:space="preserve">Tailors work with cloth to make clothing and high-end furniture for other citizens. Unlike other professions, the Tailor profession has only one specialty.
@@ -2014,19 +1761,16 @@ Experience in {SelfImprovementSkill} is gained anytime a citizen levels up anoth
 {TailoringSkill} allows citizens to create {ClothItem} for use in crafting projects by a variety of professions. The clothing tailors creates provides citizens with special bonuses. For example, a {BigBackpackItem} has a higher maximum weight limit than the starter {BasicBackpackItem}.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="260">
         <source xml:space="preserve">Tailors work with cloth to make clothing and high-end furniture for other citizens.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="261">
         <source xml:space="preserve">Any object containing a Vehicle Component can be mounted and interacted with in a variety of ways, providing a number of benefits.
   
 Many vehicles require {Power|Power Component} to operate and each have their own {Storage|Storage Component}. Building infrastructure around the world will greatly enhance your {Transport} capabilites as many vehicles require roads to operate.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="262">
         <source xml:space="preserve">  
@@ -2037,12 +1781,10 @@ Many vehicles require {Power|Power Component} to operate and each have their own
 - Contruction: The {CraneItem} can quickly perform large-scale {Building} projects. The crane has a much larger building range than a citizen who is building with a hammer and can access large amounts of storage.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="264">
         <source xml:space="preserve">Vehicles can be used for performing a variety of tasks.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="265">
         <source xml:space="preserve">
@@ -2053,12 +1795,10 @@ Different plants require different tools to harvest, such as a shovel, or a scyt
 
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="266">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="267">
         <source xml:space="preserve">
@@ -2071,24 +1811,20 @@ Hunting an animal is only the first step in making the most use out of it. Butch
 To get started with hunting, you'll need to craft a {WoodenBowItem} and some {Arrows|Arrow Item}. More advanced bows will make it easier to hit your target quickly. Keep in mind that animals can be killed more quickly with a well-aimed shot, and that it may be easier to hunt some animals based on the time of day. 
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="268">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="269">
         <source xml:space="preserve">Ecopedia guide for getting started.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="270">
         <source xml:space="preserve">
     Once you've covered your basic needs, it's time to think about how you want to contribute to the joint project of society, and your profession is how you do that.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="271">
         <source xml:space="preserve">
@@ -2096,25 +1832,21 @@ To get started with hunting, you'll need to craft a {WoodenBowItem} and some {Ar
 Each profession has a number of {Specialties} beneath it which will unlock special abilities. Because citizens can only have a limited number of specialties, a good approach is to take different specialties and then {Trade} between each other.  In the skills window, you can see how many citizens have chosen each profession and look for the most-needed skills, choosing those to focus on.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="272">
         <source xml:space="preserve">
     Check out the {Profession Overview} for a tour of the different options.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="273">
         <source xml:space="preserve">(Note: the skills dialog is hidden until later in the tutorial.  It can be made visible by completing the tutorial or skipping it.)
  
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="274">
         <source xml:space="preserve">A world with a range of professions can trade for mutual benefits.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="275">
         <source xml:space="preserve">
@@ -2131,19 +1863,16 @@ Each profession has a number of {Specialties} beneath it which will unlock speci
     - Debating laws with the use of {Data}, presenting arguments to your fellow citizens arguing for one choice over another.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="276">
         <source xml:space="preserve">
     Each of these options are available at a variety of locations which must be constructed by citizens. The current government can be viewed by selecting the Government icon in the action bar and hovering over each section will specify where the civic object is defined.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="277">
         <source xml:space="preserve">Your civic duties are the many different ways you can interact with the government.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="278">
         <source xml:space="preserve">To bring a society through the ages to the peaks of technology, a thriving {Economy|Economy Overview} is needed, and by participating in it, citizens can both help progress society as well advance their own abilities and wealth.
@@ -2154,28 +1883,23 @@ As you take on new projects that require materials or labor that you lack the ab
 As you build up your capabilities and have more needs of other citizens, you can create your own stores, contracts, and work parties to seek their aid.  As you acquire wealth, your power to effect change (both good and bad) rises.
  
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="279">
         <source xml:space="preserve">The most efficient way to progress in knowledge and technology is trade within the economy.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="280">
         <source xml:space="preserve">While a functioning society is necessary to stop the meteor, each individual must have their own needs met, starting with food and shelter.
  
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="281">
         <source xml:space="preserve">Choosing a Settlement
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="282">
         <source xml:space="preserve">When choosing a location to settle in, you'll want to consider the following factors:
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="283">
         <source xml:space="preserve">Proximity to Resources
@@ -2185,33 +1909,27 @@ Proximity to Others
 Setting up near other settlements offers a distinct advantage, as you can then trade with others to gain progress faster.  However, an overcrowded area may also have limited options for expansion and natural food in the vicinity. You'll want to find a balance based on personal preference.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="284">
         <source xml:space="preserve">Claiming Your Plot
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="285">
         <source xml:space="preserve"> Once you've selected a place to build your first settlement, you'll want to claim {Property} around it.  When placing your starting tent this will automatically occur, and further property can be claimed with land papers.  Property you claim will be protected from other citizens, unless you give them access.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="286">
-        <source xml:space="preserve">Food
-</source>
-        <target xml:space="preserve">Yiyecek
+      <trans-unit id="286" xml:space="preserve">
+        <source xml:space="preserve">Food</source>
+        <target xml:space="preserve" state="translated">Yiyecek
 </target>
       </trans-unit>
       <trans-unit id="287">
         <source xml:space="preserve">Finding a food supply is critical to having the calories you need to work.  Additionally, the {Nutrition} of the food you eat impacts how fast you gain experience, so you'll want to eat the best food available for the fastest gains.  When settling in the wilderness, look for food sources nearby you can take from, or plan to setup a {Farm|Farming}.  When settling near an existing village, have a look at the local economy to see what you can {Trade} in order to get food.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="288">
         <source xml:space="preserve">Setting up a source of food and shelter is a first priority. 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="289">
         <source xml:space="preserve">The {Ecosystem|Ecosystem Overview} is the provider of a vast number of resources citizens can make use of, but it is also vulnerable to their impact.  Succeeding as a society will require intelligent management of impact, using the {Government|Government Overview} to regulate what is allowed. 
@@ -2221,12 +1939,10 @@ Various forms of {Pollution} can affect the environment, creating the potential 
 The world begins as a vast untouched wilderness, and through the ages citizens will need to radically transform it using technology to build the industry and knowledge required to stop {The Meteor}.  Citizens will need to execute a careful navigation between using the resources of the ecosystem maximally and avoid damaging the environment beyond repair.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="290">
         <source xml:space="preserve">The ecosystem provides many resources, but is vulnerable to human actions.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="291">
         <source xml:space="preserve">
@@ -2240,12 +1956,10 @@ To aid in creating a positive relationship between this triangle of Individuals,
 
  But first matters first, you'll need to take care of your basic needs before you can save the world.  To do that, you'll start with {Food and Shelter}.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="292">
         <source xml:space="preserve">Your journey in Eco.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="293">
         <source xml:space="preserve">The world has been given an expiration date, a meteor in a collapsing orbit around the globe, set to collide in 30 real-time days, destroying everything on it in the process.  
@@ -2257,17 +1971,14 @@ It will not be an easy task, and the industry required to reach such levels of a
 The fate of the world depends on its citizens acting together in harmony with the ecosystem to achieve great technological feats, and only through studied collaboration can they succeed.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="294">
         <source xml:space="preserve">A looming threat from above.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="295">
         <source xml:space="preserve">Through the use of tools, citizens can build great structures and move mountains.  The starting tools will allow you to effect small change only, but as technology advances you will gain tools that can perform batch operations, and eventually {Vehicle|Vehicle Component} that can make massive transformations to the world. 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="296">
         <source xml:space="preserve">There are a number of different tool types available:
@@ -2281,36 +1992,30 @@ Tools that are manually powered require Calories, affecting your {Nutrition}.
 All tools have Durability associated with them, which drops as they are used.  Once a tool has lost its durability, it will take a tremendous amount of calories to use, and should be repaired at a {Repair|Repair Component} Table.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="297">
         <source xml:space="preserve">Having access to the best tools allow you to achieve the most progress.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="298">
         <source xml:space="preserve">After collecting some basic raw materials, building is one of the first things a citizen will do to establish themselves in the world.
   
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="299">
         <source xml:space="preserve">Using a hammer or a crane, citizens can create buildings for homes and industry.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="300">
         <source xml:space="preserve">
 The My Deeds Component allows citizens to view and manage all {Property} that they own, providing an interface to access them easily.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="301">
         <source xml:space="preserve">Allows citizens to see view and manage all property they own.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="302">
         <source xml:space="preserve">
@@ -2321,12 +2026,10 @@ Text can be useful for giving directions, advertising, or just writing a friendl
 For those familar with text markup, a variety of tags may be used to alter the size, color, and formatting of text.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="303">
         <source xml:space="preserve">Allows citizens write text that is displayed to other citizens.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="304">
         <source xml:space="preserve">
@@ -2335,17 +2038,14 @@ A foundational goal of the ecosystem simulation in Eco is to contain a multitude
 Animal's prey and predators can be viewed through the web interface and checking the linked layers. Currently the prey-predator relationship is one way: the predators require the prey to exist, but they don't actually remove any from the simulation. This means that an explosion of elk would increase the wolf population, but this wouldn't put pressure onto the elk. Changing this relationship to consume both ways while ensuring it doesn't spiral out of control in an unexpected and sudden way is important as we move forward.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="305">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="306">
         <source xml:space="preserve">Follow the development of Eco.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="307">
         <source xml:space="preserve">
@@ -2354,33 +2054,27 @@ Animal's prey and predators can be viewed through the web interface and checking
     Via our website, you can view all the interactive parts of the tree and see where we're headed and the guiding philosophy behind the game.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="308">
-        <source xml:space="preserve">View Eco Tree at play.eco
-</source>
-        <target xml:space="preserve">View Eco Tree at
+      <trans-unit id="308" xml:space="preserve">
+        <source xml:space="preserve">View Eco Tree at play.eco</source>
+        <target xml:space="preserve" state="translated">View Eco Tree at
 </target>
       </trans-unit>
       <trans-unit id="309">
         <source xml:space="preserve">Follow the development of Eco.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="310">
         <source xml:space="preserve">Setting up a Store
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="311">
         <source xml:space="preserve">Repairing Tools
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="312">
         <source xml:space="preserve">Buildings in Eco
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="313">
         <source xml:space="preserve">
@@ -2395,12 +2089,10 @@ Some of these uses include:
 - Housing the various {Civic Objects|Civic Object Component} neccesary to establish a government
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="314">
         <source xml:space="preserve">Creating Buildings
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="315">
         <source xml:space="preserve">When carrying a building material, the hammer is able to switch between different block shapes and building patterns.
@@ -2410,17 +2102,14 @@ Citizens build their first homes using a {StoneHammerItem}, but as technology pr
 Large-scale construction projects can be quickly completed with the use of a {CraneItem}, but at the cost of creating {Pollution}.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="316">
         <source xml:space="preserve">Types of Vehicles
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="317">
         <source xml:space="preserve">Types of Civic Objects
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="318">
         <source xml:space="preserve">
@@ -2434,12 +2123,10 @@ Once a {Constitution} is passed, new government policies are contained as Civic 
 - {Election Processes} are set at a {BoardOfElectionsItem}
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="319">
         <source xml:space="preserve">Proposing Civic Objects
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="320">
         <source xml:space="preserve">
@@ -2450,7 +2137,6 @@ By visiting the Civic Object Component on a government building that already con
 The buildings containing civic objects must remain placed and active for the civic object to stay in effect. If a government building is picked up, all civic objects contained on it come with it and they will eventually become disabled if the building is not replaced.
 	
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="321">
         <source xml:space="preserve">
@@ -2461,7 +2147,6 @@ The buildings containing civic objects must remain placed and active for the civ
 - View Only: If the citizen has no privileges as defined in the constitution, they may only view the civic objects by clicking on them and are not allowed to make changes.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="322">
         <source xml:space="preserve">
@@ -2472,17 +2157,14 @@ Citizens can quickly rename their deeds, choose a color for that property on the
 A useful feature of this component is the ability to quickly move plots of property from one deed to another. This includes the option to create a new deed to split an existing piece of property.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="323">
         <source xml:space="preserve">The Text Component allows a citizen to write text that is displayed on a world object for other citizens to read.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="324">
         <source xml:space="preserve">Pipe Requirements
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="325">
         <source xml:space="preserve">
@@ -2493,12 +2175,10 @@ Some objects require all three uses of pipes to have an active {Status|Status Co
 By holding the mouse over the display for one of the pipes, a tooltip appears with more information about why a pipe is or isn't active.
   
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="326">
-        <source xml:space="preserve">Carpenter
-</source>
-        <target xml:space="preserve">Marangoz
+      <trans-unit id="326" xml:space="preserve">
+        <source xml:space="preserve">Carpenter</source>
+        <target xml:space="preserve" state="translated">Marangoz
 </target>
       </trans-unit>
       <trans-unit id="327">
@@ -2510,12 +2190,10 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {PaperMillingSkill} allows citizens to refine wood pulp into {PaperItem}. Paper is used for some specialty furniture.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="328">
-        <source xml:space="preserve">Chef
-</source>
-        <target xml:space="preserve">Aşçı
+      <trans-unit id="328" xml:space="preserve">
+        <source xml:space="preserve">Chef</source>
+        <target xml:space="preserve" state="translated">Aşçı
 </target>
       </trans-unit>
       <trans-unit id="329">
@@ -2528,12 +2206,10 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {AdvancedBakingSkill} is an alternative to Advanced Cooking that uses {LeavenedDoughItem} to make high quality baked goods. 
  
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="330">
-        <source xml:space="preserve">Engineer
-</source>
-        <target xml:space="preserve">Mühendis
+      <trans-unit id="330" xml:space="preserve">
+        <source xml:space="preserve">Engineer</source>
+        <target xml:space="preserve" state="translated">Mühendis
 </target>
       </trans-unit>
       <trans-unit id="331">
@@ -2546,12 +2222,10 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {ElectronicsSkill} uses expensive ingredients to produce the most advanced materials needed for modern crafting projects. In addition to providing a source of green electricity, electronics is used to craft the {LaserItem} needed to save the world from the meteor.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="332">
-        <source xml:space="preserve">Farmer
-</source>
-        <target xml:space="preserve">Çiftçi
+      <trans-unit id="332" xml:space="preserve">
+        <source xml:space="preserve">Farmer</source>
+        <target xml:space="preserve" state="translated">Çiftçi
 </target>
       </trans-unit>
       <trans-unit id="333">
@@ -2563,12 +2237,10 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {MillingSkill} allows citizens to process products in a {MillItem} for use by chefs in more advanced recipes.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="334">
-        <source xml:space="preserve">Hunter
-</source>
-        <target xml:space="preserve">Avcı
+      <trans-unit id="334" xml:space="preserve">
+        <source xml:space="preserve">Hunter</source>
+        <target xml:space="preserve" state="translated">Avcı
 </target>
       </trans-unit>
       <trans-unit id="335">
@@ -2578,12 +2250,10 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {ButcherySkill} allows citizens to process animal carcasses into prepared meat for chefs. The pelts and hides they create can be used for clothing and other crafting projects.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="336">
-        <source xml:space="preserve">Mason
-</source>
-        <target xml:space="preserve">Duvarcı
+      <trans-unit id="336" xml:space="preserve">
+        <source xml:space="preserve">Mason</source>
+        <target xml:space="preserve" state="translated">Duvarcı
 </target>
       </trans-unit>
       <trans-unit id="337">
@@ -2596,12 +2266,10 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   -{AdvancedMasonrySkill} is a high-level mason skill that produces the finest quality Ashlar Stone building material and furniture.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="338">
-        <source xml:space="preserve">Smith
-</source>
-        <target xml:space="preserve">Demirci
+      <trans-unit id="338" xml:space="preserve">
+        <source xml:space="preserve">Smith</source>
+        <target xml:space="preserve" state="translated">Demirci
 </target>
       </trans-unit>
       <trans-unit id="339">
@@ -2611,12 +2279,10 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
   - {AdvancedSmeltingSkill} allows citizens to further refine iron bars into {Steel|SteelBarItem} for use in industry and high-tier building materials. Citizens with this specialty can use the steel they create to make more advanced tools.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="340">
-        <source xml:space="preserve">Tailor
-</source>
-        <target xml:space="preserve">Terzi
+      <trans-unit id="340" xml:space="preserve">
+        <source xml:space="preserve">Tailor</source>
+        <target xml:space="preserve" state="translated">Terzi
 </target>
       </trans-unit>
       <trans-unit id="341">
@@ -2625,12 +2291,10 @@ The {Tailor} specializes in making high end furniture and specialized clothing t
   - {TailoringSkill} allows citizens to create {ClothItem} to create high quality furniture and for use in crafting projects by a variety of professions. The clothing tailors create provides citizens with special bonuses. For example, a {BigBackpackItem} has a higher maximum weight limit than the starter {BasicBackpackItem}.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="342">
-        <source xml:space="preserve">Survivalist
-</source>
-        <target xml:space="preserve">Hayatta Kalan
+      <trans-unit id="342" xml:space="preserve">
+        <source xml:space="preserve">Survivalist</source>
+        <target xml:space="preserve" state="translated">Hayatta Kalan
 </target>
       </trans-unit>
       <trans-unit id="343">
@@ -2639,17 +2303,14 @@ The {Tailor} specializes in making high end furniture and specialized clothing t
    - Experience in {SelfImprovementSkill} is gained anytime a citizen levels up another specialty. Self-improvement has two main benefits. As citizens progress, they will have increased carry weight capacity and a larger stomach capacity for extra calories. In addition, less calories are consumed when using hammers and shovels.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="344">
         <source xml:space="preserve">A general overview of the current economy that contains information such as available trades, work parties, and contracts.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="345">
         <source xml:space="preserve">The Economy Viewer provides a general overview of the current economy and is an incredibly useful tool for economic participation. Among other users, the Economy Viewer shows the location of every {StoreItem} and what is currently being bought and sold.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="346">
         <source xml:space="preserve">
@@ -2664,36 +2325,30 @@ The Economy Viewer provides detailed information about the following:
 In addition, the Economy Viewer allows citizens to directly transfer currency to other citizens and quickly check the status of their own {Bank Accounts} and any outstanding debts.
    
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="347">
         <source xml:space="preserve">Accessing the Economy Viewer
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="348">
         <source xml:space="preserve">The Economy Viewer can be accessed by clicking the Economy button located at the bottom right of the screen.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="349">
         <source xml:space="preserve">Feeding the World
 Food forms the backbone of a growing society in Eco, fueling the increase in skills needed to build a civilization.  A well-organized network of food producers, from farmers to chefs, ensures that citizens gain skills at the rate they need.
 
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
       <trans-unit id="350">
         <source xml:space="preserve">The property where you have taken residency provides your housing points.
 </source>
-        <target xml:space="preserve"></target>
       </trans-unit>
-      <trans-unit id="351">
+      <trans-unit id="351" xml:space="preserve">
         <source xml:space="preserve">  
 Citizens pick a primary residence to determine which deed will provide their {Housing|Housing Overview} bonus. Each deed can have any number of residents, and those residents will share in an {Experience} boost based on the quality of the house and number of occupants.
-  
-</source>
-        <target xml:space="preserve">
+  </source>
+        <target xml:space="preserve" state="translated">
 Each deed can have any number of residents, and those residents will share in an [Experience] boost based on the quality and number of occupants.
 
 As the number of occupants increases, the occupancy penalty increases.  At small numbers of occupants (1 or 2), there is virtually no penalty, and citizens can effectively cohabitate this way and share in the benefit of a well-stocked house.  As the occupants increases beyond that (5 and above), the penalty becomes more steep, eventually topping out at 99% when the house is too overcrowded.
@@ -2705,7 +2360,7 @@ To become a resident of a property, click the name of the property (visible on t
 Note: An additional feature will be added latter permitting automatic rent collection agreements between citizens. For now this can be done with manual transfers.
 </target>
       </trans-unit>
-      <trans-unit id="352">
+      <trans-unit id="352" xml:space="preserve">
         <source xml:space="preserve">Permissions for Residents
 When a citizen becomes a resident of a property, they will gain a special set of permissions, even if they don't otherwise have access to the property, known as Resident Rights. These rights are the following:
 
@@ -2718,9 +2373,8 @@ Rent
 After inviting residents, deeds can be offered for rent to allow automatic rent collection agreements between citizens. When renting a property, the tenant gains residency on the deed and receives all associated housing bonuses and permissions. When offering a property for rent, an hourly rate is set with an optional move-in fee. The agreement can be customized to determine if offline hours will require payment. 
 
 Available properties for rent can be found in the {Economy Viewer}. Once accepted, the rent will have a locked rate until either party ends the rental agreement.
-
 </source>
-        <target xml:space="preserve">Permissions for Residents
+        <target xml:space="preserve" state="translated">Permissions for Residents
 When a citizen becomes a resident of a property, they will gain a special set of permissions, even if they don't otherwise have access to the property, known as Resident Rights. These rights are as follows:
 
   - Pre-furnished rooms supportedL Residents can access all world objects on the property as consumers.
@@ -2732,27 +2386,22 @@ When a citizen becomes a resident of a property, they will gain a special set of
       <trans-unit id="353">
         <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="354">
         <source xml:space="preserve">
     TBD
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="355">
         <source xml:space="preserve">Consolidating and Filtering</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="356">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="357">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="358">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
@@ -2763,11 +2412,9 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="359">
         <source xml:space="preserve">Injunctions</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="360">
         <source xml:space="preserve">
@@ -2775,7 +2422,6 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
     
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="361">
         <source xml:space="preserve">
@@ -2785,11 +2431,9 @@ However, the 'diminishing returns' rate of rooms is favorably affected by occupa
   
 To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="362">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="363">
         <source xml:space="preserve">
@@ -2799,11 +2443,9 @@ To become a resident of a property, click the name of the property (visible on t
 
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="364">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="365">
         <source xml:space="preserve">
@@ -2821,11 +2463,9 @@ To become a resident of a property, click the name of the property (visible on t
 
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="366">
         <source xml:space="preserve">Performing the Annex</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="367">
         <source xml:space="preserve">
@@ -2837,21 +2477,17 @@ Note that the type of settlement matters: a settlement can only annex other sett
     
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="368">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="377">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="378">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="379">
         <source xml:space="preserve">
@@ -2863,22 +2499,18 @@ Note that the type of settlement matters: a settlement can only annex other sett
       - Claimed land. Dinner party must be taking place on claimed property.
       - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
     </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="380">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="381">
         <source xml:space="preserve">
   Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
   Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="382">
         <source xml:space="preserve">Bonuses</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="383">
         <source xml:space="preserve">
@@ -2889,11 +2521,9 @@ Note that the type of settlement matters: a settlement can only annex other sett
     - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
     - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="384">
         <source xml:space="preserve">Benefits</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="385">
         <source xml:space="preserve">
@@ -2901,7 +2531,6 @@ Note that the type of settlement matters: a settlement can only annex other sett
  - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
  - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="386">
         <source xml:space="preserve">
@@ -2909,47 +2538,37 @@ Dinner parties will decay in value overtime, until reaching zero, after which th
 
 Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="387">
         <source xml:space="preserve">Dinner Party Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="406">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="407">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
     -Arnold J. Toynbee
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="408">
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="409">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="410">
         <source xml:space="preserve">Towns are collections of citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="411">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="412">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="413">
         <source xml:space="preserve">Settlement Concepts</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="414">
         <source xml:space="preserve">
@@ -2961,7 +2580,6 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="415">
         <source xml:space="preserve">
@@ -2971,29 +2589,23 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="416">
         <source xml:space="preserve">Citizenship Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="417">
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="418">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="419">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="420">
         <source xml:space="preserve">Culture from Works of Art</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="421">
         <source xml:space="preserve">
@@ -3001,21 +2613,17 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="422">
         <source xml:space="preserve">Cultural Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="423">
         <source xml:space="preserve">
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="424">
         <source xml:space="preserve">Founding Requirements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="425">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
@@ -3024,11 +2632,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="426">
         <source xml:space="preserve">Ratifying the Constitution</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="427">
         <source xml:space="preserve">
@@ -3040,11 +2646,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="428">
         <source xml:space="preserve">Settlement Foundation Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="429">
         <source xml:space="preserve">
@@ -3054,27 +2658,22 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="430">
         <source xml:space="preserve">Settlement Advertisement</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="431">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="432">
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="433">
         <source xml:space="preserve">Culture Generates Influence</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="434">
         <source xml:space="preserve">
@@ -3084,11 +2683,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="435">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="436">
         <source xml:space="preserve">
@@ -3096,17 +2693,14 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="437">
         <source xml:space="preserve">Border Control</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="438">
         <source xml:space="preserve">
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="439">
         <source xml:space="preserve">
@@ -3123,11 +2717,9 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="440">
         <source xml:space="preserve">Property Crisis Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="441">
         <source xml:space="preserve">
@@ -3137,19 +2729,15 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="442">
         <source xml:space="preserve">Homestead Support Claims</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="443">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
       <trans-unit id="444">
         <source xml:space="preserve">Settlement Property Settings</source>
-        <target xml:space="preserve" state="needs-translation"></target>
       </trans-unit>
     </body>
   </file>
