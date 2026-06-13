@@ -3409,13 +3409,13 @@ Wenn ein Bürger zum Bewohner eines Grundstückes wird, erhält er einen speziel
         <source xml:space="preserve">
     TBD
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+        <target xml:space="preserve" state="needs-translation">
     TBD
   </target>
       </trans-unit>
       <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Konsolidieren und Filtern</target>
+        <target xml:space="preserve" state="needs-translation">Konsolidieren und Filtern</target>
       </trans-unit>
       <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
@@ -3481,7 +3481,7 @@ Um Bewohner einer Immobilie zu werden, klicke auf den Namen der Immobilie (zu se
       </trans-unit>
       <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Siedlungen sind Zusammenschlüsse von Menschen oder anderen Siedlungen. Sie bilden die Struktur und Organisation der Gesellschaft.</target>
+        <target xml:space="preserve" state="translated">Siedlungen sind Zusammenschlüsse von Menschen oder anderen Siedlungen. Sie bilden die Struktur und Organisation der Gesellschaft.</target>
       </trans-unit>
       <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
@@ -3501,7 +3501,7 @@ Um Bewohner einer Immobilie zu werden, klicke auf den Namen der Immobilie (zu se
       </trans-unit>
       <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Anforderungen</target>
+        <target xml:space="preserve" state="translated">Anforderungen</target>
       </trans-unit>
       <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
