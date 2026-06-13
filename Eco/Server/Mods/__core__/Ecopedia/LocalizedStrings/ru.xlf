@@ -3394,7 +3394,7 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
       </trans-unit>
       <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Торговля между гражданами с разными способностями и разными товарами — это основа экономики.</target>
+        <target xml:space="preserve" state="translated">Торговля между жителями с разными специализациями, владеющими разными производимыми товарами является основой экономики.</target>
       </trans-unit>
       <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
