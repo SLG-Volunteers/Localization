@@ -3251,13 +3251,11 @@ The {Tailor} specializes in making high end furniture and specialized clothing t
         <target xml:space="preserve" state="translated">
 {Tailor} специализируется на изготовлении высококачественной мебели и особой одежды, которая дает бонусы при ношении. В отличие от большинства профессий, у портного есть только одна специальность.
   - {TailoringSkill} позволяет горожанам создавать {ClothItem} для создания высококачественной мебели и использования её в ремесленных проектах различных профессий. Одежда, создаваемая портными, дает гражданам особые бонусы. Например, {BigBackpackItem} позволяет переносить с собой больший вес, чем стартовый {BasicBackpackItem}.
-
 </target>
       </trans-unit>
       <trans-unit id="342" xml:space="preserve">
         <source xml:space="preserve">Survivalist</source>
-        <target xml:space="preserve" state="translated">Живучий
-</target>
+        <target xml:space="preserve" state="translated">Выживальщик</target>
       </trans-unit>
       <trans-unit id="343" xml:space="preserve">
         <source xml:space="preserve">
@@ -3267,7 +3265,6 @@ The {Tailor} specializes in making high end furniture and specialized clothing t
         <target xml:space="preserve" state="translated">
 {Survivalists|Survivalist} специализируется в переносе дополнительного веса и и сокращении калорий, расходуемых при использовании основных инструментов. В мире Eco все жители являются Выживальщиками.
    - Опыт в {SelfImprovementSkill} повышается каждый раз как житель повышает свой уровень в другой специальности. Самосовершенствование имеет два основных преимущества. По мере прокачки у жителей будет увеличиваться грузоподъемность и объем желудка для дополнительных калорий, при этом снижаются затраты калорий при использовании молотков, лопат и буров.
-
 </target>
       </trans-unit>
       <trans-unit id="344" xml:space="preserve">
@@ -3660,7 +3657,7 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
       </trans-unit>
       <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Страны — это совокупности городов и граждан.</target>
+        <target xml:space="preserve" state="translated">Страны - совокупность городов и жителей.</target>
       </trans-unit>
       <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
