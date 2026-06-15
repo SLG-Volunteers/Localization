@@ -1060,20 +1060,25 @@ Skill books are some of the most difficult items to create, and citizens will ty
         <source xml:space="preserve">Todo.</source>
         <target xml:space="preserve" state="translated">Πρέπει να γίνει.</target>
       </trans-unit>
-      <trans-unit id="134">
+      <trans-unit id="134" xml:space="preserve">
         <source xml:space="preserve">With resources spread out through the world and the locations where they are collected and processed differing from where they’re used, transport becomes a critical factor to success in Eco.
 
 To efficiently transform materials, you’ll need to create vehicles to carry them, and those require flattening the ground into roads.  Using a {StoneRoadToolItem} you can flatten ground and make it usable for vehicles, and with ramps you can make gentle slopes that vehicles can travel on.  More advanced vehicles will require more advanced roads to travel efficiently, and roads will need to be upgraded periodically as new technology comes available.
 
 Building roads between villages and resource caches will take time and the effort of many citizens, and is a great candidate for public works projects funded by {Taxes} and built using {Work Parties}.  As the world progresses in technology, more and more transportation infrastructure will be created to aid the flow of commerce, eventually growing to a point where the road construction and vehicle usage will create an impact on the environment.  Careful management of this influence will be key to preserving the ecosystems that they pass through.
-
 </source>
+        <target state="translated">Με τους πόρους να είναι διασκορπισμένοι σε όλο τον κόσμο και τις τοποθεσίες όπου συλλέγονται και υποβάλλονται σε επεξεργασία να διαφέρουν από εκεί που χρησιμοποιούνται, οι μεταφορές γίνονται ένας κρίσιμος παράγοντας για την επιτυχία στο Eco.
+
+Για να μετατρέψετε αποτελεσματικά τα υλικά, θα χρειαστεί να δημιουργήσετε οχήματα για να τα μεταφέρετε, και αυτά απαιτούν την ισοπέδωση του εδάφους σε δρόμους. Χρησιμοποιώντας ένα {StoneRoadToolItem} μπορείτε να ισοπεδώσετε το έδαφος και να το κάνετε χρησιμοποιήσιμο για οχήματα, και με ράμπες μπορείτε να δημιουργήσετε απαλές κλίσεις στις οποίες μπορούν να κινούνται τα οχήματα. Τα πιο προηγμένα οχήματα θα απαιτούν πιο προηγμένους δρόμους για να κινούνται αποτελεσματικά, και οι δρόμοι θα πρέπει να αναβαθμίζονται περιοδικά καθώς θα γίνεται διαθέσιμη η νέα τεχνολογία.
+
+Η κατασκευή δρόμων μεταξύ χωριών και αποθηκών πόρων θα απαιτήσει χρόνο και την προσπάθεια πολλών πολιτών, και είναι ένας εξαιρετικός υποψήφιος για έργα δημοσίων έργων που χρηματοδοτούνται από {Φόρους} και κατασκευάζονται χρησιμοποιώντας {Ομάδες Εργασίας}. Καθώς ο κόσμος προοδεύει στην τεχνολογία, όλο και περισσότερες υποδομές μεταφορών θα δημιουργηθούν για να βοηθήσουν τη ροή του εμπορίου, φτάνοντας τελικά σε σημείο όπου η κατασκευή δρόμων και η χρήση οχημάτων θα δημιουργήσουν αντίκτυπο στο περιβάλλον. Η προσεκτική διαχείριση αυτής της επιρροής θα είναι το κλειδί για τη διατήρηση των οικοσυστημάτων από τα οποία διέρχονται.
+</target>
       </trans-unit>
       <trans-unit id="135" xml:space="preserve">
         <source xml:space="preserve">With resources and their usage spread out across the world, transforming the world by building transportation infrastructure becomes necessary.</source>
         <target xml:space="preserve" state="translated">Με τους πόρους και τη χρήση τους να είναι διασκορπισμένοι σε όλο τον κόσμο, γίνεται απαραίτητο να μεταμορφώσουμε τον κόσμο κατασκευάζοντας υποδομές μεταφορών.</target>
       </trans-unit>
-      <trans-unit id="136">
+      <trans-unit id="136" xml:space="preserve">
         <source xml:space="preserve">A Work Party is an agreement among multiple citizens to perform work.  They are started by an individual citizen by visiting a {Contract Board|Contract Board Component} after creating a work order.
 
 The citizen issuing a Work Party can define various parameters of the work, which include:
@@ -1091,8 +1096,25 @@ Payment can take a variety of forms:
 - Granting a {Title}, which can give them new privileges for accessing property and other abilities.
 
 The economy of Eco is focused not just on trading of goods but trading of labor, and work parties make it easy to farm out many kinds of work to the general populace.
-  
-</source>
+  </source>
+        <target state="translated">Μια Ομάδα Εργασίας είναι μια συμφωνία μεταξύ πολλών πολιτών για την εκτέλεση εργασίας. Ξεκινούν από έναν μεμονωμένο πολίτη επισκεπτόμενος έναν {Πίνακα Συμβάσεων|Στοιχείο Πίνακα Συμβάσεων} μετά τη δημιουργία μιας εντολής εργασίας.
+
+Ο πολίτης που εκδίδει μια Ομάδα Εργασίας μπορεί να ορίσει διάφορες παραμέτρους της εργασίας, οι οποίες περιλαμβάνουν:
+- Τις εντολές εργασίας που πρέπει να ολοκληρωθούν.
+- Τι απαιτείται από τους πολίτες που θέλουν να συμμετάσχουν στην ομάδα εργασίας.
+- Ποια πληρωμή θα δοθεί στα άτομα που συμμετέχουν.
+- Πώς θα κατανεμηθεί αυτή η πληρωμή.
+
+Οι ομάδες εργασίας είναι ιδιαίτερα χρήσιμες για την εκτέλεση {Έρευνας}. Ένας πολίτης μπορεί να δημιουργήσει ένα ερευνητικό έργο, που κοστίζει μεγάλο αριθμό πόρων, και να επισυνάψει μια ομάδα εργασίας σε αυτό. Οι πολίτες μπορούν στη συνέχεια να συμμετάσχουν αυτόματα στην ομάδα εργασίας (ακόμα και όταν ο πολίτης που την εκδίδει είναι εκτός σύνδεσης, εάν πληροί τις καθορισμένες απαιτήσεις) και να ξεκινήσει την εκτέλεση της εργασίας.
+
+Η πληρωμή μπορεί να λάβει διάφορες μορφές:
+- {Νόμισμα}, που κατανέμεται με βάση την ποσότητα εργασίας που εκτελείται, είτε αμέσως είτε μετά την ολοκλήρωση.
+- {Φήμη}, που δίνεται από τον δημιουργό της ομάδας εργασίας στον εργάτη (υπόκειται στα ημερήσια όρια φήμης που μπορεί να δοθούν).
+- Γνώση μιας συγκεκριμένης ειδικότητας (το ίδιο αποτέλεσμα με την ανάγνωση ενός πάπυρου δεξιοτήτων). Για αυτό το όφελος, ο δημιουργός της ομάδας εργασίας πρέπει να κατέχει το βιβλίο δεξιοτήτων για την ειδικότητα ή πρέπει να έχει δημιουργηθεί σε μία από τις εντολές εργασίας της ομάδας.
+- Χορήγηση ενός {Τίτλου}, ο οποίος μπορεί να του δώσει νέα προνόμια για πρόσβαση σε περιουσία και άλλες ικανότητες.
+
+Η οικονομία του Eco επικεντρώνεται όχι μόνο στην ανταλλαγή αγαθών αλλά και στην ανταλλαγή εργασίας, και οι ομάδες εργασίας διευκολύνουν την ανάθεση πολλών ειδών εργασίας στον γενικό πληθυσμό.
+  </target>
       </trans-unit>
       <trans-unit id="137" xml:space="preserve">
         <source xml:space="preserve">Work Parties are joint agreements by a number of players to perform a given task, with compensation being distributed in various ways.</source>
@@ -1185,25 +1207,33 @@ Graphs are most useful for comparing the states of various metrics and viewing t
         <source xml:space="preserve">Heatmaps</source>
         <target xml:space="preserve" state="translated">Χάρτες θερμότητας</target>
       </trans-unit>
-      <trans-unit id="146">
+      <trans-unit id="146" xml:space="preserve">
         <source xml:space="preserve">
 Eco worlds are varied places, with many different biomes and locations of human development and environmental impact. To view how different parts of the world vary, heatmaps are available for all the various world effects in the game.  Such values as citizen activity, population rates, pollution rates, temperature, moisture, and dozens more can be viewed through heatmaps, with changes recorded over time that can be played back and used for scientific argumentation.
 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
-
 </source>
+        <target state="translated">
+Οι οικολογικοί κόσμοι είναι ποικίλα μέρη, με πολλά διαφορετικά βιοσυστήματα και τοποθεσίες ανθρώπινης ανάπτυξης και περιβαλλοντικών επιπτώσεων. Για να δείτε πώς ποικίλλουν διαφορετικά μέρη του κόσμου, διατίθενται θερμικοί χάρτες για όλες τις διάφορες επιπτώσεις του κόσμου στο παιχνίδι. Τιμές όπως η δραστηριότητα των πολιτών, τα ποσοστά πληθυσμού, τα ποσοστά ρύπανσης, η θερμοκρασία, η υγρασία και δεκάδες άλλες μπορούν να προβληθούν μέσω θερμικών χαρτών, με αλλαγές που καταγράφονται με την πάροδο του χρόνου και μπορούν να αναπαραχθούν και να χρησιμοποιηθούν για επιστημονική επιχειρηματολογία.
+
+Οι παίκτες μπορούν να τις δουν με δύο τρόπους: μέσω του μίνι χάρτη στο παιχνίδι, ο οποίος μπορεί επίσης να εμφανίσει έγχρωμο έδαφος στο παιχνίδι. Δεύτερον, μπορούν να προβληθούν στο πρόγραμμα περιήγησης ιστού, όπου αξιοποιείται η ικανότητά τους να αναπαράγονται με την πάροδο του χρόνου. Ένα στιγμιότυπο κάθε θερμικού χάρτη αποθηκεύεται στα δεδομένα του διακομιστή κάθε 10 λεπτά (διαμορφώσιμο) και οι πολίτες μπορούν να δουν προβολές timelapse για το πώς αλλάζουν οι θερμικοί χάρτες με την πάροδο του χρόνου. Αυτό είναι απαραίτητο για τη μέτρηση των επιπτώσεων σε συγκεκριμένες τοποθεσίες και τον προσδιορισμό των καλύτερων διαδρομών για την κατασκευή υποδομών και νέων οικισμών.
+</target>
       </trans-unit>
       <trans-unit id="147" xml:space="preserve">
         <source xml:space="preserve">Map</source>
         <target xml:space="preserve" state="translated">Χάρτης</target>
       </trans-unit>
-      <trans-unit id="148">
+      <trans-unit id="148" xml:space="preserve">
         <source xml:space="preserve">
 The map is a powerful tool within the game that serves many purposes: navigation, planning, data viewing, property locating, and many more. It can be enabled to view the various world layers of the game (heatmaps), highlighting regions that are high/low in population, pollution, citizen activity, etc using a gradient of colors.  World markers can be added manually, or globally for all citizens, to direct to specific points, aiding the coordination of human activity. These markers are also used to direct citizens automatically to dynamic work, specifying where roads should be built in a contract, where to deliver goods for transport, and so on.
 
 Currently we’re working on adding in-game designation of property and districts, as well as specifying land areas for work parties and contracts, allowing for example citizens to highlight in-game the areas they wish to hire others to plow a field, or build a road, etc. This will greatly open up the ability for the labor market, letting citizens be much more specific in an easier way when designating where they would like work to be performed.
-
 </source>
+        <target state="translated">
+Ο χάρτης είναι ένα ισχυρό εργαλείο μέσα στο παιχνίδι που εξυπηρετεί πολλούς σκοπούς: πλοήγηση, σχεδιασμό, προβολή δεδομένων, εντοπισμό ακινήτων και πολλά άλλα. Μπορεί να ενεργοποιηθεί η προβολή των διαφόρων επιπέδων του κόσμου του παιχνιδιού (χάρτες θερμότητας), επισημαίνοντας περιοχές με υψηλό/χαμηλό πληθυσμό, ρύπανση, δραστηριότητα πολιτών κ.λπ. χρησιμοποιώντας μια διαβάθμιση χρωμάτων. Οι δείκτες κόσμου μπορούν να προστεθούν χειροκίνητα ή παγκοσμίως για όλους τους πολίτες, για να κατευθύνουν σε συγκεκριμένα σημεία, βοηθώντας στον συντονισμό της ανθρώπινης δραστηριότητας. Αυτοί οι δείκτες χρησιμοποιούνται επίσης για να κατευθύνουν αυτόματα τους πολίτες σε δυναμική εργασία, καθορίζοντας πού πρέπει να κατασκευαστούν δρόμοι σε μια σύμβαση, πού να παραδοθούν αγαθά για μεταφορά κ.λπ.
+
+Επί του παρόντος, εργαζόμαστε για την προσθήκη χαρακτηρισμού ακινήτων και περιοχών εντός του παιχνιδιού, καθώς και για τον καθορισμό περιοχών γης για ομάδες εργασίας και συμβάσεις, επιτρέποντας για παράδειγμα στους πολίτες να επισημαίνουν εντός του παιχνιδιού τις περιοχές που επιθυμούν να προσλάβουν άλλους για να οργώσουν ένα χωράφι ή να κατασκευάσουν έναν δρόμο κ.λπ. Αυτό θα ανοίξει σημαντικά τις δυνατότητες για την αγορά εργασίας, επιτρέποντας στους πολίτες να είναι πολύ πιο συγκεκριμένοι με ευκολότερο τρόπο όταν καθορίζουν πού θα ήθελαν να εκτελεστεί η εργασία.
+</target>
       </trans-unit>
       <trans-unit id="149" xml:space="preserve">
         <source xml:space="preserve">Data on the ecosystem and economy can provide valuable insights into the actions of society and help guide future decisions.</source>
@@ -1231,32 +1261,39 @@ The ecosystem in Eco runs on a continuous simulation, active as long as the serv
         <source xml:space="preserve">Gameplay</source>
         <target xml:space="preserve" state="translated">Τρόπος Παιχνιδιού</target>
       </trans-unit>
-      <trans-unit id="153">
-        <source xml:space="preserve">The ecosystem is the foundational system which citizens must understand and contend with. From growing large {Farms|Farming} and {Mines|Mining} to understanding the impact of {Pollution} through study, the impact of citizens on the ecosystem will determine the success or failure of player decisions. Understanding how it functions using in-game {Data} becomes a key requirement of survival. Unlike the {Economy|Economy Overview} and the {Government|Government Overview}, the ecosystem is not a citizen construct – its behavior is absolute, nothing about how it functions can be changed by fiat the way the economy can. In this sense it’s a reality check, the place where the conflicting biases and beliefs of citizens collide and reveal the true consequences.
-</source>
+      <trans-unit id="153" xml:space="preserve">
+        <source xml:space="preserve">The ecosystem is the foundational system which citizens must understand and contend with. From growing large {Farms|Farming} and {Mines|Mining} to understanding the impact of {Pollution} through study, the impact of citizens on the ecosystem will determine the success or failure of player decisions. Understanding how it functions using in-game {Data} becomes a key requirement of survival. Unlike the {Economy|Economy Overview} and the {Government|Government Overview}, the ecosystem is not a citizen construct – its behavior is absolute, nothing about how it functions can be changed by fiat the way the economy can. In this sense it’s a reality check, the place where the conflicting biases and beliefs of citizens collide and reveal the true consequences.</source>
+        <target state="translated">Το οικοσύστημα είναι το θεμελιώδες σύστημα που οι πολίτες πρέπει να κατανοούν και να αντιμετωπίζουν. Από την ανάπτυξη μεγάλων {Farms|Farming} και {Mines|Mining} έως την κατανόηση του αντίκτυπου της {Pollution} μέσω της μελέτης, ο αντίκτυπος των πολιτών στο οικοσύστημα θα καθορίσει την επιτυχία ή την αποτυχία των αποφάσεων των παικτών. Η κατανόηση του τρόπου λειτουργίας του με τη χρήση δεδομένων {Data} εντός του παιχνιδιού γίνεται βασική προϋπόθεση για την επιβίωση. Σε αντίθεση με την {Economy|Economy Overview} και την {Government|Government Overview}, το οικοσύστημα δεν είναι κατασκευή των πολιτών – η συμπεριφορά του είναι απόλυτη, τίποτα στον τρόπο λειτουργίας του δεν μπορεί να αλλάξει με διαταγή όπως μπορεί η οικονομία. Με αυτή την έννοια, είναι ένας έλεγχος της πραγματικότητας, το μέρος όπου συγκρούονται οι αντικρουόμενες προκαταλήψεις και πεποιθήσεις των πολιτών και αποκαλύπτουν τις πραγματικές συνέπειες.</target>
       </trans-unit>
       <trans-unit id="154" xml:space="preserve">
         <source xml:space="preserve">Between Economy and Government</source>
         <target xml:space="preserve" state="translated">Μεταξύ Οικονομίας και Κυβέρνησης</target>
       </trans-unit>
-      <trans-unit id="155">
+      <trans-unit id="155" xml:space="preserve">
         <source xml:space="preserve">As citizens progress society, they must beware the ‘Tragedy of the Commons’; that giving a population unfettered access to a common resource will frequently result in its destruction. To prevent this, citizens must organize, deciding rules for the common good through {Laws} and other civic regulations which may limit the individual but allow the group to survive. This conflict, the individual vs the group, forms the heart of the challenge of building a civilization.
-  
-</source>
+  </source>
+        <target state="translated">Καθώς οι πολίτες προχωρούν την κοινωνία, πρέπει να προσέχουν την «Τραγωδία των Κοινών»· δηλαδή ότι η ανεξέλεγκτη πρόσβαση ενός πληθυσμού σε έναν κοινό πόρο συχνά οδηγεί στην καταστροφή του. Για να το αποτρέψουν, οι πολίτες πρέπει να οργανωθούν, αποφασίζοντας κανόνες για το κοινό καλό μέσω των {Laws} και άλλων πολιτικών κανονισμών που μπορεί να περιορίζουν τον καθένα ξεχωριστά αλλά επιτρέπουν στην ομάδα να επιβιώσει. Αυτή η σύγκρουση, άτομο εναντίον ομάδας, είναι η καρδιά της πρόκλησης της δημιουργίας ενός πολιτισμού.
+  </target>
       </trans-unit>
       <trans-unit id="156" xml:space="preserve">
         <source xml:space="preserve">The living system of plants and animals which provides the means for humans to survive.</source>
         <target xml:space="preserve" state="translated">Το ζωντανό σύστημα φυτών και ζώων που παρέχει τα μέσα για την επιβίωση των ανθρώπων.</target>
       </trans-unit>
-      <trans-unit id="157">
+      <trans-unit id="157" xml:space="preserve">
         <source xml:space="preserve">
 Farming provides a way to take the plant species most useful to people and create a global scale food supply. Farming can also focus on plants useful for other industrial purposes, like biofuel for a potentially renewable source of energy.
 
 Farmers will need to pay attention to the resources and health of their soil, avoiding depletion and pollution. Fertilizers like {CompostFertilizerItem} and methods of monitoring soil resources like the {SoilSamplerItem} will be important tools to keep farmland productive. Various vehicles, storage technologies, and more powerful hand tools will allow players to scale up their farming operations as the food and fuel needs of their societies increase.
 
 Farming is a big activity in Eco that we want to enhance and expand as we move forward with development. Balancing and storage will be a core part of farming improvements to start, as we make sure that Eco societies generate an appropriate demand from farmers to fuel technological growth, and that the storage objects and mechanics exist to support these demands. Farming itself has many possible improvements and expansions, among them developing and modifying seeds and organisms to be more productive or resistant to pollutants, or other environmental factors.
-  
-</source>
+  </source>
+        <target state="translated">
+Η γεωργία παρέχει έναν τρόπο να αξιοποιηθούν τα πιο χρήσιμα είδη φυτών για τους ανθρώπους και να δημιουργηθεί μια παγκόσμια προσφορά τροφίμων. Η γεωργία μπορεί επίσης να επικεντρωθεί σε φυτά χρήσιμα για άλλους βιομηχανικούς σκοπούς, όπως τα βιοκαύσιμα για μια δυνητικά ανανεώσιμη πηγή ενέργειας.
+
+Οι αγρότες θα πρέπει να δώσουν προσοχή στους πόρους και την υγεία του εδάφους τους, αποφεύγοντας την εξάντληση και τη ρύπανση. Λιπάσματα όπως το {CompostFertilizerItem} και μέθοδοι παρακολούθησης των εδαφικών πόρων όπως το {SoilSamplerItem} θα είναι σημαντικά εργαλεία για να διατηρηθεί η γεωργική γη παραγωγική. Διάφορα οχήματα, τεχνολογίες αποθήκευσης και πιο ισχυρά χειροκίνητα εργαλεία θα επιτρέψουν στους παίκτες να αναβαθμίσουν τις γεωργικές τους δραστηριότητες καθώς αυξάνονται οι ανάγκες των κοινωνιών τους σε τρόφιμα και καύσιμα.
+
+Η γεωργία είναι μια μεγάλη δραστηριότητα στο Eco που θέλουμε να βελτιώσουμε και να επεκτείνουμε καθώς προχωράμε με την ανάπτυξη. Η εξισορρόπηση και η αποθήκευση θα αποτελέσουν βασικό μέρος των βελτιώσεων στη γεωργία για να ξεκινήσουμε, καθώς διασφαλίζουμε ότι οι οικολογικές κοινωνίες δημιουργούν μια κατάλληλη ζήτηση από τους αγρότες για να τροφοδοτήσουν την τεχνολογική ανάπτυξη και ότι τα αντικείμενα και οι μηχανισμοί αποθήκευσης υπάρχουν για να υποστηρίξουν αυτές τις απαιτήσεις. Η ίδια η γεωργία έχει πολλές πιθανές βελτιώσεις και επεκτάσεις, μεταξύ των οποίων η ανάπτυξη και τροποποίηση σπόρων και οργανισμών ώστε να είναι πιο παραγωγικοί ή ανθεκτικοί σε ρύπους ή άλλους περιβαλλοντικούς παράγοντες.
+  </target>
       </trans-unit>
       <trans-unit id="158" xml:space="preserve">
         <source xml:space="preserve">Soil</source>
@@ -1290,37 +1327,49 @@ The ground beneath you is host to a huge variety of resources, such as rocks, me
         <source xml:space="preserve">Mining by Hand</source>
         <target xml:space="preserve" state="translated">Εξόρυξη με το χέρι</target>
       </trans-unit>
-      <trans-unit id="163">
+      <trans-unit id="163" xml:space="preserve">
         <source xml:space="preserve">
 To mine ore, first you must locate it. Ores in Eco are each hosted in particular host rocks, so learning which rocks have the type of ore you want and then digging near rocks of those type is a good way to start. Use a {WoodenShovelItem} or better to dig away soil from the surface or start digging into a hill from the side. Once you hit rock you want to go through, you'll need to use a pickaxe like the {StonePickaxeItem} to break it. When breaking rocks with the pickaxe, sometimes you'll break off a larger piece of rock that needs to be hit again to break into pieces small enough to pick up. It's a good idea to pick up rock as you break it, and stack it elsewhere for use, preferably in a {StockpileItem} or vehicle you're using to transport your ore like a {WoodCartItem}.
-
 </source>
+        <target state="translated">
+Για να εξορύξετε μετάλλευμα, πρέπει πρώτα να το εντοπίσετε. Τα μεταλλεύματα στο Eco φιλοξενούνται σε συγκεκριμένα πετρώματα υποδοχής, επομένως ένας καλός τρόπος για να ξεκινήσετε είναι να μάθετε ποια πετρώματα έχουν τον τύπο του μεταλλεύματος που θέλετε και στη συνέχεια να σκάβετε κοντά σε βράχους αυτού του τύπου. Χρησιμοποιήστε ένα {WoodenShovelItem} ή καλύτερο για να σκάψετε χώμα από την επιφάνεια ή ξεκινήστε να σκάβετε σε έναν λόφο από το πλάι. Μόλις χτυπήσετε τον βράχο που θέλετε να περάσετε, θα χρειαστεί να χρησιμοποιήσετε μια αξίνα όπως το {StonePickaxeItem} για να τον σπάσετε. Όταν σπάτε βράχους με την αξίνα, μερικές φορές σπάτε ένα μεγαλύτερο κομμάτι βράχου που πρέπει να χτυπηθεί ξανά για να σπάσει σε κομμάτια αρκετά μικρά για να τα μαζέψετε. Είναι καλή ιδέα να μαζεύετε βράχο καθώς τον σπάτε και να τον στοιβάζετε αλλού για χρήση, κατά προτίμηση σε ένα {StockpileItem} ή όχημα που χρησιμοποιείτε για να μεταφέρετε το μετάλλευμά σας όπως ένα {WoodCartItem}.
+</target>
       </trans-unit>
       <trans-unit id="164" xml:space="preserve">
         <source xml:space="preserve">Mineral Processing</source>
         <target xml:space="preserve" state="translated">Επεξεργασία Ορυκτών</target>
       </trans-unit>
-      <trans-unit id="165">
+      <trans-unit id="165" xml:space="preserve">
         <source xml:space="preserve">
 Once you have collected a large amount of metal ore, you'll need to process the ore before you can craft metal products with it. This is a dirty and expensive process, and optimizing it and the byproducts from it will be an ongoing matter of consideration. The three main steps of mineral processing are:
 
 Comminution: Comminution means to crush the rock into smaller sized particles which can be further processed. Crushed rock of the type the ore is hosted in is the main byproduct of this process.
 Concentration: Concentration is a way to separate the desired metals in an ore rock from the waste rock. This process is never perfect, and inevitably results in a large output of waste rock which still contains traces of freed metals. This waste rock with traces of heavy metals is known as {TailingsItem}. {CopperOreItem} and {GoldOreItem} require chemical leeching and wet processing to separate from their host rocks, and thus produce more polluted and volatile {WetTailingsItem} during the concentration process.  
 Smelting: Once you have precious ore concentrate, you can at last smelt it into metal products like {IronBarItem} at a {BloomeryItem} or using a more advanced smelting technology. 
-
 </source>
+        <target state="translated">
+Μόλις συλλέξετε μια μεγάλη ποσότητα μεταλλεύματος, θα χρειαστεί να επεξεργαστείτε το μετάλλευμα πριν μπορέσετε να κατασκευάσετε μεταλλικά προϊόντα με αυτό. Πρόκειται για μια βρώμικη και δαπανηρή διαδικασία και η βελτιστοποίησή της και των υποπροϊόντων από αυτήν θα αποτελεί θέμα συνεχούς εξέτασης. Τα τρία κύρια βήματα της επεξεργασίας ορυκτών είναι:
+
+Θρυμματισμός: Θρυμματισμός σημαίνει σύνθλιψη του πετρώματος σε μικρότερα σωματίδια που μπορούν να υποστούν περαιτέρω επεξεργασία. Το θρυμματισμένο πέτρωμα του τύπου στον οποίο φιλοξενείται το μετάλλευμα είναι το κύριο υποπροϊόν αυτής της διαδικασίας.
+Συμπύκνωση: Η συμπύκνωση είναι ένας τρόπος διαχωρισμού των επιθυμητών μετάλλων σε ένα μεταλλευτικό πέτρωμα από το απόβλητο πέτρωμα. Αυτή η διαδικασία δεν είναι ποτέ τέλεια και αναπόφευκτα οδηγεί σε μεγάλη παραγωγή απόβλητου πέτρωμα που εξακολουθεί να περιέχει ίχνη απελευθερωμένων μετάλλων. Αυτό το απόβλητο πέτρωμα με ίχνη βαρέων μετάλλων είναι γνωστό ως {TailingsItem}. Τα {CopperOreItem} και {GoldOreItem} απαιτούν χημική έκπλυση και υγρή επεξεργασία για να διαχωριστούν από τα πετρώματα υποδοχής τους και έτσι παράγουν περισσότερο μολυσμένο και πτητικό {WetTailingsItem} κατά τη διάρκεια της διαδικασίας συμπύκνωσης.
+Τήξη: Μόλις έχετε συμπύκνωμα πολύτιμου μεταλλεύματος, μπορείτε επιτέλους να το τήξετε σε μεταλλικά προϊόντα όπως το {IronBarItem} σε ένα {BloomeryItem} ή χρησιμοποιώντας μια πιο προηγμένη τεχνολογία τήξης. 
+</target>
       </trans-unit>
       <trans-unit id="166" xml:space="preserve">
         <source xml:space="preserve">The extraction of ore, coal, and other valuable minerals from the ground.</source>
         <target xml:space="preserve" state="translated">Η εξόρυξη μεταλλεύματος, άνθρακα και άλλων πολύτιμων ορυκτών από το έδαφος.</target>
       </trans-unit>
-      <trans-unit id="167">
+      <trans-unit id="167" xml:space="preserve">
         <source xml:space="preserve">
 As citizens burn fuel to cook or generate power, smelt metals, process sewage, and engage in countless other necessary industrial activities, a common byproduct is pollution. Pollution is any substance that can act as a contaminant or poison when introduced back into the environment. In Eco there are many sources and several varieties of pollution, some of which are more potent than others. Heavy metals can contaminate soil, affecting available nutrients and the health of plants and animals living on and in it. Water can spread contaminants rapidly and increase the size of their impact. Air pollution can pour invisibly or visibly from a stove or a power plant, adding to greenhouse gasses and impacting the air quality, as well as fall back down into the ground as acid rain. 
 
 To ensure the survival of ecosystems and preserve resources like soil and water, players will have to manage and contain the sources of pollution their civilization creates. In some cases, spills or deadly concentrations will be inevitable, and then remediation and storage may be the only option to return the land to an unharmed state. 
-
 </source>
+        <target state="translated">
+Καθώς οι πολίτες καίνε καύσιμα για να μαγειρέψουν ή να παράγουν ενέργεια, λιώνουν μέταλλα, επεξεργάζονται λύματα και συμμετέχουν σε αμέτρητες άλλες απαραίτητες βιομηχανικές δραστηριότητες, ένα κοινό υποπροϊόν είναι η ρύπανση. Ρύπανση είναι οποιαδήποτε ουσία που μπορεί να λειτουργήσει ως ρύπος ή δηλητήριο όταν εισαχθεί πίσω στο περιβάλλον. Στο Eco υπάρχουν πολλές πηγές και διάφορες ποικιλίες ρύπανσης, μερικές από τις οποίες είναι πιο ισχυρές από άλλες. Τα βαρέα μέταλλα μπορούν να μολύνουν το έδαφος, επηρεάζοντας τα διαθέσιμα θρεπτικά συστατικά και την υγεία των φυτών και των ζώων που ζουν πάνω και μέσα σε αυτό. Το νερό μπορεί να διαδώσει τους ρύπους γρήγορα και να αυξήσει το μέγεθος της επίδρασής τους. Η ατμοσφαιρική ρύπανση μπορεί να χυθεί αόρατα ή ορατά από μια σόμπα ή ένα εργοστάσιο παραγωγής ενέργειας, προσθέτοντας στα αέρια του θερμοκηπίου και επηρεάζοντας την ποιότητα του αέρα, καθώς και να πέσει πίσω στο έδαφος ως όξινη βροχή.
+
+Για να διασφαλιστεί η επιβίωση των οικοσυστημάτων και να διατηρηθούν οι πόροι όπως το έδαφος και το νερό, οι παίκτες θα πρέπει να διαχειριστούν και να περιορίσουν τις πηγές ρύπανσης που δημιουργεί ο πολιτισμός τους. Σε ορισμένες περιπτώσεις, οι διαρροές ή οι θανατηφόρες συγκεντρώσεις θα είναι αναπόφευκτες και στη συνέχεια η αποκατάσταση και η αποθήκευση μπορεί να είναι η μόνη επιλογή για να επιστρέψει η γη σε μια άθικτη κατάσταση. 
+</target>
       </trans-unit>
       <trans-unit id="168" xml:space="preserve">
         <source xml:space="preserve">Ground Pollution</source>
@@ -1386,14 +1435,19 @@ Containment mechanics are the forefront of features we want to improve related t
         <source xml:space="preserve">The introduction of harmful contaminates into the natural environment that can cause adverse changes.</source>
         <target xml:space="preserve" state="translated">Η εισαγωγή βλαβερών ρυπαντών στο φυσικό περιβάλλον που μπορεί να προκαλέσει δυσμενείς αλλαγές.</target>
       </trans-unit>
-      <trans-unit id="177">
+      <trans-unit id="177" xml:space="preserve">
         <source xml:space="preserve">Constitutional Articles define how things happen in the government: who can pass laws, set taxes, change the rules, etc.  It can also define certain actions as needing an election, by specifying an {Election Process|Election Processes} inside them.  
 
 Constitutional Articles can be added in two places.  On a {CapitolItem}, you can add up to three, and on {AmendmentsItem} you can add up to another 10 more per item.
 
 Defining the rules of the government is very important for keeping it a stable, society-supporting structure.  Governments can be granted a great deal of power over the world with laws, and there's a danger of this power being abused.  By setting a system of checks and balances, citizens can design a government that can undergo a number of changes, including changes of leadership, while maintaining the power to effect positive changes in the world.
-
 </source>
+        <target state="translated">Τα Συνταγματικά Άρθρα καθορίζουν πώς γίνονται τα πράγματα στην κυβέρνηση: ποιος μπορεί να περάσει νόμους, να ορίσει φόρους, να αλλάξει τους κανόνες κ.λπ. Μπορούν επίσης να καθορίζουν ορισμένες ενέργειες που απαιτούν εκλογές, προσδιορίζοντας μια {Election Process|Election Processes} μέσα σε αυτά.
+
+Τα Συνταγματικά Άρθρα μπορούν να προστεθούν σε δύο μέρη. Σε ένα {CapitolItem}, μπορείτε να προσθέσετε έως τρία, και σε {AmendmentsItem} μπορείτε να προσθέσετε έως άλλα 10 ανά στοιχείο. 
+
+Ο καθορισμός των κανόνων της κυβέρνησης είναι πολύ σημαντικός για να παραμείνει μια σταθερή, κοινωνικά υποστηρικτική δομή. Οι κυβερνήσεις μπορούν να αποκτήσουν μεγάλη εξουσία στον κόσμο με τους νόμους, και υπάρχει κίνδυνος κατάχρησης αυτής της εξουσίας. Ορίζοντας ένα σύστημα ελέγχων και ισορροπιών, οι πολίτες μπορούν να σχεδιάσουν μια κυβέρνηση που μπορεί να υποστεί αρκετές αλλαγές, συμπεριλαμβανομένων αλλαγών στην ηγεσία, ενώ διατηρεί την ικανότητα να φέρει θετικές αλλαγές στον κόσμο.
+</target>
       </trans-unit>
       <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">A set of rules about how the government works.</source>
@@ -1423,7 +1477,7 @@ Note: A forthcoming update of Eco will allow multiple concurrent governments.</s
         <source xml:space="preserve">The founding document for a government.</source>
         <target xml:space="preserve" state="translated">Το ιδρυτικό έγγραφο μιας κυβέρνησης.</target>
       </trans-unit>
-      <trans-unit id="181">
+      <trans-unit id="181" xml:space="preserve">
         <source xml:space="preserve">
   Demographics are classes of citizen, created in the government. These can then be used anywhere you can specify a citizen (permissions, laws, etc).
 
@@ -1432,27 +1486,40 @@ For example, citizens could define a demographic 'Lumberjacks', which would only
 Demographics are defined at a {Census Bureau|CensusBureauItem}.
 
 Demographics can also have wages set on them. Wages are paid periodically as long as a citizen remains within the demographic.
-
 </source>
+        <target state="translated">
+  Τα δημογραφικά στοιχεία είναι κατηγορίες πολιτών, που δημιουργούνται στην κυβέρνηση. Αυτά μπορούν στη συνέχεια να χρησιμοποιηθούν οπουδήποτε μπορείτε να καθορίσετε έναν πολίτη (άδειες, νόμοι, κ.λπ.).
+
+Για παράδειγμα, οι πολίτες θα μπορούσαν να ορίσουν μια δημογραφική ομάδα «Ξυλοκόποι», η οποία θα περιελάμβανε μόνο χρήστες με επίπεδο δεξιοτήτων υλοτομίας 3 ή μεγαλύτερο. Στη συνέχεια, θα μπορούσε να δημιουργηθεί ένας νόμος που επιτρέπει μόνο στους «Ξυλοκόπους» να κόβουν παλαιά δέντρα.
+
+Τα δημογραφικά στοιχεία ορίζονται σε ένα {Γραφείο Απογραφής|CensusBureauItem}.
+
+Τα δημογραφικά στοιχεία μπορούν επίσης να έχουν καθορισμένους μισθούς. Οι μισθοί καταβάλλονται περιοδικά, εφόσον ένας πολίτης παραμένει εντός του δημογραφικού πλαισίου.
+</target>
       </trans-unit>
       <trans-unit id="182" xml:space="preserve">
         <source xml:space="preserve">Defines a set of citizens matching some criteria.</source>
         <target xml:space="preserve" state="translated">Ορίζει ένα σύνολο πολιτών που πληρούν ορισμένα κριτήρια.</target>
       </trans-unit>
-      <trans-unit id="183">
+      <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">Districts are created by players at a {ZoningOfficeItem} and can be used as areas that are specified by laws.
 
 A district is a selected area of land, non-contiguous, which players can adjust at will.  Districts are contained in District Maps, and there can be multiple district maps in the world. However, within each district map, no districts may overlap.
 
 Districts can be used to designate where actions are allowed with laws. A law can be created, for example, players can create a law that prevents chopping trees in a 'Protected Zone' district.
-
 </source>
+        <target state="translated">Οι Περιφέρειες δημιουργούνται από τους παίκτες σε ένα {ZoningOfficeItem} και μπορούν να χρησιμοποιηθούν ως περιοχές που καθορίζονται από νόμους.
+
+Μια περιφέρεια είναι μια επιλεγμένη περιοχή γης, μη συνεχόμενη, την οποία οι παίκτες μπορούν να προσαρμόσουν κατά βούληση. Οι Περιφέρειες περιέχονται σε Χάρτες Περιφερειών και μπορούν να υπάρχουν πολλαπλοί χάρτες περιφερειών στον κόσμο. Ωστόσο, μέσα σε κάθε χάρτη περιοχής, καμία περιφέρεια δεν μπορεί να επικαλύπτεται.
+
+Οι Περιφέρειες μπορούν να χρησιμοποιηθούν για να ορίσουν πού επιτρέπονται ενέργειες με νόμους. Μπορεί να δημιουργηθεί ένας νόμος, για παράδειγμα, οι παίκτες μπορούν να δημιουργήσουν έναν νόμο που εμποδίζει το κόψιμο δέντρων σε μια περιοχή «Προστατευόμενης Ζώνης».
+</target>
       </trans-unit>
       <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">A defined section of land, which can be referenced by laws and other systems.</source>
         <target xml:space="preserve" state="translated">Μια καθορισμένη έκταση γης, η οποία μπορεί να αναφερθεί από νόμους και άλλα συστήματα.</target>
       </trans-unit>
-      <trans-unit id="185">
+      <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">Elected Titles are government officials that can be assigned permissions to manage government policy. These titles can be used anywhere you can specify a citizen (permissions, laws, etc.). 
 
 Elected titles are created at a {GovernmentOfficeItem}. Several conditions can be set when defining an elected title:
@@ -1470,21 +1537,43 @@ While creating an elected title, the following permissions can be assigned:
   - The ability to place a global map marker to notify citizens of a point of interest
 
 Elected titles can be assigned wages that are paid periodically to the citizens that hold the title.
-  
-</source>
+  </source>
+        <target state="translated">Οι Αιρετοί Τίτλοι είναι κυβερνητικοί αξιωματούχοι στους οποίους μπορούν να εκχωρηθούν δικαιώματα για τη διαχείριση της κυβερνητικής πολιτικής. Αυτοί οι τίτλοι μπορούν να χρησιμοποιηθούν οπουδήποτε μπορείτε να καθορίσετε έναν πολίτη (άδειες, νόμοι, κ.λπ.).
+
+Οι αιρετοί τίτλοι δημιουργούνται σε ένα {GovernmentOfficeItem}. Κατά τον ορισμό ενός αιρετού τίτλου, μπορούν να οριστούν αρκετές προϋποθέσεις:
+
+- Μια {Εκλογική Διαδικασία|Εκλογικές Διαδικασίες} με όρια θητείας για τους κατόχους τίτλων
+- Ο αριθμός των πολιτών που μπορούν να κατέχουν τον αιρετό τίτλο ταυτόχρονα
+- Απαιτήσεις για παραμονή στο αξίωμα μετά την εκλογή του στον τίτλο
+- Ένας διάδοχος που αναλαμβάνει τη θέση εάν ένας κάτοχος τίτλου απομακρυνθεί από το αξίωμα
+
+Κατά τη δημιουργία ενός αιρετού τίτλου, μπορούν να εκχωρηθούν τα ακόλουθα δικαιώματα:
+
+- Ορισμός του φορολογικού συντελεστή σε ένα {TreasuryItem}
+- Πρόσβαση για την δαπάνη των κεφαλαίων στον τραπεζικό λογαριασμό του Υπουργείου Οικονομικών
+- Προνόμια κυβερνητικών τραπεζικών συναλλαγών για τη δημιουργία κυβερνητικών τραπεζικών λογαριασμών που εξαιρούνται από τους υπολογισμούς προσωπικού πλούτου
+- Η δυνατότητα τοποθέτησης ενός δείκτη παγκόσμιου χάρτη για την ειδοποίηση των πολιτών για ένα σημείο ενδιαφέροντος
+
+Στους αιρετούς τίτλους μπορούν να εκχωρηθούν μισθοί που καταβάλλονται περιοδικά στους πολίτες που κατέχουν τον τίτλο.
+  </target>
       </trans-unit>
       <trans-unit id="186" xml:space="preserve">
         <source xml:space="preserve">Elected Titles are government officials that can be assigned permissions to manage government policy.</source>
         <target xml:space="preserve" state="translated">Οι Εκλεγμένοι Τίτλοι είναι κυβερνητικοί αξιωματούχοι που μπορούν να τους ανατεθούν δικαιώματα για τη διαχείριση της κυβερνητικής πολιτικής.</target>
       </trans-unit>
-      <trans-unit id="187">
+      <trans-unit id="187" xml:space="preserve">
         <source xml:space="preserve">Citizens can define new types of elections at a {BoardOfElectionsItem}, and each election process created there can be used for various changes to government and leadership.
 
 {Civic Articles} can reference Election Processes in order to designate actions that require an election.  {Elected Titles} created at a {GovernmentOfficeItem} must specify an Election Process by which new members get elected.
 
 Each Election Process can define a different set of voters, vetoers, timings, percentage needed to win, etc.  Using different types of elections, citizens can design their government to have different seats of power. For example, they can define a powerful Title that must be elected by the general population but can be impeached by them as well. 
-
 </source>
+        <target state="translated">Οι πολίτες μπορούν να ορίσουν νέους τύπους εκλογών σε ένα {BoardOfElectionsItem} και κάθε εκλογική διαδικασία που δημιουργείται εκεί μπορεί να χρησιμοποιηθεί για διάφορες αλλαγές στην κυβέρνηση και την ηγεσία.
+
+Τα {Civic Articles} μπορούν να αναφέρονται σε Εκλογικές Διαδικασίες προκειμένου να ορίσουν ενέργειες που απαιτούν εκλογές. Οι {Elected Titles} που δημιουργούνται σε ένα {GovernmentOfficeItem} πρέπει να καθορίζουν μια Εκλογική Διαδικασία με την οποία εκλέγονται τα νέα μέλη.
+
+Κάθε Εκλογική Διαδικασία μπορεί να ορίσει ένα διαφορετικό σύνολο ψηφοφόρων, ασκούντων βέτο, χρονισμούς, ποσοστό που απαιτείται για νίκη κ.λπ. Χρησιμοποιώντας διαφορετικούς τύπους εκλογών, οι πολίτες μπορούν να σχεδιάσουν την κυβέρνησή τους ώστε να έχει διαφορετικές έδρες εξουσίας. Για παράδειγμα, μπορούν να ορίσουν έναν ισχυρό Τίτλο που πρέπει να εκλεγεί από τον γενικό πληθυσμό, αλλά μπορεί επίσης να παραπεμφθεί σε δίκη από αυτούς. 
+</target>
       </trans-unit>
       <trans-unit id="188" xml:space="preserve">
         <source xml:space="preserve">Defines how an election takes place.</source>
@@ -1516,7 +1605,7 @@ Elections can have a number of settings determined by their {Election Process|El
         <source xml:space="preserve">A poll set to a group of citizens to determine a position or referendum.</source>
         <target xml:space="preserve" state="translated">Μια δημοσκόπηση που ορίζεται σε μια ομάδα πολιτών για να καθοριστεί μια θέση ή δημοψήφισμα.</target>
       </trans-unit>
-      <trans-unit id="191">
+      <trans-unit id="191" xml:space="preserve">
         <source xml:space="preserve">Executive Actions are one-time actions that can affect a specific group of citizens or all citizens at once.
   Executive Actions can be proposed at an {ExecutiveOfficeItem} using the {Civic Action Component}. These actions have three main effects:
  - Issue a one-time {Tax|Taxes}
@@ -1524,8 +1613,15 @@ Elections can have a number of settings determined by their {Election Process|El
  - Change the {Property} owner of an existing property
 
 Depending on what {Civic Articles} are available, these actions may or may not require an election. Some civic articles state that only {Elected Titles} may perform Executive Actions.
-  
-</source>
+  </source>
+        <target state="translated">Οι Εκτελεστικές Ενέργειες είναι εφάπαξ ενέργειες που μπορούν να επηρεάσουν μια συγκεκριμένη ομάδα πολιτών ή όλους τους πολίτες ταυτόχρονα.
+Οι Εκτελεστικές Ενέργειες μπορούν να προταθούν σε ένα {ExecutiveOfficeItem} χρησιμοποιώντας το {Civic Action Component}. Αυτές οι ενέργειες έχουν τρία κύρια αποτελέσματα:
+- Έκδοση εφάπαξ {Φόρου|Φόρων}
+- Παροχή πληρωμής στους πολίτες από το {TreasuryItem}
+- Αλλαγή του κατόχου {Property} μιας υπάρχουσας ιδιοκτησίας
+
+Ανάλογα με τα διαθέσιμα {Civic Articles}, αυτές οι ενέργειες ενδέχεται να απαιτούν ή όχι επιλογή. Ορισμένα αστικά άρθρα ορίζουν ότι μόνο οι {Eledged Titles} μπορούν να εκτελέσουν Εκτελεστικές Ενέργειες.
+  </target>
       </trans-unit>
       <trans-unit id="192" xml:space="preserve">
         <source xml:space="preserve">An action performed by a government official having effects on taxes, property, etc.</source>
@@ -1551,11 +1647,13 @@ Depending on what {Civic Articles} are available, these actions may or may not r
     Η κυβέρνηση δημιουργείται από τους πολίτες, κομμάτι κομμάτι, αυξάνοντας την δύναμη και την ικανότητά τους παράλληλα με τη δύναμη του πληθυσμού. Τα μέρη της κυβέρνησης είναι:
   </target>
       </trans-unit>
-      <trans-unit id="196">
+      <trans-unit id="196" xml:space="preserve">
         <source xml:space="preserve">{Constitution}
 Before any other aspect of government can be created, a Constitution must be created at a {CapitolItem}. It determines how the government operates via civic articles.
-
 </source>
+        <target state="translated">{Constitution}
+Πριν από τη δημιουργία οποιασδήποτε άλλης πτυχής της διακυβέρνησης, πρέπει να δημιουργηθεί ένα Σύνταγμα σε ένα {CapitolItem}. Καθορίζει τον τρόπο λειτουργίας της διακυβέρνησης μέσω αστικών άρθρων.
+</target>
       </trans-unit>
       <trans-unit id="197">
         <source xml:space="preserve">{Civic Articles}
