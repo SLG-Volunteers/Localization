@@ -4,6 +4,7 @@
     <body>
       <trans-unit id="0" xml:space="preserve">
         <source xml:space="preserve">Components related to the economy.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Elementy związane z gospodarką.</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
@@ -2017,14 +2018,19 @@ Dodatkowo, wiele obiektów wymaga domów i mediów do działania. System mieszka
         <target xml:space="preserve" state="translated">Twoje poziom mieszkania (wraz z dietą) determinuje przyrost umiejętności.
 </target>
       </trans-unit>
-      <trans-unit id="217">
+      <trans-unit id="217" xml:space="preserve">
         <source xml:space="preserve">Many objects require power to function, and as your society progresses the types of power will progress as well.
   
 Early on, most power will come from calories expended by citizens.  Local-power sources can also be built such as {Waterwheels|Waterwheel Item}, powering only the immediate vicinity.  When technology progresses to electricity, power can then be generated centrally, allowing groups to form together to power towns and cities as a group rather than having to individually setup power sources (community projects like this are a great fit for using the {Taxes} system to fund them, and {Contracts} and {Work Parties} to get them built).
   
 Many types of power generation exist, and each has different fuel needs as well as environmental impact.  The building, fueling, and operation of power plants can become a major {Pollution} source as technology advances, and citizens will need to carefully regulate the types of power used and how pollution is handled to prevent an ecological catastrophe.
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Wiele obiektów potrzebuje energii do działania, a wraz z rozwojem twojego społeczeństwa będą się rozwijać również rodzaje energii.
   
-</source>
+Na początku większość energii będzie pochodzić z kalorii zużywanych przez mieszkańców. Można też budować lokalne źródła energii, takie jak {koła wodne|przedmiot „koło wodne”}, zasilające tylko najbliższe otoczenie.  Gdy technologia osiągnie poziom elektryczności, energię będzie można wytwarzać centralnie, co pozwoli grupom łączyć się, by wspólnie zasilać miasteczka i miasta, zamiast indywidualnie zakładać źródła energii (takie projekty społeczne świetnie nadają się do finansowania za pomocą systemu {Podatków}, a do ich budowy można wykorzystać {Umowy} i {Zespoły robocze}).
+  
+Istnieje wiele rodzajów wytwarzania energii, a każdy z nich ma inne wymagania paliwowe i inny wpływ na środowisko. Wraz z postępem technologicznym budowa, zasilanie i eksploatacja elektrowni mogą stać się poważnym źródłem {zanieczyszczeń}, więc mieszkańcy będą musieli starannie regulować rodzaje wykorzystywanej energii oraz sposoby radzenia sobie z zanieczyszczeniami, aby zapobiec katastrofie ekologicznej.
+  </target>
       </trans-unit>
       <trans-unit id="218" xml:space="preserve">
         <source xml:space="preserve">Many objects require power to function, which can be generated in a variety of ways.</source>
@@ -2069,9 +2075,9 @@ Many types of power generation exist, and each has different fuel needs as well 
         <target xml:space="preserve" state="translated">Akty własności
 </target>
       </trans-unit>
-      <trans-unit id="225">
-        <source xml:space="preserve">On the deed, citizens can add and remove parties that may access the land (place or remove blocks).  The owner can also be changed by clicking the gear beside the owner name.  Note that both {Demographics} and {Titles} can both be given ownership on a deed, including {Elected Titles}. Structuring a government this way can allow only elected officials to have certain access rights to land.
-</source>
+      <trans-unit id="225" xml:space="preserve">
+        <source xml:space="preserve">On the deed, citizens can add and remove parties that may access the land (place or remove blocks).  The owner can also be changed by clicking the gear beside the owner name.  Note that both {Demographics} and {Titles} can both be given ownership on a deed, including {Elected Titles}. Structuring a government this way can allow only elected officials to have certain access rights to land.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Na akcie własności obywatele mogą dodawać i usuwać podmioty, które mają dostęp do terenu (mogą umieszczać lub usuwać bloki). Właściciela można też zmienić, klikając koło zębate obok jego nazwy. Pamiętaj, że zarówno {Demografia}, jak i {Tytuły} mogą otrzymać prawa własności w akcie, w tym {Tytuły wybieralne}. Taka struktura rządu pozwala na przyznanie określonych praw dostępu do terenu wyłącznie wybranym urzędnikom.</target>
       </trans-unit>
       <trans-unit id="226" xml:space="preserve">
         <source xml:space="preserve">Citizens and governments may own property and determine the access rights of them.</source>
@@ -2117,15 +2123,21 @@ The average tier of the room material will also determine your housing value, by
         <target xml:space="preserve" state="translated">Pokoje chronią Ciebie i Twój sprzęt przed żywiołami, zapewniając punkty umiejętności i umożliwiając działanie sprzętu.
 </target>
       </trans-unit>
-      <trans-unit id="229">
+      <trans-unit id="229" xml:space="preserve">
         <source xml:space="preserve">
 Many industrial and housing objects require sewage support to function.  Typically, this means requiring water as an input, and an output for waste water.  Every object that has a {Pipe Component} will need a sewage connection.
 
 Sewage systems are created by connecting a {MechanicalWaterPumpItem} or {ElectricWaterPumpItem} to a water source, and then building Pipes between the different objects that need supplying.  On the waste side, pipes will take the waste water from the object to either dump it into the environment (producing {Pollution} at the exit point), or process it at a {Waster Filter|WasteFilterItem}, which will generate {Compost|CompostItem} from the wastewater.
 
 Pipes will automatically connect to any adjacent pipe block of the same type.  To make sewage systems with different pipes in close proximity, use different materials of pipes.
-
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Wiele obiektów przemysłowych i mieszkaniowych potrzebuje kanalizacji, żeby działać. Zazwyczaj oznacza to, że potrzebują wody jako surowca wejściowego oraz odprowadzenia ścieków. Każdy obiekt wyposażony w {Pipe Component} będzie potrzebował podłączenia do kanalizacji.
+
+Systemy kanalizacyjne tworzy się, podłączając {MechanicalWaterPumpItem} lub {ElectricWaterPumpItem} do źródła wody, a następnie budując rury między różnymi obiektami, które wymagają zaopatrzenia.  Jeśli chodzi o odprowadzanie ścieków, rury odprowadzają ścieki z obiektu albo do środowiska (powodując {Zanieczyszczenie} w miejscu wylotu), albo do {Filtra ścieków|WasteFilterItem}, który przetwarza ścieki na {Kompost|CompostItem}.
+
+Rury automatycznie łączą się z każdym sąsiednim blokiem rury tego samego typu.  Aby stworzyć systemy kanalizacyjne z różnymi rodzajami rur w bliskim sąsiedztwie, użyj rur z różnych materiałów.
+</target>
       </trans-unit>
       <trans-unit id="230" xml:space="preserve">
         <source xml:space="preserve">Certain objects require sewage systems to supply water and remove wastewater.</source>
@@ -2137,7 +2149,7 @@ Pipes will automatically connect to any adjacent pipe block of the same type.  T
         <target xml:space="preserve" state="translated">Składniki związane z przemysłem.
 </target>
       </trans-unit>
-      <trans-unit id="232">
+      <trans-unit id="232" xml:space="preserve">
         <source xml:space="preserve">As you gain experience in Eco you will be able to unlock new specialties and new abilities within those specialties. There are two types of experience you will gain, Character Experience and Specialty Experience.  Both are increased by your Experience Multiplier.
 
 Character Experience
@@ -2150,8 +2162,20 @@ Some level ups will allow you to unlock talents, which give specific bonuses rel
 Experience Multiplier
 Your Experience Multiplier (or XP Multiplier) is a personal value representing your health and support system, and it determines how fast you learn new skills.  It is determined as a sum of your {Nutrition} and {Housing|Housing Overview} values.  Because it affects both your character and specialty experience points, you’ll want to keep it as high as possible by eating the nutritious food and having a well-furnished house.
 
-
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">W miarę zdobywania doświadczenia w Eco będziesz mógł odblokowywać nowe specjalizacje oraz nowe umiejętności w ramach tych specjalizacji. Istnieją dwa rodzaje doświadczenia, które będziesz zdobywać: doświadczenie postaci i doświadczenie specjalizacji. Oba są zwiększane przez twój mnożnik doświadczenia.
+
+Doświadczenie postaci
+Doświadczenie postaci to twoje tempo uczenia się, czyli to, jak szybko zdobywasz wiedzę i umiejętności. Ciągle rośnie, nawet gdy jesteś offline.  Każdego dnia kalendarzowego zdobędziesz doświadczenie postaci w tempie równym 1 * twój mnożnik doświadczenia.  Kiedy awansujesz na kolejny poziom, odblokujesz nową specjalizację, oznaczoną gwiazdką.  Każdy kolejny poziom będzie wymagał coraz większej ilości doświadczenia postaci, więc bardzo trudno jest mieć więcej niż kilka specjalizacji.
+
+Doświadczenie specjalizacji
+Doświadczenie specjalizacji to twoja biegłość w konkretnej umiejętności i zamiast rosnąć nieustannie, wzrasta tylko wtedy, gdy wykonujesz czynności związane z tą specjalizacją, takie jak rzemiosło czy praca fizyczna. Podobnie jak doświadczenie postaci, jest ono również mnożone przez twój mnożnik doświadczenia. Po lewej stronie ekranu zobaczysz ikony pokazujące, ile doświadczenia zdobywasz podczas wykonywania czynności, i możesz je kliknąć, żeby przyjrzeć się bliżej awansom tej specjalizacji.
+Niektóre awanse pozwolą ci odblokować talenty, które dają konkretne bonusy związane z umiejętnościami, do których należą.
+
+Współczynnik doświadczenia
+Twój mnożnik doświadczenia (lub mnożnik XP) to osobista wartość odzwierciedlająca twoje zdrowie i system wsparcia, która decyduje o tym, jak szybko uczysz się nowych umiejętności.  Jest on obliczany jako suma twoich wartości {Odżywianie} i {Mieszkanie|Przegląd mieszkania}.  Ponieważ wpływa on zarówno na punkty doświadczenia postaci, jak i specjalizacji, warto utrzymywać go na jak najwyższym poziomie, jedząc pożywne posiłki i dbając o dobrze wyposażone mieszkanie.
+
+</target>
       </trans-unit>
       <trans-unit id="233" xml:space="preserve">
         <source xml:space="preserve">There are two kinds of experience in Eco: Character Experience (gained by food and housing) and Specialty Experience (gained by performing actions in a specialty).</source>
@@ -2196,12 +2220,15 @@ Każda żywność dostarcza zarówno kalorii, jak i składników odżywczych, wi
         <target xml:space="preserve" state="translated">Odżywienie, tuż obok warunków mieszkaniowych, określa jak szybko zdobywasz doświadczenie.
 </target>
       </trans-unit>
-      <trans-unit id="236">
+      <trans-unit id="236" xml:space="preserve">
         <source xml:space="preserve">Central to a thriving economy is the ability to specialize and trade, thereby working more efficiently than if you attempted to do everything yourself.  Achieving a successful society depends on successfully accomplishing both.  
     
 A citizen's skills give them unique abilities and enhancements, which allows them to {Trade} with other citizens having different skills in the economy. As you gain {Experience}, you can unlock new {Specialties} and level-up existing ones.  The experience you gain is multiplied by your {Nutrition} and {Housing|Housing Overview}.    
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kluczem do dobrze prosperującej gospodarki jest umiejętność specjalizacji i handlu, dzięki czemu działa się wydajniej niż gdybyś próbował robić wszystko sam. Sukces społeczeństwa zależy od skutecznego połączenia obu tych elementów.  
+    
+Umiejętności obywateli dają im unikalne zdolności i ulepszenia, co pozwala im {Handlować} z innymi obywatelami o różnych umiejętnościach w gospodarce. W miarę zdobywania {Doświadczenia} możesz odblokowywać nowe {Specjalizacje} i podnosić poziom już posiadanych. Zdobyte doświadczenie jest mnożone przez twoje {Odżywianie} i {Mieszkanie|Przegląd mieszkania}.    
+  </target>
       </trans-unit>
       <trans-unit id="237" xml:space="preserve">
         <source xml:space="preserve">The skill system allows citizens to specialize in specific trades.</source>
@@ -2441,21 +2468,29 @@ Doświadczenie w {SelfImprovementSkill} jest otrzymywane za każdym razem gdy ob
         <target xml:space="preserve" state="translated">Krawcy wykorzystują tkaniny do produkcji ubrań oraz mebli wysokiej klasy dla innych obywateli.
 </target>
       </trans-unit>
-      <trans-unit id="261">
+      <trans-unit id="261" xml:space="preserve">
         <source xml:space="preserve">Any object containing a Vehicle Component can be mounted and interacted with in a variety of ways, providing a number of benefits.
   
-Many vehicles require {Power|Power Component} to operate and each have their own {Storage|Storage Component}. Building infrastructure around the world will greatly enhance your {Transport} capabilites as many vehicles require roads to operate.
-</source>
+Many vehicles require {Power|Power Component} to operate and each have their own {Storage|Storage Component}. Building infrastructure around the world will greatly enhance your {Transport} capabilites as many vehicles require roads to operate.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Każdy obiekt zawierający {Komponent pojazdu} można zamontować i korzystać z niego na różne sposoby, co daje sporo korzyści.
+  
+Wiele pojazdów potrzebuje {Energii|Komponentu energii} do działania, a każdy ma swój własny {Magazyn|Komponent magazynowy}. Budowanie infrastruktury na całym świecie znacznie poprawi twoje możliwości {Transportowe}, bo wiele pojazdów potrzebuje dróg, żeby jeździć.</target>
       </trans-unit>
-      <trans-unit id="262">
+      <trans-unit id="262" xml:space="preserve">
         <source xml:space="preserve">  
 - Transportation: Vehicles like the {WoodCartItem} can transport goods and people from place to place. As technology progresses, more advanced vehicles become available with faster movement speeds and higher carrying capacity at the cost of creating pollution.
 
 - Excavation: The {ExcavatorItem} and {SkidSteerItem} can quickly move large quantites of dirt and rock. This will greatly increase the speed of {Mining} and allow areas of land to be quickly cleared for new construction projects.
 
 - Contruction: The {CraneItem} can quickly perform large-scale {Building} projects. The crane has a much larger building range than a citizen who is building with a hammer and can access large amounts of storage.
-
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">  
+- Transport: Pojazdy takie jak {WoodCartItem} mogą przewozić towary i ludzi z miejsca na miejsce. Wraz z postępem technologicznym pojawiają się bardziej zaawansowane pojazdy o większej prędkości i większej ładowności, ale za cenę zanieczyszczenia środowiska.
+
+- Wykopy: {ExcavatorItem} i {SkidSteerItem} mogą szybko przenosić duże ilości ziemi i skał. To znacznie przyspieszy {Wydobycie} i pozwoli szybko oczyścić tereny pod nowe projekty budowlane.
+
+- Budownictwo: {CraneItem} może szybko realizować wielkoskalowe projekty {Budowlane}. Żuraw ma znacznie większy zasięg działania niż mieszkaniec budujący młotkiem i ma dostęp do ogromnych zasobów materiałów.
+</target>
       </trans-unit>
       <trans-unit id="264" xml:space="preserve">
         <source xml:space="preserve">Vehicles can be used for performing a variety of tasks.</source>
@@ -2549,7 +2584,7 @@ Sprawdź {Profession Overview} aby zapoznać się z różnymi opcjami.
         <target xml:space="preserve" state="translated">Świat, w którym istnieje wiele specjalizacji, może handlować w celu uzyskania obopólnych korzyści.
 </target>
       </trans-unit>
-      <trans-unit id="275">
+      <trans-unit id="275" xml:space="preserve">
         <source xml:space="preserve">
     The {Government|Government Overview} of Eco is run by individual citizens, and the quality of governance is fully dependent on how those citizens participate.
 
@@ -2562,8 +2597,20 @@ Sprawdź {Profession Overview} aby zapoznać się z różnymi opcjami.
     - Enacting {Executive Actions}, with privileges also defined in the constitution.
     - Voting in {Elections} for {Elected Titles} and other civic actions.
     - Debating laws with the use of {Data}, presenting arguments to your fellow citizens arguing for one choice over another.
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    {Rząd|Przegląd rządu} w Eco jest prowadzony przez poszczególnych obywateli, a jakość sprawowania władzy zależy całkowicie od tego, jak ci obywatele się angażują.
+
+    Istnieje wiele sposobów, by wziąć udział w zarządzaniu rządem, między innymi:
+
+    - Założenie rządu poprzez stworzenie {CapitolItem} i {Constitution}.
+    - Definiowanie elementów systemu politycznego, w tym {Districts}, {Demographics}, {Elected Titles}, {Election Processes} oraz {Amendments|Constitution}.
+    - Startowanie jako kandydat na {Stanowisko wybieralne|Stanowiska wybieralne}, co daje specjalne uprawnienia przypisane do nich w konstytucji.
+    - Uchwalanie {Ustaw} po uzyskaniu odpowiedniego uprawnienia (określonego w konstytucji).
+    - Podejmowanie {Działań wykonawczych}, z uprawnieniami również określonymi w konstytucji.
+    - Głosowanie w {wyborach} na {stanowiska wybieralne} i w innych sprawach obywatelskich.
+    - Debatowanie nad ustawami z wykorzystaniem {danych}, przedstawianie argumentów innym obywatelom, przekonując ich do wyboru jednej opcji zamiast drugiej.
+  </target>
       </trans-unit>
       <trans-unit id="276" xml:space="preserve">
         <source xml:space="preserve">
@@ -2578,15 +2625,21 @@ Każda z tych opcji jest dostępna w różnych lokalizacjach, które muszą zost
         <target xml:space="preserve" state="translated">Twoje obowiązki obywatelskie obejmują wiele różnych sposobów interakcji z rządem.
 </target>
       </trans-unit>
-      <trans-unit id="278">
+      <trans-unit id="278" xml:space="preserve">
         <source xml:space="preserve">To bring a society through the ages to the peaks of technology, a thriving {Economy|Economy Overview} is needed, and by participating in it, citizens can both help progress society as well advance their own abilities and wealth.
  
 Participating in the economy takes place through {Trade} of both goods and services.  Finding existing settlements with {Stores|Store Component}, {Contracts}, and {Work Parties} will give citizens the possibility to trade the goods and labor they specialize in for the specialties of others, achieving their individual goals faster than if they had each worked alone.  
 As you take on new projects that require materials or labor that you lack the ability to create or perform on your own, you can instead, sell goods and offer services on the market by creating stores and setting prices in a {Currency} of your choice. Using this currency to purchase the goods and services of others will then allow you to reach those goals without having to learn everything yourself.
 
 As you build up your capabilities and have more needs of other citizens, you can create your own stores, contracts, and work parties to seek their aid.  As you acquire wealth, your power to effect change (both good and bad) rises.
+ </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Aby poprowadzić społeczeństwo przez kolejne epoki aż do szczytów technologicznych, potrzebna jest dobrze prosperująca {Gospodarka|Przegląd gospodarki}, a uczestnicząc w niej, obywatele mogą zarówno przyczyniać się do rozwoju społeczeństwa, jak i zwiększać swoje umiejętności oraz bogactwo.
  
-</source>
+Udział w gospodarce odbywa się poprzez {Handel} zarówno towarami, jak i usługami. Odnajdywanie istniejących osad z {Sklepami|Składnikiem sklepu}, {Kontraktami} i {Zespołami roboczymi} daje obywatelom możliwość wymiany towarów i pracy, w których się specjalizują, na specjalizacje innych, co pozwala osiągać indywidualne cele szybciej, niż gdyby każdy działał na własną rękę.  
+Gdy podejmujesz nowe projekty wymagające materiałów lub siły roboczej, których nie jesteś w stanie samodzielnie wytworzyć lub zapewnić, możesz zamiast tego sprzedawać towary i oferować usługi na rynku, tworząc sklepy i ustalając ceny w wybranej przez siebie {walucie}. Wykorzystanie tej waluty do zakupu towarów i usług od innych pozwoli ci osiągnąć te cele bez konieczności samodzielnego uczenia się wszystkiego.
+
+W miarę jak rozwijasz swoje umiejętności i masz coraz większe potrzeby związane z innymi mieszkańcami, możesz tworzyć własne sklepy, umowy i grupy robocze, by prosić ich o pomoc. Wraz z gromadzeniem bogactwa rośnie twoja zdolność do wprowadzania zmian (zarówno dobrych, jak i złych).
+ </target>
       </trans-unit>
       <trans-unit id="279" xml:space="preserve">
         <source xml:space="preserve">The most efficient way to progress in knowledge and technology is trade within the economy.</source>
@@ -3294,27 +3347,35 @@ Gdy obywatel zostaje mieszkańcem posiadłości, otrzymuje unikatowy zestaw upra
 
 </target>
       </trans-unit>
-      <trans-unit id="353">
-        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.
-</source>
+      <trans-unit id="353" xml:space="preserve">
+        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">„Wyczerpanie” to ustawienie serwera, które ogranicza maksymalny czas gry dziennie.</target>
       </trans-unit>
-      <trans-unit id="354">
+      <trans-unit id="354" xml:space="preserve">
         <source xml:space="preserve">
     TBD
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Do ustalenia
+  </target>
       </trans-unit>
-      <trans-unit id="355">
+      <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Konsolidacja i filtrowanie</target>
       </trans-unit>
-      <trans-unit id="356">
+      <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Stosy identycznych przedmiotów można szybko połączyć i posortować, naciskając przycisk „Połącz” znajdujący się w prawym dolnym rogu modułu magazynu. Dodatkowo magazyny można filtrować, aby wyświetlać tylko określone rodzaje przedmiotów, korzystając z selektora przedmiotów lub po prostu wpisując nazwę przedmiotu.
+  </target>
       </trans-unit>
-      <trans-unit id="357">
+      <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Handel między obywatelami o różnych umiejętnościach i posiadającymi różne towary to podstawa gospodarki.</target>
       </trans-unit>
-      <trans-unit id="358">
+      <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
 
  - Trades can be setup at a {Store Component}, listing buy/sell prices for the different goods you would like.  Citizens can then buy and sell goods to you asynchronously, without being present.
@@ -3323,18 +3384,32 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Handel z innymi mieszkańcami jest w Eco kluczowy, bo każdy gracz ma zestaw {specjalizacji}, w których może wnieść największy wkład, jednocześnie wymieniając się z innymi mieszkańcami, którzy mają umiejętności w dziedzinach, w których sam nie jest biegły. 
+
+ - Transakcje można ustalać w {sklepie z komponentami}, podając ceny kupna/sprzedaży różnych towarów, które cię interesują.  Mieszkańcy mogą wtedy kupować i sprzedawać ci towary asynchronicznie, bez konieczności bycia obecnym.
+ - Handel siłą roboczą może odbywać się poprzez {Umowy} i {Zespoły robocze}, co pozwala graczom wykonywać pracę za wynagrodzeniem na uzgodnionych warunkach.  Można to również robić asynchronicznie.
+ - Handel walutami odbywa się w {Kursie walutowym|Komponencie wymiany walut}, gdzie podane są ceny kupna i sprzedaży różnych walut.
+ - Handel ułatwia {Transport}, a budowa infrastruktury transportowej między rozwijającymi się ośrodkami twojej cywilizacji znacznie zwiększy możliwości handlowe.
+ - Handel podlega {Podatkom}, ustalanym przez {Rząd|Przegląd rządu}, które mogą albo zwiększać, albo zmniejszać wartość niektórych transakcji.
+</target>
       </trans-unit>
-      <trans-unit id="359">
+      <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Nakazy</target>
       </trans-unit>
-      <trans-unit id="360">
+      <trans-unit id="360" xml:space="preserve">
         <source xml:space="preserve">
     Injunctions, which can be created on a {LargeCourtItem}, have the ability to block laws on a lesser court. Each injunction states a list of triggers and legal actions that will be blocked in a defined set of child settlements (or all, if left blank). This can be used by countries to block laws that a town have passed, for example.  
     
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Nakazy sądowe, które można tworzyć za pomocą elementu {LargeCourtItem}, pozwalają blokować ustawy uchwalone przez sądy niższej instancji. Każdy nakaz zawiera listę warunków i działań prawnych, które zostaną zablokowane w określonej grupie osad podrzędnych (lub we wszystkich, jeśli pole pozostawisz puste). Kraje mogą to wykorzystać np. do blokowania ustaw uchwalonych przez miasto.  
+    
+    Możliwość tworzenia nakazów sądowych to potężna funkcja, którą warto wziąć pod uwagę przy tworzeniu kraju lub federacji, bo może mieć duży wpływ na rządzenie osadami podrzędnymi. W konstytucji osady można określić uprawnienia, żeby ustalić, kto może dodawać lub zmieniać nakazy sądowe, jeśli w ogóle. Rola nakazów sądowych powinna być dokładnie omówiona między przywódcami miast, gdy łączą się, by stworzyć kraj.
+  </target>
       </trans-unit>
-      <trans-unit id="361">
+      <trans-unit id="361" xml:space="preserve">
         <source xml:space="preserve">
 As the number of occupants increases, the occupancy penalty increases.  At small numbers of occupants (1 or 2), there is virtually no penalty, and citizens can effectively cohabitate this way and share in the benefit of a well-stocked house.  As the occupants increases beyond that (5 and above), the penalty becomes more steep, eventually topping out at 99% when the house is too overcrowded.
 
@@ -3342,11 +3417,19 @@ However, the 'diminishing returns' rate of rooms is favorably affected by occupa
   
 To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Wraz ze wzrostem liczby mieszkańców rośnie kara za przepełnienie. Przy niewielkiej liczbie mieszkańców (1 lub 2) praktycznie nie ma żadnej kary, a obywatele mogą w ten sposób efektywnie współmieszkać i czerpać korzyści z dobrze zaopatrzonego domu. Gdy liczba mieszkańców wzrośnie powyżej tej granicy (5 i więcej), kara staje się coraz większa, osiągając ostatecznie 99%, gdy dom jest zbyt przepełniony.
+
+Jednak na wskaźnik „malejących zysków” z pokoi pozytywnie wpływa liczba mieszkańców (bo trzy łazienki to przesada, gdy mieszkasz sam, ale świetna sprawa, gdy masz współlokatorów). Oznacza to, że możesz pokonać tę karę, budując większy dom, a powielone pokoje będą odwrotnie wpływać na premię za liczbę mieszkańców.
+  
+Żeby zostać mieszkańcem nieruchomości, kliknij jej nazwę (widoczną w wyskakującym panelu statusu, gdy jesteś w środku). Stamtąd możesz zostać mieszkańcem (jeśli posiadasz akt własności), a także zaprosić innych do zamieszkania.  Zaproszeni mieszkańcy mogą następnie dołączyć jako mieszkańcy za pomocą tego samego interfejsu. Możesz nawet zapraszać grupy, określając tytuły lub dane demograficzne, co pozwala tworzyć mieszkania dla specjalnych grup mieszkańców (na przykład nowych graczy). Możesz też ustawić maksymalną liczbę mieszkańców, żeby upewnić się, że zarządzanie mieszkaniami w ten sposób (poprzez zapraszanie dużych grup) nie doprowadzi do przepełnienia lokali.
+</target>
       </trans-unit>
-      <trans-unit id="362">
+      <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Osady to zgrupowania ludzi lub innych osad. Stanowią one strukturę i organizację społeczeństwa.</target>
       </trans-unit>
-      <trans-unit id="363">
+      <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
     A settlement with sufficiently more culture than a neighboring settlement can annex it, merging it into itself, if requirements are met.
 
@@ -3354,11 +3437,19 @@ To become a resident of a property, click the name of the property (visible on t
 
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Osada o wystarczająco wyższym poziomie kultury niż sąsiednia osada może ją zaanektować, włączając ją do siebie, o ile spełnione są odpowiednie warunki.
+
+    Kiedy dwie osady tego samego typu sąsiadują ze sobą, ich strefy wpływów mogą się ze sobą stykać. W takich przypadkach osada o wyższym poziomie kultury wkracza głębiej w granice drugiej. W końcu różnica kulturowa może stać się tak duża, że jedna osada całkowicie przejmie kontrolę nad drugą.
+
+    Aneksja może być ważnym narzędziem do narzucenia prawa osadzie, która nie chce dostosować się do globalnych potrzeb, bo aneksja unieważni wszystkie jej dotychczasowe przepisy i pozwoli osadzie anektującej wprowadzić nowe.
+  </target>
       </trans-unit>
-      <trans-unit id="364">
+      <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Wymagania</target>
       </trans-unit>
-      <trans-unit id="365">
+      <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
     The requirements that must be met before one settlement can annex another are:
 
@@ -3374,11 +3465,27 @@ To become a resident of a property, click the name of the property (visible on t
 
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Wymagania, które trzeba spełnić, zanim jedna osada będzie mogła zaanektować inną, to:
+
+    Osada wyższego poziomu. Osada anektująca musi być na wyższym poziomie niż osada docelowa, chyba że jest to osada najwyższego poziomu (federacje), które jako jedyne mogą anektować osady tego samego poziomu.
+
+    Wymóg dotyczący liczby mieszkańców. Osada anektująca musi mieć określony procent liczby mieszkańców w stosunku do osady docelowej.
+
+    Wymóg dotyczący wpływu na sąsiedztwo. Oznacza to, że osada anektująca musi mieć pod wpływem działki otaczające granicę wpływu sąsiedniej osady. Po przekroczeniu określonego progu wymóg ten jest spełniony, ale zwiększanie liczby działek otaczających obszar wpływu podnosi mnożnik kolejnego wymogu, czyli kultury.
+    
+    Wymóg kulturowy. Wymóg ten mówi, że kultura osady anektującej musi przewyższać kulturę osady docelowej na dwa sposoby: musi być wyższa o określony procent oraz o określoną wartość bezwzględną. Ma to zapobiegać zbyt łatwemu anektowaniu małych osad o niskim poziomie kultury – trzeba osiągnąć podstawową przewagę kulturową. Kulturę rozwija się na różne sposoby opisane na stronie {Kultura}.
+    
+    Koszt zasobów. To zestaw przedmiotów, który stanowi fizyczny koszt przeprowadzenia aneksji. Część z nich zostanie rozdzielona między nieopuszczonych mieszkańców osady docelowej, a reszta pójdzie na marne (dlatego zawsze taniej jest dojść do porozumienia z inną osadą, niż narzucać jej swoją wolę siłą). Zasoby potrzebne do przeprowadzenia aneksji muszą być powiązane z biurkiem ambasady znajdującym się w jurysdykcji osady, a magazyn musi być dostępny dla przywódcy osady.
+
+Pamiętaj, że typ osady ma znaczenie: osada może anektować tylko inne osady niższych poziomów (np. miasto nie może anektować kraju, ale federacja może anektować miasto). Jeśli osada anektująca jest wyższego typu niż cel (np. kraj anektujący sąsiednie miasto), stosuje się inny, łatwiejszy zestaw wartości (pokazany poniżej), który ułatwia przeprowadzenie aneksji.
+  </target>
       </trans-unit>
-      <trans-unit id="366">
+      <trans-unit id="366" xml:space="preserve">
         <source xml:space="preserve">Performing the Annex</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Wykonanie załącznika</target>
       </trans-unit>
-      <trans-unit id="367">
+      <trans-unit id="367" xml:space="preserve">
         <source xml:space="preserve">
     Once both these are met, the leader of the settlement can perform the annex at anytime on an {EmbassyDeskItem} associated with the annexing settlement.
     
@@ -3388,19 +3495,33 @@ Note that the type of settlement matters: a settlement can only annex other sett
     
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Gdy oba te warunki zostaną spełnione, przywódca osady może w dowolnym momencie przeprowadzić aneksję za pomocą {EmbassyDeskItem} powiązanego z anektującą osadą.
+    
+    Po aktywacji, jeśli osady są tego samego typu, docelowa osada zostanie usunięta, a wszyscy mieszkańcy przeniesieni do nowej osady.  
+    Jeśli osady są różnych typów, osada docelowa zostanie po prostu usunięta z obecnej osady macierzystej i dodana jako osada podrzędna nowej osady.  
+    W obu przypadkach wszystkie ustawy i inne elementy ustroju zostaną wyłączone i przywrócone do postaci projektów. 
+    
+    Gdy osada zostanie przyłączona, nie będzie już mogła wykonać opcji „Odłączenie osady” – zostanie przypisana do osady macierzystej, dopóki ta jej nie usunie. 
+  </target>
       </trans-unit>
-      <trans-unit id="368">
+      <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ustawienia aneksji</target>
       </trans-unit>
-      <trans-unit id="377">
+      <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Uczestnictwo w kolacjach zapewni twojej osadzie punkty kultury, a także premię do umiejętności związanej z odżywianiem. To świetny sposób na zwiększenie poziomu kultury w świecie poprzez integrację mieszkańców podczas wspólnych posiłków.
+  </target>
       </trans-unit>
-      <trans-unit id="378">
+      <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Wymagania</target>
       </trans-unit>
-      <trans-unit id="379">
+      <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
       A dinner party will be triggered when valid food is eaten at a location. The requirements are:
       - Dining while seated at a table.  Citizens must be seated, and eat food directly from the table (without picking it up into your inventory).
@@ -3410,20 +3531,35 @@ Note that the type of settlement matters: a settlement can only annex other sett
       - Claimed land. Dinner party must be taking place on claimed property.
       - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
     </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+      Kolacja zostanie zainicjowana, gdy w danej lokalizacji zjesz odpowiedni rodzaj jedzenia. Wymagania są następujące:
+      - Posiłek przy stole. Obywatele muszą siedzieć przy stole i jeść bezpośrednio z niego (bez wkładania jedzenia do ekwipunku).
+      - Tylko świeże jedzenie. Żeby kwalifikować się do kolacji, jedzenie musi być świeże. 
+      - Maksymalna liczba kolacji dziennie. Obowiązuje limit kolacji na osobę dziennie (domyślnie 1).
+      - Żadnego powtarzania potraw. Kolacje mogą składać się z wielu dań, do określonej maksymalnej liczby, ale tej samej postaci nie można podawać tej samej potrawy więcej niż raz.
+      - Zarejestrowana działka. Kolacja musi odbywać się na zarejestrowanej działce.
+      - Przyjdź głodny! Możesz zjeść tylko tyle dań (do maksymalnej liczby określonej poniżej), ile potrzeba, żeby napełnić żołądek.
+    </target>
       </trans-unit>
-      <trans-unit id="380">
+      <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Aktualność</target>
       </trans-unit>
-      <trans-unit id="381">
+      <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
   Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
   Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+  Po uruchomieniu gry każda potrawa przygotowana według przepisu będzie wystarczająco świeża na przyjęcie tylko przez kilka minut (określonych w ustawieniach poniżej), więc musisz mieć kucharza, który przygotowuje posiłki na bieżąco. 
+  Surowa żywność może być znacznie starsza i nadal nadawać się na kolację. Świeżość będzie widoczna na potrawie po umieszczeniu jej na stole – pojawi się para lub inne efekty wskazujące na bardzo świeżą żywność. Możesz sprawdzić, ile minut pozostało, najeżdżając kursorem na potrawę.
+</target>
       </trans-unit>
-      <trans-unit id="382">
+      <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bonusy</target>
       </trans-unit>
-      <trans-unit id="383">
+      <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
     The value of the dinner party can be increased by following these guidelines:
     - More guests. The more guests involved in the party, the higher the potential bonus.
@@ -3432,56 +3568,88 @@ Note that the type of settlement matters: a settlement can only annex other sett
     - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
     - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Wartość przyjęcia można zwiększyć, stosując się do poniższych wskazówek:
+    - Więcej gości. Im więcej osób bierze udział w przyjęciu, tym wyższa potencjalna premia.
+    - Goście z różnych osad. Kolacja z mieszkańcami spoza osady lub wyłącznie z jednej osady przyniesie niewiele punktów kultury. Żeby uzyskać znaczną premię za przyjęcie, muszą w nim uczestniczyć mieszkańcy z wielu osad.
+    - Średnia wartość odżywcza. Średnia wartość odżywcza potraw zostanie przeliczona na punkty kultury za pomocą mnożnika (poniżej).
+    - Smaczniejsze jedzenie. Wartość każdego dania zależy od indywidualnych premii smakowych danego obywatela – im bardziej potrawa im smakuje, tym większa premia.
+    - Ładniejsze miejsce. Wartość nieruchomości, na której odbywa się kolacja, określa maksymalną premię.
+  </target>
       </trans-unit>
-      <trans-unit id="384">
+      <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Zalety</target>
       </trans-unit>
-      <trans-unit id="385">
+      <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
  - Personal Nutrition Bonus Your nutrition multiplier will be increased based on the dinner parties you've recently attended.
  - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
  - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+ - Premia za odżywianie osobiste Twój mnożnik odżywiania wzrośnie w zależności od kolacji, na których ostatnio byłeś.
+ - Premia kulturowa osady Osada zyska całkowitą wartość kultury w oparciu o kolacje zorganizowane na terenie osady.
+ - Premia wpływu osady Jeśli kolacja odbędzie się na nieruchomości typu „Kulturalna”, jej wartość kulturowa zostanie dodana do ogólnej wartości kultury osady, a tym samym zwiększy jej wpływ.
+</target>
       </trans-unit>
-      <trans-unit id="386">
+      <trans-unit id="386" xml:space="preserve">
         <source xml:space="preserve">
 Dinner parties will decay in value overtime, until reaching zero, after which they are removed from bonuses. You can see the active Dinner Party bonuses you have by looking at the nutrition tooltip.
 
 Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Wartość przyjęć z czasem spada, aż osiągnie zero, po czym przestają one dawać bonusy. Aktywne bonusy z przyjęć możesz sprawdzić, patrząc na podpowiedź dotyczącą wartości odżywczej.
+
+Przyjęcia kończą się, gdy gospodarz kliknie „Zakończ”, po upływie wyznaczonego czasu albo gdy wszyscy są tak najedzeni, że nie są w stanie zjeść ani kęsa więcej.
+</target>
       </trans-unit>
-      <trans-unit id="387">
+      <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ustawienia przyjęcia</target>
       </trans-unit>
-      <trans-unit id="406">
+      <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Osady to społeczności obywateli, którzy zjednoczyli się na podstawie wspólnie ustalonych zasad.</target>
       </trans-unit>
-      <trans-unit id="407">
+      <trans-unit id="407" xml:space="preserve">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
     -Arnold J. Toynbee
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">„Cywilizacja to ruch, a nie stan, to podróż, a nie port.”
+    – Arnold J. Toynbee
+  </target>
       </trans-unit>
-      <trans-unit id="408">
+      <trans-unit id="408" xml:space="preserve">
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Osadę może stworzyć grupa obywateli, aby ustanowić rząd na obszarach objętych jej {wpływem}.
+  </target>
       </trans-unit>
-      <trans-unit id="409">
+      <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Istnieją trzy poziomy osad:</target>
       </trans-unit>
-      <trans-unit id="410">
+      <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Miasta to zgromadzenia obywateli.</target>
       </trans-unit>
-      <trans-unit id="411">
+      <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kraje to zbiory miast i obywateli.</target>
       </trans-unit>
-      <trans-unit id="412">
+      <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Federacje to zrzeszenia krajów, miast i obywateli.</target>
       </trans-unit>
-      <trans-unit id="413">
+      <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Koncepcje osadnictwa</target>
       </trans-unit>
-      <trans-unit id="414">
+      <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
     - {Founding} - Multiple citizens can join together to found a new settlement.
     - {Citizenship} - Citizens may be granted special rights and privileges, and being a citizen of a settlement increases its power.
@@ -3491,8 +3659,17 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    - {Założenie osady} – Kilku obywateli może połączyć siły, by założyć nową osadę.
+    - {Obywatelstwo} – Obywatele mogą otrzymać specjalne prawa i przywileje, a bycie obywatelem osady zwiększa jej potęgę.
+    - {Wpływ} – Osady wywierają wpływ w promieniu wokół określonych budynków, w którym egzekwowane są przepisy prawne i zasady dotyczące własności.
+    - {Własność osady} – Im więcej mieszkańców w osadzie, tym więcej terenu można zająć.
+    - {Kultura} – Kultura pozwala osadom wywierać wpływ na sąsiednie osady, co może prowadzić do ich aneksji.
+    - {Aneksja} – Osady mogą przejmować inne osady lub gospodarstwa, jeśli ich poziom kultury jest wystarczająco wysoki.
+    - {Kryzys własności} – Jeśli osada straci mieszkańców, może nie być w stanie utrzymać już zajętej własności.
+  </target>
       </trans-unit>
-      <trans-unit id="415">
+      <trans-unit id="415" xml:space="preserve">
         <source xml:space="preserve">
     Citizenship is membership in a settlement that provides civic powers. The more citizens a settlement has, the more {Settlement Property} it can claim.
 
@@ -3500,54 +3677,85 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Obywatelstwo to przynależność do osady, która zapewnia uprawnienia obywatelskie. Im więcej obywateli ma osada, tym więcej {Własności osady} może przejąć.
+
+    Każda osada może nadać obywatelstwo osobom z listy w zakładce {CitizenRosterComponent} obiektu fundacji.   Osoby niebędące obywatelami mogą tu również ubiegać się o obywatelstwo, które musi zostać zatwierdzone przez osobę zatwierdzającą, określoną w ustawieniach {Polityka imigracyjna} – domyślnie jest to przywódca osady.  Dodatkowo wszyscy obywatele w dowolnych osadach podrzędnych automatycznie stają się obywatelami osady nadrzędnej (tj. obywatele każdego miasta w kraju są również obywatelami tego kraju).
+
+    Gracze posiadający już gospodarstwo, korzystając z {HomesteadSupportClaimPaperItem}, mogą płynnie dołączać do osad, wpłacając do swojego gospodarstwa odpowiednią liczbę dokumentów roszczeniowych tej osady.
+  </target>
       </trans-unit>
-      <trans-unit id="416">
+      <trans-unit id="416" xml:space="preserve">
         <source xml:space="preserve">Citizenship Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ustawienia obywatelstwa</target>
       </trans-unit>
-      <trans-unit id="417">
+      <trans-unit id="417" xml:space="preserve">
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Kulturę tworzą obywatele poprzez tworzenie dzieł twórczych, odkrywanie artefaktów historycznych (wkrótce), organizowanie wydarzeń i festiwali (wkrótce) oraz zakładanie osad. Kultura jest zawsze przypisana do konkretnej osady, a im więcej kultury posiada osada, tym dalej sięga jej {wpływ}.
+  </target>
       </trans-unit>
-      <trans-unit id="418">
+      <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kultura z gry „Settlement Foundation”</target>
       </trans-unit>
-      <trans-unit id="419">
+      <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Założona osada generuje domyślną ilość kultury dla swojej posiadłości; ta ilość jest stała i zapewnia podstawowy poziom wpływu. Aby ją dalej zwiększać i czerpać z innych posiadłości, trzeba korzystać z innych źródeł.</target>
       </trans-unit>
-      <trans-unit id="420">
+      <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kultura w dziełach sztuki</target>
       </trans-unit>
-      <trans-unit id="421">
+      <trans-unit id="421" xml:space="preserve">
         <source xml:space="preserve">
     When Citizens use an {EaselItem} a {HandheldCameraItem} or {TripodCameraItem} to create a picture, these pictures can be displayed in a frame on the wall to give Culture points to the property. The amount of culture depends on the reputation of both the picture and artist, and viewers will be prompted to rate the images they view to give them additional reputation. As these values go up, more culture is generated, up to a limit.  The culture bonus from Citizens in the same settlement, however, is reduced by 90%, so that the majority of value comes from other Citizens of other settlements spreading the reputation of the work. This makes it advantageous to gain reputation in a given settlement, but then sell or transfer it to another settlement, where it will have much more value due to originating from a different place.
 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Kiedy mieszkańcy używają {EaselItem}, {HandheldCameraItem} lub {TripodCameraItem} do zrobienia zdjęcia, zdjęcia te można wyeksponować w ramce na ścianie, co daje punkty kultury dla danej nieruchomości. Ilość kultury zależy od reputacji zarówno zdjęcia, jak i artysty, a widzowie będą proszeni o ocenianie oglądanych zdjęć, co zapewni im dodatkową reputację. W miarę wzrostu tych wartości generowana jest coraz większa kultura, aż do osiągnięcia limitu. Premia kulturowa od mieszkańców tej samej osady jest jednak zmniejszana o 90%, więc większość wartości pochodzi od mieszkańców innych osad, którzy rozpowszechniają renomę danego dzieła. Dzięki temu opłaca się zdobywać renomę w danej osadzie, a następnie sprzedać lub przenieść dzieło do innej osady, gdzie będzie miało znacznie większą wartość, bo pochodzi z innego miejsca.
+
+    W obrębie jednej galerii widać malejące zyski z wystawiania obrazów tego samego artysty w całej nieruchomości. Żeby tego uniknąć, możesz zamiast tego pokazać kolekcję dzieł wielu różnych artystów.
+  </target>
       </trans-unit>
-      <trans-unit id="422">
+      <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ustawienia kulturowe</target>
       </trans-unit>
-      <trans-unit id="423">
+      <trans-unit id="423" xml:space="preserve">
         <source xml:space="preserve">
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Pierwszym krokiem do założenia nowej osady jest umieszczenie obiektu założycielskiego. Są to {TownFoundationItem}, {CountryFoundationItem} i {FederationFoundationItem}. Po umieszczeniu obiektu rozpocznie się tworzenie nowej, niezałożonej jeszcze osady, a gdy wszystkie wymagania zostaną spełnione, będzie można uruchomić ceremonię założycielską.
+</target>
       </trans-unit>
-      <trans-unit id="424">
+      <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Wymagania dotyczące założenia</target>
       </trans-unit>
-      <trans-unit id="425">
+      <trans-unit id="425" xml:space="preserve">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
 
     When placed, the plot beneath it will be claimed as property of this new settlement, with ownership assigned to the leader.  More plots can be claimed using the {ClaimToolItem} (right-click the item to select the settlement deed as the target).  This will allow you to claim land around the foundation and build a room that meets the requirements.
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Obywatel, który postawi fundament, zostanie pierwszym przywódcą miasta i otrzyma pewne specjalne przywileje, ale ta pozycja może się z czasem zmieniać w zależności od zasad obowiązujących w danym systemie rządów.
+
+    Po postawieniu fundamentu działka pod nim zostanie przejęta jako własność nowej osady, a prawo własności zostanie przypisane przywódcy.  Więcej działek można przejąć za pomocą {ClaimToolItem} (kliknij prawym przyciskiem myszy na przedmiot, aby wybrać akt własności osady jako cel).  Pozwoli ci to przejąć tereny wokół fundamentu i zbudować pomieszczenie spełniające wymagania.
+
+    Osady muszą mieć minimalną liczbę obywateli, minimalną liczbę podosad (np. państwo potrzebuje pewnej liczby miast, by się utworzyć) oraz minimalny poziom kultury we wszystkich podosadach.  W przypadku najniższego poziomu osady, czyli miasta, kultura i osady podrzędne nie są wymagane (ponieważ miasto nie może mieć osad podrzędnych – to najniższy poziom).  W zakładce „Mieszkańcy” obiektu założycielskiego przywódca może zapraszać i zatwierdzać kandydatów na mieszkańców, a inne osoby niebędące mieszkańcami mogą przyjmować zaproszenia i ubiegać się o status mieszkańca.min
+</target>
       </trans-unit>
-      <trans-unit id="426">
+      <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ratyfikacja konstytucji</target>
       </trans-unit>
-      <trans-unit id="427">
+      <trans-unit id="427" xml:space="preserve">
         <source xml:space="preserve">
     Once all the requirements are met, the election to ratify the settlement {Constitution} can begin.  On the Constitution tab, you can configure the constitution however you like, designing your government as you see fit (see Constitution guide). Once you click to start the voting, all current citizens of the settlement will be allowed to vote on it.  If it fails, you can make alterations and try again.
 
@@ -3557,11 +3765,21 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Gdy wszystkie wymagania zostaną spełnione, można rozpocząć wybory w celu ratyfikacji {Konstytucji} osady.  W zakładce „Konstytucja” możesz skonfigurować konstytucję tak, jak chcesz, projektując swój system rządów według własnego uznania (zobacz przewodnik po konstytucji). Po kliknięciu, by rozpocząć głosowanie, wszyscy obecni mieszkańcy osady będą mogli zagłosować.  Jeśli głosowanie się nie powiedzie, możesz wprowadzić zmiany i spróbować ponownie.
+
+    Jeśli chcesz, możesz dodać inne elementy ustrojowe już podczas zakładania osady – na przykład umieszczając sąd na początkowej działce osady, możesz stworzyć przepisy związane z osadą, które można poddać pod głosowanie razem z ratyfikacją konstytucji. W ten sposób możesz połączyć dowolną liczbę obiektów ustrojowych w jednym głosowaniu, jeśli chcesz, żeby twój rząd był od początku w pełni ukształtowany. Jeśli nie, zawsze możesz je dodać później w kolejnych głosowaniach.
+
+    Gdy wszystkie wymagania zostaną spełnione, a konstytucja ratyfikowana, osada jest gotowa do założenia! Kliknij przycisk w zakładce „Założenie” obiektu „Założenie”, aby rozpocząć ceremonię odsłonięcia, w której wszyscy twoi obywatele mogą wziąć udział, świętując początek nowej osady.
+
+    Po założeniu twoja osada zacznie generować {Wpływ}, wytwarzać {Własność osady} i otrzymywać {Kulturę}.
+  </target>
       </trans-unit>
-      <trans-unit id="428">
+      <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ustawienia założenia osady</target>
       </trans-unit>
-      <trans-unit id="429">
+      <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
     A settlement can have its rules about new Citizens defined in an {Immigration Policy}.
 
@@ -3569,24 +3787,39 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Osada może mieć własne zasady dotyczące nowych obywateli określone w {Polityce imigracyjnej}.
+
+    Każda osada ma zawsze przypisaną jedną politykę imigracyjną.  Początkowo jest to obiekt wbudowany w osadę, z domyślnymi ustawieniami pozwalającymi przywódcy zatwierdzać nowych obywateli, widoczny w podpowiedziach dotyczących osady.  Gdy w strefie wpływów tej osady umieścisz {ImmigrationDeskItem}, politykę tę można edytować.
+
+    Można ustalić wymagania, które trzeba spełnić i/lub utrzymać, żeby pozostać mieszkańcem osady. Żeby mieszkańcy mogli zostać lub pozostać mieszkańcami, muszą spełniać wszystkie te wymagania zarówno w osadzie, do której dołączają, jak i we wszystkich jej osadach macierzystych.
+  </target>
       </trans-unit>
-      <trans-unit id="430">
+      <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Reklama osady</target>
       </trans-unit>
-      <trans-unit id="431">
+      <trans-unit id="431" xml:space="preserve">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Gdy osada jest ustawiona tak, by pozwalać nowym graczom na natychmiastowe dołączenie, odblokowuje się specjalna funkcja. Nowi gracze, gdy po raz pierwszy rozpoczynają grę, zobaczą osadę na mapie wśród innych możliwych pozycji startowych, a także notatkę od osady (przypisaną w sekcji „Reklama” w polityce imigracyjnej). Gdy w ten sposób wejdą do świata i dołączą do twojej osady, automatycznie staną się obywatelami i zaczną grę na wyznaczonej pozycji obok obiektu „Biuro imigracyjne”.  Korzystanie z tej funkcji to świetny sposób na przyciągnięcie nowych graczy do twoich osad i rozbudowanie społeczności.
+  </target>
       </trans-unit>
-      <trans-unit id="432">
+      <trans-unit id="432" xml:space="preserve">
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Gdy osada zostanie {założona|założenie}, zacznie wywierać wpływ w promieniu wokół miejsca założenia. Każdy obszar znajdujący się pod jej wpływem będzie podlegał jej prawom i działaniom władz.
+  </target>
       </trans-unit>
-      <trans-unit id="433">
+      <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kultura generuje wpływy</target>
       </trans-unit>
-      <trans-unit id="434">
+      <trans-unit id="434" xml:space="preserve">
         <source xml:space="preserve">
     Influence can be extended with {Culture}. The higher the culture level of a property, the more influence it will cast for the owning settlement.  This allows you to expand your borders by increasing culture, or creating new cultural properties. There are limits, however, on the number of cultural properties and the max influence castable, so borders cannot be expanded indefinitely. Each level-up of settlement allows a farther range of influence to be cast, and more cultural properties to be created.
     
@@ -3594,26 +3827,43 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Wpływ można zwiększyć dzięki {Kulturze}. Im wyższy poziom kultury danej nieruchomości, tym większy wpływ wywiera ona na osadę, która jest jej właścicielem. Dzięki temu możesz poszerzać swoje granice, podnosząc poziom kultury lub tworząc nowe obiekty kulturowe. Istnieją jednak ograniczenia dotyczące liczby obiektów kulturowych i maksymalnego wpływu, jaki można wywrzeć, więc granic nie da się rozszerzać w nieskończoność. Każdy kolejny poziom osady pozwala na wywieranie wpływu na większym obszarze oraz tworzenie większej liczby obiektów kulturowych.
+    
+    Wpływ rozciąga się od średniej pozycji pomieszczeń na nieruchomości, ważonej wartościami tych nieruchomości.  
+
+    {Homesteads|HomesteadClaimStakeObject} to nieruchomości przeznaczone dla jednej osoby, powiązane z osadą, której właściciel jest obywatelem. Jeśli właściciel nie jest obywatelem żadnej osady, nieruchomość ta nie będzie podlegać wpływom żadnej z nich. Może to powodować luki w zasięgu wpływów miasta, gdy obywatele zrzekają się obywatelstwa, jednak potężna osada może przymusowo przejąć tę nieruchomość w ramach procesu {Annexation}.
+  </target>
       </trans-unit>
-      <trans-unit id="435">
+      <trans-unit id="435" xml:space="preserve">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Wiele osad mających wpływ na przebieg gry</target>
       </trans-unit>
-      <trans-unit id="436">
+      <trans-unit id="436" xml:space="preserve">
         <source xml:space="preserve">
     Each settlement level (Town, Country, Federation) has its own map of influence, and only one settlement of each type may influence a given plot (IE, two Towns cannot influence the same plot).  However, if a settlement is a sub-settlement of another settlement, then that parent will also cast influence on the plot (IE, a Country's influence will be cast everywhere its member town's influences are cast).  In plots influenced by more than one settlement in this way, the governments of all settlement will apply.
     
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Każdy poziom osady (Miasto, Kraj, Federacja) ma własną mapę wpływów, a na daną działkę może wpływać tylko jedna osada danego typu (np. dwa Miasta nie mogą wpływać na tę samą działkę). Jeśli jednak osada jest podległą częścią innej osady, to ta nadrzędna również będzie wywierać wpływ na działkę (np. wpływ Kraju będzie się rozciągał wszędzie tam, gdzie rozciąga się wpływ miast wchodzących w jego skład).  W przypadku działek, na które w ten sposób wpływa więcej niż jedna osada, będą obowiązywać systemy rządów wszystkich tych osad.
+    
+    Gdy dwie osady tego samego typu rywalizują o wpływ, ta położona bliżej wkracza głębiej w granice wpływu drugiej. Jednak każdy obszar, który został już zajęty, pozostanie pod wpływem tej samej osady, nawet jeśli w innym przypadku znalazłby się w granicach osady przeciwnej. Może to nawet doprowadzić do odłączenia się części osady i jej wchłonięcia przez inne osady.
+</target>
       </trans-unit>
-      <trans-unit id="437">
+      <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kontrola graniczna</target>
       </trans-unit>
-      <trans-unit id="438">
+      <trans-unit id="438" xml:space="preserve">
         <source xml:space="preserve">
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    W {Immigration Desk|ImmigrationDeskObject} władze osady mogą wyznaczyć sąsiednie gospodarstwa lub osady, które mogą zgłaszać roszczenia na terenach znajdujących się w zasięgu twojego wpływu. Jeśli sąsiad chce przejąć ziemię, na którą ma wpływ twoja osada (być może za opłatą), to właśnie w ten sposób możesz mu na to pozwolić.
+  </target>
       </trans-unit>
-      <trans-unit id="439">
+      <trans-unit id="439" xml:space="preserve">
         <source xml:space="preserve">
     A Property Crisis occurs when the number of Citizens in a settlement reduces such that there aren't enough Citizens to support the number of Claim Stakes and Claim Papers in use.
     
@@ -3628,11 +3878,26 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Kryzys własnościowy pojawia się, gdy liczba mieszkańców w osadzie spadnie tak bardzo, że nie wystarczy ich do obsługi wszystkich używanych słupków roszczeniowych i dokumentów roszczeniowych.
+    
+    Ponieważ osady generują słupki i dokumenty roszczeniowe, gdy dołączają do nich mieszkańcy, a usuwają je, gdy ci odchodzą, może się zdarzyć, że mieszkańcy odejdą i wywołają kryzys własnościowy, gdy na obiekcie „Fundacja Osady” nie ma już żadnych dostępnych słupków ani dokumentów do usunięcia.  Kiedy tak się stanie, uruchomi się licznik czasu, przed upływem którego obywatele muszą zwrócić potrzebną liczbę słupków i dokumentów do Fundacji Osady, wycofując swoje roszczenia lub zbierając je w dowolny sposób. Gdy słupki i dokumenty roszczeń zostaną umieszczone w Fundacji Osady podczas kryzysu własnościowego, zostaną natychmiast usunięte, a jeśli deficyt zostanie wyrównany, kryzys zakończy się natychmiast.
+
+    Jeśli obywatele nie są w stanie lub nie chcą zwrócić wymaganych udziałów i dokumentów przed upływem czasu, zostaną one zniszczone niezależnie od tego, gdzie się znajdują. Gdy kryzys nieruchomościowy się zakończy, nastąpią następujące przejęcia:
+    - Najpierw zniszczone zostaną roszczenia/udziały, które nie są w użyciu (np. te w plecaku obywatela).
+    - Następnie zniszczone zostaną udziały/roszczenia, które są w użyciu, jeśli deficyt nadal nie zostanie pokryty.
+    W obu etapach w pierwszej kolejności zniszczone zostaną roszczenia należące do porzuconych mieszkańców.
+
+    Dla osad bardzo ważne jest staranne zarządzanie populacją obywateli, aby zapobiec niedoborom. Dobrze jest trzymać część z nich w rezerwie i nie wykorzystywać ich od razu, albo dostosowywać liczbę obywateli, gdy zaczną odchodzić.
+
+    Obywatele, którzy trafią do kategorii „Porzuceni {grupa demograficzna}”, przestaną też przyczyniać się do generowania udziałów i dokumentów, co również może doprowadzić do kryzysu nieruchomościowego.
+  </target>
       </trans-unit>
-      <trans-unit id="440">
+      <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ustawienia kryzysu na rynku nieruchomości</target>
       </trans-unit>
-      <trans-unit id="441">
+      <trans-unit id="441" xml:space="preserve">
         <source xml:space="preserve">
     As more Citizens join a Settlement, more {Property} can be claimed, using Claim Stakes and Claim Papers associated with the settlement.
 
@@ -3640,15 +3905,25 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Im więcej obywateli dołącza do osady, tym więcej {nieruchomości} można przejąć, używając słupków i dokumentów przejęcia powiązanych z osadą.
+
+    Osada generuje te przedmioty w zależności od swojego poziomu, a dostępne są słupki przejęcia typu {TownClaimStakeItem}, {CountryClaimStakeItem} i {FederationClaimStakeItem}.  Będą one zajmować nieruchomości w imieniu osady, z którą są powiązane, a można je wzmocnić za pomocą {ClaimPaperItem}, by zająć więcej działek – wystarczy umieścić je w ekwipunku słupka roszczeniowego.
+
+    Jeśli obywatele odejdą, maksymalna liczba dozwolonych dokumentów roszczeniowych i słupków zmniejszy się i zostaną one usunięte z ekwipunku Fundacji Osady. Jeśli wszystkie są w użyciu i nie można ich zwrócić, nastąpi {Kryzys Nieruchomości}.
+  </target>
       </trans-unit>
-      <trans-unit id="442">
+      <trans-unit id="442" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Wnioski o wsparcie dla gospodarstw rolnych</target>
       </trans-unit>
-      <trans-unit id="443">
+      <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">W osadach będą też pojawiać się {Homestead Support Claims|HomesteadSupportClaimPaperItem}, które można przekazać lub sprzedać osobom niebędącym obywatelami. Dzięki tym dokumentom gospodarstwa, które nie są powiązane z żadną osadą, będą mogły przejąć więcej działek w dowolnym miejscu na mapie.  Zazwyczaj rolnicy z odległych, odizolowanych regionów, którzy chcą mieć większe gospodarstwa, będą ich szukać (wymieniając żywność lub pracę) w miastach na całym świecie. Stanowią one wsparcie ze strony osady, które służy ochronie nieruchomości poza jej granicami.</target>
       </trans-unit>
-      <trans-unit id="444">
+      <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ustawienia nieruchomości osady</target>
       </trans-unit>
     </body>
   </file>
