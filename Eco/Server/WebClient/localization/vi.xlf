@@ -2,539 +2,717 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="vi" datatype="plaintext" original="WebClientStrings">
     <body>
-      <trans-unit id="1">
+      <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">404 page not found</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Trang 404 không tìm thấy</target>
       </trans-unit>
-      <trans-unit id="2">
+      <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Allow Debug Calls</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cho phép các cuộc gọi gỡ lỗi</target>
       </trans-unit>
-      <trans-unit id="3">
+      <trans-unit id="3" xml:space="preserve">
         <source xml:space="preserve">Private Server</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Máy chủ riêng</target>
       </trans-unit>
-      <trans-unit id="4">
+      <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">White list</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Danh sách trắng</target>
       </trans-unit>
-      <trans-unit id="5">
+      <trans-unit id="5" xml:space="preserve">
         <source xml:space="preserve">Black list</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Danh sách đen</target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">Admin</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Quản trị viên</target>
       </trans-unit>
-      <trans-unit id="7">
+      <trans-unit id="7" xml:space="preserve">
         <source xml:space="preserve">Max Slots</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Số lượng người chơi tối đa</target>
       </trans-unit>
-      <trans-unit id="8">
+      <trans-unit id="8" xml:space="preserve">
         <source xml:space="preserve">Spawn location</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Vị trí xuất hiện</target>
       </trans-unit>
-      <trans-unit id="9">
+      <trans-unit id="9" xml:space="preserve">
         <source xml:space="preserve">Reputations</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Danh tiếng</target>
       </trans-unit>
-      <trans-unit id="10">
+      <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">Use Waste</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Sử dụng chất thải</target>
       </trans-unit>
-      <trans-unit id="11">
+      <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">Network Config</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cấu hình mạng</target>
       </trans-unit>
-      <trans-unit id="12">
+      <trans-unit id="12" xml:space="preserve">
         <source xml:space="preserve">Public server</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Máy chủ công cộng</target>
       </trans-unit>
-      <trans-unit id="13">
+      <trans-unit id="13" xml:space="preserve">
         <source xml:space="preserve">IP address</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Địa chỉ IP</target>
       </trans-unit>
-      <trans-unit id="14">
+      <trans-unit id="14" xml:space="preserve">
         <source xml:space="preserve">Game server port</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cổng máy chủ trò chơi</target>
       </trans-unit>
-      <trans-unit id="15">
+      <trans-unit id="15" xml:space="preserve">
         <source xml:space="preserve">Web server port</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cổng máy chủ web</target>
       </trans-unit>
-      <trans-unit id="16">
+      <trans-unit id="16" xml:space="preserve">
         <source xml:space="preserve">Rate</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đánh giá</target>
       </trans-unit>
-      <trans-unit id="17">
+      <trans-unit id="17" xml:space="preserve">
         <source xml:space="preserve">Server browser service</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Dịch vụ duyệt máy chủ</target>
       </trans-unit>
-      <trans-unit id="18">
+      <trans-unit id="18" xml:space="preserve">
         <source xml:space="preserve">SAVE</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">LƯU</target>
       </trans-unit>
-      <trans-unit id="19">
+      <trans-unit id="19" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect Explorer</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Trình khám phá nguyên nhân và hậu quả (&amp;)</target>
       </trans-unit>
-      <trans-unit id="20">
+      <trans-unit id="20" xml:space="preserve">
         <source xml:space="preserve">Select Category</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chọn thể loại</target>
       </trans-unit>
-      <trans-unit id="21">
+      <trans-unit id="21" xml:space="preserve">
         <source xml:space="preserve">Select Layer</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chọn Lớp</target>
       </trans-unit>
-      <trans-unit id="22">
+      <trans-unit id="22" xml:space="preserve">
         <source xml:space="preserve">Maps showing 400 square meters centered at 50</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bản đồ hiển thị khu vực 400 mét vuông với tâm tại tọa độ 50</target>
       </trans-unit>
-      <trans-unit id="23">
+      <trans-unit id="23" xml:space="preserve">
         <source xml:space="preserve">Eco Elections</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cuộc bầu cử trong Eco</target>
       </trans-unit>
-      <trans-unit id="24">
+      <trans-unit id="24" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu or you can run for office</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chọn một cuộc bầu cử từ menu hoặc cậu có thể tự ứng cử vào các chức vụ</target>
       </trans-unit>
-      <trans-unit id="25">
+      <trans-unit id="25" xml:space="preserve">
         <source xml:space="preserve">Candidates</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các ứng cử viên</target>
       </trans-unit>
-      <trans-unit id="26">
+      <trans-unit id="26" xml:space="preserve">
         <source xml:space="preserve">Elected officials receive 15 property claims</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các quan chức được bầu sẽ nhận được 15 quyền sở hữu tài sản</target>
       </trans-unit>
-      <trans-unit id="27">
+      <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Khi xây dựng được Kho bạc, họ có thể thiết lập các loại thuế (tính năng đang được phát triển)</target>
       </trans-unit>
-      <trans-unit id="28">
+      <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cuộc bầu cử này sử dụng</target>
       </trans-unit>
-      <trans-unit id="29">
+      <trans-unit id="29" xml:space="preserve">
         <source xml:space="preserve">Instant Runoff Voting</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hệ thống bỏ phiếu loại trừ tức thì</target>
       </trans-unit>
-      <trans-unit id="30">
+      <trans-unit id="30" xml:space="preserve">
         <source xml:space="preserve">Submit Vote</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Gửi phiếu bầu</target>
       </trans-unit>
-      <trans-unit id="31">
+      <trans-unit id="31" xml:space="preserve">
         <source xml:space="preserve">Run For Office</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ra tranh cử</target>
       </trans-unit>
-      <trans-unit id="32">
+      <trans-unit id="32" xml:space="preserve">
         <source xml:space="preserve">Remove Self</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Xóa bản thân</target>
       </trans-unit>
-      <trans-unit id="33">
+      <trans-unit id="33" xml:space="preserve">
         <source xml:space="preserve">Current Results</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kết quả hiện tại</target>
       </trans-unit>
-      <trans-unit id="34">
+      <trans-unit id="34" xml:space="preserve">
         <source xml:space="preserve">No one has voted yet</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chưa có ai bình chọn cả</target>
       </trans-unit>
-      <trans-unit id="35">
+      <trans-unit id="35" xml:space="preserve">
         <source xml:space="preserve">Votes per round</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Số phiếu bầu mỗi vòng</target>
       </trans-unit>
-      <trans-unit id="36">
+      <trans-unit id="36" xml:space="preserve">
         <source xml:space="preserve">View All Votes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Xem tất cả các lượt bình chọn</target>
       </trans-unit>
-      <trans-unit id="37">
+      <trans-unit id="37" xml:space="preserve">
         <source xml:space="preserve">Discussion</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thảo luận</target>
       </trans-unit>
-      <trans-unit id="38">
+      <trans-unit id="38" xml:space="preserve">
         <source xml:space="preserve">Day</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ngày</target>
       </trans-unit>
-      <trans-unit id="39">
+      <trans-unit id="39" xml:space="preserve">
         <source xml:space="preserve">Enter your response</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Nhập câu trả lời của cậu</target>
       </trans-unit>
-      <trans-unit id="40">
+      <trans-unit id="40" xml:space="preserve">
         <source xml:space="preserve">Remove Graph</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Xóa biểu đồ</target>
       </trans-unit>
-      <trans-unit id="41">
+      <trans-unit id="41" xml:space="preserve">
         <source xml:space="preserve">Remove Map</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Xóa bản đồ</target>
       </trans-unit>
-      <trans-unit id="42">
+      <trans-unit id="42" xml:space="preserve">
         <source xml:space="preserve">Submit</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Gửi</target>
       </trans-unit>
-      <trans-unit id="43">
+      <trans-unit id="43" xml:space="preserve">
         <source xml:space="preserve">Cancel</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hủy</target>
       </trans-unit>
-      <trans-unit id="44">
+      <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Để bắt đầu một cuộc bầu cử mới, cậu phải đăng ký bản thân làm ứng cử viên</target>
       </trans-unit>
-      <trans-unit id="45">
+      <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hãy giải thích lý do tại sao cậu nên được bầu chọn</target>
       </trans-unit>
-      <trans-unit id="46">
+      <trans-unit id="46" xml:space="preserve">
         <source xml:space="preserve">Enter Your Speech</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Nhập bài phát biểu của cậu</target>
       </trans-unit>
-      <trans-unit id="49">
+      <trans-unit id="49" xml:space="preserve">
         <source xml:space="preserve">Scientific Data</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Dữ liệu khoa học</target>
       </trans-unit>
-      <trans-unit id="50">
+      <trans-unit id="50" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Nguyên nhân &amp; Hậu quả</target>
       </trans-unit>
-      <trans-unit id="51">
+      <trans-unit id="51" xml:space="preserve">
         <source xml:space="preserve">Run For Office</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ra tranh cử</target>
       </trans-unit>
-      <trans-unit id="52">
+      <trans-unit id="52" xml:space="preserve">
         <source xml:space="preserve">Current Election</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cuộc bầu cử hiện tại</target>
       </trans-unit>
-      <trans-unit id="53">
+      <trans-unit id="53" xml:space="preserve">
         <source xml:space="preserve">Previous Elections</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các cuộc bầu cử trước đây</target>
       </trans-unit>
-      <trans-unit id="56">
+      <trans-unit id="56" xml:space="preserve">
         <source xml:space="preserve">Active Laws</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các luật đang có hiệu lực</target>
       </trans-unit>
-      <trans-unit id="57">
+      <trans-unit id="57" xml:space="preserve">
         <source xml:space="preserve">Proposed Laws</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các dự luật được đề xuất</target>
       </trans-unit>
-      <trans-unit id="59">
+      <trans-unit id="59" xml:space="preserve">
         <source xml:space="preserve">Select Map Layer</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chọn lớp bản đồ</target>
       </trans-unit>
-      <trans-unit id="60">
+      <trans-unit id="60" xml:space="preserve">
         <source xml:space="preserve">Data</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Dữ liệu</target>
       </trans-unit>
-      <trans-unit id="61">
+      <trans-unit id="61" xml:space="preserve">
         <source xml:space="preserve">Graph</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Biểu đồ</target>
       </trans-unit>
-      <trans-unit id="62">
+      <trans-unit id="62" xml:space="preserve">
         <source xml:space="preserve">Lines</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các dòng</target>
       </trans-unit>
-      <trans-unit id="63">
+      <trans-unit id="63" xml:space="preserve">
         <source xml:space="preserve">Bars</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thanh</target>
       </trans-unit>
-      <trans-unit id="64">
+      <trans-unit id="64" xml:space="preserve">
         <source xml:space="preserve">Day</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Ngày</target>
       </trans-unit>
-      <trans-unit id="65">
+      <trans-unit id="65" xml:space="preserve">
         <source xml:space="preserve">View the global effects that shape this world and how they influence each other</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hãy quan sát những tác động toàn cầu định hình thế giới này và cách chúng ảnh hưởng lẫn nhau</target>
       </trans-unit>
-      <trans-unit id="66">
+      <trans-unit id="66" xml:space="preserve">
         <source xml:space="preserve">Select a category above and use the time bar at the bottom to scroll through history</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chọn một danh mục ở trên và dùng thanh thời gian ở dưới cùng để lướt qua lịch sử</target>
       </trans-unit>
-      <trans-unit id="67">
+      <trans-unit id="67" xml:space="preserve">
         <source xml:space="preserve">Cause &amp; Effect Exploration</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Nguyên nhân – Hậu quả – Khám phá (&amp;)</target>
       </trans-unit>
-      <trans-unit id="68">
+      <trans-unit id="68" xml:space="preserve">
         <source xml:space="preserve">Users Config</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cài đặt người dùng</target>
       </trans-unit>
-      <trans-unit id="69">
+      <trans-unit id="69" xml:space="preserve">
         <source xml:space="preserve">Require Authentication</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Yêu cầu xác thực</target>
       </trans-unit>
-      <trans-unit id="70">
+      <trans-unit id="70" xml:space="preserve">
         <source xml:space="preserve">days/sec</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">ngày/giây</target>
       </trans-unit>
-      <trans-unit id="71">
+      <trans-unit id="71" xml:space="preserve">
         <source xml:space="preserve">In-Game Actions</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các hành động trong trò chơi</target>
       </trans-unit>
-      <trans-unit id="72">
+      <trans-unit id="72" xml:space="preserve">
         <source xml:space="preserve">Eco Laws</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Luật lệ trong Eco</target>
       </trans-unit>
-      <trans-unit id="73">
+      <trans-unit id="73" xml:space="preserve">
         <source xml:space="preserve">Select a law from the menu</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chọn một đạo luật từ menu</target>
       </trans-unit>
-      <trans-unit id="74">
+      <trans-unit id="74" xml:space="preserve">
         <source xml:space="preserve">Law Info</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thông tin về luật</target>
       </trans-unit>
-      <trans-unit id="75">
+      <trans-unit id="75" xml:space="preserve">
         <source xml:space="preserve">Reasoning</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Lý do</target>
       </trans-unit>
-      <trans-unit id="76">
+      <trans-unit id="76" xml:space="preserve">
         <source xml:space="preserve">Current Results</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kết quả hiện tại</target>
       </trans-unit>
-      <trans-unit id="77">
+      <trans-unit id="77" xml:space="preserve">
         <source xml:space="preserve">This law was passed</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đạo luật này đã được thông qua</target>
       </trans-unit>
-      <trans-unit id="78">
+      <trans-unit id="78" xml:space="preserve">
         <source xml:space="preserve">Yes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đúng vậy</target>
       </trans-unit>
-      <trans-unit id="79">
+      <trans-unit id="79" xml:space="preserve">
         <source xml:space="preserve">No</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Không</target>
       </trans-unit>
-      <trans-unit id="80">
+      <trans-unit id="80" xml:space="preserve">
         <source xml:space="preserve">Add Graph</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thêm biểu đồ</target>
       </trans-unit>
-      <trans-unit id="81">
+      <trans-unit id="81" xml:space="preserve">
         <source xml:space="preserve">Add Map</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thêm bản đồ</target>
       </trans-unit>
-      <trans-unit id="82">
+      <trans-unit id="82" xml:space="preserve">
         <source xml:space="preserve">Cancel</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hủy</target>
       </trans-unit>
-      <trans-unit id="83">
+      <trans-unit id="83" xml:space="preserve">
         <source xml:space="preserve">Name of Law</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tên của luật</target>
       </trans-unit>
-      <trans-unit id="84">
+      <trans-unit id="84" xml:space="preserve">
         <source xml:space="preserve">Add Districts</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thêm các khu vực</target>
       </trans-unit>
-      <trans-unit id="85">
+      <trans-unit id="85" xml:space="preserve">
         <source xml:space="preserve">Remove Districts</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Xóa các khu vực</target>
       </trans-unit>
-      <trans-unit id="86">
+      <trans-unit id="86" xml:space="preserve">
         <source xml:space="preserve">Add New District</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thêm khu vực mới</target>
       </trans-unit>
-      <trans-unit id="87">
+      <trans-unit id="87" xml:space="preserve">
         <source xml:space="preserve">Hold right click to draw district</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Nhấn và giữ chuột phải để vẽ khu vực</target>
       </trans-unit>
-      <trans-unit id="88">
+      <trans-unit id="88" xml:space="preserve">
         <source xml:space="preserve">Reasoning</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Lý do</target>
       </trans-unit>
-      <trans-unit id="89">
+      <trans-unit id="89" xml:space="preserve">
         <source xml:space="preserve">Propose Law</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đề xuất luật</target>
       </trans-unit>
-      <trans-unit id="90">
+      <trans-unit id="90" xml:space="preserve">
         <source xml:space="preserve">Layer Select Dropdown</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Menu thả xuống Chọn Lớp</target>
       </trans-unit>
-      <trans-unit id="91">
+      <trans-unit id="91" xml:space="preserve">
         <source xml:space="preserve">Terrain</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Địa hình</target>
       </trans-unit>
-      <trans-unit id="92">
+      <trans-unit id="92" xml:space="preserve">
         <source xml:space="preserve">Temperature</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Nhiệt độ</target>
       </trans-unit>
-      <trans-unit id="93">
+      <trans-unit id="93" xml:space="preserve">
         <source xml:space="preserve">Height</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chiều cao</target>
       </trans-unit>
-      <trans-unit id="94">
+      <trans-unit id="94" xml:space="preserve">
         <source xml:space="preserve">unity could send a full list of options to the dropdown later</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Unity có thể gửi danh sách đầy đủ các tùy chọn vào menu thả xuống sau này</target>
       </trans-unit>
-      <trans-unit id="95">
+      <trans-unit id="95" xml:space="preserve">
         <source xml:space="preserve">Layer Select by Name or Number</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chọn lớp theo tên hoặc số</target>
       </trans-unit>
-      <trans-unit id="96">
+      <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Phần tranh luận về luật pháp sẽ được đưa vào đây; sau này có thể điều chỉnh kích thước bản đồ để phù hợp hơn với nội dung văn bản</target>
       </trans-unit>
-      <trans-unit id="97">
+      <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tiến độ học tập của học sinh</target>
       </trans-unit>
-      <trans-unit id="98">
+      <trans-unit id="98" xml:space="preserve">
         <source xml:space="preserve">There are no districts set yet</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hiện tại vẫn chưa có khu vực nào được thiết lập</target>
       </trans-unit>
-      <trans-unit id="99">
+      <trans-unit id="99" xml:space="preserve">
         <source xml:space="preserve">Active Districts</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các khu vực đang hoạt động</target>
       </trans-unit>
-      <trans-unit id="100">
+      <trans-unit id="100" xml:space="preserve">
         <source xml:space="preserve">Candidate Ranks For Each Year</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Xếp hạng ứng cử viên cho từng năm</target>
       </trans-unit>
-      <trans-unit id="101">
+      <trans-unit id="101" xml:space="preserve">
         <source xml:space="preserve">No Active Laws</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Không có luật nào đang có hiệu lực</target>
       </trans-unit>
-      <trans-unit id="102">
+      <trans-unit id="102" xml:space="preserve">
         <source xml:space="preserve">No Proposed Laws</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chưa có dự luật nào được đề xuất</target>
       </trans-unit>
-      <trans-unit id="103">
+      <trans-unit id="103" xml:space="preserve">
         <source xml:space="preserve">Online Players</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Người chơi trực tuyến</target>
       </trans-unit>
-      <trans-unit id="104">
+      <trans-unit id="104" xml:space="preserve">
         <source xml:space="preserve">Time</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thời gian</target>
       </trans-unit>
-      <trans-unit id="105">
+      <trans-unit id="105" xml:space="preserve">
         <source xml:space="preserve">Meteor Impact</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Va chạm thiên thạch</target>
       </trans-unit>
-      <trans-unit id="106">
+      <trans-unit id="106" xml:space="preserve">
         <source xml:space="preserve">Plants</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thực vật</target>
       </trans-unit>
-      <trans-unit id="107">
+      <trans-unit id="107" xml:space="preserve">
         <source xml:space="preserve">World Size</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Quy mô thế giới</target>
       </trans-unit>
-      <trans-unit id="108">
+      <trans-unit id="108" xml:space="preserve">
         <source xml:space="preserve">Pre-Made Graphs</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Biểu đồ có sẵn</target>
       </trans-unit>
-      <trans-unit id="109">
+      <trans-unit id="109" xml:space="preserve">
         <source xml:space="preserve">My Saved Graphs</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các biểu đồ tớ đã lưu</target>
       </trans-unit>
-      <trans-unit id="110">
+      <trans-unit id="110" xml:space="preserve">
         <source xml:space="preserve">OK</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">OK</target>
       </trans-unit>
-      <trans-unit id="111">
+      <trans-unit id="111" xml:space="preserve">
         <source xml:space="preserve">Doing Something...</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đang thực hiện...</target>
       </trans-unit>
-      <trans-unit id="112">
+      <trans-unit id="112" xml:space="preserve">
         <source xml:space="preserve">Some information for you to read!</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Một số thông tin dành cho cậu đây!</target>
       </trans-unit>
-      <trans-unit id="113">
+      <trans-unit id="113" xml:space="preserve">
         <source xml:space="preserve">Datasets</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bộ dữ liệu</target>
       </trans-unit>
-      <trans-unit id="114">
+      <trans-unit id="114" xml:space="preserve">
         <source xml:space="preserve">Clear Categories</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Xóa các danh mục</target>
       </trans-unit>
-      <trans-unit id="115">
+      <trans-unit id="115" xml:space="preserve">
         <source xml:space="preserve">Curves</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đường cong</target>
       </trans-unit>
-      <trans-unit id="116">
+      <trans-unit id="116" xml:space="preserve">
         <source xml:space="preserve">Pie</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Pie</target>
       </trans-unit>
-      <trans-unit id="117">
+      <trans-unit id="117" xml:space="preserve">
         <source xml:space="preserve">Loading</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đang tải</target>
       </trans-unit>
-      <trans-unit id="118">
+      <trans-unit id="118" xml:space="preserve">
         <source xml:space="preserve">Populations</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Dân số</target>
       </trans-unit>
-      <trans-unit id="119">
+      <trans-unit id="119" xml:space="preserve">
         <source xml:space="preserve">Player Skill Progress</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Sự tiến bộ về kỹ năng của người chơi</target>
       </trans-unit>
-      <trans-unit id="120">
+      <trans-unit id="120" xml:space="preserve">
         <source xml:space="preserve">Polution Progress</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tiến trình ô nhiễm</target>
       </trans-unit>
-      <trans-unit id="121">
+      <trans-unit id="121" xml:space="preserve">
         <source xml:space="preserve">A graph with that title already exists! Choose a unique title for your graph.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đã có một biểu đồ mang tên đó rồi! Hãy chọn một tiêu đề độc đáo cho biểu đồ của cậu nhé.</target>
       </trans-unit>
-      <trans-unit id="122">
+      <trans-unit id="122" xml:space="preserve">
         <source xml:space="preserve">Please add a dataset to your graph before saving.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hãy thêm một bộ dữ liệu vào biểu đồ của cậu trước khi lưu nhé.</target>
       </trans-unit>
-      <trans-unit id="123">
+      <trans-unit id="123" xml:space="preserve">
         <source xml:space="preserve">Graph copied. Type a unique name and save it.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đã sao chép biểu đồ. Hãy nhập một tên duy nhất và lưu lại nhé.</target>
       </trans-unit>
-      <trans-unit id="124">
+      <trans-unit id="124" xml:space="preserve">
         <source xml:space="preserve">Do you want to save your changes before proceeding?</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cậu có muốn lưu lại những thay đổi của mình trước khi tiếp tục không?</target>
       </trans-unit>
-      <trans-unit id="125">
+      <trans-unit id="125" xml:space="preserve">
         <source xml:space="preserve">Don't Save</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đừng lưu</target>
       </trans-unit>
-      <trans-unit id="126">
+      <trans-unit id="126" xml:space="preserve">
         <source xml:space="preserve">Server</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Máy chủ</target>
       </trans-unit>
-      <trans-unit id="127">
+      <trans-unit id="127" xml:space="preserve">
         <source xml:space="preserve">User</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Người dùng</target>
       </trans-unit>
-      <trans-unit id="128">
+      <trans-unit id="128" xml:space="preserve">
         <source xml:space="preserve">Delete Proposal</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Xóa đề xuất</target>
       </trans-unit>
-      <trans-unit id="129">
+      <trans-unit id="129" xml:space="preserve">
         <source xml:space="preserve">Rank the candidates from best to worst.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hãy xếp hạng các ứng cử viên từ tốt nhất đến tệ nhất nhé.</target>
       </trans-unit>
-      <trans-unit id="130">
+      <trans-unit id="130" xml:space="preserve">
         <source xml:space="preserve">Update Vote</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bỏ phiếu cập nhật</target>
       </trans-unit>
-      <trans-unit id="131">
+      <trans-unit id="131" xml:space="preserve">
         <source xml:space="preserve">Round</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Vòng chơi</target>
       </trans-unit>
-      <trans-unit id="132">
+      <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Total</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tổng cộng</target>
       </trans-unit>
-      <trans-unit id="133">
+      <trans-unit id="133" xml:space="preserve">
         <source xml:space="preserve">Candidates Ranked</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Xếp hạng các ứng cử viên</target>
       </trans-unit>
-      <trans-unit id="134">
+      <trans-unit id="134" xml:space="preserve">
         <source xml:space="preserve">All Votes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tất cả các phiếu bầu</target>
       </trans-unit>
-      <trans-unit id="135">
+      <trans-unit id="135" xml:space="preserve">
         <source xml:space="preserve">Voters</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cử tri</target>
       </trans-unit>
-      <trans-unit id="136">
+      <trans-unit id="136" xml:space="preserve">
         <source xml:space="preserve">Current Events</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Sự kiện hiện tại</target>
       </trans-unit>
-      <trans-unit id="137">
+      <trans-unit id="137" xml:space="preserve">
         <source xml:space="preserve">Government Activity</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hoạt động của Chính phủ</target>
       </trans-unit>
-      <trans-unit id="138">
+      <trans-unit id="138" xml:space="preserve">
         <source xml:space="preserve">User Activity</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hoạt động của người dùng</target>
       </trans-unit>
-      <trans-unit id="139">
+      <trans-unit id="139" xml:space="preserve">
         <source xml:space="preserve">Citizen Activity</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hoạt động của công dân</target>
       </trans-unit>
-      <trans-unit id="140">
+      <trans-unit id="140" xml:space="preserve">
         <source xml:space="preserve">No Previous Elections</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chưa từng có cuộc bầu cử nào trước đây</target>
       </trans-unit>
-      <trans-unit id="141">
+      <trans-unit id="141" xml:space="preserve">
         <source xml:space="preserve">Server version</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Phiên bản máy chủ</target>
       </trans-unit>
-      <trans-unit id="142">
+      <trans-unit id="142" xml:space="preserve">
         <source xml:space="preserve">Clauses</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các điều khoản</target>
       </trans-unit>
-      <trans-unit id="143">
+      <trans-unit id="143" xml:space="preserve">
         <source xml:space="preserve">hr</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">hr</target>
       </trans-unit>
-      <trans-unit id="144">
+      <trans-unit id="144" xml:space="preserve">
         <source xml:space="preserve">min</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">min</target>
       </trans-unit>
-      <trans-unit id="145">
+      <trans-unit id="145" xml:space="preserve">
         <source xml:space="preserve">sec</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">sec</target>
       </trans-unit>
-      <trans-unit id="147">
+      <trans-unit id="147" xml:space="preserve">
         <source xml:space="preserve">Projected result</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kết quả dự kiến</target>
       </trans-unit>
-      <trans-unit id="148">
+      <trans-unit id="148" xml:space="preserve">
         <source xml:space="preserve">Vote</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bỏ phiếu</target>
       </trans-unit>
-      <trans-unit id="149">
+      <trans-unit id="149" xml:space="preserve">
         <source xml:space="preserve">Votes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Số phiếu bầu</target>
       </trans-unit>
-      <trans-unit id="150">
+      <trans-unit id="150" xml:space="preserve">
         <source xml:space="preserve">Vote ends in</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thời gian bỏ phiếu kết thúc trong</target>
       </trans-unit>
-      <trans-unit id="151">
+      <trans-unit id="151" xml:space="preserve">
         <source xml:space="preserve">Title</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tiêu đề</target>
       </trans-unit>
-      <trans-unit id="152">
+      <trans-unit id="152" xml:space="preserve">
         <source xml:space="preserve">Winner</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Người chiến thắng</target>
       </trans-unit>
-      <trans-unit id="153">
+      <trans-unit id="153" xml:space="preserve">
         <source xml:space="preserve">Ended</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Đã kết thúc</target>
       </trans-unit>
-      <trans-unit id="154">
+      <trans-unit id="154" xml:space="preserve">
         <source xml:space="preserve">ago</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">trước đây</target>
       </trans-unit>
-      <trans-unit id="155">
+      <trans-unit id="155" xml:space="preserve">
         <source xml:space="preserve">days</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">ngày</target>
       </trans-unit>
-      <trans-unit id="156">
+      <trans-unit id="156" xml:space="preserve">
         <source xml:space="preserve">hrs</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">giờ</target>
       </trans-unit>
-      <trans-unit id="157">
+      <trans-unit id="157" xml:space="preserve">
         <source xml:space="preserve">mins</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">phút</target>
       </trans-unit>
-      <trans-unit id="158">
+      <trans-unit id="158" xml:space="preserve">
         <source xml:space="preserve">in the last hour</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">trong giờ vừa qua</target>
       </trans-unit>
-      <trans-unit id="159">
+      <trans-unit id="159" xml:space="preserve">
         <source xml:space="preserve">The winner was</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Người chiến thắng là</target>
       </trans-unit>
-      <trans-unit id="160">
+      <trans-unit id="160" xml:space="preserve">
         <source xml:space="preserve">Law</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Luật pháp</target>
       </trans-unit>
-      <trans-unit id="161">
+      <trans-unit id="161" xml:space="preserve">
         <source xml:space="preserve">Compare Maps</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">So sánh bản đồ</target>
       </trans-unit>
-      <trans-unit id="162">
+      <trans-unit id="162" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các quan chức được bầu cử</target>
       </trans-unit>
-      <trans-unit id="163">
+      <trans-unit id="163" xml:space="preserve">
         <source xml:space="preserve">Running Elections</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tổ chức bầu cử</target>
       </trans-unit>
-      <trans-unit id="164">
+      <trans-unit id="164" xml:space="preserve">
         <source xml:space="preserve">No Running Elections</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Không tổ chức bầu cử</target>
       </trans-unit>
-      <trans-unit id="165">
+      <trans-unit id="165" xml:space="preserve">
         <source xml:space="preserve">Elected Officials</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các quan chức được bầu cử</target>
       </trans-unit>
-      <trans-unit id="167">
+      <trans-unit id="167" xml:space="preserve">
         <source xml:space="preserve">Title Holders</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Những người giữ danh hiệu</target>
       </trans-unit>
-      <trans-unit id="168">
+      <trans-unit id="168" xml:space="preserve">
         <source xml:space="preserve">Status</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tình trạng</target>
       </trans-unit>
-      <trans-unit id="169">
+      <trans-unit id="169" xml:space="preserve">
         <source xml:space="preserve">Election Info</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Thông tin về bầu cử</target>
       </trans-unit>
-      <trans-unit id="170">
+      <trans-unit id="170" xml:space="preserve">
         <source xml:space="preserve">Since</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Vì</target>
       </trans-unit>
-      <trans-unit id="171">
+      <trans-unit id="171" xml:space="preserve">
         <source xml:space="preserve">Submitting</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Gửi</target>
       </trans-unit>
-      <trans-unit id="172">
+      <trans-unit id="172" xml:space="preserve">
         <source xml:space="preserve">Your vote has been counted</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Phiếu bầu của cậu đã được tính</target>
       </trans-unit>
-      <trans-unit id="173">
+      <trans-unit id="173" xml:space="preserve">
         <source xml:space="preserve">Voting will end in</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cuộc bỏ phiếu sẽ kết thúc vào</target>
       </trans-unit>
-      <trans-unit id="174">
+      <trans-unit id="174" xml:space="preserve">
         <source xml:space="preserve">choice</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">lựa chọn</target>
       </trans-unit>
-      <trans-unit id="175">
+      <trans-unit id="175" xml:space="preserve">
         <source xml:space="preserve">No Active Titles</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Không có tựa game nào đang hoạt động</target>
       </trans-unit>
-      <trans-unit id="176">
+      <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Các biểu đồ web sẽ xuất hiện sau lần mô phỏng đầu tiên</target>
       </trans-unit>
-      <trans-unit id="177">
+      <trans-unit id="177" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Cuộc tranh luận về luật pháp sẽ diễn ra ở đây</target>
       </trans-unit>
-      <trans-unit id="178">
+      <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Không có thiên thạch</target>
       </trans-unit>
-      <trans-unit id="179">
+      <trans-unit id="179" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Chọn một cuộc bầu cử từ menu</target>
       </trans-unit>
-      <trans-unit id="180">
+      <trans-unit id="180" xml:space="preserve">
         <source xml:space="preserve">The meteor was destroyed</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tiểu hành tinh đã bị phá hủy</target>
       </trans-unit>
-      <trans-unit id="181">
+      <trans-unit id="181" xml:space="preserve">
         <source xml:space="preserve">There have been no elections yet</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Hiện tại vẫn chưa có cuộc bầu cử nào diễn ra</target>
       </trans-unit>
-      <trans-unit id="182">
+      <trans-unit id="182" xml:space="preserve">
         <source xml:space="preserve">To start a new election</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Để bắt đầu một cuộc bầu cử mới</target>
       </trans-unit>
-      <trans-unit id="183">
+      <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">TwitchVotes</target>
       </trans-unit>
-      <trans-unit id="184">
+      <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Lượt bình chọn của người dùng</target>
       </trans-unit>
-      <trans-unit id="185">
+      <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Khi một Kho bạc được xây dựng</target>
       </trans-unit>
     </body>
   </file>
