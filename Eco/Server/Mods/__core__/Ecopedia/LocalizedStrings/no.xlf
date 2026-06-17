@@ -2,35 +2,39 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="no" datatype="plaintext" original="EcopediaStrings">
     <body>
-      <trans-unit id="0">
-        <source xml:space="preserve">Components related to the economy.
-</source>
+      <trans-unit id="0" xml:space="preserve">
+        <source xml:space="preserve">Components related to the economy.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Komponenter knyttet til økonomien.</target>
       </trans-unit>
-      <trans-unit id="1">
-        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.
-</source>
+      <trans-unit id="1" xml:space="preserve">
+        <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bankkomponenten er der {bankkontoer} opprettes og administreres. Innbyggere kan opprette flere kontoer for seg selv eller dele kontoer med andre innbyggere. Kontoer kan også tilordnes {titler} og {demografiske grupper}.</target>
       </trans-unit>
-      <trans-unit id="2">
+      <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Account Users can perform transactions using the account (adding and removing funds).
 
 Account Managers can change the users in both the manager list and the user list, rename the account, and perform transactions. 
 
-In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.
-</source>
+In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kontobrukere kan utføre transaksjoner ved hjelp av kontoen (sette inn og ta ut midler).
+
+Kontoadministratorer kan endre brukerne både i administratorlisten og brukerlisten, gi kontoen nytt navn og utføre transaksjoner. 
+
+I de avanserte innstillingene kan du angi kontoen som en regjeringskonto.  Regjeringskontoer kan motta og utbetale skattemidler, og blir ignorert ved innkreving av skatt og beregning av personlig formue. For å angi dette må du ha regjeringsbankrettigheter, tildelt av en {valgt tittel|valgte titler}.</target>
       </trans-unit>
-      <trans-unit id="3">
-        <source xml:space="preserve">The Bank component is used to create and manage bank accounts
-</source>
+      <trans-unit id="3" xml:space="preserve">
+        <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bankmodulen brukes til å opprette og administrere bankkontoer</target>
       </trans-unit>
-      <trans-unit id="4">
-        <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.
-</source>
+      <trans-unit id="4" xml:space="preserve">
+        <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kontraktstavle-komponenten lar innbyggerne legge ut og godta {kontrakter} og {arbeidsgrupper}, noe som muliggjør tvangsarbeid og andre avtaler mellom innbyggerne.</target>
       </trans-unit>
-      <trans-unit id="5">
-        <source xml:space="preserve">Setting Up a Contract
-</source>
+      <trans-unit id="5" xml:space="preserve">
+        <source xml:space="preserve">Setting Up a Contract</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Opprette en kontrakt</target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">
 When posting a contract, it may have as many or as few clauses as desired, and each clause can be configured to describe the job requested.  Each clause must be satisfied before the contract is considered complete.
 
@@ -43,24 +47,42 @@ When auto-detection is unchecked, the contractor will click 'Job Finished' when 
 Contracts have a set time length they must be completed within, determined when posting the contract. In addition, contracts can be set to repeat for recurring jobs. When this is enabled, each time a contract is accepted, repetition counter will be reduced by one.
 
 Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract is completed successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure.
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Når du legger ut en kontrakt, kan den ha så mange eller så få klausuler som ønsket, og hver klausul kan konfigureres for å beskrive oppdraget som etterspørres.  Hver klausul må oppfylles før kontrakten regnes som fullført.
+
+Når «Auto-Accept» er merket av, registreres fullføring av kontrakter automatisk av systemet.  Hvis en kontrakt for eksempel går ut på å bygge en vei mellom to punkter, kan entreprenøren som utfører arbeidet åpne kontrakten i sidemenyen og trykke på «Job Finished», noe som vil utløse en registrering av om oppdraget faktisk er fullført. I så fall vil kontrakten bli utbetalt i henhold til avtalen og automatisk avsluttet.
+
+«Spesialklausulen» er en spesiell klausul som lar spillerne beskrive med egne ord hva de ønsker å få utført. Hvis en kontrakt inneholder en slik klausul, må den godkjennes manuelt av oppdragsgiveren («Auto-Accept» må ikke være merket av), siden automatisk registrering ikke kan avgjøre når den er fullført.
   
-</source>
+Når automatisk registrering ikke er merket av, skal oppdragstakeren klikke på «Oppdraget fullført» når vedkommende mener oppdraget er ferdig, og oppdragstakeren vil deretter enten godta eller avvise fullføringen.  Kontrakter uten automatisk godkjennelse krever større tillit mellom innbyggerne, da det ikke er noen garanti for at oppdragstakeren ærlig vil godta et fullført oppdrag.  Innbyggerne anbefales å bruke {Omdømme} som et middel for å vurdere tillit i slike situasjoner.
+
+Kontrakter har en fastsatt tidsramme de må fullføres innen, som bestemmes når kontrakten legges ut. I tillegg kan kontrakter settes til å gjentas for tilbakevendende oppdrag. Når dette er aktivert, vil gjentakelsestelleren reduseres med én hver gang en kontrakt godtas.
+
+Enhver betaling som tilbys for en kontrakt, vil bli holdt i en spesiell {bankkonto|bankkontoer} i depot mens kontrakten er aktiv.  Hvis kontrakten fullføres med hell, vil betalingen bli overført til oppdragstakeren, og hvis den mislykkes, vil den bli refundert til oppdragsgiveren.  Oppdragstakeren kan også kreve et depositum, som vil bli holdt i depot og refundert til oppdragstakeren ved vellykket fullføring, eller gitt til oppdragsgiveren ved mislykket fullføring.
+  </target>
       </trans-unit>
-      <trans-unit id="7">
-        <source xml:space="preserve">Work Parties
-</source>
+      <trans-unit id="7" xml:space="preserve">
+        <source xml:space="preserve">Work Parties</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Arbeidsgrupper</target>
       </trans-unit>
-      <trans-unit id="8">
+      <trans-unit id="8" xml:space="preserve">
         <source xml:space="preserve">
 {Work Parties} can also be posted on a Contract Board, allowing the creation of tasks that can be completed by multiple other citizens, as opposed to contracts which is an agreement between two parties only. Before posting a work party, a citizen must start a work order on a crafting table they own.
 
 After posting a work party, Laborers can join the project at the Contract Board. By default, anyone can join the work party as a laborer, but requirements can be set for individual roles or general requirements for anyone to join. When 'Expand Roles When Full' is checked, space for new laborers to join is created automatically when all roles are filled.
 
 When setting the Work desired, the poster of the work party can decide to hire for labor, resources, or both. Any citizen who contributes to the work party will receive a share of the payment based on the amount of work they provided. By assigning additional Weight to a particular job in a work party, that job will receive a higher share of the payment.
-
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+{Arbeidsgrupper} kan også legges ut på en oppdragstavle, noe som gjør det mulig å opprette oppgaver som kan fullføres av flere andre innbyggere, i motsetning til kontrakter, som er en avtale mellom kun to parter. Før en innbygger legger ut en arbeidsgruppe, må vedkommende opprette en arbeidsordre på et håndverksbord vedkommende eier.
+
+Etter at en arbeidsgruppe er lagt ut, kan arbeidere melde seg på prosjektet på kontraktstavlen. Som standard kan hvem som helst melde seg på arbeidsgruppen som arbeider, men det kan settes krav til individuelle roller eller generelle krav for å kunne delta. Når «Utvid roller når fullt» er merket av, opprettes det automatisk plass for nye arbeidere når alle roller er fylt.
+
+Når ønsket arbeid angis, kan den som legger ut arbeidsgruppen bestemme seg for å ansette for arbeidskraft, ressurser eller begge deler. Enhver innbygger som bidrar til arbeidsgruppen vil motta en andel av betalingen basert på mengden arbeid de har utført. Ved å tildele ekstra vekt til en bestemt jobb i en arbeidsgruppe, vil den jobben motta en større andel av betalingen.
+</target>
       </trans-unit>
-      <trans-unit id="9">
+      <trans-unit id="9" xml:space="preserve">
         <source xml:space="preserve">
 There are a variety of Payment options for a work party, and multiple payment options can be offered for the same work party.
 
@@ -71,40 +93,60 @@ There are a variety of Payment options for a work party, and multiple payment op
 - When offering {Research} as payment, all citizens who contribute the required amount will instantly discover the technology when the work party is finished. Research can be offered as payment only when the work party is creating a research book or if the citizen offering the work party has the research book in their inventory when posting the work party.
 
 - When granting a {Title|Titles} as payment, the citizen posting the contract must be a title manager for the title being offered. All citizens who contribute the minimum amount will be granted the new title. The Access Type determines if they will become a title manager or title user.
+</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Det finnes en rekke betalingsalternativer for en arbeidsgruppe, og flere betalingsalternativer kan tilbys for den samme arbeidsgruppen.
 
-</source>
+- Når du tilbyr {Valuta} som betaling, finnes det et alternativ for «Betal etterhvert», som betaler arbeiderne etter hvert som de bidrar, i stedet for å betale et engangsbeløp når kontrakten er fullført.
+
+- Når du tilbyr {Omdømme} som betaling, vil dette bli fordelt mellom alle innbyggerne som har bidratt når arbeidsgruppen er ferdig.
+
+- Når {Forskning} tilbys som betaling, vil alle innbyggere som bidrar med det nødvendige beløpet umiddelbart oppdage teknologien når arbeidsgruppen er ferdig. Forskning kan kun tilbys som betaling når arbeidsgruppen skal lage en forskningsbok, eller hvis innbyggeren som oppretter arbeidsgruppen har forskningsboken i inventaret sitt når arbeidsgruppen legges ut.
+
+- Når du tildeler en {Tittel|Titler} som betaling, må innbyggeren som legger ut kontrakten være titteladministrator for tittelen som tilbys. Alle innbyggere som bidrar med minimumsbeløpet, vil få tildelt den nye tittelen. Tilgangstypen avgjør om de blir titteladministratorer eller tittelbrukere.
+</target>
       </trans-unit>
-      <trans-unit id="10">
-        <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.
-</source>
+      <trans-unit id="10" xml:space="preserve">
+        <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kontraktstavle-komponenten lar innbyggerne legge ut eller godta kontrakter og tilbud om arbeid fra partier.</target>
       </trans-unit>
-      <trans-unit id="11">
+      <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kredittkomponenten lar innbyggerne fastsette valutaen og bankkontoen for alle transaksjoner knyttet til et objekt de eier.
+  </target>
       </trans-unit>
-      <trans-unit id="12">
+      <trans-unit id="12" xml:space="preserve">
         <source xml:space="preserve">
 When selecting {Bank Accounts}, citizens can select any account they have been granted access to (performed in a {Bank Component}). By default, the citizen's personal account will be selected.
 
 Any of the world's {Currencies|Currency} can be selected in the Credit Component. This is the currency that will be used for any transactions that take place on that object (for example a {Store|Store Component} will accept whatever currency is set here). 
 
-When selecting None for the currency in a store, direct trades are possible without the need for a currency.
+When selecting "None" for the currency in a store, direct trades are possible without the need for a currency.
 
 Objects with a {Crafting Component} can define a fee for authorized citizens to use them. The settings in the Credit Component will determine what currency that fee is charged in and what account the funds are deposited to.
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Når man velger {Bankkontoer}, kan innbyggerne velge hvilken som helst konto de har fått tilgang til (utført i en {Bankkomponent}). Som standard vil innbyggerens personlige konto bli valgt.
+
+Alle verdens {valutaer|valuta} kan velges i kredittkomponenten. Dette er valutaen som vil bli brukt for alle transaksjoner som foregår på det aktuelle objektet (for eksempel vil en {butikk|butikkkomponent} akseptere den valutaen som er angitt her). 
+
+Når man velger «Ingen» som valuta i en butikk, er direkte byttehandler mulig uten behov for en valuta.
+
+Objekter med en {Håndverkskomponent} kan definere et gebyr for autoriserte innbyggere som bruker dem. Innstillingene i kredittkomponenten avgjør hvilken valuta gebyret belastes i og hvilken konto midlene settes inn på.
+  </target>
       </trans-unit>
-      <trans-unit id="13">
-        <source xml:space="preserve">The Credit Component allows citizens to set the bank account and currency for transactions on an object.
-</source>
+      <trans-unit id="13" xml:space="preserve">
+        <source xml:space="preserve">The Credit Component allows citizens to set the bank account and currency for transactions on an object.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kredittkomponenten lar innbyggerne angi bankkonto og valuta for transaksjoner knyttet til et objekt.</target>
       </trans-unit>
-      <trans-unit id="14">
+      <trans-unit id="14" xml:space="preserve">
         <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell {Property}.
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Komponenten «Deed Sales» lar innbyggerne kjøpe og selge {eiendom}.
+  </target>
       </trans-unit>
-      <trans-unit id="15">
+      <trans-unit id="15" xml:space="preserve">
         <source xml:space="preserve">
 By visiting a {Real Estate Desk|Real Estate Desk Item}, citizens can create listings for their deeds and view the listings of other citizens. All posted listings can be accessed from any real estate desk.
 
@@ -113,89 +155,118 @@ When creating a listing, the property owner sets the price and {Currency} used. 
 When buying a deed, the currency will be taken from the bank account selected by the buyer. 
 
 After the property is sold, the deed and all objects contained on the deed are transferred to the new owner. 
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Ved å besøke et {Eiendomsmeglerkontor|Eiendomsmeglerkontor-element} kan innbyggerne legge ut annonser for sine eiendomsrettigheter og se annonsene til andre innbyggere. Alle utlagte annonser er tilgjengelige fra hvilket som helst eiendomsmeglerkontor.
+
+Når man oppretter en annonse, fastsetter eiendomseieren prisen og {Valuta} som skal brukes. Alle inntekter vil gå inn på den valgte {Bankkontoen|Bankkontoene}.
+
+Når man kjøper en eiendom, trekkes beløpet fra den bankkontoen kjøperen har valgt. 
+
+Etter at eiendommen er solgt, overføres eiendomsretten og alle gjenstander som inngår i den til den nye eieren. 
+  </target>
       </trans-unit>
-      <trans-unit id="16">
-        <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell property.
-</source>
+      <trans-unit id="16" xml:space="preserve">
+        <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell property.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Komponenten «Deed Sales» lar innbyggerne kjøpe og selge eiendom.</target>
       </trans-unit>
-      <trans-unit id="17">
-        <source xml:space="preserve">The Exchange Component allows citizens to trade one {Currency} for another.
-</source>
+      <trans-unit id="17" xml:space="preserve">
+        <source xml:space="preserve">The Exchange Component allows citizens to trade one {Currency} for another.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Børskomponenten lar innbyggerne bytte én {valuta} mot en annen.</target>
       </trans-unit>
-      <trans-unit id="18">
-        <source xml:space="preserve">Exchanging Currency
-</source>
+      <trans-unit id="18" xml:space="preserve">
+        <source xml:space="preserve">Exchanging Currency</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Valutaveksling</target>
       </trans-unit>
-      <trans-unit id="19">
+      <trans-unit id="19" xml:space="preserve">
         <source xml:space="preserve">
 The owner of a {CurrencyExchangeItem} uses the Exchange Component to offer currency exchanges to other citizens. When setting up an exchange, the Owner Currency is the currency being offered for sale. For each unit of owner currency purchased, citizens will be charged the set amount of alternate currency.
 
 When an {Authorized Consumer|Authorization Component} visits the currency exchange, they will see a list of all offered exchanges. By default, all citizens are authorized consumers.
-	
-</source>
+	</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Eieren av en {CurrencyExchangeItem} bruker Exchange-komponenten til å tilby valutaveksling til andre borgere. Når man oppretter en veksling, er eiervalutaen den valutaen som tilbys for salg. For hver enhet av eiervalutaen som kjøpes, vil borgerne bli belastet det fastsatte beløpet i den alternative valutaen.
+
+Når en {Authorized Consumer|Authorization Component} besøker valutavekslingen, vil de se en liste over alle tilbudte vekslinger. Som standard er alle innbyggere autoriserte forbrukere.
+	</target>
       </trans-unit>
-      <trans-unit id="20">
-        <source xml:space="preserve">Exchange Restrictions
-</source>
+      <trans-unit id="20" xml:space="preserve">
+        <source xml:space="preserve">Exchange Restrictions</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Valutabegrensninger</target>
       </trans-unit>
-      <trans-unit id="21">
+      <trans-unit id="21" xml:space="preserve">
         <source xml:space="preserve">
 The owner of the Currency Exchange has the option to setup Balance Restrictions. These will prevent citizens from exchanging currency if the amount of currency in the chosen account does not meet the restriction.
 
 The number on the left is the minimum currency holding and the number on the right is the maximum currency holding. If either value for the balance restriction is left at 0, there will be no limit for that part of the balance restriction.
-	
-</source>
+	</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Eieren av valutavekslingen har muligheten til å sette opp saldobegrensninger. Disse vil hindre innbyggerne i å veksle valuta dersom valutabeløpet på den valgte kontoen ikke oppfyller begrensningen.
+
+Tallet til venstre er minimumsbeløpet, og tallet til høyre er maksimumsbeløpet. Hvis en av verdiene for saldobegrensningen settes til 0, vil det ikke være noen grense for den delen av saldobegrensningen.
+	</target>
       </trans-unit>
-      <trans-unit id="22">
-        <source xml:space="preserve">Allows citizens to setup a currency exchange .
-</source>
+      <trans-unit id="22" xml:space="preserve">
+        <source xml:space="preserve">Allows citizens to setup a currency exchange .</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Gir innbyggerne mulighet til å opprette en valutaveksling.</target>
       </trans-unit>
-      <trans-unit id="23">
-        <source xml:space="preserve">The Item Distribution Component allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
-</source>
+      <trans-unit id="23" xml:space="preserve">
+        <source xml:space="preserve">The Item Distribution Component allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Komponenten for fordeling av gjenstander lar eieren gi bort gratis gjenstander til nye innbyggere, som et tegn på god vilje og for å øke innbyggernes velstand i starten.</target>
       </trans-unit>
-      <trans-unit id="24">
+      <trans-unit id="24" xml:space="preserve">
         <source xml:space="preserve">
 All new citizens who qualify (based on how long they have played) can collect their items by visiting the {DistributionStationItem}. Upon entering the world, new citizens will start with a global map marker to alert them that the items are available. Note that the {Storage Component} must remain stocked with the items being distributed to allow new citizens to collect them.
 
 The owner may designate what items are to be distributed, how many of each item, and how recently the citizen must have joined the world to be eligible.
-  
-</source>
-      </trans-unit>
-      <trans-unit id="25">
-        <source xml:space="preserve">Allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.
-</source>
-      </trans-unit>
-      <trans-unit id="26">
-        <source xml:space="preserve">The Mint Component allows citizens to create {Currencies|Currency} which are backed by a resource. 
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Alle nye innbyggere som kvalifiserer seg (basert på hvor lenge de har spilt), kan hente varene sine ved å besøke {DistributionStationItem}. Når de kommer inn i verdenen, vil nye innbyggere starte med en markør på verdenskartet som varsler dem om at varene er tilgjengelige. Merk at {Storage Component} må være fylt med varene som skal distribueres, slik at nye innbyggere kan hente dem.
 
-</source>
+Eieren kan bestemme hvilke gjenstander som skal distribueres, hvor mange av hver gjenstand, og hvor nylig innbyggeren må ha blitt med i verden for å være kvalifisert.
+  </target>
       </trans-unit>
-      <trans-unit id="27">
+      <trans-unit id="25" xml:space="preserve">
+        <source xml:space="preserve">Allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Dette gjør det mulig for eieren å gi bort gratis gaver til nye innbyggere, som et tegn på god vilje og for å øke innbyggernes velstand i starten.</target>
+      </trans-unit>
+      <trans-unit id="26" xml:space="preserve">
+        <source xml:space="preserve">The Mint Component allows citizens to create {Currencies|Currency} which are backed by a resource. 
+</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Mint-komponenten lar innbyggerne opprette {valutaer|valuta} som er sikret av en ressurs. 
+</target>
+      </trans-unit>
+      <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">
 When creating a currency at a {MintItem}, a backing item is chosen, as well as an amount of Coins per Item that are generated from each item consumed.  By using a backing item for currency, the total possible amount of currency can be limited to the number of items contributed, thus providing more stability as it becomes harder to flood the market with new currency.  The choice in backing item will affect this, with more rare items generally providing more stability by being harder to obtain.
 
 The backing material and coins per item are permanent, so be careful when deciding how to back a currency. Once a currency is minted, it will become tied to the mint it was created on, even if that mint is picked up.
 
 Citizens who have been granted consumer rights in the {Authorization Component} can use the Mint Component to mint additional currency. Currency can be minted into the target {Bank Account|Bank Accounts} selected by the mint owner, or any bank account the citizen minting has access to in the {Bank Component}.
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Når du oppretter en valuta ved et {MintItem}, velges en sikkerhetsvare, samt et antall mynter per vare som genereres fra hver forbrukte vare.  Ved å bruke en sikkerhetsvare for valutaen kan den totale mulige mengden valuta begrenses til antallet bidragsvarer, noe som gir større stabilitet ettersom det blir vanskeligere å oversvømme markedet med ny valuta.  Valget av sikkerhetsgjenstand vil påvirke dette, da sjeldnere gjenstander generelt gir større stabilitet fordi de er vanskeligere å skaffe.
+
+Sikkerhetsmaterialet og myntene per gjenstand er permanente, så vær forsiktig når du bestemmer hvordan en valuta skal sikres. Når en valuta er preget, blir den knyttet til myntverket den ble opprettet på, selv om dette myntverket blir fjernet.
+
+Innbyggere som har fått forbrukerrettigheter i {Autorisasjonskomponenten} kan bruke Myntkomponenten til å prege ytterligere valuta. Valuta kan preges inn på den eller de {Bankkontoer} som mynteeieren har valgt, eller på en hvilken som helst bankkonto som innbyggeren som preger har tilgang til i {Bankkomponenten}.
+  </target>
       </trans-unit>
-      <trans-unit id="28">
-        <source xml:space="preserve">Allows citizens to create and print backed currencies.
-</source>
+      <trans-unit id="28" xml:space="preserve">
+        <source xml:space="preserve">Allows citizens to create and print backed currencies.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Gir innbyggerne mulighet til å opprette og trykke opp valutaer med dekning.</target>
       </trans-unit>
-      <trans-unit id="29">
+      <trans-unit id="29" xml:space="preserve">
         <source xml:space="preserve">
 The Store Component allows citizens to set items they wish to buy from and sell to other citizens. These actions can happen automatically, not requiring the store owner to be online.
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Butikkkomponenten lar innbyggerne legge ut varer de ønsker å kjøpe fra og selge til andre innbyggere. Disse handlingene kan skje automatisk, uten at butikkeieren trenger å være online.
+  </target>
       </trans-unit>
-      <trans-unit id="30">
+      <trans-unit id="30" xml:space="preserve">
         <source xml:space="preserve">
-The currency and bank account selected in the {Credit Component} will be used for all transactions at the store. When selecting None for the currency in a store, direct trades are possible that are not subject to sales tax. 
+The currency and bank account selected in the {Credit Component} will be used for all transactions at the store. When selecting "None" for the currency in a store, direct trades are possible that are not subject to sales tax. 
  
 A store owner can link specific containers in the {Storage Component} to pick which items are considered part of the store's inventory. By default, all nearby storage containers are linked to the store when it is first placed.
 
@@ -204,28 +275,40 @@ When creating a Sale List, only the price needs to be set. The inventory for a S
 When creating a Purchase List, the price and Max to Buy quantity for each item must be decided. If the Max to Buy quantity is left at zero, the store will continue to purchase items until the linked containers are full. If a Max to Buy quantity is specified, citizens can sell that item until the linked storage contains that amount.
 
 For tools with durability, a minimum durability to buy/sell can be set, and only items of that durability or higher will be eligible for trade via the store.
+ </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Valutaen og bankkontoen som er valgt i {Credit Component}, vil bli brukt til alle transaksjoner i butikken. Når du velger «None» som valuta i en butikk, er det mulig å gjennomføre direkte handler som ikke er underlagt omsetningsavgift. 
  
-</source>
+En butikkeier kan koble bestemte containere i {Storage Component} for å velge hvilke varer som skal regnes som en del av butikkens lagerbeholdning. Som standard kobles alle nærliggende lagringscontainere til butikken når den først plasseres.
+
+Når du oppretter en salgsliste, trenger du bare å angi prisen. Lagerbeholdningen for en salgsliste bestemmes automatisk ut fra tilgjengeligheten av varer i de tilknyttede lagringsbeholderne.
+
+Når du oppretter en innkjøpsliste, må prisen og maksimalt antall som kan kjøpes for hver vare fastsettes. Hvis maksimalt antall som kan kjøpes settes til null, vil butikken fortsette å kjøpe inn varer til de tilknyttede beholderne er fulle. Hvis det angis en maksimalt antall å kjøpe, kan innbyggerne selge den varen til de tilknyttede lagrene inneholder den mengden.
+
+For verktøy med holdbarhet kan det angis en minimums holdbarhet for kjøp/salg, og kun varer med den holdbarheten eller høyere vil være kvalifisert for handel via butikken.
+ </target>
       </trans-unit>
-      <trans-unit id="32">
-        <source xml:space="preserve">Sets up an interface for other citizens to buy and sell goods from/to you automatically.
-</source>
+      <trans-unit id="32" xml:space="preserve">
+        <source xml:space="preserve">Sets up an interface for other citizens to buy and sell goods from/to you automatically.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Oppretter et grensesnitt der andre innbyggere automatisk kan kjøpe og selge varer fra/til deg.</target>
       </trans-unit>
-      <trans-unit id="33">
-        <source xml:space="preserve">Components related to the government.
-</source>
+      <trans-unit id="33" xml:space="preserve">
+        <source xml:space="preserve">Components related to the government.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Komponenter knyttet til regjeringen.</target>
       </trans-unit>
-      <trans-unit id="34">
+      <trans-unit id="34" xml:space="preserve">
         <source xml:space="preserve">
 The Civic Action Component allows citizens to participate in {Elections}, perform {Executive Actions}, and resign from office, depending on which object is being used.
-
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Komponenten «Civic Action» lar innbyggerne delta i {valg}, utføre {utøvende handlinger} og trekke seg fra vervet, avhengig av hvilket objekt som brukes.
+</target>
       </trans-unit>
-      <trans-unit id="35">
-        <source xml:space="preserve">Participating in Elections
-</source>
+      <trans-unit id="35" xml:space="preserve">
+        <source xml:space="preserve">Participating in Elections</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Deltakelse i valg</target>
       </trans-unit>
-      <trans-unit id="36">
+      <trans-unit id="36" xml:space="preserve">
         <source xml:space="preserve">
 When using the Civic Action Component at a {Ballot Box|Ballot Box Item}, citizens can run for {Elected Titles} and participate in elections. 
 
@@ -234,146 +317,186 @@ By pressing the Vote button, players are redirected to the web interface where t
 Citizens who have been granted Veto power in the current {Election Process|Election Processes} can instantly overturn an election.
 
 To run for elected titles, first an eligible citizen must use the Start Election action. Once an election has started, eligible citizens can select Enter Election to join the race and give a campaign speech. Candidates can opt to Withdraw from Election at any time using the option available on a Ballot Box.
+</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Når man bruker «Civic Action»-komponenten ved en {Valgurn|Valgurn-element}, kan innbyggerne stille til valg for {Valgte titler} og delta i valg. 
 
-</source>
+Ved å trykke på «Stem»-knappen blir spillerne omdirigert til nettgrensesnittet der de kan se alle pågående {Valg}, diskutere dem med sine medborgere, underbygge argumentene sine med {Data} og avgi stemme.  
+
+Innbyggere som har fått vetorett i den aktuelle {valgprosessen|valgprosessene} kan umiddelbart omgjøre et valgresultat.
+
+For å stille til valg må en valgbar innbygger først bruke handlingen «Start valg». Når et valg har startet, kan valgbare innbyggere velge «Delta i valget» for å bli med i valgkampen og holde en valgkamptale. Kandidater kan når som helst velge å trekke seg fra valget ved å bruke alternativet som er tilgjengelig ved en valgurne.
+</target>
       </trans-unit>
-      <trans-unit id="37">
-        <source xml:space="preserve">Performing Executive Actions
-</source>
+      <trans-unit id="37" xml:space="preserve">
+        <source xml:space="preserve">Performing Executive Actions</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Gjennomføring av utøvende tiltak</target>
       </trans-unit>
-      <trans-unit id="38">
+      <trans-unit id="38" xml:space="preserve">
         <source xml:space="preserve">
 Using the Civic Action Component at an {Executive Office|Executive Office Item} allows an elected title to perform one-time executive actions that affect a set of citizens.
 
 The Citizen Conditions dictate which citizens the executive action applies to, and multiple conditions can be set for a citizen to qualify. To perform an action for all citizens, use the {Demographic} ‘Everyone’ as the citizen condition.
 
 The Action on Each Citizen will take effect as soon as the executive action is approved. Multiple actions can be performed at once for each citizen who meets the conditions.
+</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Ved å bruke «Civic Action»-komponenten ved et {Executive Office|Executive Office Item} kan en valgt tittel utføre engangstiltak som påvirker en gruppe borgere.
 
-</source>
+Innbyggerbetingelsene bestemmer hvilke innbyggere den utøvende handlingen gjelder for, og det kan settes flere betingelser for at en innbygger skal kvalifisere seg. For å utføre en handling for alle innbyggere, bruk {Demographic} «Alle» som innbyggerbetingelse.
+
+Handlingen for hver innbygger trer i kraft så snart den utøvende handlingen er godkjent. Flere handlinger kan utføres samtidig for hver innbygger som oppfyller betingelsene.
+</target>
       </trans-unit>
-      <trans-unit id="39">
-        <source xml:space="preserve">Government Office Actions
-</source>
+      <trans-unit id="39" xml:space="preserve">
+        <source xml:space="preserve">Government Office Actions</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Regjeringens tiltak</target>
       </trans-unit>
-      <trans-unit id="40">
+      <trans-unit id="40" xml:space="preserve">
         <source xml:space="preserve">
 At the {Government Office|Government Office Item}, the Civic Action Component allows elected titles to resign or remove other elected titles from office.
 
 The Resign from Office action allows any elected official to step down from their position. If a Successor title was assigned to the Elected Title when it was created, a new official will be randomly selected from all citizens holding that title; otherwise the Elected Title becomes vacant.
 
 The Remove Official from Office action allows citizens who have been given the authority to remove elected titles from office. The same rules for finding a successor apply as if the official resigned.
+</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+På {Regjeringskontoret|Regjeringskontor-elementet} lar den samfunnspolitiske handlingskomponenten valgte titler trekke seg eller fjerne andre valgte titler fra vervet.
 
-</source>
+Handlingen «Tre av fra vervet» lar enhver folkevalgt trekke seg fra sin stilling. Hvis en etterfølger ble tildelt den folkevalgte stillingen da den ble opprettet, vil en ny representant bli valgt tilfeldig blant alle innbyggere som har den tittelen; ellers blir den folkevalgte stillingen ledig.
+
+Handlingen «Fjerne representant fra vervet» lar innbyggere som har fått myndighet til å fjerne folkevalgte fra vervet. De samme reglene for å finne en etterfølger gjelder som om representanten trakk seg.
+</target>
       </trans-unit>
-      <trans-unit id="41">
-        <source xml:space="preserve">Allows citizens to participate in elections and perform executive actions.
-</source>
+      <trans-unit id="41" xml:space="preserve">
+        <source xml:space="preserve">Allows citizens to participate in elections and perform executive actions.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Dette gjør det mulig for innbyggerne å delta i valg og utføre utøvende handlinger.</target>
       </trans-unit>
-      <trans-unit id="42">
+      <trans-unit id="42" xml:space="preserve">
         <source xml:space="preserve">    
-The Civic Object Component allows citizens to propose, amend, and repeal various Civic Objects. 
-</source>
+The Civic Object Component allows citizens to propose, amend, and repeal various Civic Objects. </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">    
+Komponenten «Civic Object» lar innbyggerne foreslå, endre og oppheve ulike Civic Objects. </target>
       </trans-unit>
-      <trans-unit id="43">
-        <source xml:space="preserve">Civic Duties
-</source>
+      <trans-unit id="43" xml:space="preserve">
+        <source xml:space="preserve">Civic Duties</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Samfunnsplikter</target>
       </trans-unit>
-      <trans-unit id="44">
-        <source xml:space="preserve">Within a Civic Object Component, you will see a list of your {Civic Duties}. This informs the citizen what permissions they have regarding civic objects, given the current {Constitution}.The possibilities of different civic duties are:
-</source>
+      <trans-unit id="44" xml:space="preserve">
+        <source xml:space="preserve">Within a Civic Object Component, you will see a list of your {Civic Duties}. This informs the citizen what permissions they have regarding civic objects, given the current {Constitution}.The possibilities of different civic duties are:</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Innenfor en samfunnsobjektkomponent vil du se en liste over dine {samfunnsplikter}. Dette informerer innbyggeren om hvilke rettigheter de har når det gjelder samfunnsobjekter, gitt den gjeldende {grunnloven}. Mulighetene for ulike samfunnsplikter er:</target>
       </trans-unit>
-      <trans-unit id="45">
-        <source xml:space="preserve">The Civic Object Component allows citizens to propose, amend, and repeal civic objects.
-</source>
+      <trans-unit id="45" xml:space="preserve">
+        <source xml:space="preserve">The Civic Object Component allows citizens to propose, amend, and repeal civic objects.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Komponenten «Civic Object» lar innbyggerne foreslå, endre og oppheve samfunnsforslag.</target>
       </trans-unit>
-      <trans-unit id="46">
-        <source xml:space="preserve">The Registrar Component allows for the creation and management of non-elected {Titles}.  These titles can be used for many of the same purposes as {Elected Titles}, but they are appointed at the Registrar.
-</source>
+      <trans-unit id="46" xml:space="preserve">
+        <source xml:space="preserve">The Registrar Component allows for the creation and management of non-elected {Titles}.  These titles can be used for many of the same purposes as {Elected Titles}, but they are appointed at the Registrar.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Registrar-komponenten gjør det mulig å opprette og administrere ikke-valgte {titler}. Disse titlene kan brukes til mange av de samme formålene som {valgte titler}, men de utnevnes av Registrar.</target>
       </trans-unit>
-      <trans-unit id="47">
-        <source xml:space="preserve">Assigning Titles
-</source>
+      <trans-unit id="47" xml:space="preserve">
+        <source xml:space="preserve">Assigning Titles</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Tildeling av titler</target>
       </trans-unit>
-      <trans-unit id="48">
+      <trans-unit id="48" xml:space="preserve">
         <source xml:space="preserve">Title Managers can rename the title and assign new managers and title holders. Title Managers are not considered Title Users.
 
 Title Users are the citizens considered title holders and receive all associated benefits and conditions.
-	
-</source>
+	</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Titteladministratorer kan gi tittelen nytt navn og utnevne nye ledere og tittelinnehavere. Titteladministratorer regnes ikke som tittelbrukere.
+
+Tittelbrukere er innbyggerne som regnes som tittelinnehavere og mottar alle tilhørende fordeler og vilkår.
+	</target>
       </trans-unit>
       <trans-unit id="49" xml:space="preserve">
         <source xml:space="preserve">Advanced Settings</source>
         <target xml:space="preserve" state="translated">Avanserte innstillinger
 </target>
       </trans-unit>
-      <trans-unit id="50">
+      <trans-unit id="50" xml:space="preserve">
         <source xml:space="preserve">
 In the Advanced Settings, requirements for title holders can be set, and hourly wages can be assigned to title holders who qualify.
   
 When deciding what is Required of Office Holders, a variety of conditions can be set. If a citizen fails to maintain these requirements, they will lose their assignment as a Title User. By using a 'Set of Conditions', multiple requirements can be set for title holders.
  
 Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title Manager has been given permission to use in the {Bank Component}. Wages are paid each hour (depending on World settings) into the personal account of each Title User. The Wage Type can be used to exclude offline hours from wage payments.
-	
-</source>
+	</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+I de avanserte innstillingene kan det settes krav til tittelbrukere, og timelønn kan tildeles tittelbrukere som oppfyller kravene.
+  
+Når du bestemmer hva som kreves av tittelbrukere, kan det settes en rekke betingelser. Hvis en innbygger ikke oppfyller disse kravene, mister vedkommende sin stilling som tittelbruker. Ved å bruke et «betingelsessett» kan det settes flere krav til tittelbrukere.
+ 
+Lønn utbetales til tittelbrukere fra alle {bankkontoer|bankkontoer} som en titteladministrator har fått tillatelse til å bruke i {bankkomponenten}. Lønn utbetales hver time (avhengig av verdensinnstillingene) til den personlige kontoen til hver tittelbruker. Lønnstypen kan brukes til å ekskludere timer uten nettilgang fra lønnsutbetalinger.
+	</target>
       </trans-unit>
-      <trans-unit id="51">
-        <source xml:space="preserve">Allows creation and management of non-elected titles.
-</source>
+      <trans-unit id="51" xml:space="preserve">
+        <source xml:space="preserve">Allows creation and management of non-elected titles.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Gir mulighet til å opprette og administrere ikke-valgte titler.</target>
       </trans-unit>
-      <trans-unit id="52">
-        <source xml:space="preserve">The Treasury Component allows {Elected Titles} that have been granted the right to 'Set Taxes at the Treasury' to adjust the tax rate and select the World Default Currency.
-</source>
+      <trans-unit id="52" xml:space="preserve">
+        <source xml:space="preserve">The Treasury Component allows {Elected Titles} that have been granted the right to 'Set Taxes at the Treasury' to adjust the tax rate and select the World Default Currency.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Finansdepartementet-komponenten lar {valgte titler} som har fått rett til å «fastsette skatter i finansdepartementet», justere skattesatsen og velge verdens standardvaluta.</target>
       </trans-unit>
       <trans-unit id="53" xml:space="preserve">
         <source xml:space="preserve">Taxes</source>
         <target xml:space="preserve" state="translated">Skatt
 </target>
       </trans-unit>
-      <trans-unit id="54">
-        <source xml:space="preserve">After {Taxes} are set in the Treasury Component, they are automatically applied to all relevant transactions. All revenue goes into the Treasury {Bank Account|Bank Accounts}. Elected titles that have the setting 'Government Banking Privileges' can transact directly from the Treasury account (allowing selection of the account within the {Credit Component}).  Money can also come out of the treasury via {Laws} that make payments to citizens.
-</source>
+      <trans-unit id="54" xml:space="preserve">
+        <source xml:space="preserve">After {Taxes} are set in the Treasury Component, they are automatically applied to all relevant transactions. All revenue goes into the Treasury {Bank Account|Bank Accounts}. Elected titles that have the setting 'Government Banking Privileges' can transact directly from the Treasury account (allowing selection of the account within the {Credit Component}).  Money can also come out of the treasury via {Laws} that make payments to citizens.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Når {Skatter} er fastsatt i statskassekomponenten, blir de automatisk lagt til alle relevante transaksjoner. Alle inntekter går inn på statskassens {bankkonto|bankkontoer}. Valgte embeter som har innstillingen «Regjeringens bankprivilegier» kan foreta transaksjoner direkte fra statskassekontoen (noe som gjør det mulig å velge kontoen i {kredittkomponenten}).  Penger kan også tas ut av statskassen via {lover} som forutsetter utbetalinger til innbyggerne.</target>
       </trans-unit>
-      <trans-unit id="55">
-        <source xml:space="preserve">World Default Currency
-</source>
+      <trans-unit id="55" xml:space="preserve">
+        <source xml:space="preserve">World Default Currency</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Verdens standardvaluta</target>
       </trans-unit>
-      <trans-unit id="56">
-        <source xml:space="preserve">The World Default Currency is the default {Currency} used when placing a new object that contains the Credit Component. Citizens can still choose to use any currency in a {Trade}, but having a World Default Currency makes it is easier to establish an economy with a common currency.
-</source>
+      <trans-unit id="56" xml:space="preserve">
+        <source xml:space="preserve">The World Default Currency is the default {Currency} used when placing a new object that contains the Credit Component. Citizens can still choose to use any currency in a {Trade}, but having a World Default Currency makes it is easier to establish an economy with a common currency.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Verdens standardvaluta er den standardvalutaen som brukes når man plasserer et nytt objekt som inneholder kredittkomponenten. Innbyggerne kan fortsatt velge å bruke hvilken som helst valuta i en {handel}, men å ha en verdens standardvaluta gjør det enklere å etablere en økonomi med en felles valuta.</target>
       </trans-unit>
-      <trans-unit id="57">
-        <source xml:space="preserve">Direct Taxes
-</source>
+      <trans-unit id="57" xml:space="preserve">
+        <source xml:space="preserve">Direct Taxes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Direkte skatter</target>
       </trans-unit>
-      <trans-unit id="58">
+      <trans-unit id="58" xml:space="preserve">
         <source xml:space="preserve">Elected Titles with rights to 'Set Taxes at the Treasury' can tax or allocate funds directly from citizens. This is done through managing the desired currency and selecting which citizens the action will apply to. An elected title must always give a reason why they are performing this action that is displayed to all citizens.
 	  
 Treasury management also includes the option to dump currency from the Treasury account. This will remove the currency permanently, so be careful when using this ability on backed currencies.
+	  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Valgte embeter med rettigheter til å «fastsette skatter i statskassen» kan innkreve skatt eller tildele midler direkte fra innbyggerne. Dette gjøres ved å administrere den ønskede valutaen og velge hvilke innbyggere tiltaket skal gjelde for. Et valgt embete må alltid oppgi en begrunnelse for hvorfor de utfører denne handlingen, og denne vises for alle innbyggere.
 	  
-</source>
+Forvaltning av statskassen inkluderer også muligheten til å fjerne valuta fra statskassekontoen. Dette vil fjerne valutaen permanent, så vær forsiktig når du bruker denne funksjonen på valutaer med sikkerhetsstillelse.
+	  </target>
       </trans-unit>
-      <trans-unit id="59">
-        <source xml:space="preserve"> Allows citizens holding an Elected Title with tax permission to set taxes and select the World Default Currency.
-</source>
+      <trans-unit id="59" xml:space="preserve">
+        <source xml:space="preserve"> Allows citizens holding an Elected Title with tax permission to set taxes and select the World Default Currency.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt"> Gir innbyggere med en valgt tittel og skattefullmakt muligheten til å fastsette skatter og velge verdens standardvaluta.</target>
       </trans-unit>
-      <trans-unit id="60">
-        <source xml:space="preserve">Components related to housing.
-</source>
+      <trans-unit id="60" xml:space="preserve">
+        <source xml:space="preserve">Components related to housing.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Komponenter knyttet til bolig.</target>
       </trans-unit>
-      <trans-unit id="61">
+      <trans-unit id="61" xml:space="preserve">
         <source xml:space="preserve">The Authorization Component allows specifying what permissions citizens have on the object.
-    
-</source>
+    </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Autorisasjonskomponenten gjør det mulig å spesifisere hvilke tillatelser innbyggerne har til objektet.
+    </target>
       </trans-unit>
-      <trans-unit id="62">
+      <trans-unit id="62" xml:space="preserve">
         <source xml:space="preserve">
 The Deed displayed here is simply a link to the deed of the {Property} which the object is on (or the deed associated with the {Vehicle|Vehicle Component} if it is one).
 
 Authorized Consumers can be listed here, either as specific people, {Titles}, or {Demographics}.  Anyone listed can interact with the object without having full control.  A store, for example, will allow citizens with consumer rights to buy and sell there, but only citizens with full rights to the property may change what is for sale, or move the store itself.
 
 All placed objects have authorization components.
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Eiendomsbeviset som vises her, er ganske enkelt en lenke til eiendomsbeviset for {Eiendom} som objektet befinner seg på (eller eiendomsbeviset knyttet til {Kjøretøy|Kjøretøykomponent} hvis det er et slikt).
+
+Autoriserte forbrukere kan oppføres her, enten som bestemte personer, {Titler} eller {Demografiske grupper}.  Alle som er oppført, kan samhandle med objektet uten å ha full kontroll.  En butikk vil for eksempel tillate innbyggere med forbrukerrettigheter å kjøpe og selge der, men kun innbyggere med full rett til eiendommen kan endre hva som er til salgs, eller flytte selve butikken.
+
+Alle plasserte objekter har autorisasjonskomponenter.
+  </target>
       </trans-unit>
       <trans-unit id="63">
         <source xml:space="preserve">Allows citizens to set the access rights of a given object.
