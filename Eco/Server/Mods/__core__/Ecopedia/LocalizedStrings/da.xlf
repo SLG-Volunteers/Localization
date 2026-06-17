@@ -574,9 +574,9 @@ Alle placerede objekter har autorisationskomponenter.
 Crafting Component bruges til at {Craft|Crafting} genstande, tilføje ressourcer eller arbejdskraft og annullere eksisterende projekter. Når man bidrager til en {Work Party|Work Parties}, kan man få adgang til Crafting Component af borgere, der har tilsluttet sig arbejdsgruppen.  
 </target>
       </trans-unit>
-      <trans-unit id="68">
-        <source xml:space="preserve">Crafting Items
-</source>
+      <trans-unit id="68" xml:space="preserve">
+        <source xml:space="preserve">Crafting Items</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Fremstilling af genstande</target>
       </trans-unit>
       <trans-unit id="69" xml:space="preserve">
         <source xml:space="preserve">
@@ -620,13 +620,17 @@ Når et projekt er startet, kan arbejdskraft hurtigt tilføjes uden for Crafting
         <target xml:space="preserve" state="translated">Mærkede Ingredienser
 </target>
       </trans-unit>
-      <trans-unit id="73">
+      <trans-unit id="73" xml:space="preserve">
         <source xml:space="preserve">
 Some recipes use Tagged Ingredients that can accept similar items as inputs. For example, an item may specify it needs 'Rock', and will accept any type of rock with that tag ({GraniteItem}, {BasaltItem}, etc).
 	
 Tagged ingredients will be consumed automatically, so there is no need to create separate orders using the different ingredients.
-  
-</source>
+  </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Nogle opskrifter bruger mærkede ingredienser, der kan acceptere lignende genstande som input. For eksempel kan en opskrift angive, at den har brug for »sten«, og vil acceptere enhver type sten med det pågældende mærke ({GraniteItem}, {BasaltItem} osv.).
+    
+Mærkede ingredienser forbruges automatisk, så der er ingen grund til at oprette separate ordrer med de forskellige ingredienser.
+  </target>
       </trans-unit>
       <trans-unit id="74" xml:space="preserve">
         <source xml:space="preserve">Parent Recipes</source>
@@ -3358,27 +3362,35 @@ Når en borger bliver bosiddende i en ejendom, får de et særligt sæt tilladel
 
 </target>
       </trans-unit>
-      <trans-unit id="353">
-        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.
-</source>
+      <trans-unit id="353" xml:space="preserve">
+        <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Udmattelse er en serverindstilling, der begrænser den maksimale spilletid pr. dag.</target>
       </trans-unit>
-      <trans-unit id="354">
+      <trans-unit id="354" xml:space="preserve">
         <source xml:space="preserve">
     TBD
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    TBD
+  </target>
       </trans-unit>
-      <trans-unit id="355">
+      <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Konsolidering og filtrering</target>
       </trans-unit>
-      <trans-unit id="356">
+      <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Stakke af identiske genstande kan hurtigt samles og sorteres ved at trykke på knappen »Saml«, som findes nederst til højre i lagerkomponenten. Derudover kan lagrene filtreres, så de kun viser bestemte typer genstande, ved at bruge genstandsvælgeren eller blot indtaste navnet på genstanden.
+  </target>
       </trans-unit>
-      <trans-unit id="357">
+      <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Handel mellem borgere med forskellige evner og forskellige varer udgør rygraden i økonomien.</target>
       </trans-unit>
-      <trans-unit id="358">
+      <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
 
  - Trades can be setup at a {Store Component}, listing buy/sell prices for the different goods you would like.  Citizens can then buy and sell goods to you asynchronously, without being present.
@@ -3387,18 +3399,32 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Handel med dine medborgere er afgørende i Eco, da hver spiller har en række {Specialiteter}, som de kan bidrage mest effektivt med, mens de handler med andre borgere, der er dygtige inden for erhverv, som de selv ikke mestrer. 
+
+ - Handel kan oprettes ved en {Butikskomponent}, hvor købs- og salgspriserne for de forskellige varer, du ønsker, angives.  Borgere kan derefter købe og sælge varer til dig asynkront, uden at være til stede.
+ - Handel med arbejdskraft kan foregå gennem {Kontrakter} og {Arbejdsgrupper}, hvilket giver spillerne mulighed for at udføre arbejde mod betaling inden for aftalte vilkår.  Dette kan ligeledes foregå asynkront.
+ - Handel med valutaer kan foregå ved en {Valutaveksling|Veksling-komponent}, hvor købs- og salgspriser for veksling af forskellige valutaer er angivet.
+ - Handel lettes af {Transport}, og opbygning af transportinfrastruktur mellem din civilisations blomstrende knudepunkter vil i høj grad fremme handelsmulighederne.
+ - Handel er underlagt {Skatter}, der fastsættes af {Regeringen|Regeringsoversigt}, hvilket enten kan fremme eller mindske værdien af visse handelstransaktioner.
+</target>
       </trans-unit>
-      <trans-unit id="359">
+      <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Påbud</target>
       </trans-unit>
-      <trans-unit id="360">
+      <trans-unit id="360" xml:space="preserve">
         <source xml:space="preserve">
     Injunctions, which can be created on a {LargeCourtItem}, have the ability to block laws on a lesser court. Each injunction states a list of triggers and legal actions that will be blocked in a defined set of child settlements (or all, if left blank). This can be used by countries to block laws that a town have passed, for example.  
     
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Retskendelser, som kan oprettes på en {LargeCourtItem}, har evnen til at blokere love ved en lavere domstol. Hver retskendelse indeholder en liste over udløsende faktorer og juridiske handlinger, der vil blive blokeret i et defineret sæt af underordnede bosættelser (eller alle, hvis feltet efterlades tomt). Dette kan f.eks. bruges af lande til at blokere love, som en by har vedtaget.  
+    
+    Muligheden for at oprette forbud er en kraftfuld funktion, som bør overvejes, når man danner et land eller en føderation, da den kan have stor indflydelse på regeringen i underordnede bosættelser.  Beføjelser kan defineres i bosættelsens forfatning for at fastlægge, hvem der kan tilføje eller ændre forbud, hvis det er relevant.  Forbuddenes rolle bør drøftes nøje blandt bylederne, når de går sammen om at danne et land.
+  </target>
       </trans-unit>
-      <trans-unit id="361">
+      <trans-unit id="361" xml:space="preserve">
         <source xml:space="preserve">
 As the number of occupants increases, the occupancy penalty increases.  At small numbers of occupants (1 or 2), there is virtually no penalty, and citizens can effectively cohabitate this way and share in the benefit of a well-stocked house.  As the occupants increases beyond that (5 and above), the penalty becomes more steep, eventually topping out at 99% when the house is too overcrowded.
 
@@ -3406,11 +3432,19 @@ However, the 'diminishing returns' rate of rooms is favorably affected by occupa
   
 To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Jo flere beboere der er, desto større bliver beboelsesstraffen.  Ved et lille antal beboere (1 eller 2) er der stort set ingen straf, og borgerne kan reelt bo sammen på denne måde og nyde godt af fordelene ved et veludstyret hus.  Når antallet af beboere stiger yderligere (5 og derover), bliver straffen mere markant og topper til sidst på 99 %, når huset er alt for overfyldt.
+
+Imidlertid påvirkes »afkastets aftagende effekt« for værelser positivt af beboerantallet (fordi tre badeværelser er overflødigt, når man bor alene, men fantastisk, når man har bofæller).  Dette betyder, at man kan overvinde straffen ved at bygge et større hus, og at dobbeltværelser vil have en omvendt effekt på beboerbonusen.
+  
+For at blive beboer i en ejendom skal du klikke på ejendommens navn (synligt i pop op-statuspanelet, når du befinder dig i ejendommen). Herfra kan du blive beboer (hvis du ejer skødet) samt invitere andre til at blive beboere.  Disse andre inviterede borgere kan derefter tilmelde sig som beboere via samme grænseflade. Du kan endda invitere grupper ved at angive titler eller demografiske kriterier, hvilket giver dig mulighed for at skabe boliger til særlige grupper af borgere (f.eks. nye spillere). Du kan også indstille det maksimale antal beboere for at sikre, at beboerforhold, der administreres på denne måde (ved at invitere store grupper), ikke resulterer i overbefolkede boliger.
+</target>
       </trans-unit>
-      <trans-unit id="362">
+      <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bosættelser er sammenslutninger af mennesker eller andre bosættelser. De udgør samfundets struktur og organisation.</target>
       </trans-unit>
-      <trans-unit id="363">
+      <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
     A settlement with sufficiently more culture than a neighboring settlement can annex it, merging it into itself, if requirements are met.
 
@@ -3418,11 +3452,19 @@ To become a resident of a property, click the name of the property (visible on t
 
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    En bosættelse med tilstrækkeligt højere kultur end en nabobosættelse kan annektere den og indlemme den i sig selv, hvis kravene er opfyldt.
+
+    Når to bosættelser af samme type ligger ved siden af hinanden, kan deres indflydelsesområder støde op mod hinanden. I disse tilfælde vil den bosættelse, der har højere kultur end den anden, trænge længere ind på den andens grænser. Til sidst kan den kulturelle forskel blive så stor, at den ene bosættelse fuldstændigt kan overtage den anden.
+
+    Annektering kan være et vigtigt redskab til at indføre love i en uregerlig bosættelse, der nægter at efterkomme globale behov, da annektering vil deaktivere alle dens love og give den annekterende bosættelse mulighed for at indføre nye.
+  </target>
       </trans-unit>
-      <trans-unit id="364">
+      <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Krav</target>
       </trans-unit>
-      <trans-unit id="365">
+      <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
     The requirements that must be met before one settlement can annex another are:
 
@@ -3438,11 +3480,27 @@ To become a resident of a property, click the name of the property (visible on t
 
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    De krav, der skal opfyldes, før en bosættelse kan annektere en anden, er:
+
+    Bosættelse på højere niveau. Den annekterende bosættelse skal være på et højere niveau end målet, medmindre det er en bosættelse på det højeste niveau (føderationer), som er den eneste type, der har lov til at annektere en bosættelse på samme niveau.
+
+    Krav til indbyggertal. Den annekterende bosættelse skal have en bestemt procentdel af målbosættelsens indbyggertal.
+
+    Krav til omgivende indflydelse.  Dette betyder, at den annekterende bosættelse skal have indflydelse på grunde, der omgiver indflydelsesgrænsen til den tilstødende bosættelse.  Når en fastsat tærskel er nået, er dette krav opfyldt, men jo flere grunde der omgiver indflydelsesområdet, desto større bliver multiplikatoren for det næste krav, nemlig kultur.
+    
+    Kulturkrav. Dette krav fastslår, at kulturen i den annekterende bosættelse skal være større end målbosættelsens på to måder: den skal være en given procentdel større og have en større absolut værdi. Dette er for at forhindre, at små bosættelser med ringe kultur alt for let bliver annekteret; der skal opnås en grundlæggende kulturel fordel.  Kultur opbygges på forskellige måder, som er beskrevet på {Kultur}-siden.
+    
+    Ressourceomkostninger. Dette er en række genstande, der udgør de fysiske omkostninger ved at gennemføre annekteringen. En del heraf fordeles til målsamfundets ikke-forladte borgere, mens resten går til spilde (derfor er det altid billigere at indgå en aftale med et andet samfund end at tvinge det til at underkaste sig ens vilje). De ressourcer, der skal bruges til at gennemføre denne annektering, skal være knyttet til et ambassadebord inden for bosættelsens jurisdiktion, og lageret skal være tilgængeligt for bosættelsens leder.
+
+Bemærk, at bosættelsestypen har betydning: en bosættelse kan kun annektere andre bosættelser på lavere niveauer (dvs. en by kan ikke annektere et land, men en føderation kan annektere en by).  Hvis den annekterende bosættelse er af en højere type end målet (dvs. et land, der annekterer en naboby), anvendes et andet, lettere sæt værdier (vist nedenfor), der gør det nemmere at gennemføre annekteringen.
+  </target>
       </trans-unit>
-      <trans-unit id="366">
+      <trans-unit id="366" xml:space="preserve">
         <source xml:space="preserve">Performing the Annex</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Gennemførelse af bilaget</target>
       </trans-unit>
-      <trans-unit id="367">
+      <trans-unit id="367" xml:space="preserve">
         <source xml:space="preserve">
     Once both these are met, the leader of the settlement can perform the annex at anytime on an {EmbassyDeskItem} associated with the annexing settlement.
     
@@ -3452,19 +3510,33 @@ Note that the type of settlement matters: a settlement can only annex other sett
     
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Når begge disse betingelser er opfyldt, kan lederen af bosættelsen til enhver tid gennemføre annekteringen på et {EmbassyDeskItem}, der er knyttet til den annekterende bosættelse.
+    
+    Når annekteringen aktiveres, og hvis bosættelserne er af samme type, vil målbosættelsen blive fjernet, og alle borgere flyttes til den nye bosættelse.  
+    Hvis bosættelserne er af forskellig type, vil målet blot blive fjernet fra sin nuværende overordnede bosættelse og tilføjet som en underordnet bosættelse til den nye bosættelse.  
+    I begge tilfælde vil alle love og andre samfundsobjekter blive deaktiveret og sendt tilbage til udkastform. 
+    
+    Når en bosættelse er annekteret, kan den ikke længere udføre handlingen 'Secede Settlement' (løsrive bosættelse); den vil være låst til den overordnede bosættelse, indtil denne fjerner den. 
+  </target>
       </trans-unit>
-      <trans-unit id="368">
+      <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Indstillinger for annektering</target>
       </trans-unit>
-      <trans-unit id="377">
+      <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Deltagelse i middagsfester skaber kultur for din bosættelse samt en færdighedsbonus til din ernæring. De er en værdifuld måde at øge kulturudviklingen i verden på ved at bringe borgerne sammen omkring fælles måltider.
+  </target>
       </trans-unit>
-      <trans-unit id="378">
+      <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Krav</target>
       </trans-unit>
-      <trans-unit id="379">
+      <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
       A dinner party will be triggered when valid food is eaten at a location. The requirements are:
       - Dining while seated at a table.  Citizens must be seated, and eat food directly from the table (without picking it up into your inventory).
@@ -3474,20 +3546,35 @@ Note that the type of settlement matters: a settlement can only annex other sett
       - Claimed land. Dinner party must be taking place on claimed property.
       - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
     </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+      Der udløses en middagsselskab, når der spises gyldig mad på et sted. Kravene er:
+      - Man skal spise, mens man sidder ved et bord.  Borgerne skal sidde ned og spise maden direkte fra bordet (uden at lægge den i sin inventar).
+      - Kun frisk mad. Maden skal være frisk for at kvalificere sig til middagsselskaber. 
+      - Maksimalt antal middagsselskaber pr. dag. Der er et begrænset antal middagsselskaber pr. dag pr. person (standardværdien er 1).
+      - Ingen gentagen mad. Middagsfester kan bestå af flere retter, op til et bestemt maksimum, men den samme spiller må ikke få serveret den samme mad gentagne gange.
+      - Ejet jord. Middagsfesten skal finde sted på ejet jord.
+      - Kom sulten! Du kan kun spise så mange retter (op til et maksimum, der er defineret nedenfor), at du bliver mæt.
+    </target>
       </trans-unit>
-      <trans-unit id="380">
+      <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Aktualitet</target>
       </trans-unit>
-      <trans-unit id="381">
+      <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
   Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
   Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+  Når spillet er oprettet, vil al mad, der tilberedes efter en opskrift, kun være frisk nok til en middagsselskab i et bestemt antal minutter (defineret i Config nedenfor), så du bliver nødt til at have en kok, der tilbereder måltiderne i realtid. 
+  Rå mad kan dog være meget ældre og stadig være egnet til middagsfester. Ferskheden vil være synlig på maden, når den placeres på bordet, hvor der vil være enten damp eller andre effekter for at angive meget frisk mad. Du kan se, hvor mange minutter der er tilbage på maden, ved at holde markøren over den.
+</target>
       </trans-unit>
-      <trans-unit id="382">
+      <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bonusser</target>
       </trans-unit>
-      <trans-unit id="383">
+      <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
     The value of the dinner party can be increased by following these guidelines:
     - More guests. The more guests involved in the party, the higher the potential bonus.
@@ -3496,56 +3583,88 @@ Note that the type of settlement matters: a settlement can only annex other sett
     - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
     - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Værdien af middagsfesten kan øges ved at følge disse retningslinjer:
+    - Flere gæster. Jo flere gæster der deltager i festen, jo højere er den potentielle bonus.
+    - Deltagere fra flere bosættelser. At spise sammen med borgere, der ikke bor i en bosættelse, eller som alle kommer fra én og samme bosættelse, genererer kun lidt kultur. For at opnå en betydelig middagsfestbonus skal der være borgere fra flere bosættelser til stede.
+    - Gennemsnitlig næringsværdi. Madens gennemsnitlige næringsværdi omregnes til kulturpoint via en multiplikator (se nedenfor).
+    - Lækkerere mad. Værdien af hver ret bestemmes af de individuelle smagsbonusser, som en borger har; jo lækrere de synes, maden er, desto større er bonusen.
+    - Pænere lokation. Ejendomsværdien af den grund, hvor middagsfesten afholdes, bestemmer den maksimale bonus.
+  </target>
       </trans-unit>
-      <trans-unit id="384">
+      <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Fordele</target>
       </trans-unit>
-      <trans-unit id="385">
+      <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
  - Personal Nutrition Bonus Your nutrition multiplier will be increased based on the dinner parties you've recently attended.
  - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
  - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+ - Personlig ernæringsbonus: Din ernæringsmultiplikator øges på baggrund af de middagsfester, du for nylig har deltaget i.
+ - Bosættelseskulturbonus: Bosættelsen får en samlet kulturværdi baseret på de middagsfester, der afholdes på bosættelsens ejendom.
+ - Bosættelsesindflydelsesbonus: Hvis middagsfesten afholdes på en ejendom af typen »Kultur«, lægges middagsfestens kulturværdi til den samlede kulturværdi, hvilket øger bosættelsens indflydelse.
+</target>
       </trans-unit>
-      <trans-unit id="386">
+      <trans-unit id="386" xml:space="preserve">
         <source xml:space="preserve">
 Dinner parties will decay in value overtime, until reaching zero, after which they are removed from bonuses. You can see the active Dinner Party bonuses you have by looking at the nutrition tooltip.
 
 Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+Middagsfester mister værdi over tid, indtil de når nul, hvorefter de fjernes fra bonusserne. Du kan se de aktive Middagsfest-bonusser, du har, ved at kigge på værktøjstipet for ernæring.
+
+Middagsfester slutter, når værten klikker på 'Afslut', eller efter den fastsatte tidsgrænse, eller når alle er for mætte til at spise endnu en bid.
+</target>
       </trans-unit>
-      <trans-unit id="387">
+      <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Indstillinger til middagsfest</target>
       </trans-unit>
-      <trans-unit id="406">
+      <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bosættelser er et fællesskab af borgere, der har slået sig sammen under aftalte regler.</target>
       </trans-unit>
-      <trans-unit id="407">
+      <trans-unit id="407" xml:space="preserve">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
     -Arnold J. Toynbee
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">»Civilisation er en bevægelse og ikke en tilstand, en rejse og ikke en havn.«
+    – Arnold J. Toynbee
+  </target>
       </trans-unit>
-      <trans-unit id="408">
+      <trans-unit id="408" xml:space="preserve">
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    En bosættelse kan oprettes af en gruppe borgere, der etablerer en regering inden for dens {indflydelsesområde}.
+  </target>
       </trans-unit>
-      <trans-unit id="409">
+      <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Der er tre niveauer af bosættelser:</target>
       </trans-unit>
-      <trans-unit id="410">
+      <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Byer er samlinger af borgere.</target>
       </trans-unit>
-      <trans-unit id="411">
+      <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Lande består af byer og borgere.</target>
       </trans-unit>
-      <trans-unit id="412">
+      <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Føderationer er sammenslutninger af lande, byer og borgere.</target>
       </trans-unit>
-      <trans-unit id="413">
+      <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bosættelseskoncepter</target>
       </trans-unit>
-      <trans-unit id="414">
+      <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
     - {Founding} - Multiple citizens can join together to found a new settlement.
     - {Citizenship} - Citizens may be granted special rights and privileges, and being a citizen of a settlement increases its power.
@@ -3555,8 +3674,17 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    - {Grundlæggelse} – Flere borgere kan gå sammen om at grundlægge en ny bosættelse.
+    - {Statsborgerskab} – Borgere kan tildeles særlige rettigheder og privilegier, og det at være borger i en bosættelse øger dens magt.
+    - {Indflydelse} – Bosættelser udøver indflydelse inden for en radius omkring bestemte bygninger, hvor love og ejendomsregler håndhæves.
+    - {Bosættelsens ejendom} - Jo flere borgere der er i en bosættelse, jo mere ejendom kan der gøres krav på.
+    - {Kultur} - Kultur giver bosættelser mulighed for at udøve indflydelse på nabobosættelser, hvilket kan føre til deres annektering.
+    - {Annektering} - Bosættelser kan overtage andre bosættelser eller gårde, hvis deres kulturniveau er højt nok.
+    - {Ejendomskrise} - Hvis en bosættelse mister indbyggere, kan den muligvis ikke bevare den ejendom, der allerede er gjort krav på.
+  </target>
       </trans-unit>
-      <trans-unit id="415">
+      <trans-unit id="415" xml:space="preserve">
         <source xml:space="preserve">
     Citizenship is membership in a settlement that provides civic powers. The more citizens a settlement has, the more {Settlement Property} it can claim.
 
@@ -3564,54 +3692,85 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Statsborgerskab er medlemskab af en bosættelse, der giver borgerlige rettigheder. Jo flere borgere en bosættelse har, jo mere {Bosættelsesejendom} kan den gøre krav på.
+
+    Hver bosættelse kan tildele statsborgerskab til en liste over personer på fanen {CitizenRosterComponent} i stiftelsesobjektet.   Ikke-borgere kan også ansøge om statsborgerskab her, hvilket skal godkendes af godkenderen, som er angivet i indstillingerne for {Immigration Policy} – som standard er dette bosættelsens leder.  Derudover vil alle borgere i eventuelle underbosættelser automatisk også være borgere i den overordnede bosættelse (dvs. at borgerne i hver by i et land også er borgere i landet).
+
+    Spillere med en eksisterende gård, der bruger {HomesteadSupportClaimPaperItem}, kan problemfrit tilslutte sig bosættelser ved at deponere et tilsvarende antal af den pågældende bosættelses ansøgningspapirer på deres gård.
+  </target>
       </trans-unit>
-      <trans-unit id="416">
+      <trans-unit id="416" xml:space="preserve">
         <source xml:space="preserve">Citizenship Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Indstillinger for statsborgerskab</target>
       </trans-unit>
-      <trans-unit id="417">
+      <trans-unit id="417" xml:space="preserve">
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Kultur skabes af borgerne ved at skabe kreative værker, opdage historiske artefakter (kommer snart), afholde begivenheder og festivaler (kommer snart) samt grundlægge bosættelser. Kultur er altid knyttet til en bosættelse, og jo mere kultur en bosættelse har, desto længere rækker dens {Indflydelse}.
+  </target>
       </trans-unit>
-      <trans-unit id="418">
+      <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kultur fra Settlement Foundation</target>
       </trans-unit>
-      <trans-unit id="419">
+      <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">En grundlagt bosættelse genererer en standardmængde kultur for sin ejendom; denne mængde er konstant og giver et grundlæggende indflydelsesniveau. For at udvide den yderligere og fra andre ejendomme skal der anvendes andre kilder.</target>
       </trans-unit>
-      <trans-unit id="420">
+      <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kultur fra kunstværker</target>
       </trans-unit>
-      <trans-unit id="421">
+      <trans-unit id="421" xml:space="preserve">
         <source xml:space="preserve">
     When Citizens use an {EaselItem} a {HandheldCameraItem} or {TripodCameraItem} to create a picture, these pictures can be displayed in a frame on the wall to give Culture points to the property. The amount of culture depends on the reputation of both the picture and artist, and viewers will be prompted to rate the images they view to give them additional reputation. As these values go up, more culture is generated, up to a limit.  The culture bonus from Citizens in the same settlement, however, is reduced by 90%, so that the majority of value comes from other Citizens of other settlements spreading the reputation of the work. This makes it advantageous to gain reputation in a given settlement, but then sell or transfer it to another settlement, where it will have much more value due to originating from a different place.
 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Når borgere bruger et {EaselItem}, et {HandheldCameraItem} eller et {TripodCameraItem} til at tage et billede, kan disse billeder udstilles i en ramme på væggen for at give ejendommen kulturpoint. Mængden af kultur afhænger af både billedets og kunstnerens omdømme, og seerne bliver bedt om at bedømme de billeder, de ser, for at give dem yderligere omdømme. Efterhånden som disse værdier stiger, genereres der mere kultur, op til en grænse.  Kulturbonusen fra borgere i samme bosættelse reduceres dog med 90 %, så størstedelen af værdien kommer fra andre borgere i andre bosættelser, der spreder værkets omdømme. Dette gør det fordelagtigt at opnå omdømme i en given bosættelse, men derefter sælge eller overføre det til en anden bosættelse, hvor det vil have langt større værdi, fordi det stammer fra et andet sted.
+
+    Inden for et enkelt galleri er der aftagende afkast ved at udstille billeder fra den samme kunstner på ejendommen som helhed.  For at undgå dette kan du i stedet vise en samling fra mange kunstnere.
+  </target>
       </trans-unit>
-      <trans-unit id="422">
+      <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kulturelle indstillinger</target>
       </trans-unit>
-      <trans-unit id="423">
+      <trans-unit id="423" xml:space="preserve">
         <source xml:space="preserve">
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Det første skridt i oprettelsen af en ny bosættelse er at placere grundlæggelsesobjektet.  Disse er {TownFoundationItem}, {CountryFoundationItem} og {FederationFoundationItem}. Når det er placeret, oprettes en ny, endnu ikke grundlagt bosættelse, og når alle krav er opfyldt, kan grundlæggelsesceremonien udløses.
+</target>
       </trans-unit>
-      <trans-unit id="424">
+      <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Krav til oprettelse</target>
       </trans-unit>
-      <trans-unit id="425">
+      <trans-unit id="425" xml:space="preserve">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
 
     When placed, the plot beneath it will be claimed as property of this new settlement, with ownership assigned to the leader.  More plots can be claimed using the {ClaimToolItem} (right-click the item to select the settlement deed as the target).  This will allow you to claim land around the foundation and build a room that meets the requirements.
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Den borger, der lægger grundstenen, bliver byens første leder og får tildelt nogle særlige privilegier, men denne position kan ændre sig over tid afhængigt af regeringens regler.
+
+    Når grundstenen er lagt, vil grunden under den blive gjort til ejendom for denne nye bosættelse, hvor ejerskabet tildeles lederen.  Flere grunde kan erhverves ved hjælp af {ClaimToolItem} (højreklik på genstanden for at vælge bosættelsens skøde som mål).  Dette giver dig mulighed for at gøre krav på jord omkring fundamentet og opføre et rum, der opfylder kravene.
+
+    Bosættelser kræver et minimumsantal borgere, et minimumsantal underbosættelser (dvs. et land skal bestå af et bestemt antal byer for at kunne dannes) samt et minimumsniveau for kultur i alle underbosættelserne.  For den laveste bosættelsestype, en by, kræves der hverken kultur eller underbosættelser (da en by ikke kan have underbosættelser, da den er den laveste).  Under fanen 'Borgere' på grundlæggelsesobjektet kan lederen invitere og godkende ansøgende borgere, og andre ikke-borgere kan acceptere invitationer og ansøge om at blive borgere.min
+</target>
       </trans-unit>
-      <trans-unit id="426">
+      <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Vedtagelse af forfatningen</target>
       </trans-unit>
-      <trans-unit id="427">
+      <trans-unit id="427" xml:space="preserve">
         <source xml:space="preserve">
     Once all the requirements are met, the election to ratify the settlement {Constitution} can begin.  On the Constitution tab, you can configure the constitution however you like, designing your government as you see fit (see Constitution guide). Once you click to start the voting, all current citizens of the settlement will be allowed to vote on it.  If it fails, you can make alterations and try again.
 
@@ -3621,11 +3780,21 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Når alle krav er opfyldt, kan afstemningen om at ratificere bosættelsens {forfatning} begynde.  Under fanen »Forfatning« kan du konfigurere forfatningen, som du vil, og udforme din regeringsform, som du finder det passende (se vejledningen til forfatningen). Når du klikker for at starte afstemningen, får alle nuværende borgere i bosættelsen lov til at stemme om den.  Hvis den ikke bliver vedtaget, kan du foretage ændringer og prøve igen.
+
+    Hvis du ønsker det, kan du tilføje andre samfundselementer til den indledende grundlæggelse af din bosættelse. For eksempel kan du ved at placere en domstol på den oprindelige bosættelsesgrund oprette love knyttet til bosættelsen, som kan sættes på samme afstemning som ratificeringen af forfatningen. Du kan på denne måde samle et vilkårligt antal samfundsobjekter i en enkelt afstemning, hvis du ønsker at starte din regering i en mere færdigudviklet form.  Hvis ikke, kan du altid tilføje dem senere ved hjælp af yderligere afstemninger.
+
+    Når alle krav er opfyldt, og forfatningen er ratificeret, er bosættelsen klar til at blive grundlagt!  Klik på knappen under fanen »Grundlæggelse« på objektet »Grundlæggelse« for at starte afsløringsceremonien, som alle dine borgere kan deltage i for at fejre starten på en ny bosættelse.
+
+    Når den er grundlagt, vil din bosættelse begynde at udøve {Indflydelse}, generere {Bosættelsesformue} og modtage {Kultur}.
+  </target>
       </trans-unit>
-      <trans-unit id="428">
+      <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Indstillinger for grundlæggelse af bosættelser</target>
       </trans-unit>
-      <trans-unit id="429">
+      <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
     A settlement can have its rules about new Citizens defined in an {Immigration Policy}.
 
@@ -3633,24 +3802,39 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    En bosættelse kan have sine egne regler for nye borgere defineret i en {Immigration Policy}.
+
+    Hver bosættelse har altid én {Immigration Policy} tilknyttet.  Den starter som et indbygget objekt i bosættelsen med standardindstillinger, der giver lederen mulighed for at godkende nye borgere, og den er synlig i værktøjstipene for bosættelsen.  Når et {ImmigrationDeskItem} placeres inden for bosættelsens indflydelsesområde, kan denne politik redigeres.
+
+    Der kan fastsættes krav, der skal opfyldes og/eller opretholdes for at forblive borger i bosættelsen. For at borgere kan blive eller forblive borgere, skal de opfylde alle disse krav i den bosættelse, de tilslutter sig, samt i alle dens overordnede bosættelser.
+  </target>
       </trans-unit>
-      <trans-unit id="430">
+      <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bydel-reklame</target>
       </trans-unit>
-      <trans-unit id="431">
+      <trans-unit id="431" xml:space="preserve">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Når en bosættelse er indstillet til at tillade, at helt nye spillere straks kan slutte sig til, låses en særlig funktion op. Nye spillere vil, når de starter spillet, blandt andre mulige startpositioner se bosættelsen på kortet samt en besked fra bosættelsen (angivet i afsnittet »Annoncering« under indvandringspolitikken).  Når de på denne måde kommer ind i verden og til din bosættelse, bliver de automatisk borgere og starter på en bestemt position ved siden af objektet »Indvandringsskranken«.  Brug af denne funktion er en fantastisk måde at få nye spillere ind i dine bosættelser og opbygge et fællesskab.
+  </target>
       </trans-unit>
-      <trans-unit id="432">
+      <trans-unit id="432" xml:space="preserve">
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Når en bosættelse er {grundlagt|grundlæggelse}, begynder den at udøve indflydelse inden for en radius omkring grundlæggelsesstedet.  Alt land under dens indflydelse vil være underlagt dens love og samfundsmæssige tiltag.
+  </target>
       </trans-unit>
-      <trans-unit id="433">
+      <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Kultur skaber indflydelse</target>
       </trans-unit>
-      <trans-unit id="434">
+      <trans-unit id="434" xml:space="preserve">
         <source xml:space="preserve">
     Influence can be extended with {Culture}. The higher the culture level of a property, the more influence it will cast for the owning settlement.  This allows you to expand your borders by increasing culture, or creating new cultural properties. There are limits, however, on the number of cultural properties and the max influence castable, so borders cannot be expanded indefinitely. Each level-up of settlement allows a farther range of influence to be cast, and more cultural properties to be created.
     
@@ -3658,26 +3842,43 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Indflydelsen kan udvides med {Kultur}. Jo højere kulturniveauet er for en ejendom, desto større indflydelse vil den udøve for den bosættelse, der ejer den.  Dette giver dig mulighed for at udvide dine grænser ved at øge kulturniveauet eller oprette nye kulturelle ejendomme. Der er dog begrænsninger på antallet af kulturelle ejendomme og den maksimale indflydelse, der kan udøves, så grænserne kan ikke udvides i det uendelige. Hver gang en bosættelse stiger et niveau, kan der udøves indflydelse over et større område, og der kan oprettes flere kulturelle ejendomme.
+    
+    Indflydelsen udøves fra den gennemsnitlige placering af værelserne på ejendommen, vægtet efter deres ejendomsværdier.  
+
+    {Homesteads|HomesteadClaimStakeObject} er ejendomme til én person, der er knyttet til den bosættelse, hvor ejeren er borger. Hvis ejeren ikke er borger i nogen bosættelse, vil ejendommen ikke blive påvirket af nogen.  Dette kan skabe huller i byens indflydelse, når borgere frasiger sig deres statsborgerskab, men en magtfuld bosættelse kan tvangsanlægge krav på denne ejendom gennem processen {Annexation}.
+  </target>
       </trans-unit>
-      <trans-unit id="435">
+      <trans-unit id="435" xml:space="preserve">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Flere indflydelsesrige bosættelser</target>
       </trans-unit>
-      <trans-unit id="436">
+      <trans-unit id="436" xml:space="preserve">
         <source xml:space="preserve">
     Each settlement level (Town, Country, Federation) has its own map of influence, and only one settlement of each type may influence a given plot (IE, two Towns cannot influence the same plot).  However, if a settlement is a sub-settlement of another settlement, then that parent will also cast influence on the plot (IE, a Country's influence will be cast everywhere its member town's influences are cast).  In plots influenced by more than one settlement in this way, the governments of all settlement will apply.
     
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Hvert bosættelsesniveau (by, land, føderation) har sit eget indflydelsesområde, og kun én bosættelse af hver type kan udøve indflydelse på en given grund (dvs. to byer kan ikke udøve indflydelse på den samme grund).  Hvis en bosættelse imidlertid er en underbosættelse til en anden bosættelse, vil den overordnede bosættelse også udøve indflydelse på grunden (dvs. et lands indflydelse vil gælde overalt, hvor dets medlemsbyers indflydelse gælder).  I områder, der på denne måde er under indflydelse af mere end én bosættelse, vil regeringerne i alle bosættelserne finde anvendelse.
+    
+    Når to bosættelser af samme type konkurrerer om indflydelse, vil den, der ligger tættest på, trænge længere ind i den andens indflydelsesgrænser.  Imidlertid vil ethvert område, der allerede er gjort krav på, forblive under indflydelse, selvom det ellers ville være omfattet af den modstående bosættelse. Dette kan endda føre til, at dele af bosættelsen bryder ud og bliver omgivet af andre bosættelser.
+</target>
       </trans-unit>
-      <trans-unit id="437">
+      <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Grænsekontrol</target>
       </trans-unit>
-      <trans-unit id="438">
+      <trans-unit id="438" xml:space="preserve">
         <source xml:space="preserve">
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    På et {Immigration Desk|ImmigrationDeskObject} kan ledelsen af en bosættelse udpege nabogårde eller -bosættelser, der kan gøre krav på områder inden for vores indflydelsessfære. Hvis en nabo ønsker at gøre krav på jord, der ellers er under din bosættelses indflydelse (måske mod betaling), er dette måden at give tilladelse til det på.
+  </target>
       </trans-unit>
-      <trans-unit id="439">
+      <trans-unit id="439" xml:space="preserve">
         <source xml:space="preserve">
     A Property Crisis occurs when the number of Citizens in a settlement reduces such that there aren't enough Citizens to support the number of Claim Stakes and Claim Papers in use.
     
@@ -3692,11 +3893,26 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Der opstår en ejendomskrise, når antallet af borgere i en bosættelse falder så meget, at der ikke er nok borgere til at understøtte det antal ejendomsmærker og ejendomsdokumenter, der er i brug.
+    
+    Da bosættelser genererer ejendomsmærker og ejendomsdokumenter, når borgere tilmelder sig, og fjerner dem, når de forlader bosættelsen, er det muligt for borgere at forlade bosættelsen og udløse en ejendomskrise, hvis der ikke er nogen ledige ejendomsmærker eller ejendomsdokumenter, der kan fjernes fra objektet »Bosættelsesfonden«.  Når dette sker, starter en tidsfrist, inden udløbet af hvilken borgerne skal returnere det nødvendige antal pæle og dokumenter til bosættelsesfundamentet ved at frasige sig eller indsamle dem på den måde, de kan.  Når pæle og krav placeres i et bosættelsesfundament under en ejendomskrise, fjernes de straks, og hvis underskuddet udlignes, afsluttes krisen øjeblikkeligt.
+
+    Hvis borgerne ikke er i stand til eller ikke er villige til at aflevere de nødvendige pæle og papirer, inden timeren udløber, vil pæle og papirer blive destrueret, uanset hvor de befinder sig. Når en ejendomskrise løses, vil følgende tilbageholdelser finde sted:
+    - Først vil krav/pæle, der ikke er i brug (f.eks. i en borgers rygsæk), blive destrueret.
+    - Derefter vil indsatser/krav, der er i brug, blive destrueret, hvis underskuddet stadig ikke er dækket.
+    I begge trin vil krav, der ejes af forladte borgere, blive destrueret først.
+
+    Det er meget vigtigt, at bosættelserne forvalter deres borgerpopulationer omhyggeligt for at forhindre et underskud, og det er klogt at holde nogle i reserve og ikke bruge dem med det samme, eller at tilpasse sig, når borgere begynder at forlade bosættelsen.
+
+    Borgere, der overgår til kategorien »Forladte {Demografi}«, vil også ophøre med at bidrage til antallet af genererede Stakes og Papers, hvilket ligeledes kan føre til en ejendomskrise.
+  </target>
       </trans-unit>
-      <trans-unit id="440">
+      <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Indstillinger for ejendomskrisen</target>
       </trans-unit>
-      <trans-unit id="441">
+      <trans-unit id="441" xml:space="preserve">
         <source xml:space="preserve">
     As more Citizens join a Settlement, more {Property} can be claimed, using Claim Stakes and Claim Papers associated with the settlement.
 
@@ -3704,15 +3920,25 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">
+    Jo flere borgere der slutter sig til en bosættelse, jo mere {ejendom} kan der gøres krav på ved hjælp af markeringspæle og ejendomsdokumenter, der er knyttet til bosættelsen.
+
+    Bosættelsen genererer disse objekter baseret på sit niveau, med markeringspæle af typen {TownClaimStakeItem}, {CountryClaimStakeItem} og {FederationClaimStakeItem}.  Disse vil gøre krav på ejendom i navnet på den bosættelse, de er knyttet til, og kan opgraderes med {ClaimPaperItem} for at gøre krav på flere grunde ved at placere dem i ejendomsmærkets inventar.
+
+    Hvis borgere forlader bosættelsen, vil det maksimale antal tilladte ejendomsdokumenter og ejendomsmærker blive reduceret og fjernet fra bosættelsens grundlæggende inventar.  Hvis de alle er i brug og ikke kan returneres, vil der opstå en {ejendomskrise}.
+  </target>
       </trans-unit>
-      <trans-unit id="442">
+      <trans-unit id="442" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Krav om støtte til Homestead</target>
       </trans-unit>
-      <trans-unit id="443">
+      <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Bosættelser vil også generere {Homestead Support Claims|HomesteadSupportClaimPaperItem}, som kan gives eller sælges til ikke-borgere. Disse krav giver gårde, der ikke er tilknyttet en bosættelse, mulighed for at gøre krav på flere grunde hvor som helst på kortet.  Typisk vil landmænd i fjerntliggende, isolerede regioner, der ønsker at have større gårde, søge disse (ved at bytte med mad eller arbejdskraft) fra byer rundt om i verden. De repræsenterer støtte fra en bosættelse, der gælder for beskyttelse af ejendom uden for bosættelsen.</target>
       </trans-unit>
-      <trans-unit id="444">
+      <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Indstillinger for bosættelsens egenskaber</target>
       </trans-unit>
     </body>
   </file>
