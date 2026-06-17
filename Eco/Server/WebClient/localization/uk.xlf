@@ -674,35 +674,41 @@
         <source xml:space="preserve">No Active Titles</source>
         <target xml:space="preserve" state="translated">Немає активних титулів</target>
       </trans-unit>
-      <trans-unit id="176">
+      <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Веб-графіки стануть доступними після першого кроку симуляції</target>
       </trans-unit>
       <trans-unit id="177" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here</source>
         <target xml:space="preserve" state="translated">Аргументи щодо законів будуть тут, розмір мап може бути змінений, щоби краще вміщати текст</target>
       </trans-unit>
-      <trans-unit id="178">
+      <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Без метеорита</target>
       </trans-unit>
       <trans-unit id="179" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu</source>
         <target xml:space="preserve" state="translated">Оберіть вибори з меню або балотуйтеся самі</target>
       </trans-unit>
-      <trans-unit id="180">
+      <trans-unit id="180" xml:space="preserve">
         <source xml:space="preserve">The meteor was destroyed</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Метеорит було знищено</target>
       </trans-unit>
-      <trans-unit id="181">
+      <trans-unit id="181" xml:space="preserve">
         <source xml:space="preserve">There have been no elections yet</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Виборів поки що не проводилося</target>
       </trans-unit>
       <trans-unit id="182" xml:space="preserve">
         <source xml:space="preserve">To start a new election</source>
         <target xml:space="preserve" state="translated">Щоби почати нові вибори, ви маєте додати себе кандидатом</target>
       </trans-unit>
-      <trans-unit id="183">
+      <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">TwitchVotes</target>
       </trans-unit>
-      <trans-unit id="184">
+      <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Голоси користувачів</target>
       </trans-unit>
       <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
