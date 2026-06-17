@@ -638,8 +638,9 @@
         <source xml:space="preserve">Elected Officials</source>
         <target xml:space="preserve" state="translated">Oficialii aleși</target>
       </trans-unit>
-      <trans-unit id="167">
+      <trans-unit id="167" xml:space="preserve">
         <source xml:space="preserve">Title Holders</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Deținătorii titlului</target>
       </trans-unit>
       <trans-unit id="168" xml:space="preserve">
         <source xml:space="preserve">Status</source>
@@ -673,35 +674,45 @@
         <source xml:space="preserve">No Active Titles</source>
         <target xml:space="preserve" state="translated">Fără titluri active</target>
       </trans-unit>
-      <trans-unit id="176">
+      <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Graficele web vor fi disponibile după primul ciclu de simulare</target>
       </trans-unit>
-      <trans-unit id="177">
+      <trans-unit id="177" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Discuția privind legile se desfășoară aici</target>
       </trans-unit>
-      <trans-unit id="178">
+      <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Fără meteorit</target>
       </trans-unit>
-      <trans-unit id="179">
+      <trans-unit id="179" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Selectează o alegere din meniu</target>
       </trans-unit>
-      <trans-unit id="180">
+      <trans-unit id="180" xml:space="preserve">
         <source xml:space="preserve">The meteor was destroyed</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Meteoritul a fost distrus</target>
       </trans-unit>
-      <trans-unit id="181">
+      <trans-unit id="181" xml:space="preserve">
         <source xml:space="preserve">There have been no elections yet</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Nu au avut loc încă alegeri</target>
       </trans-unit>
-      <trans-unit id="182">
+      <trans-unit id="182" xml:space="preserve">
         <source xml:space="preserve">To start a new election</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Pentru a iniția o nouă alegere</target>
       </trans-unit>
-      <trans-unit id="183">
+      <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">TwitchVotes</target>
       </trans-unit>
-      <trans-unit id="184">
+      <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Voturi utilizatori</target>
       </trans-unit>
-      <trans-unit id="185">
+      <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
+        <target state="needs-translation" state-qualifier="leveraged-mt">Când se construiește o Trezorerie</target>
       </trans-unit>
     </body>
   </file>
