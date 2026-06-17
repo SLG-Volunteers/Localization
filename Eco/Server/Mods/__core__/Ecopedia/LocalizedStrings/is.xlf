@@ -1243,7 +1243,7 @@ Nú erum við að vinna að því að bæta við úthlutun eigna og hverfa í le
       </trans-unit>
       <trans-unit id="150" xml:space="preserve">
         <source xml:space="preserve">"The true meaning of life is to plant trees, under whose shade you do not expect to sit."\n– Nelson Henderson</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">"Sannur tilgangur lífsins er að planta trjám, undir skugga þeirra sem þú ætlar þér ekki að sitja." – Nelson Henderson</target>
+        <target state="needs-translation">"Sannur tilgangur lífsins er að planta trjám, undir skugga þeirra sem þú ætlar þér ekki að sitja."\n – Nelson Henderson</target>
       </trans-unit>
       <trans-unit id="151" xml:space="preserve">
         <source xml:space="preserve">
@@ -1631,7 +1631,7 @@ Fer eftir því hvaða {Civic Articles} eru í boði, geta þessar aðgerðir kr
       </trans-unit>
       <trans-unit id="193" xml:space="preserve">
         <source xml:space="preserve">"The punishment which the wise suffer who refuse to take part in the government, is to live under the government of worse men."\n- Plato</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">"Refsingin sem hinir vituru þjást fyrir að neita að taka þátt í stjórnkerfinu er sú að lifa undir stjórn verri manna." - Platón</target>
+        <target state="needs-translation">"Refsingin sem hinir vituru þjást fyrir að neita að taka þátt í stjórnkerfinu er sú að lifa undir stjórn verri manna."\n - Platón</target>
       </trans-unit>
       <trans-unit id="194" xml:space="preserve">
         <source xml:space="preserve">Between the ecosystem and the economy lies the government, run by citizens to ensure the survival and thriving of both.
