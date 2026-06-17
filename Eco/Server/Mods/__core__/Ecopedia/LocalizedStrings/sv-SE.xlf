@@ -4,8 +4,6 @@
     <body>
       <trans-unit id="0" xml:space="preserve">
         <source xml:space="preserve">Components related to the economy.</source>
-        <target xml:space="preserve" state="translated">Komponenter relaterade till ekonomi.
-</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
