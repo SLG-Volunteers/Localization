@@ -80,7 +80,6 @@ When setting the Work desired, the poster of the work party can decide to hire f
 После размещения рабочей группы, рабочие смогут присоединиться к проекту через доску объявлений. По умолчанию любой житель может присоединиться к рабочей группе в качестве рабочего, но могут устанавливаться требования как для отдельных ролей, так и общих требований для всех желающих присоединиться. Когда отмечено 'Добавление ролей при заполнении', то если все роли заняты, места для новых рабочих будут создаваться автоматически.
 
 При настройке требований, заказчик рабочей группы может решать нанимать для работы, для ресурсов, либо оба варианта. Любой житель, который вносит свой вклад в рабочую группу, получит долю оплаты, в зависимости от объема выполненной работы. При увеличенном Весе определенной работы в рабочей группе, она оплачивается более высоко.
-
 </target>
       </trans-unit>
       <trans-unit id="9" xml:space="preserve">
@@ -105,7 +104,6 @@ There are a variety of Payment options for a work party, and multiple payment op
 - Когда предлагается {Research} в качестве оплаты, все жителя, которые внесли необходимой вклад, получат технологию, когда рабочая группа будет завершена. Исследование может быть предложено в качестве оплаты только тогда, когда рабочая группа создает исследовательскую книгу или если житель, предлагающий рабочую группу, имеет исследовательскую книгу в своем инвентаре при создании рабочей группы.
 
 - При предоставлении {Title|Titles} в качестве оплаты, житель, публикующий договор, должен иметь право назначать на предлагаемую должность. Все жители, внесшие минимальный вклад, получат новую должность. Тип доступа определяет, получат ли они право управлять или только использовать должность.
-
 </target>
       </trans-unit>
       <trans-unit id="10" xml:space="preserve">
@@ -128,7 +126,7 @@ When selecting "None" for the currency in a store, direct trades are possible wi
 
 Objects with a {Crafting Component} can define a fee for authorized citizens to use them. The settings in the Credit Component will determine what currency that fee is charged in and what account the funds are deposited to.
   </source>
-        <target xml:space="preserve" state="translated">
+        <target xml:space="preserve" state="needs-translation">
 При выборе {Bank Accounts}, житель может выбрать любой счёт к которому у него есть доступ (выполняется в {Bank Component}).
 
 Любая мировая {Currencies|Currency} может быть выбрана в разделе кредита. Эта валюта которая будет использоваться для любых операций происходят на этом объекте (например {Store|Store Component} будет принимать любую валюту, указанную здесь). 
@@ -233,8 +231,7 @@ The owner may designate what items are to be distributed, how many of each item,
       <trans-unit id="26" xml:space="preserve">
         <source xml:space="preserve">The Mint Component allows citizens to create {Currencies|Currency} which are backed by a resource. 
 </source>
-        <target xml:space="preserve" state="translated">{MintItem} позволяет жителям создавать {Currencies|Currency}, которая обеспечена одним из ресурсов.
-
+        <target xml:space="preserve" state="translated">{MintItem} позволяет жителям создавать {Currencies|Currency}, которая обеспечена одним из ресурсов. 
 </target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
@@ -295,7 +292,6 @@ The Civic Action Component allows citizens to participate in {Elections}, perfor
 </source>
         <target xml:space="preserve" state="translated">
 Вкладка Гражданское действие позволяет жителям участвовать в {Elections}, выполнять {Executive Actions}, или покидать должности. Набор действий будет зависеть от того, какой объект используется.
-
 </target>
       </trans-unit>
       <trans-unit id="35" xml:space="preserve">
@@ -320,7 +316,6 @@ To run for elected titles, first an eligible citizen must use the Start Election
 Жители у которых есть право вето, могут вмешаться в текущий {Election Process|Election Processes} и отменить голосование.
 
 Чтобы баллотироваться на выборную должность, житель, имеющий право участвовать в выборах должен воспользоваться действием Начать голосование. Житель, имеющий на это право, может присоединиться к текущей предвыборной гонке со своей предвыборной речью, воспользовавшись действием Стать кандидатом. Снять свою кандидатуру с выборов кандидат может в любое время, для этого он должен воспользоваться соответствующим действием в урне для голосования.
-
 </target>
       </trans-unit>
       <trans-unit id="37" xml:space="preserve">
@@ -341,7 +336,6 @@ The Action on Each Citizen will take effect as soon as the executive action is a
 Житель диктует условия, к каким жителям относится исполнительное действие, и для жителей может быть установлено несколько условий-характеристик. Чтобы выполнить действие для всех жителей, используйте {Demographic} все для выбора жителей.
 
 Действие в отношении каждого жителя вступит в силу, как только будет одобрено исполнительное действие. Несколько действий могут быть выполнены одновременно для каждого жителя, который соответствует этим условиям.
-
 </target>
       </trans-unit>
       <trans-unit id="39" xml:space="preserve">
@@ -362,7 +356,6 @@ The Remove Official from Office action allows citizens who have been given the a
 Действие об отставке с должности позволяет любому избранному должностному лицу уйти со своего поста. Если титул преемника был присвоен избранному титулу при его создании, то новое должностное лицо будет случайным образом выбрано из числа всех граждан, обладающих этим титулом; в противном случае избранный титул становится вакантным.
 
 Действие отстранить должностное лицо от должности позволяет гражданам, которым были даны полномочия, отстранить избранные должности от должности. Действуют те же правила поиска преемника, что и в случае отставки чиновника.
-
 </target>
       </trans-unit>
       <trans-unit id="41" xml:space="preserve">
@@ -682,8 +675,10 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	</source>
         <target xml:space="preserve" state="translated">
-Объекты со входом воды и насосы с выходом воды соединяются системой труб. Система водопровода может иметь несколько входов для водяных насос и несколько выходов для объектов, требующих воду. 
-Проверка всплывающей подсказки о воде в компоненте Труба позволит гражданину точно проверить количество воды, которую потребляет или производит объект. Если вырабатывается недостаточное количество воды, объект не будет работать. 
+Объекты со входом воды и насосы с выходом воды соединяются системой труб. Система водопровода может иметь несколько входов для водяных насос и несколько выходов для объектов, требующих воду.	
+
+Проверка всплывающей подсказки о воде в компоненте Труба позволит гражданину точно проверить количество воды, которую потребляет или производит объект. Если вырабатывается недостаточное количество воды, объект не будет работать.
+
 Трубы, содержащие сточные воды, работают аналогично водопроводным трубам, но {Sewage}, которые в них содержаться, являются источников загрязнения почвы. После изобретения {Waste Filters|Waste Filter Item}, сточные воды можно направить в фильтр для уменьшения загрязнения почвы.
 	</target>
       </trans-unit>
@@ -774,10 +769,12 @@ Each condition in the Status Component must be satisfied before an object can be
 - A working {Sewage} system
 	</source>
         <target xml:space="preserve" state="translated">
-Что бы объект стал активным должны быть выполнены все условия на вкладке 'Статус'. 
-Примеры условий:
+Что бы объект стал активным должны быть выполнены все условия на вкладке 'Статус'.  Примеры условий:
+
 - Быть установленным в требуемой {Room|Rooms}
+
 - Иметь достаточно {Power} для работы
+
 - Иметь исправную {Sewage}
 	</target>
       </trans-unit>
@@ -857,7 +854,6 @@ Bank accounts are useful for organizing currency, allowing access to funds by mu
         <target xml:space="preserve" state="translated">Банковые аккаунты – это хранилища {Currency}, к которым может получить один или более жителей. Каждый житель появляется в мире с личным банковским аккаунтом, содержащим бесконечное количество Личных Кредитов. В {Bank|bank component} можно создать дополнительные банковские аккаунты и управлять правами доступа к ним.
 
 Банковские аккаунты полезны для организации валюты, предоставляя доступ к финансам для различных групп, хранению налогов и управлению правами на них. В основном, правительства будут создавать несколько банковских аккаунтов для управления входящими налогами, что позволит им использовать финансы нужным образом. Каждый банковский аккаунт способен хранить бесконечное количество денежных единиц бесконечного количества валют, причём каждая валюта отслеживается отдельно. Нажатие на банковский аккаунт отобразит бухгалтерскую книгу со всеми транзакциями с ним, так как все транзакции в Eco публичны.
-
 </target>
       </trans-unit>
       <trans-unit id="112" xml:space="preserve">
@@ -932,7 +928,6 @@ Currencies can be transferred to others in the Economy Viewer, as well as throug
 Обеспеченные валюты гораздо более стабильны. Обеспеченная валюта создается в компоненте {Mint|Mint Component} путем преобразования материала поддержки валюты в монеты. Больше валюты может быть создано только путем приобретения большего количества данного материала. Это обеспечивает гораздо более строгий лимит на количество валюты, которое может быть введено в мир, и формирует более прочную основу для глобальной торговли. Часто мир выбирает переход от коллекции личных валют к одной или нескольким обеспеченным валютам, поскольку экономика растет по дуге игры, и требуется больше глобальной торговли и сотрудничества.
 
 Валюты могут быть переданы другим лицам в программе просмотра экономики, а также через {Trade}. Вся валюта хранится на {Bank Account|Bank Accounts}.
-
 </target>
       </trans-unit>
       <trans-unit id="119" xml:space="preserve">
@@ -999,7 +994,6 @@ Penalties for defaulting on loans can be constructed using {Laws}, by watching f
 Если гражданин покупает облигацию, он дает деньги той стороне, которая предлагает облигацию, и ожидает, что они будут возвращены с процентами.
 
 Штрафы за неисполнение обязательств по кредитам могут быть построены с использованием {Laws}, наблюдая за триггером дефолта по кредиту/облигациям. Затем могут быть приняты меры, такие как возврат имущества или применение других штрафов.
-
 </target>
       </trans-unit>
       <trans-unit id="126" xml:space="preserve">
@@ -1010,14 +1004,12 @@ Penalties for defaulting on loans can be constructed using {Laws}, by watching f
         <source xml:space="preserve">Each player can affect the Reputation of any other player, which can in turn be used as a factor in laws, contracts, etc, which may query a citizens reputation and determine privileges (or lack thereof) based on the value). To set reputation on a citizen, hover over their name in chat and click their reputation listing in the tooltip (a list of all citizens can be found on the page {Current Citizens}).
 </source>
         <target xml:space="preserve" state="translated">Каждый игрок может влиять на репутацию любого другого игрока, что, в свою очередь, может использоваться в качестве условия в контрактах, законах и т.д., запрашивать репутацию жителей и определять привилегии ( или лишать их) в зависимости от значения. Что бы дать репутацию другому жителю наведите указатель мыши на его ник в чате и кликните по его репутацию в всплывшей подсказке (полный список жителей можно найти на странице {Current Citizens}).
-
 </target>
       </trans-unit>
       <trans-unit id="128" xml:space="preserve">
         <source xml:space="preserve">Reputation is modified by a Network Multiplier, which is a calculate as +1 for every citizen giving you positive reputation, and -1 for every citizen giving you negative reputation.  This way, it becomes more beneficial to help many citizens and gain a wide-spread reputation than to focus narrowly on a few citizens.  Relative Reputation is another value that only takes into account citizens that you have given positive reputation to.
 </source>
         <target xml:space="preserve" state="translated">Репутация модифицируется сетевым множителем, который вычисляется как +1 для каждого жителя, дающего вам положительную репутацию, и -1 для каждого жителя, дающего вам отрицательную репутацию. Таким образом, становится более выгодно помогать многим жителям и завоевывать широкую известность, чем сосредотачиваться только на нескольких жителях. Относительная репутация - это еще одна величина, которая учитывает только тех жителей, которым вы дали положительную репутацию.
-
 </target>
       </trans-unit>
       <trans-unit id="129" xml:space="preserve">
@@ -1045,14 +1037,13 @@ Skill books are some of the most difficult items to create, and citizens will ty
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">Торговля с вашими согражданами очень важна в Eco, так как каждый игрок имеет набор {Specialties}, в которые он может внести свой вклад наиболее эффективно, торгуя с другими гражданами, которые квалифицированы в профессиях, в которых они не являются.
+        <target xml:space="preserve" state="needs-translation">Торговля с вашими согражданами очень важна в Eco, так как каждый игрок имеет набор {Specialties}, в которые он может внести свой вклад наиболее эффективно, торгуя с другими гражданами, которые квалифицированы в профессиях, в которых они не являются.
 
 - Сделки могут быть настроены на {Store Component}, перечисляя цены покупки/продажи для различных товаров, которые вы хотели бы получить. Граждане могут тогда покупать и продавать вам товары в любое время, не присутствуя при этом в игре.
 - Торговля рабочей силой может происходить через {Contracts} и {Work Parties}, что позволяет игрокам выполнять работу за плату в согласованные сроки. Это также может быть выполнено в любое время.
 - Торговля валютами может происходить на {Currency Exchange|Exchange Component}, перечисляя цены покупки/продажи для различных валют.
 - Торговле способствует {Transport}, и создание транспортной инфраструктуры между растущими центрами вашей цивилизации значительно повысит способность к торговле.
 - Торговля облагается {Taxes}, установленными Правительством{government overview}, которые могут либо способствовать, либо снижать стоимость определенных сделок.
-
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
