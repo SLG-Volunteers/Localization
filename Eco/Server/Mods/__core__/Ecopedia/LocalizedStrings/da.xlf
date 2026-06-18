@@ -51,7 +51,7 @@ Any payment offered for a contract will be held in a special Escrow {Bank Accoun
         <target xml:space="preserve" state="translated">
 Når du sender en kontrakt, kan den have så mange eller så få klausuler som ønsket, og hver klausul kan konfigureres til at beskrive det ønskede job. Hver klausul skal være opfyldt, før kontrakten betragtes som fuldstændig.
 
-Når 'Auto-Accept' er markeret, registreres afslutningen af ​​kontrakter automatisk af systemet. For eksempel, hvis en kontrakt er indstillet til at bygge en vej mellem to punkter, kan den entreprenør, der udfører arbejdet, åbne kontrakten i deres sidemenu og trykke på 'Job færdig', hvilket vil udløse en detektion, hvis jobbet virkelig er afsluttet. I så fald udbetales kontrakten i henhold til aftalen og lukkes automatisk.
+Når 'Auto-Accept' er markeret, registreres afslutningen af kontrakter automatisk af systemet. For eksempel, hvis en kontrakt er indstillet til at bygge en vej mellem to punkter, kan den entreprenør, der udfører arbejdet, åbne kontrakten i deres sidemenu og trykke på 'Job færdig', hvilket vil udløse en detektion, hvis jobbet virkelig er afsluttet. I så fald udbetales kontrakten i henhold til aftalen og lukkes automatisk.
 
 'Brugerdefineret klausul' er en særlig klausul, der giver spillerne mulighed for med ord at beskrive, hvad de gerne vil have gjort. Hvis en kontrakt indeholder en sådan klausul, skal den godkendes manuelt af klienten (autoaccept kontrolleres muligvis ikke), da automatisk detektion ikke kan bestemme, hvornår den er færdig.
   
@@ -185,7 +185,7 @@ The owner of a {CurrencyExchangeItem} uses the Exchange Component to offer curre
 When an {Authorized Consumer|Authorization Component} visits the currency exchange, they will see a list of all offered exchanges. By default, all citizens are authorized consumers.
 	</source>
         <target xml:space="preserve" state="translated">
-Ejeren af ​​et {CurrencyExchangeItem} bruger Exchange-komponenten til at tilbyde valutaveksling til andre borgere. Når du opretter en børs, er ejervalutaen den valuta, der udbydes til salg. For hver enhed af købt ejervaluta opkræves borgere det fastsatte beløb af alternativ valuta.
+Ejeren af et {CurrencyExchangeItem} bruger Exchange-komponenten til at tilbyde valutaveksling til andre borgere. Når du opretter en børs, er ejervalutaen den valuta, der udbydes til salg. For hver enhed af købt ejervaluta opkræves borgere det fastsatte beløb af alternativ valuta.
 
 Når en {Authorized Consumer|Authorization Component} besøger valutavekslingen, vil de se en liste over alle tilbudte børser. Som standard er alle borgere autoriserede forbrugere.
 	</target>
@@ -201,9 +201,9 @@ The owner of the Currency Exchange has the option to setup Balance Restrictions.
 The number on the left is the minimum currency holding and the number on the right is the maximum currency holding. If either value for the balance restriction is left at 0, there will be no limit for that part of the balance restriction.
 	</source>
         <target xml:space="preserve" state="translated">
-Ejeren af ​​valutavekslingen har mulighed for at indstille saldobegrænsninger. Disse forhindrer borgere i at udveksle valuta, hvis valutaen på den valgte konto ikke overholder begrænsningen.
+Ejeren af valutavekslingen har mulighed for at indstille saldobegrænsninger. Disse forhindrer borgere i at udveksle valuta, hvis valutaen på den valgte konto ikke overholder begrænsningen.
 
-Nummeret til venstre er den mindste valutaindkomst, og tallet til højre er den maksimale valutaindhold. Hvis en af ​​værdierne for balancebegrænsningen efterlades ved 0, er der ingen grænse for den del af balancebegrænsningen.
+Nummeret til venstre er den mindste valutaindkomst, og tallet til højre er den maksimale valutaindhold. Hvis en af værdierne for balancebegrænsningen efterlades ved 0, er der ingen grænse for den del af balancebegrænsningen.
 	</target>
       </trans-unit>
       <trans-unit id="22" xml:space="preserve">
@@ -281,7 +281,7 @@ Valutaen og bankkontoen, der er valgt i {Credit Component}, bruges til alle tran
  
 En butiksejer kan linke specifikke containere i {Storage Component} for at vælge, hvilke varer der betragtes som en del af butikens beholdning. Som standard er alle nærliggende opbevaringsbeholdere knyttet til butikken, når den først placeres.
 
-Når du opretter en salgsliste, skal kun prisen indstilles. Beholdningen for en salgsliste bestemmes automatisk af tilgængeligheden af ​​varer i de sammenkædede lagerbeholdere.
+Når du opretter en salgsliste, skal kun prisen indstilles. Beholdningen for en salgsliste bestemmes automatisk af tilgængeligheden af varer i de sammenkædede lagerbeholdere.
 
 Når du opretter en indkøbsliste, skal prisen og den maksimale mængde, der skal købes, bestemmes for hver vare. Hvis mængden Maks. Til køb er nul, fortsætter butikken med at købe varer, indtil de sammenkædede containere er fulde. Hvis der er angivet en Maks. At købe-mængde, kan borgere sælge varen, indtil den tilknyttede lagerplads indeholder det beløb.
 
@@ -592,7 +592,7 @@ Some recipes are part of larger group of recipes, known as Parent Recipes. When 
 By default only recipes that have available resources will be displayed. By checking 'Show All', all possible variations will be displayed.
   </source>
         <target xml:space="preserve" state="translated">
-Nogle opskrifter er en del af en større gruppe opskrifter, kendt som Parent Recipes. Når en borger laver en af ​​disse opskrifter, kan han vælge en bestemt variation, der skal produceres. Det udformede nummer vil være den mængde, der er valgt til den overordnede opskrift.
+Nogle opskrifter er en del af en større gruppe opskrifter, kendt som Parent Recipes. Når en borger laver en af disse opskrifter, kan han vælge en bestemt variation, der skal produceres. Det udformede nummer vil være den mængde, der er valgt til den overordnede opskrift.
 
 Som standard vises kun opskrifter, der har tilgængelige ressourcer. Ved at markere 'Vis alle' vises alle mulige variationer.
   </target>
@@ -622,7 +622,7 @@ Opgraderinger findes i fem forskellige kvalitetsniveauer. En niveau 1-opgraderin
 
 Crafting-tabeller accepterer forskellige typer opgraderinger. Tidlige tabeller accepterer 'Grundlæggende opgraderinger', mens senere tabeller kræver 'Avancerede opgraderinger' eller 'Moderne opgraderinger'. Hver opgraderingsgrad har fem forskellige kvalitetsniveauer, hvor det højeste kvalitetsniveau er en specialopgradering.
 
-Nogle opskrifter koster at bruge statiske ingredienser. Statiske ingredienser påvirkes ikke af reduktionen af ​​ressourceomkostningerne, men de opskrifter, der indeholder dem, får stadig en reduktion for håndteringstid. 
+Nogle opskrifter koster at bruge statiske ingredienser. Statiske ingredienser påvirkes ikke af reduktionen af ressourceomkostningerne, men de opskrifter, der indeholder dem, får stadig en reduktion for håndteringstid. 
 		</target>
       </trans-unit>
       <trans-unit id="80" xml:space="preserve">
@@ -668,7 +668,7 @@ Objects that emit smog pollution only pollute when the object is active.
         <target xml:space="preserve" state="translated">
 Ved at kontrollere Smog Output-værktøjstip kan en borger finde yderligere oplysninger om det aktuelle objekts forureningsudgang og verdens {Pollution} - niveauer.
 
-Rør kan bruges til at omdirigere strømmen af ​​luftforurening. Rørene, der indeholder Smog Output, kan have flere indgange, men skal kun have en åben ende, uden for alle rum og over objektet.
+Rør kan bruges til at omdirigere strømmen af luftforurening. Rørene, der indeholder Smog Output, kan have flere indgange, men skal kun have en åben ende, uden for alle rum og over objektet.
 
 Objekter, der udsender smogforurening, forurener kun, når genstanden er aktiv. 
 	</target>
@@ -728,7 +728,7 @@ There are two types of {Power} that can be used by an object, Electric and Mecha
 Power generators that consume fuel become inactive if there are no nearby objects demanding power. There is no need to turn them on and off to conserve fuel.
   </source>
         <target xml:space="preserve" state="translated">
-Der er to typer {Power}, der kan bruges af et objekt, elektrisk og mekanisk. Elnettet viser typen og tilgængeligheden af ​​den nødvendige strøm til dette objekt. Hvis der ikke er nok strømforsyning til at matche den krævede strøm, bliver objekter inaktive.
+Der er to typer {Power}, der kan bruges af et objekt, elektrisk og mekanisk. Elnettet viser typen og tilgængeligheden af den nødvendige strøm til dette objekt. Hvis der ikke er nok strømforsyning til at matche den krævede strøm, bliver objekter inaktive.
 
 Kraftgeneratorer, der bruger brændstof, bliver inaktive, hvis der ikke er genstande i nærheden, der kræver strøm. Det er ikke nødvendigt at tænde og slukke for at spare brændstof.
   </target>
@@ -750,7 +750,7 @@ The owner of a Tool Bench can allow other citizens access to repair their own to
         <target xml:space="preserve" state="translated">
 Efter isætning af et ødelagt værktøj vises reparationsomkostningerne. Avancerede værktøjer kan repareres for færre ressourcer af borgere med den tilsvarende {Specialty|Specialties}.. De anvendte ressourcer kan tilføjes manuelt af en borger eller hentes fra en sammenkædet container i {Storage Component}.
 
-Ejeren af ​​en værktøjsbænk kan give andre borgere adgang til at reparere deres egne værktøjer mod et gebyr, der er angivet i {Credit Component}. Når man tilbyder værktøjsreparation til offentligheden, skal forbrugerrettigheder gives i {Authorization Component}.
+Ejeren af en værktøjsbænk kan give andre borgere adgang til at reparere deres egne værktøjer mod et gebyr, der er angivet i {Credit Component}. Når man tilbyder værktøjsreparation til offentligheden, skal forbrugerrettigheder gives i {Authorization Component}.
   </target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
@@ -762,7 +762,7 @@ Ejeren af ​​en værktøjsbænk kan give andre borgere adgang til at reparere
 The Status Component allows citizens to see the requirements for an object to be active, and which of those requirements are met. If an object causes {Pollution}, the status component also shows the lifetime pollution production for that object.
 	</source>
         <target xml:space="preserve" state="translated">
-Statuskomponenten giver borgerne mulighed for at se kravene til et objekt for at være aktivt, og hvilke af disse krav der er opfyldt. Hvis et objekt forårsager {Pollution}, viser statuskomponenten også produktionen af ​​det forurenede levetid for det objekt.
+Statuskomponenten giver borgerne mulighed for at se kravene til et objekt for at være aktivt, og hvilke af disse krav der er opfyldt. Hvis et objekt forårsager {Pollution}, viser statuskomponenten også produktionen af det forurenede levetid for det objekt.
 	</target>
       </trans-unit>
       <trans-unit id="99" xml:space="preserve">
@@ -808,7 +808,7 @@ Når de interagerer med et objekt med en statuskomponent, kan borgere hurtigt se
       <trans-unit id="104" xml:space="preserve">
         <source xml:space="preserve">The Storage Component is used to manage the inventory of storage containers and link them to objects that require access to storage.
   </source>
-        <target xml:space="preserve" state="translated">Lagerkomponenten bruges til at styre lagerbeholdningen af ​​lagerbeholdere og knytte dem til objekter, der har brug for opbevaring.
+        <target xml:space="preserve" state="translated">Lagerkomponenten bruges til at styre lagerbeholdningen af lagerbeholdere og knytte dem til objekter, der har brug for opbevaring.
   </target>
       </trans-unit>
       <trans-unit id="105" xml:space="preserve">
@@ -864,7 +864,7 @@ Bank accounts are useful for organizing currency, allowing access to funds by mu
 </source>
         <target xml:space="preserve" state="translated">Bankkonti er lager af {Currency}, som en eller flere borgere har adgang til. Hver borger kommer ind i verden med en permanent personlig bankkonto, der indeholder et uendeligt beløb af deres personlige kredit. Yderligere bankkonti kan tildeles og få deres adgangsrettigheder justeret i en {Bank|bank component}.
 
-Bankkonti er nyttige til at organisere valuta, give adgang til midler fra flere parter og gemme skatteopkrævningen og angive, hvem der kan få adgang til dem. Regeringer opretter normalt et antal bankkonti til at styre indstrømningen af ​​skatter og sikre, at midlerne bruges som tilsigtet. Hver bankkonto kan indeholde ubegrænsede mængder ubegrænsede valutaer, hvor hver valuta spores separat. Ved at klikke på bankkontoen vises hovedbogen, der viser alle transaktioner til eller fra den, da alle transaktioner i Eco er offentlige.
+Bankkonti er nyttige til at organisere valuta, give adgang til midler fra flere parter og gemme skatteopkrævningen og angive, hvem der kan få adgang til dem. Regeringer opretter normalt et antal bankkonti til at styre indstrømningen af skatter og sikre, at midlerne bruges som tilsigtet. Hver bankkonto kan indeholde ubegrænsede mængder ubegrænsede valutaer, hvor hver valuta spores separat. Ved at klikke på bankkontoen vises hovedbogen, der viser alle transaktioner til eller fra den, da alle transaktioner i Eco er offentlige.
 </target>
       </trans-unit>
       <trans-unit id="112" xml:space="preserve">
@@ -906,7 +906,7 @@ The inputs and outputs can either be taken directly from the crafting table, or 
 Many recipes require labor of a specific {Skill|skills overview}.  While any citizen can start a crafting recipe or contribute ingredients, only a citizen with the required skills may add labor to it.  To form a group and have many citizens contribute to a work order while sharing in payment, {Work Parties} may be created.
   </source>
         <target xml:space="preserve" state="translated">
-Crafting er oprettelsen af ​​nye produkter fra ingredienser, arbejdskraft og / eller magt. Håndværk kan også skabe biprodukter, der forårsager forurening og påvirker miljøet negativt. Det danner rygraden i økonomien og genererer efterspørgsel efter ressourcer, der kommer fra økosystemet omkring dem, samt efterspørgsel efter individuelt kvalificeret arbejdskraft og delte tjenester som {Power|Power Component} eller {Sewage}.
+Crafting er oprettelsen af nye produkter fra ingredienser, arbejdskraft og / eller magt. Håndværk kan også skabe biprodukter, der forårsager forurening og påvirker miljøet negativt. Det danner rygraden i økonomien og genererer efterspørgsel efter ressourcer, der kommer fra økosystemet omkring dem, samt efterspørgsel efter individuelt kvalificeret arbejdskraft og delte tjenester som {Power|Power Component} eller {Sewage}.
 
 Enhver tabel, der har en {Crafting Component}, kan oprette produkter defineret på en liste. Crafting-tabeller kan deles, hver med konfigurerbar {Authorization Component}, der bestemmer, hvem der kan få adgang til dem, og gebyrer kan indstilles i {Credit Component} på bordet for at tjene penge på at dele dit bord.
 
@@ -934,7 +934,7 @@ Currencies can be transferred to others in the Economy Viewer, as well as throug
 
 Der er to typer valutaer i Eco, støttet og ikke-backet.
   
-En ikke-tilbagebetalt valuta er valuta efter fiat, og hver spiller starter med deres egen personlige valuta med et uendeligt beløb. Disse er især nyttige tidlige spil, når der ikke er angivet nogen global valuta. Disse valutaer kræver imidlertid stor tillid til, at ejeren af ​​dem ikke manipulerer deres værdi, da de har et ubegrænset beløb og let kan destabilisere en økonomi, der bruger dem.
+En ikke-tilbagebetalt valuta er valuta efter fiat, og hver spiller starter med deres egen personlige valuta med et uendeligt beløb. Disse er især nyttige tidlige spil, når der ikke er angivet nogen global valuta. Disse valutaer kræver imidlertid stor tillid til, at ejeren af dem ikke manipulerer deres værdi, da de har et ubegrænset beløb og let kan destabilisere en økonomi, der bruger dem.
   
 Støttede valutaer er meget mere stabile. En støttet valuta oprettes ved en {Mint|Mint Component} ved at konvertere et valutastøttende materiale til mønter. Mere valuta kan kun oprettes ved at erhverve mere af det givne materiale. Dette giver en meget stærkere grænse for de mængder valuta, der kan introduceres i verden og danner et stærkere fundament for global handel. Ofte vælger en verden at flytte fra en samling personlige valutaer til en eller flere valutaer, der understøttes, når økonomien vokser gennem spilbuen, og der kræves mere global handel og samarbejde.
   
@@ -949,7 +949,7 @@ Valutaer kan overføres til andre i Economy Viewer såvel som via {Trade}. Al va
         <source xml:space="preserve">"Economy has frequently nothing whatever to do with the amount of money being spent, but with the wisdom used in spending it."
     Henry Ford
   </source>
-        <target xml:space="preserve" state="translated">Økonomi har ofte intet at gøre med mængden af ​​penge, der bruges, men med den visdom, der bruges til at bruge dem.
+        <target xml:space="preserve" state="translated">Økonomi har ofte intet at gøre med mængden af penge, der bruges, men med den visdom, der bruges til at bruge dem.
     Henry Ford
   </target>
       </trans-unit>
@@ -1048,13 +1048,7 @@ Færdighedsbøger er nogle af de sværeste ting at skabe, og borgere bliver typi
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">Handel med dine medborgere er afgørende i Eco, da hver spiller har et sæt {Specialiteter}, som de kan bidrage til mest effektivt, mens de handler med andre borgere, der er dygtige i erhverv, som de ikke er.
-
- - Handler kan opsættes i en {Store Component}, der angiver købs- / salgspriser for de forskellige varer, du ønsker. Borgere kan derefter købe og sælge varer til dig asynkront uden at være til stede.
- - Arbejdshandel kan ske gennem {Contracts} og {Work Parties}, så spillerne kan udføre arbejde mod betaling inden for aftalte vilkår. Dette kan også udføres asynkront.
- - Valutahandel kan ske ved en {Currency Exchange|Exchange Component}, der angiver købs- / salgskurser for udveksling af forskellige valutaer.
- - Handel lettes af {Transport} og opbygning af transportinfrastruktur mellem de spirende nav i din civilisation vil i høj grad fremme muligheden for at handle.
- - Handel er underlagt {Taxes}, fastlagt af regeringen {government overview}, som enten kan fremme eller reducere værdien af ​​visse handler.
+        <target xml:space="preserve" state="needs-translation">Opgaver
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
@@ -1072,7 +1066,7 @@ Building roads between villages and resource caches will take time and the effor
 
 For effektivt at omdanne materialer skal du oprette køretøjer til at bære dem, og de kræver fladning af jorden til veje. Ved hjælp af et {StoneRoadToolItem} kan du flade jorden og gøre det anvendeligt til køretøjer, og med ramper kan du lave blide skråninger, som køretøjer kan køre på. Mere avancerede køretøjer kræver avancerede veje til at køre effektivt, og veje skal regelmæssigt opgraderes, efterhånden som ny teknologi kommer til rådighed.
 
-Bygning af veje mellem landsbyer og ressourcecacher vil tage tid og kræfter for mange borgere og er en god kandidat til projekter om offentlige arbejder finansieret af {Taxes} og bygget ved hjælp af {Work Parties}. Efterhånden som verden udvikler sig inden for teknologi, vil der blive skabt mere og mere transportinfrastruktur for at hjælpe strømmen af ​​handel og til sidst vokse til et punkt, hvor vejkonstruktion og køretøjsbrug vil påvirke miljøet. Omhyggelig styring af denne indflydelse vil være nøglen til at bevare de økosystemer, de passerer igennem.
+Bygning af veje mellem landsbyer og ressourcecacher vil tage tid og kræfter for mange borgere og er en god kandidat til projekter om offentlige arbejder finansieret af {Taxes} og bygget ved hjælp af {Work Parties}. Efterhånden som verden udvikler sig inden for teknologi, vil der blive skabt mere og mere transportinfrastruktur for at hjælpe strømmen af handel og til sidst vokse til et punkt, hvor vejkonstruktion og køretøjsbrug vil påvirke miljøet. Omhyggelig styring af denne indflydelse vil være nøglen til at bevare de økosystemer, de passerer igennem.
 </target>
       </trans-unit>
       <trans-unit id="135" xml:space="preserve">
@@ -1112,7 +1106,7 @@ Arbejdsgrupper er især nyttige til udførelse af {Research}. En borger kan opre
 Betaling kan have forskellige former:
 - {Currency}, distribueret baseret på hvor meget arbejde der udføres, enten straks eller efter afslutningen.
 - {Reputation}, givet fra arbejdsgruppens skaber til arbejderen (underlagt de daglige grænser for omdømme, der kan gives).
-- Viden om en bestemt specialitet (den samme effekt som at læse en skill-scroll). Til denne fordel skal arbejdsgruppeskaberen have færdighedsbogen til specialet, eller den skal udformes i en af ​​festens arbejdsordrer.
+- Viden om en bestemt specialitet (den samme effekt som at læse en skill-scroll). Til denne fordel skal arbejdsgruppeskaberen have færdighedsbogen til specialet, eller den skal udformes i en af festens arbejdsordrer.
 - Tildeling af en {Title}, som kan give dem nye privilegier til at få adgang til ejendom og andre evner.
 
 Økonomiens økonomi er ikke kun fokuseret på handel med varer, men handel med arbejdskraft, og arbejdsgrupper gør det let at opdrætte mange slags arbejde til den generelle befolkning.
@@ -1137,7 +1131,7 @@ Climate change may shift the boundaries of biomes, displacing communities-- some
         <target xml:space="preserve" state="translated">
 Den enorme mangfoldighed og rigdom i livet over hele planeten kan i vid udstrækning kategoriseres i områder kaldet biomer. Biomes in Eco er regioner i verden, der falder inden for bestemte områder med nedbør og temperatur. På grund af disse simulerede fysiske forskelle er forskellige arter af mikroorganismer, planter, svampe og dyr i stand til at overleve og trives i forskellige biomer. Hvert biom i Eco er vært for et unikt sæt ressourcer, som spillerne kan opdage og udvinde for at opbygge og give næring til deres samfund. Livssamfund inden for hvert biom har indbyrdes afhængige forhold, der normalt er bundet til levested, kost og jord, som igen opstår på grund af klimaet og jordressourcerne.
   
-Biomer er økosystemer inden for det globale økosystem, og inden for biomer er der undertiden yderligere opdelinger eller 'subbiomer', såsom den høje ørken, højgræspræriegræsarealer, isis i tundraen eller havkysterne. Biomer og subbiomer er sammenhængende enheder, hvoraf mange har begrænsninger for, hvilke biomer de kan opholde sig ved siden af ​​eller indeni. Over tid, når forholdene ændrer sig på grund af spillerindflydelse, har biomer potentialet til at blive omformet radikalt.
+Biomer er økosystemer inden for det globale økosystem, og inden for biomer er der undertiden yderligere opdelinger eller 'subbiomer', såsom den høje ørken, højgræspræriegræsarealer, isis i tundraen eller havkysterne. Biomer og subbiomer er sammenhængende enheder, hvoraf mange har begrænsninger for, hvilke biomer de kan opholde sig ved siden af eller indeni. Over tid, når forholdene ændrer sig på grund af spillerindflydelse, har biomer potentialet til at blive omformet radikalt.
 
 Klimaændringer kan flytte grænserne for biomer, fortrænge samfund - nogle arter vil overleve og tilpasse sig, men andre vil ikke være så modstandsdygtige. Direkte forskydning af jord og anden ødelæggelse af levesteder fra aktiviteter som konstruktion, landbrug, minedrift og skovhugst vil også have en forskellig indvirkning på arter inden for biomer. Arter af planter eller dyr foretrækker måske ikke kun bestemte biomer, men bestemte dele af subbiomer, hvilket vil betyde en større indvirkning, hvis disse stærkt lokaliserede områder ændres eller ødelægges. Modstandsdygtige og adaptive arter vil være i stand til at trives på tværs af biomegrænser, når de ændres, men de samme arter kan blive en trussel mod mere følsomme planter eller dyr i de nye biomer, de introduceres for.
  </target>
@@ -1266,7 +1260,7 @@ The ecosystem in Eco runs on a continuous simulation, active as long as the serv
       </trans-unit>
       <trans-unit id="153" xml:space="preserve">
         <source xml:space="preserve">The ecosystem is the foundational system which citizens must understand and contend with. From growing large {Farms|Farming} and {Mines|Mining} to understanding the impact of {Pollution} through study, the impact of citizens on the ecosystem will determine the success or failure of player decisions. Understanding how it functions using in-game {Data} becomes a key requirement of survival. Unlike the {Economy|Economy Overview} and the {Government|Government Overview}, the ecosystem is not a citizen construct – its behavior is absolute, nothing about how it functions can be changed by fiat the way the economy can. In this sense it’s a reality check, the place where the conflicting biases and beliefs of citizens collide and reveal the true consequences.</source>
-        <target xml:space="preserve" state="translated">Økosystemet er det grundlæggende system, som borgerne skal forstå og kæmpe med. Fra at vokse store {Farms|Farming} og {Mines|Mining} til forståelse af virkningen af ​​{Pollution} gennem undersøgelse, vil borgernes indflydelse på økosystemet afgøre succes eller fiasko for spillerbeslutninger. At forstå, hvordan det fungerer ved hjælp af {Data} i spillet, bliver et vigtigt krav for at overleve. I modsætning til {Economy|Economy Overview} og {Government|Government Overview} er økosystemet ikke en borgerkonstruktion - dens adfærd er absolut, intet om, hvordan det fungerer, kan ændres på en måde, som økonomien kan. I denne forstand er det en reality check, det sted, hvor borgernes modstridende skævheder og tro kolliderer og afslører de sande konsekvenser.</target>
+        <target xml:space="preserve" state="translated">Økosystemet er det grundlæggende system, som borgerne skal forstå og kæmpe med. Fra at vokse store {Farms|Farming} og {Mines|Mining} til forståelse af virkningen af {Pollution} gennem undersøgelse, vil borgernes indflydelse på økosystemet afgøre succes eller fiasko for spillerbeslutninger. At forstå, hvordan det fungerer ved hjælp af {Data} i spillet, bliver et vigtigt krav for at overleve. I modsætning til {Economy|Economy Overview} og {Government|Government Overview} er økosystemet ikke en borgerkonstruktion - dens adfærd er absolut, intet om, hvordan det fungerer, kan ændres på en måde, som økonomien kan. I denne forstand er det en reality check, det sted, hvor borgernes modstridende skævheder og tro kolliderer og afslører de sande konsekvenser.</target>
       </trans-unit>
       <trans-unit id="154" xml:space="preserve">
         <source xml:space="preserve">Between Economy and Government</source>
@@ -1335,7 +1329,7 @@ Jorden under dig er vært for et stort udvalg af ressourcer, såsom sten, metall
 To mine ore, first you must locate it. Ores in Eco are each hosted in particular host rocks, so learning which rocks have the type of ore you want and then digging near rocks of those type is a good way to start. Use a {WoodenShovelItem} or better to dig away soil from the surface or start digging into a hill from the side. Once you hit rock you want to go through, you'll need to use a pickaxe like the {StonePickaxeItem} to break it. When breaking rocks with the pickaxe, sometimes you'll break off a larger piece of rock that needs to be hit again to break into pieces small enough to pick up. It's a good idea to pick up rock as you break it, and stack it elsewhere for use, preferably in a {StockpileItem} or vehicle you're using to transport your ore like a {WoodCartItem}.
 </source>
         <target xml:space="preserve" state="translated">
-For at udvinde malm skal du først finde den. Malm i Eco er hver især hostet i bestemte værtssten, så det er en god måde at starte at lære, hvilke sten der har den type malm, og derefter grave i nærheden af ​​sten af ​​den slags. Brug et {WoodenShovelItem} eller bedre til at grave jorden væk fra overfladen eller begynde at grave i en bakke fra siden. Når du først har ramt sten, du vil gennemgå, skal du bruge en pickaxe som {StonePickaxeItem} til at bryde den. Når du bryder sten med pickaxen, bryder du nogle gange et større stykke sten, der skal rammes igen for at bryde i stykker, der er små nok til at samle op. Det er en god ide at samle sten, når du bryder den, og stable den andre steder til brug, helst i et {StockpileItem} eller køretøj, du bruger til at transportere din malm som et {WoodCartItem}.
+For at udvinde malm skal du først finde den. Malm i Eco er hver især hostet i bestemte værtssten, så det er en god måde at starte at lære, hvilke sten der har den type malm, og derefter grave i nærheden af sten af den slags. Brug et {WoodenShovelItem} eller bedre til at grave jorden væk fra overfladen eller begynde at grave i en bakke fra siden. Når du først har ramt sten, du vil gennemgå, skal du bruge en pickaxe som {StonePickaxeItem} til at bryde den. Når du bryder sten med pickaxen, bryder du nogle gange et større stykke sten, der skal rammes igen for at bryde i stykker, der er små nok til at samle op. Det er en god ide at samle sten, når du bryder den, og stable den andre steder til brug, helst i et {StockpileItem} eller køretøj, du bruger til at transportere din malm som et {WoodCartItem}.
 </target>
       </trans-unit>
       <trans-unit id="164" xml:space="preserve">
@@ -1353,7 +1347,7 @@ Smelting: Once you have precious ore concentrate, you can at last smelt it into 
         <target xml:space="preserve" state="translated">
 Når du har samlet en stor mængde metalmalm, skal du behandle malmen, før du kan fremstille metalprodukter med den. Dette er en beskidt og dyr proces, og optimering af det og biprodukterne fra det vil være et løbende spørgsmål om overvejelse. De tre hovedtrin i mineralforarbejdningen er:
 
-Findeling: findeling betyder at knuse klippen til mindre partikler, som kan behandles yderligere. Knust sten af ​​den type malmen er hostet i er det vigtigste biprodukt af denne proces.
+Findeling: findeling betyder at knuse klippen til mindre partikler, som kan behandles yderligere. Knust sten af den type malmen er hostet i er det vigtigste biprodukt af denne proces.
 Koncentration: Koncentration er en måde at adskille de ønskede metaller i en malmsten fra affaldsstenen. Denne proces er aldrig perfekt og resulterer uundgåeligt i en stor produktion af sten, der stadig indeholder spor af frigjorte metaller. Denne affaldssten med spor af tungmetaller er kendt som {TailingsItem}. {CopperOreItem} og {GoldOreItem} kræver kemisk leeching og våd bearbejdning for at adskille sig fra deres værtssten og producerer således mere forurenet og flygtigt {WetTailingsItem} under koncentrationsprocessen.
 Smeltning: Når du først har ædelt malmkoncentrat, kan du til sidst smelte det i metalprodukter som {IronBarItem} på et {BloomeryItem} eller ved hjælp af en mere avanceret smelteteknologi. 
 </target>
@@ -1369,7 +1363,7 @@ As citizens burn fuel to cook or generate power, smelt metals, process sewage, a
 To ensure the survival of ecosystems and preserve resources like soil and water, players will have to manage and contain the sources of pollution their civilization creates. In some cases, spills or deadly concentrations will be inevitable, and then remediation and storage may be the only option to return the land to an unharmed state. 
 </source>
         <target xml:space="preserve" state="translated">
-Når borgere brænder brændstof til madlavning eller frembringelse af energi, smelter metaller, behandler spildevand og deltager i utallige andre nødvendige industrielle aktiviteter, er et almindeligt biprodukt forurening. Forurening er ethvert stof, der kan virke som en forurening eller gift, når det føres tilbage i miljøet. I Eco er der mange kilder og flere sorter af forurening, hvoraf nogle er mere potente end andre. Tungmetaller kan forurene jord og påvirke tilgængelige næringsstoffer og sundheden for planter og dyr, der lever på og i den. Vand kan sprede forurenende stoffer hurtigt og øge størrelsen af ​​deres påvirkning. Luftforurening kan usynligt eller åbenlyst strømme fra en komfur eller et kraftværk, tilføje drivhusgasser og påvirke luftkvaliteten samt falde ned i jorden igen som sur regn.
+Når borgere brænder brændstof til madlavning eller frembringelse af energi, smelter metaller, behandler spildevand og deltager i utallige andre nødvendige industrielle aktiviteter, er et almindeligt biprodukt forurening. Forurening er ethvert stof, der kan virke som en forurening eller gift, når det føres tilbage i miljøet. I Eco er der mange kilder og flere sorter af forurening, hvoraf nogle er mere potente end andre. Tungmetaller kan forurene jord og påvirke tilgængelige næringsstoffer og sundheden for planter og dyr, der lever på og i den. Vand kan sprede forurenende stoffer hurtigt og øge størrelsen af deres påvirkning. Luftforurening kan usynligt eller åbenlyst strømme fra en komfur eller et kraftværk, tilføje drivhusgasser og påvirke luftkvaliteten samt falde ned i jorden igen som sur regn.
 
 For at sikre økosystemers overlevelse og bevare ressourcer som jord og vand skal spillerne styre og indeholde de forureningskilder, som deres civilisation skaber. I nogle tilfælde vil spild eller dødbringende koncentrationer være uundgåelige, og derefter kan afhjælpning og opbevaring være den eneste mulighed for at bringe landet tilbage til en uskadt tilstand. 
 </target>
@@ -1471,7 +1465,7 @@ Note: A forthcoming update of Eco will allow multiple concurrent governments.</s
 Omstyrtning af regeringer
 Når en hovedstad er placeret, kan en forfatning ratificeres ved at åbne den og klikke på Ratificer. Så længe der ikke er andre forfatninger, oprettes regeringen med det samme.
  
-Hvis der allerede er en forfatning aktiv, kan en ny forfatning kun træde i stedet, hvis boligværdien af ​​dens rum overstiger den eksisterende forfatning med et betydeligt beløb, afhængigt af serverindstillingerne.
+Hvis der allerede er en forfatning aktiv, kan en ny forfatning kun træde i stedet, hvis boligværdien af dens rum overstiger den eksisterende forfatning med et betydeligt beløb, afhængigt af serverindstillingerne.
  
 Bemærk: En kommende opdatering af Eco tillader flere samtidige regeringer.</target>
       </trans-unit>
@@ -1549,7 +1543,7 @@ Valgte titler oprettes på et {GovernmentOfficeItem}. Flere betingelser kan inds
   - Krav om at blive i embetet, når de først er valgt til titlen
   - En efterfølger, der overtager stillingen, hvis en titelindehaver fjernes fra embedet
 
-Under oprettelsen af ​​en valgt titel kan følgende tilladelser tildeles:
+Under oprettelsen af en valgt titel kan følgende tilladelser tildeles:
 
   - Indstilling af skattesatsen til et {TreasuryItem}
   - Adgang til at bruge midlerne på statskassens bankkonto
@@ -1621,7 +1615,7 @@ Executive-handlinger kan foreslås på et {ExecutiveOfficeItem} ved hjælp af {C
   
  - Udsted en engangs {Tax|Taxes}
  - Giv en betaling til borgere fra {TreasuryItem}
- - Skift {Property} -ejeren af ​​den eksisterende ejendom
+ - Skift {Property} -ejeren af den eksisterende ejendom
 
 Afhængigt af hvilke {Civic Articles} der er tilgængelige, kan disse handlinger muligvis ikke kræve valg. I nogle borgerlige artikler hedder det, at kun {Elected Titles} kan udføre udøvende handlinger.
   </target>
@@ -1939,7 +1933,7 @@ The average tier of the room material will also determine your housing value, by
 </source>
         <target xml:space="preserve" state="translated">Værelserne er lukkede områder beskyttet mod elementerne, hvor alle huller til omverdenen er fyldt med vægge, døre og vinduer.
 
-Du kan se detaljerne om et rum i et panel på højre side af skærmen, mens du er inde i et med angivelse af dets oplysninger. Mange typer genstande har rumkrav og optager plads i deres rum og kræver, at materialerne i rummet er af en bestemt kvalitet. Din boligværdi påvirkes også af kvaliteten af ​​værelsesmaterialerne. Dette betyder, at mursten et hus for eksempel vil give meget mere fordel end en snavsskovl.
+Du kan se detaljerne om et rum i et panel på højre side af skærmen, mens du er inde i et med angivelse af dets oplysninger. Mange typer genstande har rumkrav og optager plads i deres rum og kræver, at materialerne i rummet er af en bestemt kvalitet. Din boligværdi påvirkes også af kvaliteten af værelsesmaterialerne. Dette betyder, at mursten et hus for eksempel vil give meget mere fordel end en snavsskovl.
 
 
 Møbler og værelsestyper
@@ -2087,7 +2081,7 @@ Specialiteter er hver indeholdt i et erhverv og kræver to trin for at vinde.
 2. Dernæst skal du bruge en stjerne til at tage specialet.
 
 Når du har valgt specialiteten, får du de basale evner, der er knyttet til den. Når du udfører handlinger relateret til denne specialitet, får du specialitet {Experience}, udjævner specialiteten og frigør nye evner til den.
-Du kan se spredningen af ​​specialiteter, som andre borgere har valgt, i dialogboksen med valg af færdigheder, og det er ofte en god ide at vælge specialiteter, som andre spillere ikke har valgt eller nivelleret. Dette giver dig mulighed for hver at udføre dine egne specialiteter og {Trade} med hinanden for en nettogevinst.
+Du kan se spredningen af specialiteter, som andre borgere har valgt, i dialogboksen med valg af færdigheder, og det er ofte en god ide at vælge specialiteter, som andre spillere ikke har valgt eller nivelleret. Dette giver dig mulighed for hver at udføre dine egne specialiteter og {Trade} med hinanden for en nettogevinst.
 
 </target>
       </trans-unit>
@@ -2410,7 +2404,7 @@ Hver profession har et antal {Specialties} under sig, som vil låse op for særl
     - Debating laws with the use of {Data}, presenting arguments to your fellow citizens arguing for one choice over another.
   </source>
         <target xml:space="preserve" state="translated">
-    {Government|Government Overview} over Eco drives af individuelle borgere, og kvaliteten af ​​styringen afhænger fuldt ud af, hvordan disse borgere deltager.
+    {Government|Government Overview} over Eco drives af individuelle borgere, og kvaliteten af styringen afhænger fuldt ud af, hvordan disse borgere deltager.
 
     Der er en række måder at deltage i regeringen, herunder:
 
@@ -2480,7 +2474,7 @@ Setting up near other settlements offers a distinct advantage, as you can then t
 Naturlige fødekilder og bygningsmaterialer i nærheden vil i høj grad fremskynde de indledende fremskridt.
 
 Nærhed til andre
-At etablere sig i nærheden af ​​andre bosættelser tilbyder en klar fordel, da du derefter kan handle med andre for at få fremskridt hurtigere. Imidlertid kan et overfyldt område også have begrænsede muligheder for ekspansion og naturlig mad i nærheden. Du vil gerne finde en balance baseret på personlig præference.
+At etablere sig i nærheden af andre bosættelser tilbyder en klar fordel, da du derefter kan handle med andre for at få fremskridt hurtigere. Imidlertid kan et overfyldt område også have begrænsede muligheder for ekspansion og naturlig mad i nærheden. Du vil gerne finde en balance baseret på personlig præference.
   </target>
       </trans-unit>
       <trans-unit id="284" xml:space="preserve">
@@ -2497,7 +2491,7 @@ At etablere sig i nærheden af ​​andre bosættelser tilbyder en klar fordel,
       </trans-unit>
       <trans-unit id="287" xml:space="preserve">
         <source xml:space="preserve">Finding a food supply is critical to having the calories you need to work.  Additionally, the {Nutrition} of the food you eat impacts how fast you gain experience, so you'll want to eat the best food available for the fastest gains.  When settling in the wilderness, look for food sources nearby you can take from, or plan to setup a {Farm|Farming}.  When settling near an existing village, have a look at the local economy to see what you can {Trade} in order to get food.</source>
-        <target xml:space="preserve" state="translated">At finde en fødevareforsyning er afgørende for at have de kalorier, du har brug for til at arbejde. Derudover påvirker {Nutrition} af den mad, du spiser, hvor hurtigt du får erfaring, så du vil gerne spise den bedste tilgængelige mad til de hurtigste gevinster. Når du bosætter dig i ørkenen, skal du kigge efter fødekilder i nærheden, du kan tage fra, eller planlægge at oprette en {Farm|Farming}. Når du bosætter dig i nærheden af ​​en eksisterende landsby, skal du kigge på den lokale økonomi for at se, hvad du kan {Trade} for at få mad.</target>
+        <target xml:space="preserve" state="translated">At finde en fødevareforsyning er afgørende for at have de kalorier, du har brug for til at arbejde. Derudover påvirker {Nutrition} af den mad, du spiser, hvor hurtigt du får erfaring, så du vil gerne spise den bedste tilgængelige mad til de hurtigste gevinster. Når du bosætter dig i ørkenen, skal du kigge efter fødekilder i nærheden, du kan tage fra, eller planlægge at oprette en {Farm|Farming}. Når du bosætter dig i nærheden af en eksisterende landsby, skal du kigge på den lokale økonomi for at se, hvad du kan {Trade} for at få mad.</target>
       </trans-unit>
       <trans-unit id="288" xml:space="preserve">
         <source xml:space="preserve">Setting up a source of food and shelter is a first priority. </source>
@@ -2510,7 +2504,7 @@ Various forms of {Pollution} can affect the environment, creating the potential 
 
 The world begins as a vast untouched wilderness, and through the ages citizens will need to radically transform it using technology to build the industry and knowledge required to stop {The Meteor}.  Citizens will need to execute a careful navigation between using the resources of the ecosystem maximally and avoid damaging the environment beyond repair.
 </source>
-        <target xml:space="preserve" state="translated">{Ecosystem|Ecosystem Overview} er udbyderen af ​​et stort antal ressourcer, som borgere kan bruge, men det er også sårbart over for deres indvirkning. At lykkes som et samfund vil kræve intelligent styring af påvirkninger ved hjælp af {Government|Government Overview} til at regulere, hvad der er tilladt.
+        <target xml:space="preserve" state="translated">{Ecosystem|Ecosystem Overview} er udbyderen af et stort antal ressourcer, som borgere kan bruge, men det er også sårbart over for deres indvirkning. At lykkes som et samfund vil kræve intelligent styring af påvirkninger ved hjælp af {Government|Government Overview} til at regulere, hvad der er tilladt.
  
 Forskellige former for {Pollution} kan påvirke miljøet og skabe potentiale for katastrofer, der kan ødelægge din fødevareforsyning og stoppe fremskridt, hvilket fører til økologisk sammenbrud. Ved hjælp af {Data} -værktøjer kan borgere overvåge den indflydelse, de har på verden, og bruge disse data til at argumentere for specifikke regler for at beskytte dem eller fremskynde økonomien i andre veje.
 
@@ -2603,7 +2597,7 @@ Alle værktøjer er forbundet med holdbarhed, som falder, når de bruges. Når e
         <source xml:space="preserve">After collecting some basic raw materials, building is one of the first things a citizen will do to establish themselves in the world.
   
   </source>
-        <target xml:space="preserve" state="translated">Efter at have samlet nogle grundlæggende råmaterialer er bygning en af ​​de første ting, en borger vil gøre for at etablere sig i verden.
+        <target xml:space="preserve" state="translated">Efter at have samlet nogle grundlæggende råmaterialer er bygning en af de første ting, en borger vil gøre for at etablere sig i verden.
   
   </target>
       </trans-unit>
@@ -2661,7 +2655,7 @@ Dyrets bytte og rovdyr kan ses gennem webgrænsefladen og kontrollere de sammenk
       </trans-unit>
       <trans-unit id="306" xml:space="preserve">
         <source xml:space="preserve">Follow the development of Eco.</source>
-        <target xml:space="preserve" state="translated">Følg udviklingen af ​​Eco.</target>
+        <target xml:space="preserve" state="translated">Følg udviklingen af Eco.</target>
       </trans-unit>
       <trans-unit id="307" xml:space="preserve">
         <source xml:space="preserve">
@@ -2681,7 +2675,7 @@ Dyrets bytte og rovdyr kan ses gennem webgrænsefladen og kontrollere de sammenk
       </trans-unit>
       <trans-unit id="309" xml:space="preserve">
         <source xml:space="preserve">Follow the development of Eco.</source>
-        <target xml:space="preserve" state="translated">Følg udviklingen af ​​Eco.</target>
+        <target xml:space="preserve" state="translated">Følg udviklingen af Eco.</target>
       </trans-unit>
       <trans-unit id="310" xml:space="preserve">
         <source xml:space="preserve">Setting up a Store</source>
@@ -2836,7 +2830,7 @@ By holding the mouse over the display for one of the pipes, a tooltip appears wi
         <target xml:space="preserve" state="translated">
 Når du åbner rørkomponenten, ser forskellige rørindgange og udgange ud til at repræsentere rørkravene. Objekter med denne komponent skal opfylde alle rørkravene for, at objektet skal være aktivt.
 
-Nogle objekter kræver alle tre brug af rør for at have en aktiv {Status|Status Component}, mens andre objekter kun kræver nogle. Hvert rørsystem kan kun bruges til en af ​​de tre anvendelser.
+Nogle objekter kræver alle tre brug af rør for at have en aktiv {Status|Status Component}, mens andre objekter kun kræver nogle. Hvert rørsystem kan kun bruges til en af de tre anvendelser.
 
 Ved at holde musen over skærmen til et af rørene vises en værktøjstip med flere oplysninger om, hvorfor et rør er eller ikke er aktivt.
   </target>
@@ -3013,7 +3007,7 @@ The {Tailor} specializes in making high end furniture and specialized clothing t
       </trans-unit>
       <trans-unit id="345" xml:space="preserve">
         <source xml:space="preserve">The Economy Viewer provides a general overview of the current economy and is an incredibly useful tool for economic participation. Among other users, the Economy Viewer shows the location of every {StoreItem} and what is currently being bought and sold.</source>
-        <target xml:space="preserve" state="translated">Economy Viewer giver et generelt overblik over den aktuelle økonomi og er et utroligt nyttigt redskab til økonomisk deltagelse. Blandt andre brugere viser Economy Viewer placeringen af ​​hver {StoreItem}, og hvad der i øjeblikket købes og sælges.</target>
+        <target xml:space="preserve" state="translated">Economy Viewer giver et generelt overblik over den aktuelle økonomi og er et utroligt nyttigt redskab til økonomisk deltagelse. Blandt andre brugere viser Economy Viewer placeringen af hver {StoreItem}, og hvad der i øjeblikket købes og sælges.</target>
       </trans-unit>
       <trans-unit id="346" xml:space="preserve">
         <source xml:space="preserve">
