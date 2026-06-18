@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">404 page not found</source>
-        <target xml:space="preserve" state="translated">Erreur 404: page non trouvée</target>
+        <target xml:space="preserve" state="translated">Erreur 404 : page non trouvée</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Allow Debug Calls</source>
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve" state="translated">Quand un Trésor public est construit; they can set taxes (feature in progress)</target>
+        <target xml:space="preserve" state="translated">Quand un Trésor public est construit ; they can set taxes (feature in progress)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target xml:space="preserve" state="translated">Pour démarrer une nouvelle élection, vous devez vous ajouter comme candidat; you must add yourself as a candidate</target>
+        <target xml:space="preserve" state="translated">Pour démarrer une nouvelle élection, vous devez vous ajouter comme candidat ; you must add yourself as a candidate</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target xml:space="preserve" state="translated">Les arguments sur les lois vont ici, la taille de la carte peut être modifiée pour mieux s'adapter au texte; maps can be resized to fit with text better later</target>
+        <target xml:space="preserve" state="translated">Les arguments sur les lois vont ici, la taille de la carte peut être modifiée pour mieux s'adapter au texte ; maps can be resized to fit with text better later</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
