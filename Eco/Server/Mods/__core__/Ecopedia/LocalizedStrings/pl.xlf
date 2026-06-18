@@ -798,7 +798,7 @@ Każdy warunek w Komponencie Status musi być spełniony, zanim obiekt będzie m
 When interacting with an object with a Status Component, citizens can quickly see the status of the object by checking the status indicator in the top left corner. A green circle means an object is active while a red circle means it is inactive.
 	</source>
         <target xml:space="preserve" state="translated">
-Podczas interakcji z obiektem z Komponentem Statusu obywatele mogą szybko zobaczyć status obiektu, sprawdzając wskaźnik statusu w lewym górnym rogu. Zielone kółko oznacza, że ​​obiekt jest aktywny, a czerwone, że ​​jest nieaktywny.
+Podczas interakcji z obiektem z Komponentem Statusu obywatele mogą szybko zobaczyć status obiektu, sprawdzając wskaźnik statusu w lewym górnym rogu. Zielone kółko oznacza, że obiekt jest aktywny, a czerwone, że jest nieaktywny.
 	</target>
       </trans-unit>
       <trans-unit id="103" xml:space="preserve">
@@ -1172,17 +1172,17 @@ Ciepłe Wybrzeże: Plaże i płytkie wody w cieplejszym klimacie.
 Tereny podmokłe : Unikalny biom charakteryzujący się nasyceniem gleby wodą słodką lub słonawą.
 Łąki : biom, w którym jest wystarczająco dużo wody, aby utrzymać trawy, ale nie ma wielu drzew.
 Pustynia : najbardziej suchy biom, a obecnie w Eko także najgorętszy.
-Zimny ​​Las: Biom wystarczająco wilgotny, aby utrzymać gęstą pokrywę drzew i wystarczająco zimny, aby dominowały drzewa iglaste.
+Zimny Las: Biom wystarczająco wilgotny, aby utrzymać gęstą pokrywę drzew i wystarczająco zimny, aby dominowały drzewa iglaste.
 Ciepły las: biom wystarczająco wilgotny, aby utrzymać gęstą pokrywę drzew i wystarczająco ciepły, aby dominowały drzewa liściaste.
 Las deszczowy: mokry i ciepły biom, który wspiera las obfitujący w życie roślinne i zwierzęce.
-Taiga: Zimny ​​i nieco suchy biom, który wspiera rzadki las drzew iglastych.
+Taiga: Zimny i nieco suchy biom, który wspiera rzadki las drzew iglastych.
 Tundra: bardzo zimny biom, który nie może podtrzymywać drzew, ale jest gospodarzem wyjątkowej społeczności roślinnej i zwierzęcej.
 Lód: najzimniejsze obszary lądu, pokryte lodem.
 
 Obecnie w Eco istnieje również kilka podbiomów:
 
 Pustynia wyżynna : geologicznie wypiętrzona część pustyni z gatunkami bardziej odpornymi na zimno i cieszącymi się stromymi klifami spowodowanymi erozją.
-Zimny ​​Step: Nieco chłodniejsza łąka, często charakteryzująca się jeszcze mniejszą liczbą drzew i większymi otwartymi przestrzeniami.  
+Zimny Step: Nieco chłodniejsza łąka, często charakteryzująca się jeszcze mniejszą liczbą drzew i większymi otwartymi przestrzeniami.  
   </target>
       </trans-unit>
       <trans-unit id="142" xml:space="preserve">
