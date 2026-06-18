@@ -51,7 +51,7 @@ Any payment offered for a contract will be held in a special Escrow {Bank Accoun
         <target xml:space="preserve" state="translated">
 Bij het plaatsen van een contract mag het zo veel of zo weinig clausules bevatten als gewenst, en elke clausule kan geconfigureerd worden om de gevraagde taak te beschrijven. Aan elke clausule moet voldaan zijn voordat het contract als voltooid wordt beschouwd.
 
-Als 'Automatisch accepteren' aangevinkt is, wordt het voltooien van contracten automatisch gedetecteerd door het systeem. Als er bijvoorbeeld een contract ingesteld werd om een ​​weg tussen twee punten aan te leggen, kan de aannemer die het werk uitvoert het contract openen in zijn zijmenu en op 'Taak voltooid' drukken, waardoor een detectie wordt geactiveerd of de taak inderdaad is voltooid. Dan wordt het contract volgens afspraak uitbetaald en automatisch afgesloten.
+Als 'Automatisch accepteren' aangevinkt is, wordt het voltooien van contracten automatisch gedetecteerd door het systeem. Als er bijvoorbeeld een contract ingesteld werd om een weg tussen twee punten aan te leggen, kan de aannemer die het werk uitvoert het contract openen in zijn zijmenu en op 'Taak voltooid' drukken, waardoor een detectie wordt geactiveerd of de taak inderdaad is voltooid. Dan wordt het contract volgens afspraak uitbetaald en automatisch afgesloten.
 
 De 'Custom Clause' is een speciale clausule waarmee spelers in woorden kunnen beschrijven wat ze graag zouden willen doen. Als een contract een dergelijke clausule bevat, moet het handmatig worden goedgekeurd door de klant (automatisch accepteren is mogelijk niet aangevinkt), aangezien automatische detectie niet kan bepalen wanneer het is voltooid.
   
@@ -79,7 +79,7 @@ When setting the Work desired, the poster of the work party can decide to hire f
 
 Na het plaatsen van een werkgroep kunnen Arbeiders bij het Contractbord aansluiten bij het project. Standaard kan iedereen lid worden van de werkgroep als arbeider, maar er kunnen eisen worden gesteld aan individuele rollen of algemene eisen waaraan iedereen moet voldoen om deel te nemen. Wanneer 'Expand Roles When Full' is aangevinkt, wordt er automatisch ruimte gecreëerd voor nieuwe arbeiders om toe te treden wanneer alle rollen zijn ingevuld.
 
-Bij het instellen van het gewenste Werk kan de poster van de werkgroep besluiten om arbeid, middelen of beide in te huren. Elke burger die bijdraagt ​​aan de werkgroep ontvangt een deel van de vergoeding op basis van de hoeveelheid werk die hij heeft geleverd. Door extra gewicht toe te kennen aan een bepaalde karwei in een werkgroep, krijgt dat karwei een hoger deel van de vergoeding.
+Bij het instellen van het gewenste Werk kan de poster van de werkgroep besluiten om arbeid, middelen of beide in te huren. Elke burger die bijdraagt aan de werkgroep ontvangt een deel van de vergoeding op basis van de hoeveelheid werk die hij heeft geleverd. Door extra gewicht toe te kennen aan een bepaalde karwei in een werkgroep, krijgt dat karwei een hoger deel van de vergoeding.
 </target>
       </trans-unit>
       <trans-unit id="9" xml:space="preserve">
