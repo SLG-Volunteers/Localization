@@ -2651,7 +2651,7 @@ Az állatok zsákmányait és ragadozóit a webes felületen, a kapcsolódó ré
       </trans-unit>
       <trans-unit id="306" xml:space="preserve">
         <source xml:space="preserve">Follow the development of Eco.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Kövessétek az Eco fejlesztését!</target>
+        <target state="needs-translation">Kövessétek az Eco fejlesztését.</target>
       </trans-unit>
       <trans-unit id="307" xml:space="preserve">
         <source xml:space="preserve">
@@ -2671,7 +2671,7 @@ Az állatok zsákmányait és ragadozóit a webes felületen, a kapcsolódó ré
       </trans-unit>
       <trans-unit id="309" xml:space="preserve">
         <source xml:space="preserve">Follow the development of Eco.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Kövessétek az Eco fejlesztését!</target>
+        <target state="needs-translation">Kövessétek az Eco fejlesztését.</target>
       </trans-unit>
       <trans-unit id="310" xml:space="preserve">
         <source xml:space="preserve">Setting up a Store</source>
