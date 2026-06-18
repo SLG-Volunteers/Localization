@@ -664,7 +664,7 @@
       </trans-unit>
       <trans-unit id="173" xml:space="preserve">
         <source xml:space="preserve">Voting will end in</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Oylama şu tarihte sona erecek:</target>
+        <target state="needs-translation">Oylama şu tarihte sona erecek</target>
       </trans-unit>
       <trans-unit id="174" xml:space="preserve">
         <source xml:space="preserve">choice</source>
