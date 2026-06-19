@@ -684,8 +684,8 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
-A „Vízbemenet” csatlakozóval rendelkező objektumok és a „Vízkimenet” csatlakozóval rendelkező szivattyúk csőrendszeren keresztül kapcsolódnak egymáshoz. A vízcsőrendszerek több bemenettel is rendelkezhetnek a vízszivattyúk számára, és több kimenettel is minden egyes, vízszükséglettel rendelkező objektum számára.    
+        <target state="needs-translation">
+A „Vízbemenet” csatlakozóval rendelkező objektumok és a „Vízkimenet” csatlakozóval rendelkező szivattyúk csőrendszeren keresztül kapcsolódnak egymáshoz. A vízcsőrendszerek több bemenettel is rendelkezhetnek a vízszivattyúk számára, és több kimenettel is minden egyes, vízszükséglettel rendelkező objektum számára. 
 
 A „Cső” komponens vízre vonatkozó segítő szövegének megtekintésével a polgár pontosan láthatja, hogy egy objektum mennyi vizet termel vagy fogyaszt. Ha nem termelődik elegendő víz, az objektumok inaktívvá válnak.
 
@@ -1047,7 +1047,7 @@ A készségkönyvek az egyik legnehezebben előállítható tárgyak közé tart
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Tennivalók
+        <target state="needs-translation">Teendők
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
@@ -1208,10 +1208,10 @@ Eco worlds are varied places, with many different biomes and locations of human 
 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
-Az Eco világai változatos helyszínek, számos különböző biomával, valamint az emberi fejlődés és a környezeti hatások által jellemzett területekkel. A világ különböző részeinek eltéréseinek megtekintéséhez hőtérképek állnak rendelkezésre a játékban fellelhető összes világhatásra vonatkozóan.  Olyan értékek, mint a polgárok aktivitása, a népességnövekedés mértéke, a szennyezés mértéke, a hőmérséklet, a páratartalom és még több tucatnyi más mutató megtekinthetők a hőtérképeken, az időbeli változások rögzítésével, amelyek visszajátszhatók és tudományos érveléshez felhasználhatók.
+        <target state="needs-translation">
+Az Eco világai változatos helyszínek, számos különböző biomával, valamint az emberi fejlődés és a környezeti hatások által jellemzett területekkel. A világ különböző részeinek eltéréseinek megtekintéséhez hőtérképek állnak rendelkezésre a játékban fellelhető összes világhatásra vonatkozóan. Olyan értékek, mint a polgárok aktivitása, a népességnövekedés mértéke, a szennyezés mértéke, a hőmérséklet, a páratartalom és még több tucatnyi más mutató megtekinthetők a hőtérképeken, az időbeli változások rögzítésével, amelyek visszajátszhatók és tudományos érveléshez felhasználhatók.
 
-A játékosok kétféle módon tekinthetik meg ezeket: a játékban található minitérkép segítségével, amely a játékban színes terepet is megjeleníthet.   Másodszor pedig a webböngészőben is megtekinthetők, ahol kihasználható az időbeli visszajátszási lehetőségük. Minden hőtérképről 10 percenként (beállítható) pillanatfelvétel kerül tárolásra a szerver adatai között, és a játékosok időraffal megtekinthetik, hogyan változnak a hőtérképek az idő múlásával.  Ez elengedhetetlen az egyes helyszíneken jelentkező hatások méréséhez, valamint az infrastruktúrák és új települések építéséhez szükséges legjobb útvonalak meghatározásához.
+A játékosok kétféle módon tekinthetik meg ezeket: a játékban található minitérkép segítségével, amely a játékban színes terepet is megjeleníthet.   Másodszor pedig a webböngészőben is megtekinthetők, ahol kihasználható az időbeli visszajátszási lehetőségük. Minden hőtérképről 10 percenként (beállítható) pillanatfelvétel kerül tárolásra a szerver adatai között, és a játékosok időraffal megtekinthetik, hogyan változnak a hőtérképek az idő múlásával. Ez elengedhetetlen az egyes helyszíneken jelentkező hatások méréséhez, valamint az infrastruktúrák és új települések építéséhez szükséges legjobb útvonalak meghatározásához.
 </target>
       </trans-unit>
       <trans-unit id="147" xml:space="preserve">
