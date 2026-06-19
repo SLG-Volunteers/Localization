@@ -684,8 +684,8 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
-Các đối tượng có đầu vào Nước và máy bơm có đầu ra Nước được kết nối thông qua hệ thống đường ống. Hệ thống đường ống nước có thể có nhiều đầu vào cho máy bơm nước và nhiều đầu ra cho mỗi đối tượng có nhu cầu nước.    
+        <target state="needs-translation">
+Các đối tượng có đầu vào Nước và máy bơm có đầu ra Nước được kết nối thông qua hệ thống đường ống. Hệ thống đường ống nước có thể có nhiều đầu vào cho máy bơm nước và nhiều đầu ra cho mỗi đối tượng có nhu cầu nước. 
 
 Bằng cách xem chú thích về nước trong Thành phần Đường ống, người dân có thể biết chính xác lượng nước mà một đối tượng đang sản xuất hoặc tiêu thụ. Nếu lượng nước được sản xuất không đủ, các đối tượng sẽ bắt đầu ngừng hoạt động.
 
@@ -1053,7 +1053,7 @@ Sách kỹ năng là một trong những vật phẩm khó chế tạo nhất, v
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Todo
+        <target state="needs-translation">Cần làm
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
