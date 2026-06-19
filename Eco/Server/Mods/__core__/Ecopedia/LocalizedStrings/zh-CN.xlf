@@ -957,7 +957,7 @@ Skill books are some of the most difficult items to create, and citizens will ty
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">与你的同胞进行交易在《生态物语》中至关重要，因为每个玩家都有一套[Specialties]，他们可以在与其他擅长职业的其他公民进行交易时最有效地做出贡献。 -可以在[Store Component] 设置交易，列出你想要的不同商品的买/卖价格。然后，公民可以在不存在的情况下异步地向你购买和出售商品。 -劳务交易可以通过[Contracts] 和[Work Parties] 进行，允许玩家在商定的条件下进行付款工作。这也可以异步执行。 -货币交易可以在[Currency Exchange|Exchange Component] 进行，其中列出了不同货币交换的买/卖价格。 -[Transport] 促进了贸易，在你的新兴文明中心之间建立运输基础设施将极大地提高贸易能力。 -贸易受公会[government overview] 设定的[Taxes] 的约束，这可以促进或减少某些贸易的价值。
+        <target xml:space="preserve" state="needs-translation">待办事项
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
