@@ -684,8 +684,8 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
-Objecten met een waterinlaat en pompen met een wateruitlaat worden via een systeem van leidingen met elkaar verbonden. Waterleidingsystemen kunnen meerdere inlaten voor waterpompen hebben en meerdere uitlaten voor elk object dat water nodig heeft.    
+        <target state="needs-translation">
+Objecten met een waterinlaat en pompen met een wateruitlaat worden via een systeem van leidingen met elkaar verbonden. Waterleidingsystemen kunnen meerdere inlaten voor waterpompen hebben en meerdere uitlaten voor elk object dat water nodig heeft. 
 
 Door de water-tooltip in het leidingonderdeel te bekijken, kan een burger precies zien hoeveel water een object produceert of verbruikt. Als er niet genoeg water wordt geproduceerd, worden objecten inactief.
 
