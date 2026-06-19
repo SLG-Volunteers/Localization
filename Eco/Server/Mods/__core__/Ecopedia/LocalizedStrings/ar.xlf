@@ -684,8 +684,8 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-تتصل الكائنات التي تحتوي على مدخلات مائية والمضخات التي تحتوي على مخرجات مائية من خلال نظام من الأنابيب. يمكن أن تحتوي أنظمة أنابيب المياه على مدخلات متعددة لمضخات المياه ومخرجات متعددة لكل كائن يحتاج إلى المياه.    
+        <target xml:space="preserve" state="needs-translation">
+تتصل الكائنات التي تحتوي على مدخلات مائية والمضخات التي تحتوي على مخرجات مائية من خلال نظام من الأنابيب. يمكن أن تحتوي أنظمة أنابيب المياه على مدخلات متعددة لمضخات المياه ومخرجات متعددة لكل كائن يحتاج إلى المياه. 
 
 من خلال التحقق من تلميح أداة المياه في مكون الأنابيب، يمكن للمواطن أن يرى بالضبط كمية المياه التي ينتجها أو يستهلكها الكائن. إذا لم يتم إنتاج كمية كافية من المياه، ستبدأ الكائنات في أن تصبح غير نشطة.
 
@@ -1053,7 +1053,7 @@ Skill books are some of the most difficult items to create, and citizens will ty
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">المهام
+        <target xml:space="preserve" state="needs-translation">قيد التنفيذ
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
@@ -1214,10 +1214,10 @@ Eco worlds are varied places, with many different biomes and locations of human 
 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+        <target xml:space="preserve" state="needs-translation">
 عوالم Eco هي أماكن متنوعة، بها العديد من النظم البيئية المختلفة ومواقع التنمية البشرية والتأثير البيئي. لعرض مدى اختلاف أجزاء العالم المختلفة، تتوفر خرائط حرارية لجميع التأثيرات العالمية المختلفة في اللعبة. يمكن عرض قيم مثل نشاط المواطنين، ومعدلات السكان، ومعدلات التلوث، ودرجة الحرارة، والرطوبة، وعشرات القيم الأخرى من خلال الخرائط الحرارية، مع تسجيل التغيرات بمرور الوقت التي يمكن إعادة تشغيلها واستخدامها في الحجج العلمية.
 
-يمكن للاعبين عرض هذه الخرائط بطريقتين: من خلال الخريطة المصغرة في اللعبة، والتي يمكنها أيضًا عرض التضاريس الملونة في اللعبة.   ثانيًا، يمكن عرضها في متصفح الويب، حيث يتم الاستفادة من إمكانية إعادة تشغيلها بمرور الوقت. يتم تخزين لقطة لكل خريطة حرارية في بيانات الخادم كل 10 دقائق (قابلة للتكوين)، ويمكن للمواطنين عرض مشاهد متتابعة لكيفية تغير الخرائط الحرارية بمرور الوقت.  وهذا أمر ضروري لقياس التأثيرات في مواقع محددة وتحديد أفضل الطرق لبناء البنى التحتية والمستوطنات الجديدة.
+يمكن للاعبين عرض هذه الخرائط بطريقتين: من خلال الخريطة المصغرة في اللعبة، والتي يمكنها أيضًا عرض التضاريس الملونة في اللعبة.   ثانيًا، يمكن عرضها في متصفح الويب، حيث يتم الاستفادة من إمكانية إعادة تشغيلها بمرور الوقت. يتم تخزين لقطة لكل خريطة حرارية في بيانات الخادم كل 10 دقائق (قابلة للتكوين)، ويمكن للمواطنين عرض مشاهد متتابعة لكيفية تغير الخرائط الحرارية بمرور الوقت. وهذا أمر ضروري لقياس التأثيرات في مواقع محددة وتحديد أفضل الطرق لبناء البنى التحتية والمستوطنات الجديدة.
 </target>
       </trans-unit>
       <trans-unit id="147" xml:space="preserve">
