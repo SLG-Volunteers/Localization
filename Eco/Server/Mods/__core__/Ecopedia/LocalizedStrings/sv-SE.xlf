@@ -684,8 +684,8 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
-Objekt med vatteninlopp och pumpar med vattenutlopp kopplas samman via ett rörsystem. Vattenledningssystem kan ha flera inlopp för vattenpumpar och flera utlopp för varje objekt som har ett vattenbehov.    
+        <target state="needs-translation">
+Objekt med vatteninlopp och pumpar med vattenutlopp kopplas samman via ett rörsystem. Vattenledningssystem kan ha flera inlopp för vattenpumpar och flera utlopp för varje objekt som har ett vattenbehov. 
 
 Genom att klicka på vattenverktygstipset i rörkomponenten kan en medborgare se exakt hur mycket vatten ett objekt producerar eller förbrukar. Om det inte produceras tillräckligt med vatten kommer objekten att börja bli inaktiva.
 
@@ -1208,10 +1208,10 @@ Eco worlds are varied places, with many different biomes and locations of human 
 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
-Eco-världarna är varierande miljöer med många olika biomer och platser där mänsklig utveckling och miljöpåverkan märks. För att se hur olika delar av världen skiljer sig åt finns värmekartor tillgängliga för alla de olika världseffekterna i spelet.  Värden som medborgarnas aktivitet, befolkningstillväxt, föroreningsnivåer, temperatur, fuktighet och dussintals andra kan ses via värmekartor, där förändringar registreras över tid och kan spelas upp och användas för vetenskaplig argumentation.
+        <target state="needs-translation">
+Eco-världarna är varierande miljöer med många olika biomer och platser där mänsklig utveckling och miljöpåverkan märks. För att se hur olika delar av världen skiljer sig åt finns värmekartor tillgängliga för alla de olika världseffekterna i spelet. Värden som medborgarnas aktivitet, befolkningstillväxt, föroreningsnivåer, temperatur, fuktighet och dussintals andra kan ses via värmekartor, där förändringar registreras över tid och kan spelas upp och användas för vetenskaplig argumentation.
 
-Spelare kan se dessa på två sätt: via minimap i spelet, som även kan visa färgad terräng i spelet.   För det andra kan de visas i webbläsaren, där möjligheten att spela upp förloppet över tid utnyttjas. En ögonblicksbild av varje värmekarta sparas i serverns data var 10:e minut (kan konfigureras), och medborgarna kan se tidsförlopp av hur värmekartorna förändras över tid.  Detta är avgörande för att mäta effekter på specifika platser och fastställa de bästa vägarna för att bygga infrastruktur och nya bosättningar.
+Spelare kan se dessa på två sätt: via minimap i spelet, som även kan visa färgad terräng i spelet.   För det andra kan de visas i webbläsaren, där möjligheten att spela upp förloppet över tid utnyttjas. En ögonblicksbild av varje värmekarta sparas i serverns data var 10:e minut (kan konfigureras), och medborgarna kan se tidsförlopp av hur värmekartorna förändras över tid. Detta är avgörande för att mäta effekter på specifika platser och fastställa de bästa vägarna för att bygga infrastruktur och nya bosättningar.
 </target>
       </trans-unit>
       <trans-unit id="147" xml:space="preserve">
