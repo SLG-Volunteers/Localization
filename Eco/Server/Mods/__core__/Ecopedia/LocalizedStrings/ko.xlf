@@ -1041,13 +1041,7 @@ Skill books are some of the most difficult items to create, and citizens will ty
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">Eco의 세계에선 주민들과의 거래는 필수적입니다, 모든 플레이어는 자신만의 특별한 [Specialties] 을 가지고 있어 자신이 가지고 있지 않은 전문직의 특성을 거래를 통해 효율적으로 해결할 수 있습니다. 
-
- - 거래는 [Store Component] 를 이용해, 원하는 물품들의 구매/판매 가격을 설정해 상점을 설치할 수 있습니다.  당신의 접속 여부와 상관없이 주민들은 상점에서 물품을 구매/판매 할 수 있습니다.
- - 노동력의 거래는 [Contracts] 과 [Work Parties] 을 이용해, 상호 간 합의된 항목들을 통해 일하고 보상을 받을 수 있습니다.  이 또한 상대방의 접속 여부와 상관없습니다.
- - 화폐 간의 환전은 [Currency Exchange|Exchange Component] 를 이용해, 다른 화폐들의 구매/판매 목록을 확인할 수 있습니다.
- - [Transport] 과 운송수단을 이용해 발달하고 있는 문명의 중심지와의 거래가 더욱 용이해진다면, 거래의 효율이 급격하게 상승할 것입니다.
- - 거래행위는 정부([government overview]) 가 설정한 [Taxes] 부과로 인해 특정 거래의 가치를 촉진시키거나 감소시킬 수 있습니다.
+        <target xml:space="preserve" state="needs-translation">할 일
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
@@ -1209,10 +1203,10 @@ Eco worlds are varied places, with many different biomes and locations of human 
 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 </source>
-        <target xml:space="preserve" state="translated">
+        <target xml:space="preserve" state="needs-translation">
 Eco의 세계는 다양한 지형과 환경에 영향을 미치는 인간이 개발한 지역 등으로 이루어져 있습니다. 세계의 다양한 지역들을 한눈에 확인하기 위해, 세계의 다양한 지표들을 색으로 나타내는 히트맵 기능이 있습니다. 주민들의 활동한 반경, 개체군의 비율, 오염의 정도, 기온, 습도, 그리고 여러 다양한 기능들의 수치를 히트맵을 통해 확인 가능하며, 시간을 되돌려 볼 수 있는 기능도 있어 이를 이용해 과학적으로 주장의 근거를 증명할 수 있습니다.
 
-플레이어가 히트맵을 확인할 방법은 두 가지가 있습니다: 지역을 색으로 구분 지어 나타낸 히트맵을 게임 안 지도 기능을 통해  확인할 수 있습니다.  두번째 방법은, 웹 브라우저를 통해 확인할 수 있으며, 이 방법은 시간을 되돌려 확인하는 기능도 가지고 있습니다.  히트맵은 10분마다 서버 데이터에 저장되고 (수정 가능), 주민들은 그 히트맵이 시간이 따라 어떻게 바뀌는지 타임 랩스 기능으로 확인 가능합니다. 이 기능은 특정한 위치의 영향 수치를 측정하고 인프라와 정보국을 구축하기 위한 최선의 경로를 결정하는 데 필수적입니다.
+플레이어가 히트맵을 확인할 방법은 두 가지가 있습니다: 지역을 색으로 구분 지어 나타낸 히트맵을 게임 안 지도 기능을 통해 확인할 수 있습니다. 두번째 방법은, 웹 브라우저를 통해 확인할 수 있으며, 이 방법은 시간을 되돌려 확인하는 기능도 가지고 있습니다. 히트맵은 10분마다 서버 데이터에 저장되고 (수정 가능), 주민들은 그 히트맵이 시간이 따라 어떻게 바뀌는지 타임 랩스 기능으로 확인 가능합니다. 이 기능은 특정한 위치의 영향 수치를 측정하고 인프라와 정보국을 구축하기 위한 최선의 경로를 결정하는 데 필수적입니다.
 </target>
       </trans-unit>
       <trans-unit id="147" xml:space="preserve">
@@ -3093,7 +3087,7 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">'Eco'에서 동료 시민들과의 거래는 필수적입니다. 각 플레이어는 자신이 가장 효과적으로 기여할 수 있는 {전문 분야}를 가지고 있으며, 자신이 숙련되지 않은 직업에 능숙한 다른 시민들과 거래함으로써 서로를 보완할 수 있기 때문입니다. 
+        <target xml:space="preserve" state="needs-translation">'Eco'에서 동료 시민들과의 거래는 필수적입니다. 각 플레이어는 자신이 가장 효과적으로 기여할 수 있는 {전문 분야}를 가지고 있으며, 자신이 숙련되지 않은 직업에 능숙한 다른 시민들과 거래함으로써 서로를 보완할 수 있기 때문입니다. 
 
  - {상점 구성 요소}에서 거래를 설정하여 원하는 다양한 상품의 매수/매도 가격을 게시할 수 있습니다. 그러면 시민들은 직접 현장에 있지 않아도 비동기적으로 상품을 사고팔 수 있습니다.
  - 노동력 거래는 {계약}과 {작업 파티}를 통해 이루어지며, 이를 통해 플레이어는 합의된 조건에 따라 대가를 받고 작업을 수행할 수 있습니다.  이 역시 비동기적으로 진행될 수 있습니다.
