@@ -653,8 +653,8 @@ Pipes can be used to redirect the flow of the air pollution. The pipes containin
 
 Objects that emit smog pollution only pollute when the object is active. 
 	</source>
-        <target xml:space="preserve" state="translated">
-En consultant l'infobulle  Pollution , un citoyen peut trouver des informations supplémentaires sur la production de pollution de l'objet en cours et les niveaux de {Pollution} dans le monde.
+        <target xml:space="preserve" state="needs-translation">
+En consultant l'infobulle Pollution , un citoyen peut trouver des informations supplémentaires sur la production de pollution de l'objet en cours et les niveaux de {Pollution} dans le monde.
 	
 Des tuyaux peuvent être utilisés pour rediriger le flux de la pollution atmosphérique. Les tuyaux contenant la pollution sortante peuvent avoir plusieurs entrées mais doivent avoir une seule extrémité ouverte, en dehors de toutes les pièces, et au-dessus de l'objet.
 
@@ -1036,13 +1036,7 @@ Les livres de compétences sont parmi les éléments les plus difficiles à cré
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">Les échanges avec vos concitoyens est essentiels dans Eco, car chaque acteur dispose d'un ensemble de {Specialties} auxquelles il peut contribuer le plus efficacement tout en commerçant avec d'autres citoyens qui sont compétents dans des professions dans lesquelles ils ne le sont pas. 
-
- - Les échanges peuvent être mis en place dans un {Store Component}, en indiquant les prix d'achat/de vente des différents produits que vous souhaitez.  Les citoyens peuvent alors vous acheter et vous vendre des biens de manière asynchrone, sans être présents.
- - Les échanges de main-d'œuvre peuvent se faire par le biais de {Contracts} et de {Work Parties}, ce qui permet aux joueurs d'effectuer un travail contre rémunération dans des conditions convenues.  Ce travail peut également être effectué de manière asynchrone.
- - Les échanges de monnaies peuvent se faire dans le cadre d'une {Currency Exchange|Exchange Component}, en indiquant les prix d'achat/de vente pour les échanges de différentes monnaies.
- - Le commerce est facilité par le {Transport} et la construction d'une infrastructure de transport entre les centres florissants de votre civilisation favorisera grandement la capacité à commercer.
- - Le commerce est soumis à des {Taxes}, fixées par le gouvernement {government overview}, qui peuvent soit promouvoir soit réduire la valeur de certains échanges.
+        <target xml:space="preserve" state="needs-translation">À faire
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
@@ -3117,7 +3111,7 @@ Tu peux rapidement regrouper et trier des piles d'objets identiques en appuyant 
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Le commerce avec tes concitoyens est essentiel dans Eco, car chaque joueur dispose d'un ensemble de {Spécialités} auxquelles il peut contribuer le plus efficacement possible en échangeant avec d'autres citoyens compétents dans des professions qu'il ne maîtrise pas. 
+        <target xml:space="preserve" state="needs-translation">Le commerce avec tes concitoyens est essentiel dans Eco, car chaque joueur dispose d'un ensemble de {Spécialités} auxquelles il peut contribuer le plus efficacement possible en échangeant avec d'autres citoyens compétents dans des professions qu'il ne maîtrise pas. 
 
  - Les échanges peuvent être mis en place via un {Composant Boutique}, qui répertorie les prix d'achat et de vente des différents biens que tu souhaites.  Les citoyens peuvent alors t'acheter et te vendre des biens de manière asynchrone, sans être présents.
  - Le commerce de main-d'œuvre peut se faire par le biais de {Contrats} et de {Chantiers}, permettant aux joueurs d'effectuer un travail contre rémunération selon des conditions convenues.  Cela peut également se faire de manière asynchrone.
