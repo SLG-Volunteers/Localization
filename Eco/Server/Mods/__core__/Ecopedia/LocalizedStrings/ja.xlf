@@ -1053,7 +1053,7 @@ Skill books are some of the most difficult items to create, and citizens will ty
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">Todo
+        <target xml:space="preserve" state="needs-translation">やること
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
