@@ -684,8 +684,8 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
-"Su Girişi" olan nesneler ile "Su Çıkışı" olan pompalar, bir boru sistemi aracılığıyla birbirine bağlanır. Su boru sistemleri, su pompaları için birden fazla girişe ve su ihtiyacı olan her nesne için birden fazla çıkışa sahip olabilir.    
+        <target state="needs-translation">
+"Su Girişi" olan nesneler ile "Su Çıkışı" olan pompalar, bir boru sistemi aracılığıyla birbirine bağlanır. Su boru sistemleri, su pompaları için birden fazla girişe ve su ihtiyacı olan her nesne için birden fazla çıkışa sahip olabilir. 
 
 Bir vatandaş, Boru Bileşenindeki su araç ipucunu kontrol ederek, bir nesnenin tam olarak ne kadar su ürettiğini veya tükettiğini görebilir. Yeterli su üretilmezse, nesneler çalışmaz hale gelmeye başlar.
 
@@ -1208,10 +1208,10 @@ Eco worlds are varied places, with many different biomes and locations of human 
 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
+        <target state="needs-translation">
 Eco dünyaları, birçok farklı biyomun yanı sıra insan faaliyetlerinin ve çevresel etkilerin görüldüğü çeşitli yerlerden oluşur. Dünyanın farklı bölgelerindeki farklılıkları görmek için, oyundaki tüm çeşitli dünya etkilerine ilişkin ısı haritaları mevcuttur. Vatandaş aktivitesi, nüfus oranları, kirlilik oranları, sıcaklık, nem ve daha onlarca değer ısı haritaları aracılığıyla görüntülenebilir; zaman içinde kaydedilen değişiklikler tekrar oynatılabilir ve bilimsel argümanlar için kullanılabilir.
 
-Oyuncular bunları iki şekilde görüntüleyebilir: oyun içindeki mini harita aracılığıyla; bu harita, oyundaki araziyi renkli olarak da gösterebilir.   İkinci olarak, web tarayıcısında görüntülenebilir; burada zaman içindeki değişiklikleri geriye dönük olarak izleme özelliği kullanılır. Her ısı haritasının bir anlık görüntüsü, her 10 dakikada bir (ayarlanabilir) sunucu verilerinde saklanır ve vatandaşlar, ısı haritalarının zaman içinde nasıl değiştiğini zaman atlamalı görüntülerle izleyebilir.  Bu, belirli konumlardaki etkileri ölçmek ve altyapıların ve yeni yerleşim yerlerinin inşası için en iyi rotaları belirlemek açısından çok önemlidir.
+Oyuncular bunları iki şekilde görüntüleyebilir: oyun içindeki mini harita aracılığıyla; bu harita, oyundaki araziyi renkli olarak da gösterebilir.   İkinci olarak, web tarayıcısında görüntülenebilir; burada zaman içindeki değişiklikleri geriye dönük olarak izleme özelliği kullanılır. Her ısı haritasının bir anlık görüntüsü, her 10 dakikada bir (ayarlanabilir) sunucu verilerinde saklanır ve vatandaşlar, ısı haritalarının zaman içinde nasıl değiştiğini zaman atlamalı görüntülerle izleyebilir. Bu, belirli konumlardaki etkileri ölçmek ve altyapıların ve yeni yerleşim yerlerinin inşası için en iyi rotaları belirlemek açısından çok önemlidir.
 </target>
       </trans-unit>
       <trans-unit id="147" xml:space="preserve">
