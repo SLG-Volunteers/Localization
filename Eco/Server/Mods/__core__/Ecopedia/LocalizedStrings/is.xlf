@@ -1054,7 +1054,7 @@ Hæfnibækur eru ein af þeim flóknustu hlutum til að búa til, og borgarar þ
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Verkefnalisti
+        <target state="needs-translation">Verkefni
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
