@@ -3128,7 +3128,7 @@ Stakke af identiske genstande kan hurtigt samles og sorteres ved at trykke på k
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Handel med dine medborgere er afgørende i Eco, da hver spiller har en række {Specialiteter}, som de kan bidrage mest effektivt med, mens de handler med andre borgere, der er dygtige inden for erhverv, som de selv ikke mestrer. 
+        <target state="needs-translation">Handel med dine medborgere er afgørende i Eco, da hver spiller har en række {Specialiteter}, som de kan bidrage mest effektivt med, mens de handler med andre borgere, der er dygtige inden for erhverv, som de selv ikke mestrer. 
 
  - Handel kan oprettes ved en {Butikskomponent}, hvor købs- og salgspriserne for de forskellige varer, du ønsker, angives.  Borgere kan derefter købe og sælge varer til dig asynkront, uden at være til stede.
  - Handel med arbejdskraft kan foregå gennem {Kontrakter} og {Arbejdsgrupper}, hvilket giver spillerne mulighed for at udføre arbejde mod betaling inden for aftalte vilkår.  Dette kan ligeledes foregå asynkront.
