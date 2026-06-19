@@ -684,8 +684,8 @@ By checking the water tooltip in the Pipe Component, a citizen can see exactly h
 
 Pipes containing Sewage Output function similar to water pipes, but the {Sewage} they contain is a source of ground pollution. After {Waste Filters|Waste Filter Item} are invented, the sewage output can be piped into a filter to mitigate the ground pollution.
 	</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
-Os objetos com uma «Entrada de Água» e as bombas com uma «Saída de Água» ligam-se através de um sistema de tubagens. Os sistemas de tubagens de água podem ter várias entradas para bombas de água e várias saídas para cada objeto com necessidade de água.    
+        <target state="needs-translation">
+Os objetos com uma «Entrada de Água» e as bombas com uma «Saída de Água» ligam-se através de um sistema de tubagens. Os sistemas de tubagens de água podem ter várias entradas para bombas de água e várias saídas para cada objeto com necessidade de água. 
 
 Ao consultar a dica de ferramenta sobre a água no componente «Tubagem», um cidadão pode ver exatamente quanta água um objeto está a produzir ou a consumir. Se não houver água suficiente a ser produzida, os objetos começarão a ficar inativos.
 
@@ -1208,10 +1208,10 @@ Eco worlds are varied places, with many different biomes and locations of human 
 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
+        <target state="needs-translation">
 Os mundos do Eco são locais variados, com muitos biomas diferentes e áreas de desenvolvimento humano e impacto ambiental. Para veres como as diferentes partes do mundo variam, há mapas de calor disponíveis para todos os vários efeitos mundiais do jogo. Valores como a atividade dos cidadãos, taxas de população, taxas de poluição, temperatura, humidade e dezenas de outros podem ser visualizados através dos mapas de calor, com alterações registadas ao longo do tempo que podem ser reproduzidas e usadas para argumentação científica.
 
-Os jogadores podem ver isto de duas formas: através do minimapa no jogo, que também pode mostrar o terreno colorido no jogo.   Em segundo lugar, podem ser visualizados no navegador da web, onde se tira partido da sua capacidade de reprodução ao longo do tempo. É guardada uma imagem instantânea de cada mapa de calor nos dados do servidor a cada 10 minutos (configurável), e os cidadãos podem ver imagens em time-lapse de como os mapas de calor mudam ao longo do tempo.  Isto é essencial para medir os impactos em locais específicos e determinar as melhores rotas para construir infraestruturas e novos povoados.
+Os jogadores podem ver isto de duas formas: através do minimapa no jogo, que também pode mostrar o terreno colorido no jogo.   Em segundo lugar, podem ser visualizados no navegador da web, onde se tira partido da sua capacidade de reprodução ao longo do tempo. É guardada uma imagem instantânea de cada mapa de calor nos dados do servidor a cada 10 minutos (configurável), e os cidadãos podem ver imagens em time-lapse de como os mapas de calor mudam ao longo do tempo. Isto é essencial para medir os impactos em locais específicos e determinar as melhores rotas para construir infraestruturas e novos povoados.
 </target>
       </trans-unit>
       <trans-unit id="147" xml:space="preserve">
