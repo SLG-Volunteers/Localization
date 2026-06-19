@@ -1046,13 +1046,7 @@ I libri delle abilità sono tra gli oggetti più difficili da creare e i cittadi
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">Il commercio con i tuoi concittadini è essenziale in Eco, poiché ogni giocatore ha una serie di [Specialties] che possono contribuire più efficientemente commerciando con altri cittadini abili in professioni in cui loro non lo sono. 
-
- - Gli scambi sono configurabili a un [Store Component], elencando i prezzi di acquisto/vendita per i diversi beni che ti piacciono. I cittadini possono poi comprare da e vendere a te beni, asincronamente, senza essere presenti.
- - Lo scambio di lavoro può verificarsi tramite i [Contracts] e i [Work Parties], consentendo ai giocatori di eseguire lavoro per pagamento entro i termini accordati.  Anche questo è eseguibile asincronamente.
- - Lo scambio di valute può verificarsi a un [Currency Exchange|Exchange Component], elencando i prezzi di acquisto/vendita per i cambi di diverse valute.
- - Il commercio è facilitato dal [Transport] e la costruzione dell'infrastruttura dei trasporti tra i promettenti fulcri della tua civiltà promuoverà largamente l'abilità di commerciare.
- - Il commercio è soggetto a [Taxes], impostate dal Governo[government overview], che possono promuovere o ridurre il valore di certi scambi.
+        <target xml:space="preserve" state="needs-translation">Da fare
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
@@ -3140,7 +3134,7 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Il commercio con i tuoi concittadini è essenziale in Eco, poiché ogni giocatore ha una serie di {Specialità} con cui può contribuire in modo più efficace, scambiando con altri cittadini esperti in professioni in cui lui non lo è. 
+        <target xml:space="preserve" state="needs-translation">Il commercio con i tuoi concittadini è essenziale in Eco, poiché ogni giocatore ha una serie di {Specialità} con cui può contribuire in modo più efficace, scambiando con altri cittadini esperti in professioni in cui lui non lo è. 
 
  - Gli scambi possono essere impostati in un {Componente Negozio}, elencando i prezzi di acquisto/vendita per i diversi beni che desideri.  I cittadini possono quindi acquistare e vendere beni da te in modo asincrono, senza essere presenti.
  - Lo scambio di manodopera può avvenire tramite {Contratti} e {Gruppi di lavoro}, consentendo ai giocatori di svolgere un lavoro a pagamento secondo i termini concordati.  Anche questo può essere effettuato in modo asincrono.
