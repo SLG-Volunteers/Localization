@@ -1011,7 +1011,7 @@ Strafen für die Nichteinhaltung von Krediten können mit [Laws] konstruiert wer
       <trans-unit id="127" xml:space="preserve">
         <source xml:space="preserve">Each player can affect the Reputation of any other player, which can in turn be used as a factor in laws, contracts, etc, which may query a citizens reputation and determine privileges (or lack thereof) based on the value). To set reputation on a citizen, hover over their name in chat and click their reputation listing in the tooltip (a list of all citizens can be found on the page {Current Citizens}).
 </source>
-        <target xml:space="preserve" state="translated">Jeder Spieler kann den Ruf eines anderen Spielers beeinflussen, was wiederum als Faktor in Gesetzen, Verträgen usw. verwendet werden kann, die den Ruf eines Bürgers abfragen und Privilegien (oder deren Fehlen) basierend auf dem Wert bestimmen. Um den Ruf eines Bürgers einzustellen, bewege den Mauszeiger über seinen Namen im Chat und klicke auf den Rufeintrag im Tooltip (eine Liste aller Bürger findest du auf der Seite  [Current Citizens]).
+        <target xml:space="preserve" state="needs-translation">Jeder Spieler kann den Ruf eines anderen Spielers beeinflussen, was wiederum als Faktor in Gesetzen, Verträgen usw. verwendet werden kann, die den Ruf eines Bürgers abfragen und Privilegien (oder deren Fehlen) basierend auf dem Wert bestimmen. Um den Ruf eines Bürgers einzustellen, bewege den Mauszeiger über seinen Namen im Chat und klicke auf den Rufeintrag im Tooltip (eine Liste aller Bürger findest du auf der Seite [Current Citizens]).
 </target>
       </trans-unit>
       <trans-unit id="128" xml:space="preserve">
@@ -1045,13 +1045,7 @@ Fertigkeitsbücher gehören zu den am schwierigsten herzustellenden Gegenstände
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">Der Handel mit deinen Mitbürgern ist für Eco von entscheidender Bedeutung, da jeder Spieler eine Reihe von [Specialties] hat, zu denen er am effektivsten beitragen kann, während er mit anderen Bürgern handelt, die in Berufen ausgebildet sind, in denen er nicht ausgebildet ist. 
-
- - Der Handel kann in einem [Store Component] eingerichtet werden, in dem Kauf- und Verkaufspreise für die verschiedenen gewünschten Waren aufgelistet werden. Die Bürger können dann asynchron Waren kaufen und verkaufen, ohne anwesend zu sein.
- - Der Handel von Arbeitskraft kann über [Contracts] und [Work Parties] erfolgen, sodass die Spieler ihre Arbeit gegen Bezahlung nach vereinbarten Bedingungen ausführen können. Dies kann auch asynchron erfolgen.
- - Der Handel mit Währungen kann an einer [Currency Exchange|Exchange Component] durchgeführt werden, die Kauf-/Verkaufspreise für den Tausch verschiedener Währungen auflistet.
- - Der Handel wird durch [Transport] erleichtert, und der Aufbau einer Transportinfrastruktur zwischen den aufkeimenden Knotenpunkten der Zivilisation fördert die Handelsfähigkeit erheblich.
- - Der Handel unterliegt [Taxes], festgelegt von der [government overview], die den Wert bestimmter Handelsgeschäfte entweder fördern oder bremsen kann.
+        <target xml:space="preserve" state="translated">Zu erledigen
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
@@ -1228,8 +1222,8 @@ The map is a powerful tool within the game that serves many purposes: navigation
 
 Currently we’re working on adding in-game designation of property and districts, as well as specifying land areas for work parties and contracts, allowing for example citizens to highlight in-game the areas they wish to hire others to plow a field, or build a road, etc. This will greatly open up the ability for the labor market, letting citizens be much more specific in an easier way when designating where they would like work to be performed.
 </source>
-        <target xml:space="preserve" state="translated">
-Die Minikarte ist ein leistungsstarkes Mittel im Spiel, das vielen Zwecken dient: Navigation, Planung, Datenanzeige, Ortung von Objekten und vielem mehr. Sie kann aktiviert werden, um die verschiedenen Weltebenen des Spiels (Heatmaps) anzuzeigen und Regionen mit hoher/niedriger Bevölkerung, Umweltverschmutzung, Bürgeraktivität usw. mithilfe eines Farbverlaufs hervorzuheben.  Weltmarkierungen können manuell oder global für alle Bürger hinzugefügt werden, um auf bestimmte Punkte zu verweisen und die Koordination menschlicher Aktivitäten zu unterstützen. Diese Markierungen werden auch verwendet, um die Bürger automatisch zu dynamischer Arbeit zu leiten und festzulegen, wo Straßen gebaut werden sollen in einem Vertrag, wo Waren für den Transport geliefert werden sollen usw.
+        <target xml:space="preserve" state="needs-translation">
+Die Minikarte ist ein leistungsstarkes Mittel im Spiel, das vielen Zwecken dient: Navigation, Planung, Datenanzeige, Ortung von Objekten und vielem mehr. Sie kann aktiviert werden, um die verschiedenen Weltebenen des Spiels (Heatmaps) anzuzeigen und Regionen mit hoher/niedriger Bevölkerung, Umweltverschmutzung, Bürgeraktivität usw. mithilfe eines Farbverlaufs hervorzuheben. Weltmarkierungen können manuell oder global für alle Bürger hinzugefügt werden, um auf bestimmte Punkte zu verweisen und die Koordination menschlicher Aktivitäten zu unterstützen. Diese Markierungen werden auch verwendet, um die Bürger automatisch zu dynamischer Arbeit zu leiten und festzulegen, wo Straßen gebaut werden sollen in einem Vertrag, wo Waren für den Transport geliefert werden sollen usw.
 
 Derzeit arbeiten wir daran, im Spiel die Bezeichnung von Grundstücken und Bezirken hinzuzufügen sowie bestimmte Landflächen für Arbeitsgruppen und Verträge festzulegen, damit beispielsweise die Bürger im Spiel die Bereiche hervorheben können, in denen sie andere einstellen möchten, um ein Feld zu pflügen oder eine Straße zu bauen usw. Dies wird die Möglichkeiten für den Arbeitsmarkt erheblich öffnen und es den Bürgern ermöglichen, auf einfachere Weise viel spezifischer zu sein, wenn sie festlegen, wo sie arbeiten möchten.
 </target>
@@ -3131,7 +3125,7 @@ Stapel identischer Gegenstände können schnell zusammengefasst und sortiert wer
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Der Handel mit deinen Mitbürgern ist in Eco unerlässlich, da jeder Spieler über eine Reihe von {Spezialisierungen} verfügt, mit denen er am effektivsten beitragen kann, während er mit anderen Bürgern handelt, die in Berufen versiert sind, in denen er selbst keine Kenntnisse hat. 
+        <target xml:space="preserve" state="needs-translation">Der Handel mit deinen Mitbürgern ist in Eco unerlässlich, da jeder Spieler über eine Reihe von {Spezialisierungen} verfügt, mit denen er am effektivsten beitragen kann, während er mit anderen Bürgern handelt, die in Berufen versiert sind, in denen er selbst keine Kenntnisse hat. 
 
  - Handelsgeschäfte können an einer {Verkaufsstelle} eingerichtet werden, an der Kauf- und Verkaufspreise für die verschiedenen gewünschten Waren aufgeführt sind.  Bürger können dann asynchron mit dir Waren kaufen und verkaufen, ohne anwesend zu sein.
  - Der Handel mit Arbeitskräften kann über {Verträge} und {Arbeitsgruppen} erfolgen, wodurch Spieler Arbeiten gegen Bezahlung zu vereinbarten Bedingungen ausführen können.  Dies kann ebenfalls asynchron erfolgen.
