@@ -989,13 +989,7 @@ Los libros de habilidad son uno de los objetos más difíciles de fabricar, y no
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">El comercio con otros ciudadanos es esencial en Eco, ya que cada jugador tendrá un conjunto de  {Specialties} con las que pueden contribuir eficientemente a la mejora de otras profesiones, y viceversa. 
-
- - Puedes comerciar usando un {Store Component}, donde se crean listas de compra/venta para los diferentes bienes de interés.  Los ciudadanos podrán comprar/vender sin necesidad de estar conectados al juego gracias a este elemento de objeto.
- - Podrás comerciar con unidades de trabajo usando {Contracts} y {Work Parties}, lo que permite que otros jugadores aporten trabajo a cambio de un pago sujeto a unos términos que ambos jugadores deben aceptar.  Este tipo de comercio también puede realizarse de forma asíncrona.
- - El comercio mediante divisas puede realizarse mediante un {Currency Exchange|Exchange Component}, donde aparecen los objetos que se compran/venden y las divisas aceptadas para las transacciones.
- - El comercio se ve facilitado por los medios de {Transport}, por lo que contar con una buena infraestructura de transporte entre las diferentes propiedades de cada ciudadano ayudará enormemente a incrementar el comercio.
- - Al comerciar, se aplicarán una serie de {Taxes}, creados y definidos por el {government overview}, y mediante los cuales se puede promover/dificultar el comercio de ciertos productos gracias a los valores impuestos a cada uno de ellos.
+        <target xml:space="preserve" state="needs-translation">Por hacer
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
