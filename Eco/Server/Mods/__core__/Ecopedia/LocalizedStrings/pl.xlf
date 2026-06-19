@@ -1049,13 +1049,7 @@ Księgi umiejętności to jedne z najtrudniejszych przedmiotów do stworzenia, a
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">Handel z innymi obywatelami jest niezbędny w Eko, ponieważ każdy gracz mający pewien dobrze rozbudowany zestaw {Specialties}, handluje z obywatelami, którzy są wykwalifikowani w zawodach innych, niż on sam.
-
- - Transakcje można ustawić w {Store Component}, podając ceny kupna/sprzedaży towarów, którymi chcesz handlować. Obywatele mogą wtedy kupować i sprzedawać ci towary asynchronicznie, czyli twoja obecność podczas transakcji nie będzie wymagana..
- - Handel pracą może odbywać się poprzez {Contracts} i {Work Parties}, umożliwiając graczom wykonywanie pracy za wynagrodzeniem na uzgodnionych warunkach. Można to również wykonać asynchronicznie.
- - Handel walutami może odbywać się na {Currency Exchange|Exchange Component}, który zawiera ceny kupna/sprzedaży dla wymiany różnych walut.
- -  {Transport} ułatwia handel, a budowa infrastruktury transportowej między rozkwitającymi centrami twojej cywilizacji znacznie poprawi możliwości handlu.
- - Handel podlega {Taxes}, ustalonymi przez rząd {government overview}}, który może zwiększać lub zmniejszać wartość niektórych transakcji.
+        <target xml:space="preserve" state="needs-translation">Do zrobienia
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
