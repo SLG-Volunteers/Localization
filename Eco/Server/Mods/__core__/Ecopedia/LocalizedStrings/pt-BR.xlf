@@ -1047,13 +1047,7 @@ Os livros de habilidades são alguns dos itens mais difíceis de criar e os cida
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="translated">O comércio com seus concidadãos é essencial em Eco, já que cada jogador tem um conjunto de [Specialties] para o qual eles podem contribuir de forma mais eficaz enquanto negociam com outros cidadãos que são qualificados em profissões nas quais eles não são. 
-
- - As negociações podem ser configuradas em uma [Store Component], listando os preços de compra/venda dos diferentes produtos que você deseja. Os cidadãos podem então comprar e vender mercadorias para você de forma assíncrona (sem a necessidade de ambos estarem online).
- - A troca de mão de obra pode acontecer por meio de [Contracts] e [Work Parties], permitindo que os jogadores realizem o trabalho mediante pagamento nos termos acordados. Isso também pode ser executado de forma assíncrona.
- - A troca de moedas pode acontecer em uma [Currency Exchange|Exchange Component], listando preços de compra/venda para troca de moedas diferentes.
- - O comércio é facilitado pelo [Transport] e a construção dessa infraestrutura entre os centros emergentes de sua civilização irá promover muito a capacidade de comércio.
- - As negociações estão sujeitas a [Taxes], definidas pelo Governo ([government overview]), que podem promover ou reduzir o valor de certas negociações.
+        <target xml:space="preserve" state="needs-translation">A fazer
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
@@ -3134,12 +3128,12 @@ Pilhas de itens idênticos podem ser rapidamente consolidadas e organizadas pres
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">O comércio com seus concidadãos é essencial no Eco, já que cada jogador tem um conjunto de {Especialidades} nas quais pode contribuir de forma mais eficaz ao negociar com outros cidadãos que são hábeis em profissões nas quais eles não são. 
+        <target xml:space="preserve" state="needs-translation">O comércio com seus concidadãos é essencial no Eco, já que cada jogador tem um conjunto de {Especialidades} nas quais pode contribuir de forma mais eficaz ao negociar com outros cidadãos que são hábeis em profissões nas quais eles não são. 
 
  - As transações comerciais podem ser configuradas em um {Componente de Loja}, listando preços de compra/venda para os diferentes bens que você deseja.  Os cidadãos podem então comprar e vender bens para você de forma assíncrona, sem estarem presentes.
  - O comércio de mão de obra pode ocorrer por meio de {Contratos} e {Grupos de Trabalho}, permitindo que os jogadores realizem trabalhos mediante pagamento dentro dos termos acordados.  Isso também pode ser feito de forma assíncrona.
  - O comércio de moedas pode ocorrer em uma {Casa de Câmbio|Componente de Câmbio}, listando preços de compra/venda para a troca de diferentes moedas.
- - O comércio é facilitado pelo {Transporte} e a construção de infraestrutura de transporte entre os centros em expansão da tua civilização promoverá significativamente a capacidade de comércio.
+ - O comércio é facilitado pelo {Transporte} e a construção de infraestrutura de transporte entre os centros em expansão da sua civilização promoverá significativamente a capacidade de comércio.
  - O comércio está sujeito a {Impostos}, definidos pelo {Governo|Visão Geral do Governo}, que podem promover ou reduzir o valor de certas transações comerciais.
 </target>
       </trans-unit>
