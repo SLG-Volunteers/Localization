@@ -1974,7 +1974,7 @@ Experience Multiplier
 Your Experience Multiplier (or XP Multiplier) is a personal value representing your health and support system, and it determines how fast you learn new skills.  It is determined as a sum of your {Nutrition} and {Housing|Housing Overview} values.  Because it affects both your character and specialty experience points, you’ll want to keep it as high as possible by eating the nutritious food and having a well-furnished house.
 
 </source>
-        <target xml:space="preserve" state="translated">По мере приобретения опыта в ECO вы сможете открывать новые специальности и новые способности в рамках этих специальностей. Есть два типа опыта, который вы получите, опыт персонажа и опыт специальности. Оба увеличиваются на ваш общий множитель опыта.
+        <target xml:space="preserve" state="needs-translation">По мере приобретения опыта в Eco вы сможете открывать новые специальности и новые способности в рамках этих специальностей. Есть два типа опыта, который вы получите, опыт персонажа и опыт специальности. Оба увеличиваются на ваш общий множитель опыта.
 
 Опыт Персонажа
 Это ваша фоновая скорость обучения, то, как быстро вы приобретаете знания и способности. Он постоянно растет, даже когда вы находитесь в автономном режиме. Каждый реальный день Вы будете получать опыт персонажа из расчета 1 * Ваш множитель опыта. Когда вы достигнете уровня выше, вы получите новую специальность для разблокировки, представленную звездой. Для дальнейшего повышения уровня потребуется все больше и больше опыта персонажа, так что очень трудно иметь больше, чем несколько специальностей за всю игру.
@@ -3122,13 +3122,13 @@ Stacks of identical items can be quickly consolidated and sorted by pressing the
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Торговля с другими жителями в Eco играет важную роль, так как у каждого игрока есть набор {специальностей}, в которых он может приносить максимальную пользу, обмениваясь товарами с теми, кто владеет навыками в тех профессиях, в которых он сам не силен. 
+        <target xml:space="preserve" state="needs-translation">Торговля с другими жителями в Eco играет важную роль, так как у каждого игрока есть набор {Specialties}, в которых он может приносить максимальную пользу, обмениваясь товарами с теми, кто владеет навыками в тех профессиях, в которых он сам не силен. 
 
  - Торговые точки можно настроить в {Store Component}, указав цены на покупку и продажу нужных тебе товаров.  Жители смогут покупать и продавать тебе товары в асинхронном режиме, даже не присутствуя на месте.
- - Торговля рабочей силой может происходить через {Контракты} и {Рабочие группы}, позволяя игрокам выполнять работу за оплату в соответствии с оговоренными условиями.  Это также можно делать асинхронно.
- - Торговля валютами может происходить в {Валютной бирже|Компоненте биржи}, где указаны цены покупки/продажи для обмена разных валют.
- - Торговле способствует {Транспорт}, а строительство транспортной инфраструктуры между быстроразвивающимися центрами твоей цивилизации значительно улучшит возможности для торговли.
- - Торговля облагается {Налогами}, устанавливаемыми {Правительством|Обзор правительства}, что может либо повысить, либо снизить ценность определённых видов торговли.
+ - Торговля рабочей силой может происходить через {Contracts} и {Work Parties}, позволяя игрокам выполнять работу за оплату в соответствии с оговоренными условиями.  Это также можно делать асинхронно.
+ - Торговля валютами может происходить в {Пункте обмена|Exchange Component}, где указаны цены покупки/продажи для обмена разных валют.
+ - Торговле способствует {Transport}, а строительство транспортной инфраструктуры между быстроразвивающимися центрами твоей цивилизации значительно улучшит возможности для торговли.
+ - Торговля облагается {Taxes}, устанавливаемыми {Правительством|Government Overview}, что может либо повысить, либо снизить ценность определённых видов торговли.
 </target>
       </trans-unit>
       <trans-unit id="359" xml:space="preserve">
@@ -3363,8 +3363,8 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Поселение может быть создано группой граждан для формирования правительства в пределах своей зоны {влияния}.
+        <target xml:space="preserve" state="needs-translation">
+    Поселение может быть создано группой граждан для формирования правительства в пределах своей зоны {Influence}.
   </target>
       </trans-unit>
       <trans-unit id="409" xml:space="preserve">
@@ -3397,14 +3397,14 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    - {Основание} — Несколько граждан могут объединиться, чтобы основать новое поселение.
-    - {Гражданство} — Гражданам могут быть предоставлены особые права и привилегии, а статус гражданина поселения усиливает его влияние.
-    - {Влияние} — Поселения оказывают влияние в радиусе вокруг определенных зданий, в пределах которого действуют законы и правила владения собственностью.
-    - {Собственность поселения} - Чем больше граждан в поселении, тем больше собственности можно занять.
-    - {Культура} - Культура позволяет поселениям оказывать влияние на соседние поселения, что может привести к их аннексии.
-    - {Аннексия} - Поселения могут захватывать другие поселения или усадьбы, если их уровень культуры достаточно высок.
-    - {Кризис собственности} — Если поселение теряет жителей, оно может не смочь удержать уже завоеванную собственность.
+        <target xml:space="preserve" state="needs-translation">
+    - {Founding} — Несколько граждан могут объединиться, чтобы основать новое поселение.
+    - {Citizenship} — Гражданам могут быть предоставлены особые права и привилегии, а статус гражданина поселения усиливает его влияние.
+    - {Influence} — Поселения оказывают влияние в радиусе вокруг определенных зданий, в пределах которого действуют законы и правила владения собственностью.
+    - {Settlement Property} - Чем больше граждан в поселении, тем больше собственности можно занять.
+    - {Culture} - Культура позволяет поселениям оказывать влияние на соседние поселения, что может привести к их аннексии.
+    - {Annexation} - Поселения могут захватывать другие поселения или усадьбы, если их уровень культуры достаточно высок.
+    - {Property Crisis} — Если поселение теряет жителей, оно может не смочь удержать уже завоеванную собственность.
   </target>
       </trans-unit>
       <trans-unit id="415" xml:space="preserve">
@@ -3431,8 +3431,8 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Культура создается гражданами посредством творчества, открытия исторических артефактов (скоро будет), проведения мероприятий и фестивалей (скоро будет), а также основания поселений.  Культура всегда привязана к поселению, и чем больше культуры в поселении, тем дальше распространяется его {Влияние}.
+        <target xml:space="preserve" state="needs-translation">
+    Культура создается гражданами посредством творчества, открытия исторических артефактов (скоро будет), проведения мероприятий и фестивалей (скоро будет), а также основания поселений.  Культура всегда привязана к поселению, и чем больше культуры в поселении, тем дальше распространяется его {Influence}.
   </target>
       </trans-unit>
       <trans-unit id="418" xml:space="preserve">
@@ -3503,14 +3503,14 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Как только все требования будут выполнены, можно начинать голосование для утверждения {Конституции} поселения.  На вкладке «Конституция» ты можешь настроить конституцию по своему усмотрению, создав правительство так, как считаешь нужным (см. руководство по Конституции). Как только ты нажмешь, чтобы начать голосование, все нынешние жители поселения смогут проголосовать.  Если голосование провалится, ты можешь внести изменения и попробовать ещё раз.
+        <target xml:space="preserve" state="needs-translation">
+    Как только все требования будут выполнены, можно начинать голосование для утверждения {Constitution} поселения.  На вкладке Конституция ты можешь настроить конституцию по своему усмотрению, создав правительство так, как считаешь нужным (см. руководство по Конституции). Как только ты нажмешь, чтобы начать голосование, все нынешние жители поселения смогут проголосовать.  Если голосование провалится, ты можешь внести изменения и попробовать ещё раз.
 
     Если хочешь, ты можешь добавить другие гражданские элементы при первоначальном основании своего поселения. Например, разместив суд на участке первоначального поселения, ты сможешь создавать законы, связанные с поселением, которые можно вынести на голосование вместе с ратификацией конституции. Таким образом, ты можешь объединить любое количество гражданских объектов в одно голосование, если хочешь, чтобы твоя система правления была более сформированной с самого начала. Если нет, ты всегда сможешь добавить их позже с помощью дополнительных голосований.
 
     Как только все требования будут выполнены и конституция ратифицирована, поселение готово к основанию!  Нажми кнопку на вкладке «Основание» объекта «Основание», чтобы начать церемонию открытия, на которую могут прийти все твои граждане, чтобы отпраздновать начало нового поселения.
 
-    После основания твое поселение начнет оказывать {Влияние}, генерировать {Собственность поселения} и получать {Культуру}.
+    После основания твое поселение начнет оказывать {Influence}, генерировать {Settlement Property} и получать {Culture}.
   </target>
       </trans-unit>
       <trans-unit id="428" xml:space="preserve">
@@ -3549,8 +3549,8 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Как только поселение будет {основано|основано}, оно начнет оказывать влияние в радиусе вокруг места основания. Любая земля, находящаяся под его влиянием, будет подчиняться его законам и гражданским мерам.
+        <target xml:space="preserve" state="needs-translation">
+    Как только поселение будет {основано|Founding}, оно начнет оказывать влияние в радиусе вокруг места основания. Любая земля, находящаяся под его влиянием, будет подчиняться его законам и гражданским мерам.
   </target>
       </trans-unit>
       <trans-unit id="433" xml:space="preserve">
