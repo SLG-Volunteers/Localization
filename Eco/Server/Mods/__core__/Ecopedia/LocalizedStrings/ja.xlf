@@ -2133,11 +2133,11 @@ You can see the spread of specialties that other citizens have chosen on the ski
   </source>
         <target xml:space="preserve" state="translated">シェフは、市民がより早く経験を積めるよう、高品質の料理を作ることが目的です。農民やハンターが生産した食材を使い、シェフは栄養価の高い料理を作ります。技術の進歩に伴い、シェフの特技は徐々に高品質の料理を作るようになれます。
   
-  - [CampfireCookingSkill] は入門レベルのシェフ専門性で、[CampfireItem] を使って、シェフでない人が作る基本的な炭焼き料理よりもおいしい料理を作ることができます。
-  - [CookingSkill] は、[CastIronStoveItem] を使用してより質の高い料理を作るシェフ専門性の第二段階です。
-  - [BakingSkill] は[FlourItem] を使って焼き菓子を作ります。
-  - [AdvancedCookingSkill] は最高レベルの料理を生産する高レベルの専門家です。
-  - [AdvancedBakingSkill] は[YeastItem] を使って[LeavenedDoughItem] で高品質の焼き菓子を生産するAdvanced Cookingの代替となる職業です。
+  - [CampfireCookingSkill] はシェフスキルの入門編で、[CampfireItem] を使って、シェフでない人が作る直火焼きの料理よりもおいしい料理を作ることができます。
+  - [CookingSkill] は、[CastIronStoveItem] を使用してより質の高い料理を作ることができるシェフスキルの第二段階です。
+  - [BakingSkill] は[FlourItem] を使って焼き菓子を作ることができます。
+  - [AdvancedCookingSkill] は最高レベルの料理を作る上級シェフスキルです。
+  - [AdvancedBakingSkill] は[AdvancedCookingSkill]の代替職業ですが、[LeavenedDoughItem] で[YeastItem] からクオリティの高い焼き菓子を生産することができます。
   </target>
       </trans-unit>
       <trans-unit id="244" xml:space="preserve">
