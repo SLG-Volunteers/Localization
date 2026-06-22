@@ -1651,8 +1651,8 @@ A constitution contains civic articles which define how the government functions
         <source xml:space="preserve">{Laws}
 Laws determine rules and processes that all citizens are compelled to follow.  A {SmallCourtItem} can hold up to 2 laws and a {LargeCourtItem} up to 5. 
 </source>
-        <target xml:space="preserve" state="translated">{Laws}
-Законы определяют правила и процессы, которым обязаны следовать все жители. {CourtItem} вмещает в себе до 3 законов. 
+        <target xml:space="preserve" state="needs-translation">{Laws}
+Законы определяют правила и процессы, которым обязаны следовать все жители. {SmallCourtItem} вмещает в себе 2, а {LargeCourtItem} до 5 законов. 
 </target>
       </trans-unit>
       <trans-unit id="199" xml:space="preserve">
@@ -1734,9 +1734,9 @@ Laws are created by placing a {SmallCourtItem} or a {LargeCourtItem}, and depend
 
 Many ‘Cause’ choices will provide context about the citizen who triggered it, where it was triggered, etc. These ‘context’ properties can be seen in the Cause tooltip, and are available for specifying data in the ‘Effects’.  For example, an effect may tax the specific player who chopped down a tree.
   </source>
-        <target xml:space="preserve" state="translated">Законы являются способом влияния на мир для достижения поставленых целей населением.
+        <target xml:space="preserve" state="needs-translation">Законы являются способом влияния на мир для достижения поставленых целей населением.
 
-Законы создаются в размещенном {CourtItem} и в зависимости от положений {Civic Articles} могут требовать проведения голосования для принятия. Каждый закон представляет собой набор действий производимых при выполнении поставленных условий. Гибкость законов позволяет регулировать множество зон, налогообложение, а так же платежи и дотации.
+Законы создаются в размещенном {SmallCourtItem} или {LargeCourtItem} и в зависимости от положений {Civic Articles} могут требовать проведения голосования для принятия. Каждый закон представляет собой набор действий производимых при выполнении поставленных условий. Гибкость законов позволяет регулировать множество зон, налогообложение, а так же платежи и дотации.
 
 Условия представляют собой действия жителя и сопровождаются информацией о том кто, чем и где совершил его. В подсказке на основании выполнения действий будут описаны выполненные условия. Например житель может облагаться налогом при срубании дерева
   </target>
@@ -1874,8 +1874,8 @@ Many types of power generation exist, and each has different fuel needs as well 
       <trans-unit id="221" xml:space="preserve">
         <source xml:space="preserve">
   Land can be claimed as property by using a {Land Claim Stake|ClaimToolItem} and targeting an unclaimed plot of land.  When targeted, a {Settlement Claim Stake|SettlementProperty} will be planted, and the citizen will become the owner on the deed. The property at your current position can be seen in the world panel in the bottom right of the screen, and clicking the title will open the deed.</source>
-        <target xml:space="preserve" state="translated">
-  Земля может быть занята как собственность с помощью {|Property Tool Item} выбирая не занятый участок земли. Когда выбор сделан тратится {|Property Claim Item} и житель становится собственником права на собственность. Собственность в вашей текущей позиции можно увидеть на панели мира в правом нижнем углу экрана. Клик на названии собственности откроет окно прав.</target>
+        <target xml:space="preserve" state="needs-translation">
+  Земля может быть занята как собственность с помощью {Land Claim Stake|ClaimToolItem} выбирая не занятый участок земли. Когда выбор сделан тратится {Settlement Claim Stake|SettlementProperty} и житель становится собственником права на собственность. Собственность в вашей текущей позиции можно увидеть на панели мира в правом нижнем углу экрана. Клик на названии собственности откроет окно прав.</target>
       </trans-unit>
       <trans-unit id="222" xml:space="preserve">
         <source xml:space="preserve">Object Property Rights</source>
@@ -2741,10 +2741,10 @@ Once a {Constitution} is passed, new government policies are contained as Civic 
 - {Civic Articles} are set at a {CapitolItem} or {AmendmentsItem}
 - {Election Processes} are set at a {BoardOfElectionsItem}
   </source>
-        <target xml:space="preserve" state="translated">
+        <target xml:space="preserve" state="needs-translation">
 После ратификации {Конституции|Constitution}, новая политика Правительства формируется из 'Гражданских объектов' создаваемых в различных Правительственных структурах. Каждая Правительственная структура содержит свой тип гражданских объектов:
 
-- {Laws} в {CourtItem}
+- {Laws} в {SmallCourtItem} или {LargeCourtItem}
 - {Demographics} в {CensusBureauItem}
 - {Districts} в {ZoningOfficeItem}
 - {Elected Titles} в {GovernmentOfficeItem}
