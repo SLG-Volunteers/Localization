@@ -107,8 +107,8 @@
         <target xml:space="preserve" state="translated">推选官员收到15项土地认领需求</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
-        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve" state="translated">建立金库时，他们可以设置税务(正在开发中的功能); they can set taxes (feature in progress)</target>
+        <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
+        <target xml:space="preserve" state="needs-translation">建立金库时，他们可以设置税务(正在开发中的功能); they can set taxes (feature in progress)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
