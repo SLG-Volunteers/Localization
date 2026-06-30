@@ -107,8 +107,8 @@
         <target xml:space="preserve">Elected officials receive 15 property claims</target>
       </trans-unit>
       <trans-unit id="27">
-        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</target>
+        <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
+        <target xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</target>
       </trans-unit>
       <trans-unit id="28">
         <source xml:space="preserve">This election uses</source>
@@ -175,8 +175,8 @@
         <target xml:space="preserve">Cancel</target>
       </trans-unit>
       <trans-unit id="44">
-        <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target xml:space="preserve">To start a new election; you must add yourself as a candidate</target>
+        <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
+        <target xml:space="preserve">To start a new election, you must add yourself as a candidate</target>
       </trans-unit>
       <trans-unit id="45">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -363,8 +363,8 @@
         <target xml:space="preserve">Layer Select by Name or Number</target>
       </trans-unit>
       <trans-unit id="96">
-        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</target>
+        <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
+        <target xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</target>
       </trans-unit>
       <trans-unit id="97">
         <source xml:space="preserve">Student Progress</source>
