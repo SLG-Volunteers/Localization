@@ -403,7 +403,9 @@ Die Bürgerrecht-Komponente ermöglicht es den Bürgern, verschiedene Bürgerrec
 
 Title Users are the citizens considered title holders and receive all associated benefits and conditions.
 	</source>
-        <target xml:space="preserve" state="translated">Titelmanager können den Titel umbenennen und neue Manager und Titelträger zuweisen. Titelmanager gelten nicht als Titelbenutzer. Titelnutzer sind die Bürger, die als Titelträger gelten und alle damit verbundenen Vorteile und Bedingungen erhalten.
+        <target xml:space="preserve" state="translated">Titelmanager können den Titel umbenennen und neue Manager und Titelträger zuweisen. Titelmanager gelten nicht als Titelbenutzer.
+
+Titelnutzer sind die Bürger, die als Titelträger gelten und alle damit verbundenen Vorteile und Bedingungen erhalten.
 	</target>
       </trans-unit>
       <trans-unit id="49" xml:space="preserve">
