@@ -107,8 +107,8 @@
         <target xml:space="preserve" state="translated">Обранці отримують 15 свідчень власності</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
-        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve" state="translated">Після побудови Скарбниці, можна встановлювати податки (функція в розробці); they can set taxes (feature in progress)</target>
+        <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
+        <target xml:space="preserve" state="needs-translation">Після побудови Скарбниці, можна встановлювати податки (функція в розробці); they can set taxes (feature in progress)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -175,8 +175,8 @@
         <target xml:space="preserve" state="translated">Скасувати</target>
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
-        <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target xml:space="preserve" state="translated">Щоби почати нові вибори, ви маєте додати себе кандидатом; you must add yourself as a candidate</target>
+        <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
+        <target xml:space="preserve" state="needs-translation">Щоби почати нові вибори, ви маєте додати себе кандидатом; you must add yourself as a candidate</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -363,8 +363,8 @@
         <target xml:space="preserve" state="translated">Вибір шару за іменем чи номером</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
-        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target xml:space="preserve" state="translated">Аргументи щодо законів будуть тут, розмір мап може бути змінений, щоби краще вміщати текст; maps can be resized to fit with text better later</target>
+        <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
+        <target xml:space="preserve" state="needs-translation">Аргументи щодо законів будуть тут, розмір мап може бути змінений, щоби краще вміщати текст; maps can be resized to fit with text better later</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
