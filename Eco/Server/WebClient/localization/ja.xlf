@@ -107,8 +107,8 @@
         <target xml:space="preserve" state="translated">選出された役員は15の不動産の請求を受ける</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
-        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve" state="translated">財務省が建設されると、税金を設定することができます(進行中の機能); they can set taxes (feature in progress)</target>
+        <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
+        <target xml:space="preserve" state="needs-translation">財務省が建設されると、税金を設定することができます(進行中の機能); they can set taxes (feature in progress)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -363,8 +363,8 @@
         <target xml:space="preserve" state="translated">名前または番号でレイヤー選択</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
-        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target xml:space="preserve" state="translated">法律上の議論はここで行い、後でテキストに合わせて地図をサイズ変更することができます; maps can be resized to fit with text better later</target>
+        <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
+        <target xml:space="preserve" state="needs-translation">法律上の議論はここで行い、後でテキストに合わせて地図をサイズ変更することができます; maps can be resized to fit with text better later</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
