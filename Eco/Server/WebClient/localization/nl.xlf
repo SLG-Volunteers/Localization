@@ -107,8 +107,8 @@
         <target xml:space="preserve" state="translated">Verkozen leiders ontvangen 15 vastgoed eigendommen</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
-        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve" state="translated">Wanneer een Treasury is gebouwd, kunnen ze de belasting aanpassen (mogelijkheid in aanbouw); they can set taxes (feature in progress)</target>
+        <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
+        <target xml:space="preserve" state="needs-translation">Wanneer een Treasury is gebouwd, kunnen ze de belasting aanpassen (mogelijkheid in aanbouw); they can set taxes (feature in progress)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -175,8 +175,8 @@
         <target xml:space="preserve" state="translated">Annuleer</target>
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
-        <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target xml:space="preserve" state="translated">Om een nieuwe verkiezing te beginnen moet je jezelf toevoegen als kandidaat; you must add yourself as a candidate</target>
+        <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
+        <target xml:space="preserve" state="needs-translation">Om een nieuwe verkiezing te beginnen moet je jezelf toevoegen als kandidaat; you must add yourself as a candidate</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -363,8 +363,8 @@
         <target xml:space="preserve" state="translated">Laag Selecteren op Naam of Nummer</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
-        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target xml:space="preserve" state="translated">Argumenten over wetten komen hier, kaarten kunnen later worden aangepast om beter bij de tekst te passen; maps can be resized to fit with text better later</target>
+        <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
+        <target xml:space="preserve" state="needs-translation">Argumenten over wetten komen hier, kaarten kunnen later worden aangepast om beter bij de tekst te passen; maps can be resized to fit with text better later</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
