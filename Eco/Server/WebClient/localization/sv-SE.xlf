@@ -107,8 +107,8 @@
         <target xml:space="preserve" state="translated">Korade ämbetsmän får 15 egendoms inmutningar</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
-        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target xml:space="preserve" state="translated">När en statskassa är byggd, kan de lägga skatt(funktion i utveckling); they can set taxes (feature in progress)</target>
+        <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
+        <target xml:space="preserve" state="needs-translation">När en statskassa är byggd, kan de lägga skatt(funktion i utveckling); they can set taxes (feature in progress)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -175,8 +175,8 @@
         <target xml:space="preserve" state="translated">Avbryt</target>
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
-        <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target xml:space="preserve" state="translated">För att starta ett ny val, du måste tillägga dig själv som kandidat; you must add yourself as a candidate</target>
+        <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
+        <target xml:space="preserve" state="needs-translation">För att starta ett ny val, du måste tillägga dig själv som kandidat; you must add yourself as a candidate</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -363,8 +363,8 @@
         <target xml:space="preserve" state="translated">Lagret vald efter namn eller nummer</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
-        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target xml:space="preserve" state="translated">Argument över lagar går här, kartor kan storleksändras för att passa med text bättre senare; maps can be resized to fit with text better later</target>
+        <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
+        <target xml:space="preserve" state="needs-translation">Argument över lagar går här, kartor kan storleksändras för att passa med text bättre senare; maps can be resized to fit with text better later</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
