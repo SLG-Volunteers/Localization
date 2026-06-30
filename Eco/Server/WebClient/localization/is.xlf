@@ -107,8 +107,8 @@
         <target state="needs-translation" state-qualifier="leveraged-mt">Kjörnir fulltrúar fá 15 eignarkröfur</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
-        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Þegar fjármálaráðuneyti er byggt upp geta spilendur sett skatta (aðgerð í vinnslu)</target>
+        <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
+        <target state="translated" state-qualifier="leveraged-mt">Þegar fjármálaráðuneyti er byggt upp geta spilendur sett skatta (aðgerð í vinnslu)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -175,8 +175,8 @@
         <target state="needs-translation" state-qualifier="leveraged-mt">Hætta við</target>
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
-        <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Til að hefja nýjar kosningar verður þú að bæta þér við sem frambjóðanda</target>
+        <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
+        <target state="translated" state-qualifier="leveraged-mt">Til að hefja nýjar kosningar verður þú að bæta þér við sem frambjóðanda</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -363,8 +363,8 @@
         <target state="needs-translation" state-qualifier="leveraged-mt">Lag val með nafni eða númeri</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
-        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Rök um lögin koma hér; kortum má breyta stærð svo þau passi betur við textann síðar</target>
+        <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
+        <target state="translated" state-qualifier="leveraged-mt">Rök um lögin koma hér; kortum má breyta stærð svo þau passi betur við textann síðar</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>

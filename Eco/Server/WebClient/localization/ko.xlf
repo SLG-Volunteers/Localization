@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
-        <target xml:space="preserve" state="needs-translation">국고가 건설되어 있다면; they can set taxes (feature in progress)</target>
+        <target xml:space="preserve" state="translated">국고가 건설되어 있다면, they can set taxes (feature in progress)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
-        <target xml:space="preserve" state="needs-translation">새로운 선거를 시행하기 위해선; you must add yourself as a candidate</target>
+        <target xml:space="preserve" state="translated">새로운 선거를 시행하기 위해선, you must add yourself as a candidate</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
-        <target xml:space="preserve" state="needs-translation">이곳에서 법률에 대한 논의를 할 수 있습니다; maps can be resized to fit with text better later</target>
+        <target xml:space="preserve" state="translated">이곳에서 법률에 대한 논의를 할 수 있습니다, maps can be resized to fit with text better later</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>

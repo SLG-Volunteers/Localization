@@ -107,8 +107,8 @@
         <target state="needs-translation" state-qualifier="leveraged-mt">Seçilmiş yetkililer 15 mülk hakkı alırlar</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
-        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Hazine binası inşa edildiğinde, oyuncular vergi belirleyebilirler (bu özellik geliştirme aşamasındadır).</target>
+        <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
+        <target state="translated" state-qualifier="leveraged-mt">Hazine binası inşa edildiğinde, oyuncular vergi belirleyebilirler (bu özellik geliştirme aşamasındadır).</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -175,8 +175,8 @@
         <target state="needs-translation" state-qualifier="leveraged-mt">İptal</target>
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
-        <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Yeni bir seçim başlatmak için kendinizi aday olarak eklemeniz gerekir.</target>
+        <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
+        <target state="translated" state-qualifier="leveraged-mt">Yeni bir seçim başlatmak için kendinizi aday olarak eklemeniz gerekir.</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -363,8 +363,8 @@
         <target state="needs-translation" state-qualifier="leveraged-mt">Ad veya Numaraya Göre Katman Seçimi</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
-        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Yasalarla ilgili tartışmalar buraya yazılır; haritalar, metne daha iyi uyması için daha sonra yeniden boyutlandırılabilir.</target>
+        <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
+        <target state="translated" state-qualifier="leveraged-mt">Yasalarla ilgili tartışmalar buraya yazılır; haritalar, metne daha iyi uyması için daha sonra yeniden boyutlandırılabilir.</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>

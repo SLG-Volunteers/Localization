@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
-        <target xml:space="preserve" state="needs-translation">Når et skattkammer er bygd; they can set taxes (feature in progress)</target>
+        <target xml:space="preserve" state="translated">Når et skattkammer er bygd, they can set taxes (feature in progress)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
-        <target xml:space="preserve" state="needs-translation">For å starte et nytt valg; you must add yourself as a candidate</target>
+        <target xml:space="preserve" state="translated">For å starte et nytt valg, you must add yourself as a candidate</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
-        <target xml:space="preserve" state="needs-translation">Argument over lover havner her; maps can be resized to fit with text better later</target>
+        <target xml:space="preserve" state="translated">Argument over lover havner her, maps can be resized to fit with text better later</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>

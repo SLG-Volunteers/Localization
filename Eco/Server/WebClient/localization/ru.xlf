@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
-        <target xml:space="preserve" state="needs-translation">Когда Казна будет построена, лидер сможет устанавливать налоги (функция в разработке)</target>
+        <target xml:space="preserve" state="translated">Когда Казна будет построена, лидер сможет устанавливать налоги (функция в разработке)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
-        <target xml:space="preserve" state="needs-translation">Что бы начать новое голосование нужно стать кандидатом</target>
+        <target xml:space="preserve" state="translated">Что бы начать новое голосование нужно стать кандидатом</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
-        <target xml:space="preserve" state="needs-translation">Аргументируйте необходимость закона, карта будет сдвинута для соответствия тексту позднее</target>
+        <target xml:space="preserve" state="translated">Аргументируйте необходимость закона, карта будет сдвинута для соответствия тексту позднее</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>

@@ -107,8 +107,8 @@
         <target state="needs-translation" state-qualifier="leveraged-mt">Các quan chức được bầu sẽ nhận được 15 quyền sở hữu tài sản</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
-        <source xml:space="preserve">When a Treasury is built; they can set taxes (feature in progress)</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Khi xây dựng được Kho bạc, họ có thể thiết lập các loại thuế (tính năng đang được phát triển)</target>
+        <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
+        <target state="translated" state-qualifier="leveraged-mt">Khi xây dựng được Kho bạc, họ có thể thiết lập các loại thuế (tính năng đang được phát triển)</target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
         <source xml:space="preserve">This election uses</source>
@@ -175,8 +175,8 @@
         <target state="needs-translation" state-qualifier="leveraged-mt">Hủy</target>
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
-        <source xml:space="preserve">To start a new election; you must add yourself as a candidate</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Để bắt đầu một cuộc bầu cử mới, cậu phải đăng ký bản thân làm ứng cử viên</target>
+        <source xml:space="preserve">To start a new election, you must add yourself as a candidate</source>
+        <target state="translated" state-qualifier="leveraged-mt">Để bắt đầu một cuộc bầu cử mới, cậu phải đăng ký bản thân làm ứng cử viên</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">Please explain why you should be elected</source>
@@ -363,8 +363,8 @@
         <target state="needs-translation" state-qualifier="leveraged-mt">Chọn lớp theo tên hoặc số</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
-        <source xml:space="preserve">Argument over laws goes here; maps can be resized to fit with text better later</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Phần tranh luận về luật pháp sẽ được đưa vào đây; sau này có thể điều chỉnh kích thước bản đồ để phù hợp hơn với nội dung văn bản</target>
+        <source xml:space="preserve">Argument over laws goes here, maps can be resized to fit with text better later</source>
+        <target state="translated" state-qualifier="leveraged-mt">Phần tranh luận về luật pháp sẽ được đưa vào đây; sau này có thể điều chỉnh kích thước bản đồ để phù hợp hơn với nội dung văn bản</target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
         <source xml:space="preserve">Student Progress</source>
