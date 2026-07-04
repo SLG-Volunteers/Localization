@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="0" xml:space="preserve">
         <source xml:space="preserve">Components related to the economy.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Elementy związane z gospodarką.</target>
+        <target state="needs-translation">Elementy związane z gospodarką.</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
@@ -1859,7 +1859,7 @@ Early on, most power will come from calories expended by citizens.  Local-power 
   
 Many types of power generation exist, and each has different fuel needs as well as environmental impact.  The building, fueling, and operation of power plants can become a major {Pollution} source as technology advances, and citizens will need to carefully regulate the types of power used and how pollution is handled to prevent an ecological catastrophe.
   </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Wiele obiektów potrzebuje energii do działania, a wraz z rozwojem twojego społeczeństwa będą się rozwijać również rodzaje energii.
+        <target state="needs-translation">Wiele obiektów potrzebuje energii do działania, a wraz z rozwojem twojego społeczeństwa będą się rozwijać również rodzaje energii.
   
 Na początku większość energii będzie pochodzić z kalorii zużywanych przez mieszkańców. Można też budować lokalne źródła energii, takie jak {koła wodne|przedmiot „koło wodne”}, zasilające tylko najbliższe otoczenie.  Gdy technologia osiągnie poziom elektryczności, energię będzie można wytwarzać centralnie, co pozwoli grupom łączyć się, by wspólnie zasilać miasteczka i miasta, zamiast indywidualnie zakładać źródła energii (takie projekty społeczne świetnie nadają się do finansowania za pomocą systemu {Podatków}, a do ich budowy można wykorzystać {Umowy} i {Zespoły robocze}).
   
