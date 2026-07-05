@@ -1904,7 +1904,7 @@ Istnieje wiele rodzajów wytwarzania energii, a każdy z nich ma inne wymagania 
       </trans-unit>
       <trans-unit id="225" xml:space="preserve">
         <source xml:space="preserve">On the deed, citizens can add and remove parties that may access the land (place or remove blocks).  The owner can also be changed by clicking the gear beside the owner name.  Note that both {Demographics} and {Titles} can both be given ownership on a deed, including {Elected Titles}. Structuring a government this way can allow only elected officials to have certain access rights to land.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Na akcie własności obywatele mogą dodawać i usuwać podmioty, które mają dostęp do terenu (mogą umieszczać lub usuwać bloki). Właściciela można też zmienić, klikając koło zębate obok jego nazwy. Pamiętaj, że zarówno {Demografia}, jak i {Tytuły} mogą otrzymać prawa własności w akcie, w tym {Tytuły wybieralne}. Taka struktura rządu pozwala na przyznanie określonych praw dostępu do terenu wyłącznie wybranym urzędnikom.</target>
+        <target state="needs-translation">Na akcie własności obywatele mogą dodawać i usuwać podmioty, które mają dostęp do terenu (mogą umieszczać lub usuwać bloki). Właściciela można też zmienić, klikając koło zębate obok jego nazwy. Pamiętaj, że zarówno {Demografia}, jak i {Tytuły} mogą otrzymać prawa własności w akcie, w tym {Tytuły wybieralne}. Taka struktura rządu pozwala na przyznanie określonych praw dostępu do terenu wyłącznie wybranym urzędnikom.</target>
       </trans-unit>
       <trans-unit id="226" xml:space="preserve">
         <source xml:space="preserve">Citizens and governments may own property and determine the access rights of them.</source>
@@ -1955,7 +1955,7 @@ Sewage systems are created by connecting a {MechanicalWaterPumpItem} or {Electri
 
 Pipes will automatically connect to any adjacent pipe block of the same type.  To make sewage systems with different pipes in close proximity, use different materials of pipes.
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
+        <target state="needs-translation">
 Wiele obiektów przemysłowych i mieszkaniowych potrzebuje kanalizacji, żeby działać. Zazwyczaj oznacza to, że potrzebują wody jako surowca wejściowego oraz odprowadzenia ścieków. Każdy obiekt wyposażony w {Pipe Component} będzie potrzebował podłączenia do kanalizacji.
 
 Systemy kanalizacyjne tworzy się, podłączając {MechanicalWaterPumpItem} lub {ElectricWaterPumpItem} do źródła wody, a następnie budując rury między różnymi obiektami, które wymagają zaopatrzenia.  Jeśli chodzi o odprowadzanie ścieków, rury odprowadzają ścieki z obiektu albo do środowiska (powodując {Zanieczyszczenie} w miejscu wylotu), albo do {Filtra ścieków|WasteFilterItem}, który przetwarza ścieki na {Kompost|CompostItem}.
@@ -1985,7 +1985,7 @@ Experience Multiplier
 Your Experience Multiplier (or XP Multiplier) is a personal value representing your health and support system, and it determines how fast you learn new skills.  It is determined as a sum of your {Nutrition} and {Housing|Housing Overview} values.  Because it affects both your character and specialty experience points, you’ll want to keep it as high as possible by eating the nutritious food and having a well-furnished house.
 
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">W miarę zdobywania doświadczenia w Eco będziesz mógł odblokowywać nowe specjalizacje oraz nowe umiejętności w ramach tych specjalizacji. Istnieją dwa rodzaje doświadczenia, które będziesz zdobywać: doświadczenie postaci i doświadczenie specjalizacji. Oba są zwiększane przez twój mnożnik doświadczenia.
+        <target state="needs-translation">W miarę zdobywania doświadczenia w Eco będziesz mógł odblokowywać nowe specjalizacje oraz nowe umiejętności w ramach tych specjalizacji. Istnieją dwa rodzaje doświadczenia, które będziesz zdobywać: doświadczenie postaci i doświadczenie specjalizacji. Oba są zwiększane przez twój mnożnik doświadczenia.
 
 Doświadczenie postaci
 Doświadczenie postaci to twoje tempo uczenia się, czyli to, jak szybko zdobywasz wiedzę i umiejętności. Ciągle rośnie, nawet gdy jesteś offline.  Każdego dnia kalendarzowego zdobędziesz doświadczenie postaci w tempie równym 1 * twój mnożnik doświadczenia.  Kiedy awansujesz na kolejny poziom, odblokujesz nową specjalizację, oznaczoną gwiazdką.  Każdy kolejny poziom będzie wymagał coraz większej ilości doświadczenia postaci, więc bardzo trudno jest mieć więcej niż kilka specjalizacji.
