@@ -459,9 +459,9 @@ Todos los objetos colocados tienen componentes de autorización.
         <source xml:space="preserve">Beds allow citizens to accelerate time when all citizens are using it simultaneously (or offline).  
   
 (This feature is disabled by default on dedicated servers to prevent accelerating time when users are offline, but can be enabled by a server administrator.)</source>
-        <target xml:space="preserve" state="translated">Las camas permiten a los ciudadanos acelerar el tiempo (si todos los demás ciudadanos las usan al mismo tiempo, o si están desconectados).  
-  
-NOTA: Esta característica está desactivada por defecto en servidores particulares para prevenir la aceleración del tiempo cuando los usuarios están desconectados, pero un administrador del servidor puede activarla de nuevo</target>
+        <target xml:space="preserve" state="translated">Las camas permiten a los ciudadanos acelerar el tiempo cuando todos los ciudadanos las están usando simultáneamente (o están desconectados).
+
+(Esta característica está desactivada por defecto en los servidores dedicados para evitar acelerar el tiempo cuando los usuarios están desconectados, pero puede ser habilitada por un administrador del servidor).</target>
       </trans-unit>
       <trans-unit id="65" xml:space="preserve">
         <source xml:space="preserve">Allows sleeping in single-player servers or servers where sleep is enabled.</source>
@@ -566,7 +566,11 @@ Crafting tables accept different types of upgrades. Early tables accept 'Basic U
 Some recipes have costs using Static Ingredients. Static ingredients are not affected by the resource cost reduction, but the recipes that contain them still get a reduction for crafting time. 
 		</source>
         <target xml:space="preserve" state="translated">
-Las actualizaciones vienen en cinco niveles de calidad diferentes. Una actualización de nivel 1 reduce el costo de recursos y el tiempo de fabricación en un 10%, y cada nivel progresivo agrega una disminución adicional. Las mesas de artesanía aceptan diferentes tipos de actualizaciones. Las primeras tablas aceptan 'Actualizaciones básicas', mientras que las tablas posteriores requieren 'Actualizaciones avanzadas' o 'Actualizaciones modernas'. Cada nivel de actualización tiene cinco niveles de calidad diferentes, siendo el nivel de calidad más alto una mejora de especialidad. Algunas recetas tienen costos con ingredientes estáticos. Los ingredientes estáticos no se ven afectados por la reducción del costo de los recursos, pero las recetas que los contienen aún obtienen una reducción por el tiempo de elaboración. 
+Las mejoras vienen en cinco niveles de calidad diferentes. Una mejora de nivel 1 disminuye el costo de recursos y el tiempo de fabricación en un 10%, y cada nivel progresivo añade una reducción adicional.
+
+Las mesas de fabricación aceptan diferentes tipos de mejoras. Las mesas iniciales aceptan 'Mejoras Básicas', mientras que las mesas posteriores requieren 'Mejoras Avanzadas' o 'Mejoras Modernas'. Cada categoría de mejora tiene cinco niveles de calidad diferentes, siendo el nivel de calidad más alto una 'Mejora de Especialidad'.
+
+Algunas recetas tienen costos que utilizan 'Ingredientes Estáticos'. Los ingredientes estáticos no se ven afectados por la reducción en el costo de recursos, pero las recetas que los contienen aún obtienen una reducción en el tiempo de fabricación. 
 		</target>
       </trans-unit>
       <trans-unit id="80" xml:space="preserve">
