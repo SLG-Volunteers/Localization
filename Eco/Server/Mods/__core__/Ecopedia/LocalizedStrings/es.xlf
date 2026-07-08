@@ -225,12 +225,11 @@ The backing material and coins per item are permanent, so be careful when decidi
 Citizens who have been granted consumer rights in the {Authorization Component} can use the Mint Component to mint additional currency. Currency can be minted into the target {Bank Account|Bank Accounts} selected by the mint owner, or any bank account the citizen minting has access to in the {Bank Component}.
   </source>
         <target xml:space="preserve" state="translated">
-Al crear una moneda en un {MintItem}, se escoge un objeto de respaldo, así como un monto de Monedas por Objeto que se genera de cada objeto consumido. Al usar un objeto de respaldo para la moneda, el monto posible total de la moneda puede ser limitado al número de objetos contribuidos, así proveyendo más estabilidad al ser más difícil de obtener.
+Al crear una moneda en un {MintItem}, se elige un objeto de respaldo, así como una cantidad de Monedas por Objeto que se generan a partir de cada objeto consumido. Al usar un objeto de respaldo para la moneda, la cantidad total posible de moneda se puede limitar al número de objetos contribuidos, proporcionando así más estabilidad, ya que se vuelve más difícil inundar el mercado con nueva moneda. La elección del objeto de respaldo afectará esto, ya que los objetos más raros generalmente proporcionan más estabilidad al ser más difíciles de conseguir.
 
-El material de respaldo y las monedas por objeto son permanentes, así que cuide al decidir como regresar una moneda. Una vez se acuñase una moneda, se quedará ligada a la ceca donde fue creada, aún si se recogiese esa ceca.
+El material de respaldo y las monedas por objeto son permanentes, así que ten cuidado al decidir cómo respaldar una moneda. Una vez que se acuña una moneda, quedará vinculada a la casa de moneda en la que se creó, incluso si esa casa de moneda se recoge del suelo.
 
-Los ciudadanos que se les han concedido derechos de consumidor en el {Authorization Component} pueden usar el Componente de la Ceca para acuñar la moneda adicional.
-La moneda puede ser acuñada en la {Bank Account|Bank Accounts} objetiva seleccionada por el dueño de la ceca, o cualquier cuenta de banco a la que la ceca ciudadana tenga acceso en el {Bank Component}.
+Los ciudadanos a los que se les han otorgado derechos de consumidor en el {Authorization Component} pueden usar el Componente de Casa de Moneda para acuñar moneda adicional. La moneda se puede acuñar en la {Bank Account|Bank Accounts} de destino seleccionada por el propietario de la casa de moneda, o en cualquier cuenta bancaria a la que el ciudadano que acuña tenga acceso en el {Bank Component}.
   </target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
@@ -292,7 +291,13 @@ Citizens who have been granted Veto power in the current {Election Process|Elect
 To run for elected titles, first an eligible citizen must use the Start Election action. Once an election has started, eligible citizens can select Enter Election to join the race and give a campaign speech. Candidates can opt to Withdraw from Election at any time using the option available on a Ballot Box.
 </source>
         <target xml:space="preserve" state="translated">
-Cuando se usa el Componente de Acción Cívica en una {Ballot Box|Ballot Box Item}, los ciudadanos pueden postularse por {Elected Titles} y participar en las elecciones.  Al presionar el botón Votar, los jugadores son redirigidos a la interfaz web donde pueden ver todas las {Elections} en ejecución, discutirlas con sus conciudadanos, proporcionar evidencia de sus argumentos con {Data} y votar.  Los ciudadanos a los que se les haya otorgado poder de veto en el {Election Process|Election Processes} actual pueden anular instantáneamente una elección.  Para postularse para títulos electos, primero un ciudadano elegible debe usar la acción Iniciar elección.  Una vez que ha comenzado una elección, los ciudadanos elegibles pueden seleccionar Entrar en la elección para unirse a la carrera y dar un discurso de campaña.  Los candidatos pueden optar por retirarse de la elección en cualquier momento utilizando la opción disponible en una urna.
+Al usar el Componente de Acción Cívica en una {Ballot Box|Ballot Box Item}, los ciudadanos pueden postularse para {Elected Titles} y participar en elecciones. 
+
+Al presionar el botón de Votar, los jugadores son redirigidos a la interfaz web donde pueden ver todas las {Elections}en curso, discutirlas con sus conciudadanos, proporcionar evidencia para sus argumentos con {Data} y votar.  
+
+Los ciudadanos a quienes se les ha otorgado el poder de Veto en el {Election Process|Election Processes} actual pueden anular instantáneamente una elección.
+
+Para postularse a títulos electos, primero un ciudadano elegible debe usar la acción Iniciar Elección. Una vez que una elección ha comenzado, los ciudadanos elegibles pueden seleccionar Entrar a la Elección para unirse a la contienda y dar un discurso de campaña. Los candidatos pueden optar por Retirarse de la Elección en cualquier momento utilizando la opción disponible en una Urna de Votación.
 </target>
       </trans-unit>
       <trans-unit id="37" xml:space="preserve">
@@ -382,7 +387,11 @@ When deciding what is Required of Office Holders, a variety of conditions can be
 Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title Manager has been given permission to use in the {Bank Component}. Wages are paid each hour (depending on World settings) into the personal account of each Title User. The Wage Type can be used to exclude offline hours from wage payments.
 	</source>
         <target xml:space="preserve" state="translated">
-En la Configuración avanzada, se pueden establecer requisitos para los poseedores de títulos y se pueden asignar salarios por hora a los poseedores de títulos que califiquen.  Al decidir qué se requiere para los titulares de cargos, se pueden establecer una variedad de condiciones.  Si un ciudadano no cumple con estos requisitos, perderá su asignación como Usuario de Título.  Al utilizar un 'Conjunto de condiciones', se pueden establecer varios requisitos para los poseedores de títulos.  Los salarios se pagan a los Usuarios de títulos de cualquier {Bank Account|Bank Accounts} que un Administrador de títulos tiene permiso para usar en el {Bank Component}.  Los salarios se pagan cada hora (dependiendo de la configuración mundial) en la cuenta personal de cada usuario del título.  El tipo de salario se puede utilizar para excluir las horas fuera de línea de los pagos de salario.
+En la Configuración Avanzada, se pueden establecer requisitos para los titulares, y se pueden asignar salarios por hora a los titulares que califiquen.
+
+Al decidir qué se Requiere de los Titulares de Cargos, se puede establecer una variedad de condiciones. Si un ciudadano no logra mantener estos requisitos, perderá su asignación como Usuario del Título. Al usar un 'Conjunto de Condiciones', se pueden establecer múltiples requisitos para los titulares.
+
+Los salarios se pagan a los Usuarios del Título desde cualquier {Cuenta Bancaria|Cuentas Bancarias} que un Administrador de Títulos tenga permiso para usar en el {Componente Bancario}. Los salarios se pagan cada hora (dependiendo de la configuración del Mundo) en la cuenta personal de cada Usuario del Título. El Tipo de Salario se puede utilizar para excluir las horas de desconexión (u horas offline) de los pagos de salarios.
 	</target>
       </trans-unit>
       <trans-unit id="51" xml:space="preserve">
