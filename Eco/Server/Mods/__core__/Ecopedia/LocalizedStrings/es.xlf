@@ -257,7 +257,15 @@ When creating a Purchase List, the price and Max to Buy quantity for each item m
 For tools with durability, a minimum durability to buy/sell can be set, and only items of that durability or higher will be eligible for trade via the store.
  </source>
         <target xml:space="preserve" state="translated">
-La divisa y la cuenta bancaria seleccionadas en el {Credit Component} se utilizarán para todas las transacciones de la tienda. Al seleccionar Ninguno en la sección de la divisa de cualquier tienda, es posible realizar transacciones directas sin impuestos sobre las ventas.
+La moneda y la cuenta bancaria seleccionadas en el {Credit Component} se utilizarán para todas las transacciones en la tienda. Al seleccionar "Ninguna" para la moneda en una tienda, son posibles los intercambios directos que no están sujetos al impuesto sobre las ventas.
+
+El propietario de una tienda puede vincular contenedores específicos en el {Storage Component} para elegir qué objetos se consideran parte del inventario de la tienda. Por defecto, todos los contenedores de almacenamiento cercanos se vinculan a la tienda cuando se coloca por primera vez.
+
+Al crear una Lista de Venta, solo es necesario establecer el precio. El inventario para una Lista de Venta se determina automáticamente por la disponibilidad de los objetos en los contenedores de almacenamiento vinculados.
+
+Al crear una Lista de Compra, se debe decidir el precio y la cantidad Máxima a Comprar para cada objeto. Si la cantidad Máxima a Comprar se deja en cero, la tienda continuará comprando objetos hasta que los contenedores vinculados estén llenos. Si se especifica una cantidad Máxima a Comprar, los ciudadanos pueden vender ese objeto hasta que el almacenamiento vinculado contenga esa cantidad.
+
+Para las herramientas con durabilidad, se puede establecer una durabilidad mínima para comprar/vender, y solo los objetos con esa durabilidad o superior serán elegibles para el intercambio a través de la tienda.
  </target>
       </trans-unit>
       <trans-unit id="32" xml:space="preserve">
@@ -313,7 +321,11 @@ The Citizen Conditions dictate which citizens the executive action applies to, a
 The Action on Each Citizen will take effect as soon as the executive action is approved. Multiple actions can be performed at once for each citizen who meets the conditions.
 </source>
         <target xml:space="preserve" state="translated">
-El uso del Componente de Acción Cívica en una {Executive Office|Executive Office Item} permite que un título electo realice acciones ejecutivas únicas que afecten a un conjunto de ciudadanos. Las Condiciones Ciudadanas dictan a qué ciudadanos se aplica la acción ejecutiva, y se pueden establecer múltiples condiciones para que un ciudadano tenga calidad. Para realizar una acción para todos los ciudadanos, utilice el {Demographic} Todos como condición de ciudadano. La acción sobre cada ciudadano entrará en vigor tan pronto como se apruebe la acción ejecutiva. Se pueden realizar múltiples acciones a la vez para cada ciudadano que cumpla con las condiciones.
+Usar el Componente de Acción Cívica en un {Executive Office|Executive Office Item} permite a un título electo realizar acciones ejecutivas de una sola vez que afectan a un conjunto de ciudadanos.
+
+Las Condiciones del Ciudadano dictan a qué ciudadanos se aplica la acción ejecutiva, y se pueden establecer múltiples condiciones para que un ciudadano califique. Para realizar una acción para todos los ciudadanos, usa el {Demographic} 'Todos' como la condición del ciudadano.
+
+La Acción sobre Cada Ciudadano surtirá efecto tan pronto como se apruebe la acción ejecutiva. Se pueden realizar múltiples acciones a la vez para cada ciudadano que cumpla con las condiciones.
 </target>
       </trans-unit>
       <trans-unit id="39" xml:space="preserve">
@@ -329,9 +341,11 @@ The Resign from Office action allows any elected official to step down from thei
 The Remove Official from Office action allows citizens who have been given the authority to remove elected titles from office. The same rules for finding a successor apply as if the official resigned.
 </source>
         <target xml:space="preserve" state="translated">
-En la { {Government Office|Government Office Item}, el Componente de Acción Cívica permite que los títulos electos renuncien o eliminen otros títulos electos del cargo.
+En el {Government Office|Government Office Item}, el Componente de Acción Cívica permite a los títulos electos renunciar o destituir a otros títulos electos de su cargo.
 
- La acción de Renunciar al cargo permite que cualquier funcionario electo renuncie a su cargo. Si se asignó un título sucesor al título electo cuando se creó, se seleccionará al azar un nuevo funcionario de entre todos los ciudadanos que posean ese título; de lo contrario, el título electo quedará vacante. La acción Remover funcionario de la oficina permite a los ciudadanos a quienes se les ha otorgado la autoridad remover títulos electos de sus cargos. Se aplican las mismas reglas para encontrar un sucesor que si el funcionario renunciara.
+La acción de Renunciar al Cargo permite a cualquier funcionario electo dimitir de su puesto. Si se asignó un título Sucesor al Título Electo cuando fue creado, se seleccionará aleatoriamente un nuevo funcionario de entre todos los ciudadanos que posean ese título; de lo contrario, el Título Electo quedará vacante.
+
+La acción de Destituir Funcionario del Cargo permite a los ciudadanos, a los que se les ha otorgado la autoridad, remover a los títulos electos de su cargo. Se aplican las mismas reglas para encontrar un sucesor que si el funcionario hubiera renunciado.
 </target>
       </trans-unit>
       <trans-unit id="41" xml:space="preserve">
@@ -1002,12 +1016,12 @@ Los libros de habilidad son uno de los objetos más difíciles de fabricar, y no
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="needs-translation">Por hacer
+        <target xml:space="preserve" state="translated">Por hacer
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
         <source xml:space="preserve">Todo.</source>
-        <target xml:space="preserve" state="translated">El comercio con diferentes ciudadanos que tengan habilidades diversas y diferentes materias primas es la base de cualquier economía.</target>
+        <target xml:space="preserve" state="translated">El comercio de diferentes bienes entre ciudadanos con distintas habilidades es la columna vertebral de la economía.</target>
       </trans-unit>
       <trans-unit id="134" xml:space="preserve">
         <source xml:space="preserve">With resources spread out through the world and the locations where they are collected and processed differing from where they’re used, transport becomes a critical factor to success in Eco.
@@ -3045,7 +3059,7 @@ Cuando un ciudadano se convierte en residente de una propiedad, ganará un conju
       </trans-unit>
       <trans-unit id="353" xml:space="preserve">
         <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">El agotamiento es una configuración del servidor que limita el tiempo máximo de juego al día.</target>
+        <target xml:space="preserve" state="translated">El agotamiento es una configuración del servidor para restringir el tiempo máximo de juego por día.</target>
       </trans-unit>
       <trans-unit id="354" xml:space="preserve">
         <source xml:space="preserve">
