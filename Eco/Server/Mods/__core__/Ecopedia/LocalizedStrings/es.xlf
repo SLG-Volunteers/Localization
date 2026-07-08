@@ -49,7 +49,17 @@ Contracts have a set time length they must be completed within, determined when 
 Any payment offered for a contract will be held in a special Escrow {Bank Account|Bank Accounts} while the contract is active.  If the contract is completed successfully, that payment will be transferred to the contractor, and if it fails it will be refunded to the client.  A deposit can also be collected by the contractor, which will be held in escrow and refunded to the contractor upon successful completion, or given to the client upon failure.
   </source>
         <target xml:space="preserve" state="translated">
-Al publicar un contrato, puede tener tantas o tan pocas cláusulas como desee, y cada cláusula se puede configurar para describir el trabajo solicitado.  Cada cláusula debe cumplirse antes de que el contrato se considere completo.  Cuando se marca Aceptar automáticamente, el sistema detecta automáticamente la finalización de los contratos.  Por ejemplo, si se establece un contrato para construir una carretera entre dos puntos, el contratista que realiza el trabajo puede abrir el contrato en su menú lateral y presionar 'Trabajo terminado', lo que activará una detección si el trabajo está realmente completo.  Si es así, el contrato se pagará de acuerdo con el acuerdo y se cerrará automáticamente.  La 'Cláusula personalizada' es una cláusula especial que permite a los jugadores describir en palabras lo que les gustaría que se hiciera.  Si un contrato contiene una cláusula de este tipo, el cliente debe aprobarlo manualmente (es posible que la aceptación automática no esté marcada), ya que la detección automática no puede determinar cuándo ha finalizado.  Cuando la detección automática está desmarcada, el contratista hará clic en 'Trabajo terminado' cuando crea que el trabajo está terminado, y el contratista aceptará o rechazará la finalización.  Los contratos sin autoaceptar requieren más confianza entre los ciudadanos, ya que no hay garantía de que el contratista acepte honestamente un trabajo terminado.  Se aconseja a los ciudadanos que utilicen la {Reputation} como medio para determinar la confianza en estas situaciones.  Los contratos tienen un período de tiempo establecido en el que deben completarse, que se determina al publicar el contrato.  Además, los contratos se pueden configurar para que se repitan para trabajos recurrentes; cuando esto está habilitado, cada vez que se acepta un contrato, el contador de repeticiones se reducirá en uno.  Cualquier pago ofrecido por un contrato se mantendrá en un depósito de garantía especial {Bank Account|Bank Accounts} mientras el contrato esté activo.  Si el contrato se completa con éxito, ese pago se transferirá al contratista y, si falla, se reembolsará al cliente.  El contratista también puede cobrar un depósito, que se mantendrá en custodia y se reembolsará al contratista una vez que se complete con éxito, o se lo entregará al cliente si falla.
+Al publicar un contrato, puede tener tantas o tan pocas cláusulas como desee, y cada cláusula se puede configurar para describir el trabajo solicitado. Cada cláusula debe cumplirse antes de que el contrato se considere completo.
+
+Cuando se marca Aceptar automáticamente, el sistema detecta automáticamente la finalización de los contratos. Por ejemplo, si se establece un contrato para construir una carretera entre dos puntos, el contratista que realiza el trabajo puede abrir el contrato en su menú lateral y presionar 'Trabajo terminado', lo que activará una detección si el trabajo está realmente completo. Si es así, el contrato se pagará de acuerdo con el acuerdo y se cerrará automáticamente.
+
+La 'Cláusula personalizada' es una cláusula especial que permite a los jugadores describir en palabras lo que les gustaría que se hiciera. Si un contrato contiene una cláusula de este tipo, el cliente debe aprobarlo manualmente (es posible que la aceptación automática no esté marcada), ya que la detección automática no puede determinar cuándo ha finalizado.
+
+Cuando la detección automática está desmarcada, el contratista hará clic en 'Trabajo terminado' cuando crea que el trabajo está terminado, y el contratista aceptará o rechazará la finalización. Los contratos sin autoaceptar requieren más confianza entre los ciudadanos, ya que no hay garantía de que el contratista acepte honestamente un trabajo terminado. Se aconseja a los ciudadanos que utilicen la {Reputation} como medio para determinar la confianza en estas situaciones.
+
+Los contratos tienen un período de tiempo establecido en el que deben completarse, que se determina al publicar el contrato. Además, los contratos se pueden configurar para que se repitan para trabajos recurrentes; cuando esto está habilitado, cada vez que se acepta un contrato, el contador de repeticiones se reducirá en uno.
+
+Cualquier pago ofrecido por un contrato se mantendrá en un depósito de garantía especial {Bank Account|Bank Accounts} mientras el contrato esté activo. Si el contrato se completa con éxito, ese pago se transferirá al contratista y, si falla, se reembolsará al cliente. El contratista también puede cobrar un depósito, que se mantendrá en custodia y se reembolsará al contratista una vez que se complete con éxito, o se lo entregará al cliente si falla.
   </target>
       </trans-unit>
       <trans-unit id="7" xml:space="preserve">
@@ -65,7 +75,11 @@ After posting a work party, Laborers can join the project at the Contract Board.
 When setting the Work desired, the poster of the work party can decide to hire for labor, resources, or both. Any citizen who contributes to the work party will receive a share of the payment based on the amount of work they provided. By assigning additional Weight to a particular job in a work party, that job will receive a higher share of the payment.
 </source>
         <target xml:space="preserve" state="translated">
-{Work Parties} también se pueden publicar en un tablero de contratos, lo que permite la creación de tareas que pueden ser completadas por varios ciudadanos, a diferencia de los contratos que son un acuerdo entre dos partes solamente. Antes de publicar un grupo de trabajo, un ciudadano debe iniciar una orden de trabajo en una mesa de trabajo de su propiedad. Después de publicar un grupo de trabajo, los trabajadores pueden unirse al proyecto en la Junta de Contratos. De forma predeterminada, cualquiera puede unirse al grupo de trabajo como trabajador, pero se pueden establecer requisitos para roles individuales o requisitos generales para que cualquiera pueda unirse. Cuando se marca 'Expandir roles cuando está completo', se crea automáticamente un espacio para que se unan nuevos trabajadores cuando se llenan todos los roles. Al configurar el Trabajo deseado, el cartel del grupo de trabajo puede decidir contratar por mano de obra, recursos o ambos. Cualquier ciudadano que contribuya al grupo de trabajo recibirá una parte del pago en función de la cantidad de trabajo que haya proporcionado. Al asignar peso adicional a un trabajo en particular en un grupo de trabajo, ese trabajo recibirá una parte más alta del pago.
+{Work Parties} también se pueden publicar en un tablero de contratos, lo que permite la creación de tareas que pueden ser completadas por varios ciudadanos, a diferencia de los contratos que son un acuerdo entre dos partes solamente. Antes de publicar un grupo de trabajo, un ciudadano debe iniciar una orden de trabajo en una mesa de trabajo de su propiedad.
+
+Después de publicar un grupo de trabajo, los trabajadores pueden unirse al proyecto en la Junta de Contratos. De forma predeterminada, cualquiera puede unirse al grupo de trabajo como trabajador, pero se pueden establecer requisitos para roles individuales o requisitos generales para que cualquiera pueda unirse. Cuando se marca 'Expandir roles cuando está completo', se crea automáticamente un espacio para que se unan nuevos trabajadores cuando se llenan todos los roles.
+
+Al configurar el Trabajo deseado, el cartel del grupo de trabajo puede decidir contratar por mano de obra, recursos o ambos. Cualquier ciudadano que contribuya al grupo de trabajo recibirá una parte del pago en función de la cantidad de trabajo que haya proporcionado. Al asignar peso adicional a un trabajo en particular en un grupo de trabajo, ese trabajo recibirá una parte más alta del pago.
 </target>
       </trans-unit>
       <trans-unit id="9" xml:space="preserve">
@@ -83,16 +97,18 @@ There are a variety of Payment options for a work party, and multiple payment op
         <target xml:space="preserve" state="translated">
 Hay una variedad de Opciones de pago para un grupo de trabajo, y pueden ser ofrecidas múltiples opciones de pago por el mismo grupo de trabajo.
 
-- Al ofrecer {Currency} como un pago, hay una opción para 'Pago por Uso' que pagará a los laburadores a lo que contribuyan en lugar de pagar un importe global cuando el contrato se termine.
-- Al ofrecer {Reputation} como un pago, se dividirá entre todos los ciudadanos que contribuyeron cuando el grupo de trabajo se termine.
-- Al ofrecer {Research} como un pago, todos los ciudadanos que contribuyen el monto requerido descubrirán instantáneamente la tecnología cuando el grupo de trabajo se termine. La investigación se puede ofrecer como pago solo cuando el grupo de trabajo esté creando un libro de investigación o si el ciudadano ofreciendo el grupo de trabajo tiene el libro de investigación en su inventario al publicar el grupo de trabajo
+- Al ofrecer {Currency} como pago, hay una opción para 'Pago por Uso' que pagará a los trabajadores a medida que contribuyan en lugar de pagar un importe global cuando el contrato se termine.
 
-- Al otorgar un {Title|Titles} como pago, el ciudadano publicando el contrato debe ser un gerente de títulos para el título que se esté ofreciendo. Todos los ciudadanos que contribuyen el monto mínimo se les otorgará el nuevo título. El Tipo de Acceso determina si se convertirán en un gerente de títulos o usuario de títulos.
+- Al ofrecer {Reputation} como pago, se dividirá entre todos los ciudadanos que contribuyeron cuando el grupo de trabajo se termine.
+
+- Al ofrecer {Research} como pago, todos los ciudadanos que contribuyan el monto requerido descubrirán instantáneamente la tecnología cuando el grupo de trabajo se termine. La investigación se puede ofrecer como pago solo cuando el grupo de trabajo esté creando un libro de investigación o si el ciudadano que ofrece el grupo de trabajo tiene el libro de investigación en su inventario al publicar el grupo de trabajo.
+
+- Al otorgar un {Title|Titles} como pago, el ciudadano que publique el contrato debe ser un gerente de títulos para el título que se esté ofreciendo. Todos los ciudadanos que contribuyan el monto mínimo recibirán el nuevo título. El Tipo de Acceso determina si se convertirán en un gerente de títulos o un usuario de títulos.
 </target>
       </trans-unit>
       <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.</source>
-        <target xml:space="preserve" state="translated">El elemento Tablero de contratación permite a los ciudadanos colgar o aceptar contratos y ofertas para grupos de trabajo</target>
+        <target xml:space="preserve" state="translated">El elemento Tablero de contratación permite a los ciudadanos colgar o aceptar contratos y ofertas para grupos de trabajo.</target>
       </trans-unit>
       <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
@@ -116,6 +132,8 @@ Al seleccionar {Bank Accounts}, los ciudadanos pueden seleccionar cualquier cuen
 Cualquiera de las {Currencies|Currency} del mundo puede ser seleccionada en el Componente de Créditos. Esta es la moneda que será usada por cualquier transacción que tome lugar en ese objeto (por ejemplo un {Store|Store Component} aceptará cualquier moneda que se establezca aquí). 
 
 Al seleccionar Ninguna para la moneda en una tienda, los comercios directos son posibles sin la necesidad de una moneda.
+
+Los objetos con un {Crafting Component} pueden definir una tarifa para que los ciudadanos autorizados los usen. La configuración del Componente de Créditos determinará en qué moneda se cobra esa tarifa y a qué cuenta se depositan los fondos.
   </target>
       </trans-unit>
       <trans-unit id="13" xml:space="preserve">
@@ -167,7 +185,9 @@ The owner of a {CurrencyExchangeItem} uses the Exchange Component to offer curre
 When an {Authorized Consumer|Authorization Component} visits the currency exchange, they will see a list of all offered exchanges. By default, all citizens are authorized consumers.
 	</source>
         <target xml:space="preserve" state="translated">
-El propietario de un {CurrencyExchangeItem} utiliza el componente de intercambio para ofrecer cambios de moneda a otros ciudadanos. Al configurar un cambio, la moneda del propietario es la moneda que se ofrece a la venta. Por cada unidad de moneda del propietario comprada, a los ciudadanos se les cobrará la cantidad establecida de moneda alternativa. Cuando un {Authorized Consumer|Authorization Component} visita el cambio de moneda, verá una lista de todos los cambios ofrecidos. Por defecto, todos los ciudadanos son consumidores autorizados.
+El propietario de un {CurrencyExchangeItem} utiliza el componente de intercambio para ofrecer cambios de moneda a otros ciudadanos. Al configurar un cambio, la moneda del propietario es la moneda que se ofrece a la venta. Por cada unidad de moneda del propietario comprada, a los ciudadanos se les cobrará la cantidad establecida de moneda alternativa.
+
+Cuando un {Authorized Consumer|Authorization Component} visita el cambio de moneda, verá una lista de todos los cambios ofrecidos. Por defecto, todos los ciudadanos son consumidores autorizados.
 	</target>
       </trans-unit>
       <trans-unit id="20" xml:space="preserve">
@@ -469,7 +489,9 @@ Authorized Consumers can be listed here, either as specific people, {Titles}, or
 All placed objects have authorization components.
   </source>
         <target xml:space="preserve" state="translated">
-La escritura que se muestra aquí es simplemente un enlace a la escritura de la {Property} en la que se encuentra el objeto (o la escritura asociada con el {Vehicle|Vehicle Component} si es uno).  Los consumidores autorizados se pueden enumerar aquí, ya sea como personas específicas, {Titles} o {Demographics}.  Cualquiera que aparezca en la lista puede interactuar con el objeto sin tener el control total.  Una tienda, por ejemplo, permitirá a los ciudadanos con derechos de consumidor comprar y vender allí, pero solo los ciudadanos con plenos derechos sobre la propiedad pueden cambiar lo que está a la venta o trasladar la tienda.  
+La escritura que se muestra aquí es simplemente un enlace a la escritura de la {Property} en la que se encuentra el objeto (o la escritura asociada con el {Vehicle|Vehicle Component} si es uno).
+
+Los consumidores autorizados se pueden enumerar aquí, ya sea como personas específicas, {Titles} o {Demographics}. Cualquiera que aparezca en la lista puede interactuar con el objeto sin tener el control total. Una tienda, por ejemplo, permitirá a los ciudadanos con derechos de consumidor comprar y vender allí, pero solo los ciudadanos con plenos derechos sobre la propiedad pueden cambiar lo que está a la venta o trasladar la tienda.
 
 Todos los objetos colocados tienen componentes de autorización.
   </target>
@@ -484,7 +506,7 @@ Todos los objetos colocados tienen componentes de autorización.
 (This feature is disabled by default on dedicated servers to prevent accelerating time when users are offline, but can be enabled by a server administrator.)</source>
         <target xml:space="preserve" state="translated">Las camas permiten a los ciudadanos acelerar el tiempo cuando todos los ciudadanos las están usando simultáneamente (o están desconectados).
 
-(Esta característica está desactivada por defecto en los servidores dedicados para evitar acelerar el tiempo cuando los usuarios están desconectados, pero puede ser habilitada por un administrador del servidor).</target>
+(Esta característica está desactivada por defecto en los servidores dedicados para evitar acelerar el tiempo cuando los usuarios están desconectados, pero puede ser habilitada por un administrador del servidor.)</target>
       </trans-unit>
       <trans-unit id="65" xml:space="preserve">
         <source xml:space="preserve">Allows sleeping in single-player servers or servers where sleep is enabled.</source>
@@ -517,7 +539,13 @@ By adding an upgrade in the {Modules Component}, work orders on a crafting table
 If a project is cancelled early (by right clicking the order), the resources will be refunded but the spent labor will be lost.
   </source>
         <target xml:space="preserve" state="translated">
-Después de seleccionar un artículo y una cantidad para fabricar, se requieren recursos y mano de obra para iniciar el proyecto. Estos recursos se pueden agregar manualmente (colocándolos directamente en la mesa de trabajo) o vinculando un {Storage Component} que los contiene. Los ciudadanos con una {Specialty|Specialties} relacionada requieren menos calorías para agregar mano de obra. Algunos proyectos requirieron mano de obra calificada de un ciudadano con la especialidad correspondiente. Esta reducción se aplica después de que se inicia la orden de trabajo para que los ciudadanos de varios niveles de habilidad puedan contribuir al mismo grupo de trabajo. Al agregar una actualización en el {Modules Component}, las órdenes de trabajo en una mesa de elaboración reducirán el tiempo de elaboración y los costos de recursos. Si un proyecto se cancela antes (haciendo clic con el botón derecho en el pedido), se reembolsarán los recursos, pero se perderá la mano de obra gastada.
+Después de seleccionar un artículo y una cantidad para fabricar, se requieren recursos y mano de obra para iniciar el proyecto. Estos recursos se pueden agregar manualmente (colocándolos directamente en la mesa de trabajo) o vinculando un {Storage Component} que los contenga.
+
+Los ciudadanos con una {Specialty|Specialties} relacionada requieren menos calorías para agregar mano de obra. Algunos proyectos requieren mano de obra calificada de un ciudadano con la especialidad correspondiente. Esta reducción se aplica después de que se inicia la orden de trabajo, para que ciudadanos de varios niveles de habilidad puedan contribuir al mismo grupo de trabajo.
+
+Al agregar una actualización en el {Modules Component}, las órdenes de trabajo en una mesa de elaboración tendrán un tiempo de elaboración y unos costos de recursos reducidos.
+
+Si un proyecto se cancela antes de tiempo (haciendo clic con el botón derecho en el pedido), se reembolsarán los recursos, pero se perderá la mano de obra gastada.
   </target>
       </trans-unit>
       <trans-unit id="70" xml:space="preserve">
@@ -531,9 +559,9 @@ For every unit of labor needed, {Calories|Nutrition} are consumed. After a work 
 Once a project is started, labor can quickly be added from outside the Crafting Component by right clicking on a crafting table. When adding labor in this way, holding down 'Ctrl' will add 5x the normal amount of labor. Holding down 'Alt' will add all available calories.
   </source>
         <target xml:space="preserve" state="translated">
-Por cada unidad de trabajo necesaria, se consumirán {Calories|Nutrition}. Una vez se inicie una orden de trabajo, los ciudadanos podrán añadir trabajo a ella pulsando el botón Trabajar en el elemento de fabricación adecuado. 
+Por cada unidad de trabajo necesaria, se consumirán {Calories|Nutrition}. Una vez se inicie una orden de trabajo, los ciudadanos podrán añadir trabajo a ella pulsando el botón Trabajar en el elemento de fabricación adecuado.
 
-Cuando el proyecto esté en marcha, el trabajo puede añadirse de forma rápida sin acceder al elemento de fabricación simplemente pulsando clic derecho en una masa de fabricación. Al hacerlo de esta manera, si además mantienes pulsada la tecla CTRL, podrás añadir hasta 5 veces la cantidad de trabajo de un simple clic. Si mantienes pulsada la tecla ALT, añadirás todas las calorías que tengas.
+Cuando el proyecto esté en marcha, el trabajo puede añadirse de forma rápida sin acceder al elemento de fabricación simplemente pulsando clic derecho en una mesa de fabricación. Al hacerlo de esta manera, si además mantienes pulsada la tecla 'Ctrl', podrás añadir hasta 5 veces la cantidad de trabajo de un simple clic. Si mantienes pulsada la tecla 'Alt', añadirás todas las calorías que tengas.
   </target>
       </trans-unit>
       <trans-unit id="72" xml:space="preserve">
@@ -607,7 +635,9 @@ The highest level of upgrade can only be crafted by a citizen who has reached th
 Some specialties have different tiers of upgrades that correspond to different crafting tables. For example, {CarpentrySkill} has the {CarpentryBasicUpgradeItem} for the {CarpentryTableItem} and the {CarpentryAdvancedUpgradeItem} for the {SawmillItem}.
   </source>
         <target xml:space="preserve" state="translated">
-El nivel más alto de mejora solo puede ser creado por un ciudadano que haya alcanzado el nivel máximo en su {Specialty|Specialties} elegidas. A diferencia de otras mejoras, estas mejoras obtienen una reducción de costes adicional al elaborar recetas utilizando la profesión especificada. Algunas especialidades tienen diferentes niveles de mejoras que corresponden a diferentes tablas de elaboración. Por ejemplo, {CarpentrySkill} tiene el {CarpentryBasicUpgradeItem} para el {CarpentryTableItem} y el {CarpentryAdvancedUpgradeItem} para el {SawmillItem}.
+El nivel más alto de mejora solo puede ser creado por un ciudadano que haya alcanzado el nivel máximo en su {Specialty|Specialties} elegida. A diferencia de otras mejoras, estas mejoras obtienen una reducción de costes adicional al elaborar recetas utilizando la profesión especificada.
+
+Algunas especialidades tienen diferentes niveles de mejoras que corresponden a diferentes tablas de elaboración. Por ejemplo, {CarpentrySkill} tiene el {CarpentryBasicUpgradeItem} para el {CarpentryTableItem} y el {CarpentryAdvancedUpgradeItem} para el {SawmillItem}.
   </target>
       </trans-unit>
       <trans-unit id="82" xml:space="preserve">
@@ -793,11 +823,11 @@ Containers can be linked to an object as an input and/or output by toggling the 
 When linking storage containers, the topmost container in the Storage Component will be used first for pulling inputs and storing outputs. The order can be changed by clicking and dragging the storages displayed in this list.
   </source>
         <target xml:space="preserve" state="translated">
-Podrás mover tu inventario entre diferentes contenedores si arrastras pilas de objetos de un almacén a otro.
+Algunos almacenes, como el {StockpileItem}, pueden contener cualquier tipo de objeto. Otros almacenes, como el {StorageChestItem}, solo pueden contener objetos que no sean de carga. Objetos como el {StorageSiloItem} solo pueden almacenar tipos específicos de objetos.
 
-Si mantienes pulsado MÁYUS mientras arrastras los objetos, podrás mover TODAS las pilas de objetos del mismo tipo entre diferentes contenedores. Si haces clic derecho en una pila de objetos, podrás dividir dicha pila en grupos más pequeños. Si mantienes pulsado CTRL al hacer clic en una pila de objetos, dividirás dicha pila a la mitad.
+Los contenedores se pueden vincular a un objeto como entrada y/o salida activando el botón correspondiente en el Componente de almacenamiento de ese objeto. Cuando se vincula como entrada, el objeto obtiene acceso a todos los elementos de ese contenedor para usarlos como ingredientes de fabricación o como inventario en una tienda. Vincular contenedores como salida permite usarlos como almacenamiento para productos terminados y compras de la tienda.
 
-Algunos almacenes, como la {StockpileItem}, pueden guardar cualquier tipo de objeto; sin embargo, en otros solo podrás guardar objetos que no sean de carga (como en el caso del {StorageChestItem}).
+Al vincular almacenes, el contenedor superior del Componente de almacenamiento se utilizará primero para extraer entradas y almacenar salidas. El orden se puede cambiar haciendo clic y arrastrando los almacenes que aparecen en esta lista.
   </target>
       </trans-unit>
       <trans-unit id="107" xml:space="preserve">
@@ -815,7 +845,13 @@ Inventory can be moved between containers by dragging stacks of items from one c
 - Holding 'Ctrl' + 'Alt' while clicking a stack of items will move all items of that type to/from the open storage container.
   </source>
         <target xml:space="preserve" state="translated">
-Un objeto se puede vincular a contenedores en el Componente de almacenamiento seleccionando la casilla de verificación del contenedor.  Una vez vinculado, el objeto obtiene acceso a todos los elementos de los contenedores y puede usar el contenedor para almacenamiento.  Al vincular contenedores de almacenamiento, el contenedor superior del Componente de almacenamiento se utilizará primero para el almacenamiento.  El orden se puede cambiar haciendo clic y arrastrando las pantallas de almacenamiento en la lista.
+El inventario se puede mover entre contenedores arrastrando pilas de objetos de un contenedor a otro. Si simplemente haces clic en una pila de objetos, la moverás al instante hacia o desde el contenedor de almacenamiento abierto. Puedes encontrar una referencia rápida de los atajos avanzados explicados a continuación en la parte inferior de la descripción emergente de un objeto cuando lo veas desde un contenedor de almacenamiento:
+
+- Si mantienes pulsada 'Shift' mientras arrastras objetos entre contenedores, moverás todas las pilas de ese mismo objeto.
+- Si mantienes pulsada 'Shift' mientras haces clic en una pila de objetos, podrás dividir la pila en cantidades más pequeñas.
+- Si mantienes pulsada 'Ctrl' mientras haces clic en una pila de objetos, moverás la mitad de la pila hacia o desde el contenedor de almacenamiento abierto.
+- Si mantienes pulsada 'Alt' mientras haces clic en una pila de objetos, moverás una unidad de ese objeto hacia o desde el contenedor de almacenamiento abierto.
+- Si mantienes pulsadas 'Ctrl' + 'Alt' mientras haces clic en una pila de objetos, moverás todos los objetos de ese tipo hacia o desde el contenedor de almacenamiento abierto.
   </target>
       </trans-unit>
       <trans-unit id="109" xml:space="preserve">
@@ -918,7 +954,8 @@ Se puede transferir cualquier divisa a otros jugadores mediante el visor de econ
         <source xml:space="preserve">"Economy has frequently nothing whatever to do with the amount of money being spent, but with the wisdom used in spending it."
     Henry Ford
   </source>
-        <target xml:space="preserve" state="translated">La economía no siempre tiene que ver con la cantidad de dinero gastado, sino con la inteligencia empleada para gastarlo.
+        <target xml:space="preserve" state="translated">"La economía frecuentemente no tiene nada que ver con la cantidad de dinero gastado, sino con la sabiduría empleada para gastarlo."
+-Henry Ford
   </target>
       </trans-unit>
       <trans-unit id="121" xml:space="preserve">
@@ -1555,13 +1592,14 @@ Referendums are started at the various government buildings, each corresponding 
 Elections can have a number of settings determined by their {Election Process|Election Processes}. This will state who can vote, who can veto, how long the election lasts, what percent is needed to win, etc.  Multiple types of elections can be created for different purposes. For example, a representative government could be created with some elections only allowing elected officials to vote, while most citizens vote only in elections for representatives.
   </source>
         <target xml:space="preserve" state="translated">Las elecciones pueden ser de dos tipos:
-  
-    - Elección de oficiales:  este tipo de elecciones se convocan para elegir {Elected Titles}, que son ciudadanos con poderes gubernamentales específicos.
-    - Referéndums:  este tipo de elecciones admiten un Sí o un No a una cuestión concreta relacionada con una acción cívica.
+- Elección de oficiales: este tipo de elecciones se convocan para elegir {Elected Titles}, que son ciudadanos con poderes gubernamentales específicos.
+- Referéndums: este tipo de elecciones admiten un Sí o un No a una cuestión concreta relacionada con una acción cívica.
 
-Las elecciones se convocan en una {BallotBoxItem}, donde los ciudadanos podrán realizar varias acciones cívicas.  Dependiendo de los {Civic Articles} que estén disponibles, estas acciones podrían o no requerir de unas elecciones para ejecutarse; en caso de que así fuese, el ciudadano podrá iniciar unas elecciones inmediatamente.
+Las elecciones de oficiales se convocan en una {BallotBoxItem}, donde los ciudadanos podrán realizar varias acciones cívicas más. Dependiendo de los {Civic Articles} que estén disponibles, estas acciones podrían o no requerir de unas elecciones para ejecutarse; en caso de que así fuese, el ciudadano podrá iniciar unas elecciones inmediatamente.
 
-Las elecciones tienen varios ajustes que pueden modificarse como parte del {Election Process|Election Processes}. En estos ajustes, se puede definir quién puede votar, quién puede vetar, cuánto tiempo durarán las elecciones, qué porcentaje necesita un candidato para ganar...  Se podrán crear varios tipos de elecciones con propósitos muy diversos. Por ejemplo, podrías crear unas elecciones donde solo pudieran votar una serie de representantes especiales, que serían nombrados por los ciudadanos normales mediante otro tipo de elecciones diferentes.
+Los referéndums se convocan en los distintos edificios gubernamentales, cada uno correspondiente a una acción de gobierno diferente. Estas incluyen cosas como crear una nueva {Law|Laws} o realizar una {Executive Action|Executive Actions}. Al proponer una elección de este tipo, se pueden añadir varias disposiciones a un mismo paquete electoral que formará parte de la misma votación de sí o no.
+
+Las elecciones tienen varios ajustes que pueden modificarse como parte del {Election Process|Election Processes}. En estos ajustes se puede definir quién puede votar, quién puede vetar, cuánto tiempo durarán las elecciones, qué porcentaje necesita un candidato para ganar, etc. Se podrán crear varios tipos de elecciones con propósitos muy diversos. Por ejemplo, podrías crear un gobierno representativo donde solo pudieran votar una serie de representantes especiales, que serían nombrados por los ciudadanos normales mediante otro tipo de elecciones diferentes.
   </target>
       </trans-unit>
       <trans-unit id="190" xml:space="preserve">
@@ -1578,12 +1616,10 @@ Las elecciones tienen varios ajustes que pueden modificarse como parte del {Elec
 Depending on what {Civic Articles} are available, these actions may or may not require an election. Some civic articles state that only {Elected Titles} may perform Executive Actions.
   </source>
         <target xml:space="preserve" state="translated">Las acciones ejecutivas son acciones únicas que afectan a un grupo específico de ciudadanos o a todos los ciudadanos de una zona.
-  
 Las acciones ejecutivas se proponen en una {ExecutiveOfficeItem} mediante el {Civic Action Component}. Estas acciones tendrán tres efectos principales:
-  
- - Crear {Tax|Taxes} de pago único
- - Organizar pagos a los ciudadanos, cuyos fondos provienen de la {TreasuryItem}
- - Cambiar el dueño de una {Property} existente
+- Crear {Tax|Taxes} de pago único
+- Organizar pagos a los ciudadanos, cuyos fondos provienen de la {TreasuryItem}
+- Cambiar el dueño de una {Property} existente
 
 Dependiendo de los {Civic Articles} que estén disponibles, estas acciones podrían requerir unas elecciones. Algunos de los artículos cívicos especifican claramente que solo los {Elected Titles} pueden realizar acciones ejecutivas.
   </target>
@@ -1808,7 +1844,7 @@ Additionally, many objects require houses and utilities to operate. The housing 
  - {Power}. Many items require a power source to operate, and generated power can be shared among many citizens.
  - {Sewage}. Certain items require a sewage system of pipes, pumps, and wastewater treatment.
 </source>
-        <target xml:space="preserve" state="translated">Un ciudadano no puede prosperar si no tiene un refugio adecuado, que junto con su {Nutrition}, será determinante para calcular el multiplicador de ganancia de {Experience}.  Cuanto mejores sean los materiales y el mobiliario de tu casa, mayor el multiplicador aplicado a tu EXP.  
+        <target xml:space="preserve" state="translated">Un ciudadano no puede prosperar si no tiene un refugio adecuado, que junto con su {Nutrition}, será determinante para calcular el multiplicador de ganancia de {Experience}. Cuanto mejores sean los materiales y el mobiliario de tu casa, mayor será tu multiplicador de experiencia.
 
 Además, muchos objetos necesitan que tu casa y otros equipos funcionen. El sistema de vivienda se compone de los siguientes elementos:
  - {Residency}: Podrás compartir la residencia de una propiedad con otros jugadores.
@@ -1899,18 +1935,23 @@ Some room types have their value capped relative to the primary rooms of the hou
 Room Material Quality
 The average tier of the room material will also determine your housing value, by setting a soft cap.  Once your room value has exceeded the soft cap for the room, then you will get diminishing returns for additional housing points.  When this happens, it may be time to renovate the materials of the room.
 </source>
-        <target xml:space="preserve" state="translated">Los cuartos son zonas cerradas, protegidas de las inclemencias temporales y donde la gran mayoría de las aberturas que dan al exterior están cubiertas por paredes, puertas o ventanas..
+        <target xml:space="preserve" state="translated">Los cuartos son zonas cerradas, protegidas de las inclemencias temporales y donde la gran mayoría de las aberturas que dan al exterior están cubiertas por paredes, puertas o ventanas.
 
-Podrás ver los detalles de un cuarto determinado en la pestaña Cuarto, dentro del menú del mismo. Muchos objetos del juego tienen requisitos relacionados con el cuarto en el que se pueden ubicar, forzando en muchos casos a que dichos cuartos sean de unos materiales determinados para poder funcionar.  Tu valor de vivienda también se ve afectado por la calidad de los materiales que uses para crear un cuarto.  Esto significa que una casa con paredes de ladrillo tendrá mucho más valor y beneficios que una preparada con tierra.
+Podrás ver los detalles de un cuarto determinado en la pestaña Cuarto, dentro del menú del mismo. Muchos objetos del juego tienen requisitos relacionados con el cuarto en el que se pueden ubicar, forzando en muchos casos a que dichos cuartos sean de unos materiales determinados para poder funcionar. Tu valor de vivienda también se ve afectado por la calidad de los materiales que uses para crear un cuarto. Esto significa que una casa con paredes de ladrillo tendrá mucho más valor y beneficios que una preparada con tierra.
 
 
 Mobiliario y tipos de cuartos
-Al reclamar una parcela y construir cuartos en ella, comenzarás a ganar experiencia adicional (incluso cuando estés desconectado).  Además, si añades cuartos adicionales y los equipas con mobiliario, ganarás incluso más experiencia.  Cada tipo de pieza de mobiliario se asocia con una categoría de cuarto diferente: baño, dormitorio, cocina o general (que se mostrará en la ventana de información del objeto).  Esta categoría vendrá determinada por el tipo de mobiliario mayoritario que hayas colocado en el cuarto, y el valor total de vivienda asociado a un cuarto se calculará sumando las contribuciones individuales de cada mueble.
+Al reclamar una parcela y construir cuartos en ella, comenzarás a ganar experiencia adicional (incluso cuando estés desconectado). Además, si añades cuartos adicionales y los equipas con mobiliario, ganarás incluso más experiencia. Cada tipo de pieza de mobiliario se asocia con una categoría de cuarto diferente: baño, dormitorio, cocina o general (que se mostrará en la ventana de información del objeto). Esta categoría vendrá determinada por el tipo de mobiliario mayoritario que hayas colocado en el cuarto, y el valor total de vivienda asociado a un cuarto se calculará sumando las contribuciones individuales de cada mueble.
 
-Los muebles o cuartos repetidos te darán menos experiencia, es decir, seguirás obteniendo experiencia de ellos pero en menor cantidad comparado con el primero que hayas preparado.   Con el tiempo, la ganancia de puntos será mínima y no será rentable añadir más muebles o cuartos de un tipo (por ejemplo, tu duodécimo baño añadirá una cantidad insignificante de EXP a tus reservas en comparación con el primero).
+Los muebles o cuartos repetidos te darán menos experiencia, es decir, seguirás obteniendo experiencia de ellos pero en menor cantidad comparado con el primero que hayas preparado. Con el tiempo, la ganancia de puntos será mínima y no será rentable añadir más muebles o cuartos de un tipo (por ejemplo, tu duodécimo baño añadirá una cantidad insignificante de experiencia a tus reservas en comparación con el primero).
+
+Los diferentes tipos de propiedades pueden admitir diferentes tipos de cuartos; por ejemplo, un 'Dormitorio' es útil en una propiedad de tipo 'Residencial', pero no en una de tipo 'Cultural', mientras que un 'Baño' es útil en ambas. Algunas categorías de cuarto pueden recibir apoyo de otros tipos de mobiliario (por ejemplo, el mobiliario 'Cultural' puede aportar valor a un 'Salón'), aunque este valor de apoyo está limitado a un porcentaje específico del mobiliario principal (por ejemplo, el valor de las decoraciones en tu baño será nulo si no hay un inodoro).
+
+Algunos muebles se consideran únicamente categorías de apoyo, y no pueden tener su propio cuarto dedicado. Por ejemplo, el mobiliario de Decoración puede dar apoyo a cualquier cuarto, pero no puede ser una categoría de cuarto en sí misma.
+Algunos tipos de cuarto tienen su valor limitado en relación con los cuartos principales de la casa. Por ejemplo, los baños están limitados por defecto al 33 % de los cuartos principales de la casa (de modo que una propiedad que solo sea un baño grande no tendrá ningún valor positivo, pero si hay otros cuartos presentes sí lo tendrá).
 
 Calidad de los materiales de un cuarto
-El nivel promedio de los materiales de un cuarto también determinará tu valor de vivienda, con un límite asociado al mismo.  Una vez excedas ese límite, tus ganancias asociadas al nivel de vivienda tendrán un menor valor; si eso ocurre, renueva los materiales de tu cuarto para seguir progresando.
+El nivel promedio de los materiales de un cuarto también determinará tu valor de vivienda, con un límite asociado al mismo. Una vez excedas ese límite, tus ganancias asociadas al nivel de vivienda tendrán un menor valor; si eso ocurre, renueva los materiales de tu cuarto para seguir progresando.
 </target>
       </trans-unit>
       <trans-unit id="228" xml:space="preserve">
@@ -2743,6 +2784,10 @@ The buildings containing civic objects must remain placed and active for the civ
 	</source>
         <target xml:space="preserve" state="translated">
 Haciendo clic en el botón de Borrador, un ciudadano podrá proponer un nuevo objeto cívico. Los ciudadanos también pueden crear un nuevo borrador de objeto cívico haciendo clic en el botón Copiar que aparece al colocar el cursor sobre el icono. Esto hará que aparezca un cuadro de diálogo que te permite elegir cualquier objeto cívico (antiguo o nuevo) para usar como base.
+
+Al visitar el Componente de Objetos Cívicos en un edificio de gobierno que ya contenga objetos cívicos, estas políticas podrán modificarse o derogarse. Para derogar un objeto cívico, haz clic en la 'X' roja que aparece al colocar el cursor sobre el icono. Para modificar uno existente, haz clic en el botón "Revisar" disponible en la interfaz.
+
+Los edificios que contienen objetos cívicos deben permanecer colocados y activos para que el objeto cívico siga en vigor. Si se recoge un edificio de gobierno, todos los objetos cívicos que contiene se recogerán junto con él, y acabarán deshabilitándose si el edificio no se vuelve a colocar.
 	</target>
       </trans-unit>
       <trans-unit id="321" xml:space="preserve">
@@ -2835,7 +2880,7 @@ Los {Carpenters|Carpenter} son especialistas en recoger materias primas basadas 
   - {AdvancedBakingSkill} is an alternative to Advanced Cooking that uses {LeavenedDoughItem} to make high quality baked goods. 
  </source>
         <target xml:space="preserve" state="translated">
-Los {Chefs|Chef} se especializan en la preparación de comidas más nutritivas que mejoran la ganancia de EXP de los ciudadanos.
+Los {Chefs|Chef} se especializan en la preparación de comidas más nutritivas que mejoran la ganancia de experiencia de los ciudadanos.
   - La {CampfireCookingSkill} es la especialidad básica de un cocinero, empleando una {CampfireItem} para preparar comidas básicas.
   - La {CookingSkill} es la segunda especialidad de la profesión de cocinero, y te permitirá usar una {CastIronStoveItem} para mejorar la calidad de tus comidas.
   - La {BakingSkill} es una habilidad alternativa a la cocina, con la que podrás emplear {FlourItem} para preparar platos horneados.
@@ -3024,15 +3069,7 @@ La comida es la clave para una sociedad creciente y próspera en Eco, permitiend
 Citizens pick a primary residence to determine which deed will provide their {Housing|Housing Overview} bonus. Each deed can have any number of residents, and those residents will share in an {Experience} boost based on the quality of the house and number of occupants.
   </source>
         <target xml:space="preserve" state="translated">  
-Cada escritura puede contener varios residentes, y dichos residentes compartirán un modificador de {Experience}, en función de la calidad y el número de ocupantes.
-
-Cuando el número de ocupantes aumente, se impondrá una penalización creciente.  Cuando la cantidad sea pequeña (1 o 2 ocupantes), esta penalización será casi inexistente, permitiendo a los ciudadanos cohabitar y compartir los beneficios de una casa bien equipada. Al aumentar el número de personas (5 o más), la penalización se volverá más evidente, llegando hasta un 99 % en caso de una casa con una ocupación excesiva.
-
-Sin embargo, la disminución por duplicados y otros en relación a los cuartos se ve positivamente afectado por la ocupación (ya que tres baños para una persona es demasiado, pero no para tres personas).  Eso significa que puedes superar dichas penalizaciones construyendo una casa más grande, en la que los cuartos duplicados afectarán positivamente a la bonificación por ocupación.
-  
-Para convertirte en un residente de una propiedad, haz clic en el nombre de la propiedad (visible en el panel de estado emergente cuando estás en una propiedad), desde donde podrás convertirte en un residente (si eres dueño de la propiedad) o invitar a otros ciudadanos.  Estos invitados podrán unirse usando la opción adecuada en esta misma pantalla. Como propietario, también podrás invitar a grupos de ciudadanos especificando su título o demografía, permitiendo que varios jugadores con el mismo tipo de personaje (jugadores nuevos, por ejemplo) tengan un mayor contacto entre ellos. También podrás establecer el número máximo de ocupantes, controlando así que la residencia no se llene rápidamente al hacer invitaciones mediante grupos.
-
-NOTA: en el futuro, se añadirá una nueva característica que permitirá la recaudación automática de alquileres mediante acuerdos firmados por los ciudadanos implicados. Actualmente, esto solo puede hacerse mediante transferencias manuales.
+Los ciudadanos eligen una residencia principal para determinar qué escritura proporcionará su bonificación de {Housing|Housing Overview}. Cada escritura puede tener cualquier número de residentes, y esos residentes compartirán un aumento de {Experience} en función de la calidad de la casa y el número de ocupantes.
   </target>
       </trans-unit>
       <trans-unit id="352" xml:space="preserve">
@@ -3055,6 +3092,12 @@ Cuando un ciudadano se convierte en residente de una propiedad, ganará un conju
   - Habitaciones con muebles: los residentes pueden acceder a todos los objetos globales de la propiedad con el título de consumidores.
   - Mudanza de objetos: los residentes pueden colocar sus propios objetos dentro de la propiedad (aunque no podrán colocar bloques).
   - Robo de mobiliario: los residentes pueden recoger todos los objetos que hayan traído en su mudanza y llevárselos, pero no podrán hacerlo con los muebles originales de la vivienda.
+
+
+Alquiler
+Tras invitar a residentes, las escrituras se pueden ofrecer en alquiler para permitir acuerdos automáticos de recaudación de alquiler entre ciudadanos. Al alquilar una propiedad, el inquilino obtiene la residencia en la escritura y recibe todas las bonificaciones y permisos de vivienda asociados. Al ofrecer una propiedad en alquiler, se establece una tarifa por hora con una tarifa de entrada opcional. El acuerdo se puede personalizar para determinar si las horas sin conexión requerirán pago.
+
+Las propiedades disponibles para alquilar se pueden encontrar en el {Economy Viewer}. Una vez aceptado, el alquiler tendrá una tarifa fija hasta que alguna de las partes ponga fin al acuerdo de alquiler.
 </target>
       </trans-unit>
       <trans-unit id="353" xml:space="preserve">
@@ -3065,25 +3108,25 @@ Cuando un ciudadano se convierte en residente de una propiedad, ganará un conju
         <source xml:space="preserve">
     TBD
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Por determinar
+        <target xml:space="preserve" state="translated">
+    A determinar
   </target>
       </trans-unit>
       <trans-unit id="355" xml:space="preserve">
         <source xml:space="preserve">Consolidating and Filtering</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Consolidación y filtrado</target>
+        <target xml:space="preserve" state="translated">Consolidando y Filtrando</target>
       </trans-unit>
       <trans-unit id="356" xml:space="preserve">
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-Las pilas de objetos idénticos se pueden agrupar y ordenar rápidamente pulsando el botón de agrupar que se encuentra en la parte inferior derecha del componente de almacenamiento. Además, los almacenes se pueden filtrar para mostrar solo ciertos tipos de objetos utilizando el selector de objetos o simplemente escribiendo el nombre del objeto.
+        <target xml:space="preserve" state="translated">
+Las pilas de objetos idénticos se pueden consolidar y ordenar rápidamente presionando el botón de consolidar que se encuentra en la parte inferior derecha del Componente de Almacenamiento. Además, los almacenamientos se pueden filtrar para mostrar solo ciertos tipos de objetos utilizando el selector de objetos o simplemente escribiendo el nombre del objeto.
   </target>
       </trans-unit>
       <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">El comercio entre ciudadanos con diferentes habilidades y que poseen diferentes bienes es la columna vertebral de la economía.</target>
+        <target xml:space="preserve" state="translated">El comercio entre ciudadanos con diferentes habilidades y que poseen diferentes bienes es la columna vertebral de la economía.</target>
       </trans-unit>
       <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
@@ -3094,18 +3137,18 @@ Las pilas de objetos idénticos se pueden agrupar y ordenar rápidamente pulsand
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">El comercio con tus conciudadanos es esencial en Eco, ya que cada jugador tiene un conjunto de {Especialidades} con las que puede contribuir de forma más eficaz al comerciar con otros ciudadanos que dominan profesiones en las que tú no eres experto. 
+        <target xml:space="preserve" state="translated">El comercio con tus conciudadanos es esencial en Eco, ya que cada jugador tiene un conjunto de {Specialties} con las que puede contribuir de manera más eficaz mientras comercia con otros ciudadanos que son hábiles en profesiones en las que ellos no lo son. 
 
- - Los intercambios se pueden configurar en un {Componente de Tienda}, donde se indican los precios de compra y venta de los diferentes productos que te interesan.  Los ciudadanos pueden entonces comprarte y venderte productos de forma asíncrona, sin necesidad de estar presentes.
- - El intercambio de mano de obra puede realizarse a través de {Contratos} y {Grupos de trabajo}, lo que permite a los jugadores realizar trabajos a cambio de un pago según los términos acordados. Esto también se puede hacer de forma asíncrona.
- - El intercambio de divisas puede realizarse en una {Casa de cambio|Componente de cambio}, donde se indican los precios de compra y venta para el intercambio de diferentes divisas.
- - El comercio se ve facilitado por el {Transporte}, y construir infraestructuras de transporte entre los florecientes centros de tu civilización potenciará enormemente la capacidad de comerciar.
- - El comercio está sujeto a {Impuestos}, fijados por el {Gobierno|Descripción general del gobierno}, que pueden promover o reducir el valor de ciertos intercambios.
+ - Los intercambios se pueden configurar en un {Store Component}, enumerando los precios de compra/venta de los diferentes bienes que deseas. Los ciudadanos pueden entonces comprar y vender bienes contigo de manera asíncrona, sin necesidad de estar presentes.
+ - El intercambio de mano de obra puede llevarse a cabo a través de {Contracts} y {Work Parties}, permitiendo a los jugadores realizar trabajos a cambio de un pago dentro de los términos acordados. Esto también se puede realizar de manera asíncrona.
+ - El intercambio de divisas puede realizarse en un {Currency Exchange|Exchange Component}, enumerando los precios de compra/venta para el intercambio de diferentes monedas.
+ - El comercio se facilita mediante el {Transport}, y la construcción de infraestructura de transporte entre los florecientes centros de tu civilización promoverá enormemente la capacidad de comerciar.
+ - El comercio está sujeto a {Taxes}, establecidos por el {Government|Government Overview}, los cuales pueden promover o reducir el valor de ciertos intercambios.
 </target>
       </trans-unit>
       <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Mandamientos</target>
+        <target xml:space="preserve" state="translated">Órdenes judiciales</target>
       </trans-unit>
       <trans-unit id="360" xml:space="preserve">
         <source xml:space="preserve">
@@ -3113,10 +3156,10 @@ Las pilas de objetos idénticos se pueden agrupar y ordenar rápidamente pulsand
     
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Los mandamientos judiciales, que se pueden crear en un {LargeCourtItem}, tienen la capacidad de bloquear leyes en un tribunal inferior. Cada mandamiento judicial establece una lista de desencadenantes y acciones legales que se bloquearán en un conjunto definido de asentamientos subordinados (o en todos, si se deja en blanco). Esto lo pueden usar los países para bloquear leyes que haya aprobado una ciudad, por ejemplo.  
-    
-    La capacidad de crear mandamientos judiciales es una característica poderosa que se debe tener en cuenta al formar un país o una federación, ya que puede tener una gran influencia en el gobierno de los asentamientos subordinados.  Los poderes se pueden definir en la constitución del asentamiento para establecer quién puede realizar adiciones y cambios a los mandamientos judiciales, si los hay.  El papel de los mandamientos judiciales debe discutirse cuidadosamente entre los líderes de las ciudades cuando se unen para formar un país.
+        <target xml:space="preserve" state="translated">
+    Las órdenes judiciales, que se pueden crear en un {LargeCourtItem}, tienen la capacidad de bloquear leyes en un tribunal inferior. Cada orden judicial establece una lista de desencadenantes y acciones legales que serán bloqueadas en un conjunto definido de asentamientos hijos (o en todos, si se deja en blanco). Esto puede ser utilizado por los países para bloquear leyes que un pueblo ha aprobado, por ejemplo.
+
+La capacidad de crear órdenes judiciales es una característica poderosa que debe considerarse al formar un país o federación, ya que puede tener una gran influencia en el gobierno de los asentamientos hijos. Los poderes se pueden definir en la constitución del asentamiento para establecer quién puede hacer adiciones y cambios a las órdenes judiciales, de haberlos. El papel de las órdenes judiciales debe discutirse cuidadosamente entre los líderes del pueblo al unirse para formar un país.
   </target>
       </trans-unit>
       <trans-unit id="361" xml:space="preserve">
@@ -3127,17 +3170,17 @@ However, the 'diminishing returns' rate of rooms is favorably affected by occupa
   
 To become a resident of a property, click the name of the property (visible on the popup status panel when you're in the property). From there you can become a resident (if you own the deed) as well as invite others to become residents.  These other invited citizens may then join as a resident through the same interface. You can even invite groups by specifying titles or demographics, allowing you to create housing for special classes of citizens (new players for example). You can also set the max number of occupants, to ensure that residency managed this way (by inviting large groups) doesn't result in overcrowded housing.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-A medida que aumenta el número de ocupantes, aumenta la penalización por ocupación. Con pocos ocupantes (1 o 2), prácticamente no hay penalización, y los ciudadanos pueden convivir eficazmente de esta manera y compartir las ventajas de una casa bien equipada. A medida que el número de ocupantes supera esa cifra (5 o más), la penalización se vuelve más severa, llegando a alcanzar el 99 % cuando la casa está demasiado abarrotada.
+        <target xml:space="preserve" state="translated">
+A medida que aumenta el número de ocupantes, aumenta la penalización por ocupación. Con un número reducido de ocupantes (1 o 2), prácticamente no hay penalización, y los ciudadanos pueden cohabitar efectivamente de esta manera y compartir el beneficio de una casa bien equipada. A medida que los ocupantes superan esa cantidad (5 y más), la penalización se vuelve más pronunciada, alcanzando finalmente un máximo del 99% cuando la casa está demasiado abarrotada (o sobrepoblada).
 
-Sin embargo, la tasa de «rendimientos decrecientes» de las habitaciones se ve favorecida por la ocupación (porque tres baños son excesivos cuando vives solo, pero estupendos cuando tienes compañeros de piso). Esto significa que puedes superar la penalización construyendo una casa más grande, y las habitaciones duplicadas afectarán a la bonificación por ocupación de forma inversa.
-  
-Para convertirte en residente de una propiedad, haz clic en el nombre de la misma (visible en el panel de estado emergente cuando estás dentro de la propiedad). Desde allí puedes convertirte en residente (si eres el propietario de la escritura), así como invitar a otros a convertirse en residentes.  Estos otros ciudadanos invitados pueden entonces unirse como residentes a través de la misma interfaz. Incluso puedes invitar a grupos especificando títulos o datos demográficos, lo que te permite crear viviendas para clases especiales de ciudadanos (por ejemplo, nuevos jugadores). También puedes establecer el número máximo de ocupantes, para asegurarte de que la gestión de la residencia de esta manera (invitando a grandes grupos) no resulte en viviendas superpobladas.
+Sin embargo, la tasa de 'rendimientos decrecientes' de las habitaciones se ve afectada positivamente por la ocupación (porque tres baños son una exageración cuando vives solo, pero geniales cuando tienes compañeros de cuarto). Esto significa que puedes superar la penalización construyendo una casa más grande, y las habitaciones duplicadas afectarán de manera inversa la bonificación por ocupación.
+
+Para convertirte en residente de una propiedad, haz clic en el nombre de la propiedad (visible en el panel de estado emergente cuando estás dentro de la propiedad). Desde allí puedes hacerte residente (si posees la escritura), así como invitar a otros a convertirse en residentes. Estos otros ciudadanos invitados podrán entonces unirse como residentes a través de la misma interfaz. Incluso puedes invitar a grupos especificando títulos o demografías, lo que te permite crear viviendas para clases especiales de ciudadanos (jugadores nuevos, por ejemplo). También puedes establecer el número máximo de ocupantes para garantizar que la residencia gestionada de esta manera (al invitar a grandes grupos) no resulte en viviendas hacinadas.
 </target>
       </trans-unit>
       <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Los asentamientos son agrupaciones de personas u otros asentamientos. Son la estructura y la organización de la sociedad.</target>
+        <target xml:space="preserve" state="translated">Los asentamientos son organizaciones de personas, o de otros asentamientos. Son la estructura y organización de la sociedad.</target>
       </trans-unit>
       <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
@@ -3147,17 +3190,17 @@ Para convertirte en residente de una propiedad, haz clic en el nombre de la mism
 
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Un asentamiento con una cultura suficientemente superior a la de un asentamiento vecino puede anexionarlo, fusionándolo con el suyo, si se cumplen los requisitos.
+        <target xml:space="preserve" state="translated">
+    Un asentamiento con una cantidad de cultura suficientemente mayor que la de un asentamiento vecino puede anexarlo, fusionándolo consigo mismo, si se cumplen los requisitos.
 
-    Cuando dos asentamientos del mismo tipo son vecinos, sus radios de influencia pueden chocar entre sí. En estos casos, los asentamientos con más cultura que el otro se adentrarán más en sus límites. Con el tiempo, es posible que la diferencia cultural sea tan grande que un asentamiento pueda absorber por completo al otro.
+Cuando dos asentamientos del mismo tipo son vecinos, sus rangos de influencia pueden chocar entre sí. En estos casos, el asentamiento con más cultura que el otro avanzará más dentro de sus límites. Eventualmente, es posible que la diferencia cultural sea tan grande que un asentamiento pueda apoderarse completamente del otro.
 
-    La anexión puede ser una herramienta importante para imponer leyes a un asentamiento rebelde que se niega a cumplir con las necesidades globales, ya que la anexión desactivará todas sus leyes y permitirá al asentamiento anexante implementar otras nuevas.
+La anexión puede ser una herramienta importante para llevar leyes a un asentamiento rebelde que se niega a cumplir con las necesidades globales, ya que la anexión desactivará todas sus leyes y permitirá al asentamiento anexador implementar otras nuevas.
   </target>
       </trans-unit>
       <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Requisitos</target>
+        <target xml:space="preserve" state="translated">Requisitos</target>
       </trans-unit>
       <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
@@ -3175,25 +3218,25 @@ Para convertirte en residente de una propiedad, haz clic en el nombre de la mism
 
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Los requisitos que deben cumplirse para que un asentamiento pueda anexionar a otro son:
+        <target xml:space="preserve" state="translated">
+    Los requisitos que deben cumplirse antes de que un asentamiento pueda anexar a otro son:
 
-    Asentamiento de nivel superior. El asentamiento anexionador debe ser de un nivel superior al de su objetivo, a menos que sea un asentamiento de nivel superior (Federaciones), que son los únicos a los que se les permite anexionar a otros del mismo nivel.
+Asentamiento de Nivel Superior. El asentamiento anexador debe ser de un nivel superior a su objetivo, a menos que sea el asentamiento de nivel más alto (Federaciones), que es el único tipo al que se le permite anexar asentamientos del mismo nivel.
 
-    Requisito de ciudadanos. El asentamiento anexante debe tener un porcentaje determinado de los ciudadanos del asentamiento objetivo.
+Requisito de Ciudadanos. El asentamiento anexador debe tener un porcentaje determinado del asentamiento objetivo.
 
-    Requisito de influencia circundante. Esto significa que el asentamiento anexante debe tener parcelas de influencia que rodeen la frontera de influencia del asentamiento vecino. A partir de un umbral definido, este requisito se cumple, pero aumentar la cantidad de parcelas que rodean la influencia incrementará el multiplicador del siguiente requisito: la cultura.
-    
-    Requisito de cultura. Este requisito establece que la cultura del asentamiento anexante debe ser superior a la del asentamiento objetivo en dos aspectos: debe ser un porcentaje determinado mayor y un valor absoluto mayor. Esto es para evitar que los asentamientos pequeños con poca cultura sean anexados con demasiada facilidad; se debe alcanzar una ventaja cultural mínima. La cultura se aumenta de varias formas descritas en la página {Cultura}.
-    
-    Coste de recursos. Se trata de un conjunto de objetos que constituyen el coste físico de llevar a cabo la anexión. Una parte de ellos se distribuirá entre los ciudadanos no abandonados del asentamiento objetivo, y el resto se desperdiciará (por eso siempre es menos costoso llegar a un acuerdo con otro asentamiento que obligarlo a someterse a tu voluntad). Los recursos para llevar a cabo esta anexión deben estar vinculados a un mostrador de embajada dentro de la jurisdicción del asentamiento, y el líder del asentamiento debe tener acceso al almacén.
+Requisito de Influencia Circundante. Esto significa que el asentamiento anexador debe tener parcelas influenciadas que rodeen el límite de influencia del asentamiento vecino. Después de alcanzar un umbral definido, se cumple este requisito, pero aumentar la cantidad de parcelas que rodean la influencia incrementará el multiplicador del siguiente requisito, la cultura.
 
-Ten en cuenta que el tipo de asentamiento importa: un asentamiento solo puede anexionar otros asentamientos de niveles inferiores (es decir, una ciudad no puede anexionar un país, pero una federación sí puede anexionar una ciudad). Si el asentamiento anexiante es de un tipo superior al objetivo (por ejemplo, un país que anexiona una ciudad vecina), se utiliza un conjunto de valores diferente y más sencillo (que se muestra a continuación) que facilita la operación.
+Requisito de Cultura. Este requisito establece que la cultura del asentamiento anexador debe ser mayor que la del asentamiento objetivo de dos maneras: debe ser un porcentaje determinado mayor, y un valor absoluto mayor. Esto es para evitar que los pequeños asentamientos con poca cultura sean anexados con demasiada facilidad; se debe lograr una ventaja cultural de base. La cultura crece de diversas maneras descritas en la página de {Culture}.
+
+Costo de Recursos. Este es un conjunto de objetos que representa el costo físico de realizar la anexión. Una parte del mismo se distribuirá a los ciudadanos no abandonados del asentamiento objetivo, mientras que el resto se desperdiciará (es por eso que siempre es menos costoso llegar a un acuerdo con otro asentamiento en lugar de forzarlo a tu voluntad). Los recursos para llevar a cabo esta anexión deben estar vinculados a un escritorio de embajada dentro de la jurisdicción del asentamiento, y el almacenamiento debe ser accesible para el líder del asentamiento.
+
+Ten en cuenta que el tipo de asentamiento importa: un asentamiento solo puede anexar otros asentamientos de niveles inferiores (ej., un pueblo no puede anexar un país, pero una federación puede anexar un pueblo). Si el asentamiento anexador es de un tipo superior al objetivo (ej., un país que anexa un pueblo vecino), se utilizan valores diferentes y más permisivos (que se muestran a continuación) que hacen que sea más fácil de llevar a cabo.
   </target>
       </trans-unit>
       <trans-unit id="366" xml:space="preserve">
         <source xml:space="preserve">Performing the Annex</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ejecución del anexo</target>
+        <target xml:space="preserve" state="translated">Realizando la anexión</target>
       </trans-unit>
       <trans-unit id="367" xml:space="preserve">
         <source xml:space="preserve">
@@ -3205,31 +3248,31 @@ Ten en cuenta que el tipo de asentamiento importa: un asentamiento solo puede an
     
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Una vez cumplidos ambos requisitos, el líder del asentamiento puede realizar la anexión en cualquier momento en un {EmbassyDeskItem} asociado al asentamiento anexante.
-    
-    Cuando se activa, si los asentamientos son del mismo tipo, el asentamiento de destino se eliminará y todos los ciudadanos se trasladarán al nuevo asentamiento.  
-    Si los asentamientos son de tipos diferentes, el objetivo simplemente se eliminará de cualquier asentamiento padre actual y se añadirá como hijo del nuevo asentamiento.  
-    En ambos casos, todas las leyes y demás objetos cívicos se desactivarán y volverán a su forma de borrador. 
-    
-    Una vez que un asentamiento se anexiona, ya no puede realizar la acción «Secesión del asentamiento», y quedará vinculado al padre hasta que este lo elimine. 
+        <target xml:space="preserve" state="translated">
+    Una vez que se cumplan ambos, el líder del asentamiento puede realizar la anexión en cualquier momento en un {EmbassyDeskItem} asociado con el asentamiento anexador.
+
+Al activarse, si los asentamientos son del mismo tipo, el asentamiento objetivo será eliminado y todos los ciudadanos serán trasladados al nuevo asentamiento.
+Si los asentamientos son de diferentes tipos, entonces el objetivo simplemente será eliminado de cualquier asentamiento padre actual y agregado como hijo del nuevo asentamiento.
+En ambos casos, todas las leyes y otros objetos cívicos serán desactivados y devueltos a su estado de borrador.
+
+Una vez que un asentamiento es anexado, ya no podrá realizar la acción de 'Seceder Asentamiento', y quedará vinculado al padre hasta que el padre lo elimine. 
   </target>
       </trans-unit>
       <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Configuración de la anexión</target>
+        <target xml:space="preserve" state="translated">Configuración de anexión</target>
       </trans-unit>
       <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Asistir a cenas generará cultura para tu asentamiento, además de una bonificación de habilidad para tu nutrición. Son una forma valiosa de aumentar la generación de cultura del mundo al conectar a los ciudadanos a través de comidas compartidas.
+        <target xml:space="preserve" state="translated">
+    Asistir a Cenas generará cultura para tu asentamiento, así como una bonificación de habilidad para tu nutrición. Son una forma valiosa de aumentar la generación de cultura del mundo al conectar a los Ciudadanos a través de comidas compartidas.
   </target>
       </trans-unit>
       <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Requisitos</target>
+        <target xml:space="preserve" state="translated">Requisitos</target>
       </trans-unit>
       <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
@@ -3241,33 +3284,33 @@ Ten en cuenta que el tipo de asentamiento importa: un asentamiento solo puede an
       - Claimed land. Dinner party must be taking place on claimed property.
       - Come hungry! You can only eat as many courses (up to a maximum defined below) to fill your stomach.
     </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-      Se activará una cena cuando se consuma comida válida en un lugar. Los requisitos son:
-      - Comer sentado a la mesa.  Los ciudadanos deben estar sentados y comer directamente de la mesa (sin guardarla en tu inventario).
-      - Solo comida fresca. La comida debe estar fresca para poder celebrar cenas. 
-      - Número máximo de cenas al día. Se aplica un número limitado de cenas al día por persona (por defecto es 1).
-      - No se repite la comida. Las cenas pueden tener varios platos, hasta un máximo determinado, pero no se puede dar la misma comida repetidamente al mismo jugador.
-      - Terreno reclamado. La cena debe celebrarse en una propiedad reclamada.
-      - ¡Ven con hambre! Solo puedes comer tantos platos (hasta un máximo definido más abajo) como necesites para llenar el estómago.
+        <target xml:space="preserve" state="translated">
+      Se activará una cena cuando se consuma comida válida en una ubicación. Los requisitos son:
+      - Cenar sentado a una mesa. Los ciudadanos deben estar sentados y comer la comida directamente de la mesa (sin recogerla en el inventario).
+      - Solo comida fresca. La comida debe estar fresca para calificar para las cenas. 
+      - Máximo de cenas por día. Se aplica un número limitado de cenas por día por persona (por defecto es 1).
+      - Sin comida repetida. Las cenas pueden tener múltiples platos, hasta un máximo determinado, pero no se puede dar la misma comida repetidamente al mismo jugador.
+      - Terreno reclamado. La cena debe llevarse a cabo en una propiedad reclamada.
+      - ¡Ven con hambre! Solo puedes comer la cantidad de platos (hasta un máximo definido a continuación) necesaria para llenar tu estómago.
     </target>
       </trans-unit>
       <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Novedad</target>
+        <target xml:space="preserve" state="translated">Frescura</target>
       </trans-unit>
       <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
   Upon creation, any food created by recipe will only be fresh enough for a dinner party for a number of minutes (defined in Config below), thus you'll need to have a chef preparing the meals in real time. 
   Raw food can be much older and still qualify for dinner parties, however. Freshness will be visible on the food when placed on the table, which will have either steam or other effects to indicate highly-fresh food. You can see how many minutes are left on the food by hovering over it.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-  Una vez creada, cualquier comida preparada según una receta solo estará lo suficientemente fresca para una cena durante unos minutos (definidos en la configuración más abajo), así que necesitarás un chef que prepare las comidas en tiempo real. 
-  Sin embargo, la comida cruda puede ser mucho más antigua y seguir siendo apta para cenas. La frescura se verá en la comida cuando la pongas en la mesa, que tendrá vapor u otros efectos para indicar que es muy fresca. Puedes ver cuántos minutos le quedan a la comida pasando el cursor por encima.
+        <target xml:space="preserve" state="translated">
+  Al ser creada, cualquier comida elaborada mediante una receta solo será lo suficientemente fresca para una cena durante una cierta cantidad de minutos (definida en la Configuración a continuación), por lo que necesitarás tener a un chef preparando las comidas en tiempo real. 
+  Sin embargo, la comida cruda puede ser mucho más antigua y aún calificar para las cenas. La frescura será visible en la comida cuando se coloque en la mesa, la cual emitirá vapor u otros efectos para indicar que está muy fresca. Puedes ver cuántos minutos de frescura le quedan a la comida al pasar el cursor sobre ella.
 </target>
       </trans-unit>
       <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bonificaciones</target>
+        <target xml:space="preserve" state="translated">Bonificaciones</target>
       </trans-unit>
       <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
@@ -3278,18 +3321,18 @@ Ten en cuenta que el tipo de asentamiento importa: un asentamiento solo puede an
     - Tastier food. The value of each course is determined by the individual taste bonuses that a citizen has, the tastier they find the food the larger the bonus.
     - Nicer venue. The property value of the deed on which the dinner party is held will determine the maximum bonus.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    El valor de la cena se puede aumentar siguiendo estas pautas:
-    - Más invitados. Cuantos más invitados haya en la fiesta, mayor será la bonificación potencial.
-    - Asistentes de varios asentamientos. Cenar con ciudadanos que no pertenecen a un asentamiento, o todos de un mismo asentamiento, generará poca cultura. Para conseguir una bonificación significativa por la cena, necesitas que asistan ciudadanos de varios asentamientos.
-    - Nutrición media. El valor nutricional medio de la comida se convertirá en puntos de cultura mediante un multiplicador (más abajo).
-    - Comida más sabrosa. El valor de cada plato viene determinado por las bonificaciones de sabor individuales que tiene cada ciudadano; cuanto más sabrosa les resulte la comida, mayor será la bonificación.
-    - Lugar más agradable. El valor de la propiedad en la que se celebra la cena determinará la bonificación máxima.
+        <target xml:space="preserve" state="translated">
+    El valor de la cena puede incrementarse siguiendo estas pautas:
+    - Más invitados. Cuantos más invitados participen en la cena, mayor será la bonificación potencial.
+    - Asistentes de múltiples asentamientos. Cenar con ciudadanos que no pertenecen a un asentamiento, o que son todos de un solo asentamiento, generará poca cultura. Para obtener una bonificación significativa por la Cena, es necesario que asistan ciudadanos de múltiples asentamientos.
+    - Nutrición promedio. El valor nutricional promedio de la comida se convertirá en puntos de cultura a través de un multiplicador (a continuación).
+    - Comida más sabrosa. El valor de cada plato está determinado por las bonificaciones de gusto individuales que tiene un ciudadano; cuanto más sabrosa le parezca la comida, mayor será la bonificación.
+    - Mejor lugar. El valor de la propiedad de la escritura donde se lleva a cabo la cena determinará la bonificación máxima.
   </target>
       </trans-unit>
       <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ventajas</target>
+        <target xml:space="preserve" state="translated">Beneficios</target>
       </trans-unit>
       <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
@@ -3297,10 +3340,10 @@ Ten en cuenta que el tipo de asentamiento importa: un asentamiento solo puede an
  - Settlement Culture Bonus The settlement will gain total culture based on the dinner parties hosted on settlement property.
  - Settlement Influence Bonus If hosted on a 'Cultural' property type, the culture value of the dinner party will be added to the overall culture value, and therefore increase its influence.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
- - Bonificación de nutrición personal: tu multiplicador de nutrición aumentará en función de las cenas a las que hayas asistido recientemente.
- - Bonificación de cultura del asentamiento: el asentamiento ganará cultura total en función de las cenas organizadas en propiedades del asentamiento.
- - Bonificación de influencia del asentamiento: si se celebra en una propiedad de tipo «cultural», el valor de cultura de la cena se sumará al valor de cultura general y, por lo tanto, aumentará su influencia.
+        <target xml:space="preserve" state="translated">
+ - Bonificación de nutrición personal: Tu multiplicador de nutrición aumentará en función de las cenas a las que hayas asistido recientemente.
+ - Bonificación de cultura del asentamiento: El asentamiento ganará cultura total en función de las cenas organizadas en la propiedad del asentamiento.
+ - Bonificación de influencia del asentamiento: Si se organiza en un tipo de propiedad 'Cultural', el valor cultural de la cena se sumará al valor cultural general y, por lo tanto, aumentará su influencia.
 </target>
       </trans-unit>
       <trans-unit id="386" xml:space="preserve">
@@ -3309,25 +3352,25 @@ Dinner parties will decay in value overtime, until reaching zero, after which th
 
 Dinner parties will end when the host clicks 'Finish', or after the designated time limit, or when everyone is too stuffed to eat another bite.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-Las cenas perderán valor con el tiempo, hasta llegar a cero, tras lo cual se eliminarán de las bonificaciones. Puedes ver las bonificaciones de cena activas que tienes mirando la descripción emergente de nutrición.
+        <target xml:space="preserve" state="translated">
+El valor de las cenas decaerá con el tiempo hasta llegar a cero, momento en el cual se eliminarán de las bonificaciones. Puedes ver tus bonificaciones activas de Cena revisando la descripción emergente de nutrición.
 
-Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el límite de tiempo establecido, o cuando todos estén demasiado llenos para dar otro bocado.
+Las cenas terminarán cuando el anfitrión haga clic en 'Finalizar', después del límite de tiempo designado, o cuando todos estén demasiado llenos para dar un bocado más.
 </target>
       </trans-unit>
       <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Configuración de la cena</target>
+        <target xml:space="preserve" state="translated">Configuración de cenas</target>
       </trans-unit>
       <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Los asentamientos son comunidades de ciudadanos que se han unido bajo unas normas acordadas.</target>
+        <target xml:space="preserve" state="translated">Los asentamientos son una comunidad de ciudadanos que se han unido bajo reglas acordadas.</target>
       </trans-unit>
       <trans-unit id="407" xml:space="preserve">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
     -Arnold J. Toynbee
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">«La civilización es un movimiento y no una condición, un viaje y no un puerto».
+        <target xml:space="preserve" state="translated">"La civilización es un movimiento y no una condición, un viaje y no un puerto."
     -Arnold J. Toynbee
   </target>
       </trans-unit>
@@ -3335,29 +3378,29 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Unas personas pueden crear un asentamiento para establecer un gobierno dentro de sus áreas de {influencia}.
+        <target xml:space="preserve" state="translated">
+    Un asentamiento puede ser creado por un grupo de Ciudadanos para establecer un gobierno dentro de sus áreas de {Influence}.
   </target>
       </trans-unit>
       <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Hay tres niveles de asentamientos:</target>
+        <target xml:space="preserve" state="translated">Hay tres niveles de asentamientos:</target>
       </trans-unit>
       <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Las ciudades son conjuntos de ciudadanos.</target>
+        <target xml:space="preserve" state="translated">Los pueblos son conjuntos de ciudadanos.</target>
       </trans-unit>
       <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Los países son conjuntos de ciudades y ciudadanos.</target>
+        <target xml:space="preserve" state="translated">Los países son conjuntos de pueblos y ciudadanos.</target>
       </trans-unit>
       <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Las federaciones son agrupaciones de países, ciudades y ciudadanos.</target>
+        <target xml:space="preserve" state="translated">Las federaciones son agrupaciones de países, pueblos y ciudadanos.</target>
       </trans-unit>
       <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Conceptos de asentamiento</target>
+        <target xml:space="preserve" state="translated">Conceptos de asentamiento</target>
       </trans-unit>
       <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
@@ -3369,14 +3412,14 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
     - {Annexation} - Settlements can take over other settlements or homesteads if their culture levels are high enough.
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    - {Fundación} - Varios ciudadanos pueden unirse para fundar un nuevo asentamiento.
-    - {Ciudadanía} - A los ciudadanos se les pueden conceder derechos y privilegios especiales, y ser ciudadano de un asentamiento aumenta su poder.
-    - {Influencia} - Los asentamientos ejercerán influencia en un radio alrededor de ciertos edificios, dentro del cual se aplican las leyes y las normas de propiedad.
-    - {Propiedad del asentamiento} - Cuantos más ciudadanos haya en un asentamiento, más propiedades se pueden reclamar.
-    - {Cultura} - La cultura permite a los asentamientos ejercer influencia sobre los asentamientos vecinos, lo que puede llevar a su anexión.
-    - {Anexión} - Los asentamientos pueden hacerse con el control de otros asentamientos o granjas si sus niveles de cultura son lo suficientemente altos.
-    - {Crisis de propiedad} - Si un asentamiento pierde ciudadanos, es posible que no pueda mantener la propiedad que ya ha reclamado.
+        <target xml:space="preserve" state="translated">
+    - {Founding} - Varios ciudadanos pueden unirse para fundar un nuevo asentamiento.
+- {Citizenship} - A los ciudadanos se les pueden conceder derechos y privilegios especiales, y ser ciudadano de un asentamiento aumenta su poder.
+- {Influence} - Los asentamientos ejercerán una influencia en un radio alrededor de ciertos edificios, dentro del cual se aplican las leyes y las normas de propiedad.
+- {Settlement Property} - Cuantos más ciudadanos haya en un asentamiento, más propiedades se pueden reclamar.
+- {Culture} - La cultura permite a los asentamientos ejercer influencia sobre los asentamientos vecinos, lo que puede llevar a su anexión.
+- {Annexation} - Los asentamientos pueden hacerse con el control de otros asentamientos o propiedades si sus niveles de cultura son lo suficientemente altos.
+- {Property Crisis} - Si un asentamiento pierde ciudadanos, es posible que no pueda mantener la propiedad que ya ha reclamado.
   </target>
       </trans-unit>
       <trans-unit id="415" xml:space="preserve">
@@ -3387,37 +3430,37 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    La ciudadanía es la pertenencia a un asentamiento que otorga poderes cívicos. Cuantos más ciudadanos tenga un asentamiento, más {Propiedad del asentamiento} puede reclamar.
+        <target xml:space="preserve" state="translated">
+    La ciudadanía es la pertenencia a un asentamiento que otorga poderes cívicos. Cuantos más ciudadanos tenga un asentamiento, más {Settlement Property} puede reclamar.
 
-    Cada asentamiento puede conceder la ciudadanía a una lista de personas en la pestaña {CitizenRosterComponent} del objeto de la fundación.   Los no ciudadanos también pueden solicitar la ciudadanía aquí, lo cual debe ser aprobado por el Aprobador, que se establece en la configuración de {Política de inmigración}, siendo por defecto el líder del asentamiento.  Además, todos los ciudadanos de cualquier subasentamiento también serán automáticamente ciudadanos del asentamiento principal (es decir, los ciudadanos de cada ciudad de un país también son ciudadanos del país).
+Cada asentamiento puede conceder la ciudadanía a una lista de personas en la pestaña {CitizenRosterComponent} del objeto de la fundación. Los no ciudadanos también pueden solicitar la ciudadanía aquí, lo cual debe ser aprobado por el Aprobador, que se establece en la configuración de {Immigration Policy}, siendo por defecto el líder del asentamiento. Además, todos los ciudadanos de cualquier subasentamiento también serán automáticamente ciudadanos del asentamiento principal (es decir, los ciudadanos de cada pueblo de un país también son ciudadanos del país).
 
-    Los jugadores que ya tengan una granja, utilizando el {HomesteadSupportClaimPaperItem}, pueden unirse fácilmente a los asentamientos depositando un número equivalente de esos documentos de reclamación del asentamiento dentro de su granja.
+Los jugadores que ya tengan una propiedad, utilizando el {HomesteadSupportClaimPaperItem}, pueden unirse fácilmente a los asentamientos depositando un número equivalente de esos documentos de reclamación del asentamiento dentro de su propiedad.
   </target>
       </trans-unit>
       <trans-unit id="416" xml:space="preserve">
         <source xml:space="preserve">Citizenship Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Configuración de ciudadanía</target>
+        <target xml:space="preserve" state="translated">Configuración de ciudadanía</target>
       </trans-unit>
       <trans-unit id="417" xml:space="preserve">
         <source xml:space="preserve">
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    La cultura la crean los ciudadanos mediante obras creativas, el descubrimiento de artefactos históricos (próximamente), la organización de eventos y festivales (próximamente) y la fundación de asentamientos. La cultura siempre se asigna a un asentamiento, y cuanta más cultura tenga un asentamiento, más lejos llegará su {Influencia}.
+        <target xml:space="preserve" state="translated">
+    La cultura la crean los ciudadanos mediante obras creativas, el descubrimiento de artefactos históricos (próximamente), la organización de eventos y festivales (próximamente) y la fundación de asentamientos. La cultura siempre se asigna a un asentamiento, y cuanta más cultura tenga un asentamiento, más lejos llegará su {Influence}.
   </target>
       </trans-unit>
       <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Cultura de Settlement Foundation</target>
+        <target xml:space="preserve" state="translated">Cultura de la fundación del asentamiento</target>
       </trans-unit>
       <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Un asentamiento fundado generará una cantidad predeterminada de cultura para su propiedad; esta cantidad es constante y proporciona un nivel básico de influencia. Para ampliarla aún más y a partir de otras propiedades, hay que recurrir a otras fuentes.</target>
+        <target xml:space="preserve" state="translated">Un asentamiento fundado generará una cantidad predeterminada de cultura para su propiedad; esta cantidad es constante y proporciona un nivel básico de influencia. Para ampliarla aún más y a partir de otras propiedades, hay que recurrir a otras fuentes.</target>
       </trans-unit>
       <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Cultura a través de las obras de arte</target>
+        <target xml:space="preserve" state="translated">Cultura a través de las obras de arte</target>
       </trans-unit>
       <trans-unit id="421" xml:space="preserve">
         <source xml:space="preserve">
@@ -3425,7 +3468,7 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+        <target xml:space="preserve" state="translated">
     Cuando los ciudadanos usan un {EaselItem}, una {HandheldCameraItem} o una {TripodCameraItem} para hacer una foto, estas imágenes se pueden colgar en un marco en la pared para dar puntos de cultura a la propiedad. La cantidad de cultura depende de la reputación tanto de la foto como del artista, y a los espectadores se les pedirá que valoren las imágenes que ven para darles reputación adicional. A medida que estos valores aumentan, se genera más cultura, hasta un límite. Sin embargo, la bonificación de cultura de los ciudadanos del mismo asentamiento se reduce en un 90 %, de modo que la mayor parte del valor proviene de ciudadanos de otros asentamientos que difunden la reputación de la obra. Esto hace que sea ventajoso ganar reputación en un asentamiento determinado, pero luego venderla o transferirla a otro asentamiento, donde tendrá mucho más valor al proceder de un lugar diferente.
 
     Dentro de una misma galería, se produce una disminución de los beneficios al exhibir cuadros del mismo artista en el conjunto de la propiedad. Para evitarlo, puedes mostrar una colección de muchos artistas en su lugar.
@@ -3433,19 +3476,19 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
       </trans-unit>
       <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ajustes culturales</target>
+        <target xml:space="preserve" state="translated">Ajustes culturales</target>
       </trans-unit>
       <trans-unit id="423" xml:space="preserve">
         <source xml:space="preserve">
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+        <target xml:space="preserve" state="translated">
     El primer paso para iniciar un nuevo asentamiento es colocar el objeto de fundación. Estos son {TownFoundationItem}, {CountryFoundationItem} y {FederationFoundationItem}. Una vez colocados, se iniciará un nuevo asentamiento sin fundar, y cuando se cumplan todos los requisitos se podrá activar la ceremonia de fundación.
 </target>
       </trans-unit>
       <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Requisitos de fundación</target>
+        <target xml:space="preserve" state="translated">Requisitos de fundación</target>
       </trans-unit>
       <trans-unit id="425" xml:space="preserve">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
@@ -3454,16 +3497,16 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">El ciudadano que coloque la primera piedra se convertirá en el primer líder de la ciudad y recibirá algunos privilegios especiales, pero este cargo puede cambiar con el tiempo dependiendo de las reglas del gobierno.
+        <target xml:space="preserve" state="translated">El ciudadano que coloque la primera piedra se convertirá en el primer líder del pueblo y recibirá algunos privilegios especiales, pero este cargo puede cambiar con el tiempo dependiendo de las reglas del gobierno.
 
-    Una vez colocada, la parcela que hay debajo pasará a ser propiedad de este nuevo asentamiento, y la titularidad se asignará al líder.  Se pueden reclamar más parcelas usando el {ClaimToolItem} (haz clic con el botón derecho en el objeto para seleccionar la escritura del asentamiento como destino).  Esto te permitirá reclamar terrenos alrededor de la base y construir una sala que cumpla los requisitos.
+Una vez colocada, la parcela que hay debajo pasará a ser propiedad de este nuevo asentamiento, y la titularidad se asignará al líder. Se pueden reclamar más parcelas usando el {ClaimToolItem} (haz clic con el botón derecho en el objeto para seleccionar la escritura del asentamiento como destino). Esto te permitirá reclamar terrenos alrededor de la base y construir una sala que cumpla los requisitos.
 
-    Los asentamientos necesitan un número mínimo de ciudadanos, un número mínimo de subasentamientos (es decir, un país necesitará un cierto número de pueblos como parte de él para formarse) y un nivel cultural mínimo en todos los subasentamientos.  Para el asentamiento de nivel más bajo, una ciudad, no se requieren cultura ni subasentamientos (ya que una ciudad no puede tener subasentamientos, es el de nivel más bajo). En la pestaña «Ciudadanos» del objeto de fundación, el líder puede invitar y aprobar a los ciudadanos solicitantes, y otros no ciudadanos pueden aceptar invitaciones y solicitar convertirse en ciudadanos.
+Los asentamientos necesitan un número mínimo de ciudadanos, un número mínimo de subasentamientos (es decir, un país necesitará un cierto número de pueblos como parte de él para formarse) y un nivel cultural mínimo en todos los subasentamientos. Para el asentamiento de nivel más bajo, un pueblo, no se requieren cultura ni subasentamientos (ya que un pueblo no puede tener subasentamientos, es el de nivel más bajo). En la pestaña «Ciudadanos» del objeto de fundación, el líder puede invitar y aprobar a los ciudadanos solicitantes, y otros no ciudadanos pueden aceptar invitaciones y solicitar convertirse en ciudadanos.
 </target>
       </trans-unit>
       <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ratificar la Constitución</target>
+        <target xml:space="preserve" state="translated">Ratificar la Constitución</target>
       </trans-unit>
       <trans-unit id="427" xml:space="preserve">
         <source xml:space="preserve">
@@ -3475,19 +3518,19 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Una vez cumplidos todos los requisitos, puede comenzar la votación para ratificar la {Constitución} del asentamiento. En la pestaña Constitución, puedes configurar la constitución como quieras, diseñando tu gobierno a tu gusto (consulta la guía de la Constitución). Una vez que hagas clic para iniciar la votación, todos los ciudadanos actuales del asentamiento podrán votar. Si no se aprueba, puedes hacer cambios e intentarlo de nuevo.
+        <target xml:space="preserve" state="translated">
+    Una vez cumplidos todos los requisitos, puede comenzar la votación para ratificar la {Constitution} del asentamiento. En la pestaña Constitución, puedes configurar la constitución como quieras, diseñando tu gobierno a tu gusto (consulta la guía de la Constitución). Una vez que hagas clic para iniciar la votación, todos los ciudadanos actuales del asentamiento podrán votar. Si no se aprueba, puedes hacer cambios e intentarlo de nuevo.
 
-    Si quieres, puedes añadir otros elementos cívicos a la fundación inicial de tu asentamiento; por ejemplo, colocando un tribunal en la propiedad inicial del asentamiento puedes crear leyes asociadas al mismo, que se pueden incluir en la misma votación que la ratificación de la Constitución. De esta forma, puedes agrupar un número arbitrario de objetos cívicos en una sola votación, si quieres que tu gobierno empiece más consolidado. Si no, siempre puedes añadirlos más tarde con votaciones adicionales.
+Si quieres, puedes añadir otros elementos cívicos a la fundación inicial de tu asentamiento; por ejemplo, colocando un tribunal en la propiedad inicial del asentamiento puedes crear leyes asociadas al mismo, que se pueden incluir en la misma votación que la ratificación de la Constitución. De esta forma, puedes agrupar un número arbitrario de objetos cívicos en una sola votación, si quieres que tu gobierno empiece más consolidado. Si no, siempre puedes añadirlos más tarde con votaciones adicionales.
 
-    Una vez que se cumplan todos los requisitos y se ratifique la constitución, ¡el asentamiento estará listo para fundarse!  Haz clic en el botón de la pestaña «Fundación» del objeto «Fundación» para iniciar la ceremonia de inauguración, a la que pueden asistir todos tus ciudadanos para celebrar el comienzo de un nuevo asentamiento.
+Una vez que se cumplan todos los requisitos y se ratifique la constitución, ¡el asentamiento estará listo para fundarse! Haz clic en el botón de la pestaña «Fundación» del objeto «Fundación» para iniciar la ceremonia de inauguración, a la que pueden asistir todos tus ciudadanos para celebrar el comienzo de un nuevo asentamiento.
 
-    Una vez fundado, tu asentamiento comenzará a generar {Influencia}, a producir {Propiedad del asentamiento} y a recibir {Cultura}.
+Una vez fundado, tu asentamiento comenzará a generar {Influence}, a producir {Settlement Property} y a recibir {Culture}.
   </target>
       </trans-unit>
       <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Configuración de la Fundación de Asentamientos</target>
+        <target xml:space="preserve" state="translated">Configuración de la fundación del asentamiento</target>
       </trans-unit>
       <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
@@ -3497,23 +3540,23 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Un asentamiento puede tener sus propias reglas sobre los nuevos ciudadanos definidas en una {Política de inmigración}.
+        <target xml:space="preserve" state="translated">
+    Un asentamiento puede tener sus propias reglas sobre los nuevos ciudadanos definidas en una {Immigration Policy}.
 
-    Cada asentamiento siempre tiene una Política de inmigración asociada.  Empieza como un objeto integrado en el asentamiento, con ajustes predeterminados que permiten al líder aprobar nuevos ciudadanos, y es visible en las descripciones emergentes del asentamiento.  Una vez que se coloca un {ImmigrationDeskItem} en la zona de influencia de ese asentamiento, se puede editar esa política.
+Cada asentamiento siempre tiene una Política de inmigración asociada. Empieza como un objeto integrado en el asentamiento, con ajustes predeterminados que permiten al líder aprobar nuevos ciudadanos, y es visible en las descripciones emergentes del asentamiento. Una vez que se coloca un {ImmigrationDeskItem} en la zona de influencia de ese asentamiento, se puede editar esa política.
 
-    Se pueden establecer requisitos que deben cumplirse y/o mantenerse para seguir siendo ciudadano del asentamiento. Para que los ciudadanos se conviertan en ciudadanos o sigan siéndolo, deben cumplir todos estos requisitos tanto en el asentamiento al que se unen como en todos sus asentamientos padres.
+Se pueden establecer requisitos que deben cumplirse y/o mantenerse para seguir siendo ciudadano del asentamiento. Para que los ciudadanos se conviertan en ciudadanos o sigan siéndolo, deben cumplir todos estos requisitos tanto en el asentamiento al que se unen como en todos sus asentamientos padres.
   </target>
       </trans-unit>
       <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Anuncio de asentamiento</target>
+        <target xml:space="preserve" state="translated">Anuncio de asentamiento</target>
       </trans-unit>
       <trans-unit id="431" xml:space="preserve">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+        <target xml:space="preserve" state="translated">
     Cuando un asentamiento está configurado para permitir que gente nueva se una al instante, se desbloquea una función especial. Los recién llegados verán el asentamiento en el mapa cuando empiecen por primera vez, entre otras posibles posiciones de inicio, así como una nota del asentamiento (asignada en la sección de Anuncios de la política de inmigración).  Cuando entren en el mundo y lleguen a tu asentamiento de esta forma, se convertirán automáticamente en ciudadanos y empezarán en una posición designada junto al objeto «Mostrador de inmigración».  Usar esta función es una forma genial de atraer a nuevos jugadores a tus asentamientos y hacer crecer una comunidad.
   </target>
       </trans-unit>
@@ -3521,13 +3564,13 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
         <source xml:space="preserve">
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Una vez que se {funda|funda} un asentamiento, empezará a ejercer influencia en un radio alrededor de la fundación.  Cualquier territorio bajo su influencia estará sujeto a sus leyes y medidas cívicas.
+        <target xml:space="preserve" state="translated">
+    Una vez que un asentamiento es {Founded|Founding}, empezará a ejercer influencia en un radio alrededor de la fundación. Cualquier territorio bajo su influencia estará sujeto a sus leyes y medidas cívicas.
   </target>
       </trans-unit>
       <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">La cultura genera influencia</target>
+        <target xml:space="preserve" state="translated">La cultura genera influencia</target>
       </trans-unit>
       <trans-unit id="434" xml:space="preserve">
         <source xml:space="preserve">
@@ -3537,17 +3580,17 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    La influencia se puede ampliar con {Cultura}. Cuanto mayor sea el nivel cultural de una propiedad, más influencia ejercerá sobre el asentamiento propietario. Esto te permite ampliar tus fronteras aumentando la cultura o creando nuevas propiedades culturales. Sin embargo, hay límites en el número de propiedades culturales y en la influencia máxima que se puede ejercer, por lo que las fronteras no se pueden ampliar indefinidamente. Cada vez que el asentamiento sube de nivel, se puede ejercer una influencia de mayor alcance y crear más propiedades culturales.
-    
-    La influencia se ejerce desde la posición media de las habitaciones de la propiedad, ponderada por sus valores.  
+        <target xml:space="preserve" state="translated">
+    La influencia se puede ampliar con {Culture}. Cuanto mayor sea el nivel cultural de una propiedad, más influencia ejercerá sobre el asentamiento propietario. Esto te permite ampliar tus fronteras aumentando la cultura o creando nuevas propiedades culturales. Sin embargo, hay límites en el número de propiedades culturales y en la influencia máxima que se puede ejercer, por lo que las fronteras no se pueden ampliar indefinidamente. Cada vez que el asentamiento sube de nivel, se puede ejercer una influencia de mayor alcance y crear más propiedades culturales.
 
-    Las {Homesteads|HomesteadClaimStakeObject} son propiedades individuales asociadas al asentamiento del que su propietario sea ciudadano. Si el propietario no es ciudadano de ningún asentamiento, entonces no recibirá influencia de ninguno. Esto puede crear vacíos en la influencia de la ciudad cuando los ciudadanos renuncian a su ciudadanía; sin embargo, un asentamiento poderoso puede reclamar esta propiedad por la fuerza mediante el proceso de {Anexión}.
+La influencia se ejerce desde la posición media de las habitaciones de la propiedad, ponderada por sus valores.
+
+Las {Homesteads|HomesteadClaimStakeObject} son propiedades individuales asociadas al asentamiento del que su propietario sea ciudadano. Si el propietario no es ciudadano de ningún asentamiento, entonces no recibirá influencia de ninguno. Esto puede crear vacíos en la influencia del pueblo cuando los ciudadanos renuncian a su ciudadanía; sin embargo, un asentamiento poderoso puede reclamar esta propiedad por la fuerza mediante el proceso de {Annexation}.
   </target>
       </trans-unit>
       <trans-unit id="435" xml:space="preserve">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Asentamientos con influencia múltiple</target>
+        <target xml:space="preserve" state="translated">Asentamientos con influencia múltiple</target>
       </trans-unit>
       <trans-unit id="436" xml:space="preserve">
         <source xml:space="preserve">
@@ -3555,7 +3598,7 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
     
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+        <target xml:space="preserve" state="translated">
     Cada nivel de asentamiento (pueblo, país, federación) tiene su propio mapa de influencia, y solo un asentamiento de cada tipo puede influir en una parcela determinada (es decir, dos pueblos no pueden influir en la misma parcela).  Sin embargo, si un asentamiento es un subasentamiento de otro, entonces ese asentamiento principal también ejercerá influencia sobre la parcela (es decir, la influencia de un país se extenderá a todos los lugares donde se extienda la influencia de sus pueblos miembros).  En las parcelas influenciadas por más de un asentamiento de esta manera, se aplicarán los gobiernos de todos los asentamientos.
     
     Cuando dos asentamientos del mismo tipo compiten por la influencia, el más cercano se adentrará más en los límites de influencia del otro.  Sin embargo, cualquier territorio que ya haya sido reclamado seguirá bajo influencia incluso si, de otro modo, quedara dentro del asentamiento contrario. Esto puede incluso llevar a que partes del asentamiento se separen y queden envueltas por otros asentamientos.
@@ -3563,14 +3606,14 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
       </trans-unit>
       <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Control fronterizo</target>
+        <target xml:space="preserve" state="translated">Control fronterizo</target>
       </trans-unit>
       <trans-unit id="438" xml:space="preserve">
         <source xml:space="preserve">
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    En una {Mesa de Inmigración|ImmigrationDeskObject}, los líderes de un asentamiento pueden designar granjas o asentamientos vecinos que puedan reclamar tierras dentro de nuestra zona de influencia. Si un vecino quiere reclamar tierras que, de otro modo, estarían bajo la influencia de tu asentamiento (quizás a cambio de un precio), esta es la forma de permitirlo.
+        <target xml:space="preserve" state="translated">
+    En un {Immigration Desk|ImmigrationDeskObject}, los líderes de un asentamiento pueden designar propiedades o asentamientos vecinos que puedan reclamar dentro de nuestra zona de influencia. Si un vecino quiere reclamar tierras que, de otro modo, estarían bajo la influencia de tu asentamiento (quizás a cambio de un precio), esta es la forma de permitirlo.
   </target>
       </trans-unit>
       <trans-unit id="439" xml:space="preserve">
@@ -3588,24 +3631,24 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+        <target xml:space="preserve" state="translated">
     Se produce una crisis inmobiliaria cuando el número de ciudadanos de un asentamiento se reduce hasta el punto de que no hay suficientes ciudadanos para respaldar el número de estacas y documentos de reclamación en uso.
-    
-    Dado que los asentamientos generan estacas y documentos de reclamación cuando se unen ciudadanos, y los eliminan cuando estos se marchan, es posible que los ciudadanos se vayan y provoquen una crisis inmobiliaria cuando no haya estacas ni documentos disponibles para eliminar en el objeto Fundación del Asentamiento.  Cuando esto ocurra, se iniciará un temporizador, al final del cual los ciudadanos deberán devolver el número necesario de estacas y documentos a la Fundación del Asentamiento, renunciando a ellos o recuperándolos como puedan.  Cuando las estacas y los documentos de reclamación se coloquen en una Fundación del Asentamiento durante una crisis inmobiliaria, desaparecerán inmediatamente, y si se cubre el déficit, la crisis terminará de inmediato.
 
-    Si los ciudadanos no pueden o no quieren devolver las estacas y los papeles necesarios antes de que expire el temporizador, las estacas y los papeles se destruirán dondequiera que estén. Cuando se resuelva una crisis inmobiliaria, se llevarán a cabo estas recuperaciones:
-    - Primero, se destruirán las reclamaciones/estacas que no se estén utilizando (por ejemplo, en la mochila de un ciudadano).
-    - A continuación, se destruirán las participaciones/reclamaciones que estén en uso si aún no se ha cubierto el déficit.
-    En ambos pasos, se destruirán primero las reclamaciones que pertenezcan a ciudadanos abandonados.
+Dado que los asentamientos generan estacas y documentos de reclamación cuando se unen ciudadanos, y los eliminan cuando estos se marchan, es posible que los ciudadanos se vayan y provoquen una crisis inmobiliaria cuando no haya estacas ni documentos disponibles para eliminar en el objeto Fundación del Asentamiento. Cuando esto ocurra, se iniciará un temporizador, al final del cual los ciudadanos deberán devolver el número necesario de estacas y documentos a la Fundación del Asentamiento, renunciando a ellos o recuperándolos como puedan. Cuando las estacas y los documentos de reclamación se coloquen en una Fundación del Asentamiento durante una crisis inmobiliaria, desaparecerán inmediatamente, y si se cubre el déficit, la crisis terminará de inmediato.
 
-    Es muy importante que los asentamientos gestionen cuidadosamente su población de ciudadanos para evitar un déficit, y es aconsejable mantener algunos en reserva y no usarlos inmediatamente, o hacer ajustes cuando los ciudadanos empiecen a marcharse.
+Si los ciudadanos no pueden o no quieren devolver las estacas y los documentos necesarios antes de que expire el temporizador, las estacas y los documentos se destruirán dondequiera que estén. Cuando se resuelva una crisis inmobiliaria, se llevarán a cabo estas recuperaciones:
+- Primero, se destruirán las reclamaciones/estacas que no se estén utilizando (por ejemplo, en la mochila de un ciudadano).
+- A continuación, se destruirán las estacas/reclamaciones que estén en uso si aún no se ha cubierto el déficit.
+En ambos pasos, se destruirán primero las reclamaciones que pertenezcan a ciudadanos abandonados.
 
-    Los ciudadanos que entren en el grupo demográfico «Abandonados» también dejarán de contribuir al número de estacas y documentos generados, lo que también puede provocar una crisis inmobiliaria.
+Es muy importante que los asentamientos gestionen cuidadosamente su población de ciudadanos para evitar un déficit, y es aconsejable mantener algunos en reserva y no usarlos inmediatamente, o hacer ajustes cuando los ciudadanos empiecen a marcharse.
+
+Los ciudadanos que entren en el grupo demográfico {Demographic} de Abandonados también dejarán de contribuir al número de estacas y documentos generados, lo que también puede provocar una crisis inmobiliaria.
   </target>
       </trans-unit>
       <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ajustes de la crisis inmobiliaria</target>
+        <target xml:space="preserve" state="translated">Ajustes de la crisis inmobiliaria</target>
       </trans-unit>
       <trans-unit id="441" xml:space="preserve">
         <source xml:space="preserve">
@@ -3615,25 +3658,25 @@ Las cenas terminarán cuando el anfitrión haga clic en «Finalizar», o tras el
 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    A medida que más ciudadanos se unen a un asentamiento, se pueden reclamar más {Propiedades}, utilizando estacas de reclamación y documentos de reclamación asociados al asentamiento.
+        <target xml:space="preserve" state="translated">
+    A medida que más ciudadanos se unen a un asentamiento, se pueden reclamar más {Property}, utilizando estacas de reclamación y documentos de reclamación asociados al asentamiento.
 
-    El asentamiento generará estos objetos en función de su nivel, con estacas de reclamación de los tipos {TownClaimStakeItem}, {CountryClaimStakeItem} y {FederationClaimStakeItem}.  Estos reclamarán propiedades en nombre del asentamiento al que están asociados, y se pueden potenciar con {ClaimPaperItem} para reclamar más parcelas, colocándolos en el inventario de la estaca de reclamación.
+El asentamiento generará estos objetos en función de su nivel, con estacas de reclamación de los tipos {TownClaimStakeItem}, {CountryClaimStakeItem} y {FederationClaimStakeItem}. Estos reclamarán propiedades en nombre del asentamiento al que están asociados, y se pueden potenciar con {ClaimPaperItem} para reclamar más parcelas, colocándolos en el inventario de la estaca de reclamación.
 
-    Si los ciudadanos se marchan, el número máximo de documentos de reclamación y estacas permitidos se reducirá y se eliminará del inventario de la Fundación del Asentamiento.  Si están todos en uso y no se pueden devolver, se producirá una {Crisis de Propiedad}.
+Si los ciudadanos se marchan, el número máximo de documentos de reclamación y estacas permitidos se reducirá y se eliminará del inventario de la Fundación del Asentamiento. Si están todos en uso y no se pueden devolver, se producirá una {Property Crisis}.
   </target>
       </trans-unit>
       <trans-unit id="442" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Reclamaciones de ayuda para la vivienda</target>
+        <target xml:space="preserve" state="translated">Reclamaciones de apoyo para propiedades</target>
       </trans-unit>
       <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Los asentamientos también generarán {Homestead Support Claims|HomesteadSupportClaimPaperItem}, que se pueden regalar o vender a personas que no sean ciudadanos. Estas reclamaciones permitirán a las granjas que no tengan ningún asentamiento asociado reclamar más parcelas en cualquier lugar del mapa.  Normalmente, los agricultores de regiones lejanas y aisladas que quieran tener granjas más grandes las buscarán (a cambio de comida o mano de obra) en pueblos de todo el mundo. Representan el apoyo de un asentamiento aplicado a la protección de propiedades externas.</target>
+        <target xml:space="preserve" state="translated">Los asentamientos también generarán {Homestead Support Claims|HomesteadSupportClaimPaperItem}, que se pueden regalar o vender a personas que no sean ciudadanos. Estas reclamaciones permitirán a las propiedades que no tengan ningún asentamiento asociado reclamar más parcelas en cualquier lugar del mapa. Normalmente, los agricultores de regiones lejanas y aisladas que quieran tener granjas más grandes las buscarán (a cambio de comida o mano de obra) en pueblos de todo el mundo. Representan el apoyo de un asentamiento aplicado a la protección de propiedades externas.</target>
       </trans-unit>
       <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Configuración de propiedades de los asentamientos</target>
+        <target xml:space="preserve" state="translated">Configuración de propiedades del asentamiento</target>
       </trans-unit>
     </body>
   </file>
