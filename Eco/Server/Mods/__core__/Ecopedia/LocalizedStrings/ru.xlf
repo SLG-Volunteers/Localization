@@ -3377,7 +3377,7 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
       </trans-unit>
       <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="translated">Страны - совокупность городов и жителей.</target>
+        <target xml:space="preserve" state="translated">Страны - совокупность городов и их жителей.</target>
       </trans-unit>
       <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
