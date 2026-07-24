@@ -1356,11 +1356,11 @@ Schmelzen: Sobald du wertvolles Erzkonzentrat hast, kannst du es endlich in Meta
       </trans-unit>
       <trans-unit id="167" xml:space="preserve">
         <source xml:space="preserve">
-As citizens burn fuel to cook or generate power, smelt metals, process sewage, and engage in countless other necessary industrial activities, a common byproduct is pollution. Pollution is any substance that can act as a contaminant or poison when introduced back into the environment. In Eco there are many sources and several varieties of pollution, some of which are more potent than others. Heavy metals can contaminate soil, affecting available nutrients and the health of plants and animals living on and in it. Water can spread contaminants rapidly and increase the size of their impact. Air pollution can pour invisibly or visibly from a stove or a power plant, adding to greenhouse gasses and impacting the air quality, as well as fall back down into the ground as acid rain. 
+As citizens burn fuel to cook or generate power, smelt metals, process sewage, and engage in countless other necessary industrial activities, a common byproduct is pollution. Pollution is any substance that can act as a contaminant or poison when introduced back into the environment. In Eco there are many sources and several varieties of pollution, some of which are more potent than others. Heavy metals can contaminate soil, affecting available nutrients and the health of plants and animals living on and in it. Water can spread contaminants rapidly and increase the size of their impact. Air pollution can pour invisibly or visibly from a stove or a power plant, adding to greenhouse gasses and impacting the air quality, as well as fall back down into the ground as acid rain.
 
-To ensure the survival of ecosystems and preserve resources like soil and water, players will have to manage and contain the sources of pollution their civilization creates. In some cases, spills or deadly concentrations will be inevitable, and then remediation and storage may be the only option to return the land to an unharmed state. 
+To ensure the survival of ecosystems and preserve resources like soil and water, players have to manage and contain the sources of pollution their civilization creates. Some spills and dangerous concentrations are inevitable, and when they happen containment, storage and remediation are what return the land to an unharmed state.
 </source>
-        <target xml:space="preserve" state="translated">
+        <target xml:space="preserve" state="needs-translation">
 Bei der Verbrennung von Brennstoffen zum Kochen oder zur Stromerzeugung, beim Schmelzen von Metallen, bei der Verarbeitung von Abwässern und bei zahllosen anderen notwendigen industriellen Aktivitäten ist ein häufiges Nebenprodukt die Verschmutzung. Verschmutzung ist jede Substanz, die als Schadstoff oder Gift wirken kann, wenn sie in die Umwelt zurückgeführt wird. In Eco gibt es viele Quellen und verschiedene Arten der Verschmutzung, von denen einige stärker sind als andere. Schwermetalle können den Boden verseuchen und die verfügbaren Nährstoffe sowie die Gesundheit der darauf und darin lebenden Pflanzen und Tiere beeinträchtigen. Wasser kann Schadstoffe schnell verbreiten und das Ausmaß ihrer Auswirkungen erhöhen. Luftverschmutzung kann unsichtbar oder offensichtlich aus einem Ofen oder einem Kraftwerk strömen, die zu Treibhausgasen beiträgt und die Luftqualität beeinträchtigen, sowie als saurer Regen auf den Boden zurückfallen. 
 
 Um das Überleben der Ökosysteme zu sichern und Ressourcen wie Boden und Wasser zu erhalten, müssen die Spieler die Quellen der Verschmutzung, die ihre Zivilisation verursacht, regeln und eindämmen. In einigen Fällen werden Verschüttungen oder tödliche Konzentrationen unvermeidlich sein, und dann kann die Sanierung und Lagerung die einzige Option sein, um das Land wieder in einen unversehrten Zustand zu versetzen. 
@@ -1372,9 +1372,13 @@ Um das Überleben der Ökosysteme zu sichern und Ressourcen wie Boden und Wasser
       </trans-unit>
       <trans-unit id="169" xml:space="preserve">
         <source xml:space="preserve">
-Once released into the soils and water table, ground pollutants are not easy to stop or remove. Various materials in Eco are sources of ground pollution, most notably tailings from mining and garbage from crafting and other player activities. Pollution spreads as a gradient that increases in concentration with time if the source of pollutants remains or increases. When the source of pollutants is removed from contact with the ground, ground pollution spreads and dissipates with time.
+Ground pollution is tracked claim by claim, in four separate layers: Soil, Heavy Mineral, Chemical and Acid Rain. Every polluting block left in the world adds a flat 0.1 to the layer it belongs to, so ten blocks of {TailingsItem} sitting on a claim will drive that claim's Heavy Mineral Pollution to 100%. Layers do not jump to that figure, they converge on it over roughly three days, so a spill takes time to show its full effect, and time to fade once you have dealt with it. Only the horizontal position of the waste matters. Burying it changes nothing.
+
+Waste that a machine has just produced is granted a day of grace before it begins to pollute, which is time enough to cart it to a sorter or a proper container. Waste that was not produced but simply dropped in the world pollutes from the moment it lands.
+
+The Ground Pollution map you can call up shows the sum of the four layers, spread outward from every contaminated claim. Plumes fall off with the square of the distance and they add together, so three neighbouring claims at 100% read, from a distance, exactly like a single claim at 300%. Their reach grows with the square root of the value: ten times the pollution carries about three times as far. A poisoned claim is never a private problem for long.
 </source>
-        <target xml:space="preserve" state="translated">
+        <target xml:space="preserve" state="needs-translation">
 Einmal in den Boden und den Grundwasserspiegel freigesetzt, sind Bodenverschmutzungen nicht leicht zu stoppen oder zu entfernen. Verschiedene Materialien in Eco sind Quellen der Bodenverschmutzung, insbesondere Bergbaurückstände und Müll aus Herstellungs- und anderen Spieleraktivitäten. Die Verschmutzung breitet sich als Gradient aus, dessen Konzentration mit der Zeit zunimmt, wenn die Schadstoffquelle erhalten bleibt oder zunimmt. Wenn die Schadstoffquelle nicht mehr mit dem Boden in Berührung kommt, verteilt sich die Bodenverschmutzung und verschwindet mit der Zeit.
 </target>
       </trans-unit>
@@ -1384,11 +1388,11 @@ Einmal in den Boden und den Grundwasserspiegel freigesetzt, sind Bodenverschmutz
       </trans-unit>
       <trans-unit id="171" xml:space="preserve">
         <source xml:space="preserve">
-Many player activities can create harmful emissions which if released into the atmosphere act as air pollution. Crafting at objects with CO2 outputs or running generators with them contributes to local and global pollution levels. Over long periods of time, global CO2 levels contributes to a global warming effect which affects sea level in turn. There are natural sinks and intakes for some pollutants like CO2 such as forests.
+Many player activities create harmful emissions which if released into the atmosphere act as air pollution. Crafting at objects with CO2 outputs or running generators with them contributes to local and global pollution levels. Over long periods of time, global CO2 levels contributes to a global warming effect which affects sea level in turn. There are natural sinks and intakes for some pollutants like CO2 such as forests.
 
-Concentrations of air pollution will fall back to the ground as acid rain, which we simulate using the air pollution and local rainfall quantities. 
+Where a plume of air pollution meets rainfall, it comes back down as acid rain and feeds the Acid Rain layer of whatever ground lies beneath it. Emissions are therefore never only an air problem: an unfiltered smokestack slowly sours the land downwind of it.
 </source>
-        <target xml:space="preserve" state="translated">
+        <target xml:space="preserve" state="needs-translation">
 Viele Spieleraktivitäten können schädliche Emissionen verursachen, die, wenn sie in die Atmosphäre freigesetzt werden, als Luftverschmutzung wirken. Das Herstellen an Objekten mit CO2-Ausstoß oder das Betreiben von Generatoren mit diesen trägt zur lokalen und globalen Verschmutzung bei. Über lange Zeiträume hinweg trägt der globale CO2-Gehalt zu einem globalen Erwärmungseffekt bei, der sich wiederum auf den Meeresspiegel auswirkt. Es gibt natürliche Senken und Einlässe für einige Schadstoffe wie CO2 wie Wälder.
 
 Die Konzentrationen der Luftverschmutzung fallen als saurer Regen auf den Boden zurück, den wir anhand der Luftverschmutzung und der lokalen Niederschlagsmengen simulieren. 
@@ -1400,11 +1404,13 @@ Die Konzentrationen der Luftverschmutzung fallen als saurer Regen auf den Boden 
       </trans-unit>
       <trans-unit id="173" xml:space="preserve">
         <source xml:space="preserve">
-Water is a medium through which pollution spreads more quickly and further, rushing downstream and blossoming out in lakes or oceans. Pollution in the water generally comes from nearby ground pollution sources, but also may be entering the water via the acid rain mechanic in areas with lots of air pollution. 
+Water holds no pollution of its own; it carries what the ground gives it. Where a plume reaches water it travels roughly three times further than it would over land, and arrives correspondingly diluted, a long weak tail drawn out across a lake or into the open sea. A tailings pile on a riverbank contaminates a great deal more than the riverbank.
 
-Removal of the source is the only way to currently stop water pollution, but clean-up and remediation strategies are features we are considering for the future.
+Pipes are the other way water becomes a problem. An effluent released from an open pipe end poisons the ground where it lands, each fluid feeding its own layer: {SewageItem} fouls the soil, {IndustrialSewageItem} carries heavy metals, and {ChemicalWasteFluidItem} is caustic enough to be in a class of its own. Run them into a {WasteFilterItem} instead and they come out as {WaterItem}, clean enough to release or reuse, with the solids they carried captured for you to store or recycle.
+
+Because open water only reflects its sources, there is nothing in it to scrub out directly. Contain or remove the sources on the shore, remediate the claims that feed it, and the water clears along with them.
 </source>
-        <target xml:space="preserve" state="translated">
+        <target xml:space="preserve" state="needs-translation">
 Wasser ist ein Medium, durch das sich die Verschmutzung schneller und weiter ausbreitet, stromabwärts rauscht und sich in Seen oder Ozeanen ausbreitet. Die Verschmutzung des Wassers kommt in der Regel von nahegelegenen Bodenverschmutzungsquellen, kann aber in Gebieten mit viel Luftverschmutzung auch über den Mechanismus des sauren Regens ins Wasser gelangen. 
 
 Die Beseitigung der Quelle ist derzeit der einzige Weg, um die Wasserverschmutzung zu stoppen, aber Reinigungs- und Sanierungsstrategien sind Funktionen, die wir für die Zukunft in Betracht ziehen.
@@ -1416,11 +1422,11 @@ Die Beseitigung der Quelle ist derzeit der einzige Weg, um die Wasserverschmutzu
       </trans-unit>
       <trans-unit id="175" xml:space="preserve">
         <source xml:space="preserve">
-In many cases, there is no perfect solution to deal with polluting materials. Space must be made to store various pollutants, and pollutants must be stored in a way that prevents them from re-entering the surrounding environment. This is a challenge that should be key to environmental management of industry in Eco. Currently tailings mechanics require deep underground storage; this will be improved with further development. 
+Storing polluting material properly is the cheapest way to keep it out of the ground. A polluting block dumped in the open contributes its full amount, and so, be warned, does the same material sitting in an ordinary chest: only purpose-built containment holds anything back. A {GarbageStorageItem} keeps 90% of what it holds out of the soil, an {AdvancedGarbageStorageItem} 95%, and a {SealedGarbageStorageItem} 99%. None of them is perfect: a large enough dump will still poison the claim it stands on, however well it has been packed.
 
-Containment mechanics are the forefront of features we want to improve related to the Pollution group of features in Eco. Players should be using containment to deal with the vast quantities of tailings and garbage that their societies produce.
+Producing less waste to begin with is the other half of the answer. A {GarbageSorterItem} separates mixed garbage into materials that can be recycled and put back to use, and a {ResidualWasteSorterItem} does the same for the residuals of industry, leaving a smaller volume of genuinely unusable waste behind. Space must still be made for what remains, and where that space goes should be a deliberate decision of your society rather than an accident of where the carts stopped.
 </source>
-        <target xml:space="preserve" state="translated">
+        <target xml:space="preserve" state="needs-translation">
 In vielen Fällen gibt es keine perfekte Lösung für den Umgang mit umweltschädlichen Materialien. Es muss Platz für die Lagerung verschiedener Schadstoffe geschaffen werden, und Schadstoffe müssen so gelagert werden, dass sie nicht in die Umgebung gelangen können. Dies ist eine Herausforderung, die für das Umweltmanagement der Industrie in Eco von entscheidender Bedeutung sein sollte. Gegenwärtig erfordern Rückstandmechaniken eine tiefe unterirdische Lagerung; dies wird mit der weiteren Entwicklung verbessert. 
 
 Die Eindämmungsmaßnahmen sind die Spitze der Funktionen, die wir im Zusammenhang mit der Schadstoffgruppe von Funktionen in Eco verbessern möchten. Die Spieler sollten Eindämmungen verwenden, um mit den enormen Mengen an Rückständen und Müll umzugehen, die ihre Gesellschaften produzieren.
