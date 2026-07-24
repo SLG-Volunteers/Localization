@@ -3667,6 +3667,30 @@ Przyjęcia kończą się, gdy gospodarz kliknie „Zakończ”, po upływie wyzn
         <source xml:space="preserve">Settlement Property Settings</source>
         <target state="needs-translation" state-qualifier="leveraged-mt">Ustawienia nieruchomości osady</target>
       </trans-unit>
+      <trans-unit id="445">
+        <source xml:space="preserve">The Four Layers</source>
+      </trans-unit>
+      <trans-unit id="446">
+        <source xml:space="preserve">
+Soil Pollution is the waste of everyday life: {MixedGarbageItem}, trash and sewage. It is the mildest of the four, and the only one that always cleans itself in time, however high it has climbed.
+
+Heavy Mineral Pollution comes from mining and mineral processing, above all {TailingsItem} and {WetTailingsItem}. It only self-cleans up to 100%. Past that the ground is saturated and will never recover on its own.
+
+Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and the chemical byproducts of advanced crafting. It is by far the least forgiving, plateauing at a mere 30%. Let a claim climb past that and it stays poisoned until you treat it.
+
+Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. It evaporates steadily on its own, but only cutting emissions keeps it from coming back.
+</source>
+      </trans-unit>
+      <trans-unit id="447">
+        <source xml:space="preserve">Remediation</source>
+      </trans-unit>
+      <trans-unit id="448">
+        <source xml:space="preserve">
+Land that has already been poisoned can be treated. Decontaminants are consumables applied to a claim much like fertilizer: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. Each dose queues an amount of cleanup that drains into the ground over the following day, and doses stack, so a badly contaminated claim can be treated in bulk.
+
+Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Potency falls as the pollutant grows nastier, and cost rises to meet it: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
+</source>
+      </trans-unit>
     </body>
   </file>
 </xliff>
