@@ -17,6 +17,7 @@ Account Managers can change the users in both the manager list and the user list
 
 In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
         <target xml:space="preserve" state="translated">은행 이용자는 계좌를 통해 거래(화폐를 입금 또는 송금)를 할 수 있습니다.
+
 계좌 관리자는 이용자의 목록과 관리자의 목록을 관리하며, 계좌의 이름을 바꾸거나, 거래를 주관할 수 있습니다.
 
 이후 설정을 통하여, 정부의 회계장부를 개설할 수 있습니다. 해당 계좌는 세금을 걷거나 사용하는 데 쓰이며, 세금 징수에서 제외되고, 개개인의 재산 조회의 대상이 되지 않습니다. 해당 계좌를 개설하려면, [Elected Title|Elected Titles]를 가진, 정부의 은행 업무 권한이 있는 플레이어여야만 합니다.</target>
@@ -403,6 +404,7 @@ The Civic Object Component allows citizens to propose, amend, and repeal various
 Title Users are the citizens considered title holders and receive all associated benefits and conditions.
 	</source>
         <target xml:space="preserve" state="translated">직위 관리자는 직위의 이름을 변경하고 새로운 관리자를 임명할 수 있는 직위의 보유자입니다.
+
 직위 관리자는 일반적인 직위 사용자와 구분되어 있습니다. 직위 사용자는 해당 직위를 보유하고 있는 주민으로, 직위를 유지하기 위해 조건을 지켜야 하며, 혜택을 받을 수 있습니다.
 	</target>
       </trans-unit>
@@ -460,6 +462,7 @@ Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title
 Treasury management also includes the option to dump currency from the Treasury account. This will remove the currency permanently, so be careful when using this ability on backed currencies.
 	  </source>
         <target xml:space="preserve" state="translated">'국고에서 세금을 설정할 권리'를 가지고 있는 공직자는 주민들에게 직접 세금을 거두거나 자금을 지원할 수 있습니다. 이 기능을 이용해 사용하고자 하는 화폐와 어떤 주민에게 직접세를 적용할 것인지 선택할 수 있습니다. 공직자는 어째서 이렇게 적용했는지 모든 주민이 볼 수 있게 그 이유를 알려주어야 합니다.
+	  
 국고 관리에선 국고 계좌에서 화폐를 삭제할 수 있는 권한이 있습니다. 이 기능을 사용하면 해당 화폐는 영구적으로 삭제되니, 담보 화폐의 경우 이 기능을 사용할 때 주의를 기울여야 합니다.
 	  </target>
       </trans-unit>
@@ -502,6 +505,7 @@ All placed objects have authorization components.
   
 (This feature is disabled by default on dedicated servers to prevent accelerating time when users are offline, but can be enabled by a server administrator.)</source>
         <target xml:space="preserve" state="translated">침대는 모든 주민이 동시에 사용 중(또는 접속하지 않았을 때)일 때 시간을 가속할 수 있게 됩니다.
+
 (해당 기능은 기본적으로 단독서버 '관리자 없이도 구동되는 서버' 에서는 해제되어 있습니다, 하지만 서버 관리자가 해당 기능을 사용 설정할 수 있습니다.)</target>
       </trans-unit>
       <trans-unit id="65" xml:space="preserve">
