@@ -1658,7 +1658,7 @@ A constitution contains civic articles which define how the government functions
 Laws determine rules and processes that all citizens are compelled to follow.  A {SmallCourtItem} can hold up to 2 laws and a {LargeCourtItem} up to 5. 
 </source>
         <target xml:space="preserve" state="translated">{Laws}
-Законы определяют правила и процессы, которым обязаны следовать все жители. {CourtItem} вмещает в себе до 3 законов. 
+Законы определяют правила и процессы, которым обязаны следовать все жители. {SmallCourtItem} вмещает в себе 2, а {LargeCourtItem} до 5 законов. 
 </target>
       </trans-unit>
       <trans-unit id="199" xml:space="preserve">
