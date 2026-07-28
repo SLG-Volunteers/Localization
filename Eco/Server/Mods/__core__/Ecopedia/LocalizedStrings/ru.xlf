@@ -2750,7 +2750,7 @@ Once a {Constitution} is passed, new government policies are contained as Civic 
         <target xml:space="preserve" state="translated">
 После ратификации {Конституции|Constitution}, новая политика Правительства формируется из 'Гражданских объектов' создаваемых в различных Правительственных структурах. Каждая Правительственная структура содержит свой тип гражданских объектов:
 
-- {Laws} в {CourtItem}
+- {Laws} в {SmallCourtItem} или {LargeCourtItem}
 - {Demographics} в {CensusBureauItem}
 - {Districts} в {ZoningOfficeItem}
 - {Elected Titles} в {GovernmentOfficeItem}
