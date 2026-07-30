@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit id="9" xml:space="preserve">
         <source xml:space="preserve">Reputations</source>
-        <target xml:space="preserve" state="translated">명성</target>
+        <target xml:space="preserve" state="translated">평판</target>
       </trans-unit>
       <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">Use Waste</source>
