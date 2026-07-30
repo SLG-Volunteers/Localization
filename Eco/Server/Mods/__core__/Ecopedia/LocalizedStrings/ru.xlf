@@ -126,14 +126,14 @@ When selecting "None" for the currency in a store, direct trades are possible wi
 
 Objects with a {Crafting Component} can define a fee for authorized citizens to use them. The settings in the Credit Component will determine what currency that fee is charged in and what account the funds are deposited to.
   </source>
-        <target xml:space="preserve" state="needs-translation">
-При выборе {Bank Accounts}, житель может выбрать любой счёт к которому у него есть доступ (выполняется в {Bank Component}).
+        <target xml:space="preserve" state="translated">
+При выборе {Bank Accounts}, житель может выбрать любой счёт к которому у него есть доступ (выполняется в {Bank Component}). По умолчанию будет выбран персональный счет жителя.
 
-Любая мировая {Currencies|Currency} может быть выбрана в разделе кредита. Эта валюта которая будет использоваться для любых операций происходят на этом объекте (например {Store|Store Component} будет принимать любую валюту, указанную здесь). 
+Любая мировая {Currency} может быть выбрана в разделе кредита. Эта валюта которая будет использоваться для любых операций происходят на этом объекте (например {Store|Store Component} будет принимать любую валюту, указанную здесь). 
 
-Когда выбирается 'Отсутствует' для валюты в магазине, возможен прямой обмен без валюты.
+Когда вкачестве валюты в магазине выбирается 'Отсутствует' , возможен прямой обмен без валюты (бартер).
 
-Объекты имеющие компонент изготовления могут быть использованны за плату если житель авторизован в нем. Компонент кредит позволяет указать какая Валюта будет взыматься, в каокм количестве и на какой счет в банке будут зачисляться денедные средства.
+Объекты имеющие {Crafting Component}  могут быть использованны за плату если житель авторизован в нем. Компонент кредит позволяет указать какая Валюта будет взыматься, в каокм количестве и на какой счет в банке будут зачисляться денедные средства.
   </target>
       </trans-unit>
       <trans-unit id="13" xml:space="preserve">
@@ -1888,8 +1888,8 @@ Many types of power generation exist, and each has different fuel needs as well 
       <trans-unit id="221" xml:space="preserve">
         <source xml:space="preserve">
   Land can be claimed as property by using a {Land Claim Stake|ClaimToolItem} and targeting an unclaimed plot of land.  When targeted, a {Settlement Claim Stake|SettlementProperty} will be planted, and the citizen will become the owner on the deed. The property at your current position can be seen in the world panel in the bottom right of the screen, and clicking the title will open the deed.</source>
-        <target xml:space="preserve" state="translated">
-  Земля может быть занята как собственность с помощью {|Property Tool Item} выбирая не занятый участок земли. Когда выбор сделан тратится {|Property Claim Item} и житель становится собственником права на собственность. Собственность в вашей текущей позиции можно увидеть на панели мира в правом нижнем углу экрана. Клик на названии собственности откроет окно прав.</target>
+        <target xml:space="preserve" state="needs-translation">
+  Земля может быть занята как собственность с помощью {Land Claim Stake|ClaimToolItem} выбирая не занятый участок земли. Когда выбор сделан тратится {Settlement Claim Stake|SettlementProperty} и житель становится собственником права на собственность. Собственность в вашей текущей позиции можно увидеть на панели мира в правом нижнем углу экрана. Клик на названии собственности откроет окно прав.</target>
       </trans-unit>
       <trans-unit id="222" xml:space="preserve">
         <source xml:space="preserve">Object Property Rights</source>
@@ -3377,8 +3377,8 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Поселение может быть создано группой граждан для формирования правительства в пределах своей зоны {влияния}.
+        <target xml:space="preserve" state="translated">
+    Поселение может быть создано группой граждан для формирования правительства в пределах своей зоны {Influence}.
   </target>
       </trans-unit>
       <trans-unit id="409" xml:space="preserve">
@@ -3429,10 +3429,10 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Гражданство — это членство в поселении, которое дает гражданские права. Чем больше граждан в поселении, тем больше {Собственности поселения} оно может получить.
+        <target xml:space="preserve" state="needs-translation">
+    Гражданство — это членство в поселении, которое дает гражданские права. Чем больше граждан в поселении, тем больше {Settlement Property} оно может получить.
 
-    Каждое поселение может предоставить гражданство списку людей на вкладке {CitizenRosterComponent} объекта-основателя.   Неграждане также могут подать здесь заявку на гражданство, которая должна быть одобрена Утверждающим лицом, которое задается в настройках {Иммиграционная политика} и по умолчанию является лидером поселения.  Кроме того, все граждане любых подпоселений автоматически становятся гражданами родительского поселения (т. е. граждане каждого города в стране также являются гражданами этой страны).
+    Каждое поселение может предоставить гражданство списку людей на вкладке {CitizenRosterComponent} объекта-основателя.   Неграждане также могут подать здесь заявку на гражданство, которая должна быть одобрена Утверждающим лицом, которое задается в настройках {Immigration Policy} и по умолчанию является лидером поселения.  Кроме того, все граждане любых подпоселений автоматически становятся гражданами родительского поселения (т. е. граждане каждого города в стране также являются гражданами этой страны).
 
     Игроки, у которых уже есть усадьба, могут с помощью {HomesteadSupportClaimPaperItem} легко присоединиться к поселениям, разместив в своей усадьбе соответствующее количество документов на право владения этим поселением.
   </target>
@@ -3539,8 +3539,8 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    У поселения могут быть свои правила в отношении новых граждан, определенные в {Иммиграционной политике}.
+        <target xml:space="preserve" state="translated">
+    У поселения могут быть свои правила в отношении новых граждан, определенные в {Immigration Policy}.
 
     Каждое поселение всегда имеет одну связанную с ним Иммиграционную политику.  Она начинается как встроенный объект в Поселении с настройками по умолчанию, которые позволяют лидеру утверждать новых граждан, и отображается в подсказках поселения.  Как только {ImmigrationDeskItem} размещается в зоне влияния этого Поселения, эту политику можно редактировать.
 
@@ -3691,8 +3691,9 @@ Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and t
 Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. It evaporates steadily on its own, but only cutting emissions keeps it from coming back.
 </source>
       </trans-unit>
-      <trans-unit id="447">
+      <trans-unit id="447" xml:space="preserve">
         <source xml:space="preserve">Remediation</source>
+        <target state="translated">Очистка</target>
       </trans-unit>
       <trans-unit id="448">
         <source xml:space="preserve">
