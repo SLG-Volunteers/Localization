@@ -1360,10 +1360,10 @@ As citizens burn fuel to cook or generate power, smelt metals, process sewage, a
 
 To ensure the survival of ecosystems and preserve resources like soil and water, players have to manage and contain the sources of pollution their civilization creates. Some spills and dangerous concentrations are inevitable, and when they happen containment, storage and remediation are what return the land to an unharmed state.
 </source>
-        <target xml:space="preserve" state="needs-translation">
+        <target xml:space="preserve" state="translated">
 À medida que os cidadãos queimam combustível para cozinhar ou gerar energia, fundir metais, processar esgoto e se envolver em inúmeras outras atividades industriais necessárias, um subproduto comum é a poluição. A poluição é qualquer substância que pode atuar como contaminante ou veneno quando reintroduzida no meio ambiente. Em Eco, existem muitas fontes e variedades de poluição, algumas das quais mais potentes do que outras. Os metais pesados podem contaminar o solo, afetando os nutrientes disponíveis e a saúde das plantas e animais que vivem nele. A água pode espalhar contaminantes rapidamente e aumentar o tamanho de seu impacto. A poluição do ar pode vazar de forma invisível ou óbvia de um fogão ou usina de energia, aumentando os gases do efeito estufa e afetando a qualidade do ar, bem como cair de volta no solo como chuva ácida. 
 
-Para garantir a sobrevivência dos ecossistemas e preservar recursos como solo e água, os jogadores terão que gerenciar e conter as fontes de poluição que sua civilização cria. Em alguns casos, derramamentos ou concentrações mortais serão inevitáveis e, então, a remediação e o armazenamento podem ser a única opção para devolver a terra a um estado ileso. 
+Para garantir a sobrevivência dos ecossistemas e preservar recursos como solo e água, os jogadores precisam gerenciar e conter as fontes de poluição que sua civilização cria. Alguns derramamentos e concentrações mortais são inevitáveis, e quando ocorrem, remediação e armazenamento são o que devolvem a terra para um estado ileso.
 </target>
       </trans-unit>
       <trans-unit id="168" xml:space="preserve">
@@ -1378,8 +1378,12 @@ Waste that a machine has just produced is granted a day of grace before it begin
 
 The Ground Pollution map you can call up shows the sum of the four layers, spread outward from every contaminated claim. Plumes fall off with the square of the distance and they add together, so three neighbouring claims at 100% read, from a distance, exactly like a single claim at 300%. Their reach grows with the square root of the value: ten times the pollution carries about three times as far. A poisoned claim is never a private problem for long.
 </source>
-        <target xml:space="preserve" state="needs-translation">
-Uma vez liberados no solo e no lençol freático, os poluentes do solo não são fáceis de parar ou remover. Vários materiais em Eco são fontes de poluição do solo, principalmente rejeitos de mineração e lixo de fabricação e outras atividades do jogador. A poluição se espalha como um gradiente que aumenta em concentração com o tempo se a fonte de poluentes permanece ou aumenta. Quando a fonte de poluentes é removida do contato com o solo, a poluição do solo se espalha e se dissipa com o tempo.
+        <target xml:space="preserve" state="translated">
+A poluição no solo é monitorada reinvidicação por reinvidicação, em quatro camadas separadas: Solo, Metal Pesado, Químico e Chuva Ácida. Todo bloco poluente no mundo incrementa um valor fixo de 0.1 para a camada que ele faz parte, ou seja, dez blocos de {TailingsItem} levarão a contagem de Poluição por Metal Pesado daquela reinvidicação para 100%. As camadas não avançam para esse valor de uma vez, elas convergem para isso em aproximadamente três dias, então um derramamento leva tempo para mostrar seu efeito completo, e mais tempo para desaparecer após você ter lidado com ele. Apenas o posicionamento horizontal do resíduo importa. Enterrá-lo não muda nada.
+
+O resíduo que uma máquina acabou de produzir recebe um dia de tolerância antes de começar a poluir, o que é tempo suficiente para levá-lo para um separador ou armazenamento adequado. O resíduo que não foi produzido mas foi simplesmente jogado no mundo passa a poluir a partir do momento em que toca o solo.
+
+O mapa de Poluição do Solo que você pode abrir mostra a soma das quatro camadas, distribuídas a partir de cada reinvidicação contamidada. As plumas de poluição diminuem de intensidade de acordo com o quadrado da distância, e elas se somam, então três reinvidicações com 100% de poluição são lidos, à distância, exatamente como uma única reinvidicação em 300% de poluição. O alcance deles aumenta de acordo com a raíz quadrada do valor: dez vezes mais poluição faz com que ela alcance aproximadamente três vezes mais longe. Uma reinvidicação poluída nunca permanece como um problema privado por muito tempo.
 </target>
       </trans-unit>
       <trans-unit id="170" xml:space="preserve">
@@ -1392,11 +1396,10 @@ Many player activities create harmful emissions which if released into the atmos
 
 Where a plume of air pollution meets rainfall, it comes back down as acid rain and feeds the Acid Rain layer of whatever ground lies beneath it. Emissions are therefore never only an air problem: an unfiltered smokestack slowly sours the land downwind of it.
 </source>
-        <target xml:space="preserve" state="needs-translation">
-Muitas atividades do jogador podem criar emissões prejudiciais que, se liberadas na atmosfera, atuam como poluição do ar. Trabalhar em objetos com saídas de CO2 ou operar geradores irá contribui para os níveis de poluição locais e globais. Durante longos períodos de tempo, os níveis globais de CO2 contribuem para um efeito de aquecimento global que, por sua vez, afeta o nível do mar. Existem sumidouros e entradas naturais de alguns poluentes como o CO2, um bom exemplo são as florestas.
+        <target xml:space="preserve" state="translated">
+Muitas atividades do jogador criam emissões prejudiciais que, se liberadas na atmosfera, atuam como poluição do ar. Trabalhar em objetos com saídas de CO2 ou operar geradores irá contribui para os níveis de poluição locais e globais. Durante longos períodos de tempo, os níveis globais de CO2 contribuem para um efeito de aquecimento global que, por sua vez, afeta o nível do mar. Existem sumidouros e entradas naturais de alguns poluentes como o CO2, um bom exemplo são as florestas.
 
-
-As concentrações de poluição do ar voltarão ao solo como chuva ácida, que simulamos usando a poluição do ar e as quantidades locais de chuva. 
+Onde uma pluma de poluição do ar encontra a chuva, ela retorna ao solo na forma de chuva ácida, alimentando a camada de Chuva Ácida de qualquer terreno abaixo. Por isso, as emissões nunca são apenas um problema do ar: uma chaminé sem filtros vai, aos poucos, acidificando o solo na direção do vento.
 </target>
       </trans-unit>
       <trans-unit id="172" xml:space="preserve">
