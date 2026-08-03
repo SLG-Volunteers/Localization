@@ -221,7 +221,7 @@ All new citizens who qualify (based on how long they have played) can collect th
 The owner may designate what items are to be distributed, how many of each item, and how recently the citizen must have joined the world to be eligible.
   </source>
         <target xml:space="preserve" state="translated">
-(プレイ時間に基づいて) 資格を得たすべての新しい市民は、[DistributionStationItem] にアクセスしてアイテムを収集できます。 新しい市民は世界に入ると、アイテムが入手可能であることを通知する世界地図マーカーから始まります。 新しい住民がアイテムを収集できるように、配布するアイテムを[Storage Component] に保管しておかなければならないことに注意してください。
+（プレイ時間に基づいて）資格を得たすべての新しい市民は、[DistributionStationItem] にアクセスしてアイテムを収集できます。 新しい市民はワールドに入ると、マップ上でアイテムが入手可能であることを知らせるワールドマーカーを見ることができます。 新しい市民がアイテムを受け取ることができるように、配布するアイテムを[Storage Component] に保管しておいてください。
 
 所有者は、どのアイテムを配布するか、各アイテムの数、および資格を得るために市民が世界に参加したのがどのくらい最近であるかを指定できます。
   </target>
@@ -434,7 +434,7 @@ Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title
       </trans-unit>
       <trans-unit id="52" xml:space="preserve">
         <source xml:space="preserve">The Treasury Component allows {Elected Titles} that have been granted the right to 'Set Taxes at the Treasury' to adjust the tax rate and select the World Default Currency.</source>
-        <target xml:space="preserve" state="translated">財務コンポーネントを使用すると、「財務省で税金を設定する」権利を付与された [Elected Titles] が税率を調整し、世界のデフォルト通貨を選択できるようになります。</target>
+        <target xml:space="preserve" state="translated">財務コンポーネントを使用すると、「財務省で税金を設定する」権利を付与された [Elected Titles] が税率を調整し、ワールドのデフォルト通貨を選択できるようになります。</target>
       </trans-unit>
       <trans-unit id="53" xml:space="preserve">
         <source xml:space="preserve">Taxes</source>
@@ -446,11 +446,11 @@ Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title
       </trans-unit>
       <trans-unit id="55" xml:space="preserve">
         <source xml:space="preserve">World Default Currency</source>
-        <target xml:space="preserve" state="translated">世界の既定の通貨</target>
+        <target xml:space="preserve" state="translated">ワールドのデフォルト通貨</target>
       </trans-unit>
       <trans-unit id="56" xml:space="preserve">
         <source xml:space="preserve">The World Default Currency is the default {Currency} used when placing a new object that contains the Credit Component. Citizens can still choose to use any currency in a {Trade}, but having a World Default Currency makes it is easier to establish an economy with a common currency.</source>
-        <target xml:space="preserve" state="translated">世界標準通過 は、クレジットコンポーネントを含む新しいオブジェクトを配置するときに使用されるデフォルトの [Currency] です。 市民は引き続き [Trade] で任意の通貨を使用することを選択できますが、世界の標準通貨があることで、共通の通貨を使用した経済を確立することが容易になります。</target>
+        <target xml:space="preserve" state="translated">ワールドのデフォルト通貨は、クレジットコンポーネントを含む新しいオブジェクトを配置するときに使用されるデフォルトの [Currency] です。 市民は引き続き [Trade] で任意の通貨を使用することを選択できますが、ワールドのデフォルト通貨があることで、共通の通貨を使用した経済を確立することが容易になります。</target>
       </trans-unit>
       <trans-unit id="57" xml:space="preserve">
         <source xml:space="preserve">Direct Taxes</source>
@@ -468,7 +468,7 @@ Treasury management also includes the option to dump currency from the Treasury 
       </trans-unit>
       <trans-unit id="59" xml:space="preserve">
         <source xml:space="preserve"> Allows citizens holding an Elected Title with tax permission to set taxes and select the World Default Currency.</source>
-        <target xml:space="preserve" state="translated"> 納税権限を持つ選出称号を保持している市民が税金を設定し、世界のデフォルト通貨を選択できるようにします。</target>
+        <target xml:space="preserve" state="translated"> 納税権限を持つ選出称号を保持している市民が税金を設定し、ワールドのデフォルト通貨を選択できるようにします。</target>
       </trans-unit>
       <trans-unit id="60" xml:space="preserve">
         <source xml:space="preserve">Components related to housing.</source>
@@ -665,7 +665,7 @@ Pipes can be used to redirect the flow of the air pollution. The pipes containin
 Objects that emit smog pollution only pollute when the object is active. 
 	</source>
         <target xml:space="preserve" state="translated">
-スモッグ出力ツールチップをチェックすることで、市民は現在のオブジェクトの汚染出力と世界の [Pollution] レベルに関する追加情報を見つけることができます。
+スモッグ出力ツールチップをチェックすることで、市民は現在のオブジェクトの汚染出力とワールドの [Pollution] レベルに関する追加情報を見つけることができます。
 
 パイプを使用すると、大気汚染の流れを変えることができます。 スモッグ出力を含むパイプには複数の入力を含めることができますが、すべての部屋の外側でオブジェクトの上に開いた端を 1 つだけ持つ必要があります。
 
@@ -941,7 +941,7 @@ Eco には、裏付けのある通貨と裏付けのない通貨の2種類があ
   
 裏付けのない通貨は、不換紙幣による通貨で、すべてのプレイヤーは、無限にある自分だけの通貨を持ってスタートします。これは、共通の通貨が指定されていないゲーム序盤では特に便利です。 しかし、これらの通貨は、その所有者がその価値を操作していないという多くの信頼を必要とします。
 
-裏付け通貨はより安定しています。裏付け通貨は[Mint|Mint Component] で、通貨を支える材料をコインに変換して作られます。 より多くの通貨を作るには、指定された材料をより多く取得する必要があります。 これによって、世界に導入できる通貨の量が大幅に制限され、世界貿易の基盤が強化されます。 多くの場合、ワールドは個人通貨のコレクションから、ゲームの進捗を通じて経済が成長し、よりグローバルな貿易と協力が必要になるにつれて、1つまたは複数の裏付け通貨に移行することを選択します。
+裏付け通貨はより安定しています。裏付け通貨は[Mint|Mint Component] で、通貨を支える材料をコインに変換して作られます。 より多くの通貨を作るには、指定された材料をより多く取得する必要があります。 これによって、ワールドに導入できる通貨の量が大幅に制限され、世界貿易の基盤が強化されます。 多くの場合、ワールドは個人通貨のコレクションから、ゲームの進捗を通じて経済が成長し、よりグローバルな貿易と協力が必要になるにつれて、1つまたは複数の裏付け通貨に移行することを選択します。
   
 通貨は[Trade] だけでなく、エコノミー・ビューワーでも他者に譲渡することができます。 すべての通貨は[Bank Account|Bank Accounts] に保管されます。
 </target>
@@ -1076,7 +1076,7 @@ Building roads between villages and resource caches will take time and the effor
       </trans-unit>
       <trans-unit id="135" xml:space="preserve">
         <source xml:space="preserve">With resources and their usage spread out across the world, transforming the world by building transportation infrastructure becomes necessary.</source>
-        <target xml:space="preserve" state="translated">資源とその利用先が世界中に分散しているため、輸送インフラの構築による世界の変革が必要になっています。</target>
+        <target xml:space="preserve" state="translated">資源とその利用先がワールド内に分散しているため、輸送インフラを構築しワールドを変革する必要があります。</target>
       </trans-unit>
       <trans-unit id="136" xml:space="preserve">
         <source xml:space="preserve">A Work Party is an agreement among multiple citizens to perform work.  They are started by an individual citizen by visiting a {Contract Board|Contract Board Component} after creating a work order.
@@ -1122,7 +1122,7 @@ Ecoの経済は物の取引だけでなく労働力の取引にも重点を置�
       </trans-unit>
       <trans-unit id="138" xml:space="preserve">
         <source xml:space="preserve">The living biome of the world, providing resources which humans must use to survive.</source>
-        <target xml:space="preserve" state="translated">人類が生き残るために使用しなければならない資源を提供する、世界の生きた生物群系。</target>
+        <target xml:space="preserve" state="translated">ワールド内のバイオームは人類が生き残るために使用しなければならない資源を提供する。</target>
       </trans-unit>
       <trans-unit id="139" xml:space="preserve">
         <source xml:space="preserve">
@@ -1133,9 +1133,9 @@ Biomes are ecosystems within the global ecosystem, and within biomes there are s
 Climate change may shift the boundaries of biomes, displacing communities-- some species will survive and adapt, but others will not be so resilient. Direct displacement of soil and other habitat destruction from activities like construction, farming, mining, and logging will also have an impact on species within biomes to differing degrees. Species of plants or animals might not only prefer particular biomes, but particular parts of sub-biomes, which will mean a greater impact if those highly localized areas are altered or destroyed. Resilient and adaptive species will be able to thrive across biome boundaries as they are altered, but those same species may become a threat to more sensitive plants or animals in the new biomes they are introduced to.
  </source>
         <target xml:space="preserve" state="translated">
-惑星上の生物の多様性と豊かさは、バイオームと呼ばれる地域に大別できる。Ecoにおけるバイオームとは、降水量と気温が特定の範囲にある世界の地域のことである。このような物理的な違いをシミュレートすることで、微生物、植物、菌類、動物の異なる種が、異なるバイオームで生き残り、繁栄することができるのです。Ecoの各バイオームには固有の資源があり、プレイヤーはそれを発見し、採取して、自分たちの社会を構築し、燃料を供給することができます。各バイオーム内の生物群集は、通常、生息地、食事、土壌に関連した相互依存関係にあり、これらは、気候や地球資源の存在によって発生します。
+惑星上の生物の多様性と豊かさは、バイオームと呼ばれる地域に大別できる。Ecoにおけるバイオームとは、ワールド内での降水量と気温が異なる特定地域のことである。このような物理的な違いをシミュレートすることで、微生物、植物、菌類、動物の異なる種が、異なるバイオームで生き残り、繁栄することができるのです。Ecoの各バイオームには固有の資源があり、プレイヤーはそれを発見し、採取して、自分たちの社会を構築し、燃料を供給することができます。各バイオーム内の生物群集は、通常、生息地、食事、土壌に関連した相互依存関係にあり、これらは、気候や地球資源の存在によって発生します。
   
-バイオームは地球生態系の中の生態系であり、バイオーム内には、高地砂漠、高草原草原、ツンドラの氷河、海洋海岸など、さらなる区分や「サブバイオーム」が存在することもある。バイオームとサブバイオームは連続した単位であり、その多くは、隣接するバイオームやその中に存在できるバイオームについて制限を持っている。時間の経過とともに、プレイヤーの影響によって条件が変化すると、バイオームは根本的に形を変える可能性がある。
+バイオームは星全体の生態系の中にある生態系であり、バイオーム内には、高地砂漠、高草原草原、ツンドラの氷河、海洋海岸など、さらなる区分や「サブバイオーム」が存在することもある。バイオームとサブバイオームは連続した単位であり、その多くは、隣接するバイオームやその中に存在できるバイオームについて制限を持っている。時間の経過とともに、プレイヤーの影響によって条件が変化すると、バイオームは根本的に形を変える可能性がある。
 
 気候変動によってバイオーム（生物群）の境界が変わり、コミュニティが移動する可能性がある。建設、農業、採鉱、伐採などの活動による土壌の直接的な移動、その他の生息地の破壊も、バイオマス内の種に程度の差こそあれ影響を与えるだろう。動植物の種は特定のバイオームを好むだけでなく、サブバイオームの特定の部分を好むかもしれない。回復力があり適応力のある種は、バイオームの境界が変更されても、その境界を越えて繁栄することができるだろうが、同じ種が新たに導入されたバイオームでは、より敏感な動植物にとって脅威となるかもしれない。
  </target>
@@ -1215,7 +1215,7 @@ Eco worlds are varied places, with many different biomes and locations of human 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 </source>
         <target xml:space="preserve" state="translated">
-Ecoの世界は変化に富んだ場所であり、さまざまなバイオームが存在し、人間による開発や環境への影響が見られる場所があります。世界のさまざまな場所がどのように変化するかを見るために、ゲーム内のすべてのさまざまな世界効果についてヒートマップが用意されています。 市民活動、人口率、汚染率、気温、湿度など、さまざまな数値をヒートマップで見ることができ、経時変化を記録して再生したり、科学的な議論に利用したりすることができます。
+Ecoの世界は変化に富んでおり、さまざまなバイオームが存在し、人間による開発や環境への影響が見られる場所があります。ワールド内のさまざまな場所がどのように変化するかを見るために、ゲーム内のすべてのさまざまな世界効果についてヒートマップが用意されています。 市民活動、人口率、汚染率、気温、湿度など、さまざまな数値をヒートマップで見ることができ、経時変化を記録して再生したり、科学的な議論に利用したりすることができます。
 
 プレイヤーは2つの方法でこれらを見ることができます：1つはゲーム内のミニマップを通して、2つ目は、ウェブブラウザで閲覧する方法で、時間経過とともに再生される機能が利用されます。各ヒートマップのスナップショットは10分ごとにサーバーデータに保存され（設定可能）、市民はヒートマップが時間とともにどのように変化していくかを時間経過で見ることができる。 これは、特定の場所における影響を測定し、インフラやニュース、居住地を建設するための最適なルートを決定するために不可欠となります。
 </target>
