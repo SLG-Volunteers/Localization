@@ -3677,10 +3677,11 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
         <source xml:space="preserve">Settlement Property Settings</source>
         <target xml:space="preserve" state="translated">Настройки участков Поселений</target>
       </trans-unit>
-      <trans-unit id="445">
+      <trans-unit id="445" xml:space="preserve">
         <source xml:space="preserve">The Four Layers</source>
+        <target state="translated">Типы загрязнений</target>
       </trans-unit>
-      <trans-unit id="446">
+      <trans-unit id="446" xml:space="preserve">
         <source xml:space="preserve">
 Soil Pollution is the waste of everyday life: {MixedGarbageItem}, trash and sewage. It is the mildest of the four, and the only one that always cleans itself in time, however high it has climbed.
 
@@ -3690,6 +3691,15 @@ Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and t
 
 Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. It evaporates steadily on its own, but only cutting emissions keeps it from coming back.
 </source>
+        <target state="needs-translation">
+Загрязнение почвы — это отходы повседневной жизни: {MixedGarbageItem} и {Sewage}. Данный вид загрязнения самоочищаемый не зависимо от уровня загрязнения.
+
+Загрязнение тяжёлыми металлами возникает в результате добычи и переработки полезных ископаемых в которых образуются {TailingsItem} и {WetTailingsItem}. Самоочищение происходит только до 100%. После этого почва никогда не восстановится самостоятельно.
+
+Химическое Загрязнение - это индикатор тяжелой промышленности, исходящее от {ChemicalWasteItem} и химических побочных продуктов при изготовлении высокотехнологичных продуктов. Если показатель загрязнения превысит значение в 30% то для его устранения потребуется вмешательство.
+
+Кислотные осадки - это загрязнение, которое нельзя избежать. В местах где загрязнение воздуа встречается с осадками выпадают кислотные дожди, которые оседают на поверхности земли.
+</target>
       </trans-unit>
       <trans-unit id="447" xml:space="preserve">
         <source xml:space="preserve">Remediation</source>
