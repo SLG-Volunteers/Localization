@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="0" xml:space="preserve">
         <source xml:space="preserve">Components related to the economy.</source>
-        <target xml:space="preserve" state="translated">Composantes liées à l'économie.</target>
+        <target xml:space="preserve" state="translated">Composants liés à l'économie.</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
@@ -3082,7 +3082,7 @@ Lorsqu'un citoyen devient résident d'une propriété, il obtient un ensemble sp
       </trans-unit>
       <trans-unit id="353" xml:space="preserve">
         <source xml:space="preserve">Exhaustion is a server configuration to restrict maximum playtime per day.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Exhaustion est une configuration de serveur qui limite le temps de jeu maximal par jour.</target>
+        <target xml:space="preserve" state="translated">L'épuisement est une configuration de serveur qui limite le temps de jeu maximal par jour.</target>
       </trans-unit>
       <trans-unit id="354" xml:space="preserve">
         <source xml:space="preserve">
@@ -3180,7 +3180,7 @@ Pour devenir résident d’une propriété, clique sur le nom de la propriété 
       </trans-unit>
       <trans-unit id="364" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Configuration requise</target>
+        <target xml:space="preserve" state="translated">Prérequis</target>
       </trans-unit>
       <trans-unit id="365" xml:space="preserve">
         <source xml:space="preserve">
@@ -3240,19 +3240,19 @@ Note que le type de colonie a son importance : une colonie ne peut annexer que 
       </trans-unit>
       <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres d'annexion</target>
+        <target xml:space="preserve" state="translated">Paramètre des annexions</target>
       </trans-unit>
       <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Participer à des dîners permettra de générer de la culture pour ta colonie, ainsi qu'un bonus de compétence pour ta nutrition. C'est un moyen précieux d'augmenter la génération de culture dans le monde en créant des liens entre les citoyens autour de repas partagés.
+        <target xml:space="preserve" state="translated">
+    Participer à des dîners permettra d'accroître la culture de votre colonie et vous apportera un bonus de compétence en nutrition. C'est un moyen efficace d'augmenter la culture du monde en créant des liens entre les citoyens autour d'un repas partagé.
   </target>
       </trans-unit>
       <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Configuration requise</target>
+        <target xml:space="preserve" state="translated">Prérequis</target>
       </trans-unit>
       <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
@@ -3276,7 +3276,7 @@ Note que le type de colonie a son importance : une colonie ne peut annexer que 
       </trans-unit>
       <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Originalité</target>
+        <target xml:space="preserve" state="translated">Fraicheur</target>
       </trans-unit>
       <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
@@ -3290,7 +3290,7 @@ Note que le type de colonie a son importance : une colonie ne peut annexer que 
       </trans-unit>
       <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bonus</target>
+        <target xml:space="preserve" state="needs-translation">Bonus</target>
       </trans-unit>
       <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
@@ -3312,7 +3312,7 @@ Note que le type de colonie a son importance : une colonie ne peut annexer que 
       </trans-unit>
       <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Avantages</target>
+        <target xml:space="preserve" state="translated">Bénéfices</target>
       </trans-unit>
       <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
@@ -3340,7 +3340,7 @@ Les dîners se terminent lorsque l'hôte clique sur « Terminer », ou après le
       </trans-unit>
       <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres du dîner</target>
+        <target xml:space="preserve" state="translated">Paramètre des diners</target>
       </trans-unit>
       <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
@@ -3358,17 +3358,17 @@ Les dîners se terminent lorsque l'hôte clique sur « Terminer », ou après le
         <source xml:space="preserve">
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-    Une colonie peut être créée par un groupe de citoyens pour mettre en place un gouvernement dans ses zones d'{influence}.
+        <target xml:space="preserve" state="translated">
+    Une colonie peut être fondée par un groupe de citoyens afin d'instaurer un gouvernement sur son territoire d'{influence}
   </target>
       </trans-unit>
       <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Il y a trois niveaux de colonies :</target>
+        <target xml:space="preserve" state="translated">Il y a trois niveaux de colonies :</target>
       </trans-unit>
       <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Les villes sont des regroupements de citoyens.</target>
+        <target xml:space="preserve" state="needs-translation">Les villes sont des regroupements de citoyens.</target>
       </trans-unit>
       <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
@@ -3376,7 +3376,7 @@ Les dîners se terminent lorsque l'hôte clique sur « Terminer », ou après le
       </trans-unit>
       <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Les fédérations sont des regroupements de pays, de villes et de citoyens.</target>
+        <target xml:space="preserve" state="needs-translation">Les fédérations sont des regroupements de pays, de villes et de citoyens.</target>
       </trans-unit>
       <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
@@ -3456,7 +3456,7 @@ Les dîners se terminent lorsque l'hôte clique sur « Terminer », ou après le
       </trans-unit>
       <trans-unit id="422" xml:space="preserve">
         <source xml:space="preserve">Cultural Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Paramètres culturels</target>
+        <target xml:space="preserve" state="needs-translation">Paramètres culturels</target>
       </trans-unit>
       <trans-unit id="423" xml:space="preserve">
         <source xml:space="preserve">
@@ -3468,7 +3468,7 @@ Les dîners se terminent lorsque l'hôte clique sur « Terminer », ou après le
       </trans-unit>
       <trans-unit id="424" xml:space="preserve">
         <source xml:space="preserve">Founding Requirements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Conditions de création</target>
+        <target xml:space="preserve" state="needs-translation">Conditions de création</target>
       </trans-unit>
       <trans-unit id="425" xml:space="preserve">
         <source xml:space="preserve">The Citizen who places the foundation will become the first leader of the town, and be given some special privileges, but this position can change over time depending on the rules of the government.
