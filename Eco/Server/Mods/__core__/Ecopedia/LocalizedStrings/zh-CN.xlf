@@ -3239,10 +3239,11 @@ Dinner parties will end when the host clicks 'Finish', or after the designated t
         <source xml:space="preserve">Settlement Property Settings</source>
         <target xml:space="preserve" state="translated">定居点地产设定</target>
       </trans-unit>
-      <trans-unit id="445">
+      <trans-unit id="445" xml:space="preserve">
         <source xml:space="preserve">The Four Layers</source>
+        <target state="translated">四层</target>
       </trans-unit>
-      <trans-unit id="446">
+      <trans-unit id="446" xml:space="preserve">
         <source xml:space="preserve">
 Soil Pollution is the waste of everyday life: {MixedGarbageItem}, trash and sewage. It is the mildest of the four, and the only one that always cleans itself in time, however high it has climbed.
 
@@ -3252,16 +3253,31 @@ Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and t
 
 Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. It evaporates steadily on its own, but only cutting emissions keeps it from coming back.
 </source>
+        <target state="translated">
+土壤污染源于日常生活中的废弃物：{混合垃圾项目}、垃圾和污水。这是四种污染中程度最轻的一种，也是唯一一种无论污染程度多高，总能及时自行净化的一种。
+
+重金属污染源于采矿和矿物加工，主要是{尾矿项目}和{湿尾矿项目}。其自净率最高可达100%。一旦超过这一阈值，土壤便会饱和，永远无法自行恢复。
+
+化学污染是重工业的标志，源自{化学废弃物项目}以及高级工艺生产的化学副产品。这是迄今为止最难以修复的污染类型，自净率仅能稳定在30%。若开采区污染程度超过这一阈值，该区域将持续受污染，直至你进行处理。
+
+酸雨污染是唯一无法人为倾倒的污染层：它是自然降落的。当空气污染与降雨相遇时，便会形成酸雨并沉积在下方土壤中。虽然它会自行持续蒸发，但唯有减少排放才能防止其再次出现。
+</target>
       </trans-unit>
-      <trans-unit id="447">
+      <trans-unit id="447" xml:space="preserve">
         <source xml:space="preserve">Remediation</source>
+        <target state="translated">修复</target>
       </trans-unit>
-      <trans-unit id="448">
+      <trans-unit id="448" xml:space="preserve">
         <source xml:space="preserve">
 Land that has already been poisoned can be treated. Decontaminants are consumables applied to a claim much like fertilizer: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. Each dose queues an amount of cleanup that drains into the ground over the following day, and doses stack, so a badly contaminated claim can be treated in bulk.
 
 Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Potency falls as the pollutant grows nastier, and cost rises to meet it: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
 </source>
+        <target state="translated">
+已经受到污染的土地可以进行处理。去污剂是消耗品，其使用方式与施肥类似：{土壤去污剂项目}用于土壤，{重金属去污剂项目}用于重金属，{化学去污剂项目}用于化学污染。每次使用都会触发一定量的净化效果，该效果会在随后的一天内逐渐渗入地下；且使用次数可叠加，因此严重污染的矿区可以批量处理。
+
+此外，净化也是唯一能突破某层自洁上限的方法。如果某矿区的重金属污染率超过100%，或化学污染率超过30%，否则该污染将无限期持续存在，无论污染源是否已被清除。随着污染物毒性的加剧，净化效果会下降，而成本也会相应上升：堆肥和泥土用于净化土壤，粘土和煤炭用于吸附重金属，而铁和煤炭则是所有化学中和剂的组成部分。清理重工业造成的污染本就应该代价高昂。不进行清理的后果将更加严重。
+</target>
       </trans-unit>
     </body>
   </file>
