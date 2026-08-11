@@ -1013,7 +1013,7 @@ Strafen für die Nichteinhaltung von Krediten können mit [Laws] konstruiert wer
       <trans-unit id="127" xml:space="preserve">
         <source xml:space="preserve">Each player can affect the Reputation of any other player, which can in turn be used as a factor in laws, contracts, etc, which may query a citizens reputation and determine privileges (or lack thereof) based on the value). To set reputation on a citizen, hover over their name in chat and click their reputation listing in the tooltip (a list of all citizens can be found on the page {Current Citizens}).
 </source>
-        <target xml:space="preserve" state="needs-translation">Jeder Spieler kann den Ruf eines anderen Spielers beeinflussen, was wiederum als Faktor in Gesetzen, Verträgen usw. verwendet werden kann, die den Ruf eines Bürgers abfragen und Privilegien (oder deren Fehlen) basierend auf dem Wert bestimmen. Um den Ruf eines Bürgers einzustellen, bewege den Mauszeiger über seinen Namen im Chat und klicke auf den Rufeintrag im Tooltip (eine Liste aller Bürger findest du auf der Seite [Current Citizens]).
+        <target xml:space="preserve" state="translated">Jeder Spieler kann den Ruf jedes anderen Spielers beeinflussen, was wiederum als Faktor in Gesetzen, Verträgen usw. verwendet werden kann, die den Ruf eines Bürgers abfragen und darauf basierend Privilegien (oder deren Fehlen) bestimmen. Um den Ruf eines Bürgers einzustellen, bewege den Mauszeiger über seinen Namen im Chat und klicke auf den Rufeintrag im Tooltip (eine Liste aller Bürger findest du auf der Seite [Current Citizens]).
 </target>
       </trans-unit>
       <trans-unit id="128" xml:space="preserve">
@@ -3674,10 +3674,11 @@ Dinnerpartys enden, wenn der Gastgeber auf „Beenden“ klickt, nach Ablauf der
         <source xml:space="preserve">Settlement Property Settings</source>
         <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Einstellungen für Siedlungseigentum</target>
       </trans-unit>
-      <trans-unit id="445">
+      <trans-unit id="445" xml:space="preserve">
         <source xml:space="preserve">The Four Layers</source>
+        <target state="translated">Die vier Ebenen</target>
       </trans-unit>
-      <trans-unit id="446">
+      <trans-unit id="446" xml:space="preserve">
         <source xml:space="preserve">
 Soil Pollution is the waste of everyday life: {MixedGarbageItem}, trash and sewage. It is the mildest of the four, and the only one that always cleans itself in time, however high it has climbed.
 
@@ -3687,16 +3688,31 @@ Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and t
 
 Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. It evaporates steadily on its own, but only cutting emissions keeps it from coming back.
 </source>
+        <target state="translated">
+Bodenverschmutzung ist der Alltägliche Abfall: {MixedGarbageItem}, Müll und Abwasser. Sie ist die mildeste der vier und die einzige die sich über Zeit selbst reinigt, egal wie hoch sie gestiegen ist.
+
+Schwere Mineralverschmutzung entsteht durch Bergbau und Mineralverarbeitung, vor allem durch {TailingsItem} und {WetTailingsItem}. Sie baut sich nur bis 100% ab. Darüber hinaus ist der Boden gesättigt und erholt sich nie wieder von allein.
+
+Chemische Verschmutzung ist ein Kennzeichen der Schwerindustrie und stammt aus {ChemicalWasteItem} und den chemischen Nebenprodukten fortschrittlicher Herstellung. Sie ist mit Abstand die am wenigsten Verzeihende und stagniert bei gerade einmal 30%. Lässt du einen Claim darüber steigen, bleibt er vergiftet, bis du in behandelst.
+
+Saurer Regen Verschmutzung ist die eine Ebene, die du nie abkippst: Sie fällt herab. Wo Luftverschmutzung auf Regen trifft, entsteht saurer Regen und setzt sich in den Boden darunter ab. Sie verdunstet stetig von alleine, aber nur eine Senkung der Emissionen verhindert, dass sie zurückkehrt.
+</target>
       </trans-unit>
-      <trans-unit id="447">
+      <trans-unit id="447" xml:space="preserve">
         <source xml:space="preserve">Remediation</source>
+        <target state="translated">Sanierung</target>
       </trans-unit>
-      <trans-unit id="448">
+      <trans-unit id="448" xml:space="preserve">
         <source xml:space="preserve">
 Land that has already been poisoned can be treated. Decontaminants are consumables applied to a claim much like fertilizer: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. Each dose queues an amount of cleanup that drains into the ground over the following day, and doses stack, so a badly contaminated claim can be treated in bulk.
 
 Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Potency falls as the pollutant grows nastier, and cost rises to meet it: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
 </source>
+        <target state="translated">
+Bereits vergiftetes Land kann behandelt werden. Dekontaminationsmittel sind Verbrauchgüter, die ähnlich wie Dünger auf einen Claim angewendet werden: ein {SoilDecontaminantItem} für Boden, ein {HeavyMineralDecontaminantItem} für Schwermetalle und ein {ChemicalDecontaminantItem} für chemische Kontamination. Jede Dosis stellt eine Menge an Reinigung in die Warteschlange, die im Laufe des Tages in den Boden sickert, und Dosen stapeln sich, sodass ein stark kontaminierter Claim auch in großer Menge behandelt werden kann.
+
+Dekontamination ist außerdem das Einzige, was über die Selbstreinigung einer Ebene hinaus wirkt. Ein Claim über 100% Schwere Mineralverschmutzung oder über 30% Chemische Verschmutzung bleibt sonst unbegrenzt auf diesem Wert, egal ob die Quelle entfernt wurde oder nicht. Die Wirksamkeit sinkt, je übler der Schadstoff wird und die Kosten steigen entsprechend: Kompost und Erde reinigen den Boden, Ton und Kohle binden Schwermetalle und in jeden chemischen Neutralisator gehen Eisen und Kohle. Nach der Schwerindustire aufzuräumen soll teurer sein. Nicht aufzuräumen soll schlimmer sein.
+</target>
       </trans-unit>
     </body>
   </file>
