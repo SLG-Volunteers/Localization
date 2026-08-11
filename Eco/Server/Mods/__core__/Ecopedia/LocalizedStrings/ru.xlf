@@ -844,8 +844,14 @@ Inventory can be moved between containers by dragging stacks of items from one c
 - Holding 'Alt' while clicking a stack of items will move one of that item to/from the open storage container.
 - Holding 'Ctrl' + 'Alt' while clicking a stack of items will move all items of that type to/from the open storage container.
   </source>
-        <target xml:space="preserve" state="needs-translation">
-Объект можно связать с контейнерами во вкладке хранения, установив флажок для этого контейнера. После связывания объект получает доступ ко всем элементам в контейнерах и может использовать контейнер для хранения. При связывании контейнеров хранения первым для хранения будет использоваться самый верхний контейнер в компоненте хранения. Порядок можно изменить, щелкнув и перетащив дисплеи хранения в списке.
+        <target xml:space="preserve" state="translated">
+Инвентарь можно перемещать между контейнерами, перетаскивая стопки предметов из одного контейнера в другой. Достаточно просто нажать на стопку предметов, чтобы мгновенно переместить их в открытый контейнер для хранения или из него. Краткое описание расширенных горячих клавиш, описанных ниже, можно найти в нижней части всплывающей подсказки при просмотре предмета в контейнере для хранения:
+
+- удерживайте клавишу Shift, перетаскивая предметы между контейнерами, чтобы переместить все стопки с одним и тем же предметом.
+- удерживайте клавишу Shift, нажимая на стопку предметов, чтобы разделить её на части.
+- удерживайте клавишу Ctrl, нажимая на стопку предметов, чтобы переместить половину стопки в открытый контейнер для хранения или из него.
+- удерживайте клавишу Alt, нажимая на стопку предметов, чтобы переместить один предмет из стопки в открытый контейнер для хранения или из него.
+- удерживайте клавиши Ctrl + Alt, нажимая на стопку предметов, чтобы переместить все предметы этого типа в открытый контейнер для хранения или из него.
   </target>
       </trans-unit>
       <trans-unit id="109" xml:space="preserve">
@@ -904,14 +910,14 @@ The inputs and outputs can either be taken directly from the crafting table, or 
 
 Many recipes require labor of a specific {Skill|skills overview}.  While any citizen can start a crafting recipe or contribute ingredients, only a citizen with the required skills may add labor to it.  To form a group and have many citizens contribute to a work order while sharing in payment, {Work Parties} may be created.
   </source>
-        <target xml:space="preserve" state="needs-translation">
-Крафт - это создание новых продуктов из ингредиентов, рабочей силы и / или энергии. Крафт может также создавать побочные продукты, которые вызывают загрязнение и негативно влияют на окружающую среду. Он формирует основу экономики, генерируя спрос на ресурсы, поступающие из окружающей их экосистемы, а также спрос на индивидуальную квалифицированную рабочую силу и общие услуги, такие как {Power|Power Component} или {Sewage}.
+        <target xml:space="preserve" state="translated">
+Крафт — это создание новых продуктов из сырья, труда и/или энергии. Крафт также может производить побочные продукты, вызывающие загрязнение и негативно влияющие на окружающую среду. Он составляет основу экономики, порождая спрос на ресурсы, поступающие из окружающей экосистемы, а также спрос на квалифицированный труд отдельных граждан и на общие службы, такие как {Power|Power Component} или {Sewage}.
 
-Любой стол, содержащий компонент {Crafting Component}, может создавать продукты, определенные в списке. Столы крафта могут быть общими, каждый из которых имеет настраиваемую вкладку {Authorization Component}, который определяет, кто может получить к ним доступ, и оплата может быть установлена во вкладке {Credit Component} на столе, чтобы заработать деньги от совместного использования вашего стола.
+Любой стол, обладающий {Crafting Component}, может создавать продукты из заданного списка. Столы для крафта можно делать общими: у каждого есть настраиваемый {Authorization Component}, определяющий, кто может им пользоваться, а в {Credit Component} стола можно задать плату, чтобы зарабатывать на предоставлении доступа к своему столу.
 
-Входы и выходы крафта могут быть либо взяты непосредственно из стола крафта, либо помещены в прикрепленной вкладке {Storage Component}. Размещение ингредиентов и продуктов на складах позволяет гражданам выстраивать в очередь крупные заказы, которые выполняются автоматически.
+Ингредиенты и готовые продукты можно брать прямо со стола для крафта либо размещать в подключённом {Storage Component}. Размещение ингредиентов и продуктов в хранилище позволяет гражданам ставить в очередь крупные заказы, которые будут выполняться автоматически.
 
-Многие рецепты требуют труда определенного {Skill|skills overview}. В то время как любой гражданин может начать создавать рецепт или вносить ингредиенты, только гражданин с необходимыми навыками может добавить к нему рабочую силу. Чтобы сформировать группу и иметь много граждан, вносящих свой вклад в заказ на работу, разделяя при этом оплату, могут быть созданы {Work Parties}.
+Для многих рецептов требуется труд, связанный с определённым {Skill|skills overview}. Хотя любой гражданин может начать выполнение рецепта или предоставить ингредиенты, вносить труд может только гражданин с необходимыми навыками. Чтобы объединить группу и позволить нескольким гражданам вносить вклад в трудовой заказ, разделяя оплату, можно создавать {Work Parties}.
   </target>
       </trans-unit>
       <trans-unit id="117" xml:space="preserve">
@@ -1047,7 +1053,7 @@ Skill books are some of the most difficult items to create, and citizens will ty
       <trans-unit id="132" xml:space="preserve">
         <source xml:space="preserve">Todo
 </source>
-        <target xml:space="preserve" state="needs-translation">К исполнению
+        <target xml:space="preserve" state="translated">К исполнению
 </target>
       </trans-unit>
       <trans-unit id="133" xml:space="preserve">
@@ -1356,12 +1362,14 @@ Smelting: Once you have precious ore concentrate, you can at last smelt it into 
       </trans-unit>
       <trans-unit id="167" xml:space="preserve">
         <source xml:space="preserve">
-As citizens burn fuel to cook or generate power, smelt metals, process sewage, and engage in countless other necessary industrial activities, a common byproduct is pollution. Pollution is any substance that can act as a contaminant or poison when introduced back into the environment. In Eco there are many sources and several varieties of pollution, some of which are more potent than others. Heavy metals can contaminate soil, affecting available nutrients and the health of plants and animals living on and in it. Water can spread contaminants rapidly and increase the size of their impact. Air pollution can pour invisibly or visibly from a stove or a power plant, adding to greenhouse gasses and impacting the air quality, as well as fall back down into the ground as acid rain. 
+As citizens burn fuel to cook or generate power, smelt metals, process sewage, and engage in countless other necessary industrial activities, a common byproduct is pollution. Pollution is any substance that can act as a contaminant or poison when introduced back into the environment. In Eco there are many sources and several varieties of pollution, some of which are more potent than others. Heavy metals can contaminate soil, affecting available nutrients and the health of plants and animals living on and in it. Water can spread contaminants rapidly and increase the size of their impact. Air pollution can pour invisibly or visibly from a stove or a power plant, adding to greenhouse gasses and impacting the air quality, as well as fall back down into the ground as acid rain.
 
-To ensure the survival of ecosystems and preserve resources like soil and water, players will have to manage and contain the sources of pollution their civilization creates. In some cases, spills or deadly concentrations will be inevitable, and then remediation and storage may be the only option to return the land to an unharmed state. 
+To ensure the survival of ecosystems and preserve resources like soil and water, players have to manage and contain the sources of pollution their civilization creates. Some spills and dangerous concentrations are inevitable, and when they happen containment, storage and remediation are what return the land to an unharmed state.
 </source>
-        <target xml:space="preserve" state="needs-translation">
-Поскольку граждане сжигают топливо для приготовления пищи или выработки электроэнергии, плавят металлы, обрабатывают сточные воды и занимаются бесчисленными другими необходимыми промышленными видами деятельности, общим побочным продуктом является загрязнение. Загрязнение - это любое вещество, которое может действовать как загрязнитель, когда оно выводится в окружающую среду. В Eco существует множество источников и несколько разновидностей загрязнений, некоторые из которых являются более мощными, чем другие. Загрязнения могут загрязнять почву, воздействуя на доступные питательные вещества и здоровье растений и животных, живущих на ней. Вода может быстро распространять загрязняющие вещества и увеличивать размер их воздействия. Загрязнение воздуха может исходить невидимо или очевидно из печей или электростанций, добавляясь к парниковым газам и влияя на качество воздуха, а также падать обратно на землю в виде загрязняющих дождей. 
+        <target xml:space="preserve" state="translated">
+Когда граждане сжигают топливо для приготовления пищи или выработки электроэнергии, выплавляют металлы, перерабатывают сточные воды и занимаются бесчисленным множеством других необходимых видов промышленной деятельности, побочным эффектом становится загрязнение окружающей среды. Загрязнение — это любое вещество, которое, попадая в окружающую среду, может стать ее вредителем или отравить ее. В игре Eco существует множество источников и разновидностей загрязнения, некоторые из которых более опасны, чем другие. Тяжелые металлы могут загрязнять почву, влияя на содержание питательных веществ и здоровье растений и животных, обитающих в почве и на ее поверхности. Вода может быстро распространять загрязняющие вещества и усиливать их воздействие. Загрязняющие вещества могут невидимо или явно выходить из печи или электростанции, увеличивая выбросы парниковых газов и ухудшая качество воздуха, а также выпадать в виде кислотных дождей.
+
+Чтобы обеспечить выживание экосистем и сохранить такие ресурсы, как почва и вода, игроки должны контролировать и ограничивать источники загрязнения, которые создает их цивилизация. Некоторые разливы и опасные концентрации загрязняющих веществ неизбежны, и в таких случаях их необходимо локализовать, изолировать и обезвредить, чтобы вернуть земле первозданный вид.
 </target>
       </trans-unit>
       <trans-unit id="168" xml:space="preserve">
@@ -1376,8 +1384,12 @@ Waste that a machine has just produced is granted a day of grace before it begin
 
 The Ground Pollution map you can call up shows the sum of the four layers, spread outward from every contaminated claim. Plumes fall off with the square of the distance and they add together, so three neighbouring claims at 100% read, from a distance, exactly like a single claim at 300%. Their reach grows with the square root of the value: ten times the pollution carries about three times as far. A poisoned claim is never a private problem for long.
 </source>
-        <target xml:space="preserve" state="needs-translation">
-Попадая в почву и грунтовые воды загрязнение не легко остановить или нейтрализовать. В Eco источниками загрязнения почвы являются различные материалы и в первую очередь отходы от добычи полезных ископаемых и мусор от их переработки и других действий игрока. Загрязнение распространяется как градиент, концентрация которого со временем увеличивается, если источник загрязнения захоронен или растет. При ликвидации источника загрязнение почвы с течением времени рассеивается.
+        <target xml:space="preserve" state="translated">
+Загрязнение почвы отслеживается по каждому участку в четыре отдельных слоя: почва, тяжелые металлы, химические вещества и кислотные дожди. Каждый загрязняющий блок, оставшийся в мире, добавляет 0,1 к слою, к которому он относится, поэтому десять блоков {TailingsItem}, расположенных на участке, доведут уровень загрязнения тяжелыми металлами на этом участке до 100 %. Загрязнение не достигает этого показателя сразу, а нарастает в течение примерно трех дней, поэтому требуется время, чтобы последствия разлива проявились в полной мере, и еще какое-то время, чтобы они сошли на нет после того, как вы с ними разберетесь. Значение имеет только горизонтальное расположение отходов. Захоронение отходов ничего не меняет.
+
+Отходы, которые только что произвела машина, получают отсрочку на один день, после чего начинают загрязнять окружающую среду. Этого времени достаточно, чтобы отвезти их на сортировочную установку или в специальный контейнер. Отходы, которые не были произведены, а просто выброшены в мир, загрязняют его с момента приземления.
+
+На карте загрязнения почвы, которую вы можете открыть, отображается сумма показателей по четырем слоям, распространяющаяся от каждого загрязненного участка. Загрязнение ослабевает пропорционально квадрату расстояния, и показатели суммируются, поэтому три соседних участка с уровнем загрязнения 100 % издалека выглядят как один участок с уровнем загрязнения 300 %. Их радиус действия увеличивается пропорционально квадратному корню из значения: в десять раз более загрязненный воздух распространяется примерно на три раза дальше. Отравленная претензия никогда не остается сугубо личной проблемой надолго.
 </target>
       </trans-unit>
       <trans-unit id="170" xml:space="preserve">
