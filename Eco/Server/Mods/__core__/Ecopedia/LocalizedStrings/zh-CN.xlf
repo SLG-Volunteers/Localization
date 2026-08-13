@@ -1239,7 +1239,7 @@ The Ground Pollution map you can call up shows the sum of the four layers, sprea
         <source xml:space="preserve">
 Many player activities create harmful emissions which if released into the atmosphere act as air pollution. Crafting at objects with CO2 outputs or running generators with them contributes to local and global pollution levels. Over long periods of time, global CO2 levels contributes to a global warming effect which affects sea level in turn. There are natural sinks and intakes for some pollutants like CO2 such as forests.
 
-Where a plume of air pollution meets rainfall, it comes back down as acid rain and feeds the Acid Rain layer of whatever ground lies beneath it. Emissions are therefore never only an air problem: an unfiltered smokestack slowly sours the land downwind of it.
+Where air pollution meets rainfall, it comes back down as acid rain and feeds the Acid Rain layer of the claim it was emitted on — which then spreads outward like any other ground pollution. Emissions are therefore never only an air problem: an unfiltered smokestack slowly sours the land around it, and a row of them sours it together.
 </source>
         <target xml:space="preserve" state="needs-translation">
 许多玩家的活动会产生有害的排放物，如果释放到大气中，则会产生空气污染。在具有二氧化碳输出的物体上进行手工制作或与它们一起运行发电机，都会造成局部和全球污染水平。在很长一段时间内，全球二氧化碳水平会导致全球变暖效应，进而影响海平面。有一些自然的汇和一些诸如二氧化碳之类的污染物的吸入口，例如森林。空气污染的浓度将以酸雨的形式回落到地面，我们使用空气污染和当地的降雨量进行模拟。 
@@ -1267,7 +1267,7 @@ Because open water only reflects its sources, there is nothing in it to scrub ou
       </trans-unit>
       <trans-unit id="175" xml:space="preserve">
         <source xml:space="preserve">
-Storing polluting material properly is the cheapest way to keep it out of the ground. A polluting block dumped in the open contributes its full amount, and so, be warned, does the same material sitting in an ordinary chest: only purpose-built containment holds anything back. A {GarbageStorageItem} keeps 90% of what it holds out of the soil, an {AdvancedGarbageStorageItem} 95%, and a {SealedGarbageStorageItem} 99%. None of them is perfect: a large enough dump will still poison the claim it stands on, however well it has been packed.
+Storing polluting material properly is the cheapest way to keep it out of the ground. A polluting block dumped in the open contributes its full amount, and so, be warned, so does the same material sitting in an ordinary chest: only purpose-built containment holds anything back. A {PrimitiveBinItem} keeps 20% of what it holds out of the soil, an {ModernGarbageBinItem} 60%, and a {DumpsterGarbageItem} 90%. None of them is perfect: a large enough dump will still poison the claim it stands on, however well it has been packed.
 
 Producing less waste to begin with is the other half of the answer. A {GarbageSorterItem} separates mixed garbage into materials that can be recycled and put back to use, and a {ResidualWasteSorterItem} does the same for the residuals of industry, leaving a smaller volume of genuinely unusable waste behind. Space must still be made for what remains, and where that space goes should be a deliberate decision of your society rather than an accident of where the carts stopped.
 </source>
@@ -3251,9 +3251,9 @@ Heavy Mineral Pollution comes from mining and mineral processing, above all {Tai
 
 Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and the chemical byproducts of advanced crafting. It is by far the least forgiving, plateauing at a mere 30%. Let a claim climb past that and it stays poisoned until you treat it.
 
-Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. It evaporates steadily on its own, but only cutting emissions keeps it from coming back.
+Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. How sour a claim gets depends on how much its chimneys emit and on how wet the region is — a blast furnace running day and night will hold its own claim at twice the full gauge in an average climate, but at a fifth of that in a desert, so where heavy industry goes is a decision worth making. It is also the one layer you never need to treat: it halves every six hours once the smokestacks go quiet, so cutting emissions is the whole answer.
 </source>
-        <target state="translated">
+        <target state="needs-translation">
 土壤污染源于日常生活中的废弃物：{混合垃圾项目}、垃圾和污水。这是四种污染中程度最轻的一种，也是唯一一种无论污染程度多高，总能及时自行净化的一种。
 
 重金属污染源于采矿和矿物加工，主要是{尾矿项目}和{湿尾矿项目}。其自净率最高可达100%。一旦超过这一阈值，土壤便会饱和，永远无法自行恢复。
@@ -3269,11 +3269,11 @@ Acid Rain Pollution is the one layer you never dump: it falls. Where air polluti
       </trans-unit>
       <trans-unit id="448" xml:space="preserve">
         <source xml:space="preserve">
-Land that has already been poisoned can be treated. Decontaminants are consumables applied to a claim much like fertilizer: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. Each dose queues an amount of cleanup that drains into the ground over the following day, and doses stack, so a badly contaminated claim can be treated in bulk.
+Land that has already been poisoned can be treated. Decontaminants are consumables applied much like fertilizer, on any block of a claim — bare ground, a road, or the floor of a factory: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. One unit cancels one unit of pollution source, doses stack, and half of what is waiting on an area takes effect every 24 hours, so a badly contaminated claim can be treated in bulk and left to soak.
 
-Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Potency falls as the pollutant grows nastier, and cost rises to meet it: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
+Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Every decontaminant cleans at the same rate, so the cost is what separates them: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
 </source>
-        <target state="translated">
+        <target state="needs-translation">
 已经受到污染的土地可以进行处理。去污剂是消耗品，其使用方式与施肥类似：{土壤去污剂项目}用于土壤，{重金属去污剂项目}用于重金属，{化学去污剂项目}用于化学污染。每次使用都会触发一定量的净化效果，该效果会在随后的一天内逐渐渗入地下；且使用次数可叠加，因此严重污染的矿区可以批量处理。
 
 此外，净化也是唯一能突破某层自洁上限的方法。如果某矿区的重金属污染率超过100%，或化学污染率超过30%，否则该污染将无限期持续存在，无论污染源是否已被清除。随着污染物毒性的加剧，净化效果会下降，而成本也会相应上升：堆肥和泥土用于净化土壤，粘土和煤炭用于吸附重金属，而铁和煤炭则是所有化学中和剂的组成部分。清理重工业造成的污染本就应该代价高昂。不进行清理的后果将更加严重。

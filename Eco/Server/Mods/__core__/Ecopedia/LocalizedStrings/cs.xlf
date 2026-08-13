@@ -1383,9 +1383,9 @@ Jakmile se znečišťující látky dostanou do půdy a podzemní vody, není sn
       </trans-unit>
       <trans-unit id="171" xml:space="preserve">
         <source xml:space="preserve">
-Many player activities can create harmful emissions which if released into the atmosphere act as air pollution. Crafting at objects with CO2 outputs or running generators with them contributes to local and global pollution levels. Over long periods of time, global CO2 levels contributes to a global warming effect which affects sea level in turn. There are natural sinks and intakes for some pollutants like CO2 such as forests.
+Many player activities create harmful emissions which if released into the atmosphere act as air pollution. Crafting at objects with CO2 outputs or running generators with them contributes to local and global pollution levels. Over long periods of time, global CO2 levels contributes to a global warming effect which affects sea level in turn. There are natural sinks and intakes for some pollutants like CO2 such as forests.
 
-Concentrations of air pollution will fall back to the ground as acid rain, which we simulate using the air pollution and local rainfall quantities. 
+Where air pollution meets rainfall, it comes back down as acid rain and feeds the Acid Rain layer of the claim it was emitted on — which then spreads outward like any other ground pollution. Emissions are therefore never only an air problem: an unfiltered smokestack slowly sours the land around it, and a row of them sours it together.
 </source>
         <target state="needs-translation" state-qualifier="leveraged-mt">
 Mnohé činnosti hráčů mohou vytvářet škodlivé emise, které při uvolnění do atmosféry působí jako znečištění ovzduší. Výroba předmětů s emisemi CO₂ nebo provozování generátorů s jejich využitím přispívá k místnímu i globálnímu znečištění. V dlouhodobém horizontu přispívají globální hladiny CO₂ k efektu globálního oteplování, který následně ovlivňuje hladinu moře. Pro některé znečišťující látky, jako je CO₂, existují přírodní pohlcovače a přijímače, například lesy.
@@ -1415,9 +1415,9 @@ Odstranění zdroje je v současné době jediným způsobem, jak zastavit zneč
       </trans-unit>
       <trans-unit id="175" xml:space="preserve">
         <source xml:space="preserve">
-In many cases, there is no perfect solution to deal with polluting materials. Space must be made to store various pollutants, and pollutants must be stored in a way that prevents them from re-entering the surrounding environment. This is a challenge that should be key to environmental management of industry in Eco. Currently tailings mechanics require deep underground storage; this will be improved with further development. 
+Storing polluting material properly is the cheapest way to keep it out of the ground. A polluting block dumped in the open contributes its full amount, and so, be warned, so does the same material sitting in an ordinary chest: only purpose-built containment holds anything back. A {PrimitiveBinItem} keeps 20% of what it holds out of the soil, an {ModernGarbageBinItem} 60%, and a {DumpsterGarbageItem} 90%. None of them is perfect: a large enough dump will still poison the claim it stands on, however well it has been packed.
 
-Containment mechanics are the forefront of features we want to improve related to the Pollution group of features in Eco. Players should be using containment to deal with the vast quantities of tailings and garbage that their societies produce.
+Producing less waste to begin with is the other half of the answer. A {GarbageSorterItem} separates mixed garbage into materials that can be recycled and put back to use, and a {ResidualWasteSorterItem} does the same for the residuals of industry, leaving a smaller volume of genuinely unusable waste behind. Space must still be made for what remains, and where that space goes should be a deliberate decision of your society rather than an accident of where the carts stopped.
 </source>
         <target state="needs-translation" state-qualifier="leveraged-mt">
 V mnoha případech neexistuje dokonalé řešení, jak naložit se znečišťujícími látkami. Je třeba zajistit prostor pro skladování různých znečišťujících látek a tyto látky musí být skladovány tak, aby se nemohly znovu dostat do okolního prostředí. To je výzva, která by měla být klíčová pro environmentální řízení průmyslu ve hře Eco. V současné době vyžaduje mechanika hlušiny skladování hluboko pod zemí; toto bude v rámci dalšího vývoje vylepšeno. 
@@ -3677,7 +3677,7 @@ Heavy Mineral Pollution comes from mining and mineral processing, above all {Tai
 
 Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and the chemical byproducts of advanced crafting. It is by far the least forgiving, plateauing at a mere 30%. Let a claim climb past that and it stays poisoned until you treat it.
 
-Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. It evaporates steadily on its own, but only cutting emissions keeps it from coming back.
+Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. How sour a claim gets depends on how much its chimneys emit and on how wet the region is — a blast furnace running day and night will hold its own claim at twice the full gauge in an average climate, but at a fifth of that in a desert, so where heavy industry goes is a decision worth making. It is also the one layer you never need to treat: it halves every six hours once the smokestacks go quiet, so cutting emissions is the whole answer.
 </source>
       </trans-unit>
       <trans-unit id="447">
@@ -3685,9 +3685,9 @@ Acid Rain Pollution is the one layer you never dump: it falls. Where air polluti
       </trans-unit>
       <trans-unit id="448">
         <source xml:space="preserve">
-Land that has already been poisoned can be treated. Decontaminants are consumables applied to a claim much like fertilizer: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. Each dose queues an amount of cleanup that drains into the ground over the following day, and doses stack, so a badly contaminated claim can be treated in bulk.
+Land that has already been poisoned can be treated. Decontaminants are consumables applied much like fertilizer, on any block of a claim — bare ground, a road, or the floor of a factory: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. One unit cancels one unit of pollution source, doses stack, and half of what is waiting on an area takes effect every 24 hours, so a badly contaminated claim can be treated in bulk and left to soak.
 
-Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Potency falls as the pollutant grows nastier, and cost rises to meet it: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
+Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Every decontaminant cleans at the same rate, so the cost is what separates them: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
 </source>
       </trans-unit>
     </body>

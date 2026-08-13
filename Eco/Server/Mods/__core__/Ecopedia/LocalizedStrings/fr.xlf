@@ -1377,7 +1377,7 @@ Une fois rejetés dans les sols et la nappe phréatique, les polluants du sol ne
         <source xml:space="preserve">
 Many player activities create harmful emissions which if released into the atmosphere act as air pollution. Crafting at objects with CO2 outputs or running generators with them contributes to local and global pollution levels. Over long periods of time, global CO2 levels contributes to a global warming effect which affects sea level in turn. There are natural sinks and intakes for some pollutants like CO2 such as forests.
 
-Where a plume of air pollution meets rainfall, it comes back down as acid rain and feeds the Acid Rain layer of whatever ground lies beneath it. Emissions are therefore never only an air problem: an unfiltered smokestack slowly sours the land downwind of it.
+Where air pollution meets rainfall, it comes back down as acid rain and feeds the Acid Rain layer of the claim it was emitted on — which then spreads outward like any other ground pollution. Emissions are therefore never only an air problem: an unfiltered smokestack slowly sours the land around it, and a row of them sours it together.
 </source>
         <target xml:space="preserve" state="needs-translation">
 De nombreuses activités des joueurs peuvent créer des émissions nocives qui, si elles sont rejetées dans l'atmosphère, agissent comme une pollution atmosphérique. Le fait de fabriquer des objets produisant du CO2 ou de faire fonctionner des générateurs avec ces objets contribue à la pollution locale et mondiale. Sur de longues périodes, les niveaux de CO2 globaux contribuent à un effet de réchauffement climatique qui affecte à son tour le niveau de la mer. Il existe des puits et des apports naturels pour certains polluants comme le CO2, comme les forêts.
@@ -1409,7 +1409,7 @@ L'élimination de la source est la seule façon de mettre fin à la pollution de
       </trans-unit>
       <trans-unit id="175" xml:space="preserve">
         <source xml:space="preserve">
-Storing polluting material properly is the cheapest way to keep it out of the ground. A polluting block dumped in the open contributes its full amount, and so, be warned, does the same material sitting in an ordinary chest: only purpose-built containment holds anything back. A {GarbageStorageItem} keeps 90% of what it holds out of the soil, an {AdvancedGarbageStorageItem} 95%, and a {SealedGarbageStorageItem} 99%. None of them is perfect: a large enough dump will still poison the claim it stands on, however well it has been packed.
+Storing polluting material properly is the cheapest way to keep it out of the ground. A polluting block dumped in the open contributes its full amount, and so, be warned, so does the same material sitting in an ordinary chest: only purpose-built containment holds anything back. A {PrimitiveBinItem} keeps 20% of what it holds out of the soil, an {ModernGarbageBinItem} 60%, and a {DumpsterGarbageItem} 90%. None of them is perfect: a large enough dump will still poison the claim it stands on, however well it has been packed.
 
 Producing less waste to begin with is the other half of the answer. A {GarbageSorterItem} separates mixed garbage into materials that can be recycled and put back to use, and a {ResidualWasteSorterItem} does the same for the residuals of industry, leaving a smaller volume of genuinely unusable waste behind. Space must still be made for what remains, and where that space goes should be a deliberate decision of your society rather than an accident of where the carts stopped.
 </source>
@@ -3670,9 +3670,9 @@ Heavy Mineral Pollution comes from mining and mineral processing, above all {Tai
 
 Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and the chemical byproducts of advanced crafting. It is by far the least forgiving, plateauing at a mere 30%. Let a claim climb past that and it stays poisoned until you treat it.
 
-Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. It evaporates steadily on its own, but only cutting emissions keeps it from coming back.
+Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. How sour a claim gets depends on how much its chimneys emit and on how wet the region is — a blast furnace running day and night will hold its own claim at twice the full gauge in an average climate, but at a fifth of that in a desert, so where heavy industry goes is a decision worth making. It is also the one layer you never need to treat: it halves every six hours once the smokestacks go quiet, so cutting emissions is the whole answer.
 </source>
-        <target state="translated">
+        <target state="needs-translation">
 La pollution des sols provient des déchets de la vie quotidienne : {MixedGarbageItem}, ordures et eaux usées. C'est la moins sévère des quatre, et la seule qui finit toujours par se résorber d'elle-même au fil du temps, quel que soit son niveau atteint.
 
 La pollution minérale lourde provient des activités minières et du traitement des minerais, principalement des {TailingsItem} et {WetTailingsItem}. Elle ne se résorbe naturellement que jusqu'à un seuil de 100 %. Au-delà, le sol est saturé et ne se régénérera jamais de lui-même.
@@ -3688,9 +3688,9 @@ La pollution par les pluies acides est la seule couche que vous ne déversez pas
       </trans-unit>
       <trans-unit id="448" xml:space="preserve">
         <source xml:space="preserve">
-Land that has already been poisoned can be treated. Decontaminants are consumables applied to a claim much like fertilizer: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. Each dose queues an amount of cleanup that drains into the ground over the following day, and doses stack, so a badly contaminated claim can be treated in bulk.
+Land that has already been poisoned can be treated. Decontaminants are consumables applied much like fertilizer, on any block of a claim — bare ground, a road, or the floor of a factory: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. One unit cancels one unit of pollution source, doses stack, and half of what is waiting on an area takes effect every 24 hours, so a badly contaminated claim can be treated in bulk and left to soak.
 
-Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Potency falls as the pollutant grows nastier, and cost rises to meet it: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
+Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Every decontaminant cleans at the same rate, so the cost is what separates them: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
 </source>
         <target state="needs-translation">
 Les terres déjà empoisonnées peuvent être traitées. Les décontaminants sont des consommables qui s'appliquent sur une concession tout comme de l'engrais : un {SoilDecontaminantItem} pour le sol, un {HeavyMineralDecontaminantItem} pour les métaux lourds et un {ChemicalDecontaminantItem} pour la contamination chimique. Chaque dose programme une quantité de nettoyage qui s'infiltre progressivement dans le sol au cours de la journée suivante ; les doses s'accumulent, ce qui permet de traiter une concession fortement contaminée en grande quantité.
