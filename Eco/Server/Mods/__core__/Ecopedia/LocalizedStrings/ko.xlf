@@ -2067,7 +2067,7 @@ You can see the spread of specialties that other citizens have chosen on the ski
       </trans-unit>
       <trans-unit id="239" xml:space="preserve">
         <source xml:space="preserve">Specialties can be gained by collecting Character Experience, and each specialty will unlock new unique abilities.</source>
-        <target xml:space="preserve" state="translated">특성은 캐릭터 레벨을 올려 획득할 수 있으며, 특성마다 고유한 효과를 해금 할 수 있습니다.</target>
+        <target xml:space="preserve" state="translated">특기는 캐릭터 레벨을 올려 획득할 수 있으며, 특기마다 고유한 효과를 해금 할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="240" xml:space="preserve">
         <source xml:space="preserve">Food, along with housing, is essential for increasing your skills.</source>
@@ -2228,8 +2228,8 @@ Below is a list of all professions and the corresponding specialties. Citizens c
   
 Experience in {SelfImprovementSkill} is gained anytime a citizen levels up another specialty. Self-improvement has two main benefits. As citizens progress, they will have increased carry weight capacity and a larger stomach capcity for extra calories. In addition, less calories are consumed when using hammers, shovels, and drills.
   </source>
-        <target xml:space="preserve" state="translated">Eco의 세계의 모든 주민은 생존 전문가 특성을 가지고 있습니다.
-[SelfImprovementSkill]의 경험치는 주민이 다른 특성을 레벨 업 시켰을 때 오르게 됩니다. 자기 개선에는 두 가지 주요 효과가 있습니다. 이는 주민이 성장해 가면서, 자신이 들 수 있는 무게의 한계가 늘어나고 위장의 크기가 늘어나 더 많은 칼로리를 비축할 수 있습니다. 또한, 망치, 삽, 착암기를 사용할 때 소모하는 칼로리의 양이 줄어듭니다.
+        <target xml:space="preserve" state="translated">Eco의 세계의 모든 주민은 생존 전문가 특기를 가지고 있습니다.
+{SelfImprovementSkill}의 경험치는 시민이 다른 특기를 레벨 업 시켰을 때 오르게 됩니다. 자기 개선에는 세 가지 주요 효과가 있습니다. 이는 주민이 성장해 가면서, 자신이 들 수 있는 무게의 한계가 늘어나고 위장의 크기가 늘어나 더 많은 칼로리를 비축할 수 있습니다. 또한, 망치, 삽, 착암기를 사용할 때 소모하는 칼로리의 양이 줄어듭니다.
   </target>
       </trans-unit>
       <trans-unit id="258" xml:space="preserve">
