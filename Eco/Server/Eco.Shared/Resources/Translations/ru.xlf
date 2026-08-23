@@ -7491,7 +7491,7 @@
       </trans-unit>
       <trans-unit id="WorldObject" xml:space="preserve">
         <source xml:space="preserve">WorldObject</source>
-        <target xml:space="preserve" state="translated">WorldObject</target>
+        <target xml:space="preserve" state="translated">Объект Мира</target>
       </trans-unit>
       <trans-unit id="No empty tilled blocks in range." xml:space="preserve">
         <source xml:space="preserve">No empty tilled blocks in range.</source>
@@ -13280,7 +13280,7 @@
       </trans-unit>
       <trans-unit id="Detect skills players have or lack." xml:space="preserve">
         <source xml:space="preserve">Detect skills players have or lack.</source>
-        <target xml:space="preserve" state="translated">Выявлять навыки, которыми обладают или нет игроки.</target>
+        <target xml:space="preserve" state="translated">Проверяет наличие или отсутствие указанных навыков у игроков.</target>
       </trans-unit>
       <trans-unit id="Which skills to consider." xml:space="preserve">
         <source xml:space="preserve">Which skills to consider.</source>
@@ -19629,7 +19629,7 @@
       </trans-unit>
       <trans-unit id="The citizen leveling up." xml:space="preserve">
         <source xml:space="preserve">The citizen leveling up.</source>
-        <target xml:space="preserve" state="translated">Уровень жителя повышается.</target>
+        <target xml:space="preserve" state="translated">Гражданин, повысивший свой уровень.</target>
       </trans-unit>
       <trans-unit id="The citizen's new level." xml:space="preserve">
         <source xml:space="preserve">The citizen's new level.</source>
@@ -19641,7 +19641,7 @@
       </trans-unit>
       <trans-unit id="The citizen planting the plant." xml:space="preserve">
         <source xml:space="preserve">The citizen planting the plant.</source>
-        <target xml:space="preserve" state="translated">Житель сажает растение.</target>
+        <target xml:space="preserve" state="translated">Житель, посадивший растение.</target>
       </trans-unit>
       <trans-unit id="Was the plant or animal destroyed or damaged?" xml:space="preserve">
         <source xml:space="preserve">Was the plant or animal destroyed or damaged?</source>
@@ -20538,7 +20538,7 @@
       </trans-unit>
       <trans-unit id="Send a custom notice to a set of people." xml:space="preserve">
         <source xml:space="preserve">Send a custom notice to a set of people.</source>
-        <target xml:space="preserve" state="translated">Отправить произвольное уведомление группе людей.</target>
+        <target xml:space="preserve" state="translated">Отправить заданное уведомление группе людей.</target>
       </trans-unit>
       <trans-unit id="The text to send." xml:space="preserve">
         <source xml:space="preserve">The text to send.</source>
@@ -20781,7 +20781,7 @@
       </trans-unit>
       <trans-unit id="World Object Item" xml:space="preserve">
         <source xml:space="preserve">World Object Item</source>
-        <target xml:space="preserve" state="translated">Мировой предмет</target>
+        <target xml:space="preserve" state="translated">Изготавливаемый объект мира</target>
       </trans-unit>
       <trans-unit id="Item Moved" xml:space="preserve">
         <source xml:space="preserve">Item Moved</source>
@@ -31690,7 +31690,7 @@
       </trans-unit>
       <trans-unit id="Required Of Office Holders" xml:space="preserve">
         <source xml:space="preserve">Required Of Office Holders</source>
-        <target xml:space="preserve" state="translated">Требуется от Должностных Лиц</target>
+        <target xml:space="preserve" state="translated">Требования к обладателям титула</target>
       </trans-unit>
       <trans-unit id="Required Level" xml:space="preserve">
         <source xml:space="preserve">Required Level</source>
@@ -32786,7 +32786,7 @@
       </trans-unit>
       <trans-unit id="Crafting Refund" xml:space="preserve">
         <source xml:space="preserve">Crafting Refund</source>
-        <target xml:space="preserve" state="translated">Возмещение крафта</target>
+        <target xml:space="preserve" state="translated">Возврат за создание предметов</target>
       </trans-unit>
       <trans-unit id="A person who is a resident on the property." xml:space="preserve">
         <source xml:space="preserve">A person who is a resident on the property.</source>
@@ -41956,11 +41956,11 @@
       </trans-unit>
       <trans-unit id="Mount Action" xml:space="preserve">
         <source xml:space="preserve">Mount Action</source>
-        <target xml:space="preserve" state="translated">Посадка в транспорт</target>
+        <target xml:space="preserve" state="translated">Садится в(на) объект.</target>
       </trans-unit>
       <trans-unit id="Mount an object." xml:space="preserve">
         <source xml:space="preserve">Mount an object.</source>
-        <target xml:space="preserve" state="translated">Сесть на объект.</target>
+        <target xml:space="preserve" state="translated">Садиться на объект.</target>
       </trans-unit>
       <trans-unit id="New Settlement" xml:space="preserve">
         <source xml:space="preserve">New Settlement</source>
@@ -44731,7 +44731,7 @@
       </trans-unit>
       <trans-unit id="Defines the type of property and what effects the rooms and furniture have. See Ecopedia." xml:space="preserve">
         <source xml:space="preserve">Defines the type of property and what effects the rooms and furniture have. See Ecopedia.</source>
-        <target xml:space="preserve" state="translated">Определяет тип собственности, и какой эффект дадут комнаты и мебель. Смотри Экопедию.</target>
+        <target xml:space="preserve" state="translated">Определяет тип собственности, и какой эффект дадут комнаты и мебель. Смотрите Экопедию.</target>
       </trans-unit>
       <trans-unit id="boostdeed" xml:space="preserve" translate="no">
         <source xml:space="preserve">boostdeed</source>
@@ -50007,7 +50007,7 @@
       </trans-unit>
       <trans-unit id="True if a given citizen is currently an owner on a given deed." xml:space="preserve">
         <source xml:space="preserve">True if a given citizen is currently an owner on a given deed.</source>
-        <target xml:space="preserve" state="translated">Значение true, если данный житель в данный момент является владельцем данного земельного участка.</target>
+        <target xml:space="preserve" state="translated">Значение Да , если проверяемый житель в данный момент является владельцем проверяемого земельного участка.</target>
       </trans-unit>
       <trans-unit id="Has Access" xml:space="preserve">
         <source xml:space="preserve">Has Access</source>
@@ -52245,7 +52245,7 @@
       </trans-unit>
       <trans-unit id="The bank account where the tax will be placed. Must specify a government account in the same jurisdiction." xml:space="preserve">
         <source xml:space="preserve">The bank account where the tax will be placed. Must specify a government account in the same jurisdiction.</source>
-        <target xml:space="preserve" state="translated">Банковский на который будут собираться налоги. Необходимо выбрать счет в той же юрисдикции.</target>
+        <target xml:space="preserve" state="translated">Банковский счет на который будут собираться налоги. Необходимо выбрать счет в той же юрисдикции.</target>
       </trans-unit>
       <trans-unit id="Holdings of this bank account will be used to perform the transfer. May only take from bank accounts associated with the same settlement (or child) of the jurisdiction." xml:space="preserve">
         <source xml:space="preserve">Holdings of this bank account will be used to perform the transfer. May only take from bank accounts associated with the same settlement (or child) of the jurisdiction.</source>
@@ -54466,7 +54466,7 @@
       </trans-unit>
       <trans-unit id="Fertilize Action" xml:space="preserve">
         <source xml:space="preserve">Fertilize Action</source>
-        <target xml:space="preserve" state="translated">Действие удобрения</target>
+        <target xml:space="preserve" state="translated">Добавление удобрений</target>
       </trans-unit>
       <trans-unit id="A citizen used fertilizer." xml:space="preserve">
         <source xml:space="preserve">A citizen used fertilizer.</source>
@@ -54474,7 +54474,7 @@
       </trans-unit>
       <trans-unit id="A citizen logged in for the first time. This action triggers laws for all founded settlements on the server." xml:space="preserve">
         <source xml:space="preserve">A citizen logged in for the first time. This action triggers laws for all founded settlements on the server.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Гражданин вошёл в систему впервые. Это действие запускает законы для всех основанных поселений на сервере.</target>
+        <target xml:space="preserve" state="translated">Гражданин вошёл в систему впервые. Это действие запускает законы для всех основанных поселений на сервере.</target>
       </trans-unit>
       <trans-unit id="Opening" xml:space="preserve">
         <source xml:space="preserve">Opening</source>
@@ -54486,7 +54486,7 @@
       </trans-unit>
       <trans-unit id="Is the door being opened?" xml:space="preserve">
         <source xml:space="preserve">Is the door being opened?</source>
-        <target xml:space="preserve" state="translated">Дверь открывается?</target>
+        <target xml:space="preserve" state="translated">Была ли открыта дверь?</target>
       </trans-unit>
       <trans-unit id="A door was opened or closed." xml:space="preserve">
         <source xml:space="preserve">A door was opened or closed.</source>
@@ -54683,7 +54683,7 @@
       </trans-unit>
       <trans-unit id="The bankAccount to test." xml:space="preserve">
         <source xml:space="preserve">The bankAccount to test.</source>
-        <target xml:space="preserve" state="needs-translation">Банковский счет для тестирования.</target>
+        <target xml:space="preserve" state="translated">Банковский счет для тестирования.</target>
       </trans-unit>
       <trans-unit id="Test if it matches the given bankAccount." xml:space="preserve">
         <source xml:space="preserve">Test if it matches the given bankAccount.</source>
@@ -54691,7 +54691,7 @@
       </trans-unit>
       <trans-unit id="Test a bankAccount is as expected." xml:space="preserve">
         <source xml:space="preserve">Test a bankAccount is as expected.</source>
-        <target xml:space="preserve" state="translated">Проверка, работает ли bankAccount так, как ожидается.</target>
+        <target xml:space="preserve" state="translated">Проверка банковского счета.</target>
       </trans-unit>
       <trans-unit id="Matches Demographic" xml:space="preserve">
         <source xml:space="preserve">Matches Demographic</source>
@@ -54703,7 +54703,7 @@
       </trans-unit>
       <trans-unit id="Triggers added to this list will be ignored when processing laws in the given list of child settlements." xml:space="preserve">
         <source xml:space="preserve">Triggers added to this list will be ignored when processing laws in the given list of child settlements.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Триггеры, добавленные в этот список, будут игнорироваться при обработке законов в данном списке дочерних поселений.</target>
+        <target xml:space="preserve" state="translated">События, добавленные в этот список, будут игнорироваться при обработке законов в данном списке дочерних поселений.</target>
       </trans-unit>
       <trans-unit id="Legal Actions added to this list will be ignored when processing laws in the given list of child settlements." xml:space="preserve">
         <source xml:space="preserve">Legal Actions added to this list will be ignored when processing laws in the given list of child settlements.</source>
@@ -56197,7 +56197,7 @@
       </trans-unit>
       <trans-unit id="Reputation Given To Deed" xml:space="preserve">
         <source xml:space="preserve">Reputation Given To Deed</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Репутация, присуждаемая за поступки</target>
+        <target xml:space="preserve" state="translated">Репутация выдана Владению</target>
       </trans-unit>
       <trans-unit id="Start the mapping at this value." xml:space="preserve">
         <source xml:space="preserve">Start the mapping at this value.</source>
@@ -56440,7 +56440,7 @@
       </trans-unit>
       <trans-unit id="Move/Stop elevator" xml:space="preserve">
         <source xml:space="preserve">Move/Stop elevator</source>
-        <target xml:space="preserve" state="translated">Вкл/выкл лифт</target>
+        <target xml:space="preserve" state="translated">Включение/остановка лифта</target>
       </trans-unit>
       <trans-unit id="Only triggers laws from settlements that the Citizen is a part of, or settlements (and their parents) holding the bank account." xml:space="preserve">
         <source xml:space="preserve">Only triggers laws from settlements that the Citizen is a part of, or settlements (and their parents) holding the bank account.</source>
@@ -62889,7 +62889,7 @@
       </trans-unit>
       <trans-unit id="What kind of thing was receiving the reputation?" xml:space="preserve">
         <source xml:space="preserve">What kind of thing was receiving the reputation?</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">За что же игра получила такую репутацию?</target>
+        <target xml:space="preserve" state="translated">Чему или кому выдана репутация?</target>
       </trans-unit>
       <trans-unit id="Triggers laws on settlements at the action location if available, otherwise on settlements that either Citizen is a part of." xml:space="preserve">
         <source xml:space="preserve">Triggers laws on settlements at the action location if available, otherwise on settlements that either Citizen is a part of.</source>
@@ -63092,7 +63092,7 @@
       </trans-unit>
       <trans-unit id="The list of triggers that will cause this law to activate.  If ANY is triggerd, it will trigger the law." xml:space="preserve">
         <source xml:space="preserve">The list of triggers that will cause this law to activate.  If ANY is triggerd, it will trigger the law.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Список триггеров, которые приведут к активации этого закона. Если сработает ЛЮБОЙ из них, закон вступит в силу.</target>
+        <target xml:space="preserve" state="translated">Список событий, которые приведут к активации этого закона. Если сработает ЛЮБОЙ из них, закон вступит в силу.</target>
       </trans-unit>
       <trans-unit id="power consumption" xml:space="preserve">
         <source xml:space="preserve">power consumption</source>
@@ -63367,7 +63367,7 @@
       </trans-unit>
       <trans-unit id="Vehicle busy already." xml:space="preserve">
         <source xml:space="preserve">Vehicle busy already.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Транспорт уже занят.</target>
+        <target xml:space="preserve" state="translated">Транспорт уже занят.</target>
       </trans-unit>
       <trans-unit id="Can handle only growing trees." xml:space="preserve">
         <source xml:space="preserve">Can handle only growing trees.</source>
@@ -63387,7 +63387,7 @@
       </trans-unit>
       <trans-unit id="Vehicle is busy." xml:space="preserve">
         <source xml:space="preserve">Vehicle is busy.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Транспорт в полном разгаре.</target>
+        <target xml:space="preserve" state="translated">Транспорт занят.</target>
       </trans-unit>
       <trans-unit id="Place in Vase" xml:space="preserve">
         <source xml:space="preserve">Place in Vase</source>
@@ -68482,7 +68482,7 @@ Place a nearby stockpile or chest to connect it.</source>
       <trans-unit id="Vehicle Attachments&#10;" xml:space="preserve">
         <source xml:space="preserve">Vehicle Attachments
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Навесное оборудование для транспортных средств
+        <target xml:space="preserve" state="translated">Навесное оборудование для транспортных средств
 </target>
       </trans-unit>
       <trans-unit id="&#10;Select a file from your computer to upload,&#10;Files can't be larger than specified in server config." xml:space="preserve">
@@ -69272,7 +69272,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Matches Citizen" xml:space="preserve">
         <source xml:space="preserve">Matches Citizen</source>
-        <target xml:space="preserve" state="translated">Соответствует категории «Гражданин»</target>
+        <target xml:space="preserve" state="translated">Проверка Гражданина</target>
       </trans-unit>
       <trans-unit id="Test if it matches one of the given citizens." xml:space="preserve">
         <source xml:space="preserve">Test if it matches one of the given citizens.</source>
@@ -69280,7 +69280,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Test a citizen is as expected." xml:space="preserve">
         <source xml:space="preserve">Test a citizen is as expected.</source>
-        <target xml:space="preserve" state="translated">Проверить, все ли работает как положено.</target>
+        <target xml:space="preserve" state="translated">Параметры проверки Гражданина.</target>
       </trans-unit>
       <trans-unit id="Citizen Bank Account" xml:space="preserve">
         <source xml:space="preserve">Citizen Bank Account</source>
@@ -69556,7 +69556,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="The position of the child settlement when the timer triggers." xml:space="preserve">
         <source xml:space="preserve">The position of the child settlement when the timer triggers.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Положение детского поселения в момент срабатывания таймера.</target>
+        <target state="translated">Местоположение дочернего поселения в момент срабатывания таймера.</target>
       </trans-unit>
       <trans-unit id="An effect that is run on each child settlement of the law's settlement at intervals." xml:space="preserve">
         <source xml:space="preserve">An effect that is run on each child settlement of the law's settlement at intervals.</source>
@@ -71504,8 +71504,9 @@ Ctrl - x100</target>
         <source xml:space="preserve"><ph id="0">{0}</ph> (<ph id="1">{1}</ph> base at <ph id="2">{2}</ph> operating efficiency)</source>
         <target state="translated"><ph id="0">{0}</ph> (<ph id="1">{1}</ph> из-за эффективности, сниженной до <ph id="2">{2}</ph>)</target>
       </trans-unit>
-      <trans-unit id="customized">
+      <trans-unit id="customized" xml:space="preserve">
         <source xml:space="preserve">customized</source>
+        <target state="translated">настраиваемый</target>
       </trans-unit>
       <trans-unit id="Allowed Items" xml:space="preserve" translate="no">
         <source xml:space="preserve">Allowed Items</source>
@@ -72769,14 +72770,16 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Copied {0} to clipboard.">
         <source xml:space="preserve">Copied <ph id="0">{0}</ph> to clipboard.</source>
       </trans-unit>
-      <trans-unit id="Cannot paste {0} into a list of {1}.">
+      <trans-unit id="Cannot paste {0} into a list of {1}." xml:space="preserve">
         <source xml:space="preserve">Cannot paste <ph id="0">{0}</ph> into a list of <ph id="1">{1}</ph>.</source>
+        <target state="translated">Невозможно вставить <ph id="0">{0}</ph> в список <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="There is nothing to copy in this entry.">
         <source xml:space="preserve">There is nothing to copy in this entry.</source>
       </trans-unit>
-      <trans-unit id="Your clipboard is empty.">
+      <trans-unit id="Your clipboard is empty." xml:space="preserve">
         <source xml:space="preserve">Your clipboard is empty.</source>
+        <target state="translated">Ваш буфер обмена пуст.</target>
       </trans-unit>
       <trans-unit id="{0}: ignoring a {1} target of {2} slots, keeping the current inventory size.">
         <source xml:space="preserve"><ph id="0">{0}</ph>: ignoring a <ph id="1">{1}</ph> target of <ph id="2">{2}</ph> slots, keeping the current inventory size.</source>
@@ -73058,17 +73061,20 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve">Shows one food per taste preference for a player (self if no player given).</source>
         <note>Help text for chat command /tastes</note>
       </trans-unit>
-      <trans-unit id="The item dropped/picked up.">
+      <trans-unit id="The item dropped/picked up." xml:space="preserve">
         <source xml:space="preserve">The item dropped/picked up.</source>
+        <target state="translated">Предмет брошен/поднят.</target>
       </trans-unit>
-      <trans-unit id="Pollution Removed">
+      <trans-unit id="Pollution Removed" xml:space="preserve">
         <source xml:space="preserve">Pollution Removed</source>
+        <target state="translated">Удалённое загрязнение</target>
       </trans-unit>
       <trans-unit id="Decontaminate">
         <source xml:space="preserve">Decontaminate</source>
       </trans-unit>
-      <trans-unit id="Units of pollution source the decontaminant will cancel, drained into the ground over the following days.">
+      <trans-unit id="Units of pollution source the decontaminant will cancel, drained into the ground over the following days." xml:space="preserve">
         <source xml:space="preserve">Units of pollution source the decontaminant will cancel, drained into the ground over the following days.</source>
+        <target state="translated">Сколько единиц загрязнения устранит нейтрализатор, проникая в землю в последующие дни.</target>
       </trans-unit>
       <trans-unit id="A citizen applied a decontaminant to the ground." xml:space="preserve">
         <source xml:space="preserve">A citizen applied a decontaminant to the ground.</source>
@@ -73458,8 +73464,9 @@ Population after: <ph id="5">{5}</ph></source>
       <trans-unit id="Removed duplicate {0} from {1} at {2}, state merged into {3}.">
         <source xml:space="preserve">Removed duplicate <ph id="0">{0}</ph> from <ph id="1">{1}</ph> at <ph id="2">{2}</ph>, state merged into <ph id="3">{3}</ph>.</source>
       </trans-unit>
-      <trans-unit id="Only {0} can change this project's ingredient restrictions.">
+      <trans-unit id="Only {0} can change this project's ingredient restrictions." xml:space="preserve">
         <source xml:space="preserve">Only <ph id="0">{0}</ph> can change this project's ingredient restrictions.</source>
+        <target state="translated">Только <ph id="0">{0}</ph> может задавать настройки используемых ингредиентов в этом заказе.</target>
       </trans-unit>
       <trans-unit id="Module slot '{0}' of {1} isn't exposed by this table anymore (slot unregistered or excluded by the table's module allow-list). Its module is preserved but hidden until the slot comes back.">
         <source xml:space="preserve">Module slot '<ph id="0">{0}</ph>' of <ph id="1">{1}</ph> isn't exposed by this table anymore (slot unregistered or excluded by the table's module allow-list). Its module is preserved but hidden until the slot comes back.</source>
