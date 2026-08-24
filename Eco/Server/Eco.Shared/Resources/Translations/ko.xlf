@@ -23017,7 +23017,7 @@
       </trans-unit>
       <trans-unit id="Pluggable Modules" xml:space="preserve">
         <source xml:space="preserve">Pluggable Modules</source>
-        <target xml:space="preserve" state="translated">설치형 모듈</target>
+        <target xml:space="preserve" state="translated">설치할 수 있는 모듈</target>
       </trans-unit>
       <trans-unit id="{0} labor" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> labor</source>
@@ -39150,11 +39150,11 @@
       </trans-unit>
       <trans-unit id="You can now claim {0} more plots on {1} ({2} total)." xml:space="preserve">
         <source xml:space="preserve">You can now claim <ph id="0">{0}</ph> more plots on <ph id="1">{1}</ph> (<ph id="2">{2}</ph> total).</source>
-        <target xml:space="preserve" state="translated">이제 <ph id="1">{1}</ph>에서 필지를 <ph id="0">{0}</ph> 칸 더 소유할 수 있습니다. (총 <ph id="2">{2}</ph> 칸)</target>
+        <target xml:space="preserve" state="translated">이제 <ph id="1">{1}</ph>에서 필지를 <ph id="0">{0}</ph> 칸 더 소유할 수 있습니다. (총 <ph id="2">{2}</ph> 칸).</target>
       </trans-unit>
       <trans-unit id="You can now claim {0} fewer plots on {1} ({2} total)." xml:space="preserve">
         <source xml:space="preserve">You can now claim <ph id="0">{0}</ph> fewer plots on <ph id="1">{1}</ph> (<ph id="2">{2}</ph> total).</source>
-        <target xml:space="preserve" state="translated">이제 <ph id="1">{1}</ph>에서 땅을 <ph id="0">{0}</ph> 장 덜 소유할 수 있습니다. (총 <ph id="2">{2}</ph>).</target>
+        <target xml:space="preserve" state="translated">이제 <ph id="1">{1}</ph>에서 필지를 <ph id="0">{0}</ph>칸 덜 소유할 수 있습니다. (총 <ph id="2">{2}</ph>칸).</target>
       </trans-unit>
       <trans-unit id="Default Plots from Stake: {0}" xml:space="preserve">
         <source xml:space="preserve">Default Plots from Stake: <ph id="0">{0}</ph></source>
@@ -49459,7 +49459,7 @@
       </trans-unit>
       <trans-unit id="Add to a Claim Stake to increase the number of plots you can claim on it." xml:space="preserve">
         <source xml:space="preserve">Add to a Claim Stake to increase the number of plots you can claim on it.</source>
-        <target xml:space="preserve" state="translated">이곳에 소유할 수 있는 필지의 칸 수를 늘리려면 소유 문서를 추가하세요.</target>
+        <target xml:space="preserve" state="translated">말뚝에 소유 문서를 추가하여 소유할 수 있는 필지 칸 수를 늘릴 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="Too far to do that." xml:space="preserve">
         <source xml:space="preserve">Too far to do that.</source>
@@ -69150,7 +69150,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="our translation portal" xml:space="preserve">
         <source xml:space="preserve">our translation portal</source>
-        <target xml:space="preserve" state="translated">우리의 번역 포털</target>
+        <target xml:space="preserve" state="translated">번역 웹페이지 접속</target>
       </trans-unit>
       <trans-unit id="WorldChunkGrid.GetChunkUpdate received a null chunk; skipping update. Likely a stale ChunkDelivery in the chunk update queue." xml:space="preserve">
         <source xml:space="preserve">WorldChunkGrid.GetChunkUpdate received a null chunk; skipping update. Likely a stale ChunkDelivery in the chunk update queue.</source>
@@ -70394,7 +70394,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="- {0}: {1} per craft ({2} over {3} remaining)." xml:space="preserve">
         <source xml:space="preserve">- <ph id="0">{0}</ph>: <ph id="1">{1}</ph> per craft (<ph id="2">{2}</ph> over <ph id="3">{3}</ph> remaining).</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">- <ph id="0">{0}</ph>: <ph id="1">{1}</ph> per craft (<ph id="2">{2}</ph> over <ph id="3">{3}</ph> remaining).</target>
+        <target state="translated">- <ph id="0">{0}</ph>: 작업당 <ph id="1">{1}</ph> (남은 <ph id="3">{3}</ph>개의 작업에서 <ph id="2">{2}</ph> 생성됨).</target>
       </trans-unit>
       <trans-unit id="Pending Collection" xml:space="preserve">
         <source xml:space="preserve">Pending Collection</source>
@@ -71487,8 +71487,9 @@ Ctrl - x100</target>
       <trans-unit id="Benefits:">
         <source xml:space="preserve">Benefits:</source>
       </trans-unit>
-      <trans-unit id="{0}: {1} per craft">
+      <trans-unit id="{0}: {1} per craft" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>: <ph id="1">{1}</ph> per craft</source>
+        <target state="translated"><ph id="0">{0}</ph>: 작업당 <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0}: {1} of a block">
         <source xml:space="preserve"><ph id="0">{0}</ph>: <ph id="1">{1}</ph> of a block</source>
@@ -71885,11 +71886,13 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Hold Ctrl to temporarily display the last layer you selected, release it to restore the current view.">
         <source xml:space="preserve">Hold Ctrl to temporarily display the last layer you selected, release it to restore the current view.</source>
       </trans-unit>
-      <trans-unit id="Translation Portal">
+      <trans-unit id="Translation Portal" xml:space="preserve">
         <source xml:space="preserve">Translation Portal</source>
+        <target state="translated">번역 포털</target>
       </trans-unit>
-      <trans-unit id="Eco Wiki">
+      <trans-unit id="Eco Wiki" xml:space="preserve">
         <source xml:space="preserve">Eco Wiki</source>
+        <target state="translated">에코 위키</target>
       </trans-unit>
       <trans-unit id="Sort By Name">
         <source xml:space="preserve">Sort By Name</source>
@@ -72540,8 +72543,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Select a shape to swap this block to.">
         <source xml:space="preserve">Select a shape to swap this block to.</source>
       </trans-unit>
-      <trans-unit id="{0} of a block">
+      <trans-unit id="{0} of a block" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> of a block</source>
+        <target state="translated"><ph id="0">{0}</ph>블록</target>
       </trans-unit>
       <trans-unit id="- {0}, as contamination">
         <source xml:space="preserve">- <ph id="0">{0}</ph>, as contamination</source>
