@@ -66895,7 +66895,7 @@
       </trans-unit>
       <trans-unit id="When enabled (white), new storages placed nearby (on the same property) will be automatically connected." xml:space="preserve">
         <source xml:space="preserve">When enabled (white), new storages placed nearby (on the same property) will be automatically connected.</source>
-        <target xml:space="preserve" state="translated">이 기능이 활성화(흰색)되면, 인근(동일한 부지 내)에 배치된 새로운 저장 시설이 자동으로 연결됩니다.</target>
+        <target xml:space="preserve" state="translated">이 기능이 활성화(흰색)되면, 인근(동일한 부지 내)에 배치된 새로운 저장고에 자동으로 연결됩니다.</target>
       </trans-unit>
       <trans-unit id="Environment Quality" xml:space="preserve">
         <source xml:space="preserve">Environment Quality</source>
@@ -71884,8 +71884,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Scroll to Bottom">
         <source xml:space="preserve">Scroll to Bottom</source>
       </trans-unit>
-      <trans-unit id="Hold Ctrl to temporarily display the last layer you selected, release it to restore the current view.">
+      <trans-unit id="Hold Ctrl to temporarily display the last layer you selected, release it to restore the current view." xml:space="preserve">
         <source xml:space="preserve">Hold Ctrl to temporarily display the last layer you selected, release it to restore the current view.</source>
+        <target state="translated">Ctrl 키를 꾹 눌러 이전에 선택한 레이어로 전환할 수 있습니다, 떼면 원래 레이어로 돌아옵니다.</target>
       </trans-unit>
       <trans-unit id="Translation Portal" xml:space="preserve">
         <source xml:space="preserve">Translation Portal</source>
@@ -72655,11 +72656,13 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Allow flying, then double-tap Jump to start or stop flying">
         <source xml:space="preserve">Allow flying, then double-tap Jump to start or stop flying</source>
       </trans-unit>
-      <trans-unit id="Hide Fuel">
+      <trans-unit id="Hide Fuel" xml:space="preserve">
         <source xml:space="preserve">Hide Fuel</source>
+        <target state="translated">연료 숨기기</target>
       </trans-unit>
-      <trans-unit id="Hide or show connected fuel inventories">
+      <trans-unit id="Hide or show connected fuel inventories" xml:space="preserve">
         <source xml:space="preserve">Hide or show connected fuel inventories</source>
+        <target state="translated">연료 저장고를 숨기거나 보여줍니다</target>
       </trans-unit>
       <trans-unit id="Pickups">
         <source xml:space="preserve">Pickups</source>
