@@ -71799,8 +71799,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Cannot pick up while recycling an item.">
         <source xml:space="preserve">Cannot pick up while recycling an item.</source>
       </trans-unit>
-      <trans-unit id="No recyclable items">
+      <trans-unit id="No recyclable items" xml:space="preserve">
         <source xml:space="preserve">No recyclable items</source>
+        <target state="translated">재활용 가능한 아이템 없음</target>
       </trans-unit>
       <trans-unit id="Recycler Item">
         <source xml:space="preserve">Recycler Item</source>
@@ -72628,11 +72629,13 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Project cancelled. Collect the remaining items from the table.">
         <source xml:space="preserve">Project cancelled. Collect the remaining items from the table.</source>
       </trans-unit>
-      <trans-unit id="Pending garbage: {0} =&gt; would form {1} with current content.">
+      <trans-unit id="Pending garbage: {0} =&gt; would form {1} with current content." xml:space="preserve">
         <source xml:space="preserve">Pending garbage: <ph id="0">{0}</ph> =&gt; would form <ph id="1">{1}</ph> with current content.</source>
+        <target state="translated">처리 대기 중인 쓰레기: <ph id="0">{0}</ph> =&gt; 현재까지 재활용으로 <ph id="1">{1}</ph> 가 생성될 예정입니다.</target>
       </trans-unit>
-      <trans-unit id="No pending garbage.">
+      <trans-unit id="No pending garbage." xml:space="preserve">
         <source xml:space="preserve">No pending garbage.</source>
+        <target state="translated">처리 대기 중인 쓰레기 없음.</target>
       </trans-unit>
       <trans-unit id="SaveAll took {0:F0}ms. Per-plugin breakdown:&#13;&#10;{1}">
         <source xml:space="preserve">SaveAll took <ph id="0">{0:F0}</ph>ms. Per-plugin breakdown:
