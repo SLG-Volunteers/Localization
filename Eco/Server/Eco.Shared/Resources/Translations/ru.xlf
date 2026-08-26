@@ -12255,7 +12255,7 @@
       </trans-unit>
       <trans-unit id="Create Title" xml:space="preserve">
         <source xml:space="preserve">Create Title</source>
-        <target xml:space="preserve" state="needs-translation">Создать титул</target>
+        <target xml:space="preserve" state="translated">Создать титул</target>
       </trans-unit>
       <trans-unit id="Direct Transfer Tax (own)" xml:space="preserve">
         <source xml:space="preserve">Direct Transfer Tax (own)</source>
@@ -45556,7 +45556,7 @@
       </trans-unit>
       <trans-unit id="Make it Rain" xml:space="preserve">
         <source xml:space="preserve">Make it Rain</source>
-        <target xml:space="preserve" state="needs-translation">Денежный дождь</target>
+        <target xml:space="preserve" state="translated">Денежный дождь</target>
       </trans-unit>
       <trans-unit id="Conversion Fees" xml:space="preserve">
         <source xml:space="preserve">Conversion Fees</source>
@@ -45817,7 +45817,7 @@
       </trans-unit>
       <trans-unit id="The {0} has annexed the {1}!" xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> has annexed the <ph id="1">{1}</ph>!</source>
-        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> аннексировали <ph id="1">{1}</ph>!</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> аннексировали <ph id="1">{1}</ph>!</target>
       </trans-unit>
       <trans-unit id="{0} is no longer a member {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is no longer a member <ph id="1">{1}</ph>.</source>
@@ -49380,7 +49380,7 @@
       </trans-unit>
       <trans-unit id="Can't seed {0} at {1}. It is too high to growth here." xml:space="preserve">
         <source xml:space="preserve">Can't seed <ph id="0">{0}</ph> at <ph id="1">{1}</ph>. It is too high to growth here.</source>
-        <target xml:space="preserve" state="needs-translation">Не удается засеять <ph id="0">{0}</ph> на <ph id="1">{1}</ph>. Здесь слишком высоко для роста.</target>
+        <target xml:space="preserve" state="translated">Не удается засеять <ph id="0">{0}</ph> на <ph id="1">{1}</ph>. Здесь слишком высоко для роста.</target>
       </trans-unit>
       <trans-unit id="You can now attach the official {0} for the {1} {2} on this {3}." xml:space="preserve">
         <source xml:space="preserve">You can now attach the official <ph id="0">{0}</ph> for the <ph id="1">{1}</ph> <ph id="2">{2}</ph> on this <ph id="3">{3}</ph>.</source>
@@ -53473,7 +53473,7 @@
       </trans-unit>
       <trans-unit id="The {0} {1} has been removed as an invited/applicant of the {2} {3}." xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> <ph id="1">{1}</ph> has been removed as an invited/applicant of the <ph id="2">{2}</ph> <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation"><ph id="0">{0}</ph> <ph id="1">{1}</ph> был удален из списка приглашенных/кандидатов <ph id="2">{2}</ph> <ph id="3">{3}</ph>.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> был удален из списка приглашенных/кандидатов <ph id="2">{2}</ph> <ph id="3">{3}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} doesn't allow child settlements to secede" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> doesn't allow child settlements to secede</source>
@@ -53481,7 +53481,7 @@
       </trans-unit>
       <trans-unit id="Upon leaving {0}, {1} became a direct child of {2}" xml:space="preserve">
         <source xml:space="preserve">Upon leaving <ph id="0">{0}</ph>, <ph id="1">{1}</ph> became a direct child of <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="needs-translation">После выхода из состава <ph id="0">{0}</ph>, <ph id="1">{1}</ph> становится прямым дочерним поселением <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated">После выхода из состава <ph id="0">{0}</ph>, <ph id="1">{1}</ph> становится прямым дочерним поселением <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Removing the last sub-settlement will unplace this settlement. Proceed? Note: you can disable this in the foundation component." xml:space="preserve">
         <source xml:space="preserve">Removing the last sub-settlement will unplace this settlement. Proceed? Note: you can disable this in the foundation component.</source>
@@ -54296,11 +54296,11 @@
       </trans-unit>
       <trans-unit id="Annexation Resource Requirement Per Citizen" xml:space="preserve">
         <source xml:space="preserve">Annexation Resource Requirement Per Citizen</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Требования к ресурсам для аннексии на одного жителя</target>
+        <target xml:space="preserve" state="translated">Требования к ресурсам для аннексии за каждого гражданина</target>
       </trans-unit>
       <trans-unit id="Extra Settlement Papers To Annex Per Citizen" xml:space="preserve">
         <source xml:space="preserve">Extra Settlement Papers To Annex Per Citizen</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Дополнительные документы на заселение для присоединения на каждого гражданина</target>
+        <target xml:space="preserve" state="translated">Дополнительные квитанции землемера для аннексии за каждого гражданина</target>
       </trans-unit>
       <trans-unit id="Support claims (usable only at homesteads with no settlement), made available on the settlement marker at each level of settlement. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">Support claims (usable only at homesteads with no settlement), made available on the settlement marker at each level of settlement. Defined per settlement type.</source>
@@ -54332,7 +54332,7 @@
       </trans-unit>
       <trans-unit id="Can a settlement annex other settlements at the same level? Or does one have to be higher? Note: top-level settlement can always annex other top-levels." xml:space="preserve">
         <source xml:space="preserve">Can a settlement annex other settlements at the same level? Or does one have to be higher? Note: top-level settlement can always annex other top-levels.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Может ли поселение аннексировать другие поселения того же уровня? Или одно из них должно быть выше по уровню? Примечание: поселение высшего уровня всегда может аннексировать другие поселения высшего уровня.</target>
+        <target xml:space="preserve" state="translated">Может ли поселение аннексировать другие поселения того же уровня? Или одно из них должно быть выше по уровню? Примечание: поселение высшего уровня всегда может аннексировать другие поселения высшего уровня.</target>
       </trans-unit>
       <trans-unit id="If set, sub-settlements can be captured out of a main settlement." xml:space="preserve">
         <source xml:space="preserve">If set, sub-settlements can be captured out of a main settlement.</source>
@@ -54356,15 +54356,15 @@
       </trans-unit>
       <trans-unit id="Citizenship Type" xml:space="preserve">
         <source xml:space="preserve">Citizenship Type</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Тип гражданства</target>
+        <target xml:space="preserve" state="translated">Тип гражданства</target>
       </trans-unit>
       <trans-unit id="The person has direct citizenship or can be in a children settlements." xml:space="preserve">
         <source xml:space="preserve">The person has direct citizenship or can be in a children settlements.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Персонаж может быть полноправным гражданином или жить в детских поселениях.</target>
+        <target xml:space="preserve" state="translated">Житель имеет прямое гражданство или гражданство дочерних поселений.</target>
       </trans-unit>
       <trans-unit id="Allow Plots Unclaiming" xml:space="preserve">
         <source xml:space="preserve">Allow Plots Unclaiming</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Разрешить отказ от участков</target>
+        <target xml:space="preserve" state="translated">Разрешить освобождение участков</target>
       </trans-unit>
       <trans-unit id="If checked, the owner of this deed may unclaim plots on the deed while you're a resident." xml:space="preserve">
         <source xml:space="preserve">If checked, the owner of this deed may unclaim plots on the deed while you're a resident.</source>
@@ -54599,7 +54599,7 @@
       </trans-unit>
       <trans-unit id="Enabling this feature allows players to become direct citizens of the settlement." xml:space="preserve">
         <source xml:space="preserve">Enabling this feature allows players to become direct citizens of the settlement.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Включение этой функции позволяет игрокам стать полноправными жителями поселения.</target>
+        <target xml:space="preserve" state="translated">Включение этой функции позволяет игрокам получить прямое граждантсво поселения.</target>
       </trans-unit>
       <trans-unit id="Enables Citizens to instantly join the settlement upon placing their homesteads inside its influence. If enabled, the 'Can Have Direct Citizens' must also be enabled." xml:space="preserve">
         <source xml:space="preserve">Enables Citizens to instantly join the settlement upon placing their homesteads inside its influence. If enabled, the 'Can Have Direct Citizens' must also be enabled.</source>
@@ -54699,7 +54699,7 @@
       </trans-unit>
       <trans-unit id="Only Affect Settlements" xml:space="preserve">
         <source xml:space="preserve">Only Affect Settlements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Влияет только на поселения</target>
+        <target xml:space="preserve" state="translated">Влияет только на поселения</target>
       </trans-unit>
       <trans-unit id="Triggers added to this list will be ignored when processing laws in the given list of child settlements." xml:space="preserve">
         <source xml:space="preserve">Triggers added to this list will be ignored when processing laws in the given list of child settlements.</source>
@@ -55044,11 +55044,11 @@
       </trans-unit>
       <trans-unit id="{0} is a government account" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is a government account</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> — это аккаунт правительства</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> это правительственный счет</target>
       </trans-unit>
       <trans-unit id="{0} {1} a government bank account" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> a government bank account</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> <ph id="1">{1}</ph> a government bank account</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> правительственный банковский счет</target>
       </trans-unit>
       <trans-unit id="{0} is missing a treasury." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is missing a treasury.</source>
@@ -56504,7 +56504,7 @@
       </trans-unit>
       <trans-unit id="An effect that is run on each specified citizen of the given settlement at intervals." xml:space="preserve">
         <source xml:space="preserve">An effect that is run on each specified citizen of the given settlement at intervals.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Эффект, который периодически применяется к каждому указанному жителю данного поселения.</target>
+        <target xml:space="preserve" state="translated">Эффект, который периодически применяется к каждому указанному гражданину данного поселения.</target>
       </trans-unit>
       <trans-unit id="Triggers laws on all founded settlements." xml:space="preserve">
         <source xml:space="preserve">Triggers laws on all founded settlements.</source>
@@ -56975,11 +56975,11 @@
       </trans-unit>
       <trans-unit id="Roof Peak T" xml:space="preserve">
         <source xml:space="preserve">Roof Peak T</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Roof Peak T</target>
+        <target xml:space="preserve" state="translated">Конек крыши Т-образный</target>
       </trans-unit>
       <trans-unit id="Roof Peak Corner" xml:space="preserve">
         <source xml:space="preserve">Roof Peak Corner</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Угол крыши</target>
+        <target xml:space="preserve" state="translated">Угол конька крыши</target>
       </trans-unit>
       <trans-unit id="Roof Mid Section" xml:space="preserve">
         <source xml:space="preserve">Roof Mid Section</source>
@@ -66586,7 +66586,7 @@
       </trans-unit>
       <trans-unit id="Must be on owned land to sell." xml:space="preserve">
         <source xml:space="preserve">Must be on owned land to sell.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Для продажи нужно находиться на своей земле.</target>
+        <target xml:space="preserve" state="translated">Для продажи должно находиться на своей земле.</target>
       </trans-unit>
       <trans-unit id="You're already an owner on this object, and can just take it. Are you sure you want to purchase it?" xml:space="preserve">
         <source xml:space="preserve">You're already an owner on this object, and can just take it. Are you sure you want to purchase it?</source>
@@ -66594,7 +66594,7 @@
       </trans-unit>
       <trans-unit id="You can't buy this while it has vehicles on top. Please remove them first." xml:space="preserve">
         <source xml:space="preserve">You can't buy this while it has vehicles on top. Please remove them first.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ты не можешь купить эту игру, пока на ней есть транспортные средства. Пожалуйста, сначала удали их.</target>
+        <target xml:space="preserve" state="translated">Вы не можете это купить, пока на нём находятся транспортные средства. Сперва уберите их.</target>
       </trans-unit>
       <trans-unit id="Note: any contained items will also be sold." xml:space="preserve">
         <source xml:space="preserve">Note: any contained items will also be sold.</source>
@@ -66614,15 +66614,15 @@
       </trans-unit>
       <trans-unit id="How many {0} would you like to buy? {1}({2} available, {3} each.)" xml:space="preserve">
         <source xml:space="preserve">How many <ph id="0">{0}</ph> would you like to buy? <ph id="1">{1}</ph>(<ph id="2">{2}</ph> available, <ph id="3">{3}</ph> each.)</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Сколько <ph id="0">{0}</ph> ты хочешь купить? <ph id="1">{1}</ph>(<ph id="2">{2}</ph> в наличии, <ph id="3">{3}</ph> за штуку.)</target>
+        <target xml:space="preserve" state="translated">Сколько <ph id="0">{0}</ph> вы хотите купить? <ph id="1">{1}</ph>(<ph id="2">{2}</ph> в наличии, <ph id="3">{3}</ph> за штуку.)</target>
       </trans-unit>
       <trans-unit id="You are now sold out of {0} on {1}" xml:space="preserve">
         <source xml:space="preserve">You are now sold out of <ph id="0">{0}</ph> on <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">У тебя сейчас нет в наличии <ph id="0">{0}</ph> на <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">У вас сейчас нет в наличии <ph id="0">{0}</ph> на <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="unowned land" xml:space="preserve">
         <source xml:space="preserve">unowned land</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">незанятая земля</target>
+        <target xml:space="preserve" state="translated">ничейная земля</target>
       </trans-unit>
       <trans-unit id="Fuse linked." xml:space="preserve">
         <source xml:space="preserve">Fuse linked.</source>
@@ -66630,15 +66630,15 @@
       </trans-unit>
       <trans-unit id="Fuse unlinked." xml:space="preserve">
         <source xml:space="preserve">Fuse unlinked.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Фьюз не подключен.</target>
+        <target xml:space="preserve" state="translated">Заряд отключен.</target>
       </trans-unit>
       <trans-unit id="Can't pickup, fuse already started." xml:space="preserve">
         <source xml:space="preserve">Can't pickup, fuse already started.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Не могу забрать, слияние уже началось.</target>
+        <target xml:space="preserve" state="translated">Нельзя забрать, запал уже подожжён.</target>
       </trans-unit>
       <trans-unit id="Received damage from explosion!" xml:space="preserve">
         <source xml:space="preserve">Received damage from explosion!</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Получил урон от взрыва!</target>
+        <target xml:space="preserve" state="translated">Получил урон от взрыва!</target>
       </trans-unit>
       <trans-unit id="The fee for this will total {0}, proceed?" xml:space="preserve">
         <source xml:space="preserve">The fee for this will total <ph id="0">{0}</ph>, proceed?</source>
@@ -66650,27 +66650,27 @@
       </trans-unit>
       <trans-unit id="You cannot create more than {0} bank accounts in total." xml:space="preserve">
         <source xml:space="preserve">You cannot create more than <ph id="0">{0}</ph> bank accounts in total.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Всего можно создать не более <ph id="0">{0}</ph> банковских счетов.</target>
+        <target xml:space="preserve" state="translated">Всего можно создать не более <ph id="0">{0}</ph> банковских счетов.</target>
       </trans-unit>
       <trans-unit id="{0} {1}: {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph>: <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> <ph id="1">{1}</ph>: <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph>: <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="This {0} carcass is pollutted and unusable." xml:space="preserve">
         <source xml:space="preserve">This <ph id="0">{0}</ph> carcass is pollutted and unusable.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Этот <ph id="0">{0}</ph> труп загрязнён и непригоден для использования.</target>
+        <target xml:space="preserve" state="translated">Эта туша <ph id="0">{0}</ph> загрязнёна и непригодна для использования.</target>
       </trans-unit>
       <trans-unit id="You cannot carry this {0} carcass — {1}" xml:space="preserve">
         <source xml:space="preserve">You cannot carry this <ph id="0">{0}</ph> carcass — <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ты не можешь унести этот <ph id="0">{0}</ph> труп — <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Вы не можете унести эту тушу <ph id="0">{0}</ph> — <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="This world has unlocked the achievement {0}! Long-term players will receive it as well." xml:space="preserve">
         <source xml:space="preserve">This world has unlocked the achievement <ph id="0">{0}</ph>! Long-term players will receive it as well.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Этот мир разблокировал достижение «<ph id="0">»{0}</ph>! Долгоиграющие игроки тоже его получат.</target>
+        <target xml:space="preserve" state="translated">Этот мир разблокировал достижение «<ph id="0">»{0}</ph>! Долгоиграющие игроки тоже его получат.</target>
       </trans-unit>
       <trans-unit id="Failed to load object and convert to type: '{0}', because of type mismatch or missing type, ex: mod removed, type changed without migration, etc." xml:space="preserve">
         <source xml:space="preserve">Failed to load object and convert to type: '<ph id="0">{0}</ph>', because of type mismatch or missing type, ex: mod removed, type changed without migration, etc.</source>
@@ -66754,27 +66754,27 @@
       </trans-unit>
       <trans-unit id="Clear Inventory" xml:space="preserve">
         <source xml:space="preserve">Clear Inventory</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Очистить инвентарь</target>
+        <target xml:space="preserve" state="translated">Очистить инвентарь</target>
       </trans-unit>
       <trans-unit id="Set Day Time" xml:space="preserve">
         <source xml:space="preserve">Set Day Time</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Установить время суток</target>
+        <target xml:space="preserve" state="translated">Установить время суток</target>
       </trans-unit>
       <trans-unit id="Set Night Time" xml:space="preserve">
         <source xml:space="preserve">Set Night Time</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Установить ночное время</target>
+        <target xml:space="preserve" state="translated">Установить ночное время</target>
       </trans-unit>
       <trans-unit id="Requires unknown achievement to unlock blueprint." xml:space="preserve">
         <source xml:space="preserve">Requires unknown achievement to unlock blueprint.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Требуется неизвестное достижение, чтобы разблокировать чертеж.</target>
+        <target xml:space="preserve" state="translated">Требуется неизвестное достижение, чтобы разблокировать чертеж.</target>
       </trans-unit>
       <trans-unit id="Dinner Party Started" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Started</source>
-        <target xml:space="preserve" state="needs-translation">Званый ужин начался</target>
+        <target xml:space="preserve" state="translated">Званый ужин начался</target>
       </trans-unit>
       <trans-unit id="Walls cannot contain any gaps." xml:space="preserve">
         <source xml:space="preserve">Walls cannot contain any gaps.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Стены не должны иметь никаких пробелов.</target>
+        <target xml:space="preserve" state="translated">Стены не должны иметь никаких отверстий.</target>
       </trans-unit>
       <trans-unit id="Finish Dinner Party" xml:space="preserve">
         <source xml:space="preserve">Finish Dinner Party</source>
@@ -66782,7 +66782,7 @@
       </trans-unit>
       <trans-unit id="Current balance:" xml:space="preserve">
         <source xml:space="preserve">Current balance:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Текущий баланс:</target>
+        <target xml:space="preserve" state="translated">Текущий баланс:</target>
       </trans-unit>
       <trans-unit id="Auto-Link" xml:space="preserve">
         <source xml:space="preserve">Auto-Link</source>
@@ -66790,7 +66790,7 @@
       </trans-unit>
       <trans-unit id="When enabled (white), new storages placed nearby (on the same property) will be automatically connected." xml:space="preserve">
         <source xml:space="preserve">When enabled (white), new storages placed nearby (on the same property) will be automatically connected.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Когда эта функция включена (белый цвет), новые хранилища, размещенные поблизости (на той же территории), будут автоматически подключаться.</target>
+        <target xml:space="preserve" state="translated">Когда эта функция включена (белый цвет), новые хранилища, размещенные поблизости (на той же территории), будут автоматически подключаться.</target>
       </trans-unit>
       <trans-unit id="Environment Quality" xml:space="preserve">
         <source xml:space="preserve">Environment Quality</source>
@@ -67321,14 +67321,14 @@ Do you want to assign it here instead?</source>
         <source xml:space="preserve">Nitrogen: <ph id="0">{0}</ph>
 Phosphorus: <ph id="1">{1}</ph>
 Potassium: <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Азот: <ph id="0">{0}</ph>
+        <target xml:space="preserve" state="translated">Азот: <ph id="0">{0}</ph>
 Фосфор: <ph id="1">{1}</ph>
 Калий: <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Rainfall: {0}&#10;Total soil moisture: {1}" xml:space="preserve">
         <source xml:space="preserve">Rainfall: <ph id="0">{0}</ph>
 Total soil moisture: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Количество осадков: <ph id="0">{0}</ph>
+        <target xml:space="preserve" state="translated">Количество осадков: <ph id="0">{0}</ph>
 Общая влажность почвы: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Total size:      {0:n1}kb&#13;&#10;" xml:space="preserve">
@@ -67438,13 +67438,13 @@ To install `dotnet-trace`: <ph id="1">{1}</ph></source>
       <trans-unit id="Connected to:&#13;&#10;{0}" xml:space="preserve">
         <source xml:space="preserve">Connected to:
 <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Связано с:
+        <target xml:space="preserve" state="translated">Связано с:
 <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="You were invited to {0} {1} at {2}. &#10; {3}" xml:space="preserve">
         <source xml:space="preserve">You were invited to <ph id="0">{0}</ph> <ph id="1">{1}</ph> at <ph id="2">{2}</ph>. 
  <ph id="3">{3}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Тебя пригласили на <ph id="0">{0}</ph> <ph id="1">{1}</ph> в <ph id="2">{2}</ph>. 
+        <target xml:space="preserve" state="translated">Вы приглашены на <ph id="0">{0}</ph> <ph id="1">{1}</ph> в <ph id="2">{2}</ph>. 
  <ph id="3">{3}</ph></target>
       </trans-unit>
       <trans-unit id="There shouldn't be a null object as part of the setting list: &#10; PlayerName: {0} &#10; Container.Type: {1} &#10; Container.ToString(): {2} &#10; new list items: {3}" xml:space="preserve">
@@ -67462,27 +67462,27 @@ To install `dotnet-trace`: <ph id="1">{1}</ph></source>
       <trans-unit id="Here you can control access to your tent.&#10;You can also configure access to your entire property as follows:" xml:space="preserve">
         <source xml:space="preserve">Here you can control access to your tent.
 You can also configure access to your entire property as follows:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Здесь ты можешь контролировать доступ к своей палатке.
-Ты также можешь настроить доступ ко всей своей территории следующим образом:</target>
+        <target xml:space="preserve" state="translated">Здесь вы можете контролировать доступ к своей палатке.
+Вы также можете настроить доступ ко всей своей территории следующим образом:</target>
       </trans-unit>
       <trans-unit id="There's no wild food left around you.&#10;&#10;To find more food you'll need to collect it from other players." xml:space="preserve">
         <source xml:space="preserve">There's no wild food left around you.
 
 To find more food you'll need to collect it from other players.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Вокруг тебя не осталось дикой пищи.
+        <target xml:space="preserve" state="translated">Вокруг вас не осталось дикорастущей пищи.
 
-Чтобы найти больше еды, тебе придется собирать её у других игроков.</target>
+Чтобы найти больше еды, вам придется искать её у других игроков.</target>
       </trans-unit>
       <trans-unit id="{0} of {1} citizens currently sleeping.&#10;(All online citizens must sleep for time to accelerate.)" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> of <ph id="1">{1}</ph> citizens currently sleeping.
 (All online citizens must sleep for time to accelerate.)</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> из <ph id="1">{1}</ph> граждан сейчас спят.
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> из <ph id="1">{1}</ph> граждан сейчас спят.
 (Все граждане, находящиеся в сети, должны спать, чтобы время ускорилось.)</target>
       </trans-unit>
       <trans-unit id="Sleeping users:&#13;&#10;{0}" xml:space="preserve">
         <source xml:space="preserve">Sleeping users:
 <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Неактивные пользователи:
+        <target xml:space="preserve" state="translated">Спящие игроки:
 <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="&#10;Room Configuration:" xml:space="preserve">
@@ -67631,9 +67631,9 @@ Do you want to proceed and specify a bank account to pay from?</source>
         <source xml:space="preserve">This element is currently in Election draft <ph id="0">{0}</ph>.
 
 You can start it in the side bar.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Этот элемент сейчас находится в черновом варианте «Голосование» <ph id="0">{0}</ph>.
+        <target xml:space="preserve" state="translated">Этот элемент сейчас находится в черновом варианте для Голосования <ph id="0">{0}</ph>.
 
-Ты можешь запустить его в боковой панели.</target>
+Вы можешь запустить его из боковой панели.</target>
       </trans-unit>
       <trans-unit id="Couldn't open save '{0}'.&#10;{1}" xml:space="preserve">
         <source xml:space="preserve">Couldn't open save '<ph id="0">{0}</ph>'.
@@ -68080,8 +68080,8 @@ Citizen Credit (which that citizen can create infinite amounts of) and Backed Cu
       <trans-unit id="Treasury Disabled:&#10;Only citizens with Elected Titles that provide them treasury privileges can use this." xml:space="preserve">
         <source xml:space="preserve">Treasury Disabled:
 Only citizens with Elected Titles that provide them treasury privileges can use this.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Казначейство отключено:
-Им могут пользоваться только граждане с избранными титулами, дающими им привилегии в отношении казначейства.</target>
+        <target xml:space="preserve" state="translated">Казна отключена:
+Ей могут пользоваться только граждане с избранными титулами, дающими им привилегии в отношении казначейства.</target>
       </trans-unit>
       <trans-unit id="Repair&#10;" xml:space="preserve">
         <source xml:space="preserve">Repair
@@ -68100,7 +68100,7 @@ Shift clicking button will repair tool and pull it back to inventory</source>
       <trans-unit id="Bank Accounts you manage&#10;" xml:space="preserve">
         <source xml:space="preserve">Bank Accounts you manage
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Банковские счета, которыми ты управляешь
+        <target xml:space="preserve" state="translated">Банковские счета, которыми вы управляете
 </target>
       </trans-unit>
       <trans-unit id="Suit&#10;" xml:space="preserve">
@@ -68320,7 +68320,7 @@ You can set the angle and expression of your avatar, as well as choose from vari
       <trans-unit id="Copy text and log&#10;to clipboard" xml:space="preserve">
         <source xml:space="preserve">Copy text and log
 to clipboard</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Скопировать текст и журнал
+        <target xml:space="preserve" state="translated">Скопировать текст и журнал
 в буфер обмена</target>
       </trans-unit>
       <trans-unit id="World runs 24/7&#10;Add 'Citizen' accounts to allow friends to play&#10;without owning Eco. Requires paid subscription." xml:space="preserve">
@@ -68457,27 +68457,27 @@ Break</target>
         <source xml:space="preserve">Set whether this Work Party is an Open or Closed size.
 
 An 'Open' Work Party will open a new laborer slot when existing roles fill up. A closed Work Party will not. </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Укажи, будет ли эта рабочая группа открытой или закрытой.
+        <target xml:space="preserve" state="translated">Укажите, будет ли эта рабочая группа открытой или закрытой.
 
-«Открытая» рабочая группа откроет новое место для рабочего, когда существующие роли будут заполнены. Закрытая рабочая группа этого не сделает. </target>
+«Открытая» рабочая группа позволяет брать новые роли, когда существующие роли будут заполнены. Закрытая рабочая группа этого не позволяет. </target>
       </trans-unit>
       <trans-unit id="Payment&#10;" xml:space="preserve">
         <source xml:space="preserve">Payment
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Оплата
+        <target xml:space="preserve" state="translated">Оплата
 </target>
       </trans-unit>
       <trans-unit id="Projects&#10;" xml:space="preserve">
         <source xml:space="preserve">Projects
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Проекты
+        <target xml:space="preserve" state="translated">Заказы
 </target>
       </trans-unit>
       <trans-unit id="This object is not linked to any storage!&#10;Place a nearby stockpile or chest to connect it." xml:space="preserve">
         <source xml:space="preserve">This object is not linked to any storage!
 Place a nearby stockpile or chest to connect it.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Этот объект не связан ни с одним хранилищем!
-Помести рядом запас или сундук, чтобы подключить его.</target>
+        <target xml:space="preserve" state="translated">Этот объект не связан ни с одним хранилищем!
+Разместите рядом склад или сундук, чтобы подключить его.</target>
       </trans-unit>
       <trans-unit id="Vehicle Attachments&#10;" xml:space="preserve">
         <source xml:space="preserve">Vehicle Attachments
@@ -68532,13 +68532,13 @@ To level-up further, you must specialize in it:</source>
       <trans-unit id="This monument marks the beginning of a Town.&#10;It is not yet founded." xml:space="preserve">
         <source xml:space="preserve">This monument marks the beginning of a Town.
 It is not yet founded.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Этот памятник знаменует начало города.
+        <target xml:space="preserve" state="translated">Этот памятник знаменует начало города.
 Он еще не основан.</target>
       </trans-unit>
       <trans-unit id="When checked, new roles will be created when the labor list fills up.  The new role will duplicate the final entry in the list in terms of role and requirements.&#10;" xml:space="preserve">
         <source xml:space="preserve">When checked, new roles will be created when the labor list fills up.  The new role will duplicate the final entry in the list in terms of role and requirements.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Если эта опция включена, то когда список вакансий заполнится, будут создаваться новые роли.  Новая роль будет дублировать последнюю запись в списке с точки зрения роли и требований.
+        <target xml:space="preserve" state="translated">Если эта опция включена, то когда список ролей заполнится, будут создаваться новые роли.  Новая роль будет дублировать последнюю запись в списке с точки зрения роли и требований.
 </target>
       </trans-unit>
       <trans-unit id="Annexing a target requires paying them Claim Papers from the source settlement.  Unlike resources, these 100% go to the foundation of the target without waste.  The cost is determined per-non-abandoned citizen in the target.&#10;&#10;In the case of annexing a Homestead, this number will be increased by the number of Homestead Support Claim Papers that are on the stake.  This makes the support claims not only allow homesteads to claim more plots, but have more protection against annexation. " xml:space="preserve">
@@ -69143,7 +69143,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="export" xml:space="preserve">
         <source xml:space="preserve">export</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">экспорт</target>
+        <target xml:space="preserve" state="translated">экспорт</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Server data export tools." xml:space="preserve">
@@ -69484,7 +69484,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Performs a variety of garbage operations." xml:space="preserve">
         <source xml:space="preserve">Performs a variety of garbage operations.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Выполняет различные операции с отходами.</target>
+        <target state="translated">Выполняет различные операции с отходами.</target>
         <note>Help text for chat command /garbage</note>
       </trans-unit>
       <trans-unit id="randommixed" xml:space="preserve">
@@ -69647,11 +69647,11 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Chemical Waste" xml:space="preserve">
         <source xml:space="preserve">Chemical Waste</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Химические отходы</target>
+        <target state="translated">Химические отходы</target>
       </trans-unit>
       <trans-unit id="A garbage compaction module for the modern truck." xml:space="preserve">
         <source xml:space="preserve">A garbage compaction module for the modern truck.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Модуль уплотнения мусора для современного грузовика.</target>
+        <target state="translated">Модуль уплотнения мусора для современного грузовика.</target>
       </trans-unit>
       <trans-unit id="Truck Garbage Module" xml:space="preserve" translate="no">
         <source xml:space="preserve">Truck Garbage Module</source>
@@ -69849,7 +69849,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Recovered chemical waste from a sorting process." xml:space="preserve">
         <source xml:space="preserve">Recovered chemical waste from a sorting process.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Химические отходы, извлечённые в процессе сортировки.</target>
+        <target state="translated">Химические отходы, извлечённые в процессе сортировки.</target>
       </trans-unit>
       <trans-unit id="Recovered copper scrap from a sorting process." xml:space="preserve">
         <source xml:space="preserve">Recovered copper scrap from a sorting process.</source>
@@ -69870,11 +69870,11 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Recovered food scrap from a sorting process." xml:space="preserve">
         <source xml:space="preserve">Recovered food scrap from a sorting process.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Пищевые отходы, извлечённые в процессе сортировки.</target>
+        <target state="translated">Пищевые отходы, извлечённые в процессе сортировки.</target>
       </trans-unit>
       <trans-unit id="Food Scrap" xml:space="preserve">
         <source xml:space="preserve">Food Scrap</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Пищевые отходы</target>
+        <target state="translated">Пищевые отходы</target>
       </trans-unit>
       <trans-unit id="Recovered glass scrap from a sorting process." xml:space="preserve">
         <source xml:space="preserve">Recovered glass scrap from a sorting process.</source>
@@ -69894,7 +69894,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="A concentrated source of pollutants from heavy industry ? leached metals and degraded tailings. Severely contaminates the ground; isolate or bury it far from inhabited areas." xml:space="preserve">
         <source xml:space="preserve">A concentrated source of pollutants from heavy industry ? leached metals and degraded tailings. Severely contaminates the ground; isolate or bury it far from inhabited areas.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Концентрированный источник загрязняющих веществ от тяжёлой промышленности — вымытые металлы и разложившиеся отвалы. Сильно загрязняет почву; его нужно изолировать или закапывать подальше от населённых пунктов.</target>
+        <target state="translated">Концентрированный источник загрязняющих веществ от тяжёлой промышленности — вымытые металлы и разложившиеся отвалы. Сильно загрязняет почву; его нужно изолировать или закапывать подальше от населённых пунктов.</target>
       </trans-unit>
       <trans-unit id="Heavy Mineral Pollutant" xml:space="preserve">
         <source xml:space="preserve">Heavy Mineral Pollutant</source>
@@ -69926,19 +69926,19 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Recovered wood scrap from a sorting process." xml:space="preserve">
         <source xml:space="preserve">Recovered wood scrap from a sorting process.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Древесные отходы, извлечённые в процессе сортировки.</target>
+        <target state="translated">Древесные отходы, извлечённые в процессе сортировки.</target>
       </trans-unit>
       <trans-unit id="Wood Scrap" xml:space="preserve">
         <source xml:space="preserve">Wood Scrap</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Древесные отходы</target>
+        <target state="translated">Древесные отходы</target>
       </trans-unit>
       <trans-unit id="A carbon filter for chemical treatment." xml:space="preserve">
         <source xml:space="preserve">A carbon filter for chemical treatment.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Угольный фильтр для химической очистки.</target>
+        <target state="translated">Угольный фильтр для химической очистки.</target>
       </trans-unit>
       <trans-unit id="Carbon Filter" xml:space="preserve">
         <source xml:space="preserve">Carbon Filter</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Угольный фильтр</target>
+        <target state="translated">Угольный фильтр</target>
       </trans-unit>
       <trans-unit id="Cellulose Insulation is an environmentally friendly insulation that offers good thermal performance and helps reduce air leakage." xml:space="preserve">
         <source xml:space="preserve">Cellulose Insulation is an environmentally friendly insulation that offers good thermal performance and helps reduce air leakage.</source>
@@ -69974,11 +69974,11 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="A simple magnet to help separate metals." xml:space="preserve">
         <source xml:space="preserve">A simple magnet to help separate metals.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Простой магнит, который поможет разделять металлы.</target>
+        <target state="translated">Простой магнит, который поможет отсеивать металлы.</target>
       </trans-unit>
       <trans-unit id="Magnet" xml:space="preserve">
         <source xml:space="preserve">Magnet</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Магнит</target>
+        <target state="translated">Магнит</target>
       </trans-unit>
       <trans-unit id="A filter capable of sorting." xml:space="preserve">
         <source xml:space="preserve">A filter capable of sorting.</source>
@@ -69986,7 +69986,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Mesh Filter" xml:space="preserve">
         <source xml:space="preserve">Mesh Filter</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Сетчатый фильтр</target>
+        <target state="translated">Сетчатый фильтр</target>
       </trans-unit>
       <trans-unit id="A petroleum-based hydrocarbon material with wax-like properties." xml:space="preserve">
         <source xml:space="preserve">A petroleum-based hydrocarbon material with wax-like properties.</source>
@@ -69994,7 +69994,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Paraffin" xml:space="preserve">
         <source xml:space="preserve">Paraffin</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Парафин</target>
+        <target state="translated">Парафин</target>
       </trans-unit>
       <trans-unit id="Rock wool is a mineral-based insulation made by melting natural rock and spinning it into dense fibers." xml:space="preserve">
         <source xml:space="preserve">Rock wool is a mineral-based insulation made by melting natural rock and spinning it into dense fibers.</source>
@@ -72818,8 +72818,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve">May Contain</source>
         <target state="translated">Может содержать</target>
       </trans-unit>
-      <trans-unit id="You must hold an elected title that grants 'Can Set Treasury Taxes' to change treasury taxes.">
+      <trans-unit id="You must hold an elected title that grants 'Can Set Treasury Taxes' to change treasury taxes." xml:space="preserve">
         <source xml:space="preserve">You must hold an elected title that grants 'Can Set Treasury Taxes' to change treasury taxes.</source>
+        <target state="translated">Вы должны обладать выборным титулом с полномочиями "Может устанавливать налоги в казну" чтобы изменять налоги в казне.</target>
       </trans-unit>
       <trans-unit id="This sorter is mid-item. Its contents will be carried with it.">
         <source xml:space="preserve">This sorter is mid-item. Its contents will be carried with it.</source>
