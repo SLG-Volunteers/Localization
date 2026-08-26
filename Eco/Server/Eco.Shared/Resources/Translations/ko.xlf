@@ -60847,7 +60847,7 @@
       </trans-unit>
       <trans-unit id="Defensive Only" xml:space="preserve">
         <source xml:space="preserve">Defensive Only</source>
-        <target xml:space="preserve" state="translated">일간된 방어</target>
+        <target xml:space="preserve" state="translated">방어만</target>
       </trans-unit>
       <trans-unit id="Default animals behavior. Animals will attack unprovoked and defend." xml:space="preserve">
         <source xml:space="preserve">Default animals behavior. Animals will attack unprovoked and defend.</source>
