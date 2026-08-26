@@ -46025,7 +46025,7 @@
       </trans-unit>
       <trans-unit id="{0} is broken" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is broken</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> теперь сломан</target>
+        <target xml:space="preserve" state="translated">Навесное оборудование <ph id="0">{0}</ph> сломано</target>
       </trans-unit>
       <trans-unit id="Cannot use old style Capitol when Settlement System is enabled." xml:space="preserve">
         <source xml:space="preserve">Cannot use old style Capitol when Settlement System is enabled.</source>
@@ -66578,7 +66578,7 @@
       </trans-unit>
       <trans-unit id="Display model durability ({0}) is less than min durability {1}. Only items from stock with sufficient durability will be sold." xml:space="preserve">
         <source xml:space="preserve">Display model durability (<ph id="0">{0}</ph>) is less than min durability <ph id="1">{1}</ph>. Only items from stock with sufficient durability will be sold.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Показатель прочности модели (<ph id="0">{0}</ph>) меньше минимальной прочности <ph id="1">{1}</ph>. В продажу поступят только предметы из запасов с достаточной прочностью.</target>
+        <target xml:space="preserve" state="translated">Показатель прочности выставочной модели (<ph id="0">{0}</ph>), что меньше минимальной прочности <ph id="1">{1}</ph>, установленной для продажи. В продажу поступят только предметы из запасов с достаточной прочностью.</target>
       </trans-unit>
       <trans-unit id="Display model integrity ({0}) is less than min integrity {1}. Only items from stock with sufficient integrity will be sold." xml:space="preserve">
         <source xml:space="preserve">Display model integrity (<ph id="0">{0}</ph>) is less than min integrity <ph id="1">{1}</ph>. Only items from stock with sufficient integrity will be sold.</source>
@@ -66590,7 +66590,7 @@
       </trans-unit>
       <trans-unit id="You're already an owner on this object, and can just take it. Are you sure you want to purchase it?" xml:space="preserve">
         <source xml:space="preserve">You're already an owner on this object, and can just take it. Are you sure you want to purchase it?</source>
-        <target xml:space="preserve" state="translated">Вы уже являетесь владельцем этого объекта и можете просто забрать его. Вы уверены, что хочешь его купить?</target>
+        <target xml:space="preserve" state="translated">Вы уже являетесь владельцем этого объекта и можете просто забрать его. Вы уверены, что хотите его купить?</target>
       </trans-unit>
       <trans-unit id="You can't buy this while it has vehicles on top. Please remove them first." xml:space="preserve">
         <source xml:space="preserve">You can't buy this while it has vehicles on top. Please remove them first.</source>
