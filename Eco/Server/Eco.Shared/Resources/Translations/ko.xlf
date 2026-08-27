@@ -26320,7 +26320,7 @@
       </trans-unit>
       <trans-unit id="Sell a bond for {0} at {1}% interest for {2}" xml:space="preserve">
         <source xml:space="preserve">Sell a bond for <ph id="0">{0}</ph> at <ph id="1">{1}</ph>% interest for <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="2">{2}</ph>기간 동안 <ph id="1">{1}</ph>%의 이자로 <ph id="0">{0}</ph>값으로 채권을 판매합니다</target>
+        <target xml:space="preserve" state="translated"><ph id="2">{2}</ph>동안 <ph id="1">{1}</ph>%의 이자로 <ph id="0">{0}</ph>값으로 채권을 판매합니다</target>
       </trans-unit>
       <trans-unit id="Sent message '{0}' to {1}" xml:space="preserve">
         <source xml:space="preserve">Sent message '<ph id="0">{0}</ph>' to <ph id="1">{1}</ph></source>
@@ -26344,7 +26344,7 @@
       </trans-unit>
       <trans-unit id="{0} was owned by {1}, which has been removed.  Ownership changed to {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was owned by <ph id="1">{1}</ph>, which has been removed.  Ownership changed to <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph>이 소유 중이던 <ph id="0">{0}</ph>의 소유권이 제거되어 <ph id="2">{2}</ph>의 소유로 바뀌었습니다.</target>
+        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph>이(가) 소유 중이던 <ph id="0">{0}</ph>의 소유권이 제거되어 <ph id="2">{2}</ph>의 소유로 바뀌었습니다.</target>
       </trans-unit>
       <trans-unit id="tag" xml:space="preserve">
         <source xml:space="preserve">tag</source>
@@ -26440,7 +26440,7 @@
       </trans-unit>
       <trans-unit id="Duplicate deeds claiming plot {0}: '{1}' and '{2}'.  Removing from {3}." xml:space="preserve">
         <source xml:space="preserve">Duplicate deeds claiming plot <ph id="0">{0}</ph>: '<ph id="1">{1}</ph>' and '<ph id="2">{2}</ph>'.  Removing from <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 부지 증서를 복사함: '<ph id="1">{1}</ph>' 그리고 '<ph id="2">{2}</ph>',  <ph id="3">{3}</ph>으로부터 제거 중.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 부지 증서를 복사함: '<ph id="1">{1}</ph>' 그리고 '<ph id="2">{2}</ph>',  <ph id="3">{3}</ph>(으)로부터 제거 중.</target>
       </trans-unit>
       <trans-unit id="Notify" xml:space="preserve">
         <source xml:space="preserve">Notify</source>
@@ -55968,7 +55968,7 @@
       </trans-unit>
       <trans-unit id="Industrial Mill" xml:space="preserve">
         <source xml:space="preserve">Industrial Mill</source>
-        <target xml:space="preserve" state="translated">산업용 맷돌</target>
+        <target xml:space="preserve" state="translated">산업용 방앗간</target>
       </trans-unit>
       <trans-unit id="A machine with the life long purpose of turning raw plastic into usable furniture and devices." xml:space="preserve">
         <source xml:space="preserve">A machine with the life long purpose of turning raw plastic into usable furniture and devices.</source>
@@ -70942,7 +70942,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Costs {0} {1}. You have {2} now, {3} after." xml:space="preserve">
         <source xml:space="preserve">Costs <ph id="0">{0}</ph> <ph id="1">{1}</ph>. You have <ph id="2">{2}</ph> now, <ph id="3">{3}</ph> after.</source>
-        <target state="translated">비용: <ph id="0">{0}</ph> <ph id="1">{1}</ph>. 현재 <ph id="2">{2}</ph>를 보유하고 있으며, <ph id="3">{3}</ph>를 사용했습니다.</target>
+        <target state="translated">비용: <ph id="0">{0}</ph> <ph id="1">{1}</ph>. 현재 <ph id="2">{2}</ph>개를 보유하고 있으며, 설치 후 <ph id="3">{3}</ph>개가 남습니다.</target>
       </trans-unit>
       <trans-unit id="Required room tier goes up to {0} (currently {1}). If your room can't keep up, the table will stop working." xml:space="preserve" translate="no">
         <source xml:space="preserve">Required room tier goes up to <ph id="0">{0}</ph> (currently <ph id="1">{1}</ph>). If your room can't keep up, the table will stop working.</source>
@@ -72582,8 +72582,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Module effects are paused: the grid can't supply the module-raised power right now.">
         <source xml:space="preserve">Module effects are paused: the grid can't supply the module-raised power right now.</source>
       </trans-unit>
-      <trans-unit id="Required room tier goes up from {0} to {1}; your room is tier {2}. If the room later drops below the requirement, module effects pause until it recovers; the table keeps working at its base requirements.">
+      <trans-unit id="Required room tier goes up from {0} to {1}; your room is tier {2}. If the room later drops below the requirement, module effects pause until it recovers; the table keeps working at its base requirements." xml:space="preserve">
         <source xml:space="preserve">Required room tier goes up from <ph id="0">{0}</ph> to <ph id="1">{1}</ph>; your room is tier <ph id="2">{2}</ph>. If the room later drops below the requirement, module effects pause until it recovers; the table keeps working at its base requirements.</source>
+        <target state="translated">요구되는 방 등급이 <ph id="0">{0}</ph>에서 <ph id="1">{1}</ph>로 증가합니다; 현재 방 등급 <ph id="2">{2}</ph>. 만약 방 등급이 요구사항 미만으로 떨어질 경우, 복구 될 때 까지 모듈의 효과가 일시정지됩니다; 그동안 작업대는 기본 요구사항으로 작동됩니다.</target>
       </trans-unit>
       <trans-unit id="Raises the table's power from {0} to {1}{2}. During outages it falls back to {3} with module effects paused." xml:space="preserve">
         <source xml:space="preserve">Raises the table's power from <ph id="0">{0}</ph> to <ph id="1">{1}</ph><ph id="2">{2}</ph>. During outages it falls back to <ph id="3">{3}</ph> with module effects paused.</source>
