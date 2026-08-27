@@ -1650,7 +1650,7 @@
       </trans-unit>
       <trans-unit id="Mill" xml:space="preserve">
         <source xml:space="preserve">Mill</source>
-        <target xml:space="preserve" state="translated">맷돌</target>
+        <target xml:space="preserve" state="translated">방앗간</target>
       </trans-unit>
       <trans-unit id="Mint" xml:space="preserve">
         <source xml:space="preserve">Mint</source>
@@ -17898,7 +17898,7 @@
       </trans-unit>
       <trans-unit id="Arrastra" xml:space="preserve">
         <source xml:space="preserve">Arrastra</source>
-        <target xml:space="preserve" state="translated">돌 맷돌</target>
+        <target xml:space="preserve" state="translated">연자매</target>
       </trans-unit>
       <trans-unit id="A primitive rock mill of dragged boulders." xml:space="preserve">
         <source xml:space="preserve">A primitive rock mill of dragged boulders.</source>
@@ -31598,7 +31598,7 @@
       </trans-unit>
       <trans-unit id="Arrastra Recipe" xml:space="preserve">
         <source xml:space="preserve">Arrastra Recipe</source>
-        <target xml:space="preserve" state="translated">돌 맷돌 제작법</target>
+        <target xml:space="preserve" state="translated">연자매 제작법</target>
       </trans-unit>
       <trans-unit id="Campfire Recipe" xml:space="preserve">
         <source xml:space="preserve">Campfire Recipe</source>
@@ -55716,7 +55716,7 @@
       </trans-unit>
       <trans-unit id="Mill Stone" xml:space="preserve">
         <source xml:space="preserve">Mill Stone</source>
-        <target xml:space="preserve" state="translated">맷돌용 돌</target>
+        <target xml:space="preserve" state="translated">맷돌</target>
       </trans-unit>
       <trans-unit id="A high quality method of repairing your tools reducing waste." xml:space="preserve">
         <source xml:space="preserve">A high quality method of repairing your tools reducing waste.</source>
@@ -55760,7 +55760,7 @@
       </trans-unit>
       <trans-unit id="Whetstone" xml:space="preserve">
         <source xml:space="preserve">Whetstone</source>
-        <target xml:space="preserve" state="translated">숫돌</target>
+        <target xml:space="preserve" state="translated">판형 숫돌</target>
       </trans-unit>
       <trans-unit id="Petals taken through a drying and grinding stage leaving this fine powder." xml:space="preserve">
         <source xml:space="preserve">Petals taken through a drying and grinding stage leaving this fine powder.</source>
