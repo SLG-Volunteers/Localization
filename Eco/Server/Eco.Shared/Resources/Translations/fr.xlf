@@ -70995,21 +70995,25 @@ Ctrl - x100</target>
       <trans-unit id="Heavy Mineral Decontaminant">
         <source xml:space="preserve">Heavy Mineral Decontaminant</source>
       </trans-unit>
-      <trans-unit id="Industrial reagent that neutralizes toxic chemical contamination. Costly to produce, but the only way to recover land past the chemical self-cleaning ceiling.">
+      <trans-unit id="Industrial reagent that neutralizes toxic chemical contamination. Costly to produce, but the only way to recover land past the chemical self-cleaning ceiling." xml:space="preserve">
         <source xml:space="preserve">Industrial reagent that neutralizes toxic chemical contamination. Costly to produce, but the only way to recover land past the chemical self-cleaning ceiling.</source>
+        <target state="needs-translation">Réactif industriel qui neutralise la contamination par produits chimiques toxiques. Couteux à produire, mais c'est le seul moyen de traiter une zone ayant dépassée le seuil d'auto nettoyage.</target>
       </trans-unit>
       <trans-unit id="Chemical Neutralizer" xml:space="preserve">
         <source xml:space="preserve">Chemical Neutralizer</source>
         <target state="translated">Neutralisant Chimique</target>
       </trans-unit>
-      <trans-unit id="A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on wednesdays.">
+      <trans-unit id="A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on wednesdays." xml:space="preserve">
         <source xml:space="preserve">A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on wednesdays.</source>
+        <target state="needs-translation">Une benne rigide qui peut être déplacée, peut contenir un grand nombre d'ordures et ne fuit que les vendredis.</target>
       </trans-unit>
-      <trans-unit id="A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on mondays.">
+      <trans-unit id="A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on mondays." xml:space="preserve">
         <source xml:space="preserve">A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on mondays.</source>
+        <target state="needs-translation">Une benne rigide qui peut être déplacée, peut contenir un grand nombre d'ordures et ne fuit que les lundis.</target>
       </trans-unit>
-      <trans-unit id="A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on fridays.">
+      <trans-unit id="A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on fridays." xml:space="preserve">
         <source xml:space="preserve">A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on fridays.</source>
+        <target state="needs-translation">Une benne rigide qui peut être déplacée, peut contenir un grand nombre d'ordures et ne fuit que les vendredis.</target>
       </trans-unit>
       <trans-unit id="Water recovered from treating waste effluent. Safe to release back into the environment, but no longer fit to feed machinery — pipe it out to the world.">
         <source xml:space="preserve">Water recovered from treating waste effluent. Safe to release back into the environment, but no longer fit to feed machinery — pipe it out to the world.</source>
@@ -71017,8 +71021,9 @@ Ctrl - x100</target>
       <trans-unit id="Reclaimed Water">
         <source xml:space="preserve">Reclaimed Water</source>
       </trans-unit>
-      <trans-unit id="A rig that allows a truck to move dumpsters.">
+      <trans-unit id="A rig that allows a truck to move dumpsters." xml:space="preserve">
         <source xml:space="preserve">A rig that allows a truck to move dumpsters.</source>
+        <target state="needs-translation">Équipement qui permet à un camion de déplacer les bennes.</target>
       </trans-unit>
       <trans-unit id="Truck Dumpster Loader">
         <source xml:space="preserve">Truck Dumpster Loader</source>
