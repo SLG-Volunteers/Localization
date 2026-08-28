@@ -72657,8 +72657,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="{0} pollution cannot be decontaminated.">
         <source xml:space="preserve"><ph id="0">{0}</ph> pollution cannot be decontaminated.</source>
       </trans-unit>
-      <trans-unit id="Increases Blast Furnace Pollution by {0}.">
+      <trans-unit id="Increases Blast Furnace Pollution by {0}." xml:space="preserve">
         <source xml:space="preserve">Increases Blast Furnace Pollution by <ph id="0">{0}</ph>.</source>
+        <target state="translated">Увеличивает загрязнение от Доменной печи на <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="It still holds {0} L of {1}, which will spill on the spot — a polluting fluid applies its ground pollution immediately.">
         <source xml:space="preserve">It still holds <ph id="0">{0}</ph> L of <ph id="1">{1}</ph>, which will spill on the spot — a polluting fluid applies its ground pollution immediately.</source>
@@ -72701,8 +72702,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve"><ph id="0">{0}</ph> output is blocked — halted until it can drain. Connect its pipe, free room downstream, or check the receiving machine accepts <ph id="1">{1}</ph>.</source>
         <target state="translated">Выход <ph id="0">{0}</ph> заблокирован - производство остановлено, пока не будет обеспечен проток жидкости. Подсоедините трубу со свободным протоком на линии, или проверьте принимают ли подключенные машины <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="{0} pipe is disconnected — running on the buffered {1} L.">
+      <trans-unit id="{0} pipe is disconnected — running on the buffered {1} L." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> pipe is disconnected — running on the buffered <ph id="1">{1}</ph> L.</source>
+        <target state="translated"><ph id="0">{0}</ph> труба не присоединена — работает на внутреннем баке <ph id="1">{1}</ph> л.</target>
       </trans-unit>
       <trans-unit id="{0} buffer is empty — waiting for supply to arrive." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> buffer is empty — waiting for supply to arrive.</source>
@@ -72754,15 +72756,17 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve">Limited Storage</source>
         <target state="translated">Место в хранилище ограничено</target>
       </trans-unit>
-      <trans-unit id="The store can't fit everything it wants to buy.">
+      <trans-unit id="The store can't fit everything it wants to buy." xml:space="preserve">
         <source xml:space="preserve">The store can't fit everything it wants to buy.</source>
+        <target state="translated">Магазин не может вместить всё, что хочет купить.</target>
       </trans-unit>
       <trans-unit id="Limited Funds" xml:space="preserve">
         <source xml:space="preserve">Limited Funds</source>
         <target state="translated">Средства ограниченны</target>
       </trans-unit>
-      <trans-unit id="The store can't afford everything it wants to buy.">
+      <trans-unit id="The store can't afford everything it wants to buy." xml:space="preserve">
         <source xml:space="preserve">The store can't afford everything it wants to buy.</source>
+        <target state="translated">Магазин не может позволить себе купить всё, что хочет.</target>
       </trans-unit>
       <trans-unit id="In-World Sale">
         <source xml:space="preserve">In-World Sale</source>
@@ -72852,8 +72856,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve">Module effects are paused: the grid can't supply the module-raised power right now.</source>
         <target state="translated">Действие эффекта от модуля остановлено: энергосеть не соответствует требованиям повышенной мощности для модуля.</target>
       </trans-unit>
-      <trans-unit id="Required room tier goes up from {0} to {1}; your room is tier {2}. If the room later drops below the requirement, module effects pause until it recovers; the table keeps working at its base requirements.">
+      <trans-unit id="Required room tier goes up from {0} to {1}; your room is tier {2}. If the room later drops below the requirement, module effects pause until it recovers; the table keeps working at its base requirements." xml:space="preserve">
         <source xml:space="preserve">Required room tier goes up from <ph id="0">{0}</ph> to <ph id="1">{1}</ph>; your room is tier <ph id="2">{2}</ph>. If the room later drops below the requirement, module effects pause until it recovers; the table keeps working at its base requirements.</source>
+        <target state="translated">Требуемый уровень помещения повысился с <ph id="0">{0}</ph> до <ph id="1">{1}</ph>; текущий уровень помещения <ph id="2">{2}</ph>. Если уровень комнаты опустится ниже требуемого, то эффект модуля будет остановлен, а верстак продолжит работу на своих базовых требованиях.</target>
       </trans-unit>
       <trans-unit id="Raises the table's power from {0} to {1}{2}. During outages it falls back to {3} with module effects paused." xml:space="preserve">
         <source xml:space="preserve">Raises the table's power from <ph id="0">{0}</ph> to <ph id="1">{1}</ph><ph id="2">{2}</ph>. During outages it falls back to <ph id="3">{3}</ph> with module effects paused.</source>
