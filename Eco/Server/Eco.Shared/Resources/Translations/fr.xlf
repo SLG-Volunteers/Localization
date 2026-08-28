@@ -71025,26 +71025,33 @@ Ctrl - x100</target>
         <source xml:space="preserve">A rig that allows a truck to move dumpsters.</source>
         <target state="needs-translation">Équipement qui permet à un camion de déplacer les bennes.</target>
       </trans-unit>
-      <trans-unit id="Truck Dumpster Loader">
+      <trans-unit id="Truck Dumpster Loader" xml:space="preserve">
         <source xml:space="preserve">Truck Dumpster Loader</source>
+        <target state="needs-translation">Porteur de Benne pour Camion</target>
       </trans-unit>
-      <trans-unit id="A flatbed for the steam truck.">
+      <trans-unit id="A flatbed for the steam truck." xml:space="preserve">
         <source xml:space="preserve">A flatbed for the steam truck.</source>
+        <target state="needs-translation">Plateau pour le camion à vapeur.</target>
       </trans-unit>
-      <trans-unit id="Steam Truck Flatbed">
+      <trans-unit id="Steam Truck Flatbed" xml:space="preserve">
         <source xml:space="preserve">Steam Truck Flatbed</source>
+        <target state="needs-translation">Plateau de camion à vapeur</target>
       </trans-unit>
-      <trans-unit id="A flatbed for the modern truck.">
+      <trans-unit id="A flatbed for the modern truck." xml:space="preserve">
         <source xml:space="preserve">A flatbed for the modern truck.</source>
+        <target state="needs-translation">Un plateau pour le camion moderne.</target>
       </trans-unit>
-      <trans-unit id="Truck Flatbed">
+      <trans-unit id="Truck Flatbed" xml:space="preserve">
         <source xml:space="preserve">Truck Flatbed</source>
+        <target state="needs-translation">Plateau de camion</target>
       </trans-unit>
-      <trans-unit id="Truck Garbage Collector">
+      <trans-unit id="Truck Garbage Collector" xml:space="preserve">
         <source xml:space="preserve">Truck Garbage Collector</source>
+        <target state="needs-translation">Collecteur de Déchets du Camion</target>
       </trans-unit>
-      <trans-unit id="Steam Truck Garbage Collector">
+      <trans-unit id="Steam Truck Garbage Collector" xml:space="preserve">
         <source xml:space="preserve">Steam Truck Garbage Collector</source>
+        <target state="needs-translation">Collecteur de Déchets du Camion à Vapeur</target>
       </trans-unit>
       <trans-unit id="Leftover residue from garbage sorting — compost, inert garbage and pollutants mixed together. Run it through a Residuals Sorter to separate it.">
         <source xml:space="preserve">Leftover residue from garbage sorting — compost, inert garbage and pollutants mixed together. Run it through a Residuals Sorter to separate it.</source>
