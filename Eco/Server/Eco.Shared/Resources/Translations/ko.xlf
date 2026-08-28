@@ -72590,9 +72590,11 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve">Raises the table's power from <ph id="0">{0}</ph> to <ph id="1">{1}</ph><ph id="2">{2}</ph>. During outages it falls back to <ph id="3">{3}</ph> with module effects paused.</source>
         <target state="translated">동력 소모량을 <ph id="0">{0}</ph>에서 <ph id="1">{1}</ph><ph id="2">{2}</ph>로 증가 시킵니다. 전력 부족시 모듈 효과가 일시적으로 중단되어 <ph id="3">{3}</ph>으로 되돌아갑니다.</target>
       </trans-unit>
-      <trans-unit id="Can't install {0}: the room doesn't meet the requirements this table would have with it installed.&#10;{1}">
+      <trans-unit id="Can't install {0}: the room doesn't meet the requirements this table would have with it installed.&#10;{1}" xml:space="preserve">
         <source xml:space="preserve">Can't install <ph id="0">{0}</ph>: the room doesn't meet the requirements this table would have with it installed.
 <ph id="1">{1}</ph></source>
+        <target state="translated"><ph id="0">{0}</ph>을(를) 설치할 수 없습니다: 해당 모듈이 설치될 경우 이 작업대의 증가된 방 요구사항을 충족할 수 없습니다..
+<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Can't install {0}: the table isn't currently powered.">
         <source xml:space="preserve">Can't install <ph id="0">{0}</ph>: the table isn't currently powered.</source>
