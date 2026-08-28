@@ -45901,7 +45901,7 @@
       </trans-unit>
       <trans-unit id="{0} has met the requirements to annex {1} at any time!" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has met the requirements to annex <ph id="1">{1}</ph> at any time!</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> теперь может аннексировать <ph id="1">{1}</ph> в любое время!</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> теперь могут аннексировать <ph id="1">{1}</ph> в любое время!</target>
       </trans-unit>
       <trans-unit id="{0} now has {1} of the culture it needs to annex {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> now has <ph id="1">{1}</ph> of the culture it needs to annex <ph id="2">{2}</ph>.</source>
@@ -72522,8 +72522,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Sky back on the world clock at <ph id="0">{0:0}</ph>h, for every player.</source>
         <target state="translated">Состояние неба возвращено к времени мира на <ph id="0">{0:0}</ph>ч, для всех игроков.</target>
       </trans-unit>
-      <trans-unit id="Sun moved to {0:0}h, still stopped for every player.">
+      <trans-unit id="Sun moved to {0:0}h, still stopped for every player." xml:space="preserve">
         <source xml:space="preserve">Sun moved to <ph id="0">{0:0}</ph>h, still stopped for every player.</source>
+        <target state="translated">Положение солнца установлено на <ph id="0">{0:0}</ph>ч, всё еще остановлено для всех игроков.</target>
       </trans-unit>
       <trans-unit id="Sun moved to {0:0}h for every player, and keeps moving from there." xml:space="preserve">
         <source xml:space="preserve">Sun moved to <ph id="0">{0:0}</ph>h for every player, and keeps moving from there.</source>
@@ -72556,8 +72557,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Carry Weight: <ph id="0">{0}</ph></source>
         <target state="translated">Переносимый вес: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Max Calories: {0}">
+      <trans-unit id="Max Calories: {0}" xml:space="preserve">
         <source xml:space="preserve">Max Calories: <ph id="0">{0}</ph></source>
+        <target state="translated">Макс калорий: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Calorie Cost: {0} {1}" xml:space="preserve">
         <source xml:space="preserve">Calorie Cost: <ph id="0">{0}</ph> <ph id="1">{1}</ph></source>
@@ -72574,8 +72576,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Backpack Slots: <ph id="0">{0}</ph></source>
         <target state="translated">Ячейки рюкзака: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Carried Slots: {0}">
+      <trans-unit id="Carried Slots: {0}" xml:space="preserve">
         <source xml:space="preserve">Carried Slots: <ph id="0">{0}</ph></source>
+        <target state="translated">Дополнительные ячейки рук: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Effects When Worn" xml:space="preserve">
         <source xml:space="preserve">Effects When Worn</source>
