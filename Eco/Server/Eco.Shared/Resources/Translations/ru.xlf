@@ -72864,9 +72864,11 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve">Raises the table's power from <ph id="0">{0}</ph> to <ph id="1">{1}</ph><ph id="2">{2}</ph>. During outages it falls back to <ph id="3">{3}</ph> with module effects paused.</source>
         <target state="translated">Увеличивает затраты энергии для верстака с <ph id="0">{0}</ph> до <ph id="1">{1}</ph><ph id="2">{2}</ph>. Во время отключения энергии снижается обратно до <ph id="3">{3}</ph> при остановке действия модуля.</target>
       </trans-unit>
-      <trans-unit id="Can't install {0}: the room doesn't meet the requirements this table would have with it installed.&#10;{1}">
+      <trans-unit id="Can't install {0}: the room doesn't meet the requirements this table would have with it installed.&#10;{1}" xml:space="preserve">
         <source xml:space="preserve">Can't install <ph id="0">{0}</ph>: the room doesn't meet the requirements this table would have with it installed.
 <ph id="1">{1}</ph></source>
+        <target state="translated">Нельзя установить <ph id="0">{0}</ph>: уровень помещения не соответствует требованиям.
+<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Can't install {0}: the table isn't currently powered." xml:space="preserve">
         <source xml:space="preserve">Can't install <ph id="0">{0}</ph>: the table isn't currently powered.</source>
@@ -72879,24 +72881,29 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="{0} with {1}">
         <source xml:space="preserve"><ph id="0">{0}</ph> with <ph id="1">{1}</ph></source>
       </trans-unit>
-      <trans-unit id="{0}: {1} ({2})">
+      <trans-unit id="{0}: {1} ({2})" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>: <ph id="1">{1}</ph> (<ph id="2">{2}</ph>)</source>
+        <target state="translated"><ph id="0">{0}</ph>: <ph id="1">{1}</ph> (<ph id="2">{2}</ph>)</target>
       </trans-unit>
-      <trans-unit id="This table has no module slots.">
+      <trans-unit id="This table has no module slots." xml:space="preserve">
         <source xml:space="preserve">This table has no module slots.</source>
+        <target state="translated">У этого верстака нет ячеек для модулей.</target>
       </trans-unit>
       <trans-unit id="{0}: 1 every {1} L filtered. Next in {2} L ({3}%)." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>: 1 every <ph id="1">{1}</ph> L filtered. Next in <ph id="2">{2}</ph> L (<ph id="3">{3}</ph>%).</source>
         <target state="translated"><ph id="0">{0}</ph>: 1 за каждые <ph id="1">{1}</ph> л отфильтрованных стоков. Следующие через <ph id="2">{2}</ph> л (<ph id="3">{3}</ph>%).</target>
       </trans-unit>
-      <trans-unit id="Output {0}">
+      <trans-unit id="Output {0}" xml:space="preserve">
         <source xml:space="preserve">Output <ph id="0">{0}</ph></source>
+        <target state="translated">Выход <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="No access to target account.">
+      <trans-unit id="No access to target account." xml:space="preserve">
         <source xml:space="preserve">No access to target account.</source>
+        <target state="translated">Нет доступа к целевому банковскому счету.</target>
       </trans-unit>
-      <trans-unit id="Copied currency and fee settings.">
+      <trans-unit id="Copied currency and fee settings." xml:space="preserve">
         <source xml:space="preserve">Copied currency and fee settings.</source>
+        <target state="translated">Настройки валюты и стоимости скопированы.</target>
       </trans-unit>
       <trans-unit id="Apply this restriction to every recipe on this table that uses {0}?">
         <source xml:space="preserve">Apply this restriction to every recipe on this table that uses <ph id="0">{0}</ph>?</source>
@@ -72926,8 +72933,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve">Pipe X-Ray</source>
         <target state="translated">Отображать трубы внутри стен</target>
       </trans-unit>
-      <trans-unit id="While carrying a pipe, pipes routed inside blocks are highlighted through them.">
+      <trans-unit id="While carrying a pipe, pipes routed inside blocks are highlighted through them." xml:space="preserve">
         <source xml:space="preserve">While carrying a pipe, pipes routed inside blocks are highlighted through them.</source>
+        <target state="translated">Пока вы несёте трубу, другие трубы, проложенные внутри строительным блоков будут подсвечиваться.</target>
       </trans-unit>
       <trans-unit id="Allow flying, then double-tap Jump to start or stop flying">
         <source xml:space="preserve">Allow flying, then double-tap Jump to start or stop flying</source>
@@ -73212,8 +73220,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="No carried items">
         <source xml:space="preserve">No carried items</source>
       </trans-unit>
-      <trans-unit id="{0}&#10;&#10;{1}">
+      <trans-unit id="{0}&#10;&#10;{1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph><ph id="1">{1}</ph></source>
+        <target state="translated"><ph id="0">{0}</ph><ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="OUTPUT STORAGES (SHARED)">
         <source xml:space="preserve">OUTPUT STORAGES (SHARED)</source>
