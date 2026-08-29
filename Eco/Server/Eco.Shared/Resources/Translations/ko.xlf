@@ -67164,7 +67164,7 @@ Upgraded tools will allow you to place multiple blocks at a time.</source>
       <trans-unit id="Ground pollution reduces the room value.&#10;" xml:space="preserve">
         <source xml:space="preserve">Ground pollution reduces the room value.
 </source>
-        <target xml:space="preserve" state="translated">토양 오염은 지역 가치를 떨어뜨립니다.
+        <target xml:space="preserve" state="translated">토양 오염은 해당 지역 하우징 점수를 떨어뜨립니다.
 </target>
       </trans-unit>
       <trans-unit id="Affected By:&#10;" xml:space="preserve">
