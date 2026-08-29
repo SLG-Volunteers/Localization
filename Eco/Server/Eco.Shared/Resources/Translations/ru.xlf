@@ -67307,8 +67307,8 @@ Try loading or rejoining the server.</source>
       <trans-unit id="This key is currently assigned to {0}.&#10;Do you want to assign it here instead?" xml:space="preserve">
         <source xml:space="preserve">This key is currently assigned to <ph id="0">{0}</ph>.
 Do you want to assign it here instead?</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Эта клавиша сейчас привязана к <ph id="0">{0}</ph>.
-Хочешь привязать её сюда?</target>
+        <target xml:space="preserve" state="translated">Эта клавиша сейчас привязана к <ph id="0">{0}</ph>.
+Хотите переназначить её на это действие?</target>
       </trans-unit>
       <trans-unit id="Pollution: {0}&#13;&#10;" xml:space="preserve" translate="no">
         <source xml:space="preserve">Pollution: <ph id="0">{0}</ph>
