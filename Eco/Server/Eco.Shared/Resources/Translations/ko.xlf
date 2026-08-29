@@ -22696,7 +22696,7 @@
       </trans-unit>
       <trans-unit id="Consumes: {0}w of {1} power" xml:space="preserve">
         <source xml:space="preserve">Consumes: <ph id="0">{0}</ph>w of <ph id="1">{1}</ph> power</source>
-        <target xml:space="preserve" state="translated">소비량: 전체 동력 <ph id="1">{1}</ph> 중 <ph id="0">{0}</ph>w</target>
+        <target xml:space="preserve" state="translated">소비량: 전체 <ph id="1">{1}</ph> 동력 중 <ph id="0">{0}</ph>w</target>
       </trans-unit>
       <trans-unit id="Produces: {0}w of {1} power" xml:space="preserve">
         <source xml:space="preserve">Produces: <ph id="0">{0}</ph>w of <ph id="1">{1}</ph> power</source>
@@ -50488,7 +50488,7 @@
       </trans-unit>
       <trans-unit id="Consumes: {0}w of {1} power." xml:space="preserve">
         <source xml:space="preserve">Consumes: <ph id="0">{0}</ph>w of <ph id="1">{1}</ph> power.</source>
-        <target xml:space="preserve" state="translated">소비량: 전체 동력 <ph id="1">{1}</ph> 중 <ph id="0">{0}</ph>w.</target>
+        <target xml:space="preserve" state="translated">소비량: 전체 <ph id="1">{1}</ph> 동력 중 <ph id="0">{0}</ph>w.</target>
       </trans-unit>
       <trans-unit id="Produces: {0}w of {1} power." xml:space="preserve">
         <source xml:space="preserve">Produces: <ph id="0">{0}</ph>w of <ph id="1">{1}</ph> power.</source>
@@ -71573,8 +71573,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Won't pollute the ground for another ~{0}.">
         <source xml:space="preserve">Won't pollute the ground for another ~<ph id="0">{0}</ph>.</source>
       </trans-unit>
-      <trans-unit id="Reduces the ground pollution of stored waste by {0}.">
+      <trans-unit id="Reduces the ground pollution of stored waste by {0}." xml:space="preserve">
         <source xml:space="preserve">Reduces the ground pollution of stored waste by <ph id="0">{0}</ph>.</source>
+        <target state="translated">이 곳에 저장된 쓰레기에서 발생하는 토양 오염을 <ph id="0">{0}</ph>만큼 줄여줍니다.</target>
       </trans-unit>
       <trans-unit id="Adds {0} {1} per unit to the claim it's stored or dumped in, reaching full effect in ~{2} days.">
         <source xml:space="preserve">Adds <ph id="0">{0}</ph> <ph id="1">{1}</ph> per unit to the claim it's stored or dumped in, reaching full effect in ~<ph id="2">{2}</ph> days.</source>
@@ -72236,8 +72237,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Agriculture Research Paper Basic</source>
         <target state="translated">기초 농업 연구지</target>
       </trans-unit>
-      <trans-unit id="Gathering Research Paper Advanced">
+      <trans-unit id="Gathering Research Paper Advanced" xml:space="preserve">
         <source xml:space="preserve">Gathering Research Paper Advanced</source>
+        <target state="translated">고급 채집 연구지</target>
       </trans-unit>
       <trans-unit id="Layout Defaults Applied">
         <source xml:space="preserve">Layout Defaults Applied</source>
@@ -72308,8 +72310,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Synthetic Phosphate Fertilizer">
         <source xml:space="preserve">Synthetic Phosphate Fertilizer</source>
       </trans-unit>
-      <trans-unit id="Dendrology Research Paper Advanced Hull Planks">
+      <trans-unit id="Dendrology Research Paper Advanced Hull Planks" xml:space="preserve">
         <source xml:space="preserve">Dendrology Research Paper Advanced Hull Planks</source>
+        <target state="translated">고급 선각 산림학 연구지</target>
       </trans-unit>
       <trans-unit id="Cancelled — collect the remaining items to remove it from the table.">
         <source xml:space="preserve">Cancelled — collect the remaining items to remove it from the table.</source>
