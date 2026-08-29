@@ -71570,15 +71570,17 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Acid Rain">
         <source xml:space="preserve">Acid Rain</source>
       </trans-unit>
-      <trans-unit id="Won't pollute the ground for another ~{0}.">
+      <trans-unit id="Won't pollute the ground for another ~{0}." xml:space="preserve">
         <source xml:space="preserve">Won't pollute the ground for another ~<ph id="0">{0}</ph>.</source>
+        <target state="translated">~<ph id="0">{0}</ph> 이후에 토양 오염을 방출합니다.</target>
       </trans-unit>
       <trans-unit id="Reduces the ground pollution of stored waste by {0}." xml:space="preserve">
         <source xml:space="preserve">Reduces the ground pollution of stored waste by <ph id="0">{0}</ph>.</source>
         <target state="translated">이 곳에 저장된 쓰레기에서 발생하는 토양 오염을 <ph id="0">{0}</ph>만큼 줄여줍니다.</target>
       </trans-unit>
-      <trans-unit id="Adds {0} {1} per unit to the claim it's stored or dumped in, reaching full effect in ~{2} days.">
+      <trans-unit id="Adds {0} {1} per unit to the claim it's stored or dumped in, reaching full effect in ~{2} days." xml:space="preserve">
         <source xml:space="preserve">Adds <ph id="0">{0}</ph> <ph id="1">{1}</ph> per unit to the claim it's stored or dumped in, reaching full effect in ~<ph id="2">{2}</ph> days.</source>
+        <target state="translated">한 개당 <ph id="0">{0}</ph> <ph id="1">{1}</ph>을(를) 생성합니다, 최대 영향을 주기까지 ~<ph id="2">{2}</ph>일이 걸립니다.</target>
       </trans-unit>
       <trans-unit id="Pollution Grace">
         <source xml:space="preserve">Pollution Grace</source>
