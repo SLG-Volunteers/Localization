@@ -108,7 +108,7 @@ Existuje celá řada možností platby pro pracovní skupinu a pro stejnou praco
       </trans-unit>
       <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.</source>
-        <target xml:space="preserve" state="translated">Komponenta smluvní rady umožňuje občanům zveřejňovat nebo přijímat smlouvy a nabídky pracovních večírků</target>
+        <target xml:space="preserve" state="translated">Komponenta smluvní rady umožňuje občanům zveřejňovat nebo přijímat smlouvy a nabídky pracovních večírků.</target>
       </trans-unit>
       <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
@@ -317,14 +317,14 @@ Citizens who have been granted Veto power in the current {Election Process|Elect
 
 To run for elected titles, first an eligible citizen must use the Start Election action. Once an election has started, eligible citizens can select Enter Election to join the race and give a campaign speech. Candidates can opt to Withdraw from Election at any time using the option available on a Ballot Box.
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
+        <target state="translated">
 Při použití komponenty „Civic Action“ u {volební urny|položky volební urny} se občané mohou ucházet o {volené funkce} a účastnit se voleb. 
 
 Stisknutím tlačítka „Hlasovat“ jsou hráči přesměrováni na webové rozhraní, kde mohou vidět všechny probíhající {volby}, diskutovat o nich se svými spoluobčany, podložit své argumenty {daty} a hlasovat.  
 
 Občané, kterým bylo v aktuálním {volebním procesu|volebních procesech} uděleno právo veta, mohou volby okamžitě zvrátit.
 
-Chce-li se občan ucházet o volené funkce, musí nejprve jako oprávněný občan použít akci „Zahájit volby“. Jakmile volby začnou, mohou oprávnění občané zvolit možnost „Vstoupit do voleb“, aby se zapojili do volebního klání a přednesli volební projev. Kandidáti se mohou kdykoli rozhodnout „Stáhnout se z voleb“ pomocí možnosti dostupné u volební urny.
+Chce-li se občan ucházet o volené funkce, musí nejprve oprávněný občan použít akci „Zahájit volby“. Jakmile volby začnou, mohou oprávnění občané zvolit možnost „Vstoupit do voleb“, aby se zapojili do volebního klání a přednesli volební projev. Kandidáti se mohou kdykoli rozhodnout použít akci „Stáhnout se z voleb“, která je dostupná u volební urny.
 </target>
       </trans-unit>
       <trans-unit id="37" xml:space="preserve">
@@ -339,10 +339,10 @@ The Citizen Conditions dictate which citizens the executive action applies to, a
 
 The Action on Each Citizen will take effect as soon as the executive action is approved. Multiple actions can be performed at once for each citizen who meets the conditions.
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
+        <target state="translated">
 Použití komponenty „Civic Action“ v {Executive Office|Executive Office Item} umožňuje zvolenému představiteli provést jednorázová výkonná opatření, která se týkají skupiny občanů.
 
-Podmínky pro občany určují, na které občany se výkonná akce vztahuje, a pro splnění podmínek lze u občana nastavit více podmínek. Chcete-li provést akci pro všechny občany, použijte jako podmínku pro občany {Demografické údaje} „Všichni“.
+Podmínky pro občany určují, na které občany se výkonná akce vztahuje, u občana lze nastavit více kriterií, po jejichž splnění se na něj bude výkon vztahovat. Chcete-li provést akci pro všechny občany, použijte jako podmínku pro občany {Demografické údaje} „Všichni“.
 
 Akce u každého občana nabude účinnosti, jakmile bude výkonná akce schválena. U každého občana, který splňuje podmínky, lze provést více akcí najednou.
 </target>
@@ -359,7 +359,7 @@ The Resign from Office action allows any elected official to step down from thei
 
 The Remove Official from Office action allows citizens who have been given the authority to remove elected titles from office. The same rules for finding a successor apply as if the official resigned.
 </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
+        <target state="translated">
 V {Úřadu vlády|položce Úřad vlády} umožňuje komponenta Občanská akce voleným funkcionářům rezignovat nebo odvolat z funkce jiné volené funkcionáře.
 
 Akce „Odstoupit z funkce“ umožňuje jakémukoli volenému představiteli odstoupit ze své funkce. Pokud byl při vytvoření voleného titulu přiřazen nástupnický titul, bude nový představitel náhodně vybrán ze všech občanů, kteří tento titul drží; v opačném případě se volený titul uvolní.
@@ -369,12 +369,12 @@ Akce „Odvolat představitele z funkce“ umožňuje občanům, kterým byla ud
       </trans-unit>
       <trans-unit id="41" xml:space="preserve">
         <source xml:space="preserve">Allows citizens to participate in elections and perform executive actions.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Občanům umožňuje účastnit se voleb a vykonávat výkonné funkce.</target>
+        <target state="translated">Umožňuje občanům účastnit se voleb a vykonávat výkonné funkce.</target>
       </trans-unit>
       <trans-unit id="42" xml:space="preserve">
         <source xml:space="preserve">    
 The Civic Object Component allows citizens to propose, amend, and repeal various Civic Objects. </source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">    
+        <target state="needs-translation">    
 Komponenta „Civic Object“ umožňuje občanům navrhovat, měnit a rušit různé občanské předpisy. </target>
       </trans-unit>
       <trans-unit id="43" xml:space="preserve">
@@ -402,7 +402,7 @@ Komponenta „Civic Object“ umožňuje občanům navrhovat, měnit a rušit r�
 
 Title Users are the citizens considered title holders and receive all associated benefits and conditions.
 	</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Správci titulů mohou titul přejmenovat a jmenovat nové správce a držitele titulů. Správci titulů se nepovažují za uživatele titulů.
+        <target state="translated">Správci titulů mohou titul přejmenovat a jmenovat nové správce a držitele titulů. Správci titulů se nepovažují za uživatele titulů.
 
 Uživatelé titulů jsou občané, kteří jsou považováni za držitele titulů a požívají všech souvisejících výhod a podmínek.
 	</target>
@@ -419,21 +419,21 @@ When deciding what is Required of Office Holders, a variety of conditions can be
  
 Wages are paid to Title Users from any {Bank Account|Bank Accounts} that a Title Manager has been given permission to use in the {Bank Component}. Wages are paid each hour (depending on World settings) into the personal account of each Title User. The Wage Type can be used to exclude offline hours from wage payments.
 	</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">
+        <target state="translated">
 V pokročilých nastaveních lze nastavit požadavky na držitele titulů a kvalifikovaným držitelům titulů lze přiřadit hodinové mzdy.
   
-Při rozhodování o tom, co se od držitelů titulů vyžaduje, lze nastavit celou řadu podmínek. Pokud občan tyto požadavky nesplní, ztratí své oprávnění jako držitel titulu. Pomocí „sady podmínek“ lze pro držitele titulů nastavit více požadavků.
+Při rozhodování o tom, co se od držitelů titulů vyžaduje, lze nastavit celou řadu podmínek. Pokud občan tyto požadavky nesplní, ztratí svou pozici držitele titulu. Pomocí „sady podmínek“ lze pro držitele titulů nastavit více požadavků.
  
 Mzdy jsou držitelům titulů vypláceny z jakéhokoli {bankovního účtu|bankovních účtů}, k jehož použití má správce titulů v {bankovní komponentě} uděleno oprávnění. Mzdy jsou vypláceny každou hodinu (v závislosti na nastavení světa) na osobní účet každého držitele titulu. Pomocí typu mzdy lze z výplaty mzdy vyloučit hodiny, kdy je držitel titulu offline.
 	</target>
       </trans-unit>
       <trans-unit id="51" xml:space="preserve">
         <source xml:space="preserve">Allows creation and management of non-elected titles.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Umožňuje vytváření a správu nevolených funkcí.</target>
+        <target state="translated">Umožňuje vytváření a správu nevolených funkcí.</target>
       </trans-unit>
       <trans-unit id="52" xml:space="preserve">
         <source xml:space="preserve">The Treasury Component allows {Elected Titles} that have been granted the right to 'Set Taxes at the Treasury' to adjust the tax rate and select the World Default Currency.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Komponenta „Treasury“ umožňuje {zvoleným titulům}, kterým bylo uděleno právo „stanovovat daně v pokladně“, upravovat daňovou sazbu a volit výchozí světovou měnu.</target>
+        <target state="translated">Komponenta „Treasury“ umožňuje {Elected Titles}, kterým bylo uděleno právo „stanovovat daně v pokladně“, upravovat daňovou sazbu a volit výchozí světovou měnu.</target>
       </trans-unit>
       <trans-unit id="53" xml:space="preserve">
         <source xml:space="preserve">Taxes</source>
@@ -1199,7 +1199,7 @@ Grafy jsou nejužitečnější pro porovnávání stavů různých ukazatelů a 
       </trans-unit>
       <trans-unit id="145" xml:space="preserve">
         <source xml:space="preserve">Heatmaps</source>
-        <target xml:space="preserve" state="translated">Heatmaps</target>
+        <target xml:space="preserve" state="translated">Teplotní mapy</target>
       </trans-unit>
       <trans-unit id="146" xml:space="preserve">
         <source xml:space="preserve">
