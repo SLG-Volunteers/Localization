@@ -71121,8 +71121,9 @@ Ctrl – x100</target>
       <trans-unit id="Mineral binder that immobilizes heavy-metal contamination. Apply to a claim to reduce its Heavy Mineral Pollution — the only way down once it passes the self-cleaning ceiling.">
         <source xml:space="preserve">Mineral binder that immobilizes heavy-metal contamination. Apply to a claim to reduce its Heavy Mineral Pollution — the only way down once it passes the self-cleaning ceiling.</source>
       </trans-unit>
-      <trans-unit id="Heavy Mineral Decontaminant">
+      <trans-unit id="Heavy Mineral Decontaminant" xml:space="preserve">
         <source xml:space="preserve">Heavy Mineral Decontaminant</source>
+        <target state="translated">Dekontaminace Těžkých Kovů</target>
       </trans-unit>
       <trans-unit id="Industrial reagent that neutralizes toxic chemical contamination. Costly to produce, but the only way to recover land past the chemical self-cleaning ceiling." xml:space="preserve">
         <source xml:space="preserve">Industrial reagent that neutralizes toxic chemical contamination. Costly to produce, but the only way to recover land past the chemical self-cleaning ceiling.</source>
