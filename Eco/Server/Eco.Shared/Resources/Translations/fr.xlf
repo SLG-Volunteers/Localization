@@ -70959,16 +70959,18 @@ Ctrl - x100</target>
         <source xml:space="preserve">Sets a buffer pollution layer value (soil/heavymineral/chemical) around you.</source>
         <note>Help text for chat command /buffer</note>
       </trans-unit>
-      <trans-unit id="decon">
+      <trans-unit id="decon" xml:space="preserve">
         <source xml:space="preserve">decon</source>
+        <target state="needs-translation">decon</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Queues decontamination of a buffer layer (soil/heavymineral/chemical) around you.">
         <source xml:space="preserve">Queues decontamination of a buffer layer (soil/heavymineral/chemical) around you.</source>
         <note>Help text for chat command /decon</note>
       </trans-unit>
-      <trans-unit id="info">
+      <trans-unit id="info" xml:space="preserve">
         <source xml:space="preserve">info</source>
+        <target state="translated">info</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Dumps pollution values for the claim you're standing on.">
