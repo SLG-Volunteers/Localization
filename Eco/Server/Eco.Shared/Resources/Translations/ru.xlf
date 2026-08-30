@@ -43326,7 +43326,7 @@
       </trans-unit>
       <trans-unit id="become a resident" xml:space="preserve">
         <source xml:space="preserve">become a resident</source>
-        <target xml:space="preserve" state="translated">стал жильцом</target>
+        <target xml:space="preserve" state="translated">стать жильцом</target>
       </trans-unit>
       <trans-unit id="{0} power grid(s), containing {1} component(s). {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> power grid(s), containing <ph id="1">{1}</ph> component(s). <ph id="2">{2}</ph></source>
@@ -73103,8 +73103,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Payment Direction">
         <source xml:space="preserve">Payment Direction</source>
       </trans-unit>
-      <trans-unit id="Who pays whom when someone else empties this container. Every price below is entered as a plain amount; this decides its direction.">
+      <trans-unit id="Who pays whom when someone else empties this container. Every price below is entered as a plain amount; this decides its direction." xml:space="preserve">
         <source xml:space="preserve">Who pays whom when someone else empties this container. Every price below is entered as a plain amount; this decides its direction.</source>
+        <target state="translated">Кто и кому платит, когда кто-то вывозит мусор из этого хранилища. Сумма, вводимая в поле ниже, просто число, а эта строчка определяет направление оплаты.</target>
       </trans-unit>
       <trans-unit id="Default per-item amount applied to items not listed in PricedItems. Set to 0 to require an explicit listing.">
         <source xml:space="preserve">Default per-item amount applied to items not listed in PricedItems. Set to 0 to require an explicit listing.</source>
@@ -73115,17 +73116,21 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Percentage of speciality experience that is also gained as character level experience (which otherwise only comes from food/housing). Not recommended for public servers.Multiplied by a factor of 0.01 Default: 0">
         <source xml:space="preserve">Percentage of speciality experience that is also gained as character level experience (which otherwise only comes from food/housing). Not recommended for public servers.Multiplied by a factor of 0.01 Default: 0</source>
       </trans-unit>
-      <trans-unit id="Owner Pays Collector">
+      <trans-unit id="Owner Pays Collector" xml:space="preserve">
         <source xml:space="preserve">Owner Pays Collector</source>
+        <target state="translated">Владелец платит сборщику</target>
       </trans-unit>
-      <trans-unit id="Collector Pays Owner">
+      <trans-unit id="Collector Pays Owner" xml:space="preserve">
         <source xml:space="preserve">Collector Pays Owner</source>
+        <target state="translated">Сборщик платит владельцу</target>
       </trans-unit>
-      <trans-unit id="You pay whoever empties this container. The usual setup for garbage: someone else hauls it away and you foot the bill.">
+      <trans-unit id="You pay whoever empties this container. The usual setup for garbage: someone else hauls it away and you foot the bill." xml:space="preserve">
         <source xml:space="preserve">You pay whoever empties this container. The usual setup for garbage: someone else hauls it away and you foot the bill.</source>
+        <target state="translated">Вы платите любому, что вывозит отходы. Обычно это выглядит так: кто-то вывозит мусор, а вы платите ему за эту услугу.</target>
       </trans-unit>
-      <trans-unit id="Whoever empties this container pays you, as if buying its contents.">
+      <trans-unit id="Whoever empties this container pays you, as if buying its contents." xml:space="preserve">
         <source xml:space="preserve">Whoever empties this container pays you, as if buying its contents.</source>
+        <target state="translated">Тот, кто забирает содержимое этого хранилища платит вам, как если бы покупал у вас товар из хранилища.</target>
       </trans-unit>
       <trans-unit id="Garbage sound-test scene ready. Park a truck at a source and press Q to collect; press V near the empty stockpile to dump.">
         <source xml:space="preserve">Garbage sound-test scene ready. Park a truck at a source and press Q to collect; press V near the empty stockpile to dump.</source>
