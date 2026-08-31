@@ -45619,7 +45619,7 @@
       </trans-unit>
       <trans-unit id="Vehicle is turned over. Dismounting!" xml:space="preserve">
         <source xml:space="preserve">Vehicle is turned over. Dismounting!</source>
-        <target xml:space="preserve" state="translated">차량이 전복되었습니다. 하차하십시오!</target>
+        <target xml:space="preserve" state="translated">차량이 전복되었습니다. 하차합니다!</target>
       </trans-unit>
       <trans-unit id="Set {0}" xml:space="preserve">
         <source xml:space="preserve">Set <ph id="0">{0}</ph></source>
