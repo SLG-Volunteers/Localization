@@ -29775,7 +29775,7 @@
       </trans-unit>
       <trans-unit id="Draft election of type {0}." xml:space="preserve">
         <source xml:space="preserve">Draft election of type <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 유형의 초안 선택.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 선거 진행.</target>
       </trans-unit>
       <trans-unit id="Priority: {0}" xml:space="preserve">
         <source xml:space="preserve">Priority: <ph id="0">{0}</ph></source>
@@ -29783,7 +29783,7 @@
       </trans-unit>
       <trans-unit id="Execute now." xml:space="preserve">
         <source xml:space="preserve">Execute now.</source>
-        <target xml:space="preserve" state="translated">지금 실행하십시오.</target>
+        <target xml:space="preserve" state="translated">즉시 실행.</target>
       </trans-unit>
       <trans-unit id="(When multiple civic articles can apply to an action, the one with highest priority is used.)" xml:space="preserve">
         <source xml:space="preserve">(When multiple civic articles can apply to an action, the one with highest priority is used.)</source>
