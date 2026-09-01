@@ -11462,7 +11462,7 @@
       </trans-unit>
       <trans-unit id="Character Leveled-Up" xml:space="preserve">
         <source xml:space="preserve">Character Leveled-Up</source>
-        <target xml:space="preserve" state="translated">캐릭터의 레벨이 올랐음</target>
+        <target xml:space="preserve" state="translated">캐릭터 레벨 업</target>
       </trans-unit>
       <trans-unit id="{0} has no {1} on {2} account." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has no <ph id="1">{1}</ph> on <ph id="2">{2}</ph> account.</source>
@@ -43289,7 +43289,7 @@
       </trans-unit>
       <trans-unit id="It was founded by {0}." xml:space="preserve">
         <source xml:space="preserve">It was founded by <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>가(이) 세웠습니다.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>(이)가 세웠습니다.</target>
       </trans-unit>
       <trans-unit id="A {0} of {1}." xml:space="preserve">
         <source xml:space="preserve">A <ph id="0">{0}</ph> of <ph id="1">{1}</ph>.</source>
@@ -45347,7 +45347,7 @@
       </trans-unit>
       <trans-unit id="A new {0} has been founded, {1}! {2}" xml:space="preserve">
         <source xml:space="preserve">A new <ph id="0">{0}</ph> has been founded, <ph id="1">{1}</ph>! <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated">새로운 '<ph id="0">'{0}</ph>가 설립되었습니다. <ph id="1">{1}</ph>! <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated">새로운 <ph id="0">{0}</ph>(이)가 설립되었습니다. <ph id="1">{1}</ph>! <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="This monument marks the beginning of the {0}." xml:space="preserve">
         <source xml:space="preserve">This monument marks the beginning of the <ph id="0">{0}</ph>.</source>
