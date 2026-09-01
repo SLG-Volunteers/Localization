@@ -18438,7 +18438,7 @@
       </trans-unit>
       <trans-unit id="Slope Turn" xml:space="preserve">
         <source xml:space="preserve">Slope Turn</source>
-        <target xml:space="preserve" state="needs-translation">Hang drehen</target>
+        <target xml:space="preserve" state="translated">Gefälle (Kurve)</target>
       </trans-unit>
       <trans-unit id="Slope Side" xml:space="preserve">
         <source xml:space="preserve">Slope Side</source>
