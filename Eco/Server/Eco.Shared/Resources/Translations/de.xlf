@@ -70947,8 +70947,9 @@ Strg – x100</target>
         <source xml:space="preserve">How many citizens holding the dedicated profession are required before an area benefit building applies its bonuses.</source>
         <target state="translated">Wie viele Bürger den entsprechenden Beruf ausüben müssen, damit ein Gebietsvorteilsgebäude seine Boni anwendet.</target>
       </trans-unit>
-      <trans-unit id="If set, area benefit buildings dedicated to a profession only apply their bonuses while enough citizens hold that profession.">
+      <trans-unit id="If set, area benefit buildings dedicated to a profession only apply their bonuses while enough citizens hold that profession." xml:space="preserve">
         <source xml:space="preserve">If set, area benefit buildings dedicated to a profession only apply their bonuses while enough citizens hold that profession.</source>
+        <target state="translated">Wenn festgelegt, wirkt sich das Gebiet auf Gebäude, die einer bestimmten Profession gewidmet sind, nur dann positiv aus, wenn genügend Bürger diesen Beruf ausüben.</target>
       </trans-unit>
       <trans-unit id="buffer" xml:space="preserve">
         <source xml:space="preserve">buffer</source>
