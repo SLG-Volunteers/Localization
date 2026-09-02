@@ -18462,7 +18462,7 @@
       </trans-unit>
       <trans-unit id="Side Brace" xml:space="preserve">
         <source xml:space="preserve">Side Brace</source>
-        <target xml:space="preserve" state="needs-translation">Seidenstrebe</target>
+        <target xml:space="preserve" state="translated">Seitenstrebe</target>
       </trans-unit>
       <trans-unit id="Roof" xml:space="preserve">
         <source xml:space="preserve">Roof</source>
@@ -18538,15 +18538,15 @@
       </trans-unit>
       <trans-unit id="Basic Slope Side" xml:space="preserve">
         <source xml:space="preserve">Basic Slope Side</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Grundlegende Hangseite</target>
+        <target xml:space="preserve" state="translated">Grundlegende Gefälleseite</target>
       </trans-unit>
       <trans-unit id="Basic Slope Point" xml:space="preserve">
         <source xml:space="preserve">Basic Slope Point</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Grundlegender Slope-Punkt</target>
+        <target xml:space="preserve" state="translated">Grundlegender Gefällepunkt</target>
       </trans-unit>
       <trans-unit id="Basic Slope Corner" xml:space="preserve">
         <source xml:space="preserve">Basic Slope Corner</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Grundlegende Steigung Ecke</target>
+        <target xml:space="preserve" state="translated">Grundlegende Gefälleecke</target>
       </trans-unit>
       <trans-unit id="Aqueduct" xml:space="preserve">
         <source xml:space="preserve">Aqueduct</source>
@@ -23618,7 +23618,7 @@
       </trans-unit>
       <trans-unit id="Tamper" xml:space="preserve">
         <source xml:space="preserve">Tamper</source>
-        <target xml:space="preserve" state="needs-translation">Tamper</target>
+        <target xml:space="preserve" state="translated">Stampfer</target>
       </trans-unit>
       <trans-unit id="Tree" xml:space="preserve">
         <source xml:space="preserve">Tree</source>
@@ -23634,7 +23634,7 @@
       </trans-unit>
       <trans-unit id="UserTracker" xml:space="preserve">
         <source xml:space="preserve">UserTracker</source>
-        <target xml:space="preserve" state="needs-translation">UserTracker</target>
+        <target xml:space="preserve" state="translated">Benutzer-Tracker</target>
       </trans-unit>
       <trans-unit id="Product" xml:space="preserve">
         <source xml:space="preserve">Product</source>
@@ -37616,7 +37616,7 @@
       </trans-unit>
       <trans-unit id="Server Log" xml:space="preserve">
         <source xml:space="preserve">Server Log</source>
-        <target xml:space="preserve" state="needs-translation">Server-Protokoll</target>
+        <target xml:space="preserve" state="translated">Server-Log</target>
       </trans-unit>
       <trans-unit id="The value must be between 0.01 and 1." xml:space="preserve">
         <source xml:space="preserve">The value must be between 0.01 and 1.</source>
@@ -37707,7 +37707,7 @@
       </trans-unit>
       <trans-unit id="ProfilingPlugin" xml:space="preserve">
         <source xml:space="preserve">ProfilingPlugin</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">ProfilingPlugin</target>
+        <target xml:space="preserve" state="translated">Profiling-Plugin</target>
       </trans-unit>
       <trans-unit id="Current list of members." xml:space="preserve">
         <source xml:space="preserve">Current list of members.</source>
@@ -71147,8 +71147,9 @@ Strg – x100</target>
         <source xml:space="preserve">A mechanical sorting system that processes mixed garbage and separates it into primary recycling types. Materials are categorized according to the fractioanl composition of the incoming waste, producing Mixed blocks of varies types, Bio Residue, Metal Scrap, Construction Scrap and Industrial Waste.</source>
         <target state="translated">Eine mechanische Sortieranlage verarbeitet gemischte Abfälle und trennt sie in primäre Recyclingarten. Die Materialien werden nach ihrer fraktionierten Zusammensetzung kategorisiert, wodurch gemischte Blöcke verschiedener Art, Bioreste, Metallschrott, Bauschutt und Industrieabfälle entstehen.</target>
       </trans-unit>
-      <trans-unit id="A multi-stage recycling system that handles complex industrial waste streams. Combining electricity separation, carbon processing, and mesh filtration, it extracts electronic waste, plastics, and hazardous pollutants into distinct categories for treatment and recovery.">
+      <trans-unit id="A multi-stage recycling system that handles complex industrial waste streams. Combining electricity separation, carbon processing, and mesh filtration, it extracts electronic waste, plastics, and hazardous pollutants into distinct categories for treatment and recovery." xml:space="preserve">
         <source xml:space="preserve">A multi-stage recycling system that handles complex industrial waste streams. Combining electricity separation, carbon processing, and mesh filtration, it extracts electronic waste, plastics, and hazardous pollutants into distinct categories for treatment and recovery.</source>
+        <target state="translated">Ein mehrstufiges Recyclingsystem zur Handhabung komplexer industrieller Abfallströme. Unter Kombination von Elektrosepariertrommeln, Kohlenstoffverarbeitung und Maschenfiltration extrahiert es Elektroschrott, Kunststoffe und gefährliche Schadstoffe in eindeutige Kategorien zur Behandlung und Verwertung.</target>
       </trans-unit>
       <trans-unit id="An advanced metal recovery system that processes mixed metallic scrap. Using a combination of magnetic separation and chemical extraction, it isolates iron, copper, and gold into individual blocks for recycling." xml:space="preserve">
         <source xml:space="preserve">An advanced metal recovery system that processes mixed metallic scrap. Using a combination of magnetic separation and chemical extraction, it isolates iron, copper, and gold into individual blocks for recycling.</source>
@@ -71210,56 +71211,72 @@ Strg – x100</target>
         <source xml:space="preserve">Maximum number of dinner parties a single player can participate in per day. Set to 0 or less for no limit.</source>
         <target state="translated">Maximale Anzahl an Dinnerpatys pro Tag, an denen ein einzelner Spieler Teilnehmen kann. Keine Beschrankung, falls 0 oder weniger.</target>
       </trans-unit>
-      <trans-unit id="Average ground pollution value at which the penalty reaches its maximum. Pollution above this value does not increase the penalty further. GroundPollution is capped at 1, so the penalty maxes out at full pollution.">
+      <trans-unit id="Average ground pollution value at which the penalty reaches its maximum. Pollution above this value does not increase the penalty further. GroundPollution is capped at 1, so the penalty maxes out at full pollution." xml:space="preserve">
         <source xml:space="preserve">Average ground pollution value at which the penalty reaches its maximum. Pollution above this value does not increase the penalty further. GroundPollution is capped at 1, so the penalty maxes out at full pollution.</source>
+        <target state="translated">Durchschnittlicher Bodenverschmutzungswert, bei dem die Strafe ihr Maximum erreicht. Eine Verschmutzung oberhalb dieses Werts erhöht die Strafe nicht weiter. Der Wert für die Bodenverschmutzung ist auf 1 begrenzt, sodass die Strafe bei maximaler Verschmutzung ihren Höchststand erreicht.</target>
       </trans-unit>
-      <trans-unit id="Pass fluid through when out of catalyst">
+      <trans-unit id="Pass fluid through when out of catalyst" xml:space="preserve">
         <source xml:space="preserve">Pass fluid through when out of catalyst</source>
+        <target state="translated">Flüssigkeit bei fehlendem Katalysator hindurchlassen</target>
       </trans-unit>
-      <trans-unit id="What to do when this filter runs out of catalyst. ON: let the incoming fluid pass straight through unfiltered (keeps the line flowing, but it isn't cleaned). OFF: stop and hold the fluid back until catalyst is restocked.">
+      <trans-unit id="What to do when this filter runs out of catalyst. ON: let the incoming fluid pass straight through unfiltered (keeps the line flowing, but it isn't cleaned). OFF: stop and hold the fluid back until catalyst is restocked." xml:space="preserve">
         <source xml:space="preserve">What to do when this filter runs out of catalyst. ON: let the incoming fluid pass straight through unfiltered (keeps the line flowing, but it isn't cleaned). OFF: stop and hold the fluid back until catalyst is restocked.</source>
+        <target state="translated">Was passiert, wenn der Filter keinen Katalysator mehr hat. EIN: die ankommende Flüssigkeit ungefiltert hindurchlassen (ermöglicht ununterbrochenen Fluss, jedoch ohne Reinigung). AUS: stoppt und hält die Flüssigkeit zurück bis wieder ein Katalysator vorhanden ist.</target>
       </trans-unit>
-      <trans-unit id="Allow Output">
+      <trans-unit id="Allow Output" xml:space="preserve">
         <source xml:space="preserve">Allow Output</source>
+        <target state="translated">Abfluss erlauben</target>
       </trans-unit>
       <trans-unit id="Allow stored fluid to drain out the output. Off (default): the tank holds everything. On: it drains at the full rate — out the connected pipe, or spilled onto the ground (which may pollute) if the output isn't piped to anything.">
         <source xml:space="preserve">Allow stored fluid to drain out the output. Off (default): the tank holds everything. On: it drains at the full rate — out the connected pipe, or spilled onto the ground (which may pollute) if the output isn't piped to anything.</source>
       </trans-unit>
-      <trans-unit id="Produced Garbage">
+      <trans-unit id="Produced Garbage" xml:space="preserve">
         <source xml:space="preserve">Produced Garbage</source>
+        <target state="translated">Produzierter Abfall</target>
       </trans-unit>
-      <trans-unit id="The garbage material produced.">
+      <trans-unit id="The garbage material produced." xml:space="preserve">
         <source xml:space="preserve">The garbage material produced.</source>
+        <target state="translated">Der angefalle Abfall.</target>
       </trans-unit>
-      <trans-unit id="The amount of garbage produced.">
+      <trans-unit id="The amount of garbage produced." xml:space="preserve">
         <source xml:space="preserve">The amount of garbage produced.</source>
+        <target state="translated">Die angefalle Menge an Abfall.</target>
       </trans-unit>
-      <trans-unit id="A citizen produced garbage as a byproduct of crafting.">
+      <trans-unit id="A citizen produced garbage as a byproduct of crafting." xml:space="preserve">
         <source xml:space="preserve">A citizen produced garbage as a byproduct of crafting.</source>
+        <target state="translated">Jeder Bürger/ jede Bürgerin produziert Abfall als Nebenprodukt beim Herstellen von Blöcken und Gegenständen.</target>
       </trans-unit>
-      <trans-unit id="The profession this building's bonuses apply to.">
+      <trans-unit id="The profession this building's bonuses apply to." xml:space="preserve">
         <source xml:space="preserve">The profession this building's bonuses apply to.</source>
+        <target state="translated">Die Profession, zu der die Boni des Gebäudes zugeordnet sind.</target>
       </trans-unit>
-      <trans-unit id="Invest a star to help activate this building's benefits.">
+      <trans-unit id="Invest a star to help activate this building's benefits." xml:space="preserve">
         <source xml:space="preserve">Invest a star to help activate this building's benefits.</source>
+        <target state="translated">Investiere einen Stern, um die Benefits des Gebäudes zu aktivieren.</target>
       </trans-unit>
-      <trans-unit id="Total Soil Pollution">
+      <trans-unit id="Total Soil Pollution" xml:space="preserve">
         <source xml:space="preserve">Total Soil Pollution</source>
+        <target state="translated">Gesamte Bodenverschmutzung</target>
       </trans-unit>
-      <trans-unit id="Total Heavy Mineral Pollution">
+      <trans-unit id="Total Heavy Mineral Pollution" xml:space="preserve">
         <source xml:space="preserve">Total Heavy Mineral Pollution</source>
+        <target state="translated">Gesamte Verschmutzung durch Schwermetalle</target>
       </trans-unit>
-      <trans-unit id="Total Chemical Pollution">
+      <trans-unit id="Total Chemical Pollution" xml:space="preserve">
         <source xml:space="preserve">Total Chemical Pollution</source>
+        <target state="translated">Gesamte Verschmutzung durch Chemikalien</target>
       </trans-unit>
-      <trans-unit id="Total Acid Rain Pollution">
+      <trans-unit id="Total Acid Rain Pollution" xml:space="preserve">
         <source xml:space="preserve">Total Acid Rain Pollution</source>
+        <target state="translated">Gesamte Verschmutzung durch Sauren Regen</target>
       </trans-unit>
-      <trans-unit id="The ground pollution density (0-1) at or above which the plant cannot reproduce and has zero yield. Between PollutionDensityTolerance and this value, yield falls off linearly.">
+      <trans-unit id="The ground pollution density (0-1) at or above which the plant cannot reproduce and has zero yield. Between PollutionDensityTolerance and this value, yield falls off linearly." xml:space="preserve">
         <source xml:space="preserve">The ground pollution density (0-1) at or above which the plant cannot reproduce and has zero yield. Between PollutionDensityTolerance and this value, yield falls off linearly.</source>
+        <target state="translated">Die Dichte der Bodenverschmutzung (0–1), ab der sich die Pflanze nicht mehr fortpflanzen kann und keinen Ertrag mehr liefert. Zwischen der Toleranzgrenze für die Verschmutzungsdichte (PollutionDensityTolerance) und diesem Wert sinkt der Ertrag linear ab.</target>
       </trans-unit>
-      <trans-unit id="The ground pollution density (0-1) up to which the plant is unaffected. Effects begin above this value. GroundPollution is now capped at 1, so this reads directly as a percentage.">
+      <trans-unit id="The ground pollution density (0-1) up to which the plant is unaffected. Effects begin above this value. GroundPollution is now capped at 1, so this reads directly as a percentage." xml:space="preserve">
         <source xml:space="preserve">The ground pollution density (0-1) up to which the plant is unaffected. Effects begin above this value. GroundPollution is now capped at 1, so this reads directly as a percentage.</source>
+        <target state="translated">Die Dichte der Bodenverschmutzung (0–1), bis zu dem die Pflanze nicht beeinträchtigt wird. Oberhalb dieses Werts treten Auswirkungen auf. Da der Wert für die Bodenverschmutzung nun auf maximal 1 begrenzt ist, lässt er sich direkt als Prozentsatz ablesen.</target>
       </trans-unit>
       <trans-unit id="Buffer Pollution Convergence Days">
         <source xml:space="preserve">Buffer Pollution Convergence Days</source>
@@ -71345,8 +71362,9 @@ Strg – x100</target>
       <trans-unit id="Water Spread Multiplier">
         <source xml:space="preserve">Water Spread Multiplier</source>
       </trans-unit>
-      <trans-unit id="Max Water Spread Radius">
+      <trans-unit id="Max Water Spread Radius" xml:space="preserve">
         <source xml:space="preserve">Max Water Spread Radius</source>
+        <target state="translated">Maximaler Wasser-Ausbreitungsradius</target>
       </trans-unit>
       <trans-unit id="Dynamic Render Range">
         <source xml:space="preserve">Dynamic Render Range</source>
@@ -71354,8 +71372,9 @@ Strg – x100</target>
       <trans-unit id="Dynamic Render Range Floor">
         <source xml:space="preserve">Dynamic Render Range Floor</source>
       </trans-unit>
-      <trans-unit id="Quick stash">
+      <trans-unit id="Quick stash" xml:space="preserve">
         <source xml:space="preserve">Quick stash</source>
+        <target state="translated">Schnellspeicher</target>
       </trans-unit>
       <trans-unit id="Sent {0} private messages to you from {1} test users.">
         <source xml:space="preserve">Sent <ph id="0">{0}</ph> private messages to you from <ph id="1">{1}</ph> test users.</source>
@@ -71381,11 +71400,13 @@ Strg – x100</target>
       <trans-unit id="Treatment">
         <source xml:space="preserve">Treatment</source>
       </trans-unit>
-      <trans-unit id="Garbage Sorting">
+      <trans-unit id="Garbage Sorting" xml:space="preserve">
         <source xml:space="preserve">Garbage Sorting</source>
+        <target state="translated">Müllsortierung</target>
       </trans-unit>
-      <trans-unit id="Butcher Wolf">
+      <trans-unit id="Butcher Wolf" xml:space="preserve">
         <source xml:space="preserve">Butcher Wolf</source>
+        <target state="translated">Metzger Wolf</target>
       </trans-unit>
       <trans-unit id="Running at {0} — not enough supply">
         <source xml:space="preserve">Running at <ph id="0">{0}</ph> — not enough supply</source>
@@ -71393,8 +71414,9 @@ Strg – x100</target>
       <trans-unit id="{0} ({1} base at {2} operating efficiency)">
         <source xml:space="preserve"><ph id="0">{0}</ph> (<ph id="1">{1}</ph> base at <ph id="2">{2}</ph> operating efficiency)</source>
       </trans-unit>
-      <trans-unit id="customized">
+      <trans-unit id="customized" xml:space="preserve">
         <source xml:space="preserve">customized</source>
+        <target state="translated">angepasst</target>
       </trans-unit>
       <trans-unit id="Allowed Items">
         <source xml:space="preserve">Allowed Items</source>
