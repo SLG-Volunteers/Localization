@@ -26642,7 +26642,7 @@
       </trans-unit>
       <trans-unit id="{0} cannot be produced anymore since the associated {1} has been destroyed." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cannot be produced anymore since the associated <ph id="1">{1}</ph> has been destroyed.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>関連の <ph id="1">{1}</ph> が破壊されたため、もはや生産できません。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 関連の <ph id="1">{1}</ph> が破壊されたため、もはや生産できません。</target>
       </trans-unit>
       <trans-unit id="A citizen could have voted, but didn't (in an election that ended successfully)." xml:space="preserve">
         <source xml:space="preserve">A citizen could have voted, but didn't (in an election that ended successfully).</source>
@@ -26654,7 +26654,7 @@
       </trans-unit>
       <trans-unit id="You can't afford that. You have {0} in {1} but need {2}." xml:space="preserve">
         <source xml:space="preserve">You can't afford that. You have <ph id="0">{0}</ph> in <ph id="1">{1}</ph> but need <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated">そんな余裕はない。 <ph id="1">{1}</ph> に <ph id="0">{0}</ph> があるけれど<ph id="2">{2}</ph>が必要です。</target>
+        <target xml:space="preserve" state="translated">それは購入できません。 あなたは <ph id="0">{0}</ph> を <ph id="1">{1}</ph> 所持していますが <ph id="2">{2}</ph> 必要です。</target>
       </trans-unit>
       <trans-unit id="You can't afford that, your store credit would drop to {0}." xml:space="preserve">
         <source xml:space="preserve">You can't afford that, your store credit would drop to <ph id="0">{0}</ph>.</source>
@@ -26694,7 +26694,7 @@
       </trans-unit>
       <trans-unit id="{0} objects" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> objects</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>オブジェクト</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> オブジェクト</target>
       </trans-unit>
       <trans-unit id="where {0} is any of {1}" xml:space="preserve">
         <source xml:space="preserve">where <ph id="0">{0}</ph> is any of <ph id="1">{1}</ph></source>
@@ -26718,7 +26718,7 @@
       </trans-unit>
       <trans-unit id="event method name mismatch at index {0}, {1}: {2}, {3}: {4}" xml:space="preserve">
         <source xml:space="preserve">event method name mismatch at index <ph id="0">{0}</ph>, <ph id="1">{1}</ph>: <ph id="2">{2}</ph>, <ph id="3">{3}</ph>: <ph id="4">{4}</ph></source>
-        <target xml:space="preserve" state="translated">イベントメソッド名の不一致はインデックス<ph id="0">{0}</ph>、<ph id="1">{1}</ph>: <ph id="2">{2}</ph>, <ph id="3">{3}</ph>: <ph id="4">{4}</ph></target>
+        <target xml:space="preserve" state="translated">イベントメソッド名の不一致はインデックス <ph id="0">{0}</ph>、<ph id="1">{1}</ph>: <ph id="2">{2}</ph>, <ph id="3">{3}</ph>: <ph id="4">{4}</ph></target>
       </trans-unit>
       <trans-unit id="The {0} has a component missing in the {1}: {2} (or at wrong position)" xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> has a component missing in the <ph id="1">{1}</ph>: <ph id="2">{2}</ph> (or at wrong position)</source>
@@ -26734,7 +26734,7 @@
       </trans-unit>
       <trans-unit id="The {0} missing a child from the {1}: {2}" xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> missing a child from the <ph id="1">{1}</ph>: <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph> で子どもが行方不明になった<ph id="0">{0}</ph>:<ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph> で子どもが行方不明になった <ph id="0">{0}</ph>: <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Children" xml:space="preserve">
         <source xml:space="preserve">Children</source>
@@ -27330,7 +27330,7 @@
       </trans-unit>
       <trans-unit id="{0} Act" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Act</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>法</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 法</target>
       </trans-unit>
       <trans-unit id="Multi-{0}" xml:space="preserve">
         <source xml:space="preserve">Multi-<ph id="0">{0}</ph></source>
@@ -27374,7 +27374,7 @@
       </trans-unit>
       <trans-unit id="Provision {0}" xml:space="preserve">
         <source xml:space="preserve">Provision <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">提供<ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">提供 <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Election for {0} started.  Voting ends in {1} hours." xml:space="preserve">
         <source xml:space="preserve">Election for <ph id="0">{0}</ph> started.  Voting ends in <ph id="1">{1}</ph> hours.</source>
@@ -27402,7 +27402,7 @@
       </trans-unit>
       <trans-unit id="Can't place a block there, it's blocked by {0}." xml:space="preserve">
         <source xml:space="preserve">Can't place a block there, it's blocked by <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">そこにブロックを置けません。<ph id="0">{0}</ph>で塞がれています。</target>
+        <target xml:space="preserve" state="translated">そこにブロックを置けません。<ph id="0">{0}</ph> で塞がれています。</target>
       </trans-unit>
       <trans-unit id="Can't place a block there, it's already stacked with {0}." xml:space="preserve">
         <source xml:space="preserve">Can't place a block there, it's already stacked with <ph id="0">{0}</ph>.</source>
@@ -27558,11 +27558,11 @@
       </trans-unit>
       <trans-unit id="{0} {1} {2} for {3}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph> for <ph id="3">{3}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph> のため<ph id="3">{3}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph> のため <ph id="3">{3}</ph></target>
       </trans-unit>
       <trans-unit id="{0} {1} {2} and {3} {4}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph> and <ph id="3">{3}</ph> <ph id="4">{4}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph>と<ph id="3">{3}</ph> <ph id="4">{4}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph> と <ph id="3">{3}</ph> <ph id="4">{4}</ph></target>
       </trans-unit>
       <trans-unit id="bartered" xml:space="preserve">
         <source xml:space="preserve">bartered</source>
