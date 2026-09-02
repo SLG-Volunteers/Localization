@@ -1384,8 +1384,12 @@ Waste that a machine has just produced is granted a day of grace before it begin
 
 The Ground Pollution map you can call up shows the sum of the four layers, spread outward from every contaminated claim. Plumes fall off with the square of the distance and they add together, so three neighbouring claims at 100% read, from a distance, exactly like a single claim at 300%. Their reach grows with the square root of the value: ten times the pollution carries about three times as far. A poisoned claim is never a private problem for long.
 </source>
-        <target xml:space="preserve" state="needs-translation">
-土壌や地下水面に一旦放出されると、土壌汚染物質を止めたり除去したりするのは容易ではありません。 Eco のさまざまな物質は地面汚染の原因となっており、最も顕著なのは、採掘からの尾鉱や、クラフトやその他のプレイヤーの活動から出るゴミです。 汚染物質の発生源が残っているか増加すると、汚染は時間の経過とともに濃度が増加する勾配として広がります。 汚染物質の発生源が地面との接触から除去されると、土壌の汚染とその拡大は、時間の経過とともに消失します。
+        <target xml:space="preserve" state="translated">
+土壌汚染は区画ごとに「土壌・重金属・化学物質・酸性雨」の4層で追跡されます。世界に放置された汚染ブロックは、それが属する層に一律で 0.1 を加算します。したがって、区画に {TailingsItem} が10個置かれていれば、その区画の重金属汚染は最終的に 100% に達します。汚染層は即座にその数値へ跳ね上がるのではなく、約3日かけて徐々にその値へ収束します。そのため、流出はすぐには最大の影響を示さず、対処した後も完全に薄れるまで時間がかかります。汚染は廃棄物の「水平位置」のみを参照し、埋めても何も変わりません。
+
+機械が新たに生成した廃棄物には1日の猶予が与えられ、その間は汚染を発生しません。この猶予時間のうちにソーターや適切なコンテナへ運ぶことができます。一方、プレイヤーがただ地面に落とした廃棄物は、着地した瞬間から汚染を開始します。
+
+呼び出せる「土壌汚染マップ」は、4層の合計値を示し、汚染された区画から周囲へ広がる様子を表示します。汚染の広がり（プルーム）は距離の二乗に比例して減衰し、複数区画の汚染は合算されます。したがって、100%汚染の区画が3つ並んでいる場合、遠くから見ると単一区画の300%汚染と同じ強さに見えます。汚染の到達距離は汚染量の平方根に比例します。汚染が10倍なら、到達距離は約3倍になります。決して汚染された区画を「個人だけの問題」として長く放置しておくことはできません。
 </target>
       </trans-unit>
       <trans-unit id="170" xml:space="preserve">
@@ -1416,10 +1420,12 @@ Pipes are the other way water becomes a problem. An effluent released from an op
 
 Because open water only reflects its sources, there is nothing in it to scrub out directly. Contain or remove the sources on the shore, remediate the claims that feed it, and the water clears along with them.
 </source>
-        <target xml:space="preserve" state="needs-translation">
-水は汚染がより速く、より遠くまで広がり、下流に流れ込み、湖や海で花開く媒体です。 水中の汚染は通常、近くの地面の汚染源から発生しますが、大気汚染が多い地域では酸性雨のメカニズムを介して水中に侵入する可能性もあります。
+        <target xml:space="preserve" state="translated">
+水自体は汚染を保持せず、地面から受け取った汚染を運ぶだけです。プルームが水域に届くと、陸上よりもおよそ3倍遠くまで広がり、その分だけ希釈されて湖や海へ長く弱い尾を引くように伸びていきます。川岸にあるテーリングの山は、川岸そのものよりもはるかに広い範囲を汚染します。
 
-現時点で水質汚染を止める唯一の方法は発生源の除去ですが、将来的には浄化と修復戦略を検討しています。
+水が問題になるもう一つの経路がパイプです。開放されたパイプの出口から排出された廃液は、落ちた場所の地面を汚染し、それぞれの液体が対応する層を汚します。{SewageItem} は土壌を汚し、{IndustrialSewageItem} は重金属を運び、{ChemicalWasteFluidItem} はそれ自体が強い腐食性を持つため独自の層に分類されます。これらを {WasteFilterItem} に流し込めば、{WaterItem} として排出され、放流や再利用が可能なほど清浄になり、含まれていた固形物は回収されて保管や再利用ができます。
+
+開放水域はその源を反映するだけなので、水そのものを直接浄化する手段はありません。岸にある汚染源を封じるか除去し、それを供給している区画を改善すれば、水もそれに合わせて浄化されていきます。
 </target>
       </trans-unit>
       <trans-unit id="174" xml:space="preserve">
