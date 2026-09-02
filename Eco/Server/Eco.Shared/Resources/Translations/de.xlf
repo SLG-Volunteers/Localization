@@ -71326,26 +71326,33 @@ Strg – x100</target>
       <trans-unit id="Contribution of the Acid Rain Pollution buffer to ground pollution (ground = sum of each buffer × its ratio).">
         <source xml:space="preserve">Contribution of the Acid Rain Pollution buffer to ground pollution (ground = sum of each buffer × its ratio).</source>
       </trans-unit>
-      <trans-unit id="Soil Pollution">
+      <trans-unit id="Soil Pollution" xml:space="preserve">
         <source xml:space="preserve">Soil Pollution</source>
+        <target state="translated">Erdverschmutzung</target>
       </trans-unit>
-      <trans-unit id="Heavy Mineral Pollution">
+      <trans-unit id="Heavy Mineral Pollution" xml:space="preserve">
         <source xml:space="preserve">Heavy Mineral Pollution</source>
+        <target state="translated">Verschmutzung durch Schwermetalle</target>
       </trans-unit>
-      <trans-unit id="Chemical Pollution">
+      <trans-unit id="Chemical Pollution" xml:space="preserve">
         <source xml:space="preserve">Chemical Pollution</source>
+        <target state="translated">Verschmutzung durch Chemikalien</target>
       </trans-unit>
-      <trans-unit id="Acid Rain Pollution">
+      <trans-unit id="Acid Rain Pollution" xml:space="preserve">
         <source xml:space="preserve">Acid Rain Pollution</source>
+        <target state="translated">Verschmutzung durch sauren Regen</target>
       </trans-unit>
-      <trans-unit id="Ground Pollution Potential">
+      <trans-unit id="Ground Pollution Potential" xml:space="preserve">
         <source xml:space="preserve">Ground Pollution Potential</source>
+        <target state="translated">Bodenverschmutzungspotential</target>
       </trans-unit>
-      <trans-unit id="Soil Decontamination Pending">
+      <trans-unit id="Soil Decontamination Pending" xml:space="preserve">
         <source xml:space="preserve">Soil Decontamination Pending</source>
+        <target state="translated">Ausstehende Dekontamination der Erde</target>
       </trans-unit>
-      <trans-unit id="Heavy Mineral Decontamination Pending">
+      <trans-unit id="Heavy Mineral Decontamination Pending" xml:space="preserve">
         <source xml:space="preserve">Heavy Mineral Decontamination Pending</source>
+        <target state="translated">Ausstehende Dekontamination von Schwermetallen</target>
       </trans-unit>
       <trans-unit id="Chemical Decontamination Pending">
         <source xml:space="preserve">Chemical Decontamination Pending</source>
