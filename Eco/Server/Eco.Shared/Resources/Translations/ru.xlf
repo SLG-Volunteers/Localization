@@ -66618,7 +66618,7 @@
       </trans-unit>
       <trans-unit id="You are now sold out of {0} on {1}" xml:space="preserve">
         <source xml:space="preserve">You are now sold out of <ph id="0">{0}</ph> on <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">У вас сейчас нет в наличии <ph id="0">{0}</ph> на <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Вы распродали весь товар <ph id="0">{0}</ph> в магазине <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="unowned land" xml:space="preserve">
         <source xml:space="preserve">unowned land</source>
