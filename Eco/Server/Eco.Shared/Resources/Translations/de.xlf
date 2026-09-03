@@ -71392,26 +71392,31 @@ Strg – x100</target>
         <source xml:space="preserve">Sent <ph id="0">{0}</ph> private messages to you from <ph id="1">{1}</ph> test users.</source>
         <target state="translated"><ph id="0">{0}</ph> private Nachrichten von <ph id="1">{1}</ph> Testbenutzern wurden an dich gesendet.</target>
       </trans-unit>
-      <trans-unit id="Generate PM history for testing: sends messages to yourself from several distinct test users.">
+      <trans-unit id="Generate PM history for testing: sends messages to yourself from several distinct test users." xml:space="preserve">
         <source xml:space="preserve">Generate PM history for testing: sends messages to yourself from several distinct test users.</source>
+        <target state="translated">Generiere einen Verlauf privater Nachrichten zum Test: sendet dir selbst Nachrichten von einigen unterschiedlichen Test Nutzern.</target>
       </trans-unit>
       <trans-unit id="The garbage collector isn't responding — try re-attaching the module.">
         <source xml:space="preserve">The garbage collector isn't responding — try re-attaching the module.</source>
       </trans-unit>
-      <trans-unit id="Loader Liftable">
+      <trans-unit id="Loader Liftable" xml:space="preserve">
         <source xml:space="preserve">Loader Liftable</source>
+        <target state="translated">Lader anhebbar</target>
       </trans-unit>
       <trans-unit id="The dumpster loader isn't responding — try re-attaching the module.">
         <source xml:space="preserve">The dumpster loader isn't responding — try re-attaching the module.</source>
       </trans-unit>
-      <trans-unit id="Set Down Dumpster">
+      <trans-unit id="Set Down Dumpster" xml:space="preserve">
         <source xml:space="preserve">Set Down Dumpster</source>
+        <target state="translated">Müllcontainer absetzen</target>
       </trans-unit>
-      <trans-unit id="Containment">
+      <trans-unit id="Containment" xml:space="preserve">
         <source xml:space="preserve">Containment</source>
+        <target state="translated">Eindämmung</target>
       </trans-unit>
-      <trans-unit id="Treatment">
+      <trans-unit id="Treatment" xml:space="preserve">
         <source xml:space="preserve">Treatment</source>
+        <target state="translated">Behandlung</target>
       </trans-unit>
       <trans-unit id="Garbage Sorting" xml:space="preserve">
         <source xml:space="preserve">Garbage Sorting</source>
@@ -71421,8 +71426,9 @@ Strg – x100</target>
         <source xml:space="preserve">Butcher Wolf</source>
         <target state="translated">Metzger Wolf</target>
       </trans-unit>
-      <trans-unit id="Running at {0} — not enough supply">
+      <trans-unit id="Running at {0} — not enough supply" xml:space="preserve">
         <source xml:space="preserve">Running at <ph id="0">{0}</ph> — not enough supply</source>
+        <target state="translated">Läuft mit <ph id="0">{0}</ph> – Versorgung nicht ausreichend</target>
       </trans-unit>
       <trans-unit id="{0} ({1} base at {2} operating efficiency)">
         <source xml:space="preserve"><ph id="0">{0}</ph> (<ph id="1">{1}</ph> base at <ph id="2">{2}</ph> operating efficiency)</source>
@@ -71434,35 +71440,44 @@ Strg – x100</target>
       <trans-unit id="Allowed Items">
         <source xml:space="preserve">Allowed Items</source>
       </trans-unit>
-      <trans-unit id="Benefits:">
+      <trans-unit id="Benefits:" xml:space="preserve">
         <source xml:space="preserve">Benefits:</source>
+        <target state="translated">Vorteile:</target>
       </trans-unit>
-      <trans-unit id="{0}: {1} per craft">
+      <trans-unit id="{0}: {1} per craft" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>: <ph id="1">{1}</ph> per craft</source>
+        <target state="translated"><ph id="0">{0}</ph>: <ph id="1">{1}</ph> pro Herstellungsvorgang</target>
       </trans-unit>
       <trans-unit id="{0}: {1} of a block">
         <source xml:space="preserve"><ph id="0">{0}</ph>: <ph id="1">{1}</ph> of a block</source>
       </trans-unit>
-      <trans-unit id="When Recycled">
+      <trans-unit id="When Recycled" xml:space="preserve">
         <source xml:space="preserve">When Recycled</source>
+        <target state="translated">Beim Recyceln</target>
       </trans-unit>
-      <trans-unit id="Produced When Crafting">
+      <trans-unit id="Produced When Crafting" xml:space="preserve">
         <source xml:space="preserve">Produced When Crafting</source>
+        <target state="translated">Bei der Herstellung produziert</target>
       </trans-unit>
-      <trans-unit id="Recycled From">
+      <trans-unit id="Recycled From" xml:space="preserve">
         <source xml:space="preserve">Recycled From</source>
+        <target state="translated">Recycelt aus</target>
       </trans-unit>
-      <trans-unit id="Stock Value">
+      <trans-unit id="Stock Value" xml:space="preserve">
         <source xml:space="preserve">Stock Value</source>
+        <target state="translated">Bestandswert</target>
       </trans-unit>
-      <trans-unit id="Contents">
+      <trans-unit id="Contents" xml:space="preserve">
         <source xml:space="preserve">Contents</source>
+        <target state="translated">Inhalt(e)</target>
       </trans-unit>
-      <trans-unit id="Dedicated to: {0}">
+      <trans-unit id="Dedicated to: {0}" xml:space="preserve">
         <source xml:space="preserve">Dedicated to: <ph id="0">{0}</ph></source>
+        <target state="translated">Zugewiesen an: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Invest a star">
+      <trans-unit id="Invest a star" xml:space="preserve">
         <source xml:space="preserve">Invest a star</source>
+        <target state="translated">Stern einsetzen</target>
       </trans-unit>
       <trans-unit id="Recycles a full garbage block every {0} seconds, with {1} efficiency. Accepts only items with a {2}.">
         <source xml:space="preserve">Recycles a full garbage block every <ph id="0">{0}</ph> seconds, with <ph id="1">{1}</ph> efficiency. Accepts only items with a <ph id="2">{2}</ph>.</source>
