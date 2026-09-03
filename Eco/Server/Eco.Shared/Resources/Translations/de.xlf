@@ -71354,20 +71354,25 @@ Strg – x100</target>
         <source xml:space="preserve">Heavy Mineral Decontamination Pending</source>
         <target state="translated">Ausstehende Dekontamination von Schwermetallen</target>
       </trans-unit>
-      <trans-unit id="Chemical Decontamination Pending">
+      <trans-unit id="Chemical Decontamination Pending" xml:space="preserve">
         <source xml:space="preserve">Chemical Decontamination Pending</source>
+        <target state="translated">Ausstehende Dekontamination von Chemikalien</target>
       </trans-unit>
-      <trans-unit id="Spread Scale">
+      <trans-unit id="Spread Scale" xml:space="preserve">
         <source xml:space="preserve">Spread Scale</source>
+        <target state="translated">Ausbreitungsskala</target>
       </trans-unit>
-      <trans-unit id="Min Spread Value">
+      <trans-unit id="Min Spread Value" xml:space="preserve">
         <source xml:space="preserve">Min Spread Value</source>
+        <target state="translated">Minimaler Ausbreitungswert</target>
       </trans-unit>
-      <trans-unit id="Max Spread Radius">
+      <trans-unit id="Max Spread Radius" xml:space="preserve">
         <source xml:space="preserve">Max Spread Radius</source>
+        <target state="translated">Maximaler Ausbreitungsradius</target>
       </trans-unit>
-      <trans-unit id="Water Spread Multiplier">
+      <trans-unit id="Water Spread Multiplier" xml:space="preserve">
         <source xml:space="preserve">Water Spread Multiplier</source>
+        <target state="translated">Ausbreitungsmultiplilator für Wasser</target>
       </trans-unit>
       <trans-unit id="Max Water Spread Radius" xml:space="preserve">
         <source xml:space="preserve">Max Water Spread Radius</source>
@@ -71383,8 +71388,9 @@ Strg – x100</target>
         <source xml:space="preserve">Quick stash</source>
         <target state="translated">Schnellspeicher</target>
       </trans-unit>
-      <trans-unit id="Sent {0} private messages to you from {1} test users.">
+      <trans-unit id="Sent {0} private messages to you from {1} test users." xml:space="preserve">
         <source xml:space="preserve">Sent <ph id="0">{0}</ph> private messages to you from <ph id="1">{1}</ph> test users.</source>
+        <target state="translated"><ph id="0">{0}</ph> private Nachrichten von <ph id="1">{1}</ph> Testbenutzern wurden an dich gesendet.</target>
       </trans-unit>
       <trans-unit id="Generate PM history for testing: sends messages to yourself from several distinct test users.">
         <source xml:space="preserve">Generate PM history for testing: sends messages to yourself from several distinct test users.</source>
