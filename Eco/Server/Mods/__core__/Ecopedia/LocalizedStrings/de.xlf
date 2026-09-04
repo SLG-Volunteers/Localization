@@ -3116,13 +3116,13 @@ Wenn ein Bürger zum Bewohner eines Grundstückes wird, erhält er einen speziel
         <source xml:space="preserve">
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+        <target xml:space="preserve" state="needs-translation">
 Stapel identischer Gegenstände können schnell zusammengefasst und sortiert werden, indem du auf die Schaltfläche „Zusammenfassen“ unten rechts im Lagerbereich klickst. Außerdem kannst du das Lager filtern, um nur bestimmte Arten von Gegenständen anzuzeigen, indem du den Gegenstandsauswähler nutzt oder einfach den Namen des Gegenstands eingibst.
   </target>
       </trans-unit>
       <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Der Handel zwischen Bürgern mit unterschiedlichen Fähigkeiten und unterschiedlichen Gütern ist das Rückgrat der Wirtschaft.</target>
+        <target xml:space="preserve" state="needs-translation">Der Handel zwischen Bürgern mit unterschiedlichen Fähigkeiten und unterschiedlichen Gütern ist das Rückgrat der Wirtschaft.</target>
       </trans-unit>
       <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
@@ -3144,7 +3144,7 @@ Stapel identischer Gegenstände können schnell zusammengefasst und sortiert wer
       </trans-unit>
       <trans-unit id="359" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Einstweilige Verfügungen</target>
+        <target xml:space="preserve" state="translated">Unterlassungsverfügungen</target>
       </trans-unit>
       <trans-unit id="360" xml:space="preserve">
         <source xml:space="preserve">
@@ -3256,19 +3256,19 @@ Beachte, dass die Art der Siedlung eine Rolle spielt: Eine Siedlung kann nur and
       </trans-unit>
       <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Einstellungen zur Annexion</target>
+        <target xml:space="preserve" state="needs-translation">Einstellungen zur Annexion</target>
       </trans-unit>
       <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
+        <target xml:space="preserve" state="needs-translation">
     Die Teilnahme an Dinnerpartys sorgt für Kultur in deiner Siedlung und gewährt dir einen Fertigkeitsbonus auf deine Ernährung. Sie sind eine wertvolle Möglichkeit, die Kulturgenerierung der Welt zu steigern, indem sie Bürger bei gemeinsamen Mahlzeiten zusammenbringen.
   </target>
       </trans-unit>
       <trans-unit id="378" xml:space="preserve">
         <source xml:space="preserve">Requirements</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Anforderungen</target>
+        <target xml:space="preserve" state="needs-translation">Anforderungen</target>
       </trans-unit>
       <trans-unit id="379" xml:space="preserve">
         <source xml:space="preserve">
@@ -3292,7 +3292,7 @@ Beachte, dass die Art der Siedlung eine Rolle spielt: Eine Siedlung kann nur and
       </trans-unit>
       <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Frische</target>
+        <target xml:space="preserve" state="needs-translation">Frische</target>
       </trans-unit>
       <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
