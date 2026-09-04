@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="0" xml:space="preserve">
         <source xml:space="preserve">Components related to the economy.</source>
-        <target state="translated">Wirtschaftsbezogene Komponenten</target>
+        <target state="translated">Wirtschaftsbezogene Komponenten.</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
@@ -108,7 +108,7 @@ Es gibt eine Vielzahl von Zahlungsoptionen für eine Arbeitsgruppe, und es könn
       </trans-unit>
       <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.</source>
-        <target xml:space="preserve" state="translated">Das Anschlagsbrett ermöglicht es Bürgern, Verträge und Angebote von Arbeitsgruppen zu veröffentlichen oder anzunehmen</target>
+        <target xml:space="preserve" state="translated">Das Anschlagsbrett ermöglicht es Bürgern, Verträge und Angebote von Arbeitsgruppen zu veröffentlichen oder anzunehmen.</target>
       </trans-unit>
       <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
