@@ -3499,7 +3499,7 @@
       </trans-unit>
       <trans-unit id="Plant to grow corn." xml:space="preserve">
         <source xml:space="preserve">Plant to grow corn.</source>
-        <target xml:space="preserve" state="translated">Pflanzen, damit daraus daraus Mais wird.</target>
+        <target xml:space="preserve" state="translated">Pflanzen, um Mais anzubauen.</target>
       </trans-unit>
       <trans-unit id="Plant to grow creosote bushes." xml:space="preserve">
         <source xml:space="preserve">Plant to grow creosote bushes.</source>
@@ -7078,11 +7078,11 @@
       </trans-unit>
       <trans-unit id="Truck" xml:space="preserve">
         <source xml:space="preserve">Truck</source>
-        <target xml:space="preserve" state="translated">LKW</target>
+        <target xml:space="preserve" state="translated">Lastwagen</target>
       </trans-unit>
       <trans-unit id="Modern truck for hauling sizable loads." xml:space="preserve">
         <source xml:space="preserve">Modern truck for hauling sizable loads.</source>
-        <target xml:space="preserve" state="translated">Moderner Truck zum Transport großer Lasten.</target>
+        <target xml:space="preserve" state="translated">Moderner Lastwagen zum Transport großer Lasten.</target>
       </trans-unit>
       <trans-unit id="Wheelbarrow" xml:space="preserve">
         <source xml:space="preserve">Wheelbarrow</source>
@@ -73189,20 +73189,23 @@ Population after: <ph id="5">{5}</ph></source>
       <trans-unit id="Requested mod bundle '{0}' is no longer available, skipping.">
         <source xml:space="preserve">Requested mod bundle '<ph id="0">{0}</ph>' is no longer available, skipping.</source>
       </trans-unit>
-      <trans-unit id="Download stalled">
+      <trans-unit id="Download stalled" xml:space="preserve">
         <source xml:space="preserve">Download stalled</source>
+        <target state="translated">Download angehalten</target>
       </trans-unit>
       <trans-unit id="The mod download stalled, please reconnect.">
         <source xml:space="preserve">The mod download stalled, please reconnect.</source>
       </trans-unit>
-      <trans-unit id="Hide Storage">
+      <trans-unit id="Hide Storage" xml:space="preserve">
         <source xml:space="preserve">Hide Storage</source>
+        <target state="translated">Lager verbergen</target>
       </trans-unit>
       <trans-unit id="Hide this storage from the linked storage lists of nearby crafting tables and other objects. Its own window keeps working as usual.">
         <source xml:space="preserve">Hide this storage from the linked storage lists of nearby crafting tables and other objects. Its own window keeps working as usual.</source>
       </trans-unit>
-      <trans-unit id="Payment for Pickup">
+      <trans-unit id="Payment for Pickup" xml:space="preserve">
         <source xml:space="preserve">Payment for Pickup</source>
+        <target state="translated">Bezahlung bei Abholung</target>
       </trans-unit>
       <trans-unit id="ShelfLifeChip">
         <source xml:space="preserve">ShelfLifeChip</source>
