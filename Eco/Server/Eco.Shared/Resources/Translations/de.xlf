@@ -2322,7 +2322,7 @@
       </trans-unit>
       <trans-unit id="Butchery Skill Book" xml:space="preserve">
         <source xml:space="preserve">Butchery Skill Book</source>
-        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Metzgerhandwerk</target>
+        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Metzgerei</target>
       </trans-unit>
       <trans-unit id="Cooking Skill Book" xml:space="preserve">
         <source xml:space="preserve">Cooking Skill Book</source>
@@ -2342,7 +2342,7 @@
       </trans-unit>
       <trans-unit id="Fertilizers Skill Book" xml:space="preserve">
         <source xml:space="preserve">Fertilizers Skill Book</source>
-        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Dünger</target>
+        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Düngen</target>
       </trans-unit>
       <trans-unit id="Glassworking Skill Book" xml:space="preserve">
         <source xml:space="preserve">Glassworking Skill Book</source>
@@ -2374,7 +2374,7 @@
       </trans-unit>
       <trans-unit id="Tailoring Skill Book" xml:space="preserve">
         <source xml:space="preserve">Tailoring Skill Book</source>
-        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Schneidern</target>
+        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Schneiderei</target>
       </trans-unit>
       <trans-unit id="Advanced Baking Skill Scroll" xml:space="preserve">
         <source xml:space="preserve">Advanced Baking Skill Scroll</source>
@@ -2810,7 +2810,7 @@
       </trans-unit>
       <trans-unit id="Crafted At" xml:space="preserve">
         <source xml:space="preserve">Crafted At</source>
-        <target xml:space="preserve" state="translated">Herstellbar bei</target>
+        <target xml:space="preserve" state="translated">Hergestellt an</target>
       </trans-unit>
       <trans-unit id="Harvested from" xml:space="preserve">
         <source xml:space="preserve">Harvested from</source>
@@ -8981,7 +8981,7 @@
       </trans-unit>
       <trans-unit id="Crafted at a {0}" xml:space="preserve">
         <source xml:space="preserve">Crafted at a <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Hergestellt bei <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Hergestellt an: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Permissions on {0} added." xml:space="preserve">
         <source xml:space="preserve">Permissions on <ph id="0">{0}</ph> added.</source>
@@ -18558,7 +18558,7 @@
       </trans-unit>
       <trans-unit id="Supports" xml:space="preserve">
         <source xml:space="preserve">Supports</source>
-        <target xml:space="preserve" state="translated">Unterstützt</target>
+        <target xml:space="preserve" state="translated">Stützen</target>
       </trans-unit>
       <trans-unit id="Slopes" xml:space="preserve">
         <source xml:space="preserve">Slopes</source>
@@ -22083,95 +22083,95 @@
       </trans-unit>
       <trans-unit id="Crushed Slag Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Slag Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinerte Schlacke Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinerte Schlacke (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Slag Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Slag Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinerte Schlacke Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinerte Schlacke (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Crushed Shale Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Shale Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Schiefer Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Schiefer (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Shale Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Shale Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Schiefer Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Schiefer (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Crushed Sandstone Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Sandstone Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinerter Sandstein Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Sandstein (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Sandstone Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Sandstone Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinerter Sandstein Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Sandstein (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Crushed Limestone Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Limestone Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinerter Kalkstein Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Kalkstein (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Limestone Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Limestone Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinerter Kalkstein Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Kalkstein (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Crushed Iron Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Iron Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Eisen Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinertes Eisen (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Iron Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Iron Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Eisen Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinertes Eisen (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Crushed Granite Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Granite Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinerter Granit Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Granit (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Granite Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Granite Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinerter Granit Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Granit (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Crushed Gold Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Gold Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Gold Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinertes Gold (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Gold Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Gold Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Gold Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinertes Gold (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Crushed Gneiss Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Gneiss Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Gneis Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Gneis (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Gneiss Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Gneiss Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Gneis Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Gneis (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Crushed Copper Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Copper Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Kupfer Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinertes Kupfer (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Copper Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Copper Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Kupfer Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinertes Kupfer (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Crushed Basalt Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Basalt Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinerter Basalt Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Basalt (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Basalt Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Basalt Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinerter Basalt Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Basalt (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Concentrate Iron Lv2" xml:space="preserve">
         <source xml:space="preserve">Concentrate Iron Lv2</source>
-        <target xml:space="preserve" state="translated">Eisenkonzentrat Lv2</target>
+        <target xml:space="preserve" state="translated">Eisenkonzentrat (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Concentrate Gold Lv2" xml:space="preserve">
         <source xml:space="preserve">Concentrate Gold Lv2</source>
-        <target xml:space="preserve" state="translated">Goldkonzentrat Lv2</target>
+        <target xml:space="preserve" state="translated">Goldkonzentrat (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Concentrate Dry Iron Lv2" xml:space="preserve">
         <source xml:space="preserve">Concentrate Dry Iron Lv2</source>
-        <target xml:space="preserve" state="translated">Eisenkonzentrat Lv2</target>
+        <target xml:space="preserve" state="translated">Trockenes Eisenkonzentrat (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Concentrate Dry Iron" xml:space="preserve">
         <source xml:space="preserve">Concentrate Dry Iron</source>
@@ -22179,7 +22179,7 @@
       </trans-unit>
       <trans-unit id="Concentrate Copper Lv2" xml:space="preserve">
         <source xml:space="preserve">Concentrate Copper Lv2</source>
-        <target xml:space="preserve" state="translated">Kupferkonzentrat Lv2</target>
+        <target xml:space="preserve" state="translated">Kupferkonzentrat (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Clean Pacific Sardine" xml:space="preserve">
         <source xml:space="preserve">Clean Pacific Sardine</source>
@@ -22728,7 +22728,7 @@
       </trans-unit>
       <trans-unit id="Pottery Skill Book" xml:space="preserve">
         <source xml:space="preserve">Pottery Skill Book</source>
-        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Töpferhandwerk</target>
+        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Töpferei</target>
       </trans-unit>
       <trans-unit id="Pottery Skill Scroll" xml:space="preserve">
         <source xml:space="preserve">Pottery Skill Scroll</source>
@@ -22752,7 +22752,7 @@
       </trans-unit>
       <trans-unit id="Carpentry Skill Book" xml:space="preserve">
         <source xml:space="preserve">Carpentry Skill Book</source>
-        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Schreiner</target>
+        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Schreinerei</target>
       </trans-unit>
       <trans-unit id="Carpentry Skill Scroll" xml:space="preserve">
         <source xml:space="preserve">Carpentry Skill Scroll</source>
@@ -22812,51 +22812,51 @@
       </trans-unit>
       <trans-unit id="Paper Milling Upgrade" xml:space="preserve">
         <source xml:space="preserve">Paper Milling Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Papierherstellung</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade: Papierherstellung</target>
       </trans-unit>
       <trans-unit id="Oil Drilling Upgrade" xml:space="preserve">
         <source xml:space="preserve">Oil Drilling Upgrade</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade: Ölgewinnung</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade: Ölbohrung</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade" xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade</source>
-        <target xml:space="preserve" state="translated">Moderne Verbesserung</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade</target>
       </trans-unit>
       <trans-unit id="Milling Upgrade" xml:space="preserve">
         <source xml:space="preserve">Milling Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Mahlen</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Mahlen</target>
       </trans-unit>
       <trans-unit id="Masonry Upgrade" xml:space="preserve">
         <source xml:space="preserve">Masonry Upgrade</source>
-        <target xml:space="preserve" state="translated">Upgrade Steinmetz</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade: Steinmetz</target>
       </trans-unit>
       <trans-unit id="Industry Upgrade" xml:space="preserve">
         <source xml:space="preserve">Industry Upgrade</source>
-        <target xml:space="preserve" state="translated">Upgrade Industrie</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade: Industrie</target>
       </trans-unit>
       <trans-unit id="Fertilizers Upgrade" xml:space="preserve">
         <source xml:space="preserve">Fertilizers Upgrade</source>
-        <target xml:space="preserve" state="translated">Upgrade Dünger</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade: Dünger</target>
       </trans-unit>
       <trans-unit id="Farming Upgrade" xml:space="preserve">
         <source xml:space="preserve">Farming Upgrade</source>
-        <target xml:space="preserve" state="translated">Upgrade Landwirtschaft</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade: Landwirtschaft</target>
       </trans-unit>
       <trans-unit id="Electronics Upgrade" xml:space="preserve">
         <source xml:space="preserve">Electronics Upgrade</source>
-        <target xml:space="preserve" state="translated">Upgrade Elektronik</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade: Elektronik</target>
       </trans-unit>
       <trans-unit id="Cutting Edge Cooking Upgrade" xml:space="preserve">
         <source xml:space="preserve">Cutting Edge Cooking Upgrade</source>
-        <target xml:space="preserve" state="translated">Upgrade Innovatives Kochen</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade: Innovatives Kochen</target>
       </trans-unit>
       <trans-unit id="Cooking Upgrade" xml:space="preserve">
         <source xml:space="preserve">Cooking Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Kochen</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Kochen</target>
       </trans-unit>
       <trans-unit id="Composites Upgrade" xml:space="preserve">
         <source xml:space="preserve">Composites Upgrade</source>
-        <target xml:space="preserve" state="translated">Upgrade Verbundhölzer</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade: Verbundholz</target>
       </trans-unit>
       <trans-unit id="Campfire Cooking Upgrade" xml:space="preserve">
         <source xml:space="preserve">Campfire Cooking Upgrade</source>
@@ -22872,27 +22872,27 @@
       </trans-unit>
       <trans-unit id="Baking Upgrade" xml:space="preserve">
         <source xml:space="preserve">Baking Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Backen</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Backen</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortgeschrittene Verbesserung</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade</target>
       </trans-unit>
       <trans-unit id="Advanced Smelting Upgrade" xml:space="preserve">
         <source xml:space="preserve">Advanced Smelting Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Schmelzen</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Schmelzen</target>
       </trans-unit>
       <trans-unit id="Advanced Masonry Upgrade" xml:space="preserve">
         <source xml:space="preserve">Advanced Masonry Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Steinmetz</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Steinmetz</target>
       </trans-unit>
       <trans-unit id="Advanced Cooking Upgrade" xml:space="preserve">
         <source xml:space="preserve">Advanced Cooking Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Kochen</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Kochen</target>
       </trans-unit>
       <trans-unit id="Advanced Baking Upgrade" xml:space="preserve">
         <source xml:space="preserve">Advanced Baking Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Backen</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Backen</target>
       </trans-unit>
       <trans-unit id="Tiny Leather Carcass" xml:space="preserve">
         <source xml:space="preserve">Tiny Leather Carcass</source>
@@ -24406,7 +24406,7 @@
       </trans-unit>
       <trans-unit id="Modern Upgrade with great efficiency increase." xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade with great efficiency increase.</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade mit großer Effizienzsteigerung.</target>
+        <target xml:space="preserve" state="translated">Ein modernes Upgrade mit großer Effizienzsteigerung.</target>
       </trans-unit>
       <trans-unit id="Mining Modern Upgrade" xml:space="preserve">
         <source xml:space="preserve">Mining Modern Upgrade</source>
@@ -24418,7 +24418,7 @@
       </trans-unit>
       <trans-unit id="Mining Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Mining Advanced Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Bergbau</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Bergbau</target>
       </trans-unit>
       <trans-unit id="Mechanics Modern Upgrade" xml:space="preserve">
         <source xml:space="preserve">Mechanics Modern Upgrade</source>
@@ -24426,7 +24426,7 @@
       </trans-unit>
       <trans-unit id="Mechanics Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Mechanics Advanced Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Mechanik</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Mechanik</target>
       </trans-unit>
       <trans-unit id="Masonry Basic Upgrade" xml:space="preserve">
         <source xml:space="preserve">Masonry Basic Upgrade</source>
@@ -24438,7 +24438,7 @@
       </trans-unit>
       <trans-unit id="Logging Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Logging Advanced Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Holzfäller</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Holzfäller</target>
       </trans-unit>
       <trans-unit id="Glassworking Modern Upgrade" xml:space="preserve">
         <source xml:space="preserve">Glassworking Modern Upgrade</source>
@@ -24446,7 +24446,7 @@
       </trans-unit>
       <trans-unit id="Glassworking Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Glassworking Advanced Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Glasverarbeitung</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Glasverarbeitung</target>
       </trans-unit>
       <trans-unit id="Carpentry Basic Upgrade" xml:space="preserve">
         <source xml:space="preserve">Carpentry Basic Upgrade</source>
@@ -24454,15 +24454,15 @@
       </trans-unit>
       <trans-unit id="Carpentry Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Carpentry Advanced Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Schreinerei</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Schreinerei</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that increases crafting efficiency." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that increases crafting efficiency.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, welches die Herstellungseffizienz erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Herstellungseffizienz erhöht.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that increases crafting efficiency." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that increases crafting efficiency.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, welches die Herstellungseffizienz erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Herstellungseffizienz erhöht.</target>
       </trans-unit>
       <trans-unit id="A basic wheel for use in early wooden vehicles." xml:space="preserve">
         <source xml:space="preserve">A basic wheel for use in early wooden vehicles.</source>
@@ -25519,47 +25519,47 @@
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Smelting recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Smelting recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, das die Effizienz bei derVerwendung von Schmelzrezepten stark erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Schmelzen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Pottery recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Pottery recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, das die Effizienz bei der Verwendung von Töpferrezepten deutlich erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Töpfern" nutzt.</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Paper Milling recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Paper Milling recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, dass die Effizient deutlich erhöht, wenn du Rezepte aus der Papierherstellung nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Papierherstellung" nutzt.</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Oil Drilling recipes." xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Oil Drilling recipes.</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade, dass die Effizient deutlich erhöht, wenn du Rezepte aus der Ölgewinnung nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein modernes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Ölbohrung" nutzt.</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade 4" xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade 4</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade 4</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade (Stufe 4)</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade 3" xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade 3</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade 3</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade 2" xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade 2</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade 2</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade 1" xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade 1</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade 1</target>
+        <target xml:space="preserve" state="translated">Modernes Upgrade (Stufe 1)</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Mining recipes." xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Mining recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, das die Effizient deutlich erhöht, wenn du Rezepte aus dem Bergbau nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein modernes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Bergbau" nutzt.</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Mining recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Mining recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, das die Effizient deutlich erhöht, wenn du Rezepte aus dem Bergbau nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Bergbau" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Mining recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Mining recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, das die Effizienz beim Verwenden von Bergbau-Rezepten erheblich steigert.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Bergbau" nutzt.</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Mechanics recipes" xml:space="preserve" translate="no">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Mechanics recipes</source>
@@ -25568,11 +25568,11 @@
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Mechanics recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Mechanics recipes.</source>
-        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus der Mechanik nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Mechanik" nutzt.</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Masonry recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Masonry recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade mit deutlich höherer Effizienz bei der Herstellung von Steinmetz-Rezepten.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Steinmetz" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Masonry recipes." xml:space="preserve" translate="no">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Masonry recipes.</source>
@@ -25581,7 +25581,7 @@
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Logging recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Logging recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, dass die Effizienz bei der Verwendung von Holzfällerrezepten stark erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Holzfällen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Logging recipes." xml:space="preserve" translate="no">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Logging recipes.</source>
@@ -25590,7 +25590,7 @@
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Industry recipes." xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Industry recipes.</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade, das die Effizienz bei der Verwendung von Industrierezepten deutlich erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein modernes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Industrie" nutzt.</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Glassworking recipes." xml:space="preserve" translate="no">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Glassworking recipes.</source>
@@ -25599,35 +25599,35 @@
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Glassworking recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Glassworking recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Verbesserungsmodul, dass die Effizienz bei der Verwendung von Glasverarbeitungsrezepten deutlich erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Glasverarbeitung" nutzt.</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Fertilizers recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Fertilizers recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, das die Effizienz beim Verwenden von Dünger stark erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Düngen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Farming recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Farming recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, das die Effizienz beim Verwenden von Landwirtschafts-Rezepten stark erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Landwirtschaft" nutzt.</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Electronics recipes." xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Electronics recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, das die Effizient deutlich erhöht, wenn du Rezepte aus der Elektronik nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein modernes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Elektronik" nutzt.</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Cutting Edge Cooking recipes." xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Cutting Edge Cooking recipes.</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade, dass die Effizient deutlich erhöht, wenn du Rezepte aus der modernen Küche nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein modernes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Innovatives Kochen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Cooking recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Cooking recipes.</source>
-        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus der modernen Küche nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Kochen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Composites recipes." xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Composites recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, das die Effizient deutlich erhöht, wenn du Rezepte mit Verbundhölzern nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein modernes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Verbundholz" nutzt.</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Carpentry recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Carpentry recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, dass die Effizienz bei der Verwendung von Schreiner-Rezepten stark erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Schreinerei" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Carpentry recipes." xml:space="preserve" translate="no">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Carpentry recipes.</source>
@@ -25636,63 +25636,63 @@
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Campfire Cooking recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Campfire Cooking recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade mit deutlich höherer Effizienz bei der Herstellung von Lagerfeuer-Kochrezepten.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Lagerfeuer-Kochen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Butchery recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Butchery recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade mit deutlich höherer Effizienz bei der Herstellung von Metzger-Rezepten.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Metzgerei" nutzt.</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade 4" xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade 4</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade 4</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade (Stufe 4)</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade 3" xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade 3</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade 3</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade 2" xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade 2</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade 2</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade 1" xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade 1</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade 1</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade (Stufe 1)</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Basic Engineering recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Basic Engineering recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, dass die Effizient deutlich erhöht, wenn du Rezepte aus dem einfachen Ingenieurswesen nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Grundlegende Technik" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Baking recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Baking recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, das die Effizienz bei der Verwendung von Backrezepten deutlich erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Backen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade 4" xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade 4</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade 4</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade (Stufe 4)</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade 3" xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade 3</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade 3</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade 2" xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade 2</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade 2</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade 1" xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade 1</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade 1</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade (Stufe 1)</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Advanced Masonry recipes." xml:space="preserve">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Advanced Masonry recipes.</source>
-        <target xml:space="preserve" state="translated">Modernes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem verbesserten Steinmetz nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein modernes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Verbesserter Steinmetz" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Advanced Cooking recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Advanced Cooking recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem erweiterten Kochen nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Fortgeschrittenes Kochen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Advanced Baking recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Advanced Baking recipes.</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade, das die Effizient deutlich erhöht, wenn du Rezepte aus dem erweiterten Backen nutzt.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Fortgeschrittenes Backen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Steam Tractor Plow" xml:space="preserve">
         <source xml:space="preserve">Steam Tractor Plow</source>
@@ -26292,7 +26292,7 @@
       </trans-unit>
       <trans-unit id="Masonry Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Masonry Advanced Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortschrittliches Upgrade: Steinmetz</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Steinmetz</target>
       </trans-unit>
       <trans-unit id="Work order was destroyed." xml:space="preserve">
         <source xml:space="preserve">Work order was destroyed.</source>
@@ -27713,7 +27713,7 @@
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Advanced Smelting recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Advanced Smelting recipes.</source>
-        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade mit deutlich höherer Effizienz bei der Herstellung von verbesserten Schmelzrezepten.</target>
+        <target xml:space="preserve" state="translated">Ein fortgeschrittenes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Fortgeschrittenes Schmelzen" nutzt.</target>
       </trans-unit>
       <trans-unit id="It tastes somewhat burnt but at least the fire has removed the bitter taste." xml:space="preserve">
         <source xml:space="preserve">It tastes somewhat burnt but at least the fire has removed the bitter taste.</source>
@@ -34840,7 +34840,7 @@
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Tailoring recipes" xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Tailoring recipes</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, dass die Effizienz bei der Verwendung von Schneiderrezepten stark erhöht</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Schneiderei" nutzt.</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Tailoring recipes" xml:space="preserve" translate="no">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Tailoring recipes</source>
@@ -37063,11 +37063,11 @@
       </trans-unit>
       <trans-unit id="Sand Concentrate Lv3" xml:space="preserve">
         <source xml:space="preserve">Sand Concentrate Lv3</source>
-        <target xml:space="preserve" state="translated">Sand Lv3</target>
+        <target xml:space="preserve" state="translated">Sand (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Sand Concentrate Lv2" xml:space="preserve">
         <source xml:space="preserve">Sand Concentrate Lv2</source>
-        <target xml:space="preserve" state="translated">Sand Lv2</target>
+        <target xml:space="preserve" state="translated">Sand (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Clean Moon Jellyfish" xml:space="preserve">
         <source xml:space="preserve">Clean Moon Jellyfish</source>
@@ -39370,7 +39370,7 @@
       </trans-unit>
       <trans-unit id="Finished in {0} sec" xml:space="preserve">
         <source xml:space="preserve">Finished in <ph id="0">{0}</ph> sec</source>
-        <target xml:space="preserve" state="translated">Abgeschlossen in <ph id="0">{0}</ph> Sek</target>
+        <target xml:space="preserve" state="translated">Abgeschlossen in <ph id="0">{0}</ph> s</target>
       </trans-unit>
       <trans-unit id="Steam Game Server initialized" xml:space="preserve">
         <source xml:space="preserve">Steam Game Server initialized</source>
@@ -40437,7 +40437,7 @@
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Tailoring recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Tailoring recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, dass die Effizienz bei der Verwendung von Schneiderrezepten stark erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Schneiderei" nutzt.</target>
       </trans-unit>
       <trans-unit id="Modern Upgrade that greatly increases efficiency when crafting Tailoring recipes." xml:space="preserve" translate="no">
         <source xml:space="preserve">Modern Upgrade that greatly increases efficiency when crafting Tailoring recipes.</source>
@@ -46155,7 +46155,7 @@
       </trans-unit>
       <trans-unit id="Skillbook Craft Cost" xml:space="preserve">
         <source xml:space="preserve">Skillbook Craft Cost</source>
-        <target xml:space="preserve" state="translated">Fähigkeitsbuch-Herstellungskosten</target>
+        <target xml:space="preserve" state="translated">Fertigkeitsbuch-Herstellungskosten</target>
       </trans-unit>
       <trans-unit id="Skillbook crafting cost presets. Does not affect work orders in progress." xml:space="preserve">
         <source xml:space="preserve">Skillbook crafting cost presets. Does not affect work orders in progress.</source>
@@ -46602,7 +46602,7 @@
       </trans-unit>
       <trans-unit id="Shipwright Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Shipwright Advanced Upgrade</source>
-        <target xml:space="preserve" state="translated">Fortgeschrittenes Werft-Upgrade</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Schiffsbau</target>
       </trans-unit>
       <trans-unit id="Shipwright Basic Upgrade" xml:space="preserve">
         <source xml:space="preserve">Shipwright Basic Upgrade</source>
@@ -46614,7 +46614,7 @@
       </trans-unit>
       <trans-unit id="Shipwright Skill Book" xml:space="preserve">
         <source xml:space="preserve">Shipwright Skill Book</source>
-        <target xml:space="preserve" state="translated">Fähigkeitsbuch: Schiffsbau</target>
+        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Schiffsbau</target>
       </trans-unit>
       <trans-unit id="Shipwright Skill Scroll" xml:space="preserve">
         <source xml:space="preserve">Shipwright Skill Scroll</source>
@@ -47892,7 +47892,7 @@
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Shipwright recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Shipwright recipes.</source>
-        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz bei Verwendung von Schiffsbau-Rezepten stark erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Schiffsbau" nutzt.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Shipwright recipes." xml:space="preserve" translate="no">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Shipwright recipes.</source>
@@ -49975,7 +49975,7 @@
       </trans-unit>
       <trans-unit id="Gathering Basic Upgrade" xml:space="preserve">
         <source xml:space="preserve">Gathering Basic Upgrade</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Grundlegende Upgrades sammeln</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrades: Sammeln</target>
       </trans-unit>
       <trans-unit id="Industrial Generator" xml:space="preserve">
         <source xml:space="preserve">Industrial Generator</source>
@@ -50108,11 +50108,11 @@
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Milling recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Milling recipes.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ein grundlegendes Upgrade, das die Effizienz beim Herstellen von Mahlrezepten erheblich steigert.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Mahlen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Gathering recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Gathering recipes.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ein grundlegendes Upgrade, das die Effizienz beim Herstellen von Sammelrezepten erheblich steigert.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Sammeln" nutzt.</target>
       </trans-unit>
       <trans-unit id="A collection of paint variations used for art supplies." xml:space="preserve">
         <source xml:space="preserve">A collection of paint variations used for art supplies.</source>
@@ -50505,11 +50505,11 @@
       </trans-unit>
       <trans-unit id="Crushed Coal Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Coal Lv3</source>
-        <target xml:space="preserve" state="translated">Zerkleinerte Kohle Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinerte Kohle (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Coal Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Coal Lv2</source>
-        <target xml:space="preserve" state="translated">Zerkleinertes Kohle Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinerte Kohle (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Current review state: " xml:space="preserve">
         <source xml:space="preserve">Current review state: </source>
@@ -50919,7 +50919,7 @@
       </trans-unit>
       <trans-unit id="more block" xml:space="preserve">
         <source xml:space="preserve">more block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">mehr block</target>
+        <target xml:space="preserve" state="translated">zusätzliche Blöcke</target>
       </trans-unit>
       <trans-unit id="*Missing Settlement*" xml:space="preserve">
         <source xml:space="preserve">*Missing Settlement*</source>
@@ -51419,11 +51419,11 @@
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Hunting recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Hunting recipes.</source>
-        <target xml:space="preserve" state="translated">Grundlegendes Upgrade, das die Effizienz beim Verwenden von Jagd-Rezepten stark erhöht.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Jagen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Hunting Upgrade" xml:space="preserve">
         <source xml:space="preserve">Hunting Upgrade</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Jagd-Upgrade</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade: Jagen</target>
       </trans-unit>
       <trans-unit id="QA Test Object adding Bathroom value." xml:space="preserve">
         <source xml:space="preserve">QA Test Object adding Bathroom value.</source>
@@ -52545,7 +52545,7 @@
       </trans-unit>
       <trans-unit id="Geology Research Paper Modern Glass" xml:space="preserve">
         <source xml:space="preserve">Geology Research Paper Modern Glass</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Geologie-Forschungsarbeit: Modernes Glas</target>
+        <target xml:space="preserve" state="translated">Modernes Forschungspapier: Geologie (Glas)</target>
       </trans-unit>
       <trans-unit id="Dry Meat" xml:space="preserve">
         <source xml:space="preserve">Dry Meat</source>
@@ -54790,15 +54790,15 @@
       </trans-unit>
       <trans-unit id="Blacksmith Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Blacksmith Advanced Upgrade</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Schmied – Erweitertes Upgrade</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Schmieden</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Blacksmith recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Blacksmith recipes.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Grundlegendes Upgrade, das die Effizienz beim Herstellen von Schmiederezepten erheblich steigert.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Schmieden" nutzt.</target>
       </trans-unit>
       <trans-unit id="Blacksmith Upgrade" xml:space="preserve">
         <source xml:space="preserve">Blacksmith Upgrade</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Schmied-Upgrade</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade: Schmieden</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Gathering recipes." xml:space="preserve" translate="no">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Gathering recipes.</source>
@@ -54807,7 +54807,7 @@
       </trans-unit>
       <trans-unit id="Gathering Advanced Upgrade" xml:space="preserve">
         <source xml:space="preserve">Gathering Advanced Upgrade</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Sammeln Fortgeschrittenes Upgrade</target>
+        <target xml:space="preserve" state="translated">Fortgeschrittenes Upgrade: Sammeln</target>
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Smelting recipes." xml:space="preserve" translate="no">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Smelting recipes.</source>
@@ -54828,7 +54828,7 @@
       </trans-unit>
       <trans-unit id="Blacksmith Skill Book" xml:space="preserve">
         <source xml:space="preserve">Blacksmith Skill Book</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Handwerksbuch „Schmied“</target>
+        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Schmied</target>
       </trans-unit>
       <trans-unit id="Blacksmith Skill Scroll" xml:space="preserve">
         <source xml:space="preserve">Blacksmith Skill Scroll</source>
@@ -55733,11 +55733,11 @@
       </trans-unit>
       <trans-unit id="A steel rod with grooves allowing more finer sharpening of tools." xml:space="preserve">
         <source xml:space="preserve">A steel rod with grooves allowing more finer sharpening of tools.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Eine Stahlstange mit Rillen, die ein feineres Schärfen von Werkzeugen ermöglicht.</target>
+        <target xml:space="preserve" state="needs-translation">Eine Stahlstange mit Rillen, die ein feineres Schärfen von Werkzeugen ermöglicht.</target>
       </trans-unit>
       <trans-unit id="Sharpening Steel" xml:space="preserve">
         <source xml:space="preserve">Sharpening Steel</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stahl schärfen</target>
+        <target xml:space="preserve" state="translated">Wetzstahl</target>
       </trans-unit>
       <trans-unit id="An attachment for the steam tractor that allows for quick terraforming." xml:space="preserve">
         <source xml:space="preserve">An attachment for the steam tractor that allows for quick terraforming.</source>
@@ -55785,11 +55785,11 @@
       </trans-unit>
       <trans-unit id="Basic Upgrade that greatly increases efficiency when crafting Painting recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Upgrade that greatly increases efficiency when crafting Painting recipes.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ein grundlegendes Upgrade, das die Effizienz beim Herstellen von Malrezepten erheblich steigert.</target>
+        <target xml:space="preserve" state="translated">Ein grundlegendes Upgrade, das die Effizienz deutlich erhöht, wenn du Rezepte aus dem Bereich "Malen" nutzt.</target>
       </trans-unit>
       <trans-unit id="Painting Upgrade" xml:space="preserve">
         <source xml:space="preserve">Painting Upgrade</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Mal-Upgrade</target>
+        <target xml:space="preserve" state="translated">Grundlegendes Upgrade: Malerei</target>
       </trans-unit>
       <trans-unit id="A painter uses different combination of liquids and powders to create a practical application of colors." xml:space="preserve">
         <source xml:space="preserve">A painter uses different combination of liquids and powders to create a practical application of colors.</source>
@@ -55801,7 +55801,7 @@
       </trans-unit>
       <trans-unit id="Painting Skill Book" xml:space="preserve">
         <source xml:space="preserve">Painting Skill Book</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Malbuch</target>
+        <target xml:space="preserve" state="translated">Fertigkeitsbuch: Malerei</target>
       </trans-unit>
       <trans-unit id="Painting Skill Scroll" xml:space="preserve">
         <source xml:space="preserve">Painting Skill Scroll</source>
@@ -57271,7 +57271,7 @@
       </trans-unit>
       <trans-unit id="Crafted at: {0}" xml:space="preserve">
         <source xml:space="preserve">Crafted at: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Entwickelt unter: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Hergestellt an: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Cannot purchase these in Unity Editor, because Steam overlay doesn't work here. Would you like to auto-complete the purchase if youre logged in as an admin?" xml:space="preserve">
         <source xml:space="preserve">Cannot purchase these in Unity Editor, because Steam overlay doesn't work here. Would you like to auto-complete the purchase if youre logged in as an admin?</source>
@@ -58525,7 +58525,7 @@
       </trans-unit>
       <trans-unit id="Crafted at:" xml:space="preserve">
         <source xml:space="preserve">Crafted at:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Entwickelt bei:</target>
+        <target xml:space="preserve" state="translated">Hergestellt an:</target>
       </trans-unit>
       <trans-unit id="&lt;u&gt;'The Ocean Cleanup'&lt;/u&gt; Charity" xml:space="preserve">
         <source xml:space="preserve">&lt;u&gt;'The Ocean Cleanup'&lt;/u&gt; Charity</source>
@@ -60080,11 +60080,11 @@
       </trans-unit>
       <trans-unit id="Crushed Sulfur Lv3" xml:space="preserve">
         <source xml:space="preserve">Crushed Sulfur Lv3</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zerkleinerter Schwefel Lv3</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Schwefel (Stufe 3)</target>
       </trans-unit>
       <trans-unit id="Crushed Sulfur Lv2" xml:space="preserve">
         <source xml:space="preserve">Crushed Sulfur Lv2</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zerkleinerter Schwefel Lv2</target>
+        <target xml:space="preserve" state="translated">Zerkleinerter Schwefel (Stufe 2)</target>
       </trans-unit>
       <trans-unit id="Explosives" xml:space="preserve">
         <source xml:space="preserve">Explosives</source>
@@ -62763,7 +62763,7 @@
       </trans-unit>
       <trans-unit id="Pollution Penalty" xml:space="preserve">
         <source xml:space="preserve">Pollution Penalty</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Umweltstrafe</target>
+        <target xml:space="preserve" state="translated">Verschmutzungsstrafe</target>
       </trans-unit>
       <trans-unit id="An addition to the tier value of blocks that are painted." xml:space="preserve">
         <source xml:space="preserve">An addition to the tier value of blocks that are painted.</source>
@@ -64124,7 +64124,7 @@
       </trans-unit>
       <trans-unit id="Steel Processing" xml:space="preserve">
         <source xml:space="preserve">Steel Processing</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stahlverarbeitung</target>
+        <target xml:space="preserve" state="needs-translation">Stahlverarbeitung</target>
       </trans-unit>
       <trans-unit id="Garden Tools" xml:space="preserve">
         <source xml:space="preserve">Garden Tools</source>
@@ -65582,7 +65582,7 @@
       </trans-unit>
       <trans-unit id="Craft a skill book." xml:space="preserve">
         <source xml:space="preserve">Craft a skill book.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Erstelle ein Fertigkeitenbuch.</target>
+        <target xml:space="preserve" state="translated">Erstelle ein Fertigkeitsbuch.</target>
       </trans-unit>
       <trans-unit id="Polymath" xml:space="preserve">
         <source xml:space="preserve">Polymath</source>
@@ -65590,7 +65590,7 @@
       </trans-unit>
       <trans-unit id="Craft 3 different skill books." xml:space="preserve">
         <source xml:space="preserve">Craft 3 different skill books.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Erstelle 3 verschiedene Fertigkeitsbücher.</target>
+        <target xml:space="preserve" state="needs-translation">Erstelle 3 verschiedene Fertigkeitsbücher.</target>
       </trans-unit>
       <trans-unit id="Nobel Laureate" xml:space="preserve">
         <source xml:space="preserve">Nobel Laureate</source>
@@ -65598,7 +65598,7 @@
       </trans-unit>
       <trans-unit id="Craft 10 different skill books." xml:space="preserve">
         <source xml:space="preserve">Craft 10 different skill books.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stelle 10 verschiedene Fertigkeitsbücher her.</target>
+        <target xml:space="preserve" state="needs-translation">Stelle 10 verschiedene Fertigkeitsbücher her.</target>
       </trans-unit>
       <trans-unit id="Appetizer Apprentice" xml:space="preserve">
         <source xml:space="preserve">Appetizer Apprentice</source>
@@ -66686,7 +66686,7 @@
       </trans-unit>
       <trans-unit id="Pollution Scaling" xml:space="preserve">
         <source xml:space="preserve">Pollution Scaling</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Umweltverschmutzungsskala</target>
+        <target xml:space="preserve" state="translated">Verschmutzungsskalierung</target>
       </trans-unit>
       <trans-unit id="Pollution Multiplier: {0}" xml:space="preserve">
         <source xml:space="preserve">Pollution Multiplier: <ph id="0">{0}</ph></source>
@@ -67039,7 +67039,7 @@ Anzahlungen und Zahlungen werden für die Dauer des Vertrags treuhänderisch ver
       <trans-unit id="Choose what set of blocks you want to place.&#10;Upgraded tools will allow you to place multiple blocks at a time." xml:space="preserve">
         <source xml:space="preserve">Choose what set of blocks you want to place.
 Upgraded tools will allow you to place multiple blocks at a time.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Wähle aus, welche Blöcke du platzieren möchtest.
+        <target xml:space="preserve" state="needs-translation">Wähle aus, welche Blöcke du platzieren möchtest.
 Mit verbesserten Werkzeugen kannst du mehrere Blöcke gleichzeitig platzieren.</target>
       </trans-unit>
       <trans-unit id=" - Capping total value of {0} furnishings, {1} -&gt; {2}&#10;   (Capped at {3} of {4} furnishings: {5})" xml:space="preserve">
@@ -68683,7 +68683,7 @@ Pigmente und Farbeimer werden über den Lager-Tab und das Benutzerinventar verbr
       <trans-unit id="Backed&#10;" xml:space="preserve">
         <source xml:space="preserve">Backed
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Unterstützt
+        <target xml:space="preserve" state="translated">Unterstützt
 </target>
       </trans-unit>
       <trans-unit id="Buy&#10;Price" xml:space="preserve">
@@ -70033,7 +70033,7 @@ Strg – x100</target>
       </trans-unit>
       <trans-unit id="Recycling Skill Book" xml:space="preserve">
         <source xml:space="preserve">Recycling Skill Book</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Handbuch zum Recycling</target>
+        <target state="translated">Fertigkeitsbuch: Recycling</target>
       </trans-unit>
       <trans-unit id="Recycling Skill Scroll" xml:space="preserve">
         <source xml:space="preserve">Recycling Skill Scroll</source>
@@ -71328,7 +71328,7 @@ Strg – x100</target>
       </trans-unit>
       <trans-unit id="Soil Pollution" xml:space="preserve">
         <source xml:space="preserve">Soil Pollution</source>
-        <target state="translated">Erdverschmutzung</target>
+        <target state="translated">Oberflächenverschmutzung</target>
       </trans-unit>
       <trans-unit id="Heavy Mineral Pollution" xml:space="preserve">
         <source xml:space="preserve">Heavy Mineral Pollution</source>
@@ -71336,7 +71336,7 @@ Strg – x100</target>
       </trans-unit>
       <trans-unit id="Chemical Pollution" xml:space="preserve">
         <source xml:space="preserve">Chemical Pollution</source>
-        <target state="translated">Verschmutzung durch Chemikalien</target>
+        <target state="translated">Chemische Verschmutzung</target>
       </trans-unit>
       <trans-unit id="Acid Rain Pollution" xml:space="preserve">
         <source xml:space="preserve">Acid Rain Pollution</source>
@@ -71545,17 +71545,21 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Pollution Grace">
         <source xml:space="preserve">Pollution Grace</source>
       </trans-unit>
-      <trans-unit id="Pollution Containment">
+      <trans-unit id="Pollution Containment" xml:space="preserve">
         <source xml:space="preserve">Pollution Containment</source>
+        <target state="translated">Schadstoffeindämmung</target>
       </trans-unit>
-      <trans-unit id="Pick Up Dumpster">
+      <trans-unit id="Pick Up Dumpster" xml:space="preserve">
         <source xml:space="preserve">Pick Up Dumpster</source>
+        <target state="translated">Sammelcontainer</target>
       </trans-unit>
-      <trans-unit id="The dumpster module is still busy.">
+      <trans-unit id="The dumpster module is still busy." xml:space="preserve">
         <source xml:space="preserve">The dumpster module is still busy.</source>
+        <target state="translated">Das Container-Modul ist noch ausgelastet.</target>
       </trans-unit>
-      <trans-unit id="Already carrying a container. Set it down first.">
+      <trans-unit id="Already carrying a container. Set it down first." xml:space="preserve">
         <source xml:space="preserve">Already carrying a container. Set it down first.</source>
+        <target state="translated">Trägt bereits einen Behälter. Setze ihn zuerst ab.</target>
       </trans-unit>
       <trans-unit id="No dumpster or shipping container in range to pick up.">
         <source xml:space="preserve">No dumpster or shipping container in range to pick up.</source>
@@ -72191,11 +72195,13 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="A lighter pack with outside straps that keep spare tools within easy reach.">
         <source xml:space="preserve">A lighter pack with outside straps that keep spare tools within easy reach.</source>
       </trans-unit>
-      <trans-unit id="Agriculture Research Paper Basic">
+      <trans-unit id="Agriculture Research Paper Basic" xml:space="preserve">
         <source xml:space="preserve">Agriculture Research Paper Basic</source>
+        <target state="translated">Grundlegendes Forschungspapier: Landwirtschaft</target>
       </trans-unit>
-      <trans-unit id="Gathering Research Paper Advanced">
+      <trans-unit id="Gathering Research Paper Advanced" xml:space="preserve">
         <source xml:space="preserve">Gathering Research Paper Advanced</source>
+        <target state="translated">Fortgeschrittenes Forschungspapier: Sammeln</target>
       </trans-unit>
       <trans-unit id="Layout Defaults Applied">
         <source xml:space="preserve">Layout Defaults Applied</source>
@@ -72266,8 +72272,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Synthetic Phosphate Fertilizer">
         <source xml:space="preserve">Synthetic Phosphate Fertilizer</source>
       </trans-unit>
-      <trans-unit id="Dendrology Research Paper Advanced Hull Planks">
+      <trans-unit id="Dendrology Research Paper Advanced Hull Planks" xml:space="preserve">
         <source xml:space="preserve">Dendrology Research Paper Advanced Hull Planks</source>
+        <target state="translated">Fortgeschrittenes Forschungspapier: Dendrologie (Holzrumpfplanken)</target>
       </trans-unit>
       <trans-unit id="Cancelled — collect the remaining items to remove it from the table.">
         <source xml:space="preserve">Cancelled — collect the remaining items to remove it from the table.</source>
