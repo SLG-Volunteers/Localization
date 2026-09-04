@@ -73398,8 +73398,9 @@ Population after: <ph id="5">{5}</ph></source>
       <trans-unit id="Worth {0}.">
         <source xml:space="preserve">Worth <ph id="0">{0}</ph>.</source>
       </trans-unit>
-      <trans-unit id="This will delete the {0} existing sections of {1} and all their offers, replacing them with the copied ones. Continue?">
+      <trans-unit id="This will delete the {0} existing sections of {1} and all their offers, replacing them with the copied ones. Continue?" xml:space="preserve">
         <source xml:space="preserve">This will delete the <ph id="0">{0}</ph> existing sections of <ph id="1">{1}</ph> and all their offers, replacing them with the copied ones. Continue?</source>
+        <target state="translated">Это удалит <ph id="0">{0}</ph> существующих раздел(ов) в магазине <ph id="1">{1}</ph> и все предложения в них, заменяя их теми, которые вы хотите вставить. Продолжить?</target>
       </trans-unit>
       <trans-unit id="Cleared {0} stale content block(s) from {1} at {2}.">
         <source xml:space="preserve">Cleared <ph id="0">{0}</ph> stale content block(s) from <ph id="1">{1}</ph> at <ph id="2">{2}</ph>.</source>
