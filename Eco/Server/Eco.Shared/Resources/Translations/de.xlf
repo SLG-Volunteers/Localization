@@ -2638,7 +2638,7 @@
       </trans-unit>
       <trans-unit id="Controls" xml:space="preserve">
         <source xml:space="preserve">Controls</source>
-        <target xml:space="preserve" state="translated">Steuerelemente</target>
+        <target xml:space="preserve" state="translated">Steuerung</target>
       </trans-unit>
       <trans-unit id="Connecting..." xml:space="preserve">
         <source xml:space="preserve">Connecting...</source>
@@ -11619,7 +11619,7 @@
       </trans-unit>
       <trans-unit id="Show Interact Cursor" xml:space="preserve">
         <source xml:space="preserve">Show Interact Cursor</source>
-        <target xml:space="preserve" state="translated">Zeige interaktiven Cursor</target>
+        <target xml:space="preserve" state="translated">Interaktionscursor anzeigen</target>
       </trans-unit>
       <trans-unit id="Each level up you gain a star to learn a discovered specialty." xml:space="preserve">
         <source xml:space="preserve">Each level up you gain a star to learn a discovered specialty.</source>
@@ -12744,7 +12744,7 @@
       </trans-unit>
       <trans-unit id="Open mic" xml:space="preserve">
         <source xml:space="preserve">Open mic</source>
-        <target xml:space="preserve" state="translated">Mikrofon ständig aktiv</target>
+        <target xml:space="preserve" state="translated">Dauersenden</target>
       </trans-unit>
       <trans-unit id="Host in Cloud" xml:space="preserve">
         <source xml:space="preserve">Host in Cloud</source>
@@ -12824,11 +12824,11 @@
       </trans-unit>
       <trans-unit id="Music Volume" xml:space="preserve">
         <source xml:space="preserve">Music Volume</source>
-        <target xml:space="preserve" state="translated">Musik Lautstärke</target>
+        <target xml:space="preserve" state="translated">Lautstärke: Musik</target>
       </trans-unit>
       <trans-unit id="Show speaking players on screen" xml:space="preserve">
         <source xml:space="preserve">Show speaking players on screen</source>
-        <target xml:space="preserve" state="translated">Zeige sprechende Spieler auf dem Bildschirm</target>
+        <target xml:space="preserve" state="translated">Sprecher auf dem Bildschirm anzeigen</target>
       </trans-unit>
       <trans-unit id="Voice Volume" xml:space="preserve">
         <source xml:space="preserve">Voice Volume</source>
@@ -16777,7 +16777,7 @@
       </trans-unit>
       <trans-unit id="Put" xml:space="preserve">
         <source xml:space="preserve">Put</source>
-        <target xml:space="preserve" state="translated">platzieren</target>
+        <target xml:space="preserve" state="translated">Platzieren</target>
       </trans-unit>
       <trans-unit id="Backed" xml:space="preserve">
         <source xml:space="preserve">Backed</source>
@@ -20087,7 +20087,7 @@
       </trans-unit>
       <trans-unit id="Look at block description" xml:space="preserve">
         <source xml:space="preserve">Look at block description</source>
-        <target xml:space="preserve" state="translated">Zeige Blockbeschreibung an</target>
+        <target xml:space="preserve" state="translated">Blockbeschreibung anzeigen</target>
       </trans-unit>
       <trans-unit id="Eraser" xml:space="preserve">
         <source xml:space="preserve">Eraser</source>
@@ -21647,7 +21647,7 @@
       </trans-unit>
       <trans-unit id="Music Volume " xml:space="preserve">
         <source xml:space="preserve">Music Volume </source>
-        <target xml:space="preserve" state="translated">Musik Lautstärke </target>
+        <target xml:space="preserve" state="translated">Lautstärke: Musik </target>
       </trans-unit>
       <trans-unit id="Expand Roles When Full" xml:space="preserve">
         <source xml:space="preserve">Expand Roles When Full</source>
@@ -23434,11 +23434,11 @@
       </trans-unit>
       <trans-unit id="Turn off" xml:space="preserve">
         <source xml:space="preserve">Turn off</source>
-        <target xml:space="preserve" state="translated">Deaktivieren</target>
+        <target xml:space="preserve" state="translated">Ausschalten</target>
       </trans-unit>
       <trans-unit id="Turn on" xml:space="preserve">
         <source xml:space="preserve">Turn on</source>
-        <target xml:space="preserve" state="translated">einschalten</target>
+        <target xml:space="preserve" state="translated">Einschalten</target>
       </trans-unit>
       <trans-unit id="There are no available projects that require {0}" xml:space="preserve">
         <source xml:space="preserve">There are no available projects that require <ph id="0">{0}</ph></source>
@@ -27022,7 +27022,7 @@
       </trans-unit>
       <trans-unit id="Enables a dot-like cursor on top of world objects for more accurate selection." xml:space="preserve">
         <source xml:space="preserve">Enables a dot-like cursor on top of world objects for more accurate selection.</source>
-        <target xml:space="preserve" state="translated">Ermöglicht einen punktförmigen Cursor über den Weltobjekten für eine genauere Auswahl.</target>
+        <target xml:space="preserve" state="translated">Aktiviert einen punktförmigen Cursor über Weltobjekten, um eine präzisere Auswahl zu ermöglichen.</target>
       </trans-unit>
       <trans-unit id="Arachnophobia" xml:space="preserve">
         <source xml:space="preserve">Arachnophobia</source>
@@ -27038,7 +27038,7 @@
       </trans-unit>
       <trans-unit id="Disable head bobbing" xml:space="preserve">
         <source xml:space="preserve">Disable head bobbing</source>
-        <target xml:space="preserve" state="translated">Schaltet Kopfwippen aus</target>
+        <target xml:space="preserve" state="translated">Kopfwippen ausschalten</target>
       </trans-unit>
       <trans-unit id="Palm log comes from the palm tree, which is unique among trees that it is neither hardwood nor softwood. It still makes an excellent building material." xml:space="preserve">
         <source xml:space="preserve">Palm log comes from the palm tree, which is unique among trees that it is neither hardwood nor softwood. It still makes an excellent building material.</source>
@@ -27098,7 +27098,7 @@
       </trans-unit>
       <trans-unit id="Accessibility" xml:space="preserve">
         <source xml:space="preserve">Accessibility</source>
-        <target xml:space="preserve" state="translated">Erreichbarkeit</target>
+        <target xml:space="preserve" state="translated">Zugänglichkeit</target>
       </trans-unit>
       <trans-unit id="Take Role" xml:space="preserve">
         <source xml:space="preserve">Take Role</source>
@@ -28439,7 +28439,7 @@
       </trans-unit>
       <trans-unit id="Ambience Volume" xml:space="preserve">
         <source xml:space="preserve">Ambience Volume</source>
-        <target xml:space="preserve" state="translated">Lautstärke der Umgebungsgeräusche</target>
+        <target xml:space="preserve" state="translated">Lautstärke: Umgebung</target>
       </trans-unit>
       <trans-unit id="Residency" xml:space="preserve">
         <source xml:space="preserve">Residency</source>
@@ -36511,11 +36511,11 @@
       </trans-unit>
       <trans-unit id="First Person Field of View" xml:space="preserve">
         <source xml:space="preserve">First Person Field of View</source>
-        <target xml:space="preserve" state="translated">Egoperspektive - Sichtweite</target>
+        <target xml:space="preserve" state="translated">Sichtfeld: Egoperspektive</target>
       </trans-unit>
       <trans-unit id="Third Person Field of View" xml:space="preserve">
         <source xml:space="preserve">Third Person Field of View</source>
-        <target xml:space="preserve" state="translated">Third-Person - Sichtweite</target>
+        <target xml:space="preserve" state="translated">Sichtfeld: Schulterperspektive</target>
       </trans-unit>
       <trans-unit id="Set Your Estimated Play Times" xml:space="preserve">
         <source xml:space="preserve">Set Your Estimated Play Times</source>
@@ -39334,7 +39334,7 @@
       </trans-unit>
       <trans-unit id="Take {0}" xml:space="preserve">
         <source xml:space="preserve">Take <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Nehme <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> entnehmen</target>
       </trans-unit>
       <trans-unit id="Labor on {0}" xml:space="preserve">
         <source xml:space="preserve">Labor on <ph id="0">{0}</ph></source>
@@ -39478,7 +39478,7 @@
       </trans-unit>
       <trans-unit id="Glass Refraction" xml:space="preserve">
         <source xml:space="preserve">Glass Refraction</source>
-        <target xml:space="preserve" state="translated">Glas Lichtbrechung</target>
+        <target xml:space="preserve" state="translated">Lichtbrechung durch Glas</target>
       </trans-unit>
       <trans-unit id="High Quality Water" xml:space="preserve">
         <source xml:space="preserve">High Quality Water</source>
@@ -39618,7 +39618,7 @@
       </trans-unit>
       <trans-unit id="UI Volume" xml:space="preserve">
         <source xml:space="preserve">UI Volume</source>
-        <target xml:space="preserve" state="translated">UI Lautstärke</target>
+        <target xml:space="preserve" state="translated">Lautstärke: Benutzeroberfläche</target>
       </trans-unit>
       <trans-unit id="Information about a house on the deed. " xml:space="preserve">
         <source xml:space="preserve">Information about a house on the deed. </source>
@@ -39690,15 +39690,15 @@
       </trans-unit>
       <trans-unit id="New tab created per whisper" xml:space="preserve">
         <source xml:space="preserve">New tab created per whisper</source>
-        <target xml:space="preserve" state="translated">Neuer Tab durch Direktnachricht erstellt</target>
+        <target xml:space="preserve" state="translated">Neue Registerkarte bei Direktnachricht erzeugen</target>
       </trans-unit>
       <trans-unit id="Chat Font Size" xml:space="preserve">
         <source xml:space="preserve">Chat Font Size</source>
-        <target xml:space="preserve" state="translated">Chat Schriftgröße</target>
+        <target xml:space="preserve" state="translated">Chat-Schriftgröße</target>
       </trans-unit>
       <trans-unit id="Voice Users" xml:space="preserve">
         <source xml:space="preserve">Voice Users</source>
-        <target xml:space="preserve" state="translated">Sprachchat Benutzer</target>
+        <target xml:space="preserve" state="translated">Benutzer im Sprachchat</target>
       </trans-unit>
       <trans-unit id="Getting started!" xml:space="preserve">
         <source xml:space="preserve">Getting started!</source>
@@ -40087,7 +40087,7 @@
       </trans-unit>
       <trans-unit id="Enables / disables voice chat, this includes speaking and listening to other players." xml:space="preserve">
         <source xml:space="preserve">Enables / disables voice chat, this includes speaking and listening to other players.</source>
-        <target xml:space="preserve" state="translated">Erlaubt/deaktiviert Sprachchat, was Sprechen und Zuhören von und zu anderen Spielern beinhaltet.</target>
+        <target xml:space="preserve" state="translated">Aktiviert und deaktiviert den Sprachchat zur Kommunikation mit anderen Spielern.</target>
       </trans-unit>
       <trans-unit id="Q" xml:space="preserve">
         <source xml:space="preserve">Q</source>
@@ -49066,7 +49066,7 @@
       </trans-unit>
       <trans-unit id="Show FPS" xml:space="preserve">
         <source xml:space="preserve">Show FPS</source>
-        <target xml:space="preserve" state="translated">Zeige FPS</target>
+        <target xml:space="preserve" state="translated">FPS anzeigen</target>
       </trans-unit>
       <trans-unit id="Display FPS count in a corner of the screen at all times." xml:space="preserve">
         <source xml:space="preserve">Display FPS count in a corner of the screen at all times.</source>
@@ -49160,7 +49160,7 @@
       </trans-unit>
       <trans-unit id="Take the {0} from your tent and select it." xml:space="preserve">
         <source xml:space="preserve">Take the <ph id="0">{0}</ph> from your tent and select it.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Nimm den „<ph id="0">“{0}</ph> aus deinem Zelt und wähle ihn aus.</target>
+        <target xml:space="preserve" state="translated">Nimm den <ph id="0">{0}</ph> aus deinem Zelt und wähle ihn aus.</target>
       </trans-unit>
       <trans-unit id="Pick up the stone pieces by pressing {0}." xml:space="preserve">
         <source xml:space="preserve">Pick up the stone pieces by pressing <ph id="0">{0}</ph>.</source>
@@ -52797,15 +52797,15 @@
       </trans-unit>
       <trans-unit id="Twitch account {0} is linked." xml:space="preserve">
         <source xml:space="preserve">Twitch account <ph id="0">{0}</ph> is linked.</source>
-        <target xml:space="preserve" state="translated">Twitch-Account <ph id="0">{0}</ph> ist verlinkt.</target>
+        <target xml:space="preserve" state="translated">Twitch-Account <ph id="0">{0}</ph> ist verknüpft.</target>
       </trans-unit>
       <trans-unit id="No twitch account is linked." xml:space="preserve">
         <source xml:space="preserve">No twitch account is linked.</source>
-        <target xml:space="preserve" state="translated">Kein Twitch-Account ist verlinkt.</target>
+        <target xml:space="preserve" state="translated">Kein Twitch-Account verknüpft.</target>
       </trans-unit>
       <trans-unit id="Not logged in to Strange Loop servers." xml:space="preserve">
         <source xml:space="preserve">Not logged in to Strange Loop servers.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Du bist nicht bei den Strange Loop-Servern angemeldet.</target>
+        <target xml:space="preserve" state="translated">Du bist nicht an den Strange-Loop-Servern angemeldet.</target>
       </trans-unit>
       <trans-unit id="Not connected to a game server." xml:space="preserve">
         <source xml:space="preserve">Not connected to a game server.</source>
@@ -55492,7 +55492,7 @@
       </trans-unit>
       <trans-unit id="Weather Volume" xml:space="preserve">
         <source xml:space="preserve">Weather Volume</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Wetterband</target>
+        <target xml:space="preserve" state="translated">Lautstärke: Wetter</target>
       </trans-unit>
       <trans-unit id="Give feedback to the devs and vote on feedback from other citizens here:" xml:space="preserve">
         <source xml:space="preserve">Give feedback to the devs and vote on feedback from other citizens here:</source>
@@ -58577,15 +58577,15 @@
       </trans-unit>
       <trans-unit id="Skip warning when placing on unowned land" xml:space="preserve">
         <source xml:space="preserve">Skip warning when placing on unowned land</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Warnung überspringen, wenn du auf unbebautem Land baust</target>
+        <target xml:space="preserve" state="translated">Warnung bei Bau auf unbesetztem Land überspringen</target>
       </trans-unit>
       <trans-unit id="Display deeds on placement" xml:space="preserve">
         <source xml:space="preserve">Display deeds on placement</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Taten bei Platzierung anzeigen</target>
+        <target xml:space="preserve" state="translated">Aktionen bei Platzierung anzeigen</target>
       </trans-unit>
       <trans-unit id="Advanced building enabled" xml:space="preserve">
         <source xml:space="preserve">Advanced building enabled</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Erweiterte Bauoptionen aktiviert</target>
+        <target xml:space="preserve" state="translated">Erweiterte Baufunktionen aktivieren</target>
       </trans-unit>
       <trans-unit id="Show 'owned' only" xml:space="preserve">
         <source xml:space="preserve">Show 'owned' only</source>
@@ -65558,7 +65558,7 @@
       </trans-unit>
       <trans-unit id="Mine 100 ore." xml:space="preserve">
         <source xml:space="preserve">Mine 100 ore.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Folge 100 Erz.</target>
+        <target xml:space="preserve" state="translated">Fördere 100 Erz.</target>
       </trans-unit>
       <trans-unit id="Rockhound" xml:space="preserve">
         <source xml:space="preserve">Rockhound</source>
@@ -65566,7 +65566,7 @@
       </trans-unit>
       <trans-unit id="Mine 1000 ore." xml:space="preserve">
         <source xml:space="preserve">Mine 1000 ore.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Folge 1000 Erz.</target>
+        <target xml:space="preserve" state="translated">Fördere 1.000 Erz.</target>
       </trans-unit>
       <trans-unit id="Earthbreaker" xml:space="preserve">
         <source xml:space="preserve">Earthbreaker</source>
@@ -66221,7 +66221,7 @@
       </trans-unit>
       <trans-unit id="  Volume: {0} blocks" xml:space="preserve">
         <source xml:space="preserve">  Volume: <ph id="0">{0}</ph> blocks</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">  Umfang: <ph id="0">{0}</ph>-Blöcke</target>
+        <target xml:space="preserve" state="translated">  Volumen: <ph id="0">{0}</ph> Blöcke</target>
       </trans-unit>
       <trans-unit id="  Empty Space: {0} blocks" xml:space="preserve">
         <source xml:space="preserve">  Empty Space: <ph id="0">{0}</ph> blocks</source>
@@ -66706,7 +66706,7 @@
       </trans-unit>
       <trans-unit id="Grid placement by default" xml:space="preserve">
         <source xml:space="preserve">Grid placement by default</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Standardmäßige Rasterplatzierung</target>
+        <target xml:space="preserve" state="translated">Blöcke beim Platzieren am Raster ausrichten</target>
       </trans-unit>
       <trans-unit id="When checked, grid based build mode will be used by default and to be able to free place you will need to hold Shift modifier. Uncheck for opposite behavior." xml:space="preserve">
         <source xml:space="preserve">When checked, grid based build mode will be used by default and to be able to free place you will need to hold Shift modifier. Uncheck for opposite behavior.</source>
@@ -66726,7 +66726,7 @@
       </trans-unit>
       <trans-unit id="Other Volume" xml:space="preserve">
         <source xml:space="preserve">Other Volume</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Andere Bände</target>
+        <target xml:space="preserve" state="translated">Lautstärke: Sonstiges</target>
       </trans-unit>
       <trans-unit id="Impacts all other sound sources that are not listed above, including mods." xml:space="preserve">
         <source xml:space="preserve">Impacts all other sound sources that are not listed above, including mods.</source>
@@ -68151,25 +68151,25 @@ Eco</target>
       <trans-unit id="SFX Volume&#10;" xml:space="preserve">
         <source xml:space="preserve">SFX Volume
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">SFX-Lautstärke
+        <target xml:space="preserve" state="translated">Lautstärke: Umegbung
 </target>
       </trans-unit>
       <trans-unit id="Hide Outdoors Objects When Indoors&#10;" xml:space="preserve">
         <source xml:space="preserve">Hide Outdoors Objects When Indoors
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Objekte im Freien ausblenden, wenn man drinnen ist
+        <target xml:space="preserve" state="translated">Objekte im Freien in Innenräumen ausblenden
 </target>
       </trans-unit>
       <trans-unit id="General&#10;" xml:space="preserve">
         <source xml:space="preserve">General
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Allgemeines
+        <target xml:space="preserve" state="translated">Allgemein
 </target>
       </trans-unit>
       <trans-unit id="Render Scale&#10;" xml:space="preserve">
         <source xml:space="preserve">Render Scale
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Render-Skala
+        <target xml:space="preserve" state="translated">Render-Skalierung
 </target>
       </trans-unit>
       <trans-unit id="Enable Discord Rich Presence&#10;" xml:space="preserve">
@@ -71386,7 +71386,7 @@ Strg – x100</target>
       </trans-unit>
       <trans-unit id="Quick stash" xml:space="preserve">
         <source xml:space="preserve">Quick stash</source>
-        <target state="translated">Schnellspeicher</target>
+        <target state="translated">Schnelllagern</target>
       </trans-unit>
       <trans-unit id="Sent {0} private messages to you from {1} test users." xml:space="preserve">
         <source xml:space="preserve">Sent <ph id="0">{0}</ph> private messages to you from <ph id="1">{1}</ph> test users.</source>
@@ -71855,8 +71855,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Hold Ctrl to temporarily display the last layer you selected, release it to restore the current view.">
         <source xml:space="preserve">Hold Ctrl to temporarily display the last layer you selected, release it to restore the current view.</source>
       </trans-unit>
-      <trans-unit id="Translation Portal">
+      <trans-unit id="Translation Portal" xml:space="preserve">
         <source xml:space="preserve">Translation Portal</source>
+        <target state="translated">Übersetzungsportal</target>
       </trans-unit>
       <trans-unit id="Eco Wiki">
         <source xml:space="preserve">Eco Wiki</source>
@@ -72603,11 +72604,13 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Persisted {0} pending storages in {1:F0}ms">
         <source xml:space="preserve">Persisted <ph id="0">{0}</ph> pending storages in <ph id="1">{1:F0}</ph>ms</source>
       </trans-unit>
-      <trans-unit id="Pipe X-Ray">
+      <trans-unit id="Pipe X-Ray" xml:space="preserve">
         <source xml:space="preserve">Pipe X-Ray</source>
+        <target state="translated">Rohrleitungsnetz beim Platzieren anzeigen</target>
       </trans-unit>
-      <trans-unit id="While carrying a pipe, pipes routed inside blocks are highlighted through them.">
+      <trans-unit id="While carrying a pipe, pipes routed inside blocks are highlighted through them." xml:space="preserve">
         <source xml:space="preserve">While carrying a pipe, pipes routed inside blocks are highlighted through them.</source>
+        <target state="translated">Zeigt beim Platzieren von Rohrleitungen in den Blöcken verbaute Rohre an.</target>
       </trans-unit>
       <trans-unit id="Allow flying, then double-tap Jump to start or stop flying">
         <source xml:space="preserve">Allow flying, then double-tap Jump to start or stop flying</source>
