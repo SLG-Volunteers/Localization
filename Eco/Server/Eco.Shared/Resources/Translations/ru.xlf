@@ -27570,7 +27570,7 @@
       </trans-unit>
       <trans-unit id="bought" xml:space="preserve">
         <source xml:space="preserve">bought</source>
-        <target xml:space="preserve" state="translated">купили</target>
+        <target xml:space="preserve" state="translated">куплено</target>
       </trans-unit>
       <trans-unit id="gave" xml:space="preserve">
         <source xml:space="preserve">gave</source>
