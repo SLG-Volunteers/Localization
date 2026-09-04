@@ -10179,107 +10179,107 @@
       </trans-unit>
       <trans-unit id="Wolf Capacity" xml:space="preserve">
         <source xml:space="preserve">Wolf Capacity</source>
-        <target xml:space="preserve" state="translated">Wolf Kapazität</target>
+        <target xml:space="preserve" state="translated">Wolf: Kapazität</target>
       </trans-unit>
       <trans-unit id="Turkey Capacity" xml:space="preserve">
         <source xml:space="preserve">Turkey Capacity</source>
-        <target xml:space="preserve" state="translated">Truthahn Kapazität</target>
+        <target xml:space="preserve" state="translated">Truthahn: Kapazität</target>
       </trans-unit>
       <trans-unit id="Tuna Capacity" xml:space="preserve">
         <source xml:space="preserve">Tuna Capacity</source>
-        <target xml:space="preserve" state="translated">Thunfisch Kapazität</target>
+        <target xml:space="preserve" state="translated">Thunfisch: Kapazität</target>
       </trans-unit>
       <trans-unit id="Trout Capacity" xml:space="preserve">
         <source xml:space="preserve">Trout Capacity</source>
-        <target xml:space="preserve" state="translated">Forelle Kapazität</target>
+        <target xml:space="preserve" state="translated">Forelle: Kapazität</target>
       </trans-unit>
       <trans-unit id="Tortoise Capacity" xml:space="preserve">
         <source xml:space="preserve">Tortoise Capacity</source>
-        <target xml:space="preserve" state="translated">Schildkröte Kapazität</target>
+        <target xml:space="preserve" state="translated">Schildkröte: Kapazität</target>
       </trans-unit>
       <trans-unit id="Salmon Capacity" xml:space="preserve">
         <source xml:space="preserve">Salmon Capacity</source>
-        <target xml:space="preserve" state="translated">Lachs Kapazität</target>
+        <target xml:space="preserve" state="translated">Lachs: Kapazität</target>
       </trans-unit>
       <trans-unit id="Otter Capacity" xml:space="preserve">
         <source xml:space="preserve">Otter Capacity</source>
-        <target xml:space="preserve" state="translated">Otter Kapazität</target>
+        <target xml:space="preserve" state="translated">Otter: Kapazität</target>
       </trans-unit>
       <trans-unit id="Mountain Goat Capacity" xml:space="preserve">
         <source xml:space="preserve">Mountain Goat Capacity</source>
-        <target xml:space="preserve" state="translated">Bergziege Kapazität</target>
+        <target xml:space="preserve" state="translated">Bergziege: Kapazität</target>
       </trans-unit>
       <trans-unit id="Hare Capacity" xml:space="preserve">
         <source xml:space="preserve">Hare Capacity</source>
-        <target xml:space="preserve" state="translated">Hase Kapazität</target>
+        <target xml:space="preserve" state="translated">Hase: Kapazität</target>
       </trans-unit>
       <trans-unit id="Fox Capacity" xml:space="preserve">
         <source xml:space="preserve">Fox Capacity</source>
-        <target xml:space="preserve" state="translated">Fuchs Kapazität</target>
+        <target xml:space="preserve" state="translated">Fuchs: Kapazität</target>
       </trans-unit>
       <trans-unit id="Elk Capacity" xml:space="preserve">
         <source xml:space="preserve">Elk Capacity</source>
-        <target xml:space="preserve" state="translated">Wapiti Kapazität</target>
+        <target xml:space="preserve" state="translated">Wapiti: Kapazität</target>
       </trans-unit>
       <trans-unit id="Deer Capacity" xml:space="preserve">
         <source xml:space="preserve">Deer Capacity</source>
-        <target xml:space="preserve" state="translated">Hirsch Kapazität</target>
+        <target xml:space="preserve" state="translated">Hirsch: Kapazität</target>
       </trans-unit>
       <trans-unit id="Bison Capacity" xml:space="preserve">
         <source xml:space="preserve">Bison Capacity</source>
-        <target xml:space="preserve" state="translated">Bison Kapazität</target>
+        <target xml:space="preserve" state="translated">Bison: Kapazität</target>
       </trans-unit>
       <trans-unit id="Bighorn Sheep Capacity" xml:space="preserve">
         <source xml:space="preserve">Bighorn Sheep Capacity</source>
-        <target xml:space="preserve" state="translated">Dickhornschaf Kapazität</target>
+        <target xml:space="preserve" state="translated">Dickhornschaf: Kapazität</target>
       </trans-unit>
       <trans-unit id="Player Activity" xml:space="preserve">
         <source xml:space="preserve">Player Activity</source>
-        <target xml:space="preserve" state="translated">Spieler Aktivität</target>
+        <target xml:space="preserve" state="translated">Spieleraktivität</target>
       </trans-unit>
       <trans-unit id="Wetland Biome" xml:space="preserve">
         <source xml:space="preserve">Wetland Biome</source>
-        <target xml:space="preserve" state="translated">Sumpf Biom</target>
+        <target xml:space="preserve" state="translated">Sumpf-Biom</target>
       </trans-unit>
       <trans-unit id="Warm Forest Biome" xml:space="preserve">
         <source xml:space="preserve">Warm Forest Biome</source>
-        <target xml:space="preserve" state="translated">Warmer Wald Biom</target>
+        <target xml:space="preserve" state="translated">Warmer-Wald-Biom</target>
       </trans-unit>
       <trans-unit id="Tundra Biome" xml:space="preserve">
         <source xml:space="preserve">Tundra Biome</source>
-        <target xml:space="preserve" state="translated">Tundrabiom</target>
+        <target xml:space="preserve" state="translated">Tundra-Biom</target>
       </trans-unit>
       <trans-unit id="Boreal Forest Biome" xml:space="preserve">
         <source xml:space="preserve">Boreal Forest Biome</source>
-        <target xml:space="preserve" state="translated">Borealer Wald Biom</target>
+        <target xml:space="preserve" state="translated">Borealer-Wald-Biom</target>
       </trans-unit>
       <trans-unit id="Rainforest Biome" xml:space="preserve">
         <source xml:space="preserve">Rainforest Biome</source>
-        <target xml:space="preserve" state="translated">Regenwaldbiom</target>
+        <target xml:space="preserve" state="translated">Regenwald-Biom</target>
       </trans-unit>
       <trans-unit id="Ice Biome" xml:space="preserve">
         <source xml:space="preserve">Ice Biome</source>
-        <target xml:space="preserve" state="translated">Eis Biom</target>
+        <target xml:space="preserve" state="translated">Eis-Biom</target>
       </trans-unit>
       <trans-unit id="Grassland Biome" xml:space="preserve">
         <source xml:space="preserve">Grassland Biome</source>
-        <target xml:space="preserve" state="translated">Grasland Biom</target>
+        <target xml:space="preserve" state="translated">Grasland-Biom</target>
       </trans-unit>
       <trans-unit id="Forest Biome" xml:space="preserve">
         <source xml:space="preserve">Forest Biome</source>
-        <target xml:space="preserve" state="translated">Waldbiom</target>
+        <target xml:space="preserve" state="translated">Wald-Biom</target>
       </trans-unit>
       <trans-unit id="Desert Biome" xml:space="preserve">
         <source xml:space="preserve">Desert Biome</source>
-        <target xml:space="preserve" state="translated">Wüstenbiom</target>
+        <target xml:space="preserve" state="translated">Wüsten-Biom</target>
       </trans-unit>
       <trans-unit id="Cold Forest Biome" xml:space="preserve">
         <source xml:space="preserve">Cold Forest Biome</source>
-        <target xml:space="preserve" state="translated">Kalter Wald Biom</target>
+        <target xml:space="preserve" state="translated">Kalter-Wald-Biom</target>
       </trans-unit>
       <trans-unit id="Example crafting table that uses liquids." xml:space="preserve">
         <source xml:space="preserve">Example crafting table that uses liquids.</source>
-        <target xml:space="preserve" state="translated">Beispiel Tisch zum Herstellen mit Flüssigkeiten.</target>
+        <target xml:space="preserve" state="translated">Beispielhafter Tisch zur Arbeit mit Flüssigkeiten.</target>
       </trans-unit>
       <trans-unit id="Debris Type" xml:space="preserve">
         <source xml:space="preserve">Debris Type</source>
@@ -49094,7 +49094,7 @@
       </trans-unit>
       <trans-unit id="Build {0} blocks" xml:space="preserve">
         <source xml:space="preserve">Build <ph id="0">{0}</ph> blocks</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Baue „<ph id="0">“ {0}</ph>-Blöcke</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> Blöcke platzieren</target>
       </trans-unit>
       <trans-unit id="Not attached to the ground" xml:space="preserve">
         <source xml:space="preserve">Not attached to the ground</source>
@@ -63911,7 +63911,7 @@
       </trans-unit>
       <trans-unit id="Select deconstruction zone" xml:space="preserve">
         <source xml:space="preserve">Select deconstruction zone</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Wähle eine Abbruchzone aus</target>
+        <target xml:space="preserve" state="translated">Dekonstruktionsbereich auswählen</target>
       </trans-unit>
       <trans-unit id="Rotate" xml:space="preserve">
         <source xml:space="preserve">Rotate</source>
@@ -65889,7 +65889,7 @@
       </trans-unit>
       <trans-unit id="Deconstruct {0} blocks" xml:space="preserve">
         <source xml:space="preserve">Deconstruct <ph id="0">{0}</ph> blocks</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">zerlegen {0}</ph>-Blöcke</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> Blöcke entfernen</target>
       </trans-unit>
       <trans-unit id="an object" xml:space="preserve">
         <source xml:space="preserve">an object</source>
@@ -71717,8 +71717,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Flowing {0} / {1} {2} per second.">
         <source xml:space="preserve">Flowing <ph id="0">{0}</ph> / <ph id="1">{1}</ph> <ph id="2">{2}</ph> per second.</source>
       </trans-unit>
-      <trans-unit id="(inactive)">
+      <trans-unit id="(inactive)" xml:space="preserve">
         <source xml:space="preserve">(inactive)</source>
+        <target state="translated">(inaktiv)</target>
       </trans-unit>
       <trans-unit id="within {0} blocks">
         <source xml:space="preserve">within <ph id="0">{0}</ph> blocks</source>
@@ -71732,8 +71733,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="{0} pipe segment(s), {1} node(s), {2} conflicted. {3}">
         <source xml:space="preserve"><ph id="0">{0}</ph> pipe segment(s), <ph id="1">{1}</ph> node(s), <ph id="2">{2}</ph> conflicted. <ph id="3">{3}</ph></source>
       </trans-unit>
-      <trans-unit id="Pipe Networks">
+      <trans-unit id="Pipe Networks" xml:space="preserve">
         <source xml:space="preserve">Pipe Networks</source>
+        <target state="translated">Rohrleitungsnetze</target>
       </trans-unit>
       <trans-unit id="{0} halted. No linked storage can take {1}, please release space in attached inventories or collect manually.">
         <source xml:space="preserve"><ph id="0">{0}</ph> halted. No linked storage can take <ph id="1">{1}</ph>, please release space in attached inventories or collect manually.</source>
