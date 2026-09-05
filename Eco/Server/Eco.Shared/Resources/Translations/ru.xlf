@@ -60272,7 +60272,7 @@
       </trans-unit>
       <trans-unit id="Warning: {0} is not attached to the settlement foundation." xml:space="preserve">
         <source xml:space="preserve">Warning: <ph id="0">{0}</ph> is not attached to the settlement foundation.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Внимание: <ph id="0">{0}</ph> не привязано к фундаменту поселения.</target>
+        <target xml:space="preserve" state="translated">Внимание: <ph id="0">{0}</ph> не привязано к закладному камню поселения.</target>
       </trans-unit>
       <trans-unit id="The deed {0} has been removed from the list of cultural properties generating influence for {1} as it is no longer valid." xml:space="preserve">
         <source xml:space="preserve">The deed <ph id="0">{0}</ph> has been removed from the list of cultural properties generating influence for <ph id="1">{1}</ph> as it is no longer valid.</source>
