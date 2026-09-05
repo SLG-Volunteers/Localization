@@ -4317,7 +4317,7 @@
       </trans-unit>
       <trans-unit id="Storage" xml:space="preserve">
         <source xml:space="preserve">Storage</source>
-        <target xml:space="preserve" state="translated">Speicher</target>
+        <target xml:space="preserve" state="translated">Lager</target>
         <note from="developer">Storage menu in server panel</note>
       </trans-unit>
       <trans-unit id="World" xml:space="preserve">
@@ -8033,7 +8033,7 @@
       </trans-unit>
       <trans-unit id="Save Name" xml:space="preserve">
         <source xml:space="preserve">Save Name</source>
-        <target xml:space="preserve" state="translated">Name speichern</target>
+        <target xml:space="preserve" state="translated">Name des Spielstands</target>
       </trans-unit>
       <trans-unit id="Save Frequency" xml:space="preserve">
         <source xml:space="preserve">Save Frequency</source>
@@ -8903,7 +8903,7 @@
       </trans-unit>
       <trans-unit id="Saving world" xml:space="preserve">
         <source xml:space="preserve">Saving world</source>
-        <target xml:space="preserve" state="translated">Welt speichern</target>
+        <target xml:space="preserve" state="translated">Welt wird gespeichert</target>
       </trans-unit>
       <trans-unit id="Initializing plants" xml:space="preserve">
         <source xml:space="preserve">Initializing plants</source>
@@ -15368,7 +15368,7 @@
       </trans-unit>
       <trans-unit id="Savegame Description" xml:space="preserve">
         <source xml:space="preserve">Savegame Description</source>
-        <target xml:space="preserve" state="translated">Beschreibung des Speicherstandes</target>
+        <target xml:space="preserve" state="translated">Beschreibung des Spielstandes</target>
       </trans-unit>
       <trans-unit id="% of transfer" xml:space="preserve">
         <source xml:space="preserve">% of transfer</source>
@@ -27693,7 +27693,7 @@
       </trans-unit>
       <trans-unit id="Remember me" xml:space="preserve">
         <source xml:space="preserve">Remember me</source>
-        <target xml:space="preserve" state="translated">Speichern</target>
+        <target xml:space="preserve" state="translated">Angemeldet bleiben</target>
       </trans-unit>
       <trans-unit id="Resources progress" xml:space="preserve">
         <source xml:space="preserve">Resources progress</source>
