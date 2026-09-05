@@ -61031,7 +61031,7 @@
       </trans-unit>
       <trans-unit id="Faster crafting and reduced labor cost at the Pottery Table." xml:space="preserve">
         <source xml:space="preserve">Faster crafting and reduced labor cost at the Pottery Table.</source>
-        <target xml:space="preserve" state="translated">Ускоряет производство предметов и снижает затраты очков работы на гончарном круге.</target>
+        <target xml:space="preserve" state="translated">Ускоряет производство предметов и снижает стоимость работы на гончарном круге.</target>
       </trans-unit>
       <trans-unit id="Clay Mastery: Pottery" xml:space="preserve">
         <source xml:space="preserve">Clay Mastery: Pottery</source>
@@ -61467,7 +61467,7 @@
       </trans-unit>
       <trans-unit id="Reduced resource cost for Housing furniture in Pottery." xml:space="preserve">
         <source xml:space="preserve">Reduced resource cost for Housing furniture in Pottery.</source>
-        <target xml:space="preserve" state="translated">Снижает затраты ресурсов на создание предметов жилья в Гончарном деле.</target>
+        <target xml:space="preserve" state="translated">Снижает затраты ресурсов на создание предметов мебели для жилища в Гончарном деле.</target>
       </trans-unit>
       <trans-unit id="Porcelain Polish: Pottery" xml:space="preserve">
         <source xml:space="preserve">Porcelain Polish: Pottery</source>
@@ -63379,7 +63379,7 @@
       </trans-unit>
       <trans-unit id="Can't handle this type of tree." xml:space="preserve">
         <source xml:space="preserve">Can't handle this type of tree.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Не могу справиться с таким типом дерева.</target>
+        <target xml:space="preserve" state="translated">С таким типом дерева не справится.</target>
       </trans-unit>
       <trans-unit id="Saw needs to be closer to stump." xml:space="preserve">
         <source xml:space="preserve">Saw needs to be closer to stump.</source>
@@ -70042,7 +70042,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Desalinator" xml:space="preserve">
         <source xml:space="preserve">Desalinator</source>
-        <target state="translated">Десалинатор</target>
+        <target state="translated">Обессоливатель</target>
       </trans-unit>
       <trans-unit id="Work in progress." xml:space="preserve" translate="no">
         <source xml:space="preserve">Work in progress.</source>
@@ -70075,7 +70075,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Primitive Dump" xml:space="preserve">
         <source xml:space="preserve">Primitive Dump</source>
-        <target state="translated">Примитивная свалка</target>
+        <target state="translated">Куча мусора</target>
       </trans-unit>
       <trans-unit id="A machine that turns recyclable items into mixed garbage for further sorting. No refunds!" xml:space="preserve">
         <source xml:space="preserve">A machine that turns recyclable items into mixed garbage for further sorting. No refunds!</source>
@@ -71018,15 +71018,15 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on wednesdays." xml:space="preserve">
         <source xml:space="preserve">A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on wednesdays.</source>
-        <target state="translated">Жёсткий бункер для мусора, который можно перевозить, вмещает большое количество отходов и опорожняется только по средам.</target>
+        <target state="translated">Жёсткий бункер для мусора, который можно перевозить, вмещает большое количество отходов и вывозится только по средам.</target>
       </trans-unit>
       <trans-unit id="A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on mondays." xml:space="preserve">
         <source xml:space="preserve">A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on mondays.</source>
-        <target state="translated">Жёсткий бункер для мусора, который можно перевозить, вмещает большое количество отходов и опорожняется только по понедельникам.</target>
+        <target state="translated">Жёсткий бункер для мусора, который можно перевозить, вмещает большое количество отходов и вывозится только по понедельникам.</target>
       </trans-unit>
       <trans-unit id="A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on fridays." xml:space="preserve">
         <source xml:space="preserve">A rigid dumpster that can be moved, holds a large amount of garbage and only leaks on fridays.</source>
-        <target state="translated">Жёсткий бункер для мусора, который можно перевозить, вмещает большое количество отходов и вывозиться только по пятницам.</target>
+        <target state="translated">Жёсткий бункер для мусора, который можно перевозить, вмещает большое количество отходов и вывозится только по пятницам.</target>
       </trans-unit>
       <trans-unit id="Water recovered from treating waste effluent. Safe to release back into the environment, but no longer fit to feed machinery — pipe it out to the world." xml:space="preserve" translate="no">
         <source xml:space="preserve">Water recovered from treating waste effluent. Safe to release back into the environment, but no longer fit to feed machinery — pipe it out to the world.</source>
