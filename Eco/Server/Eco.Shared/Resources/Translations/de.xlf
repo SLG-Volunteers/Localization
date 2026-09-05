@@ -4696,7 +4696,7 @@
       </trans-unit>
       <trans-unit id="Put {0}" xml:space="preserve">
         <source xml:space="preserve">Put <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> platzieren</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> ablegen</target>
       </trans-unit>
       <trans-unit id="Take" xml:space="preserve">
         <source xml:space="preserve">Take</source>
@@ -10599,7 +10599,7 @@
       </trans-unit>
       <trans-unit id="{0}'s Reputation" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s Reputation</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>'s Ansehen</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>s Ansehen</target>
       </trans-unit>
       <trans-unit id="{0:verb} {1:benefits description} by {2:skill bonus}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0:verb}</ph> <ph id="1">{1:benefits description}</ph> by <ph id="2">{2:skill bonus}</ph></source>
