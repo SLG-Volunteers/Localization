@@ -16664,7 +16664,7 @@
       </trans-unit>
       <trans-unit id="If Then Blocks" xml:space="preserve">
         <source xml:space="preserve">If Then Blocks</source>
-        <target xml:space="preserve" state="translated">Wenn-Dann Blöcke</target>
+        <target xml:space="preserve" state="translated">Wenn-Dann-Blöcke</target>
       </trans-unit>
       <trans-unit id="Target" xml:space="preserve">
         <source xml:space="preserve">Target</source>
@@ -56935,7 +56935,7 @@
       </trans-unit>
       <trans-unit id="Stairs Mid Block" xml:space="preserve">
         <source xml:space="preserve">Stairs Mid Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Treppe in der Mitte des Blocks</target>
+        <target xml:space="preserve" state="translated">Treppe: Mittelblock</target>
       </trans-unit>
       <trans-unit id="Stairs End Right" xml:space="preserve">
         <source xml:space="preserve">Stairs End Right</source>
@@ -57019,7 +57019,7 @@
       </trans-unit>
       <trans-unit id="Fence Mid Block" xml:space="preserve">
         <source xml:space="preserve">Fence Mid Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zaun in der Mitte des Blocks</target>
+        <target xml:space="preserve" state="translated">Zaun: Mittelblock</target>
       </trans-unit>
       <trans-unit id="Fence End Block" xml:space="preserve">
         <source xml:space="preserve">Fence End Block</source>
