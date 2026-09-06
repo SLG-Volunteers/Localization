@@ -64989,7 +64989,7 @@
       </trans-unit>
       <trans-unit id="Note: Dinner Parties only generate significant culture when they have citizens from multiple settlements dining together.  Dinner Party bonus is capped at the property value of the deed: {0}" xml:space="preserve">
         <source xml:space="preserve">Note: Dinner Parties only generate significant culture when they have citizens from multiple settlements dining together.  Dinner Party bonus is capped at the property value of the deed: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation">Примечание: Званые ужины приносят значительный прирост культуру только в том случае, если на них собираются жители из разных поселений.  Бонус от званого ужина ограничен характеристиками права собственности: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Примечание: Званые ужины приносят значительный прирост культуру только в том случае, если на них собираются жители из разных поселений.  Бонус от званого ужина ограничен характеристиками права собственности: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="finished" xml:space="preserve">
         <source xml:space="preserve">finished</source>
