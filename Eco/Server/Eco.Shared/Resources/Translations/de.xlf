@@ -20249,7 +20249,7 @@
       </trans-unit>
       <trans-unit id="If Then Block" xml:space="preserve">
         <source xml:space="preserve">If Then Block</source>
-        <target xml:space="preserve" state="translated">Falls dann blockieren</target>
+        <target xml:space="preserve" state="translated">Wenn-Dann-Block</target>
       </trans-unit>
       <trans-unit id="Message" xml:space="preserve">
         <source xml:space="preserve">Message</source>
@@ -56899,7 +56899,7 @@
       </trans-unit>
       <trans-unit id="Wall Single Block" xml:space="preserve">
         <source xml:space="preserve">Wall Single Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Wand Einzelblock</target>
+        <target xml:space="preserve" state="translated">Wand: Einzelblock</target>
       </trans-unit>
       <trans-unit id="Wall Mid Section" xml:space="preserve">
         <source xml:space="preserve">Wall Mid Section</source>
@@ -56967,7 +56967,7 @@
       </trans-unit>
       <trans-unit id="Roof Single Block" xml:space="preserve">
         <source xml:space="preserve">Roof Single Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dach Einzelblock</target>
+        <target xml:space="preserve" state="translated">Dach: Einzelblock</target>
       </trans-unit>
       <trans-unit id="Roof Peak X" xml:space="preserve">
         <source xml:space="preserve">Roof Peak X</source>
@@ -56987,7 +56987,7 @@
       </trans-unit>
       <trans-unit id="Roof Fill Block" xml:space="preserve">
         <source xml:space="preserve">Roof Fill Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dachfüllblock</target>
+        <target xml:space="preserve" state="translated">Dach: Füllblock</target>
       </trans-unit>
       <trans-unit id="Roof End Piece" xml:space="preserve">
         <source xml:space="preserve">Roof End Piece</source>
@@ -57015,7 +57015,7 @@
       </trans-unit>
       <trans-unit id="Fence Solo Block" xml:space="preserve">
         <source xml:space="preserve">Fence Solo Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Fence Solo Block</target>
+        <target xml:space="preserve" state="translated">Zaun: Einzelblock</target>
       </trans-unit>
       <trans-unit id="Fence Mid Block" xml:space="preserve">
         <source xml:space="preserve">Fence Mid Block</source>
@@ -57023,11 +57023,11 @@
       </trans-unit>
       <trans-unit id="Fence End Block" xml:space="preserve">
         <source xml:space="preserve">Fence End Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Fence End Block</target>
+        <target xml:space="preserve" state="translated">Zaun: Endblock</target>
       </trans-unit>
       <trans-unit id="Fence Corner Block" xml:space="preserve">
         <source xml:space="preserve">Fence Corner Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zaun-Eckblock</target>
+        <target xml:space="preserve" state="translated">Zaun: Ecke</target>
       </trans-unit>
       <trans-unit id="Decoration D" xml:space="preserve">
         <source xml:space="preserve">Decoration D</source>
@@ -57047,19 +57047,19 @@
       </trans-unit>
       <trans-unit id="Column C Block" xml:space="preserve">
         <source xml:space="preserve">Column C Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Spalte C Block</target>
+        <target xml:space="preserve" state="translated">Säule: Block C</target>
       </trans-unit>
       <trans-unit id="Column Top Block" xml:space="preserve">
         <source xml:space="preserve">Column Top Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Spaltenkopfblock</target>
+        <target xml:space="preserve" state="translated">Säule: Oberteil</target>
       </trans-unit>
       <trans-unit id="Column Mid Block" xml:space="preserve">
         <source xml:space="preserve">Column Mid Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Spalte Mitte Block</target>
+        <target xml:space="preserve" state="translated">Säule: Mittelblock</target>
       </trans-unit>
       <trans-unit id="Column Base Block" xml:space="preserve">
         <source xml:space="preserve">Column Base Block</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Spaltenbasierter Block</target>
+        <target xml:space="preserve" state="translated">Säule: Basisblock</target>
       </trans-unit>
       <trans-unit id="Ceiling Block" xml:space="preserve">
         <source xml:space="preserve">Ceiling Block</source>
@@ -70264,7 +70264,7 @@ Strg – x100</target>
       </trans-unit>
       <trans-unit id="- {0}: {1} per craft ({2} over {3} remaining)." xml:space="preserve">
         <source xml:space="preserve">- <ph id="0">{0}</ph>: <ph id="1">{1}</ph> per craft (<ph id="2">{2}</ph> over <ph id="3">{3}</ph> remaining).</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">- <ph id="0">{0}</ph>: <ph id="1">{1}</ph> pro Handwerk (<ph id="2">{2}</ph> über <ph id="3">{3}</ph> verbleibend).</target>
+        <target state="translated">- <ph id="0">{0}</ph>: <ph id="1">{1}</ph> pro Einheit (<ph id="2">{2}</ph> bei <ph id="3">{3}</ph> verbleibend).</target>
       </trans-unit>
       <trans-unit id="Pending Collection" xml:space="preserve">
         <source xml:space="preserve">Pending Collection</source>
@@ -70277,7 +70277,7 @@ Strg – x100</target>
       </trans-unit>
       <trans-unit id="Per craft: {0} of a block." xml:space="preserve">
         <source xml:space="preserve">Per craft: <ph id="0">{0}</ph> of a block.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Pro Herstellung: <ph id="0">{0}</ph> eines Blocks.</target>
+        <target state="translated">Pro Einheit: <ph id="0">{0}</ph> eines Blocks.</target>
       </trans-unit>
       <trans-unit id="When Shredded" xml:space="preserve" translate="no">
         <source xml:space="preserve">When Shredded</source>
@@ -72509,8 +72509,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Select a shape to swap this block to.">
         <source xml:space="preserve">Select a shape to swap this block to.</source>
       </trans-unit>
-      <trans-unit id="{0} of a block">
+      <trans-unit id="{0} of a block" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> of a block</source>
+        <target state="translated"><ph id="0">{0}</ph> eines Blocks</target>
       </trans-unit>
       <trans-unit id="- {0}, as contamination">
         <source xml:space="preserve">- <ph id="0">{0}</ph>, as contamination</source>
