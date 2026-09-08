@@ -23850,7 +23850,7 @@
       </trans-unit>
       <trans-unit id="Repair Component" xml:space="preserve">
         <source xml:space="preserve">Repair Component</source>
-        <target xml:space="preserve" state="translated">Ремонт</target>
+        <target xml:space="preserve" state="translated">Компонент для ремонта</target>
       </trans-unit>
       <trans-unit id="Status Component" xml:space="preserve">
         <source xml:space="preserve">Status Component</source>
@@ -72908,8 +72908,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Apply this restriction to every recipe on this table that uses {0}?">
         <source xml:space="preserve">Apply this restriction to every recipe on this table that uses <ph id="0">{0}</ph>?</source>
       </trans-unit>
-      <trans-unit id="This project is already cancelled, collect its items.">
+      <trans-unit id="This project is already cancelled, collect its items." xml:space="preserve">
         <source xml:space="preserve">This project is already cancelled, collect its items.</source>
+        <target state="translated">Проект уже отменён, соберите предметы из него.</target>
       </trans-unit>
       <trans-unit id="Project cancelled. Collect the remaining items from the table.">
         <source xml:space="preserve">Project cancelled. Collect the remaining items from the table.</source>
