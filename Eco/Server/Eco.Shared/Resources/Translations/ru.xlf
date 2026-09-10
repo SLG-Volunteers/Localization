@@ -58293,7 +58293,7 @@
       </trans-unit>
       <trans-unit id="{0} Missing part {1} x{2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Missing part <ph id="1">{1}</ph> x<ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated">В станке <ph id="0">{0}</ph> закончились запчасти <ph id="1">{1}</ph> х<ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> отсутствуют части <ph id="1">{1}</ph> х<ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} Not enough of part {1}, {2} needed." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Not enough of part <ph id="1">{1}</ph>, <ph id="2">{2}</ph> needed.</source>
@@ -63935,7 +63935,7 @@
       </trans-unit>
       <trans-unit id="Must be within {0} horizontal of the vehicle (height unlimited)." xml:space="preserve">
         <source xml:space="preserve">Must be within <ph id="0">{0}</ph> horizontal of the vehicle (height unlimited).</source>
-        <target xml:space="preserve" state="translated">Должно быть в пределах <ph id="0">{0}</ph> по горизонтали от транспортного средства (высота не ограничена).</target>
+        <target xml:space="preserve" state="translated">Должно быть в пределах <ph id="0">{0}</ph> по горизонтали от транспортного средства (по высоте не ограничено).</target>
       </trans-unit>
       <trans-unit id="Must be within {0} horizontal of the vehicle." xml:space="preserve">
         <source xml:space="preserve">Must be within <ph id="0">{0}</ph> horizontal of the vehicle.</source>
