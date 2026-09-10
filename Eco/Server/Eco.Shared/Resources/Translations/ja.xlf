@@ -27634,7 +27634,7 @@
       </trans-unit>
       <trans-unit id="Choose this block form to place your {0} in the shape of {1}" xml:space="preserve">
         <source xml:space="preserve">Choose this block form to place your <ph id="0">{0}</ph> in the shape of <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">このブロックフォームを選んで、<ph id="0">{0}</ph>を <ph id="1">{1}</ph> の形に配置してください</target>
+        <target xml:space="preserve" state="translated">このブロックフォームを選んで、<ph id="0">{0}</ph> を <ph id="1">{1}</ph> の形に配置してください</target>
       </trans-unit>
       <trans-unit id="Unhandled error" xml:space="preserve">
         <source xml:space="preserve">Unhandled error</source>
@@ -27721,7 +27721,7 @@
       </trans-unit>
       <trans-unit id="This will disable all active and in-election {0} on it after a timer expires. This includes: {1}" xml:space="preserve">
         <source xml:space="preserve">This will disable all active and in-election <ph id="0">{0}</ph> on it after a timer expires. This includes: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">これにより、タイマーが切れると、すべてのアクティブおよび選挙中の <ph id="0">{0}</ph> が無効になります。これには以下が含まれます<ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">これにより、タイマーが切れると、すべてのアクティブおよび選挙中の <ph id="0">{0}</ph> が無効になります。これには以下が含まれます <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Spawn a bed and sleep in it." xml:space="preserve">
         <source xml:space="preserve">Spawn a bed and sleep in it.</source>
@@ -28183,15 +28183,15 @@
       </trans-unit>
       <trans-unit id="{0} references the {1} {2} but it's in an invalid state." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> references the <ph id="1">{1}</ph> <ph id="2">{2}</ph> but it's in an invalid state.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph><ph id="1">{1}</ph> <ph id="2">{2}</ph>を参照していますが、無効な状態です。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph><ph id="1">{1}</ph> <ph id="2">{2}</ph> を参照していますが、無効な状態です。</target>
       </trans-unit>
       <trans-unit id="{0} references the draft {1} {2}, but that draft is not part of the election." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> references the draft <ph id="1">{1}</ph> <ph id="2">{2}</ph>, but that draft is not part of the election.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は草案<ph id="1">{1}</ph> <ph id="2">{2}</ph>に言及していますが、その草案は選挙の一部ではありません。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は草案 <ph id="1">{1}</ph> <ph id="2">{2}</ph> に言及していますが、その草案は選挙の一部ではありません。</target>
       </trans-unit>
       <trans-unit id="{0} references {1} {2}, which is in the invalid state '{3}'." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> references <ph id="1">{1}</ph> <ph id="2">{2}</ph>, which is in the invalid state '<ph id="3">{3}</ph>'.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は無効な状態'<ph id="3">{3}</ph>'の <ph id="1">{1}</ph> <ph id="2">{2}</ph>を参照しています。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は無効な状態 '<ph id="3">{3}</ph>' の <ph id="1">{1}</ph> <ph id="2">{2}</ph> を参照しています。</target>
       </trans-unit>
       <trans-unit id="Election ended early because {0}% of eligible voters voted {1}." xml:space="preserve">
         <source xml:space="preserve">Election ended early because <ph id="0">{0}</ph>% of eligible voters voted <ph id="1">{1}</ph>.</source>
@@ -28411,7 +28411,7 @@
       </trans-unit>
       <trans-unit id="Can't edit {0}, it's not a draft." xml:space="preserve">
         <source xml:space="preserve">Can't edit <ph id="0">{0}</ph>, it's not a draft.</source>
-        <target xml:space="preserve" state="translated">編集できません<ph id="0">{0}</ph>、ドラフトではありません。</target>
+        <target xml:space="preserve" state="translated">編集できません <ph id="0">{0}</ph>、ドラフトではありません。</target>
       </trans-unit>
       <trans-unit id="{0} cannot be removed while in {1} state." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cannot be removed while in <ph id="1">{1}</ph> state.</source>
@@ -28785,7 +28785,7 @@
       </trans-unit>
       <trans-unit id="{0} currency changed from {1} to {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> currency changed from <ph id="1">{1}</ph> to <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated">通貨 <ph id="0">{0}</ph> <ph id="1">{1}</ph>から<ph id="2">{2}</ph>に変わりました</target>
+        <target xml:space="preserve" state="translated">通貨 <ph id="0">{0}</ph> <ph id="1">{1}</ph> から <ph id="2">{2}</ph> に変わりました</target>
       </trans-unit>
       <trans-unit id="{0} {1} for all {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> for all <ph id="2">{2}</ph></source>
@@ -28849,11 +28849,11 @@
       </trans-unit>
       <trans-unit id="{0} stopped. ({1})" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> stopped. (<ph id="1">{1}</ph>)</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>止まった。(<ph id="1">{1}</ph>)</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 止まった。(<ph id="1">{1}</ph>)</target>
       </trans-unit>
       <trans-unit id="{0} is a citizen of {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is a citizen of <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>は <ph id="1">{1}</ph> の市民です</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="1">{1}</ph> の市民です</target>
       </trans-unit>
       <trans-unit id="Is this citizen currently a member of the given settlement?" xml:space="preserve">
         <source xml:space="preserve">Is this citizen currently a member of the given settlement?</source>
@@ -28865,7 +28865,7 @@
       </trans-unit>
       <trans-unit id="{0} has a residence" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has a residence</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>には住居があります</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> には住居があります</target>
       </trans-unit>
       <trans-unit id="residence location of {0}" xml:space="preserve">
         <source xml:space="preserve">residence location of <ph id="0">{0}</ph></source>
@@ -28873,11 +28873,11 @@
       </trans-unit>
       <trans-unit id="{0}'s residence" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s residence</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>の住居</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> の住居</target>
       </trans-unit>
       <trans-unit id="distance between {0} and {1}" xml:space="preserve">
         <source xml:space="preserve">distance between <ph id="0">{0}</ph> and <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>と <ph id="1">{1}</ph> の距離</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> と <ph id="1">{1}</ph> の距離</target>
       </trans-unit>
       <trans-unit id="Determines if the given citizen has a residence." xml:space="preserve">
         <source xml:space="preserve">Determines if the given citizen has a residence.</source>
@@ -28917,7 +28917,7 @@
       </trans-unit>
       <trans-unit id="{0}'s wages from {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s wages from <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>の給料は <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> の給料は <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="The bank account used to pay wages from." xml:space="preserve">
         <source xml:space="preserve">The bank account used to pay wages from.</source>
@@ -28929,7 +28929,7 @@
       </trans-unit>
       <trans-unit id="{0} {1} to become a resident at {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> to become a resident at <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> でレジデントになる<ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> でレジデントになる <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Rescind invitation for" xml:space="preserve">
         <source xml:space="preserve">Rescind invitation for</source>
@@ -28985,7 +28985,7 @@
       </trans-unit>
       <trans-unit id="Editing {0}" xml:space="preserve">
         <source xml:space="preserve">Editing <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">編集<ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">編集 <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Optional set of wages paid for citizens in this demographic (or fees, if payments are set negative)." xml:space="preserve">
         <source xml:space="preserve">Optional set of wages paid for citizens in this demographic (or fees, if payments are set negative).</source>
@@ -28993,7 +28993,7 @@
       </trans-unit>
       <trans-unit id="You were un-invited to {0} by {1} at {2}." xml:space="preserve">
         <source xml:space="preserve">You were un-invited to <ph id="0">{0}</ph> by <ph id="1">{1}</ph> at <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph> によって<ph id="2">{2}</ph> から<ph id="0">{0}</ph> への招待が取り消されました。</target>
+        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph> によって <ph id="2">{2}</ph> から <ph id="0">{0}</ph> への招待が取り消されました。</target>
       </trans-unit>
       <trans-unit id="A list of citizens or aliases (titles or demographics) that are invited and may accept." xml:space="preserve">
         <source xml:space="preserve">A list of citizens or aliases (titles or demographics) that are invited and may accept.</source>
@@ -29009,11 +29009,11 @@
       </trans-unit>
       <trans-unit id="Are you sure you want to remove {0} from {1}?" xml:space="preserve">
         <source xml:space="preserve">Are you sure you want to remove <ph id="0">{0}</ph> from <ph id="1">{1}</ph>?</source>
-        <target xml:space="preserve" state="translated">本当に <ph id="1">{1}</ph> から<ph id="0">{0}</ph>を取り除くつもりですか?</target>
+        <target xml:space="preserve" state="translated">本当に <ph id="1">{1}</ph> から <ph id="0">{0}</ph> を取り外しますか？</target>
       </trans-unit>
       <trans-unit id="this {0}" xml:space="preserve">
         <source xml:space="preserve">this <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">この<ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">この <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Right-click food to eat it." xml:space="preserve">
         <source xml:space="preserve">Right-click food to eat it.</source>
@@ -29038,7 +29038,7 @@
       </trans-unit>
       <trans-unit id="Room is too big. {0} is more than {1} meters from the room detection point." xml:space="preserve">
         <source xml:space="preserve">Room is too big. <ph id="0">{0}</ph> is more than <ph id="1">{1}</ph> meters from the room detection point.</source>
-        <target xml:space="preserve" state="translated">部屋が広すぎる。<ph id="0">{0}</ph>は部屋の検知点から <ph id="1">{1}</ph> メートル以上離れています。</target>
+        <target xml:space="preserve" state="translated">部屋が広すぎます。<ph id="0">{0}</ph> は部屋の検知点から <ph id="1">{1}</ph> メートル以上離れています。</target>
       </trans-unit>
       <trans-unit id="Resident access permitted." xml:space="preserve">
         <source xml:space="preserve">Resident access permitted.</source>
@@ -29062,7 +29062,7 @@
       </trans-unit>
       <trans-unit id="{0} set their residence to the property {1} owned by {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> set their residence to the property <ph id="1">{1}</ph> owned by <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は<ph id="2">{2}</ph> が所有する物件 <ph id="1">{1}</ph> に住居を設定した。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="2">{2}</ph> が所有する物件 <ph id="1">{1}</ph> に住居を設定した。</target>
       </trans-unit>
       <trans-unit id="{0} {1} of your property {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> of your property <ph id="2">{2}</ph>.</source>
