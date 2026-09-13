@@ -54397,7 +54397,7 @@
       </trans-unit>
       <trans-unit id="Papers that can support homesteads outside of a settlement. Trade with lone homesteaders for their goods and services." xml:space="preserve">
         <source xml:space="preserve">Papers that can support homesteads outside of a settlement. Trade with lone homesteaders for their goods and services.</source>
-        <target xml:space="preserve" state="translated">정착지 바깥의 터전을 지원하는 증서입니다. 재화와 용역을 원하는 외로운 터전민들과 무역을 하세요.</target>
+        <target xml:space="preserve" state="translated">정착지에 소속되지 않은 터전에 사용되는 증서입니다. 외로운 터전민들과 재화와 용역 등을 이용해 무역을 하세요.</target>
       </trans-unit>
       <trans-unit id="Homestead Support Claim Paper" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claim Paper</source>
