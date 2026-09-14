@@ -58301,7 +58301,7 @@
       </trans-unit>
       <trans-unit id="{0} Broken part {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Broken part <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">В <ph id="0">{0}</ph> сломано <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> сломано <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Can't clear contained parts." xml:space="preserve">
         <source xml:space="preserve">Can't clear contained parts.</source>
