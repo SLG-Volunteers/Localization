@@ -72214,8 +72214,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="A wide-brimmed straw hat designed to provide protection from the sun.">
         <source xml:space="preserve">A wide-brimmed straw hat designed to provide protection from the sun.</source>
       </trans-unit>
-      <trans-unit id="An iron hardhat with a light source for the darkest places.">
+      <trans-unit id="An iron hardhat with a light source for the darkest places." xml:space="preserve">
         <source xml:space="preserve">An iron hardhat with a light source for the darkest places.</source>
+        <target state="translated">어두운 곳을 위한 광원이 달린 철제 안전모.</target>
       </trans-unit>
       <trans-unit id="Basic footwear that helps reduce the strain of walking longer distances.">
         <source xml:space="preserve">Basic footwear that helps reduce the strain of walking longer distances.</source>
