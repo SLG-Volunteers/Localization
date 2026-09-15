@@ -71818,11 +71818,13 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Chemical {0}">
         <source xml:space="preserve">Chemical <ph id="0">{0}</ph></source>
       </trans-unit>
-      <trans-unit id="Ground pollution from stored items: {0}">
+      <trans-unit id="Ground pollution from stored items: {0}" xml:space="preserve">
         <source xml:space="preserve">Ground pollution from stored items: <ph id="0">{0}</ph></source>
+        <target state="translated">저장된 물품으로부터 발생하는 토양 오염: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Waste containment: {0} of stored pollution retained.">
+      <trans-unit id="Waste containment: {0} of stored pollution retained." xml:space="preserve">
         <source xml:space="preserve">Waste containment: <ph id="0">{0}</ph> of stored pollution retained.</source>
+        <target state="translated">폐기물 격리됨: 발생하는 오염이 <ph id="0">{0}</ph> 만큼 감소합니다.</target>
       </trans-unit>
       <trans-unit id="Missing {0} — fluid is being relayed through unfiltered.">
         <source xml:space="preserve">Missing <ph id="0">{0}</ph> — fluid is being relayed through unfiltered.</source>
