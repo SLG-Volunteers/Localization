@@ -66145,7 +66145,7 @@
       </trans-unit>
       <trans-unit id="{0} is not counted because they were recently a member of {1}, which is currently in a property crisis." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not counted because they were recently a member of <ph id="1">{1}</ph>, which is currently in a property crisis.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> не учитывается, так как недавно они были членами <ph id="1">{1}</ph>, которая сейчас переживает кризис с недвижимостью.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> не учитывается, так как недавно они были членами <ph id="1">{1}</ph>, которое сейчас переживает кризис собственности.</target>
       </trans-unit>
       <trans-unit id="Cannot claim {0} because it contains a vehicle and the deed is not owned by a citizen of {1}." xml:space="preserve">
         <source xml:space="preserve">Cannot claim <ph id="0">{0}</ph> because it contains a vehicle and the deed is not owned by a citizen of <ph id="1">{1}</ph>.</source>
