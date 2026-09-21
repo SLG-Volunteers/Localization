@@ -67253,7 +67253,7 @@ Found <ph id="0">{0}</ph> at <ph id="1">{1}</ph>.</source>
       <trans-unit id="{0} accepted your contract: {1}&#10;{2} {3}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> accepted your contract: <ph id="1">{1}</ph>
 <ph id="2">{2}</ph> <ph id="3">{3}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> принял твой контракт: <ph id="1">{1}</ph>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> принял ваш контракт: <ph id="1">{1}</ph>
 <ph id="2">{2}</ph> <ph id="3">{3}</ph></target>
       </trans-unit>
       <trans-unit id="You accepted contract from {0}: {1}&#10;{2} {3}" xml:space="preserve">
