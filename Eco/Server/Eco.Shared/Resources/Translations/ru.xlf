@@ -73508,7 +73508,7 @@ Population after: <ph id="5">{5}</ph></source>
       </trans-unit>
       <trans-unit id="This will replace the repair bounty currently offered on {0}." xml:space="preserve">
         <source xml:space="preserve">This will replace the repair bounty currently offered on <ph id="0">{0}</ph>.</source>
-        <target state="translated">Это заменит оплату за починку, предлагаемую сейчас для <ph id="0">{0}</ph>.</target>
+        <target state="translated">Это заменит текущие настройки оплаты за починку, установленные для <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Recyclable" xml:space="preserve">
         <source xml:space="preserve">Recyclable</source>
