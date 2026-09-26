@@ -29074,23 +29074,23 @@
       </trans-unit>
       <trans-unit id="Cannot join as a resident, max occupancy of {0} already reached." xml:space="preserve">
         <source xml:space="preserve">Cannot join as a resident, max occupancy of <ph id="0">{0}</ph> already reached.</source>
-        <target xml:space="preserve" state="translated">居住者として参加できず、すでに最大定員に達し<ph id="0">{0}</ph>。</target>
+        <target xml:space="preserve" state="translated">すでに最大定員 <ph id="0">{0}</ph> に達しているため居住者として参加できません。</target>
       </trans-unit>
       <trans-unit id="You are not invited to become a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">You are not invited to become a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">あなたは<ph id="0">{0}</ph>の居住者になることを招待されていません。</target>
+        <target xml:space="preserve" state="translated">あなたは <ph id="0">{0}</ph> の居住者に招待されていません。</target>
       </trans-unit>
       <trans-unit id="You are already a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">You are already a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">あなたはすでに<ph id="0">{0}</ph>の居住者です。</target>
+        <target xml:space="preserve" state="translated">あなたはすでに <ph id="0">{0}</ph> の居住者です。</target>
       </trans-unit>
       <trans-unit id="Invitation accepted!  You are now a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">Invitation accepted!  You are now a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">招待を受け付けました! あなたは<ph id="0">{0}</ph>の居住者になりました。</target>
+        <target xml:space="preserve" state="translated">招待を承諾しました！あなたは <ph id="0">{0}</ph> の居住者になりました。</target>
       </trans-unit>
       <trans-unit id="You are now a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">You are now a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">あなたは<ph id="0">{0}</ph>の居住者になりました。</target>
+        <target xml:space="preserve" state="translated">あなたは <ph id="0">{0}</ph> の居住者になりました。</target>
       </trans-unit>
       <trans-unit id="(Ignoring rent and fees since you are an owner.)" xml:space="preserve">
         <source xml:space="preserve">(Ignoring rent and fees since you are an owner.)</source>
@@ -29098,7 +29098,7 @@
       </trans-unit>
       <trans-unit id="You are no longer a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">You are no longer a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">あなたはもはや<ph id="0">{0}</ph>の居住者ではありません。</target>
+        <target xml:space="preserve" state="translated">あなたはもう <ph id="0">{0}</ph> の居住者ではありません。</target>
       </trans-unit>
       <trans-unit id="Residents:" xml:space="preserve">
         <source xml:space="preserve">Residents:</source>
@@ -29174,15 +29174,15 @@
       </trans-unit>
       <trans-unit id="{0} doesn't have enough {1} to cover the move-in fee of {2}, cannot become a resident." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> doesn't have enough <ph id="1">{1}</ph> to cover the move-in fee of <ph id="2">{2}</ph>, cannot become a resident.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph><ph id="2">{2}</ph>の入居費用を賄う十分な資金が <ph id="1">{1}</ph> できず、居住者になれません。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph><ph id="2">{2}</ph> の入居費用を賄う十分な <ph id="1">{1}</ph> がないため、居住者になれません。</target>
       </trans-unit>
       <trans-unit id="{0} was evicted from {1} because they couldn't pay rent." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was evicted from <ph id="1">{1}</ph> because they couldn't pay rent.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>家賃が払えなかったため <ph id="1">{1}</ph> から立ち退きを命じられました。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は家賃が払えなかったため <ph id="1">{1}</ph> から立ち退きを命じられました。</target>
       </trans-unit>
       <trans-unit id="{0} was evicted from your property {1} because they couldn't pay rent: {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was evicted from your property <ph id="1">{1}</ph> because they couldn't pay rent: <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>家賃を払えなかったためにあなたの物件から立ち退きを命じられた<ph id="1">{1}</ph>:<ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は家賃を払えなかったため、あなたの物件から立ち退きを命じられました <ph id="1">{1}</ph>:<ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="You were evicted from {0} because you couldn't pay your rent: {1}" xml:space="preserve">
         <source xml:space="preserve">You were evicted from <ph id="0">{0}</ph> because you couldn't pay your rent: <ph id="1">{1}</ph></source>
@@ -29202,7 +29202,7 @@
       </trans-unit>
       <trans-unit id="{0}'s rent for {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s rent for <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>の家賃 <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> の家賃 <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="rent" xml:space="preserve">
         <source xml:space="preserve">rent</source>
