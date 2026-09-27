@@ -71944,8 +71944,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Waste containment: <ph id="0">{0}</ph> of stored pollution retained.</source>
         <target state="translated">Сдерживание загрязнения: <ph id="0">{0}</ph> хранимого загрязнения сдерживается.</target>
       </trans-unit>
-      <trans-unit id="Missing {0} — fluid is being relayed through unfiltered.">
+      <trans-unit id="Missing {0} — fluid is being relayed through unfiltered." xml:space="preserve">
         <source xml:space="preserve">Missing <ph id="0">{0}</ph> — fluid is being relayed through unfiltered.</source>
+        <target state="translated">Отсутствует <ph id="0">{0}</ph> — жидкость пропускается без фильтрации.</target>
       </trans-unit>
       <trans-unit id="Missing {0} — filter stopped, holding the fluid back." xml:space="preserve">
         <source xml:space="preserve">Missing <ph id="0">{0}</ph> — filter stopped, holding the fluid back.</source>
@@ -71975,8 +71976,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Star investments are permanent and can't be cleared.</source>
         <target state="translated">Вложение звёзды перманентно и не может быть возвращены.</target>
       </trans-unit>
-      <trans-unit id="Benefit">
+      <trans-unit id="Benefit" xml:space="preserve">
         <source xml:space="preserve">Benefit</source>
+        <target state="translated">Бонус</target>
       </trans-unit>
       <trans-unit id="{0} ({1}):" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> (<ph id="1">{1}</ph>):</source>
