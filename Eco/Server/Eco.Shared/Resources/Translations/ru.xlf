@@ -71826,11 +71826,13 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">This amendment would remove every article from the constitution, leaving the settlement with no authority. Add a replacement article before removing the last one.</source>
         <target state="translated">Эта поправки удалит все стать конституции, оставляя поселение без возможности дальнейшего управления. Добавьте заменяющие статьи конституции, прежде удалить имеющиеся.</target>
       </trans-unit>
-      <trans-unit id="for {0} recipes">
+      <trans-unit id="for {0} recipes" xml:space="preserve">
         <source xml:space="preserve">for <ph id="0">{0}</ph> recipes</source>
+        <target state="translated">для <ph id="0">{0}</ph> рецептов</target>
       </trans-unit>
-      <trans-unit id="for the selected profession (none selected yet)">
+      <trans-unit id="for the selected profession (none selected yet)" xml:space="preserve">
         <source xml:space="preserve">for the selected profession (none selected yet)</source>
+        <target state="translated">для выбранной профессии (сейчас не выбрана ни одна)</target>
       </trans-unit>
       <trans-unit id="Ground Pollution: {0}" xml:space="preserve">
         <source xml:space="preserve">Ground Pollution: <ph id="0">{0}</ph></source>
