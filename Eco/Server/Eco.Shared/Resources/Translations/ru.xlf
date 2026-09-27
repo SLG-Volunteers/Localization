@@ -71999,8 +71999,9 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Benefits are active.">
         <source xml:space="preserve">Benefits are active.</source>
       </trans-unit>
-      <trans-unit id="Benefits are inactive until all requirements are met.">
+      <trans-unit id="Benefits are inactive until all requirements are met." xml:space="preserve">
         <source xml:space="preserve">Benefits are inactive until all requirements are met.</source>
+        <target state="translated">Бонусы неактивны, пока все требования не будут выполнены.</target>
       </trans-unit>
       <trans-unit id="{0} has received all required stars!">
         <source xml:space="preserve"><ph id="0">{0}</ph> has received all required stars!</source>
