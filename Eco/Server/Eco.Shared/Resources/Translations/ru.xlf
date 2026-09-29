@@ -71546,8 +71546,9 @@ Ctrl - x100</target>
         <source xml:space="preserve">Contents</source>
         <target state="translated">Содержимое</target>
       </trans-unit>
-      <trans-unit id="Dedicated to: {0}">
+      <trans-unit id="Dedicated to: {0}" xml:space="preserve">
         <source xml:space="preserve">Dedicated to: <ph id="0">{0}</ph></source>
+        <target state="translated">Предназначено для: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Invest a star" xml:space="preserve">
         <source xml:space="preserve">Invest a star</source>
@@ -72101,8 +72102,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <target state="translated">Установить положение солнца на конкретное время суток, для всех игроков.</target>
         <note>Help text for chat command /set</note>
       </trans-unit>
-      <trans-unit id="mytime">
+      <trans-unit id="mytime" xml:space="preserve">
         <source xml:space="preserve">mytime</source>
+        <target state="translated">mytime</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="List of commands to change the time of day for yourself only." xml:space="preserve">
