@@ -1402,7 +1402,7 @@ Many player activities create harmful emissions which if released into the atmos
 
 Where air pollution meets rainfall, it comes back down as acid rain and feeds the Acid Rain layer of the claim it was emitted on — which then spreads outward like any other ground pollution. Emissions are therefore never only an air problem: an unfiltered smokestack slowly sours the land around it, and a row of them sours it together.
 </source>
-        <target xml:space="preserve" state="needs-translation">
+        <target xml:space="preserve" state="translated">
 Многие действия игроков создают вредные выбросы, которые при попадании в атмосферу становятся загрязнением воздуха. Крафт на объектах с выбросами CO2 или использование генераторов, работающих на них, повышает уровень загрязнения как на местном, так и на глобальном уровне. В течение длительного времени глобальный уровень CO2 приводит к эффекту глобального потепления, что, в свою очередь, влияет на уровень моря. Для некоторых загрязняющих веществ, таких как CO2, существуют естественные поглотители и приёмники, например леса.
 
 Там, где шлейф загрязнённого воздуха встречается с осадками, он выпадает обратно в виде кислотных дождей и питает слой Загрязнения Кислотными Дождями почвы, находящейся под ним. Поэтому выбросы никогда не являются исключительно проблемой воздуха: нефильтрованная дымовая труба медленно отравляет землю с подветренной стороны от неё.
