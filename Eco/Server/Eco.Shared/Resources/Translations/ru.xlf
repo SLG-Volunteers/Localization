@@ -72475,26 +72475,32 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Weather set to {0} for you only. Use /myweather reset to rejoin everyone.">
         <source xml:space="preserve">Weather set to <ph id="0">{0}</ph> for you only. Use /myweather reset to rejoin everyone.</source>
       </trans-unit>
-      <trans-unit id="light rain">
+      <trans-unit id="light rain" xml:space="preserve">
         <source xml:space="preserve">light rain</source>
+        <target state="translated">легкий дождь</target>
       </trans-unit>
-      <trans-unit id="a heavy rain storm">
+      <trans-unit id="a heavy rain storm" xml:space="preserve">
         <source xml:space="preserve">a heavy rain storm</source>
+        <target state="translated">штормовой ливень</target>
       </trans-unit>
-      <trans-unit id="clouds">
+      <trans-unit id="clouds" xml:space="preserve">
         <source xml:space="preserve">clouds</source>
+        <target state="translated">облака</target>
       </trans-unit>
-      <trans-unit id="fog">
+      <trans-unit id="fog" xml:space="preserve">
         <source xml:space="preserve">fog</source>
+        <target state="translated">туман</target>
       </trans-unit>
       <trans-unit id="MyWeather">
         <source xml:space="preserve">MyWeather</source>
       </trans-unit>
-      <trans-unit id="Sun stopped for you only. Use /mytime resume to start it moving again, or /mytime reset to rejoin everyone.">
+      <trans-unit id="Sun stopped for you only. Use /mytime resume to start it moving again, or /mytime reset to rejoin everyone." xml:space="preserve">
         <source xml:space="preserve">Sun stopped for you only. Use /mytime resume to start it moving again, or /mytime reset to rejoin everyone.</source>
+        <target state="translated">Солнце остановлено только для вас. Используйте команду /mytime resume для возобновления движения солнца, или /mytime reset для восстановления общих настроек.</target>
       </trans-unit>
-      <trans-unit id="Your sun is moving again.">
+      <trans-unit id="Your sun is moving again." xml:space="preserve">
         <source xml:space="preserve">Your sun is moving again.</source>
+        <target state="translated">Для вас солнце снова двигается.</target>
       </trans-unit>
       <trans-unit id="Your sky is back on the shared world time." xml:space="preserve">
         <source xml:space="preserve">Your sky is back on the shared world time.</source>
@@ -72576,8 +72582,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Movement Speed: <ph id="0">{0}</ph></source>
         <target state="translated">Скорость передвижения: <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Animal Detection Range: {0}">
+      <trans-unit id="Animal Detection Range: {0}" xml:space="preserve">
         <source xml:space="preserve">Animal Detection Range: <ph id="0">{0}</ph></source>
+        <target state="translated">Радиус обнаружения животными: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Backpack Slots: {0}" xml:space="preserve">
         <source xml:space="preserve">Backpack Slots: <ph id="0">{0}</ph></source>
@@ -72595,14 +72602,19 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Nothing to Sort</source>
         <target state="translated">Нечего сортировать</target>
       </trans-unit>
-      <trans-unit id="&#10;This is an official Eco server provided by Strange Loop Games.&#10;&#10;This server runs an unstable development build that likely contains bugs and technical issues. To play here, you need to switch your game to the same build.">
+      <trans-unit id="&#10;This is an official Eco server provided by Strange Loop Games.&#10;&#10;This server runs an unstable development build that likely contains bugs and technical issues. To play here, you need to switch your game to the same build." xml:space="preserve">
         <source xml:space="preserve">
 This is an official Eco server provided by Strange Loop Games.
 
 This server runs an unstable development build that likely contains bugs and technical issues. To play here, you need to switch your game to the same build.</source>
+        <target state="translated">
+Это официальный сервер ЕСО, предоставляемый Strange Loop Games.
+
+Этот сервер работает на нестабильной версии, находящейся в стадии разработки, содержит ошибки и технические проблемы. Чтобы играть тут вам необходимо переключить вашу версию игры на такую же, как на сервере.</target>
       </trans-unit>
-      <trans-unit id="To do so, please right click Eco in Steam, choose 'Properties', go to 'Betas' and select the branch that contains the required build. If you need help to find the correct branch, please ask on our official discord community.">
+      <trans-unit id="To do so, please right click Eco in Steam, choose 'Properties', go to 'Betas' and select the branch that contains the required build. If you need help to find the correct branch, please ask on our official discord community." xml:space="preserve">
         <source xml:space="preserve">To do so, please right click Eco in Steam, choose 'Properties', go to 'Betas' and select the branch that contains the required build. If you need help to find the correct branch, please ask on our official discord community.</source>
+        <target state="translated">Чтобы сделать это, пожалуйста, нажмите правой кнопкой на Есо в Steam, выберите "Свойства", затем вкладка "Версии и бета-версии" и выберите подраздел, содержающий требуемую версию клиента. Если вам нужна помощь в поиске конкретной версии, пожалуйста задайте вопрос в нашем официальном сервере Discord.</target>
       </trans-unit>
       <trans-unit id="To do so, please download the required build from https://play.eco. If you need help to find the correct build, please ask on our official discord community.">
         <source xml:space="preserve">To do so, please download the required build from https://play.eco. If you need help to find the correct build, please ask on our official discord community.</source>
@@ -72674,8 +72686,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id=" ({0} yield)">
         <source xml:space="preserve"> (<ph id="0">{0}</ph> yield)</source>
       </trans-unit>
-      <trans-unit id="{0} Output{1}">
+      <trans-unit id="{0} Output{1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Output<ph id="1">{1}</ph></source>
+        <target state="translated"><ph id="0">{0}</ph> Выход<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0} is leaking from {1} uncapped pipe end(s), taking flow from the machines on this line — cap them or connect them." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is leaking from <ph id="1">{1}</ph> uncapped pipe end(s), taking flow from the machines on this line — cap them or connect them.</source>
@@ -72825,8 +72838,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve"><ph id="0">{0}</ph> of a block</source>
         <target state="translated"><ph id="0">{0}</ph> блока</target>
       </trans-unit>
-      <trans-unit id="- {0}, as contamination">
+      <trans-unit id="- {0}, as contamination" xml:space="preserve">
         <source xml:space="preserve">- <ph id="0">{0}</ph>, as contamination</source>
+        <target state="translated">- <ph id="0">{0}</ph>, как загрязнение</target>
       </trans-unit>
       <trans-unit id="May Contain" xml:space="preserve">
         <source xml:space="preserve">May Contain</source>
