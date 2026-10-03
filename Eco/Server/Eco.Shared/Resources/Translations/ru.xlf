@@ -53073,7 +53073,7 @@
       </trans-unit>
       <trans-unit id="All users in annexation target are {0}, so no resources spent." xml:space="preserve">
         <source xml:space="preserve">All users in annexation target are <ph id="0">{0}</ph>, so no resources spent.</source>
-        <target xml:space="preserve" state="translated">Все жители в аннексируемой цели <ph id="0">{0}</ph>, поэтому ресурсы не были потрачены.</target>
+        <target xml:space="preserve" state="translated">Все жители в аннексируемой цели имеют <ph id="0">{0}</ph>, поэтому ресурсы не были потрачены.</target>
       </trans-unit>
       <trans-unit id="Unable to consume needed resources, annex not performed." xml:space="preserve">
         <source xml:space="preserve">Unable to consume needed resources, annex not performed.</source>
