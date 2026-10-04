@@ -45544,7 +45544,7 @@
       </trans-unit>
       <trans-unit id="A species went extinct." xml:space="preserve">
         <source xml:space="preserve">A species went extinct.</source>
-        <target xml:space="preserve" state="translated">Вымершие виды.</target>
+        <target xml:space="preserve" state="translated">Популяция вида полностью вымерла.</target>
       </trans-unit>
       <trans-unit id="Chop Chop x100" xml:space="preserve">
         <source xml:space="preserve">Chop Chop x100</source>
