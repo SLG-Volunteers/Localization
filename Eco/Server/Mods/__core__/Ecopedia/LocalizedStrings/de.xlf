@@ -370,7 +370,7 @@ Mit der Aktion Beamter aus dem Amt Entfernen können Bürger, denen die Befugnis
       </trans-unit>
       <trans-unit id="41" xml:space="preserve">
         <source xml:space="preserve">Allows citizens to participate in elections and perform executive actions.</source>
-        <target xml:space="preserve" state="translated">Erlaubt es Bürgern an Wahlen teilzunehmen und Exekutive Aktionen durchzuführen.</target>
+        <target xml:space="preserve" state="translated">Erlaubt es Bürgern an Wahlen teilzunehmen und exekutive Aktionen durchzuführen.</target>
       </trans-unit>
       <trans-unit id="42" xml:space="preserve">
         <source xml:space="preserve">    
@@ -526,7 +526,7 @@ Alle platzierten Objekte haben Berechtigungs-Komponenten.
       </trans-unit>
       <trans-unit id="68" xml:space="preserve">
         <source xml:space="preserve">Crafting Items</source>
-        <target xml:space="preserve" state="translated">Gegenstände Herstellen</target>
+        <target xml:space="preserve" state="translated">Gegenstände herstellen</target>
       </trans-unit>
       <trans-unit id="69" xml:space="preserve">
         <source xml:space="preserve">
@@ -642,7 +642,7 @@ Einige Spezialisierungen verfügen über verschiedene Arten von Aufrüstungen, d
       </trans-unit>
       <trans-unit id="82" xml:space="preserve">
         <source xml:space="preserve">Allows citizens to upgrade their crafting tables.</source>
-        <target xml:space="preserve" state="translated">Ermöglicht es den Bürgern ihre Handwerkstische aufzurüsten.</target>
+        <target xml:space="preserve" state="translated">Ermöglicht es den Bürgern, ihre Handwerkstische aufzurüsten.</target>
       </trans-unit>
       <trans-unit id="83" xml:space="preserve">
         <source xml:space="preserve">
@@ -812,7 +812,7 @@ Bei der Interaktion mit einem Objekt mit einer Status-Komponente, können Bürge
       </trans-unit>
       <trans-unit id="105" xml:space="preserve">
         <source xml:space="preserve">Managing Storage</source>
-        <target xml:space="preserve" state="translated">Lager Verwalten</target>
+        <target xml:space="preserve" state="translated">Lagerverwaltung</target>
       </trans-unit>
       <trans-unit id="106" xml:space="preserve">
         <source xml:space="preserve">
@@ -832,7 +832,7 @@ Einige Lagercontainer, wie z. B. ein [StockpileItem], können jede Art von Gegen
       </trans-unit>
       <trans-unit id="107" xml:space="preserve">
         <source xml:space="preserve">Storage Hotkeys</source>
-        <target xml:space="preserve" state="translated">Verknüpfung von Lagercontainer</target>
+        <target xml:space="preserve" state="translated">Lagerschnellzugriff</target>
       </trans-unit>
       <trans-unit id="108" xml:space="preserve">
         <source xml:space="preserve">
@@ -850,7 +850,7 @@ Ein Objekt kann mit Containern in der Speicher-Komponente verknüpft werden, ind
       </trans-unit>
       <trans-unit id="109" xml:space="preserve">
         <source xml:space="preserve">Manages inventory and allows linking storage to other objects.</source>
-        <target xml:space="preserve" state="translated">Verwaltet das Inventar und ermöglicht die Verknüpfung der Lagerung mit anderen Objekten.</target>
+        <target xml:space="preserve" state="translated">Verwaltet das Inventar und ermöglicht die Zuweisung von Lagern zu anderen Objekten.</target>
       </trans-unit>
       <trans-unit id="110" xml:space="preserve">
         <source xml:space="preserve">An economy thriving with trade is essential to developing the technology needed to stop the meteor.</source>
@@ -1008,7 +1008,7 @@ Strafen für die Nichteinhaltung von Krediten können mit [Laws] konstruiert wer
       </trans-unit>
       <trans-unit id="126" xml:space="preserve">
         <source xml:space="preserve">Finance is the management of currency to promote progress.</source>
-        <target xml:space="preserve" state="translated">Finanzen ist die Verwaltung von Geld, um den Fortschritt zu fördern.</target>
+        <target xml:space="preserve" state="translated">Das Finanzwesen beschreibt die Verwaltung von Geld, um den Fortschritt zu fördern.</target>
       </trans-unit>
       <trans-unit id="127" xml:space="preserve">
         <source xml:space="preserve">Each player can affect the Reputation of any other player, which can in turn be used as a factor in laws, contracts, etc, which may query a citizens reputation and determine privileges (or lack thereof) based on the value). To set reputation on a citizen, hover over their name in chat and click their reputation listing in the tooltip (a list of all citizens can be found on the page {Current Citizens}).
@@ -1856,7 +1856,7 @@ Darüber hinaus erfordern viele Objekte Häuser und Versorgung, um zu funktionie
       </trans-unit>
       <trans-unit id="216" xml:space="preserve">
         <source xml:space="preserve">Your housing (along with your diet) determines your skill gain.</source>
-        <target xml:space="preserve" state="translated">Deine Unterkunft (zusammen mit deiner Ernährung) bestimmt deinen Fähigkeitszugewinn.</target>
+        <target xml:space="preserve" state="translated">Deine Unterkunft (zusammen mit deiner Ernährung) bestimmt dein Fertigkeitswachstum.</target>
       </trans-unit>
       <trans-unit id="217" xml:space="preserve">
         <source xml:space="preserve">Many objects require power to function, and as your society progresses the types of power will progress as well.
@@ -2057,7 +2057,7 @@ A citizen's skills give them unique abilities and enhancements, which allows the
       </trans-unit>
       <trans-unit id="237" xml:space="preserve">
         <source xml:space="preserve">The skill system allows citizens to specialize in specific trades.</source>
-        <target xml:space="preserve" state="translated">Das Fähigkeits-System ermöglicht es den Bürgern, sich auf bestimmte Berufe zu spezialisieren.</target>
+        <target xml:space="preserve" state="translated">Das Fertigkeitssystem ermöglicht es den Bürgern, sich auf bestimmte Berufe zu spezialisieren.</target>
       </trans-unit>
       <trans-unit id="238" xml:space="preserve">
         <source xml:space="preserve">
@@ -2220,7 +2220,7 @@ Du kannst die Verbreitung von Spezialisierungen sehen, die andere Bürger im Dia
       </trans-unit>
       <trans-unit id="252" xml:space="preserve">
         <source xml:space="preserve">Masons are specialist at mining and working with stone.</source>
-        <target xml:space="preserve" state="translated">Maurer sind Spezialisten im Bergbau und in der Arbeit mit Stein.</target>
+        <target xml:space="preserve" state="translated">Steinmetze sind Spezialisten im Bergbau und in der Arbeit mit Stein.</target>
       </trans-unit>
       <trans-unit id="253" xml:space="preserve">
         <source xml:space="preserve">Professions are groups of similar {Specialties} that unlock new crafting recipes and provide abilities like reduced calorie usage when crafting or using a tool. Within each profession is a group of similar specialties.
@@ -3380,7 +3380,7 @@ Dinnerpartys enden, wenn der Gastgeber auf „Beenden“ klickt, nach Ablauf der
       </trans-unit>
       <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Es gibt drei Siedlungsstufen:</target>
+        <target xml:space="preserve" state="needs-translation">Es gibt drei Siedlungsstufen:</target>
       </trans-unit>
       <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
@@ -3388,11 +3388,11 @@ Dinnerpartys enden, wenn der Gastgeber auf „Beenden“ klickt, nach Ablauf der
       </trans-unit>
       <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Länder bestehen aus Städten und Bürgern.</target>
+        <target xml:space="preserve" state="needs-translation">Länder bestehen aus Städten und Bürgern.</target>
       </trans-unit>
       <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Föderationen sind Zusammenschlüsse von Ländern, Städten und Bürgern.</target>
+        <target xml:space="preserve" state="needs-translation">Föderationen sind Zusammenschlüsse von Ländern, Städten und Bürgern.</target>
       </trans-unit>
       <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
