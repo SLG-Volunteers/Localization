@@ -6749,7 +6749,7 @@
       </trans-unit>
       <trans-unit id="Saving the world...." xml:space="preserve">
         <source xml:space="preserve">Saving the world....</source>
-        <target xml:space="preserve" state="translated">Сохранение мира....</target>
+        <target xml:space="preserve" state="translated">Спасение мира....</target>
       </trans-unit>
       <trans-unit id="User" xml:space="preserve">
         <source xml:space="preserve">User</source>
@@ -45576,7 +45576,7 @@
       </trans-unit>
       <trans-unit id="By the People, For the People" xml:space="preserve">
         <source xml:space="preserve">By the People, For the People</source>
-        <target xml:space="preserve" state="translated">Народный, для Людей</target>
+        <target xml:space="preserve" state="translated">Избрано народом, для народа</target>
       </trans-unit>
       <trans-unit id="Constitution passed." xml:space="preserve">
         <source xml:space="preserve">Constitution passed.</source>
@@ -50807,7 +50807,7 @@
       </trans-unit>
       <trans-unit id="Visionary" xml:space="preserve">
         <source xml:space="preserve">Visionary</source>
-        <target xml:space="preserve" state="translated">Провидец</target>
+        <target xml:space="preserve" state="translated">Визионер</target>
       </trans-unit>
       <trans-unit id="Create 1000 culture." xml:space="preserve">
         <source xml:space="preserve">Create 1000 culture.</source>
@@ -57464,7 +57464,7 @@
       </trans-unit>
       <trans-unit id="Visionary Work" xml:space="preserve">
         <source xml:space="preserve">Visionary Work</source>
-        <target xml:space="preserve" state="translated">Дальновидная работа</target>
+        <target xml:space="preserve" state="translated">Инновационная работа</target>
       </trans-unit>
       <trans-unit id="Create an artwork that generates 500 culture." xml:space="preserve">
         <source xml:space="preserve">Create an artwork that generates 500 culture.</source>
@@ -65125,7 +65125,7 @@
       </trans-unit>
       <trans-unit id="Gathering of Minds" xml:space="preserve">
         <source xml:space="preserve">Gathering of Minds</source>
-        <target xml:space="preserve" state="needs-translation">Сбор умов</target>
+        <target xml:space="preserve" state="needs-translation">Собрание умов</target>
       </trans-unit>
       <trans-unit id="Attend a dinner party that generates more than 50 culture." xml:space="preserve">
         <source xml:space="preserve">Attend a dinner party that generates more than 50 culture.</source>
@@ -65550,7 +65550,7 @@
       </trans-unit>
       <trans-unit id="Gather 100 farmable items on land you own." xml:space="preserve">
         <source xml:space="preserve">Gather 100 farmable items on land you own.</source>
-        <target xml:space="preserve" state="translated">Соберите 100 предметов, которые можно выращивать на своей земле.</target>
+        <target xml:space="preserve" state="translated">Соберите 100 единиц урожая, который вы вырастили на своей земле.</target>
       </trans-unit>
       <trans-unit id="Ore Collector" xml:space="preserve">
         <source xml:space="preserve">Ore Collector</source>
@@ -65558,7 +65558,7 @@
       </trans-unit>
       <trans-unit id="Mine 100 ore." xml:space="preserve">
         <source xml:space="preserve">Mine 100 ore.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Добывай 100 единиц руды.</target>
+        <target xml:space="preserve" state="translated">Добудьте 100 единиц руды.</target>
       </trans-unit>
       <trans-unit id="Rockhound" xml:space="preserve">
         <source xml:space="preserve">Rockhound</source>
@@ -65654,7 +65654,7 @@
       </trans-unit>
       <trans-unit id="Successfully hunt a wolf." xml:space="preserve">
         <source xml:space="preserve">Successfully hunt a wolf.</source>
-        <target xml:space="preserve" state="translated">Успешно охоться на волка.</target>
+        <target xml:space="preserve" state="translated">Успешная охота на волка.</target>
       </trans-unit>
       <trans-unit id="Foxtrot" xml:space="preserve">
         <source xml:space="preserve">Foxtrot</source>
@@ -65670,7 +65670,7 @@
       </trans-unit>
       <trans-unit id="Successfully hunt a bison." xml:space="preserve">
         <source xml:space="preserve">Successfully hunt a bison.</source>
-        <target xml:space="preserve" state="translated">Успешно охотиться на бизона.</target>
+        <target xml:space="preserve" state="translated">Успешная охота на бизона.</target>
       </trans-unit>
       <trans-unit id="Deer Hunter" xml:space="preserve">
         <source xml:space="preserve">Deer Hunter</source>
