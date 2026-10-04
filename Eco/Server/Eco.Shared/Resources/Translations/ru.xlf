@@ -35621,7 +35621,7 @@
       </trans-unit>
       <trans-unit id="Online for the destruction of the meteor." xml:space="preserve">
         <source xml:space="preserve">Online for the destruction of the meteor.</source>
-        <target xml:space="preserve" state="translated">Онлайн для уничтожения астероида.</target>
+        <target xml:space="preserve" state="translated">Быть в игре во время уничтожения астероида.</target>
       </trans-unit>
       <trans-unit id="Generates the world block stats" xml:space="preserve">
         <source xml:space="preserve">Generates the world block stats</source>
@@ -38810,7 +38810,7 @@
       </trans-unit>
       <trans-unit id="Minted First Currency." xml:space="preserve">
         <source xml:space="preserve">Minted First Currency.</source>
-        <target xml:space="preserve" state="translated">Отчеканил первую валюту.</target>
+        <target xml:space="preserve" state="translated">Отчеканить первую валюту.</target>
       </trans-unit>
       <trans-unit id="You were un-invited to {0} at {1}." xml:space="preserve">
         <source xml:space="preserve">You were un-invited to <ph id="0">{0}</ph> at <ph id="1">{1}</ph>.</source>
