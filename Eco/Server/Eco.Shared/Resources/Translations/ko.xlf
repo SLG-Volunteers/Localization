@@ -38326,7 +38326,7 @@
       </trans-unit>
       <trans-unit id="Constructable" xml:space="preserve">
         <source xml:space="preserve">Constructable</source>
-        <target xml:space="preserve" state="translated">건설 가능</target>
+        <target xml:space="preserve" state="translated">건축 블록</target>
       </trans-unit>
       <trans-unit id="Road Type" xml:space="preserve">
         <source xml:space="preserve">Road Type</source>
@@ -41066,7 +41066,7 @@
       </trans-unit>
       <trans-unit id="Long Term" xml:space="preserve">
         <source xml:space="preserve">Long Term</source>
-        <target xml:space="preserve" state="translated">장기 미접속자</target>
+        <target xml:space="preserve" state="translated">장기 접속자</target>
       </trans-unit>
       <trans-unit id="Wood Shop Cart" xml:space="preserve">
         <source xml:space="preserve">Wood Shop Cart</source>
