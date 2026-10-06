@@ -70485,7 +70485,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="No accessible bank account." xml:space="preserve">
         <source xml:space="preserve">No accessible bank account.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Нет доступа к банковскому счету.</target>
+        <target state="translated">Нет доступных банковских счетов.</target>
       </trans-unit>
       <trans-unit id="No storage found." xml:space="preserve">
         <source xml:space="preserve">No storage found.</source>
@@ -70582,7 +70582,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Can only paste between the same kind of component." xml:space="preserve">
         <source xml:space="preserve">Can only paste between the same kind of component.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Вставить можно только между компонентами одного типа.</target>
+        <target state="translated">Вставить можно только между компонентами одного типа.</target>
       </trans-unit>
       <trans-unit id="You don't have access to the copied object." xml:space="preserve">
         <source xml:space="preserve">You don't have access to the copied object.</source>
@@ -70622,7 +70622,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="This garbage bag is full." xml:space="preserve">
         <source xml:space="preserve">This garbage bag is full.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Этот мешок для мусора переполнен.</target>
+        <target state="translated">Этот мешок для мусора переполнен.</target>
       </trans-unit>
       <trans-unit id="Cannot swap clothing: not enough empty backpack slots. Empty them first." xml:space="preserve">
         <source xml:space="preserve">Cannot swap clothing: not enough empty backpack slots. Empty them first.</source>
@@ -70662,11 +70662,11 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="on each child settlement (recursively)" xml:space="preserve">
         <source xml:space="preserve">on each child settlement (recursively)</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">в каждом дочернем поселении (рекурсивно)</target>
+        <target state="translated">в каждом дочернем поселении (рекурсивно)</target>
       </trans-unit>
       <trans-unit id="on each direct child settlement" xml:space="preserve">
         <source xml:space="preserve">on each direct child settlement</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">в каждом непосредственно подчинённом поселении</target>
+        <target state="translated">в каждом непосредственно дочернем поселении</target>
       </trans-unit>
       <trans-unit id="Sorting" xml:space="preserve">
         <source xml:space="preserve">Sorting</source>
@@ -70674,7 +70674,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="[{0}]" xml:space="preserve">
         <source xml:space="preserve">[<ph id="0">{0}</ph>]</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">[<ph id="0">{0}</ph>]</target>
+        <target state="translated">[<ph id="0">{0}</ph>]</target>
       </trans-unit>
       <trans-unit id="--- Input Repartition ---" xml:space="preserve" translate="no">
         <source xml:space="preserve">--- Input Repartition ---</source>
@@ -70741,7 +70741,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Output storage full" xml:space="preserve">
         <source xml:space="preserve">Output storage full</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Хранилище вывода заполнено</target>
+        <target state="translated">Хранилище вывода заполнено</target>
       </trans-unit>
       <trans-unit id="???" xml:space="preserve" translate="no">
         <source xml:space="preserve">???</source>
@@ -70801,7 +70801,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Your inventory is full; couldn't return {0}. Module stays in the slot; use /admin clearmodules to free it." xml:space="preserve">
         <source xml:space="preserve">Your inventory is full; couldn't return <ph id="0">{0}</ph>. Module stays in the slot; use /admin clearmodules to free it.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Твой инвентарь переполнен; не удалось вернуть <ph id="0">{0}</ph>. Модуль остаётся в слоте; используй команду /admin clearmodules, чтобы освободить его.</target>
+        <target state="translated">Ваш инвентарь переполнен; не удалось вернуть <ph id="0">{0}</ph>. Модуль остаётся в ячейке; используйте команду /admin clearmodules, чтобы очистить его.</target>
       </trans-unit>
       <trans-unit id="Installing {0} is {1}. You won't be able to remove it." xml:space="preserve">
         <source xml:space="preserve">Installing <ph id="0">{0}</ph> is <ph id="1">{1}</ph>. You won't be able to remove it.</source>
@@ -70862,7 +70862,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Copied for-sale settings." xml:space="preserve">
         <source xml:space="preserve">Copied for-sale settings.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Скопированы настройки для продажи.</target>
+        <target state="translated">Скопированы настройки для продажи.</target>
       </trans-unit>
       <trans-unit id="You can't buy this while someone is using it. Please have them get off first." xml:space="preserve">
         <source xml:space="preserve">You can't buy this while someone is using it. Please have them get off first.</source>
@@ -72619,9 +72619,11 @@ This server runs an unstable development build that likely contains bugs and tec
       <trans-unit id="To do so, please download the required build from https://play.eco. If you need help to find the correct build, please ask on our official discord community.">
         <source xml:space="preserve">To do so, please download the required build from https://play.eco. If you need help to find the correct build, please ask on our official discord community.</source>
       </trans-unit>
-      <trans-unit id="&#10;This is an official Eco server provided by Strange Loop Games.">
+      <trans-unit id="&#10;This is an official Eco server provided by Strange Loop Games." xml:space="preserve">
         <source xml:space="preserve">
 This is an official Eco server provided by Strange Loop Games.</source>
+        <target state="translated">
+Это официальный сервер Есо, предоставляемый Strange Loop Games.</target>
       </trans-unit>
       <trans-unit id="This server runs an unstable development build that likely contains bugs and technical issues. To play here, you need to switch your game to the same build.">
         <source xml:space="preserve">This server runs an unstable development build that likely contains bugs and technical issues. To play here, you need to switch your game to the same build.</source>
@@ -72629,8 +72631,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="This server is running a different version. You are running {0} but the server is running {1}.">
         <source xml:space="preserve">This server is running a different version. You are running <ph id="0">{0}</ph> but the server is running <ph id="1">{1}</ph>.</source>
       </trans-unit>
-      <trans-unit id="Fly: On">
+      <trans-unit id="Fly: On" xml:space="preserve">
         <source xml:space="preserve">Fly: On</source>
+        <target state="translated">Полёт: вкл</target>
       </trans-unit>
       <trans-unit id="Fly: Off">
         <source xml:space="preserve">Fly: Off</source>
@@ -73199,8 +73202,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="{0} (must not be the case)">
         <source xml:space="preserve"><ph id="0">{0}</ph> (must not be the case)</source>
       </trans-unit>
-      <trans-unit id="is equal to">
+      <trans-unit id="is equal to" xml:space="preserve">
         <source xml:space="preserve">is equal to</source>
+        <target state="translated">равно</target>
       </trans-unit>
       <trans-unit id="Operated by {0}." xml:space="preserve">
         <source xml:space="preserve">Operated by <ph id="0">{0}</ph>.</source>
@@ -73214,8 +73218,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve">Stacks <ph id="0">{0}</ph> high</source>
         <target state="translated">Стопки высотой <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Shelf life {0}">
+      <trans-unit id="Shelf life {0}" xml:space="preserve">
         <source xml:space="preserve">Shelf life <ph id="0">{0}</ph></source>
+        <target state="translated">Время хранения <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Waste containment {0}" xml:space="preserve">
         <source xml:space="preserve">Waste containment <ph id="0">{0}</ph></source>
@@ -73277,8 +73282,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="Output Storages">
         <source xml:space="preserve">Output Storages</source>
       </trans-unit>
-      <trans-unit id="Loading nearby storages...">
+      <trans-unit id="Loading nearby storages..." xml:space="preserve">
         <source xml:space="preserve">Loading nearby storages...</source>
+        <target state="translated">Загрузка ближайших хранилищ...</target>
       </trans-unit>
       <trans-unit id="Click 'Put Into' on storages you wish it to fill." xml:space="preserve">
         <source xml:space="preserve">Click 'Put Into' on storages you wish it to fill.</source>
@@ -73301,8 +73307,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
         <source xml:space="preserve">Water source out of range - the pipe intake must be within <ph id="0">{0}</ph> of the pump.</source>
         <target state="translated">Источник воды слишком далеко - должен быть в радиусе <ph id="0">{0}</ph> от насоса.</target>
       </trans-unit>
-      <trans-unit id="Water intake too far from the pump: {0} away, {1} max (horizontal distance).">
+      <trans-unit id="Water intake too far from the pump: {0} away, {1} max (horizontal distance)." xml:space="preserve">
         <source xml:space="preserve">Water intake too far from the pump: <ph id="0">{0}</ph> away, <ph id="1">{1}</ph> max (horizontal distance).</source>
+        <target state="translated">Источник воды слишком далеко от насоса: <ph id="0">{0}</ph> сейчас, <ph id="1">{1}</ph> макс (расстояние по горизонтали).</target>
       </trans-unit>
       <trans-unit id="Connected to water source, {0} away ({1} max)." xml:space="preserve">
         <source xml:space="preserve">Connected to water source, <ph id="0">{0}</ph> away (<ph id="1">{1}</ph> max).</source>
@@ -73347,8 +73354,9 @@ Population after: <ph id="5">{5}</ph></source>
       <trans-unit id="none assigned yet">
         <source xml:space="preserve">none assigned yet</source>
       </trans-unit>
-      <trans-unit id="(not discovered)">
+      <trans-unit id="(not discovered)" xml:space="preserve">
         <source xml:space="preserve">(not discovered)</source>
+        <target state="translated">(не исследовано)</target>
       </trans-unit>
       <trans-unit id="Food tastes for {0}:&#10;{1}">
         <source xml:space="preserve">Food tastes for <ph id="0">{0}</ph>:
@@ -73361,23 +73369,29 @@ Population after: <ph id="5">{5}</ph></source>
         <source xml:space="preserve">The connected pipe carries <ph id="0">{0}</ph>, which this machine doesn't accept — it runs on <ph id="1">{1}</ph>.</source>
         <target state="translated">В присоединённой трубе содержится <ph id="0">{0}</ph>, которая не используется данным станком — ему требуется <ph id="1">{1}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Eat {0}">
+      <trans-unit id="Eat {0}" xml:space="preserve">
         <source xml:space="preserve">Eat <ph id="0">{0}</ph></source>
+        <target state="translated">Съесть <ph id="0">{0}</ph></target>
       </trans-unit>
-      <trans-unit id="Eat {0} for {1}?">
+      <trans-unit id="Eat {0} for {1}?" xml:space="preserve">
         <source xml:space="preserve">Eat <ph id="0">{0}</ph> for <ph id="1">{1}</ph>?</source>
+        <target state="translated">Съесть <ph id="0">{0}</ph> for <ph id="1">{1}</ph>?</target>
       </trans-unit>
-      <trans-unit id="You are not authorized to eat {0}.">
+      <trans-unit id="You are not authorized to eat {0}." xml:space="preserve">
         <source xml:space="preserve">You are not authorized to eat <ph id="0">{0}</ph>.</source>
+        <target state="translated">У вас нет разрешения съесть <ph id="0">{0}</ph>.</target>
       </trans-unit>
-      <trans-unit id="Eat ({0})">
+      <trans-unit id="Eat ({0})" xml:space="preserve">
         <source xml:space="preserve">Eat (<ph id="0">{0}</ph>)</source>
+        <target state="translated">Съесть (<ph id="0">{0}</ph>)</target>
       </trans-unit>
-      <trans-unit id="Eat for {0} ({1})">
+      <trans-unit id="Eat for {0} ({1})" xml:space="preserve">
         <source xml:space="preserve">Eat for <ph id="0">{0}</ph> (<ph id="1">{1}</ph>)</source>
+        <target state="translated">Съесть за <ph id="0">{0}</ph> (<ph id="1">{1}</ph>)</target>
       </trans-unit>
-      <trans-unit id="Eat for {0}">
+      <trans-unit id="Eat for {0}" xml:space="preserve">
         <source xml:space="preserve">Eat for <ph id="0">{0}</ph></source>
+        <target state="translated">Съесть за <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Unknown taste" xml:space="preserve">
         <source xml:space="preserve">Unknown taste</source>
@@ -73395,8 +73409,9 @@ Population after: <ph id="5">{5}</ph></source>
       <trans-unit id="Read Only">
         <source xml:space="preserve">Read Only</source>
       </trans-unit>
-      <trans-unit id="Carried Only">
+      <trans-unit id="Carried Only" xml:space="preserve">
         <source xml:space="preserve">Carried Only</source>
+        <target state="translated">Только переносимые в руках</target>
       </trans-unit>
       <trans-unit id="No Construction">
         <source xml:space="preserve">No Construction</source>
@@ -73410,8 +73425,9 @@ Population after: <ph id="5">{5}</ph></source>
       <trans-unit id="Approved Pictures">
         <source xml:space="preserve">Approved Pictures</source>
       </trans-unit>
-      <trans-unit id="{0}-{1}% integrity">
+      <trans-unit id="{0}-{1}% integrity" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>-<ph id="1">{1}</ph>% integrity</source>
+        <target state="translated"><ph id="0">{0}</ph>-<ph id="1">{1}</ph>% целостности</target>
       </trans-unit>
       <trans-unit id="{0} {1} across {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> across <ph id="2">{2}</ph></source>
@@ -73470,11 +73486,13 @@ Population after: <ph id="5">{5}</ph></source>
         <source xml:space="preserve">Pickup bounty on <ph id="0">{0}</ph> was disabled, because you don't have access to the selected bank account.</source>
         <target state="translated">Оплата за вывоз отходов для <ph id="0">{0}</ph> была отключена, т.к. у вас нет доступа к выбранному банковскому счету.</target>
       </trans-unit>
-      <trans-unit id="Pick a bank account to be paid into:">
+      <trans-unit id="Pick a bank account to be paid into:" xml:space="preserve">
         <source xml:space="preserve">Pick a bank account to be paid into:</source>
+        <target state="translated">Выберите банковский счет для зачисления средств:</target>
       </trans-unit>
-      <trans-unit id="Pick a bank account to pay from:">
+      <trans-unit id="Pick a bank account to pay from:" xml:space="preserve">
         <source xml:space="preserve">Pick a bank account to pay from:</source>
+        <target state="translated">Выберите банковский для списания средств:</target>
       </trans-unit>
       <trans-unit id="no free space">
         <source xml:space="preserve">no free space</source>
