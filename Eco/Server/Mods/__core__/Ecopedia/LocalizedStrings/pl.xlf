@@ -108,7 +108,7 @@ Istnieje wiele opcji płatności dla grupy roboczej, a dla tej samej grupy roboc
       </trans-unit>
       <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.</source>
-        <target xml:space="preserve" state="translated">Komponent tablicy kontraktów umożliwia obywatelom publikowanie lub akceptowanie umów i ofert grup roboczych</target>
+        <target xml:space="preserve" state="translated">Komponent tablicy kontraktów umożliwia obywatelom publikowanie lub akceptowanie umów i ofert grup roboczych.</target>
       </trans-unit>
       <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
@@ -3677,7 +3677,7 @@ Przyjęcia kończą się, gdy gospodarz kliknie „Zakończ”, po upływie wyzn
         <source xml:space="preserve">The Four Layers</source>
         <target state="translated">Cztery warstwy</target>
       </trans-unit>
-      <trans-unit id="446">
+      <trans-unit id="446" xml:space="preserve">
         <source xml:space="preserve">
 Soil Pollution is the waste of everyday life: {MixedGarbageItem}, trash and sewage. It is the mildest of the four, and the only one that always cleans itself in time, however high it has climbed.
 
@@ -3687,16 +3687,31 @@ Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and t
 
 Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. How sour a claim gets depends on how much its chimneys emit and on how wet the region is — a blast furnace running day and night will hold its own claim at twice the full gauge in an average climate, but at a fifth of that in a desert, so where heavy industry goes is a decision worth making. It is also the one layer you never need to treat: it halves every six hours once the smokestacks go quiet, so cutting emissions is the whole answer.
 </source>
+        <target state="translated">
+Zanieczyszczenie Gruntu to odpadki codziennego życia: {MixedGarbageItem}, śmieci i ścieki. To najłagodnieszy z czterech rodzajów, i jedyny który zawsze z czasem samoczynnie się oczyszcza, niezależnie od tego jak wysoki poziom osiągnie.
+
+Zanieczyszczenie Ciężkimi Minerałami pochodzi z górnictwa i przetwórstwa minerałów, przede wszystkim {TailingsItem} i {WetTailingsItem}. Samodzielnie oczyszcza się tylko poniżej poziomu 100%. Powyżej tego poziomu grunt jest nasycony i nigdy nie oczyści się samoczynnie.
+
+Zanieczyszczenie Chemiczne jest oznaką ciężkiego przemysłu, jak {ChemicalWasteItem} i chemiczne produkty uboczne zaawansowanego wytwarzania. Jest zdecydowanie najmniej wyrozumiałe, osiągając nasycenie przy zaledwie 30%. Pozwól aby działka przekroczyła ten poziom, a pozostanie zatruta aż ją oczyścisz.
+
+Kwaśny Deszcz to jedyna warstwa której nigdy nie rozrzucasz: spada sam. Tam gdzie zanieczyszczenie powietrza spotyka opady deszczu, kwaśny deszcz powstaje i wnika do gruntu poniżej. To jak zakwaszona staje się działka zależy od tego ile emitują jej kominy, oraz od wilgotności regionu — piec hutniczy pracujący dzień i noc będzie utrzymywał swoją działkę na dwukrotnym poziomie w umiarkowanym klimacie, ale tylko jednej piątej tego poziomu na pustyni, więc to gdzie stanie ciężki przemysł jest decyzją wartą zastanowienia. Jest to także jedyna warstwa której nie musisz oczyszczać: jej poziom spada o połowę co sześć godzin kiedy tylko wygasają kominy, więc redukcja emisji jest najlepszą odpowiedzią.
+</target>
       </trans-unit>
-      <trans-unit id="447">
+      <trans-unit id="447" xml:space="preserve">
         <source xml:space="preserve">Remediation</source>
+        <target state="translated">Rekultywacja</target>
       </trans-unit>
-      <trans-unit id="448">
+      <trans-unit id="448" xml:space="preserve">
         <source xml:space="preserve">
 Land that has already been poisoned can be treated. Decontaminants are consumables applied much like fertilizer, on any block of a claim — bare ground, a road, or the floor of a factory: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. One unit cancels one unit of pollution source, doses stack, and half of what is waiting on an area takes effect every 24 hours, so a badly contaminated claim can be treated in bulk and left to soak.
 
 Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Every decontaminant cleans at the same rate, so the cost is what separates them: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
 </source>
+        <target state="translated">
+Teren, który został już zatruty może zostać oczyszczony. Środki Odkażające to materiały eksploatacyjne aplikowane podobnie do nawozu, na dowolnym bloku lub działce — gołej ziemi, drodze lub podłodze w fabryce: {SoilDecontaminantItem} dla gleby, {HeavyMineralDecontaminantItem} dla metali ciężkich, oraz {ChemicalDecontaminantItem} dla zanieczyszczenia chemicznego. Jedna dawka redukuje jedną jednostkę źródła zanieczyszczenia, dawki kumulują się a połowa tego co oczekuje w danym terenie wywiera efekt co 24 godziny, więc bardzo zanieczyszczona działka może zostać potraktowana od razu większa ilością i pozostawiona na czas działania.
+
+Odkażanie to także jedyne, co działa po przekroczeniu pułapu somo-oczyszczania danej warstwy. Działka powyżej 100% Ciężkich Minerałów, lub powyżej 30% Chemikaliów, będzie w przeciwnym razie utrzymywać ten poziom w nieskończoność, niezależnie od tego czy źródło zanieczyszczenia zostało usunięte czy nie. Każdy środek odkażający oczyszcza w tym samym tempie, więc różnią się tylko kosztem: kompost i ziemia oczyszczają glebę, glina i węgiel wiążą metale ciężkie, a żelazo i węgiel wchodzą w skład każdego neutralizatora chemicznego. Sprzątanie po przemyśle ciężkim jest kosztowne. Niesprzątanie jest gorsze.
+</target>
       </trans-unit>
     </body>
   </file>
