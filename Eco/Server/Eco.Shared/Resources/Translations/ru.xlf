@@ -72882,7 +72882,7 @@ This is an official Eco server provided by Strange Loop Games.</source>
       </trans-unit>
       <trans-unit id="Required room tier goes up from {0} to {1}; your room is tier {2}. If the room later drops below the requirement, module effects pause until it recovers; the table keeps working at its base requirements." xml:space="preserve">
         <source xml:space="preserve">Required room tier goes up from <ph id="0">{0}</ph> to <ph id="1">{1}</ph>; your room is tier <ph id="2">{2}</ph>. If the room later drops below the requirement, module effects pause until it recovers; the table keeps working at its base requirements.</source>
-        <target state="translated">Требуемый уровень помещения повысился с <ph id="0">{0}</ph> до <ph id="1">{1}</ph>; текущий уровень помещения <ph id="2">{2}</ph>. Если уровень комнаты опустится ниже требуемого, то эффект модуля будет остановлен, а верстак продолжит работу на своих базовых требованиях.</target>
+        <target state="translated">Требуемый уровень помещения повысится с <ph id="0">{0}</ph> до <ph id="1">{1}</ph>; текущий уровень помещения <ph id="2">{2}</ph>. Если уровень комнаты опустится ниже требуемого, то эффект модуля будет остановлен, а верстак продолжит работу на своих базовых требованиях.</target>
       </trans-unit>
       <trans-unit id="Raises the table's power from {0} to {1}{2}. During outages it falls back to {3} with module effects paused." xml:space="preserve">
         <source xml:space="preserve">Raises the table's power from <ph id="0">{0}</ph> to <ph id="1">{1}</ph><ph id="2">{2}</ph>. During outages it falls back to <ph id="3">{3}</ph> with module effects paused.</source>
