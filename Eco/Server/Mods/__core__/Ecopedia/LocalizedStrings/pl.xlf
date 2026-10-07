@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="0" xml:space="preserve">
         <source xml:space="preserve">Components related to the economy.</source>
-        <target state="needs-translation">Elementy związane z gospodarką.</target>
+        <target state="translated">Komponenty związane z gospodarką.</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
@@ -3673,8 +3673,9 @@ Przyjęcia kończą się, gdy gospodarz kliknie „Zakończ”, po upływie wyzn
         <source xml:space="preserve">Settlement Property Settings</source>
         <target state="needs-translation" state-qualifier="leveraged-mt">Ustawienia nieruchomości osady</target>
       </trans-unit>
-      <trans-unit id="445">
+      <trans-unit id="445" xml:space="preserve">
         <source xml:space="preserve">The Four Layers</source>
+        <target state="translated">Cztery warstwy</target>
       </trans-unit>
       <trans-unit id="446">
         <source xml:space="preserve">
