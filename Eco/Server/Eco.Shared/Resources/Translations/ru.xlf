@@ -65562,7 +65562,7 @@
       </trans-unit>
       <trans-unit id="Rockhound" xml:space="preserve">
         <source xml:space="preserve">Rockhound</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Rockhound</target>
+        <target xml:space="preserve" state="translated">Рудокоп</target>
       </trans-unit>
       <trans-unit id="Mine 1000 ore." xml:space="preserve">
         <source xml:space="preserve">Mine 1000 ore.</source>
