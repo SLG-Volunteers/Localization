@@ -54009,7 +54009,7 @@
       </trans-unit>
       <trans-unit id="Crafting Queue Quantity" xml:space="preserve">
         <source xml:space="preserve">Crafting Queue Quantity</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Количество в очереди крафта</target>
+        <target xml:space="preserve" state="translated">Размер очереди заказов</target>
       </trans-unit>
       <trans-unit id="Retroactive Experience Rate" xml:space="preserve">
         <source xml:space="preserve">Retroactive Experience Rate</source>
@@ -63791,7 +63791,7 @@
       </trans-unit>
       <trans-unit id="Level up {0} to level {1}/{2}? {3} You have {4}." xml:space="preserve">
         <source xml:space="preserve">Level up <ph id="0">{0}</ph> to level <ph id="1">{1}</ph>/<ph id="2">{2}</ph>? <ph id="3">{3}</ph> You have <ph id="4">{4}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Повышай уровень <ph id="0">{0}</ph>, чтобы перейти на уровень <ph id="1">{1}</ph> / <ph id="2">{2}</ph>? <ph id="3">{3}</ph> У тебя есть <ph id="4">{4}</ph>.</target>
+        <target xml:space="preserve" state="translated">Повысить уровень <ph id="0">{0}</ph>, чтобы перейти на уровень <ph id="1">{1}</ph> / <ph id="2">{2}</ph>? <ph id="3">{3}</ph> У вас есть <ph id="4">{4}</ph>.</target>
       </trans-unit>
       <trans-unit id="Not enough stars to learn {0}. You need {1} but only have {2}." xml:space="preserve">
         <source xml:space="preserve">Not enough stars to learn <ph id="0">{0}</ph>. You need <ph id="1">{1}</ph> but only have <ph id="2">{2}</ph>.</source>
@@ -65206,7 +65206,7 @@
       </trans-unit>
       <trans-unit id="Can't accept any more items." xml:space="preserve">
         <source xml:space="preserve">Can't accept any more items.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Больше не принимаю никаких предметов.</target>
+        <target xml:space="preserve" state="translated">Больше не принимает предметы.</target>
       </trans-unit>
       <trans-unit id="Not enough items matching requirements ({0}) in source inventory." xml:space="preserve">
         <source xml:space="preserve">Not enough items matching requirements (<ph id="0">{0}</ph>) in source inventory.</source>
