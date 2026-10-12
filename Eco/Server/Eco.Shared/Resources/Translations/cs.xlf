@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="You killed the {0}. Find the carcass to harvest it." xml:space="preserve">
         <source xml:space="preserve">You killed the <ph id="0">{0}</ph>. Find the carcass to harvest it.</source>
-        <target xml:space="preserve" state="translated">Ulovil/a jsi: <ph id="0">{0}</ph>. Najdi úlovek a zpracuj ho.</target>
+        <target xml:space="preserve" state="translated">Uloveno: <ph id="0">{0}</ph>. Najdi úlovek a zpracuj ho.</target>
       </trans-unit>
       <trans-unit id="The carcass has already been harvested" xml:space="preserve">
         <source xml:space="preserve">The carcass has already been harvested</source>
@@ -69,11 +69,11 @@
       </trans-unit>
       <trans-unit id="{0} created the currency {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> created the currency <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> vytvořil/a měnu <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Měna <ph id="1">{1}</ph> byla vytvořena hráčem <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} renamed currency {1} to {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> renamed currency <ph id="1">{1}</ph> to <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> přejmenoval/a měnu <ph id="1">{1}</ph> na <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated">Měna <ph id="1">{1}</ph> byla přejmenována hráčem <ph id="0">{0}</ph> na <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="This mint is currently not functional, check status for details." xml:space="preserve">
         <source xml:space="preserve">This mint is currently not functional, check status for details.</source>
@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="{0} created {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> created <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> vytvořil/a <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Vytvořeno: <ph id="1">{1}</ph> (autor: <ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="No item on table to repair." xml:space="preserve">
         <source xml:space="preserve">No item on table to repair.</source>
@@ -169,7 +169,7 @@
       </trans-unit>
       <trans-unit id="{0:client name} marked your contract as failed:" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0:client name}</ph> marked your contract as failed:</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0:client name}</ph> označil/a tvou smlouvu za nesplněnou:</target>
+        <target xml:space="preserve" state="translated">Tvá smlouva byla označena za nesplněnou hráčem <ph id="0">{0:client name}</ph>:</target>
       </trans-unit>
       <trans-unit id="Contract does not have any clauses." xml:space="preserve">
         <source xml:space="preserve">Contract does not have any clauses.</source>
@@ -489,7 +489,7 @@
       </trans-unit>
       <trans-unit id="You are not logged in" xml:space="preserve">
         <source xml:space="preserve">You are not logged in</source>
-        <target xml:space="preserve" state="translated">Nejsi přihlášen/a.</target>
+        <target xml:space="preserve" state="translated">Chybí přihlášení.</target>
       </trans-unit>
       <trans-unit id="You have kicked {0}" xml:space="preserve">
         <source xml:space="preserve">You have kicked <ph id="0">{0}</ph></source>
@@ -509,7 +509,7 @@
       </trans-unit>
       <trans-unit id="{0} is not logged in to a Steam account." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not logged in to a Steam account.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> není přihlášen/a k účtu Steam.</target>
+        <target xml:space="preserve" state="translated">Hráč <ph id="0">{0}</ph> nemá přihlášený účet Steam.</target>
       </trans-unit>
       <trans-unit id="{0}'s Steam id is {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s Steam id is <ph id="1">{1}</ph>.</source>
@@ -517,7 +517,7 @@
       </trans-unit>
       <trans-unit id="{0} is not logged in to an SLG account." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not logged in to an SLG account.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> není přihlášen/a k účtu SLG.</target>
+        <target xml:space="preserve" state="translated">Hráč <ph id="0">{0}</ph> nemá přihlášený účet SLG.</target>
       </trans-unit>
       <trans-unit id="{0} World Marker" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> World Marker</source>
@@ -3883,7 +3883,7 @@
       </trans-unit>
       <trans-unit id="{0:name} has logged in to this world for the first time!" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0:name}</ph> has logged in to this world for the first time!</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0:name}</ph> se do tohoto světa přihlásil/a poprvé!</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0:name}</ph>: první přihlášení do tohoto světa!</target>
       </trans-unit>
       <trans-unit id="Grass" xml:space="preserve">
         <source xml:space="preserve">Grass</source>
@@ -4032,7 +4032,7 @@
       </trans-unit>
       <trans-unit id="{0:username} discovered {1:skill}!" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0:username}</ph> discovered <ph id="1">{1:skill}</ph>!</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0:username}</ph> objevil/a dovednost <ph id="1">{1:skill}</ph>!</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0:username}</ph> – objevena dovednost <ph id="1">{1:skill}</ph>!</target>
       </trans-unit>
       <trans-unit id="Done." xml:space="preserve">
         <source xml:space="preserve">Done.</source>
@@ -5555,11 +5555,11 @@
       </trans-unit>
       <trans-unit id="Voted Yes" xml:space="preserve">
         <source xml:space="preserve">Voted Yes</source>
-        <target xml:space="preserve" state="translated">Hlasoval/a ano</target>
+        <target xml:space="preserve" state="translated">Hlas: ano</target>
       </trans-unit>
       <trans-unit id="Voted No" xml:space="preserve">
         <source xml:space="preserve">Voted No</source>
-        <target xml:space="preserve" state="translated">Hlasoval/a ne</target>
+        <target xml:space="preserve" state="translated">Hlas: ne</target>
       </trans-unit>
       <trans-unit id="Vote" xml:space="preserve">
         <source xml:space="preserve">Vote</source>
@@ -7354,7 +7354,7 @@
       </trans-unit>
       <trans-unit id="{0} has raised the seas by {1}!" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has raised the seas by <ph id="1">{1}</ph>!</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> zvedl/a hladinu moří o <ph id="1">{1}</ph>!</target>
+        <target xml:space="preserve" state="translated">Hladina moří byla zvýšena o <ph id="1">{1}</ph> (hráč <ph id="0">{0}</ph>)!</target>
       </trans-unit>
       <trans-unit id="Current sea level: {0}  Amount raised so far: {1}" xml:space="preserve">
         <source xml:space="preserve">Current sea level: <ph id="0">{0}</ph>  Amount raised so far: <ph id="1">{1}</ph></source>
@@ -7559,11 +7559,11 @@
       </trans-unit>
       <trans-unit id="{0} began fast forwarding the server." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> began fast forwarding the server.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> spustil/a rychlý posun času na serveru.</target>
+        <target xml:space="preserve" state="translated">Rychlý posun času na serveru byl zahájen (hráč <ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="{0} stopped fast forwarding the server." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> stopped fast forwarding the server.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> zastavil/a rychlý posun času na serveru.</target>
+        <target xml:space="preserve" state="translated">Rychlý posun času na serveru byl zastaven (hráč <ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="Discovered first by {0} on {1}" xml:space="preserve">
         <source xml:space="preserve">Discovered first by <ph id="0">{0}</ph> on <ph id="1">{1}</ph></source>
@@ -7576,7 +7576,7 @@
       </trans-unit>
       <trans-unit id="{0} has abandoned the {1} specialty." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has abandoned the <ph id="1">{1}</ph> specialty.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> opustil/a specializaci <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Specializace <ph id="1">{1}</ph> byla opuštěna (hráč <ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="The property on this deed can only be unclaimed by {0}" xml:space="preserve">
         <source xml:space="preserve">The property on this deed can only be unclaimed by <ph id="0">{0}</ph></source>
@@ -7600,7 +7600,7 @@
       </trans-unit>
       <trans-unit id="{0} claimed their community distributed items: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> claimed their community distributed items: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> si vyzvedl/a předměty rozdávané komunitou: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Předměty rozdávané komunitou byly vyzvednuty (hráč <ph id="0">{0}</ph>): <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0} gave {1} to {2} in exchange for {3}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> gave <ph id="1">{1}</ph> to <ph id="2">{2}</ph> in exchange for <ph id="3">{3}</ph>.</source>
@@ -8727,7 +8727,7 @@
       </trans-unit>
       <trans-unit id="{0} deleted a bank account: {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> deleted a bank account: <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> smazal/a bankovní účet: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Bankovní účet byl smazán (hráč <ph id="0">{0}</ph>): <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Transactions for {0}" xml:space="preserve">
         <source xml:space="preserve">Transactions for <ph id="0">{0}</ph></source>
@@ -8855,7 +8855,7 @@
       </trans-unit>
       <trans-unit id="{0} has banned you." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has banned you.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> ti zakázal/a přístup.</target>
+        <target xml:space="preserve" state="translated">Přístup ti byl zakázán hráčem <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="You were prevented from playing on this server." xml:space="preserve">
         <source xml:space="preserve">You were prevented from playing on this server.</source>
@@ -8932,7 +8932,7 @@
       </trans-unit>
       <trans-unit id="Worth {0} {1} on average from {2} trades" xml:space="preserve">
         <source xml:space="preserve">Worth <ph id="0">{0}</ph> <ph id="1">{1}</ph> on average from <ph id="2">{2}</ph> trades</source>
-        <target xml:space="preserve" state="translated">Průměrná hodnota: <ph id="0">{0}</ph> <ph id="1">{1}</ph> (počet porovnaných předmětů: <ph id="2">{2}</ph>)</target>
+        <target xml:space="preserve" state="translated">Průměrná hodnota: <ph id="0">{0}</ph> <ph id="1">{1}</ph> (z <ph id="2">{2}</ph> obchodů)</target>
       </trans-unit>
       <trans-unit id="Standard deviation of rates: {0}" xml:space="preserve">
         <source xml:space="preserve">Standard deviation of rates: <ph id="0">{0}</ph></source>
@@ -8948,11 +8948,11 @@
       </trans-unit>
       <trans-unit id="You are not logged in to a Steam account." xml:space="preserve">
         <source xml:space="preserve">You are not logged in to a Steam account.</source>
-        <target xml:space="preserve" state="translated">Nejsi přihlášen/a k účtu Steam.</target>
+        <target xml:space="preserve" state="translated">Chybí přihlášení k účtu Steam.</target>
       </trans-unit>
       <trans-unit id="You are not logged in to an SLG account." xml:space="preserve">
         <source xml:space="preserve">You are not logged in to an SLG account.</source>
-        <target xml:space="preserve" state="translated">Nejsi přihlášen/a k účtu SLG.</target>
+        <target xml:space="preserve" state="translated">Chybí přihlášení k účtu SLG.</target>
       </trans-unit>
       <trans-unit id="Note that once you do, the permissions can never be changed again by anyone." xml:space="preserve">
         <source xml:space="preserve">Note that once you do, the permissions can never be changed again by anyone.</source>
@@ -9213,7 +9213,7 @@
       </trans-unit>
       <trans-unit id="{0} assigned the title {1} to {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> assigned the title <ph id="1">{1}</ph> to <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> přidělil/a funkci <ph id="1">{1}</ph> (komu: <ph id="2">{2}</ph>).</target>
+        <target xml:space="preserve" state="translated">Funkce <ph id="1">{1}</ph> byla přidělena hráčem <ph id="0">{0}</ph> (komu: <ph id="2">{2}</ph>).</target>
       </trans-unit>
       <trans-unit id="{0} does not have the title {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> does not have the title <ph id="1">{1}</ph>.</source>
@@ -9221,7 +9221,7 @@
       </trans-unit>
       <trans-unit id="{0} removed the title {1} from {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> removed the title <ph id="1">{1}</ph> from <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> odebral/a funkci <ph id="1">{1}</ph> (komu: <ph id="2">{2}</ph>).</target>
+        <target xml:space="preserve" state="translated">Funkce <ph id="1">{1}</ph> byla odebrána hráčem <ph id="0">{0}</ph> (komu: <ph id="2">{2}</ph>).</target>
       </trans-unit>
       <trans-unit id="No users are assigned this title." xml:space="preserve">
         <source xml:space="preserve">No users are assigned this title.</source>
@@ -9229,24 +9229,24 @@
       </trans-unit>
       <trans-unit id="{0} cleared the title {1}, removing {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cleared the title <ph id="1">{1}</ph>, removing <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> odebral/a funkci <ph id="1">{1}</ph> všem držitelům: <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated">Funkce <ph id="1">{1}</ph> byla odebrána hráčem <ph id="0">{0}</ph> všem držitelům: <ph id="2">{2}</ph>.</target>
         <note from="developer">{0} = Username {1} = Name of Title {2} = Usernames</note>
       </trans-unit>
       <trans-unit id="{0} deleted the title {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> deleted the title <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> smazal/a funkci <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Funkce <ph id="1">{1}</ph> byla smazána hráčem <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} renamed {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> renamed <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> přejmenoval/a funkci <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Funkce <ph id="1">{1}</ph> byla přejmenována hráčem <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} changed parameters of title {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> changed parameters of title <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> změnil/a parametry funkce <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Parametry funkce <ph id="1">{1}</ph> byly změněny hráčem <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} spawned random titles." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> spawned random titles.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> vytvořil/a náhodné funkce.</target>
+        <target xml:space="preserve" state="translated">Byly vytvořeny náhodné funkce (hráč <ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="themselves" xml:space="preserve">
         <source xml:space="preserve">themselves</source>
@@ -10948,7 +10948,7 @@
       </trans-unit>
       <trans-unit id="{0} posted a new contract {1}:{2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> posted a new contract <ph id="1">{1}</ph>:<ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> zveřejnil/a novou smlouvu <ph id="1">{1}</ph>:<ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated">Nová smlouva zveřejněná hráčem <ph id="0">{0}</ph>: <ph id="1">{1}</ph>:<ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Open the specialization menu." xml:space="preserve">
         <source xml:space="preserve">Open the specialization menu.</source>
@@ -12596,7 +12596,7 @@
       </trans-unit>
       <trans-unit id="{0} Bought {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Bought <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> koupil/a: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Nákup hráče <ph id="0">{0}</ph>: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Render scale" xml:space="preserve">
         <source xml:space="preserve">Render scale</source>
@@ -13124,7 +13124,7 @@
       </trans-unit>
       <trans-unit id="Elected" xml:space="preserve">
         <source xml:space="preserve">Elected</source>
-        <target xml:space="preserve" state="translated">Zvolen/a</target>
+        <target xml:space="preserve" state="translated">Zvolení</target>
       </trans-unit>
       <trans-unit id="Removed" xml:space="preserve">
         <source xml:space="preserve">Removed</source>
@@ -13496,7 +13496,7 @@
       </trans-unit>
       <trans-unit id="{0} entered the election {1}. Speech: {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> entered the election <ph id="1">{1}</ph>. Speech: <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> se přihlásil/a do voleb: <ph id="1">{1}</ph>. Projev: <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated">Kandidatura: <ph id="0">{0}</ph> ve volbách <ph id="1">{1}</ph>. Projev: <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Enter election {0}. Speech:{1}" xml:space="preserve">
         <source xml:space="preserve">Enter election <ph id="0">{0}</ph>. Speech:<ph id="1">{1}</ph></source>
@@ -15292,7 +15292,7 @@
       </trans-unit>
       <trans-unit id="{0} added {1} to {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> added <ph id="1">{1}</ph> to <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> přidal/a do <ph id="2">{2}</ph>: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Do <ph id="2">{2}</ph> přidáno (hráč <ph id="0">{0}</ph>): <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Civics" xml:space="preserve">
         <source xml:space="preserve">Civics</source>
@@ -15568,7 +15568,7 @@
       </trans-unit>
       <trans-unit id="Resigned" xml:space="preserve">
         <source xml:space="preserve">Resigned</source>
-        <target xml:space="preserve" state="translated">Rezignoval/a</target>
+        <target xml:space="preserve" state="translated">Rezignace</target>
       </trans-unit>
       <trans-unit id="Preserve Generated Mods Assembly" xml:space="preserve">
         <source xml:space="preserve">Preserve Generated Mods Assembly</source>
@@ -16034,7 +16034,7 @@
       </trans-unit>
       <trans-unit id="Re-elected" xml:space="preserve">
         <source xml:space="preserve">Re-elected</source>
-        <target xml:space="preserve" state="translated">Znovuzvolen/a</target>
+        <target xml:space="preserve" state="translated">Znovuzvolení</target>
       </trans-unit>
       <trans-unit id="Replaced in election" xml:space="preserve">
         <source xml:space="preserve">Replaced in election</source>
@@ -16118,7 +16118,7 @@
       </trans-unit>
       <trans-unit id="Removed from office by {0}" xml:space="preserve">
         <source xml:space="preserve">Removed from office by <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Odvolání z funkce provedl/a <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Odvolání z funkce – kým: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Remove {0} from {1}" xml:space="preserve">
         <source xml:space="preserve">Remove <ph id="0">{0}</ph> from <ph id="1">{1}</ph></source>
@@ -20696,7 +20696,7 @@
       </trans-unit>
       <trans-unit id="{0} bought {1} from you" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> bought <ph id="1">{1}</ph> from you</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> od tebe koupil/a: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Nákup od tebe (hráč <ph id="0">{0}</ph>): <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Deed no longer exists." xml:space="preserve">
         <source xml:space="preserve">Deed no longer exists.</source>
@@ -26650,7 +26650,7 @@
       </trans-unit>
       <trans-unit id="Didn't Vote" xml:space="preserve">
         <source xml:space="preserve">Didn't Vote</source>
-        <target xml:space="preserve" state="translated">Nehlasoval/a</target>
+        <target xml:space="preserve" state="translated">Bez hlasu</target>
       </trans-unit>
       <trans-unit id="You can't afford that. You have {0} in {1} but need {2}." xml:space="preserve">
         <source xml:space="preserve">You can't afford that. You have <ph id="0">{0}</ph> in <ph id="1">{1}</ph> but need <ph id="2">{2}</ph>.</source>
@@ -27442,11 +27442,11 @@
       </trans-unit>
       <trans-unit id="{0} added you to {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> added you to <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> tě přidal/a do seznamu <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Přidání do seznamu <ph id="1">{1}</ph> (hráč <ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="{0} removed you from {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> removed you from <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> tě odebral/a ze seznamu <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Odebrání ze seznamu <ph id="1">{1}</ph> (hráč <ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="{0} is already in {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is already in <ph id="1">{1}</ph>.</source>
@@ -28993,7 +28993,7 @@
       </trans-unit>
       <trans-unit id="You were un-invited to {0} by {1} at {2}." xml:space="preserve">
         <source xml:space="preserve">You were un-invited to <ph id="0">{0}</ph> by <ph id="1">{1}</ph> at <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated">Pozvání (<ph id="0">{0}</ph>) bylo zrušeno; zrušil/a je <ph id="1">{1}</ph>, místo: <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated">Pozvání (<ph id="0">{0}</ph>) bylo zrušeno hráčem <ph id="1">{1}</ph>, místo: <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="A list of citizens or aliases (titles or demographics) that are invited and may accept." xml:space="preserve">
         <source xml:space="preserve">A list of citizens or aliases (titles or demographics) that are invited and may accept.</source>
@@ -31011,15 +31011,15 @@
       </trans-unit>
       <trans-unit id="--&gt; {0} joined the server." xml:space="preserve">
         <source xml:space="preserve">--&gt; <ph id="0">{0}</ph> joined the server.</source>
-        <target xml:space="preserve" state="translated">--&gt; <ph id="0">{0}</ph> se připojil/a k serveru.</target>
+        <target xml:space="preserve" state="translated">--&gt; Připojení k serveru: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="&lt;-- {0} logged out." xml:space="preserve">
         <source xml:space="preserve">&lt;-- <ph id="0">{0}</ph> logged out.</source>
-        <target xml:space="preserve" state="translated">&lt;-- <ph id="0">{0}</ph> se odhlásil/a.</target>
+        <target xml:space="preserve" state="translated">&lt;-- Odhlášení: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="--&gt; {0} logged in." xml:space="preserve">
         <source xml:space="preserve">--&gt; <ph id="0">{0}</ph> logged in.</source>
-        <target xml:space="preserve" state="translated">--&gt; <ph id="0">{0}</ph> se přihlásil/a.</target>
+        <target xml:space="preserve" state="translated">--&gt; Přihlášení: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="+{0} until {1} meters (then drop to zero at {2} meters)." xml:space="preserve">
         <source xml:space="preserve">+<ph id="0">{0}</ph> until <ph id="1">{1}</ph> meters (then drop to zero at <ph id="2">{2}</ph> meters).</source>
@@ -31482,7 +31482,7 @@
       </trans-unit>
       <trans-unit id="Posted by" xml:space="preserve">
         <source xml:space="preserve">Posted by</source>
-        <target xml:space="preserve" state="translated">Zveřejnil/a</target>
+        <target xml:space="preserve" state="translated">Zveřejněno hráčem</target>
       </trans-unit>
       <trans-unit id="Corn Fields" xml:space="preserve">
         <source xml:space="preserve">Corn Fields</source>
@@ -32846,11 +32846,11 @@
       </trans-unit>
       <trans-unit id="Dropped Out" xml:space="preserve">
         <source xml:space="preserve">Dropped Out</source>
-        <target xml:space="preserve" state="translated">Nedostudoval/a</target>
+        <target xml:space="preserve" state="translated">Studium nedokončeno</target>
       </trans-unit>
       <trans-unit id="Expelled" xml:space="preserve">
         <source xml:space="preserve">Expelled</source>
-        <target xml:space="preserve" state="translated">Vyloučen/a</target>
+        <target xml:space="preserve" state="translated">Vyloučení</target>
       </trans-unit>
       <trans-unit id="Legacy" xml:space="preserve">
         <source xml:space="preserve">Legacy</source>
@@ -35145,11 +35145,11 @@
       </trans-unit>
       <trans-unit id="{0} discovered their favorite food ever: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> discovered their favorite food ever: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> objevil/a své nejoblíbenější jídlo vůbec: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>: objeveno nejoblíbenější jídlo vůbec – <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0} discovered their most hated food ever: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> discovered their most hated food ever: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> objevil/a své nejnenáviděnější jídlo vůbec: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>: objeveno nejnenáviděnější jídlo vůbec – <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="worse than anything" xml:space="preserve">
         <source xml:space="preserve">worse than anything</source>
@@ -41493,7 +41493,7 @@
       </trans-unit>
       <trans-unit id="You marked your contract as failed:" xml:space="preserve">
         <source xml:space="preserve">You marked your contract as failed:</source>
-        <target xml:space="preserve" state="translated">Označil/a jsi svou smlouvu za nesplněnou:</target>
+        <target xml:space="preserve" state="translated">Tvá smlouva byla označena za nesplněnou:</target>
       </trans-unit>
       <trans-unit id="{0} posted a new contract {1}:{2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> posted a new contract <ph id="1">{1}</ph>:<ph id="2">{2}</ph>.</source>
@@ -42765,11 +42765,11 @@
       </trans-unit>
       <trans-unit id="{0} discovered their favorite food ever: {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> discovered their favorite food ever: <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> objevil/a své nejoblíbenější jídlo vůbec: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>: objeveno nejoblíbenější jídlo vůbec – <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} discovered their most hated food ever: {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> discovered their most hated food ever: <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> objevil/a své nejnenáviděnější jídlo vůbec: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>: objeveno nejnenáviděnější jídlo vůbec – <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Worse than anything" xml:space="preserve">
         <source xml:space="preserve">Worse than anything</source>
@@ -42813,7 +42813,7 @@
       </trans-unit>
       <trans-unit id="It seems that {0} completed contract: {1}! Don't forget to mark it as complete to pay the contractor." xml:space="preserve">
         <source xml:space="preserve">It seems that <ph id="0">{0}</ph> completed contract: <ph id="1">{1}</ph>! Don't forget to mark it as complete to pay the contractor.</source>
-        <target xml:space="preserve" state="translated">Zdá se, že <ph id="0">{0}</ph> dokončil/a smlouvu: <ph id="1">{1}</ph>! Nezapomeň ji označit jako dokončenou, aby byl dodavatel zaplacen.</target>
+        <target xml:space="preserve" state="translated">Zdá se, že byla dokončena smlouva <ph id="1">{1}</ph> (hráč <ph id="0">{0}</ph>)! Nezapomeň ji označit jako dokončenou, aby byl dodavatel zaplacen.</target>
       </trans-unit>
       <trans-unit id="This contract needs to be approved by {0}" xml:space="preserve">
         <source xml:space="preserve">This contract needs to be approved by <ph id="0">{0}</ph></source>
@@ -42925,7 +42925,7 @@
       </trans-unit>
       <trans-unit id="Removed from office by {0} Reason: {1}" xml:space="preserve">
         <source xml:space="preserve">Removed from office by <ph id="0">{0}</ph> Reason: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Odvolání z funkce provedl/a <ph id="0">{0}</ph>. Důvod: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Odvolání z funkce – kým: <ph id="0">{0}</ph>. Důvod: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="The following district entries contain no plots:" xml:space="preserve" translate="no">
         <source xml:space="preserve">The following district entries contain no plots:</source>
@@ -43007,7 +43007,7 @@
       </trans-unit>
       <trans-unit id="You witnessed the destruction of the meteor with {0} other people. Destruction date {1}" xml:space="preserve">
         <source xml:space="preserve">You witnessed the destruction of the meteor with <ph id="0">{0}</ph> other people. Destruction date <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Byl/a jsi svědkem zničení meteoru. Počet dalších svědků: <ph id="0">{0}</ph>. Datum zničení: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Zničení meteoru (počet dalších svědků: <ph id="0">{0}</ph>). Datum zničení: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Meteor destroyed the world! Destruction date {0}" xml:space="preserve">
         <source xml:space="preserve">Meteor destroyed the world! Destruction date <ph id="0">{0}</ph></source>
@@ -43035,7 +43035,7 @@
       </trans-unit>
       <trans-unit id="{0} has proposed ratification of constitution: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has proposed ratification of constitution: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Ratifikaci ústavy navrhl/a <ph id="0">{0}</ph>: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Návrh ratifikace ústavy (hráč <ph id="0">{0}</ph>): <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0} {1} {2} against {3} " xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph> against <ph id="3">{3}</ph> </source>
@@ -43043,7 +43043,7 @@
       </trans-unit>
       <trans-unit id="{0} removed from office. Reason: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> removed from office. Reason: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> odvolán/a z funkce. Důvod: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Odvolání z funkce: <ph id="0">{0}</ph>. Důvod: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="won the election" xml:space="preserve">
         <source xml:space="preserve">won the election</source>
@@ -43087,7 +43087,7 @@
       </trans-unit>
       <trans-unit id="{0} taught you {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> taught you <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> tě naučil/a: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Výuka od hráče <ph id="0">{0}</ph>: <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="You successfully learned {0}." xml:space="preserve">
         <source xml:space="preserve">You successfully learned <ph id="0">{0}</ph>.</source>
@@ -43149,7 +43149,7 @@
       </trans-unit>
       <trans-unit id="Until {0} is founded, only the creator {1} may approve applicant {2}." xml:space="preserve">
         <source xml:space="preserve">Until <ph id="0">{0}</ph> is founded, only the creator <ph id="1">{1}</ph> may approve applicant <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated">Dokud není osada <ph id="0">{0}</ph> založena, může žadatele (<ph id="2">{2}</ph>) schvalovat pouze její tvůrce: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Dokud není osada <ph id="0">{0}</ph> založena, může žadatele <ph id="2">{2}</ph> schvalovat pouze její tvůrce <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Applicant {0} may be approved by civic action only (see Civic Action tab)." xml:space="preserve">
         <source xml:space="preserve">Applicant <ph id="0">{0}</ph> may be approved by civic action only (see Civic Action tab).</source>
@@ -43157,7 +43157,7 @@
       </trans-unit>
       <trans-unit id="{0} has approved the {1} of {2} to join the {3} of {4}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has approved the <ph id="1">{1}</ph> of <ph id="2">{2}</ph> to join the <ph id="3">{3}</ph> of <ph id="4">{4}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> schválil/a připojení (<ph id="1">{1}</ph> <ph id="2">{2}</ph>) k celku (<ph id="3">{3}</ph> <ph id="4">{4}</ph>).</target>
+        <target xml:space="preserve" state="translated">Připojení (<ph id="1">{1}</ph> <ph id="2">{2}</ph>) k celku (<ph id="3">{3}</ph> <ph id="4">{4}</ph>) bylo schváleno (hráč <ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="{0} is already invited to become a member." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is already invited to become a member.</source>
@@ -43305,7 +43305,7 @@
       </trans-unit>
       <trans-unit id="{0} has settled within range of {1} and may become a citizen." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has settled within range of <ph id="1">{1}</ph> and may become a citizen.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> se usadil/a v dosahu <ph id="1">{1}</ph> a může se stát občanem.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> sídlí v dosahu <ph id="1">{1}</ph> a může získat občanství.</target>
       </trans-unit>
       <trans-unit id="{0} is now in range of your property. You may become a citizen at {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is now in range of your property. You may become a citizen at <ph id="1">{1}</ph>.</source>
@@ -43389,7 +43389,7 @@
       </trans-unit>
       <trans-unit id="{0} has left the game." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has left the game.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> opustil/a hru.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> už ve hře není.</target>
       </trans-unit>
       <trans-unit id="This {0} has the following contracts relying on it, and if you pick it up those contracts will be ignored: {1}{2} {3}Proceed?" xml:space="preserve">
         <source xml:space="preserve">This <ph id="0">{0}</ph> has the following contracts relying on it, and if you pick it up those contracts will be ignored: <ph id="1">{1}</ph><ph id="2">{2}</ph> <ph id="3">{3}</ph>Proceed?</source>
@@ -43501,11 +43501,11 @@
       </trans-unit>
       <trans-unit id="{0} bought {1} from you." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> bought <ph id="1">{1}</ph> from you.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> koupil/a od tebe: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Nákup od tebe (hráč <ph id="0">{0}</ph>): <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} started {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> started <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> zahájil/a: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Zahájeno: <ph id="1">{1}</ph> (<ph id="0">{0}</ph>)</target>
       </trans-unit>
       <trans-unit id="Work orders started" xml:space="preserve">
         <source xml:space="preserve">Work orders started</source>
@@ -46385,7 +46385,7 @@
       </trans-unit>
       <trans-unit id="{0} election started by {1} and conducted using rules defined in {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> election started by <ph id="1">{1}</ph> and conducted using rules defined in <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated">Volby: <ph id="0">{0}</ph>. Zahájil/a: <ph id="1">{1}</ph>. Průběh podle pravidel: <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated">Volby: <ph id="0">{0}</ph>. Zahájeno hráčem <ph id="1">{1}</ph>. Průběh podle pravidel: <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} stat sum value is too big or too small and can't be evaluated." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> stat sum value is too big or too small and can't be evaluated.</source>
@@ -48816,7 +48816,7 @@
       </trans-unit>
       <trans-unit id="{0} voted for {1} in {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> voted for <ph id="1">{1}</ph> in <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> hlasoval/a pro: <ph id="1">{1}</ph> (volby: <ph id="2">{2}</ph>).</target>
+        <target xml:space="preserve" state="translated">Hlas hráče <ph id="0">{0}</ph> pro: <ph id="1">{1}</ph> (volby: <ph id="2">{2}</ph>).</target>
       </trans-unit>
       <trans-unit id="No choices in that election." xml:space="preserve">
         <source xml:space="preserve">No choices in that election.</source>
@@ -52804,7 +52804,7 @@
       </trans-unit>
       <trans-unit id="Not logged in to Strange Loop servers." xml:space="preserve">
         <source xml:space="preserve">Not logged in to Strange Loop servers.</source>
-        <target xml:space="preserve" state="translated">Nejsi přihlášen/a k serverům Strange Loop.</target>
+        <target xml:space="preserve" state="translated">Chybí přihlášení k serverům Strange Loop.</target>
       </trans-unit>
       <trans-unit id="Not connected to a game server." xml:space="preserve">
         <source xml:space="preserve">Not connected to a game server.</source>
@@ -60563,7 +60563,7 @@
       </trans-unit>
       <trans-unit id="{0} repaired your {1}, {2} for {3}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> repaired your <ph id="1">{1}</ph>, <ph id="2">{2}</ph> for <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> opravil/a tvůj předmět <ph id="1">{1}</ph>, <ph id="2">{2}</ph>. Platba: <ph id="3">{3}</ph>.</target>
+        <target xml:space="preserve" state="translated">Tvůj předmět <ph id="1">{1}</ph> byl opraven hráčem <ph id="0">{0}</ph>, <ph id="2">{2}</ph>. Platba: <ph id="3">{3}</ph>.</target>
       </trans-unit>
       <trans-unit id="a payment of {0}" xml:space="preserve">
         <source xml:space="preserve">a payment of <ph id="0">{0}</ph></source>
@@ -60571,11 +60571,11 @@
       </trans-unit>
       <trans-unit id="{0} repaired {1}'s {2} for {3}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> repaired <ph id="1">{1}</ph>'s <ph id="2">{2}</ph> for <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> opravil/a předmět <ph id="2">{2}</ph> (majitel: <ph id="1">{1}</ph>). Platba: <ph id="3">{3}</ph>.</target>
+        <target xml:space="preserve" state="translated">Předmět <ph id="2">{2}</ph> byl opraven hráčem <ph id="0">{0}</ph> (majitel: <ph id="1">{1}</ph>). Platba: <ph id="3">{3}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} repaired {1} for {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> repaired <ph id="1">{1}</ph> for <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> opravil/a <ph id="1">{1}</ph>. Platba: <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated">Oprava <ph id="1">{1}</ph> provedena hráčem <ph id="0">{0}</ph>. Platba: <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="no payment" xml:space="preserve">
         <source xml:space="preserve">no payment</source>
@@ -65070,7 +65070,7 @@
       </trans-unit>
       <trans-unit id=" - {0} ate:" xml:space="preserve">
         <source xml:space="preserve"> - <ph id="0">{0}</ph> ate:</source>
-        <target xml:space="preserve" state="translated"> - <ph id="0">{0}</ph> snědl/a:</target>
+        <target xml:space="preserve" state="translated"> - <ph id="0">{0}</ph> – snědeno:</target>
       </trans-unit>
       <trans-unit id="Culture Subtotal: {0}" xml:space="preserve">
         <source xml:space="preserve">Culture Subtotal: <ph id="0">{0}</ph></source>
@@ -65146,11 +65146,11 @@
       </trans-unit>
       <trans-unit id="Hosted" xml:space="preserve">
         <source xml:space="preserve">Hosted</source>
-        <target xml:space="preserve" state="translated">Pořádal/a</target>
+        <target xml:space="preserve" state="translated">Pořádání</target>
       </trans-unit>
       <trans-unit id="Attended" xml:space="preserve">
         <source xml:space="preserve">Attended</source>
-        <target xml:space="preserve" state="translated">Zúčastnil/a se</target>
+        <target xml:space="preserve" state="translated">Účast</target>
       </trans-unit>
       <trans-unit id="{0} a dinner party with {1} guests." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> a dinner party with <ph id="1">{1}</ph> guests.</source>
@@ -65166,11 +65166,11 @@
       </trans-unit>
       <trans-unit id="Hosted a dinner party and served {0} their favorite dish, {1}." xml:space="preserve">
         <source xml:space="preserve">Hosted a dinner party and served <ph id="0">{0}</ph> their favorite dish, <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Uspořádal/a hostinu, na které host <ph id="0">{0}</ph> dostal své oblíbené jídlo: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Pořádání hostiny, na které host <ph id="0">{0}</ph> dostal své oblíbené jídlo: <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Hosted a dinner party and served {0} their most hated dish, {1}." xml:space="preserve">
         <source xml:space="preserve">Hosted a dinner party and served <ph id="0">{0}</ph> their most hated dish, <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Uspořádal/a hostinu, na které host <ph id="0">{0}</ph> dostal své nejnenáviděnější jídlo: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Pořádání hostiny, na které host <ph id="0">{0}</ph> dostal své nejnenáviděnější jídlo: <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Breaking Bread" xml:space="preserve">
         <source xml:space="preserve">Breaking Bread</source>
@@ -65631,11 +65631,11 @@
       </trans-unit>
       <trans-unit id="You planted {0} {1}" xml:space="preserve">
         <source xml:space="preserve">You planted <ph id="0">{0}</ph> <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Zasadil/a jsi <ph id="0">{0}</ph>× <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Zasazeno: <ph id="0">{0}</ph>× <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="You harvested 100 farmable items on land you own." xml:space="preserve">
         <source xml:space="preserve">You harvested 100 farmable items on land you own.</source>
-        <target xml:space="preserve" state="translated">Sklidil/a jsi 100 zemědělských produktů na pozemku, který vlastníš.</target>
+        <target xml:space="preserve" state="translated">Sklizeň 100 zemědělských produktů na pozemku, který vlastníš.</target>
       </trans-unit>
       <trans-unit id="Mined a {0}" xml:space="preserve">
         <source xml:space="preserve">Mined a <ph id="0">{0}</ph></source>
@@ -65651,7 +65651,7 @@
       </trans-unit>
       <trans-unit id="You hunted a {0}." xml:space="preserve">
         <source xml:space="preserve">You hunted a <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Ulovil/a jsi: <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Uloveno: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Gather 100 farmable items on land you own." xml:space="preserve">
         <source xml:space="preserve">Gather 100 farmable items on land you own.</source>
@@ -66250,7 +66250,7 @@
       </trans-unit>
       <trans-unit id="{0} is not counted because they were recently a member of {1}, which is currently in a property crisis." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not counted because they were recently a member of <ph id="1">{1}</ph>, which is currently in a property crisis.</source>
-        <target xml:space="preserve" state="translated">Hráč <ph id="0">{0}</ph> se nezapočítává, protože nedávno patřil/a do osady <ph id="1">{1}</ph>, která je právě v majetkové krizi.</target>
+        <target xml:space="preserve" state="translated">Hráč <ph id="0">{0}</ph> se nezapočítává: nedávné členství v osadě <ph id="1">{1}</ph>, která je právě v majetkové krizi.</target>
       </trans-unit>
       <trans-unit id="Cannot claim {0} because it contains a vehicle and the deed is not owned by a citizen of {1}." xml:space="preserve">
         <source xml:space="preserve">Cannot claim <ph id="0">{0}</ph> because it contains a vehicle and the deed is not owned by a citizen of <ph id="1">{1}</ph>.</source>
@@ -66454,7 +66454,7 @@
       </trans-unit>
       <trans-unit id="Unable to place {0} here. You reached the sky!" xml:space="preserve">
         <source xml:space="preserve">Unable to place <ph id="0">{0}</ph> here. You reached the sky!</source>
-        <target xml:space="preserve" state="translated">Sem nelze umístit: <ph id="0">{0}</ph>. Dosáhl/a jsi nebes!</target>
+        <target xml:space="preserve" state="translated">Sem nelze umístit: <ph id="0">{0}</ph>. Dosažena hranice nebes!</target>
       </trans-unit>
       <trans-unit id="That object cannot be moved with freecar." xml:space="preserve">
         <source xml:space="preserve">That object cannot be moved with freecar.</source>
@@ -69099,7 +69099,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="You can learn this talent once the specialty reaches the required level." xml:space="preserve">
         <source xml:space="preserve">You can learn this talent once the specialty reaches the required level.</source>
-        <target xml:space="preserve" state="translated">Tento talent se naučíš, jakmile specializace dosáhne požadované úrovně.</target>
+        <target xml:space="preserve" state="translated">Můžeš se naučit tento talent, jakmile specializace dosáhne požadované úrovně.</target>
       </trans-unit>
       <trans-unit id="Free" xml:space="preserve">
         <source xml:space="preserve">Free</source>
