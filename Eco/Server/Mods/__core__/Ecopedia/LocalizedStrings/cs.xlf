@@ -95,7 +95,7 @@ There are a variety of Payment options for a work party, and multiple payment op
 - When granting a {Title|Titles} as payment, the citizen posting the contract must be a title manager for the title being offered. All citizens who contribute the minimum amount will be granted the new title. The Access Type determines if they will become a title manager or title user.
 </source>
         <target xml:space="preserve" state="translated">
-Pracovní skupina nabízí řadu možností platby a pro tutéž pracovní skupinu lze nabídnout i několik možností současně.
+Za práci v pracovní skupině lze zaplatit několika způsoby a pro tutéž pracovní skupinu lze nabídnout i několik způsobů najednou.
 
 - Nabízíš-li jako platbu {měnu|Currency}, je k dispozici volba „Průběžná platba“. Ta vyplácí pracovníky průběžně podle jejich příspěvku, místo aby se po dokončení smlouvy vyplatila jednorázová částka.
 
@@ -157,7 +157,7 @@ When buying a deed, the currency will be taken from the bank account selected by
 After the property is sold, the deed and all objects contained on the deed are transferred to the new owner. 
   </source>
         <target xml:space="preserve" state="translated">
-Na {realitním stole|Real Estate Desk Item} mohou občané vytvářet nabídky svých listů vlastnictví a prohlížet si nabídky ostatních občanů. Všechny zveřejněné nabídky jsou dostupné z kteréhokoli realitního stolu.
+U {realitního stolu|Real Estate Desk Item} mohou občané vytvářet nabídky svých listů vlastnictví a prohlížet si nabídky ostatních občanů. Všechny zveřejněné nabídky jsou dostupné z kteréhokoli realitního stolu.
 
 Při vytváření nabídky vlastník majetku stanoví cenu a použitou {měnu|Currency}. Veškeré tržby poputují na vybraný {bankovní účet|Bank Accounts}.
 
@@ -363,7 +363,7 @@ The Remove Official from Office action allows citizens who have been given the a
         <target state="translated">
 U {vládního úřadu|Government Office Item} umožňuje komponenta občanské akce voleným funkcím odstoupit z funkce nebo odvolat jiné volené funkce.
 
-Akce „Odstoupit z funkce“ umožňuje každému držiteli volené funkce vzdát se své funkce. Pokud byla při vytvoření volené funkce nastavena funkce Nástupce, nový držitel funkce se náhodně vybere ze všech občanů, kteří tuto funkci Nástupce zastávají; jinak zůstane volená funkce neobsazená.
+Akce „Odstoupit z funkce“ umožňuje každému držiteli volené funkce vzdát se své funkce. Pokud byl při vytvoření volené funkce nastaven Nástupce (nástupnická funkce), nový držitel se náhodně vybere ze všech občanů, kteří tuto nástupnickou funkci zastávají; jinak zůstane volená funkce neobsazená.
 
 Akce „Odvolat úředníka z funkce“ umožňuje občanům, kterým byla udělena příslušná pravomoc, odvolat držitele volené funkce. Pro určení nástupce platí stejná pravidla, jako kdyby držitel funkce odstoupil.
 </target>
@@ -450,7 +450,7 @@ Mzdy se uživatelům funkce vyplácejí z kteréhokoli {bankovního účtu|Bank 
       </trans-unit>
       <trans-unit id="56" xml:space="preserve">
         <source xml:space="preserve">The World Default Currency is the default {Currency} used when placing a new object that contains the Credit Component. Citizens can still choose to use any currency in a {Trade}, but having a World Default Currency makes it is easier to establish an economy with a common currency.</source>
-        <target state="translated">Výchozí měna světa je výchozí {měna|Currency}, která se použije při umístění nového objektu s komponentou kreditu. Občané si v rámci {obchodu|Trade} mohou i tak zvolit libovolnou měnu, ale díky výchozí měně světa se snáze zavede ekonomika se společnou měnou.</target>
+        <target state="translated">Výchozí měna světa je výchozí {měna|Currency}, která se použije při umístění nového objektu s komponentou kreditu. Občané si i tak mohou při {obchodu|Trade} zvolit libovolnou měnu, ale díky výchozí měně světa se snáze zavede ekonomika se společnou měnou.</target>
       </trans-unit>
       <trans-unit id="57" xml:space="preserve">
         <source xml:space="preserve">Direct Taxes</source>
@@ -461,7 +461,7 @@ Mzdy se uživatelům funkce vyplácejí z kteréhokoli {bankovního účtu|Bank 
 	  
 Treasury management also includes the option to dump currency from the Treasury account. This will remove the currency permanently, so be careful when using this ability on backed currencies.
 	  </source>
-        <target state="translated">Volené funkce s právem „Může nastavovat daně státní pokladny“ mohou občany přímo zdanit nebo jim přidělit prostředky. Provádí se to správou požadované měny a výběrem občanů, na které se akce vztahuje. Volená funkce musí vždy uvést důvod, proč akci provádí, a tento důvod se zobrazí všem občanům.
+        <target state="translated">Volené funkce s právem „Může nastavovat daně státní pokladny“ mohou občany přímo zdanit nebo jim přidělit prostředky. Provede se to nastavením požadované měny a výběrem občanů, na které se akce vztahuje. Volená funkce musí vždy uvést důvod, proč akci provádí, a tento důvod se zobrazí všem občanům.
 	  
 Správa státní pokladny zahrnuje také možnost zahodit měnu z účtu státní pokladny. Měna se tím trvale odstraní, proto tuto možnost u měn s krytím používej opatrně.
 	  </target>
@@ -561,7 +561,7 @@ Once a project is started, labor can quickly be added from outside the Crafting 
         <target state="translated">
 Za každou potřebnou jednotku práce se spotřebují {kalorie|Nutrition}. Po zahájení zakázky mohou občané přidávat práci tlačítkem „Práce“ v komponentě výroby. 
 
-Jakmile je projekt zahájen, lze práci rychle přidat i mimo komponentu výroby, a to kliknutím pravým tlačítkem na výrobní stůl. Při tomto způsobu přidávání práce podržení klávesy „Ctrl“ přidá pětinásobek obvyklého množství práce. Podržení klávesy „Alt“ přidá všechny dostupné kalorie.
+Jakmile je projekt zahájen, lze práci rychle přidat i mimo komponentu výroby, a to kliknutím pravým tlačítkem na výrobní stůl. Přitom podržení klávesy „Ctrl“ přidá pětinásobek obvyklého množství práce a podržení klávesy „Alt“ přidá všechny dostupné kalorie.
   </target>
       </trans-unit>
       <trans-unit id="72" xml:space="preserve">
@@ -619,7 +619,7 @@ Some recipes have costs using Static Ingredients. Static ingredients are not aff
         <target state="translated">
 Vylepšení existují v pěti úrovních kvality. Vylepšení úrovně 1 sníží náklady na suroviny i dobu výroby o 10 %, přičemž každá další úroveň přidává další snížení.
 
-Výrobní stoly přijímají různé druhy vylepšení. Stoly z raných fází hry přijímají „Základní vylepšení“, zatímco pozdější stoly vyžadují „Pokročilá vylepšení“ nebo „Moderní vylepšení“. Každý druh vylepšení má pět úrovní kvality, přičemž nejvyšší úrovní je vylepšení specializace.
+Výrobní stoly přijímají různé druhy vylepšení. Stoly z raných fází hry přijímají „Základní vylepšení“, zatímco pozdější stoly vyžadují „Pokročilá vylepšení“ nebo „Moderní vylepšení“. Každý druh vylepšení má pět úrovní kvality, přičemž nejvyšší úrovní je „Vylepšení specializací“.
 
 Některé recepty mají náklady tvořené statickými ingrediencemi. Statické ingredience se snížením nákladů na suroviny neovlivní, ale recepty, které je obsahují, mají přesto kratší dobu výroby. 
 		</target>
@@ -637,7 +637,7 @@ Some specialties have different tiers of upgrades that correspond to different c
         <target state="translated">
 Nejvyšší úroveň vylepšení může vyrobit jen občan, který ve zvolené {specializaci|Specialties} dosáhl maximální úrovně. Na rozdíl od ostatních vylepšení poskytují tato vylepšení při výrobě receptů dané profese dodatečné snížení nákladů.
 
-Některé specializace mají vylepšení několika stupňů, která odpovídají různým výrobním stolům. Například dovednost {CarpentrySkill} má {CarpentryBasicUpgradeItem} pro stanici {CarpentryTableItem} a {CarpentryAdvancedUpgradeItem} pro stanici {SawmillItem}.
+Některé specializace mají vylepšení několika stupňů, která odpovídají různým výrobním stolům. Například dovednost {CarpentrySkill} má {CarpentryBasicUpgradeItem} pro {CarpentryTableItem} a {CarpentryAdvancedUpgradeItem} pro stanici {SawmillItem}.
   </target>
       </trans-unit>
       <trans-unit id="82" xml:space="preserve">
@@ -687,7 +687,7 @@ Pipes containing Sewage Output function similar to water pipes, but the {Sewage}
         <target state="translated">
 Objekty s vodním vstupem a čerpadla s vodním výstupem se propojují soustavou trubek. Soustava vodních trubek může mít více vstupů pro vodní čerpadla a více výstupů pro každý objekt, který vodu potřebuje.	
 
-V popisku vody v komponentě potrubí může občan zjistit, kolik vody objekt přesně produkuje nebo spotřebovává. Pokud se vody vyrábí málo, objekty začnou být neaktivní.
+V popisku vody v komponentě potrubí může občan zjistit, kolik vody objekt přesně produkuje nebo spotřebovává. Pokud se vyrábí málo vody, objekty se stanou neaktivními.
 
 Trubky s výstupem odpadní vody fungují podobně jako vodní trubky, ale {odpadní voda|Sewage}, kterou vedou, je zdrojem znečištění země. Po vynalezení {filtrů odpadních vod|Waste Filter Item} lze výstup odpadní vody zavést do filtru a znečištění země tak zmírnit.
 	</target>
@@ -738,7 +738,7 @@ Generátory energie, které spotřebovávají palivo, se stanou neaktivními, po
       </trans-unit>
       <trans-unit id="95" xml:space="preserve">
         <source xml:space="preserve">The Repair Component allows citizens to repair tools at a {ToolBenchItem}.</source>
-        <target state="translated">Komponenta opravy umožňuje občanům opravovat nástroje na stanici {ToolBenchItem}.</target>
+        <target state="translated">Komponenta opravy umožňuje občanům opravovat nástroje na {ToolBenchItem}.</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">
@@ -941,7 +941,7 @@ V Eco existují dva druhy měn: krytá a nekrytá.
 
 Nekrytá měna je tzv. fiat měna a každý hráč začíná s vlastní osobní měnou v nekonečném množství. Hodí se zejména na začátku hry, kdy ještě není určena žádná globální měna.  Takové měny však vyžadují velkou důvěru v to, že jejich majitel nebude s jejich hodnotou manipulovat; protože jich je neomezené množství, mohou snadno rozvrátit ekonomiku, která je používá.
 
-Kryté měny jsou mnohem stabilnější. Krytá měna se vytváří v {mincovně|Mint Component} přeměnou krycího materiálu na mince.  Další měnu lze vytvořit jen získáním dalšího množství daného materiálu.  Tím se množství měny, které lze do světa uvést, mnohem pevněji omezí, a vzniká pevnější základ pro globální obchod.  Jak ekonomika v průběhu hry roste a je potřeba víc globálního obchodu a spolupráce, svět se často rozhodne přejít od souboru osobních měn k jedné či více krytým měnám.
+Kryté měny jsou mnohem stabilnější. Krytá měna se vytváří v {mincovně|Mint Component} přeměnou krycího materiálu na mince.  Další měnu lze vytvořit jen získáním dalšího množství daného materiálu.  Tím se množství měny, které lze do světa uvést, mnohem přísněji omezí, a vzniká pevnější základ pro globální obchod.  Jak ekonomika v průběhu hry roste a je potřeba víc globálního obchodu a spolupráce, svět se často rozhodne přejít od souboru osobních měn k jedné či více krytým měnám.
 
 Měny lze posílat ostatním v Prohlížeči ekonomiky i prostřednictvím {obchodu|Trade}.  Veškerá měna je uložena na {bankovních účtech|Bank Accounts}.
 </target>
@@ -961,7 +961,7 @@ Měny lze posílat ostatním v Prohlížeči ekonomiky i prostřednictvím {obch
       <trans-unit id="121" xml:space="preserve">
         <source xml:space="preserve">The economy comprises the actions of harvesting, production and trade among citizens, taking from the {Ecosystem|Ecosystem Overview} under the regulation of the {Government|Government Overview}. Citizens will need to ensure a smoothly running economy in order to progress technology enough to stop the meteor, without letting it run amok and destroy the planet through pollution in the process.
   </source>
-        <target state="translated">Ekonomika zahrnuje získávání zdrojů, výrobu a obchod mezi občany, přičemž se čerpá z {ekosystému|Ecosystem Overview} pod dohledem {vlády|Government Overview}. Občané budou muset zajistit hladký chod ekonomiky, aby technologicky pokročili natolik, že zastaví meteor, a přitom nenechali ekonomiku vymknout se z rukou a znečištěním zničit planetu.
+        <target state="translated">Ekonomika zahrnuje získávání zdrojů, výrobu a obchod mezi občany, přičemž se čerpá z {ekosystému|Ecosystem Overview} pod dohledem {vlády|Government Overview}. Občané budou muset zajistit hladký chod ekonomiky, aby technologicky pokročili natolik, že zastaví meteor, a přitom ji nenechali vymknout se z rukou a znečištěním zničit planetu.
   </target>
       </trans-unit>
       <trans-unit id="122" xml:space="preserve">
@@ -1105,15 +1105,15 @@ Občan, který pracovní skupinu zadává, může určit různé parametry prác
  - Jaká odměna se vyplatí těm, kdo se zúčastní.
  - Jak se tato odměna rozdělí.
 
-Pracovní skupiny se obzvlášť hodí k provádění {výzkumu|Research}. Občan může založit výzkumný projekt, který stojí velké množství zdrojů, a připojit k němu pracovní skupinu. Občané se pak mohou do pracovní skupiny automaticky zapojit (i když zadávající občan není online, pokud splňují stanovené požadavky) a začít úkol plnit.
+Pracovní skupiny se obzvlášť hodí k provádění {výzkumu|Research}. Občan může založit výzkumný projekt, který stojí velké množství zdrojů, a připojit k němu pracovní skupinu. Občané se pak mohou do pracovní skupiny automaticky zapojit (i když zadávající občan není online – za předpokladu, že splňují stanovené požadavky) a začít úkol plnit.
 
 Odměna může mít různé podoby:
 - {Currency}, rozdělovaná podle toho, kolik práce kdo vykonal, a to buď okamžitě, nebo po dokončení.
-- {Reputation}, kterou tvůrce pracovní skupiny uděluje pracovníkovi (v rámci denních limitů udělitelné reputace).
-- Znalost určité specializace (stejný účinek jako přečtení svitku dovedností). Aby ji mohl poskytnout, musí tvůrce pracovní skupiny vlastnit knihu dovedností dané specializace, nebo se musí vyrobit v jedné z výrobních zakázek skupiny.
+- {Reputation}, kterou tvůrce pracovní skupiny uděluje pracovníkovi (platí přitom denní limity reputace k rozdání).
+- Znalost určité specializace (stejný účinek jako přečtení svitku dovedností). Aby ji mohl poskytnout, musí tvůrce pracovní skupiny vlastnit knihu dovedností dané specializace, nebo se tato kniha musí vyrobit v jedné z výrobních zakázek skupiny.
 - Udělení {funkce|Title}, která může pracovníkovi dát nová oprávnění k přístupu na pozemky a další schopnosti.
 
-Ekonomika Eco se zaměřuje nejen na obchod se zbožím, ale i na obchod s prací a pracovní skupiny usnadňují zadat mnoho druhů práce široké veřejnosti.
+Ekonomika Eco se zaměřuje nejen na obchod se zbožím, ale i na obchod s prací, a pracovní skupiny usnadňují zadat mnoho druhů práce široké veřejnosti.
   </target>
       </trans-unit>
       <trans-unit id="137" xml:space="preserve">
@@ -1133,11 +1133,11 @@ Biomes are ecosystems within the global ecosystem, and within biomes there are s
 Climate change may shift the boundaries of biomes, displacing communities-- some species will survive and adapt, but others will not be so resilient. Direct displacement of soil and other habitat destruction from activities like construction, farming, mining, and logging will also have an impact on species within biomes to differing degrees. Species of plants or animals might not only prefer particular biomes, but particular parts of sub-biomes, which will mean a greater impact if those highly localized areas are altered or destroyed. Resilient and adaptive species will be able to thrive across biome boundaries as they are altered, but those same species may become a threat to more sensitive plants or animals in the new biomes they are introduced to.
  </source>
         <target state="translated">
-Obrovskou rozmanitost a bohatství života na planetě lze zhruba rozdělit do oblastí zvaných biomy. Biomy v Eco jsou oblasti světa, které spadají do určitých rozmezí srážek a teploty. Díky těmto simulovaným fyzikálním rozdílům mohou v různých biomech přežít a prospívat různé druhy mikroorganismů, rostlin, hub a zvířat. Každý biom v Eco nabízí jedinečnou sadu zdrojů, které mohou hráči objevovat a získávat, aby na nich stavěli a pohánili své společnosti. Společenství živých organismů v každém biomu mají navzájem závislé vztahy, obvykle spojené se stanovištěm, potravou a půdou, a ty zase vznikají z přítomného podnebí a zdrojů země. 
+Obrovskou rozmanitost a bohatství života na planetě lze zhruba rozdělit do oblastí zvaných biomy. Biomy v Eco jsou oblasti světa, které spadají do určitých rozmezí srážek a teploty. Díky těmto simulovaným fyzikálním rozdílům mohou v různých biomech přežít a prospívat různé druhy mikroorganismů, rostlin, hub a zvířat. Každý biom v Eco nabízí jedinečnou sadu zdrojů, které mohou hráči objevovat a získávat, aby na nich stavěli a pohánili své společnosti. Společenství živých organismů v každém biomu jsou na sobě navzájem závislá, obvykle prostřednictvím stanoviště, potravy a půdy, které zase vznikají z místního podnebí a přítomných zdrojů země. 
   
 Biomy jsou ekosystémy uvnitř globálního ekosystému a uvnitř biomů se někdy vyskytují další členění neboli „dílčí biomy“, například náhorní poušť, prérie s vysokou trávou, ledovcový led v tundře nebo mořská pobřeží. Biomy a dílčí biomy jsou souvislé celky a řada z nich má omezení, vedle kterých biomů nebo uvnitř kterých biomů se mohou nacházet. Časem, jak se vlivem hráčů mění podmínky, mohou být biomy radikálně přetvořeny. 
 
-Změna klimatu může posunout hranice biomů a vytlačit tamní společenství – některé druhy přežijí a přizpůsobí se, ale jiné tak odolné nebudou. Přímé přemisťování půdy a další ničení stanovišť při činnostech, jako je výstavba, zemědělství, hornictví a kácení lesa, bude mít na druhy v biomech rovněž dopad, každý v jiné míře. Druhy rostlin nebo zvířat mohou preferovat nejen určité biomy, ale i určité části dílčích biomů, což znamená větší dopad, pokud se tyto velmi místní oblasti změní nebo zničí. Odolné a přizpůsobivé druhy budou moci prosperovat i přes hranice biomů, jak se budou měnit, ale tytéž druhy mohou ohrozit citlivější rostliny nebo zvířata v nových biomech, kam se dostanou.
+Změna klimatu může posunout hranice biomů a vytlačit tamní společenství – některé druhy přežijí a přizpůsobí se, ale jiné tak odolné nebudou. Přímé přemisťování půdy a další ničení stanovišť při činnostech, jako je výstavba, zemědělství, hornictví a kácení lesa, bude mít na druhy v biomech rovněž dopad, každý v jiné míře. Druhy rostlin nebo zvířat mohou preferovat nejen určité biomy, ale i určité části dílčích biomů, což znamená větší dopad, pokud se tyto velmi místní oblasti změní nebo zničí. Odolné a přizpůsobivé druhy budou moci prosperovat i za změněných hranic biomů, ale tytéž druhy mohou ohrozit citlivější rostliny nebo zvířata v nových biomech, kam se dostanou.
  </target>
       </trans-unit>
       <trans-unit id="140" xml:space="preserve">
@@ -1175,7 +1175,7 @@ Chladný les: Biom dost vlhký na hustý stromový porost a dost chladný na to,
 Teplý les: Biom dost vlhký na hustý stromový porost a dost teplý na to, aby tam převládaly listnaté stromy.
 Deštný prales: Vlhký a teplý biom, kde roste les oplývající rostlinným i živočišným životem.
 Tajga: Chladný a poněkud suchý biom s řídkým lesem jehličnanů.
-Tundra: Velmi chladný biom, kde stromy neporostou, ale žije tam jedinečné společenství rostlin a zvířat.
+Tundra: Velmi chladný biom, kde stromy nemohou růst, ale žije tam jedinečné společenství rostlin a zvířat.
 Led: Nejchladnější oblasti souše, pokryté ledovcovým ledem. 
 
 V Eco je zatím také několik dílčích biomů:
@@ -1201,7 +1201,7 @@ Graphs are most useful for comparing the states of various metrics and viewing t
         <target state="translated">
 Každý svět Eco ukládá každou akci ve hře a sleduje vývoj všech částí simulace. Data se ukládají do několika hlavních kategorií, konkrétně do ekosystému a ekonomiky. Jak hráči provádějí akce nebo jak se mění ekosystém, projeví se to na grafech, které mohou občané vidět.
 
-Grafy se nejlépe hodí k porovnávání stavů různých ukazatelů a k jejich sledování v čase. Proto se zvlášť hodí k dodatečnému posouzení výsledků zákonů a předpisů – zkoumáním, jak se věci po jejich zavedení změnily.  Hodí se i k odhadu budoucích dopadů: podle grafů lze předpovídat tempo, jakým se věci mění (například úbytek populace následkem odlesňování), a zasáhnout dřív, než k tomu dojde. Číst, sestavovat a chápat grafy je pro vládu velmi silný nástroj a občané dostávají nástroje k tvorbě grafů, které podporují nebo vyvracejí argumenty, a mohou je předkládat spoluobčanům přímo v diskusích o občanských akcích.
+Grafy se nejlépe hodí k porovnávání stavů různých ukazatelů a k jejich sledování v čase. Proto jsou užitečné zejména při dodatečném posouzení výsledků zákonů a předpisů – zkoumáním, jak se věci po jejich zavedení změnily.  Pomáhají i při odhadu budoucích dopadů: podle grafů lze předpovídat tempo, jakým se věci mění (například úbytek populace následkem odlesňování), a zasáhnout dřív, než k tomu dojde. Číst, sestavovat a chápat grafy je pro vládu velmi silný nástroj a občané mají k dispozici prostředky k tvorbě grafů, které podporují nebo vyvracejí argumenty, a mohou je předkládat spoluobčanům přímo v diskusích o občanských akcích.
 </target>
       </trans-unit>
       <trans-unit id="145" xml:space="preserve">
@@ -1215,9 +1215,9 @@ Eco worlds are varied places, with many different biomes and locations of human 
 Players can view these in two ways: through the minimap in game, which can also display colored terrain in the game.   Secondly, they can be viewed in the web browser, where their ability to play back over time is taken advantage of. A snapshot of each heatmap is stored in the server data every 10 minutes (configurable), and citizens can view time lapse views of how the heat maps change over time.  This is essential to measuring impacts in specific locations and determining the best routes to build infrastructures and new settlements.
 </source>
         <target state="translated">
-Světy Eco jsou rozmanitá místa s mnoha různými biomy a místy lidského rozvoje a dopadů na životní prostředí. Aby bylo vidět, jak se různé části světa liší, jsou k dispozici teplotní mapy pro všechny různé světové efekty ve hře.  Teplotními mapami lze zobrazit hodnoty jako aktivita občanů, vývoj populace, míra znečištění, teplota, vlhkost a desítky dalších, přičemž se změny zaznamenávají v čase, lze je přehrát a použít jako vědecký argument.
+Světy Eco jsou rozmanitá místa s mnoha různými biomy a místy lidského rozvoje a dopadů na životní prostředí. Aby bylo vidět, jak se různé části světa liší, jsou k dispozici teplotní mapy pro všechny různé jevy ve světě hry.  Teplotními mapami lze zobrazit hodnoty jako aktivita občanů, vývoj populace, míra znečištění, teplota, vlhkost a desítky dalších, přičemž se změny zaznamenávají v čase, lze je přehrát a použít jako vědecký argument.
 
-Hráči si je mohou prohlížet dvěma způsoby: v minimapě ve hře, která umí zobrazit i barevný terén.   Za druhé je lze prohlížet ve webovém prohlížeči, kde se využívá možnost přehrávání v čase. Snímek každé teplotní mapy se ukládá do dat serveru každých 10 minut (lze nastavit) a občané si mohou prohlížet časosběrné záběry toho, jak se teplotní mapy v čase mění.  To je zásadní pro měření dopadů na konkrétních místech a pro určení nejlepších tras pro stavbu infrastruktury a nových osad.
+Hráči si je mohou prohlížet dvěma způsoby: v minimapě ve hře, která umí zobrazit i barevný terén.   Druhou možností je webový prohlížeč, kde se využívá možnost přehrávání v čase. Snímek každé teplotní mapy se ukládá do dat serveru každých 10 minut (lze nastavit) a občané si mohou prohlížet časosběrné záběry toho, jak se teplotní mapy v čase mění.  To je zásadní pro měření dopadů na konkrétních místech a pro určení nejlepších tras pro stavbu infrastruktury a nových osad.
 </target>
       </trans-unit>
       <trans-unit id="147" xml:space="preserve">
@@ -1231,7 +1231,7 @@ The map is a powerful tool within the game that serves many purposes: navigation
 Currently we’re working on adding in-game designation of property and districts, as well as specifying land areas for work parties and contracts, allowing for example citizens to highlight in-game the areas they wish to hire others to plow a field, or build a road, etc. This will greatly open up the ability for the labor market, letting citizens be much more specific in an easier way when designating where they would like work to be performed.
 </source>
         <target state="translated">
-Mapa je ve hře silný nástroj, který slouží mnoha účelům: navigaci, plánování, zobrazení dat, hledání pozemků a mnoha dalším. Lze ji zapnout tak, aby zobrazovala různé světové vrstvy hry (teplotní mapy) a barevným přechodem zvýrazňovala oblasti s vysokou či nízkou populací, znečištěním, aktivitou občanů apod.  Světové značky lze přidávat ručně nebo globálně pro všechny občany, aby ukazovaly na konkrétní body a pomáhaly koordinovat činnost lidí. Tyto značky se také používají k automatickému navádění občanů k dynamické práci – určují, kde se mají podle smlouvy stavět cesty, kam se má doručit zboží k přepravě a podobně.
+Mapa je ve hře silný nástroj, který slouží mnoha účelům: navigaci, plánování, zobrazení dat, hledání pozemků a mnoha dalším. Lze ji zapnout tak, aby zobrazovala různé vrstvy světa hry (teplotní mapy) a barevným přechodem zvýrazňovala oblasti s vysokou či nízkou populací, znečištěním, aktivitou občanů apod.  Světové značky lze přidávat ručně nebo globálně pro všechny občany, aby ukazovaly na konkrétní body a pomáhaly koordinovat činnost lidí. Tyto značky se také používají k automatickému navádění občanů k dynamické práci – určují, kde se mají podle smlouvy stavět cesty, kam se má doručit zboží k přepravě a podobně.
 
 V současné době pracujeme na přidání možnosti označovat ve hře pozemky a čtvrti a určovat oblasti půdy pro pracovní skupiny a smlouvy, takže například občané budou moci ve hře označit oblasti, kde chtějí najmout jiné, aby zorali pole nebo postavili cestu apod. Tím se výrazně rozšíří možnosti trhu práce a občané budou moci snadněji a mnohem přesněji určit, kde chtějí práci provést.
 </target>
@@ -1253,9 +1253,9 @@ The ecosystem in Eco runs on a continuous simulation, active as long as the serv
 </source>
         <target state="translated">
 
-Ekosystém je v Eco cílem sám o sobě a jeho trvalá prosperita je vedle ekonomického pokroku hlavním cílem hry. To znamená, že ekosystém začíná ve stavu výhry a hráči musí využívat jeho zdroje, aniž by ho přivedli do stavu prohry, což by znamenalo zkázu lidstva.
+Ekosystém je v Eco hodnotou sám o sobě a jeho trvalá prosperita je vedle ekonomického pokroku hlavním cílem hry. To znamená, že ekosystém začíná ve stavu výhry a hráči musí využívat jeho zdroje, aniž by ho přivedli do stavu prohry, což by znamenalo zkázu lidstva.
 
-Ekosystém v Eco běží na nepřetržité simulaci, která je aktivní, dokud běží server, ať jsou hráči ve hře, nebo ne. Každá simulovaná rostlina a každé zvíře roste, spotřebovává zdroje potravy a rozmnožuje se. Je to jediný zdroj materiálů, z nichž musí hráči budovat svou společnost, a jejich získávání ho velmi ovlivní. Skácení lesa může zničit stanoviště nějakého tvora a přivést ho k vyhynutí. Hlušina z dolů může znečistit okolní řeky a jezera a otrávit farmy, které na nich závisejí. Činnosti hráčů v Eco ovlivňují jejich prostředí a hráči budou muset pochopit, jaký dopad mají, aby mohli prosperovat a zastavit meteor. Nechat ekosystém v neposkvrněném, nedotčeném stavu není možnost; meteor zajistí, že i tato volba povede ke zničení ekosystému. Aby ho občané zachránili, musí z něj brát: budovat společnost, která má sílu zastavit meteor, a přitom mít dost sebeovládání, aby ekosystém nezničila.
+Ekosystém v Eco běží na nepřetržité simulaci, která je aktivní, dokud běží server, ať jsou hráči ve hře, nebo ne. Každá simulovaná rostlina a každé zvíře roste, spotřebovává zdroje potravy a rozmnožuje se. Je to jediný zdroj materiálů, z nichž musí hráči budovat svou společnost, a jejich získávání ho velmi ovlivní. Skácení lesa může zničit stanoviště nějakého tvora a přivést ho k vyhynutí. Hlušina z dolů může znečistit okolní řeky a jezera a otrávit farmy, které na nich závisejí. Činnosti hráčů v Eco ovlivňují jejich prostředí a hráči budou muset pochopit, jaký dopad mají, aby mohli prosperovat a zastavit meteor. Nechat ekosystém v neposkvrněném, nedotčeném stavu nepřipadá v úvahu; meteor zajistí, že i tato volba povede ke zničení ekosystému. Aby ho občané zachránili, musí z něj brát: budovat společnost, která má sílu zastavit meteor, a přitom mít dost sebeovládání, aby ekosystém nezničila.
 </target>
       </trans-unit>
       <trans-unit id="152" xml:space="preserve">
@@ -1273,7 +1273,7 @@ Ekosystém v Eco běží na nepřetržité simulaci, která je aktivní, dokud b
       <trans-unit id="155" xml:space="preserve">
         <source xml:space="preserve">As citizens progress society, they must beware the ‘Tragedy of the Commons’; that giving a population unfettered access to a common resource will frequently result in its destruction. To prevent this, citizens must organize, deciding rules for the common good through {Laws} and other civic regulations which may limit the individual but allow the group to survive. This conflict, the individual vs the group, forms the heart of the challenge of building a civilization.
   </source>
-        <target state="translated">Jak občané posouvají společnost vpřed, musí si dávat pozor na „tragédii obecní pastviny“: neomezený přístup obyvatel ke společnému zdroji totiž často vede k jeho zničení. Aby tomu zabránili, musí se občané organizovat a pomocí {zákonů|Laws} a dalších občanských předpisů, které sice mohou omezit jednotlivce, ale umožní skupině přežít, určovat pravidla pro společné dobro. Tento střet jednotlivce se skupinou je jádrem výzvy, kterou je budování civilizace.
+        <target state="translated">Jak občané posouvají společnost vpřed, musí si dávat pozor na „tragédii obecní pastviny“: neomezený přístup obyvatelstva ke společnému zdroji totiž často vede k jeho zničení. Aby tomu zabránili, musí se občané organizovat a určovat pravidla pro společné dobro pomocí {zákonů|Laws} a dalších občanských předpisů, které sice mohou omezit jednotlivce, ale umožní skupině přežít. Tento střet jednotlivce se skupinou je jádrem výzvy, kterou je budování civilizace.
   </target>
       </trans-unit>
       <trans-unit id="156" xml:space="preserve">
@@ -1293,7 +1293,7 @@ Zemědělství je způsob, jak vzít rostlinné druhy nejužitečnější pro li
 
 Farmáři budou muset věnovat pozornost zdrojům a zdraví své půdy a předcházet jejímu vyčerpání a znečištění. Hnojiva jako {kompostové hnojivo|CompostFertilizerItem} a způsoby sledování půdních zdrojů, například {vzorkovač půdy|SoilSamplerItem}, budou důležitými nástroji k udržení úrodnosti zemědělské půdy. Různá vozidla, skladovací technologie a výkonnější ruční nástroje umožní hráčům rozšiřovat zemědělství s tím, jak porostou potřeby jejich společností na jídlo a palivo.
 
-Zemědělství je v Eco velká činnost, kterou chceme při dalším vývoji vylepšovat a rozšiřovat. Na začátku bude jádrem vylepšení zemědělství vyvážení a skladování: chceme zajistit, aby společnosti v Eco vytvářely u farmářů přiměřenou poptávku, která pohání technologický růst, a aby existovaly skladovací objekty a mechaniky, které tuto poptávku podpoří. Samotné zemědělství nabízí mnoho možných vylepšení a rozšíření, mezi nimi vývoj a úpravy semen a organismů, aby byly produktivnější nebo odolnější vůči znečištění či jiným vlivům prostředí.
+Zemědělství je v Eco rozsáhlá činnost, kterou chceme při dalším vývoji vylepšovat a rozšiřovat. Na začátku bude jádrem vylepšení zemědělství vyvážení a skladování: chceme zajistit, aby společnosti v Eco vytvářely u farmářů přiměřenou poptávku, která pohání technologický růst, a aby existovaly skladovací objekty a mechaniky, které tuto poptávku podpoří. Samotné zemědělství nabízí mnoho možných vylepšení a rozšíření, mezi nimi vývoj a úpravy semen a organismů, aby byly produktivnější nebo odolnější vůči znečištění či jiným vlivům prostředí.
   </target>
       </trans-unit>
       <trans-unit id="158" xml:space="preserve">
@@ -1307,9 +1307,9 @@ The soil of Eco contains nutrients that allow plants to grow and thrive: too muc
 As we increase the dependencies of the animals on the plant layers, we can have those parts of the ecosystems further affect the soil as species that consume plants can also remove nutrients from the soil. Another addition that can be considered is how topsoil exists within Eco: currently it’s purely cosmetic and tied to the biome of the area, but in each biome the topsoil is a unique and valuable resource compared to the dense clay and dirt below.
 </source>
         <target state="translated">
-Půda v Eco obsahuje živiny, které umožňují rostlinám růst a prospívat: příliš mnoho nebo příliš málo kterékoli živiny může změnit výnos i rychlost růstu volně rostoucích i pěstovaných rostlin. Jak rostliny rostou, berou z půdy živiny a po odumření je vracejí, čímž se svět dostává do přirozené rovnováhy. Hráči tyto změny ovlivňují tím, že rostliny z prostředí odstraňují sklizní, kácením lesa, hornictvím nebo vnášením znečištění, které z půdy pomalu odčerpává živiny. Živiny mohou hráči do půdy vracet nebo stávající poměry upravovat hnojivy na svých pozemcích.
+Půda v Eco obsahuje živiny, které umožňují rostlinám růst a prospívat: příliš mnoho nebo příliš málo kterékoli živiny může změnit výnos i rychlost růstu volně rostoucích i pěstovaných rostlin. Jak rostliny rostou, berou z půdy živiny a po odumření je vracejí, čímž se svět dostává do přirozené rovnováhy. Hráči tyto změny ovlivňují tím, že rostliny z prostředí odstraňují sklizní, kácením lesa, hornictvím nebo tím, že vnášejí znečištění, které z půdy pomalu odčerpává živiny. Živiny mohou hráči do půdy vracet nebo stávající poměry upravovat hnojivy na svých pozemcích.
 
-Jak budeme zvyšovat závislost zvířat na rostlinných vrstvách, budou moci tyto části ekosystému půdu ovlivňovat dál, protože druhy, které se živí rostlinami, mohou z půdy také odčerpávat živiny. Další možný dodatek se týká toho, jak v Eco existuje ornice: zatím je čistě kosmetická a vázaná na biom dané oblasti, ale v každém biomu je ornice jedinečným a cenným zdrojem ve srovnání s hustým jílem a hlínou pod ní.
+Jak budeme zvyšovat závislost zvířat na rostlinných vrstvách, budou moci tyto části ekosystému půdu ovlivňovat dál, protože druhy, které se živí rostlinami, mohou z půdy také odčerpávat živiny. Další možný dodatek se týká podoby ornice v Eco: zatím je čistě kosmetická a vázaná na biom dané oblasti, ale v každém biomu je ornice jedinečným a cenným zdrojem ve srovnání s hustým jílem a hlínou pod ní.
 </target>
       </trans-unit>
       <trans-unit id="160" xml:space="preserve">
@@ -1333,7 +1333,7 @@ Země pod tebou ukrývá obrovské množství surovin, jako jsou horniny, kovy a
 To mine ore, first you must locate it. Ores in Eco are each hosted in particular host rocks, so learning which rocks have the type of ore you want and then digging near rocks of those type is a good way to start. Use a {WoodenShovelItem} or better to dig away soil from the surface or start digging into a hill from the side. Once you hit rock you want to go through, you'll need to use a pickaxe like the {StonePickaxeItem} to break it. When breaking rocks with the pickaxe, sometimes you'll break off a larger piece of rock that needs to be hit again to break into pieces small enough to pick up. It's a good idea to pick up rock as you break it, and stack it elsewhere for use, preferably in a {StockpileItem} or vehicle you're using to transport your ore like a {WoodCartItem}.
 </source>
         <target state="translated">
-Chceš-li těžit rudu, musíš ji nejdřív najít. Každá ruda v Eco se vyskytuje v určité hostitelské hornině, takže dobrý začátek je zjistit, které horniny obsahují rudu, kterou chceš, a kopat poblíž hornin tohoto druhu. K odkopání půdy z povrchu nebo k zahájení kopání do kopce z boku použij {dřevěnou lopatu|WoodenShovelItem} nebo lepší nástroj. Jakmile narazíš na horninu, kterou chceš prokopat, budeš ji muset rozbít krumpáčem, například {kamenným krumpáčem|StonePickaxeItem}. Při rozbíjení hornin krumpáčem se někdy odlomí větší kus, který je třeba udeřit znovu, aby se rozpadl na kousky dost malé na to, aby šly sebrat. Horninu je dobré sbírat hned, jak ji rozbiješ, a ukládat ji jinam k pozdějšímu použití, nejlépe do {skladu|StockpileItem} nebo do vozidla, kterým rudu převážíš, například do {dřevěného vozíku|WoodCartItem}.
+Chceš-li těžit rudu, musíš ji nejdřív najít. Každá ruda v Eco se vyskytuje v určité hostitelské hornině, takže dobrý začátek je zjistit, které horniny obsahují rudu, kterou chceš, a kopat poblíž hornin tohoto druhu. K odkopání půdy z povrchu nebo k zahájení kopání do kopce z boku použij {dřevěnou lopatu|WoodenShovelItem} nebo lepší nástroj. Jakmile narazíš na horninu, kterou chceš prokopat, budeš ji muset rozbít krumpáčem, například {kamenným krumpáčem|StonePickaxeItem}. Při rozbíjení hornin krumpáčem se někdy odlomí větší kus, který je třeba udeřit znovu, aby se rozpadl na kousky dost malé, aby je šlo sebrat. Horninu je dobré sbírat hned, jak ji rozbiješ, a ukládat ji jinam k pozdějšímu použití, nejlépe do {skladu|StockpileItem} nebo do vozidla, kterým rudu převážíš, například do {dřevěného vozíku|WoodCartItem}.
 </target>
       </trans-unit>
       <trans-unit id="164" xml:space="preserve">
@@ -1349,11 +1349,11 @@ Concentration: Concentration is a way to separate the desired metals in an ore r
 Smelting: Once you have precious ore concentrate, you can at last smelt it into metal products like {IronBarItem} at a {BloomeryItem} or using a more advanced smelting technology. 
 </source>
         <target state="translated">
-Jakmile nashromáždíš velké množství kovové rudy, musíš ji zpracovat, než z ní budeš moci vyrábět kovové výrobky. Je to špinavý a nákladný proces a jeho optimalizace i naložení s vedlejšími produkty bude trvalým předmětem úvah. Tři hlavní kroky zpracování nerostů jsou:
+Jakmile nashromáždíš velké množství kovové rudy, musíš ji zpracovat, než z ní budeš moci vyrábět kovové výrobky. Je to špinavý a nákladný proces a jeho optimalizace i nakládání s vedlejšími produkty bude trvalým předmětem úvah. Tři hlavní kroky zpracování nerostů jsou:
 
 Drcení: Drcení znamená rozdrtit horninu na menší částice, které lze dále zpracovávat. Hlavním vedlejším produktem tohoto procesu je drcená hornina, ve které se ruda nachází.
 Koncentrace: Koncentrace je způsob, jak oddělit požadované kovy v rudné hornině od odpadní horniny. Tento proces nikdy není dokonalý a nevyhnutelně vzniká velké množství odpadní horniny, která stále obsahuje stopy uvolněných kovů. Tato odpadní hornina se stopami těžkých kovů se nazývá {hlušina|TailingsItem}. {Měděná ruda|CopperOreItem} a {zlatá ruda|GoldOreItem} vyžadují k oddělení od hostitelských hornin chemické loužení a mokré zpracování, a proto při koncentraci vzniká více znečištěné a těkavé {mokré hlušiny|WetTailingsItem}.  
-Tavení: Jakmile máš koncentrát cenné rudy, můžeš jej konečně vytavit na kovové výrobky, například {železné ingoty|IronBarItem}, v {dýmačce|BloomeryItem} nebo pomocí pokročilejší technologie tavení. 
+Tavení: Jakmile máš koncentrát cenné rudy, můžeš z něj konečně vytavit kov, například {železné ingoty|IronBarItem}, v {dýmačce|BloomeryItem} nebo pomocí pokročilejší technologie tavení. 
 </target>
       </trans-unit>
       <trans-unit id="166" xml:space="preserve">
@@ -1403,7 +1403,7 @@ Many player activities create harmful emissions which if released into the atmos
 Where air pollution meets rainfall, it comes back down as acid rain and feeds the Acid Rain layer of the claim it was emitted on — which then spreads outward like any other ground pollution. Emissions are therefore never only an air problem: an unfiltered smokestack slowly sours the land around it, and a row of them sours it together.
 </source>
         <target state="translated">
-Mnoho činností hráčů vytváří škodlivé emise, které po uvolnění do atmosféry působí jako znečištění ovzduší. Výroba na objektech s výstupem CO2 nebo provoz generátorů s takovým výstupem přispívá k místní i globální úrovni znečištění. Během dlouhých období přispívá globální hladina CO2 ke globálnímu oteplování, které zase ovlivňuje hladinu moře. Některé znečišťující látky, například CO2, mají přirozené pohlcovače, například lesy.
+Mnoho činností hráčů vytváří škodlivé emise, které po uvolnění do atmosféry působí jako znečištění ovzduší. Výroba na objektech s výstupem CO2 nebo provoz generátorů s takovým výstupem přispívá k místní i globální úrovni znečištění. Během dlouhých období přispívá globální hladina CO2 ke globálnímu oteplování, které zase ovlivňuje hladinu moře. Některé znečišťující látky, například CO2, mají přirozené pohlcovače, jako jsou lesy.
 
 Tam, kde se znečištění ovzduší setká s deštěm, spadne zpět jako kyselý déšť a přibude ve vrstvě kyselého deště na záboru, na kterém bylo vypuštěno; ta se pak šíří ven jako každé jiné znečištění země. Emise proto nikdy nejsou jen problémem ovzduší: nefiltrovaný komín pomalu okyseluje půdu kolem sebe a řada komínů ji okyseluje společně.
 </target>
@@ -1423,7 +1423,7 @@ Because open water only reflects its sources, there is nothing in it to scrub ou
         <target state="translated">
 Voda sama žádné znečištění nemá; nese to, co jí dá země. Kde vlečka dosáhne vody, šíří se zhruba třikrát dál než po souši a odpovídajícím způsobem se ředí: dlouhý slabý ocas protažený přes jezero nebo do otevřeného moře. Hromada hlušiny na břehu řeky znečistí mnohem víc než jen ten břeh.
 
-Druhou cestou, jak se voda stává problémem, je potrubí. Odpadní kapalina vypuštěná z otevřeného konce potrubí otráví zem, na kterou dopadne, přičemž každá kapalina živí svou vlastní vrstvu: {odpadní voda|SewageItem} znečišťuje půdu, {průmyslové odpadní vody|IndustrialSewageItem} nesou těžké kovy a {chemický odpad|ChemicalWasteFluidItem} je tak žíravý, že tvoří vlastní kategorii. Pošli je raději do {filtru odpadních vod|WasteFilterItem} a vyjdou jako {voda|WaterItem}, dost čistá na vypuštění nebo opětovné použití, a pevné látky, které nesly, se zachytí, aby šly uložit nebo recyklovat.
+Druhou cestou, jak se voda stává problémem, je potrubí. Odpadní kapalina vypuštěná z otevřeného konce potrubí otráví zem, na kterou dopadne, přičemž každá kapalina živí svou vlastní vrstvu: {odpadní voda|SewageItem} znečišťuje půdu, {průmyslové odpadní vody|IndustrialSewageItem} nesou těžké kovy a {chemický odpad|ChemicalWasteFluidItem} je tak žíravý, že tvoří vlastní kategorii. Pošli je raději do {filtru odpadních vod|WasteFilterItem} a vyjdou jako {voda|WaterItem}, dost čistá na vypuštění nebo opětovné použití, a pevné látky, které nesly, se zachytí, aby je šlo uložit nebo recyklovat.
 
 Protože otevřená voda jen odráží své zdroje, nelze z ní nic přímo odstranit. Zadrž nebo odstraň zdroje na břehu, sanuj zábory, které ji živí, a voda se vyčistí spolu s nimi.
 </target>
@@ -1441,7 +1441,7 @@ Producing less waste to begin with is the other half of the answer. A {GarbageSo
         <target state="translated">
 Správné uskladnění znečišťujícího materiálu je nejlevnější způsob, jak ho udržet mimo zem. Znečišťující blok pohozený na volném prostranství přispívá celým svým množstvím a pozor, stejně tak přispívá týž materiál ležící v obyčejné bedně: jen k tomu určené uskladnění něco zadrží. {Primitivní popelnice|PrimitiveBinItem} udrží 20 % toho, co obsahuje, mimo půdu, {moderní popelnice|ModernGarbageBinItem} 60 % a {kontejner na odpad|DumpsterGarbageItem} 90 %. Žádná z nich není dokonalá: dostatečně velká skládka stále otráví zábor, na kterém stojí, ať je sebelépe naskládaná.
 
-Druhou polovinou řešení je produkovat odpadu méně už od začátku. {Třídič odpadu|GarbageSorterItem} rozdělí směsný odpad na materiály, které lze recyklovat a znovu použít, a {třídič zbytkového odpadu|ResidualWasteSorterItem} totéž udělá se zbytky průmyslové výroby, takže zůstane menší objem skutečně nepoužitelného odpadu. Místo pro to, co zbude, je přesto třeba vyhradit, a kam se toto místo umístí, má být promyšleným rozhodnutím celé společnosti, a ne náhodou podle toho, kde se vozíky zastavily.
+Druhou polovinou řešení je produkovat odpadu méně už od začátku. {Třídič odpadu|GarbageSorterItem} rozdělí směsný odpad na materiály, které lze recyklovat a znovu použít, a {třídič zbytkového odpadu|ResidualWasteSorterItem} totéž udělá se zbytky průmyslové výroby, takže zůstane menší objem skutečně nepoužitelného odpadu. Místo pro to, co zbude, je přesto třeba vyhradit, a kde bude, má být promyšleným rozhodnutím celé společnosti, a ne náhodou podle toho, kde se vozíky zastavily.
 </target>
       </trans-unit>
       <trans-unit id="176" xml:space="preserve">
@@ -1459,7 +1459,7 @@ Defining the rules of the government is very important for keeping it a stable, 
 
 Články ústavy lze přidat na dvou místech.  V {kapitolu|CapitolItem} můžeš přidat až tři a na {dodatcích|AmendmentsItem} až dalších 10 na každý předmět.
 
-Vymezení pravidel vlády je velmi důležité pro to, aby zůstala stabilní strukturou, která společnost podporuje. Vládám lze zákony svěřit velkou moc nad světem a hrozí nebezpečí, že bude tato moc zneužita. Nastavením systému brzd a protivah mohou občané navrhnout vládu, která projde řadou změn, včetně změn ve vedení, a přitom si zachová schopnost přinášet světu pozitivní změny.
+Vymezení pravidel vlády je velmi důležité pro to, aby zůstala stabilní strukturou, která společnost podporuje. Vládám lze zákony svěřit velkou moc nad světem a hrozí nebezpečí, že bude tato moc zneužita. Nastavením systému brzd a protiváh mohou občané navrhnout vládu, která projde řadou změn, včetně změn ve vedení, a přitom si zachová schopnost přinášet světu pozitivní změny.
 </target>
       </trans-unit>
       <trans-unit id="178" xml:space="preserve">
@@ -1479,10 +1479,10 @@ Note: A forthcoming update of Eco will allow multiple concurrent governments.</s
         <target xml:space="preserve" state="translated">Ústava je zakládající dokument, který určuje, jak bude společnost spravována.  Ústava musí vzniknout dřív než jakýkoli jiný vládní objekt. Vytváří se v {kapitolu|CapitolItem}.
  
 Ratifikace ústavy
-Jakmile je kapitol umístěn, lze ústavu navrhnout otevřením kapitolu a kliknutím na Vytvořit koncept ratifikačních voleb. Než zahájíš hlasování, můžeš do voleb přidat další ustanovení ({volené funkce|Elected Titles}, {volební procesy|Election Processes} atd.). Na tato ustanovení se pak lze odkazovat v konceptu ústavy.
+Jakmile je kapitol umístěn, lze ústavu navrhnout otevřením kapitolu a kliknutím na „Vytvořit koncept ratifikačních voleb“. Než zahájíš hlasování, můžeš do voleb přidat další ustanovení ({volené funkce|Elected Titles}, {volební procesy|Election Processes} atd.). Na tato ustanovení se pak lze odkazovat v konceptu ústavy.
 
 Svržení vlády
-Pokud už je aktivní nějaká ústava, lze navrhnout novou, která ji nahradí, jestliže hodnota bydlení v místnosti nového kapitolu převýší hodnotu stávajícího kapitolu o výrazné množství, podle nastavení serveru.
+Pokud už je aktivní nějaká ústava, lze navrhnout novou, která ji nahradí, jestliže hodnota bydlení v místnosti nového kapitolu výrazně převýší hodnotu stávajícího kapitolu – o kolik, určuje nastavení serveru.
  
 Poznámka: Připravovaná aktualizace Eco umožní více vlád současně.</target>
       </trans-unit>
@@ -1523,7 +1523,7 @@ Districts can be used to designate where actions are allowed with laws. A law ca
 </source>
         <target state="translated">Čtvrti vytvářejí hráči v {úřadu územního plánu|ZoningOfficeItem} a lze je použít jako oblasti, na které se odkazují zákony.
 
-Čtvrť je vybraná oblast země, která nemusí být souvislá a kterou mohou hráči libovolně upravovat. Čtvrti jsou obsaženy v mapách čtvrtí a ve světě může být více map čtvrtí. V rámci jedné mapy čtvrtí se však žádné čtvrti nesmějí překrývat.
+Čtvrť je vybraná oblast země, která nemusí být souvislá a kterou mohou hráči libovolně upravovat. Čtvrti patří do map čtvrtí a ve světě může být těchto map více. V rámci jedné mapy čtvrtí se však žádné čtvrti nesmějí překrývat.
 
 Čtvrti lze využít k tomu, aby zákony určovaly, kde jsou akce povoleny. Hráči mohou například vytvořit zákon, který zakazuje kácení stromů ve čtvrti „Chráněná zóna“.
 </target>
@@ -1565,7 +1565,7 @@ Při vytváření volené funkce lze přidělit tato oprávnění:
   - Nastavování daňové sazby ve {státní pokladně|TreasuryItem}
   - Přístup k utrácení prostředků na bankovním účtu státní pokladny
   - Vládní bankovní oprávnění vytvářet vládní bankovní účty, které se nezapočítávají do osobního bohatství
-  - Možnost umístit globální značku na mapu, jíž se občané upozorní na zajímavé místo
+  - Možnost umístit globální značku na mapu, která občany upozorní na zajímavé místo
 
 Voleným funkcím lze přiřadit mzdy, které se pravidelně vyplácejí občanům, kteří funkci zastávají.
   </target>
@@ -1585,7 +1585,7 @@ Each Election Process can define a different set of voters, vetoers, timings, pe
 
 {Civic Articles} mohou odkazovat na volební procesy, aby určily akce, které vyžadují volby.  {Elected Titles} vytvořené ve {vládním úřadu|GovernmentOfficeItem} musejí určit volební proces, kterým se volí noví členové.
 
-Každý volební proces může definovat jinou skupinu voličů, osob s právem veta, časování, procento potřebné k vítězství atd.  Pomocí různých druhů voleb si občané mohou navrhnout vládu s různými centry moci. Mohou například definovat mocnou funkci, kterou musí zvolit všeobecná populace, ale kterou může i odvolat. 
+Každý volební proces může definovat jinou skupinu voličů, osob s právem veta, načasování, procento potřebné k vítězství atd.  Pomocí různých druhů voleb si občané mohou navrhnout vládu s různými centry moci. Mohou například definovat mocnou funkci, kterou musí zvolit všichni občané, ale kterou mohou i odvolat. 
 </target>
       </trans-unit>
       <trans-unit id="188" xml:space="preserve">
@@ -1616,7 +1616,7 @@ Volby mohou mít řadu nastavení určených jejich {volebním procesem|Election
       </trans-unit>
       <trans-unit id="190" xml:space="preserve">
         <source xml:space="preserve">A poll set to a group of citizens to determine a position or referendum.</source>
-        <target state="translated">Hlasování určené skupině občanů, které rozhoduje o obsazení funkce nebo o referendu.</target>
+        <target state="translated">Hlasování určené skupině občanů, které rozhoduje o obsazení funkce, nebo je referendem.</target>
       </trans-unit>
       <trans-unit id="191" xml:space="preserve">
         <source xml:space="preserve">Executive Actions are one-time actions that can affect a specific group of citizens or all citizens at once.
@@ -1800,12 +1800,12 @@ Ve {státní pokladně|TreasuryItem} lze nastavit daně z nejrůznějších akc�
  - Daň z poplatku za výrobu. Daň z poplatků vybíraných za sdílení tvého výrobního stolu.
  - Daň ze smluv. Daně z plateb uskutečněných prostřednictvím smluv a pracovních skupin.
  - Daň z přímého převodu. Daně z převodů mezi hráči.
- - Daň z přímého převodu na vlastní účet. Daně z převodu na účet, k němuž máš přístup (volitelná ochrana proti mezerám umožňujícím se zdanění vyhnout).
+ - Daň z přímého převodu na vlastní účet. Daně z převodu na účet, k němuž máš přístup (volitelná ochrana proti obcházení daní).
 
 Tyto sazby smí upravovat jen občan s {volenou funkcí|Elected Titles}, jemuž bylo uděleno právo „Nastavovat daně ve státní pokladně“.  Všechny daně vybrané podle těchto nastavení se ukládají na zvláštní bankovní účet „Státní pokladna“.  Z tohoto zvláštního bankovního účtu lze prostředky přidělovat na jiné účty příkazy ve státní pokladně.
 
 Daně ze zákonů
-Daně lze nastavit také pomocí {zákonů|Laws}, jejichž výši i cíl lze určovat dynamicky. Lze určit i bankovní účet, na který se ukládají, takže lze financovat konkrétní účely a prostředky uložit na bankovní účty přístupné jen omezenému počtu lidí.  Díky systému zákonů lze tyto daně velmi přesně zacílit a upravovat podle toho, jaké akce se právě dějí.
+Daně lze nastavit také pomocí {zákonů|Laws}, jejichž výši i cíl lze určovat dynamicky. Lze určit i bankovní účet, na který se ukládají, takže se dají financovat konkrétní účely a prostředky uložit na bankovní účty přístupné jen omezenému počtu lidí.  Díky systému zákonů lze tyto daně velmi přesně zacílit a upravovat podle toho, jaké akce se právě dějí.
 
 Lze například vytvořit pozici volené funkce „ministr dopravy“ s výhradním přístupem na {bankovní účet|Bank Accounts} Dopravního fondu.  Pak lze vytvořit zákon, který zdaní výrobu paliva a obchod s ním, přičemž výnosy poputují do Dopravního fondu, odkud je právě zvolený ministr dopravy může použít k financování nových {pracovních skupin|Work Parties} na stavbu silnic.
 </target>
@@ -1955,7 +1955,7 @@ Podrobnosti o místnosti uvidíš v panelu na pravé straně obrazovky, když se
 Vybavení a typy místností
 Zabráním půdy a stavbou místností na ní začneš získávat další zkušenosti, které se hromadí i tehdy, když jsi offline.  Další typy místností a jejich vybavení je ještě zvyšují.  Každý druh nábytku patří do některé kategorie, uvedené níže.  Typ místnosti určuje ta kategorie, ze které pochází nejvíc vybavení. Hodnota každé místnosti se spočítá jako součet veškerého vybavení v ní.
 
-Opakování stejného kusu nábytku v místnosti nebo stejného typu místnosti v domě přináší klesající výnosy; body za bydlení za ně stále dostaneš, ale ne tolik jako za první.   Nakonec bude přírůstek bodů zanedbatelný a nebude stát za to přidávat do domu další nábytek nebo místnost téhož typu.  Například tvoje dvanáctá koupelna přidá hodnotě domu mnohem méně než první.
+Opakování stejného kusu nábytku v místnosti nebo stejného typu místnosti v domě přináší klesající výnosy; body za bydlení za ně stále dostaneš, ale ne tolik jako za první.   Nakonec bude přírůstek bodů zanedbatelný a nebude stát za to přidávat do domu další nábytek nebo místnost téhož typu.  Například tvoje dvanáctá koupelna přidá k hodnotě domu mnohem méně než první.
 
 Různé druhy pozemků podporují různé typy místností; například „Ložnice“ se hodí na pozemek typu „Bydliště“, ale ne na „Kulturní“ pozemek, zatímco „Koupelna“ se hodí na oba.  Některé kategorie místností mohou podporovat i jiné druhy nábytku (například „kulturní“ vybavení může přidat hodnotu „Obývacímu pokoji“) a tato podpůrná hodnota je omezena určitým procentem hodnoty hlavního nábytku (tj. dekorace v koupelně jsou bezcenné, pokud tam není záchod).  
 
@@ -2011,7 +2011,7 @@ Your Experience Multiplier (or XP Multiplier) is a personal value representing y
         <target state="translated">S tím, jak v Eco sbíráš zkušenosti, budeš odemykat nové specializace a nové schopnosti v rámci těchto specializací. Získáváš dva druhy zkušeností: zkušenosti postavy a zkušenosti specializace.  Oba zvyšuje tvůj násobič zkušeností.
 
 Zkušenosti postavy
-Zkušenosti postavy jsou základní rychlost tvého učení, tedy jak rychle získáváš znalosti a schopnosti.  Neustále rostou, i když jsi offline.  Za každý reálný den získáš zkušenosti postavy v hodnotě 1 * tvůj násobič zkušeností.  Když dosáhneš nové úrovně, odemkneš novou specializaci, kterou představuje hvězda.  Každá další úroveň vyžaduje stále víc zkušeností postavy, takže je velmi těžké mít víc než několik specializací.
+Zkušenosti postavy jsou základní rychlost tvého učení, tedy jak rychle získáváš znalosti a schopnosti.  Neustále rostou, i když jsi offline.  Za každý reálný den získáš zkušenosti postavy v hodnotě 1× tvůj násobič zkušeností.  Když dosáhneš nové úrovně, odemkneš novou specializaci, kterou představuje hvězda.  Každá další úroveň vyžaduje stále víc zkušeností postavy, takže je velmi těžké mít víc než několik specializací.
 
 Zkušenosti specializace
 Zkušenosti specializace vyjadřují tvou zdatnost v určité schopnosti a nerostou neustále, ale jen tehdy, když provádíš činnosti související s danou specializací, například vyrábíš nebo vykonáváš práci. Stejně jako zkušenosti postavy se i ony násobí tvým násobičem zkušeností. Podél levé strany obrazovky uvidíš ikony, které ukazují, kolik zkušeností při činnostech získáváš, a kliknutím na ně si můžeš podrobněji prohlédnout úrovně dané specializace.
@@ -2049,7 +2049,7 @@ V potravinách jsou zastoupeny čtyři živiny: bílkoviny, tuky, vitamíny a sa
 
 Navíc se uplatní násobič vyváženosti, který podle toho, jak vyrovnané jsou živiny v těle, přidá dalších 0 až 50 % z tvého celku. Pokud máš například od každé živiny přesně 25 %, získáš o 50 % víc dovedností.
 
-V závislosti na nastavení obtížnosti serveru může být nastaven i „násobič získávání dovedností“, který ho ještě zvýší.
+V závislosti na nastavení obtížnosti serveru může být nastaven i „násobič získávání dovedností“, který zisk dovedností ještě zvýší.
 
 Nakonec se k celku přičte základní hodnota získávání dovedností. Díky ní získáváš alespoň nějaké dovednosti, i když úplně hladovíš.  Všechny tyto výpočty najdeš v popisku jídla v levém dolním rohu rozhraní.
 
@@ -2102,7 +2102,7 @@ Každá specializace patří pod některou profesi a získat ji vyžaduje dva kr
 2. Potom musíš utratit hvězdu a specializaci si osvojit.
 
 Jakmile si specializaci vybereš, získáš základní schopnosti, které s ní souvisejí. Činnostmi souvisejícími s touto specializací budeš získávat {zkušenosti|Experience} specializace, čímž ji budeš zvyšovat na vyšší úrovně a odemykat v ní nové schopnosti.
-V dialogu výběru dovedností vidíš rozložení specializací, které si ostatní občané zvolili, a často je dobré zvolit si specializace, které ostatní hráči nezvolili nebo nezvýšili. Tak se každý může věnovat svým specializacím a navzájem spolu {obchodovat|Trade} k čistému zisku.
+V dialogu výběru dovedností vidíš rozložení specializací, které si ostatní občané zvolili, a často je dobré zvolit si specializace, které ostatní hráči nezvolili ani nerozvinuli. Tak se každý může věnovat svým specializacím a navzájem spolu {obchodovat|Trade} k čistému zisku.
 
 </target>
       </trans-unit>
@@ -2262,8 +2262,8 @@ Níže je seznam všech profesí a jejich specializací. Občané se mohou zamě
   </source>
         <target state="translated">Kováři taví koncentrovanou rudu na kovové ingoty, které mohou používat nejrůznější profese. Kromě toho kováři vyrábějí lepší nástroje, díky nimž občané pracují produktivněji.
   
-- {SmeltingSkill} je specializace na výrobu kovových ingotů, které tvoří základ technologického pokroku. Železné nástroje, které vyrábějí, jsou výrazně lepší než první kamenné nástroje.
-- {AdvancedSmeltingSkill} umožňuje občanům dále zpracovávat železné ingoty na {ocel|SteelBarItem} pro použití v průmyslu a ve vysoce kvalitních stavebních materiálech. Občané s touto specializací mohou z oceli, kterou vyrobí, vyrábět ještě modernější nástroje než ty železné ze základního hutnictví.
+- {SmeltingSkill} je specializace na výrobu kovových ingotů, které tvoří základ technologického pokroku. Železné nástroje, které kováři vyrábějí, jsou výrazně lepší než první kamenné nástroje.
+- {AdvancedSmeltingSkill} umožňuje občanům dále zpracovávat železné ingoty na {ocel|SteelBarItem} pro použití v průmyslu a ve vysoce kvalitních stavebních materiálech. Občané s touto specializací mohou z vlastní oceli vyrábět ještě modernější nástroje než ty železné ze základního hutnictví.
   </target>
       </trans-unit>
       <trans-unit id="256" xml:space="preserve">
@@ -2277,7 +2277,7 @@ Experience in {SelfImprovementSkill} is gained anytime a citizen levels up anoth
   </source>
         <target state="translated">Všichni občané jsou ve světě Eco přeživší. 
   
-Zkušenosti v dovednosti {SelfImprovementSkill} se získávají pokaždé, když občan postoupí na vyšší úroveň v jiné specializaci. Sebezdokonalování má dvě hlavní výhody. S postupem občanů roste nosnost i kapacita žaludku pro další kalorie. Navíc se při používání kladiv, lopat a vrtáků spotřebuje méně kalorií.
+Zkušenosti v dovednosti {SelfImprovementSkill} se získávají pokaždé, když občan postoupí na vyšší úroveň v jiné specializaci. Sebezdokonalování má dvě hlavní výhody. Jak občané postupují, roste jim nosnost i kapacita žaludku pro další kalorie. Navíc se při používání kladiv, lopat a vrtáků spotřebuje méně kalorií.
   </target>
       </trans-unit>
       <trans-unit id="258" xml:space="preserve">
@@ -2432,10 +2432,10 @@ Každá profese má pod sebou několik {specializací|Specialties}, které odemy
     - Založením vlády vytvořením {kapitolu|CapitolItem} a {ústavy|Constitution}.
     - Určením občanských objektů, mezi které patří {čtvrti|Districts}, {demografické skupiny|Demographics}, {volené funkce|Elected Titles}, {volební procesy|Election Processes} a {dodatky|Constitution}.
     - Kandidaturou na {volenou funkci|Elected Titles}, k níž ústava přiděluje zvláštní pravomoci.
-    - Schvalováním {zákonů|Laws} poté, co získáš k tomu oprávnění (určené v ústavě).
+    - Schvalováním {zákonů|Laws} poté, co k tomu získáš oprávnění (určené v ústavě).
     - Zaváděním {výkonných opatření|Executive Actions}, k nimž jsou oprávnění rovněž určena v ústavě.
     - Hlasováním ve {volbách|Elections} o {volených funkcích|Elected Titles} a dalších občanských akcích.
-    - Debatováním o zákonech s využitím {údajů|Data}: předkládáš spoluobčanům argumenty, proč zvolit jednu možnost místo jiné.
+    - Debatováním o zákonech s využitím {údajů|Data} a předkládáním argumentů spoluobčanům, proč zvolit jednu možnost místo jiné.
   </target>
       </trans-unit>
       <trans-unit id="276" xml:space="preserve">
@@ -2460,10 +2460,10 @@ As you build up your capabilities and have more needs of other citizens, you can
  </source>
         <target state="translated">Aby společnost prošla věky až na vrchol technologií, je potřeba prosperující {ekonomika|Economy Overview}. Zapojením do ní mohou občané posouvat společnost kupředu a zároveň rozvíjet vlastní schopnosti i bohatství.
  
-Do ekonomiky se zapojuješ prostřednictvím {obchodu|Trade} se zbožím i službami.  Když najdeš existující osady s {obchody|Store Component}, {smlouvami|Contracts} a {pracovními skupinami|Work Parties}, můžeš zboží a práci, na kterou se specializuješ, vyměnit za specializace ostatních, a svých cílů tak dosáhnout rychleji, než kdyby každý pracoval sám.  
-Když se pustíš do nových projektů, které vyžadují materiál nebo práci, kterou neumíš vyrobit ani odvést vlastními silami, můžeš místo toho prodávat zboží a nabízet služby na trhu: založíš obchody a stanovíš ceny v {měně|Currency} podle vlastního výběru. Za tuto měnu pak nakoupíš zboží a služby od ostatních a ke svým cílům se dostaneš bez nutnosti učit se všechno vlastními silami.
+Do ekonomiky se zapojuješ {obchodem|Trade} se zbožím i službami.  Když najdeš existující osady s {obchody|Store Component}, {smlouvami|Contracts} a {pracovními skupinami|Work Parties}, můžeš zboží a práci, na kterou se specializuješ, vyměnit za to, v čem se specializují ostatní, a svých cílů tak dosáhnout rychleji, než kdyby každý pracoval sám.  
+Když se pustíš do nových projektů, které vyžadují materiál nebo práci, kterou neumíš vyrobit ani odvést, můžeš místo toho prodávat zboží a nabízet služby na trhu: založíš obchody a stanovíš ceny v {měně|Currency} podle vlastního výběru. Za tuto měnu pak nakoupíš zboží a služby od ostatních a ke svým cílům se dostaneš bez nutnosti učit se všechno vlastními silami.
 
-Jak budou růst tvé schopnosti a přibývat potřeby vůči ostatním občanům, můžeš zakládat vlastní obchody, smlouvy a pracovní skupiny a získávat tak jejich pomoc.  S rostoucím bohatstvím roste i tvá schopnost prosazovat změny (k lepšímu i k horšímu).
+Jakmile ti porostou schopnosti a budeš víc potřebovat ostatní občany, můžeš zakládat vlastní obchody, smlouvy a pracovní skupiny a získávat tak jejich pomoc.  S rostoucím bohatstvím roste i tvá schopnost prosazovat změny (k lepšímu i k horšímu).
  </target>
       </trans-unit>
       <trans-unit id="279" xml:space="preserve">
@@ -2665,7 +2665,7 @@ A foundational goal of the ecosystem simulation in Eco is to contain a multitude
 Animal's prey and predators can be viewed through the web interface and checking the linked layers. Currently the prey-predator relationship is one way: the predators require the prey to exist, but they don't actually remove any from the simulation. This means that an explosion of elk would increase the wolf population, but this wouldn't put pressure onto the elk. Changing this relationship to consume both ways while ensuring it doesn't spiral out of control in an unexpected and sudden way is important as we move forward.
   </source>
         <target state="translated">
-Základním cílem simulace ekosystému v Eco je zahrnout mnoho potravních sítí. Potravní sítě si lze představit jako soubor vztahů mezi „konzumenty“ a „konzumovanými“ u rostlin a zvířat, který se točí kolem určitého společenstva zvířat a jejich oblíbené potravy. Obecně je záměr, aby v každém biomu existovala alespoň jedna silná potravní síť. Potravní sítě bývají základem nejdůležitějších vztahů mezi druhy i v rámci druhů v ekosystému. Mnoho druhů je závislých na jiných druzích jako zdroji potravy nebo na tom, že jiný druh loví druh, který je požírá.
+Základním cílem simulace ekosystému ve hře Eco je zahrnout mnoho potravních sítí. Potravní sítě si lze představit jako soubor vztahů mezi „konzumenty“ a „konzumovanými“ mezi rostlinami a zvířaty, který se soustředí kolem určitého společenstva zvířat a jejich oblíbené potravy. Obecně je cílem, aby v každém biomu existovala alespoň jedna silná potravní síť. Potravní sítě bývají základem nejdůležitějších vztahů mezi druhy i v rámci druhů v ekosystému. Mnoho druhů je závislých na jiných druzích jako zdroji potravy nebo na tom, že jiný druh loví druh, který je požírá.
 
 Kořist a predátory zvířete lze zobrazit přes webové rozhraní prohlédnutím propojených vrstev. Vztah kořisti a predátora je zatím jednosměrný: predátoři ke své existenci kořist potřebují, ale ze simulace ji ve skutečnosti neodebírají. Prudký nárůst populace losů tak zvýší populaci vlků, ale na losy to žádný tlak nevyvolá. Při dalším vývoji bude důležité změnit tento vztah tak, aby fungoval oběma směry, a přitom zajistit, aby se to nevymklo kontrole nečekaně a náhle.
   </target>
@@ -2776,10 +2776,10 @@ Po schválení {ústavy|Constitution} jsou nové vládní politiky uloženy jako
 
 - {Laws} se stanovují v {malém soudu|SmallCourtItem} nebo {velkém soudu|LargeCourtItem}
 - {Demographics} se stanovují v {úřadu pro sčítání lidu|CensusBureauItem}
-- {Districts} se stanovují v {Úřadu územního plánu|ZoningOfficeItem}
+- {Districts} se stanovují v {úřadu územního plánu|ZoningOfficeItem}
 - {Elected Titles} se stanovují ve {vládním úřadu|GovernmentOfficeItem}
 - {Civic Articles} se stanovují v {kapitolu|CapitolItem} nebo v {dodatcích|AmendmentsItem}
-- {Election Processes} se stanovují ve {Volební komisi|BoardOfElectionsItem}
+- {Election Processes} se stanovují ve {volební komisi|BoardOfElectionsItem}
   </target>
       </trans-unit>
       <trans-unit id="319" xml:space="preserve">
@@ -2813,7 +2813,7 @@ Budovy, které občanské objekty obsahují, musí zůstat umístěné a aktivn�
         <target state="translated">
 - Okamžité provedení změn: Občané s výkonnou výsadou mohou občanské objekty okamžitě přidávat, odebírat a upravovat.
 
-- Navrhování volbou: Občané, kteří mohou navrhovat volby, budou moci navrhnout přidání, odebrání nebo úpravu, čímž se spustí nové volby (v rámci {volebního procesu|Election Processes} stanoveného v ústavě).
+- Navrhování volbou: Občané, kteří mohou navrhovat volby, budou moci navrhnout přidání, odebrání nebo úpravu, čímž se spustí nové volby (podle {volebního procesu|Election Processes} stanoveného v ústavě).
 
 - Pouze zobrazení: Pokud občan nemá žádné výsady stanovené v ústavě, může si občanské objekty jen prohlížet kliknutím na ně a nesmí je nijak měnit.
   </target>
@@ -2916,9 +2916,9 @@ Když podržíš myš nad zobrazením některého z potrubí, objeví se popisek
         <target state="translated">
 {Inženýři|Engineer} se specializují na výrobu vozidel a pokročilých výrobních materiálů, které využívají ostatní profese.
   - {BasicEngineeringSkill} umožňují občanům vyrábět cesty a vozíky, které usnadňují přepravu. Základy inženýrství navíc umožňují vyrobit výrobní stoly potřebné ke zpracování a tavení rudy.
-  - {MechanicsSkill} umožňuje občanům vyrábět první motorová vozidla, například {parní nákladní vůz|SteamTruckItem}. Mechanika přináší první zdroj elektrické energie, který pomáhá umožnit technologický pokrok.
+  - {MechanicsSkill} umožňuje občanům vyrábět první motorová vozidla, například {parní nákladní vůz|SteamTruckItem}. Mechanika přináší první zdroj elektrické energie, díky kterému může technologický pokrok pokračovat.
   - {IndustrySkill} umožňuje občanům vyrábět pokročilá vozidla, například {rypadlo|ExcavatorItem}, které dokáže rychle získávat velká množství přírodních zdrojů.
-  - {OilDrillingSkill} umožňuje občanům používat {kývavé čerpadlo|PumpJackItem} k získávání {ropy|PetroleumItem}, která slouží jako palivo a v řadě průmyslových projektů.
+  - {OilDrillingSkill} umožňuje občanům používat {kývavé čerpadlo|PumpJackItem} k získávání {ropy|PetroleumItem}, která se používá jako palivo i v řadě průmyslových projektů.
   - {ElectronicsSkill} využívá drahé suroviny k výrobě nejpokročilejších materiálů, které moderní výrobní projekty potřebují. Kromě zdroje zelené elektřiny se elektronika používá také k výrobě {laseru|LaserItem}, který je potřeba k záchraně světa před meteorem.
 </target>
       </trans-unit>
@@ -2973,7 +2973,7 @@ Když podržíš myš nad zobrazením některého z potrubí, objeví se popisek
 </source>
         <target state="translated">
 {Kameníci|Mason} jsou specialisté na těžbu a práci s kamenem. Poskytují cenný zdroj stavebního materiálu a nábytku do domů. Rudu, kterou vytěží, kováři taví na kovové ingoty.
-  -{MiningSkill} umožňuje občanům při těžbě kamene a rudy vydat méně kalorií. Horníci také zpracovávají vytěženou rudu, aby ji bylo možné tavit.
+  -{MiningSkill} umožňuje občanům při těžbě kamene a rudy spotřebovávat méně kalorií. Horníci také zpracovávají vytěženou rudu, aby ji bylo možné tavit.
   -{MasonrySkill} umožňuje občanům vyrábět {maltu|MortarItem}, základní surovinu většiny kamenických stavebních materiálů. {MortaredStoneItem}, které vyrábějí, je skvělým zdrojem materiálu pro první domy.
   -{PotterySkill} umožňuje občanům vyrobit z {jílu|ClayItem} stavební materiál {cihly|BrickItem} a také nábytek.
   -{GlassworkingSkill} umožňuje občanům vyrábět {sklo|GlassItem} a později i {rámované sklo|FramedGlassItem}. Sklo je vhodným doplňkovým stavebním materiálem a používá se v řadě průmyslových projektů.
@@ -3021,7 +3021,7 @@ The {Tailor} specializes in making high end furniture and specialized clothing t
 </source>
         <target state="translated">
 {Přeživší|Survivalist} se specializují na nošení většího nákladu a snižování kalorií spotřebovaných při používání základních nástrojů. Ve světě Eco jsou všichni občané přeživší.
-   - Zkušenosti v oboru {sebezdokonalování|SelfImprovementSkill} se získávají pokaždé, když občan zvýší úroveň jiné specializace. Sebezdokonalování má dvě hlavní výhody. S postupem občanů se zvyšuje nosnost a kapacita žaludku pro další kalorie. Navíc se při používání kladiv a lopat spotřebuje méně kalorií.
+   - Zkušenosti v dovednosti {SelfImprovementSkill} se získávají pokaždé, když občan zvýší úroveň jiné specializace. Sebezdokonalování má dvě hlavní výhody. S postupem hry roste občanům nosnost i kapacita žaludku pro další kalorie. Navíc se při používání kladiv a lopat spotřebuje méně kalorií.
 </target>
       </trans-unit>
       <trans-unit id="344" xml:space="preserve">
@@ -3149,7 +3149,7 @@ Hromady stejných předmětů lze rychle sloučit a seřadit stisknutím tlačí
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target state="translated">Obchod s ostatními občany je v Eco nezbytný: každý hráč má svou sadu {specializací|Specialties}, v nichž může přispět nejvíc, a obchoduje s ostatními občany, kteří ovládají profese, jež on sám neovládá.
+        <target state="translated">Obchod s ostatními občany je v Eco nezbytný: každý hráč má svou sadu {specializací|Specialties}, v nichž může přispět nejvíc, a v ostatních profesích se spoléhá na občany, kteří je ovládají.
 
  - Obchody lze zřídit v {komponentě obchodu|Store Component}, kde uvedeš nákupní a prodejní ceny různého zboží, o které máš zájem.  Občané pak s tebou mohou obchodovat asynchronně, tedy kupovat od tebe zboží i prodávat ti ho bez tvé přítomnosti.
  - Obchod s prací může probíhat prostřednictvím {smluv|Contracts} a {pracovních skupin|Work Parties}, v nichž hráči vykonávají práci za odměnu za předem dohodnutých podmínek.  I to lze dělat asynchronně.
@@ -3237,7 +3237,7 @@ Note that the type of settlement matters: a settlement can only annex other sett
 
     Požadavek na počet občanů. Anektující osada musí mít daný podíl počtu občanů cílové osady.
 
-    Požadavek na okolní vliv.  To znamená, že anektující osada musí mít pod vlivem parcely obklopující hranici vlivu sousední osady.  Po překročení stanovené hranice je tento požadavek splněn, ale čím víc parcel hranici vlivu obklopuje, tím víc se zvýší násobič dalšího požadavku, kultury.
+    Požadavek na okolní vliv.  To znamená, že anektující osada musí mít pod vlivem parcely obklopující hranici vlivu sousední osady.  Po překročení stanoveného prahu je tento požadavek splněn, ale čím víc parcel hranici vlivu obklopuje, tím víc vzroste násobič dalšího požadavku, kultury.
 
     Požadavek na kulturu. Tento požadavek říká, že kultura anektující osady musí být vyšší než kultura cílové osady dvojím způsobem: musí být o daný procentní podíl vyšší a zároveň o absolutní hodnotu vyšší. Tím se brání tomu, aby se malé osady s nízkou kulturou anektovaly příliš snadno; je třeba dosáhnout základní kulturní převahy.  Kultura se zvyšuje různými způsoby popsanými na stránce {Culture}.
 
@@ -3445,9 +3445,9 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
         <target state="translated">
     Občanství je členství v osadě, které poskytuje občanské pravomoci. Čím víc občanů osada má, tím víc {majetku osady|Settlement Property} může zabrat.
 
-    Každá osada může udělovat občanství seznamu osob na záložce {CitizenRosterComponent} objektu založení.   O občanství tu mohou zažádat i lidé, kteří občany nejsou; žádost musí schválit schvalovatel, kterého určuje nastavení {imigrační politiky|Immigration Policy}, ve výchozím stavu je to vůdce osady.  Všichni občané dceřiných osad se navíc automaticky stávají občany mateřské osady (tj. občané každého města jsou zároveň občany své země).
+    Každá osada může udělovat občanství seznamu osob na záložce {CitizenRosterComponent} objektu založení.   O občanství tu mohou zažádat i lidé, kteří občany nejsou; žádost musí schválit schvalovatel, kterého určuje nastavení {imigrační politiky|Immigration Policy} (ve výchozím stavu vůdce osady).  Všichni občané dceřiných osad se navíc automaticky stávají občany mateřské osady (tj. občané každého města jsou zároveň občany své země).
 
-    Hráči, kteří už mají usedlost a využívají {podpůrné záborové listiny pro usedlosti|HomesteadSupportClaimPaperItem}, se mohou k osadě hladce připojit tak, že do své usedlosti vloží odpovídající počet záborových listin této osady.
+    Hráči, kteří už mají usedlost a využívají {podpůrné záborové listiny pro usedlost|HomesteadSupportClaimPaperItem}, se mohou k osadě hladce připojit tak, že do své usedlosti vloží odpovídající počet záborových listin této osady.
   </target>
       </trans-unit>
       <trans-unit id="416" xml:space="preserve">
@@ -3595,7 +3595,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
         <target state="translated">
     Vliv lze rozšířit pomocí {kultury|Culture}. Čím vyšší je úroveň kultury majetku, tím větší vliv vytváří pro vlastnící osadu. Díky tomu můžeš rozšiřovat hranice zvyšováním kultury nebo vytvářením nových kulturních nemovitostí. Počet kulturních nemovitostí i maximální dosah vlivu jsou však omezené, takže hranice nelze rozšiřovat donekonečna. S každým zvýšením úrovně osady se zvětší možný dosah vlivu a lze vytvořit víc kulturních nemovitostí.
     
-    Vliv se šíří z průměrné polohy místností na majetku, vážené podle jejich hodnot majetku.  
+    Vliv se šíří z váženého průměru poloh místností na majetku; váhou je hodnota majetku každé místnosti.  
 
     {Usedlosti|HomesteadClaimStakeObject} jsou majetek pro jednoho člověka, který je přidružen k osadě, jejímž občanem je jeho vlastník. Pokud vlastník není občanem žádné osady, nebude ho ovlivňovat žádná. Když se občané vzdají občanství, může to ve vlivu města vytvořit díry, silná osada však může tento majetek násilně zabrat v procesu {anexe|Annexation}.
   </target>
@@ -3653,7 +3653,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     - Poté se zničí kolíky a listiny, které se používají, pokud nedostatek stále není vyrovnán.
     V obou krocích se jako první ničí záborové kolíky a listiny patřící opuštěným občanům.
 
-    Je velmi důležité, aby osady své počty občanů pečlivě řídily a předešly nedostatku. Je rozumné část kolíků a listin držet v rezervě a hned je nevyužívat, případně zareagovat už ve chvíli, kdy občané začnou odcházet.
+    Je velmi důležité, aby osady počet svých občanů pečlivě hlídaly a předešly nedostatku. Je rozumné část kolíků a listin držet v rezervě a hned je nevyužívat, případně zareagovat už ve chvíli, kdy občané začnou odcházet.
 
     Občané, kteří přejdou do {demografické skupiny|Demographic} Opuštění, také přestanou přispívat k počtu vytvářených kolíků a listin, což může rovněž vést k majetkové krizi.
   </target>
@@ -3684,7 +3684,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
       </trans-unit>
       <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target state="translated">Osady také vytvářejí {podpůrné záborové listiny pro usedlosti|HomesteadSupportClaimPaperItem}, které lze darovat nebo prodat lidem, kteří nejsou občany. Díky nim mohou usedlosti bez přidružené osady zabírat další parcely kdekoli na mapě.  Hledají je (výměnou za jídlo nebo práci) většinou farmáři z odlehlých, izolovaných oblastí, kteří chtějí větší farmy, a to u měst z celého světa.  Představují podporu osady uplatněnou na ochranu majetku mimo osadu.</target>
+        <target state="translated">Osady také vytvářejí {podpůrné záborové listiny pro usedlosti|HomesteadSupportClaimPaperItem}, které lze darovat nebo prodat lidem, kteří nejsou občany. Díky nim mohou usedlosti bez přidružené osady zabírat další parcely kdekoli na mapě.  Většinou je u měst z celého světa vyhledávají farmáři z odlehlých, izolovaných oblastí, kteří chtějí větší farmy – výměnou za jídlo nebo práci.  Představují podporu osady uplatněnou na ochranu majetku mimo osadu.</target>
       </trans-unit>
       <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
