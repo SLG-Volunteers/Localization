@@ -4342,7 +4342,7 @@
       </trans-unit>
       <trans-unit id="Property Manager" xml:space="preserve">
         <source xml:space="preserve">Property Manager</source>
-        <target xml:space="preserve" state="translated">Správce majetku</target>
+        <target xml:space="preserve" state="translated">Správce pozemku</target>
       </trans-unit>
       <trans-unit id="Disasters" xml:space="preserve">
         <source xml:space="preserve">Disasters</source>
@@ -5205,7 +5205,7 @@
       </trans-unit>
       <trans-unit id="Can't unclaim plot: You don't have room in your inventory for {0}." xml:space="preserve">
         <source xml:space="preserve">Can't unclaim plot: You don't have room in your inventory for <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Zábor parcely nelze zrušit: v inventáři nemáš místo pro <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Parcelu nelze uvolnit: v inventáři nemáš místo pro <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="This deed no longer exists." xml:space="preserve">
         <source xml:space="preserve">This deed no longer exists.</source>
@@ -5636,7 +5636,7 @@
       </trans-unit>
       <trans-unit id="Property" xml:space="preserve">
         <source xml:space="preserve">Property</source>
-        <target xml:space="preserve" state="translated">Majetek</target>
+        <target xml:space="preserve" state="translated">Pozemky</target>
       </trans-unit>
       <trans-unit id="Price" xml:space="preserve">
         <source xml:space="preserve">Price</source>
@@ -6078,7 +6078,7 @@
       </trans-unit>
       <trans-unit id="Property Tax" xml:space="preserve">
         <source xml:space="preserve">Property Tax</source>
-        <target xml:space="preserve" state="translated">Majetková daň</target>
+        <target xml:space="preserve" state="translated">Daň z pozemků</target>
       </trans-unit>
       <trans-unit id="Allocate" xml:space="preserve">
         <source xml:space="preserve">Allocate</source>
@@ -6902,7 +6902,7 @@
       </trans-unit>
       <trans-unit id="Property Tool" xml:space="preserve">
         <source xml:space="preserve">Property Tool</source>
-        <target xml:space="preserve" state="translated">Majetkový nástroj</target>
+        <target xml:space="preserve" state="translated">Pozemkový nástroj</target>
       </trans-unit>
       <trans-unit id="Land Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Land Claim Stake</source>
@@ -7471,7 +7471,7 @@
       </trans-unit>
       <trans-unit id="Economy Viewer" xml:space="preserve">
         <source xml:space="preserve">Economy Viewer</source>
-        <target xml:space="preserve" state="translated">Prohlížeč ekonomiky</target>
+        <target xml:space="preserve" state="translated">Ekonomický panel</target>
       </trans-unit>
       <trans-unit id="Remove blocks from the property at {0} until there are less than {1}." xml:space="preserve">
         <source xml:space="preserve">Remove blocks from the property at <ph id="0">{0}</ph> until there are less than <ph id="1">{1}</ph>.</source>
@@ -7580,7 +7580,7 @@
       </trans-unit>
       <trans-unit id="The property on this deed can only be unclaimed by {0}" xml:space="preserve">
         <source xml:space="preserve">The property on this deed can only be unclaimed by <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Zábor pozemku z tohoto listu vlastnictví může zrušit jen <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Pozemek z tohoto listu vlastnictví může uvolnit jen <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Owned by {0}" xml:space="preserve">
         <source xml:space="preserve">Owned by <ph id="0">{0}</ph></source>
@@ -11715,7 +11715,7 @@
       </trans-unit>
       <trans-unit id="Trade" xml:space="preserve">
         <source xml:space="preserve">Trade</source>
-        <target xml:space="preserve" state="translated">Obchod</target>
+        <target xml:space="preserve" state="translated">Obchodování</target>
       </trans-unit>
       <trans-unit id="For sale" xml:space="preserve">
         <source xml:space="preserve">For sale</source>
@@ -13629,7 +13629,7 @@
       </trans-unit>
       <trans-unit id="When true, spawn point stays as set below. When false, the spawn point will move periodically to be close to wild food." xml:space="preserve">
         <source xml:space="preserve">When true, spawn point stays as set below. When false, the spawn point will move periodically to be close to wild food.</source>
-        <target xml:space="preserve" state="translated">Při zapnutí zůstane místo zrození tak, jak je nastaveno níže. Při vypnutí se bude místo zrození pravidelně přesouvat blíž k divokému jídlu.</target>
+        <target xml:space="preserve" state="translated">Při zapnutí zůstane místo zrození tak, jak je nastaveno níže. Při vypnutí se bude místo zrození pravidelně přesouvat blíž k plodům divočiny.</target>
       </trans-unit>
       <trans-unit id="Nearby Food spawn location" xml:space="preserve">
         <source xml:space="preserve">Nearby Food spawn location</source>
@@ -13709,11 +13709,11 @@
       </trans-unit>
       <trans-unit id="Was the property claimed or unclaimed?" xml:space="preserve">
         <source xml:space="preserve">Was the property claimed or unclaimed?</source>
-        <target xml:space="preserve" state="translated">Byl pozemek zabrán, nebo byl zábor zrušen?</target>
+        <target xml:space="preserve" state="translated">Byl pozemek zabrán, nebo uvolněn?</target>
       </trans-unit>
       <trans-unit id="The position of the claim." xml:space="preserve">
         <source xml:space="preserve">The position of the claim.</source>
-        <target xml:space="preserve" state="translated">Poloha záboru.</target>
+        <target xml:space="preserve" state="translated">Poloha pozemku.</target>
       </trans-unit>
       <trans-unit id="The bank account the tax came from." xml:space="preserve">
         <source xml:space="preserve">The bank account the tax came from.</source>
@@ -13973,7 +13973,7 @@
       </trans-unit>
       <trans-unit id="Start Work Party" xml:space="preserve">
         <source xml:space="preserve">Start Work Party</source>
-        <target xml:space="preserve" state="translated">Založit pracovní skupinu</target>
+        <target xml:space="preserve" state="translated">Založit pracovní partu</target>
       </trans-unit>
       <trans-unit id="Invite other players to join together to complete these tasks." xml:space="preserve">
         <source xml:space="preserve">Invite other players to join together to complete these tasks.</source>
@@ -14683,7 +14683,7 @@
       </trans-unit>
       <trans-unit id="Unclaim the plot you're standing on" xml:space="preserve">
         <source xml:space="preserve">Unclaim the plot you're standing on</source>
-        <target xml:space="preserve" state="translated">Zruší zábor parcely, na které stojíš</target>
+        <target xml:space="preserve" state="translated">Uvolní parcelu, na které stojíš</target>
         <note from="developer">Help text for chat command /unclaim</note>
       </trans-unit>
       <trans-unit id="unclaimabandoned" translate="no">
@@ -14692,7 +14692,7 @@
       </trans-unit>
       <trans-unit id="Unclaim plots across the world where the owner hasn't logged in for X days" xml:space="preserve">
         <source xml:space="preserve">Unclaim plots across the world where the owner hasn't logged in for X days</source>
-        <target xml:space="preserve" state="translated">Zruší zábory parcel po celém světě, jejichž vlastník se nepřihlásil X dní</target>
+        <target xml:space="preserve" state="translated">Uvolní parcely po celém světě, jejichž vlastník se nepřihlásil X dní</target>
         <note from="developer">Help text for chat command /unclaimabandoned</note>
       </trans-unit>
       <trans-unit id="Adds user to current deed (if username is not provided then adds current user)" xml:space="preserve">
@@ -15304,7 +15304,7 @@
       </trans-unit>
       <trans-unit id="Work Parties" xml:space="preserve">
         <source xml:space="preserve">Work Parties</source>
-        <target xml:space="preserve" state="translated">Pracovní skupiny</target>
+        <target xml:space="preserve" state="translated">Pracovní party</target>
       </trans-unit>
       <trans-unit id="Can't ratify" xml:space="preserve">
         <source xml:space="preserve">Can't ratify</source>
@@ -15336,7 +15336,7 @@
       </trans-unit>
       <trans-unit id="Open or Closed Work Party" xml:space="preserve">
         <source xml:space="preserve">Open or Closed Work Party</source>
-        <target xml:space="preserve" state="translated">Otevřená nebo uzavřená pracovní skupina</target>
+        <target xml:space="preserve" state="translated">Otevřená nebo uzavřená pracovní parta</target>
       </trans-unit>
       <trans-unit id="Laborers" xml:space="preserve">
         <source xml:space="preserve">Laborers</source>
@@ -15798,15 +15798,15 @@
       </trans-unit>
       <trans-unit id="You're not a part of this work party." xml:space="preserve">
         <source xml:space="preserve">You're not a part of this work party.</source>
-        <target xml:space="preserve" state="translated">Nejsi součástí této pracovní skupiny.</target>
+        <target xml:space="preserve" state="translated">Nejsi součástí této pracovní party.</target>
       </trans-unit>
       <trans-unit id="You're already a part of this work party." xml:space="preserve">
         <source xml:space="preserve">You're already a part of this work party.</source>
-        <target xml:space="preserve" state="translated">Už jsi součástí této pracovní skupiny.</target>
+        <target xml:space="preserve" state="translated">Už jsi součástí této pracovní party.</target>
       </trans-unit>
       <trans-unit id="You are now a laborer in {0}!" xml:space="preserve">
         <source xml:space="preserve">You are now a laborer in <ph id="0">{0}</ph>!</source>
-        <target xml:space="preserve" state="translated">Nyní jsi pracovníkem skupiny: <ph id="0">{0}</ph>!</target>
+        <target xml:space="preserve" state="translated">Nyní jsi pracovníkem party: <ph id="0">{0}</ph>!</target>
       </trans-unit>
       <trans-unit id="Cannot create more than {0} accounts." xml:space="preserve">
         <source xml:space="preserve">Cannot create more than <ph id="0">{0}</ph> accounts.</source>
@@ -16684,7 +16684,7 @@
       </trans-unit>
       <trans-unit id="Ignore Property With Mulitple Owners" xml:space="preserve">
         <source xml:space="preserve">Ignore Property With Mulitple Owners</source>
-        <target xml:space="preserve" state="translated">Ignorovat majetek s více vlastníky</target>
+        <target xml:space="preserve" state="translated">Ignorovat pozemek s více vlastníky</target>
       </trans-unit>
       <trans-unit id="User Description" xml:space="preserve">
         <source xml:space="preserve">User Description</source>
@@ -16845,7 +16845,7 @@
       </trans-unit>
       <trans-unit id="Laws Changing Property" xml:space="preserve">
         <source xml:space="preserve">Laws Changing Property</source>
-        <target xml:space="preserve" state="translated">Zákony měnící majetek</target>
+        <target xml:space="preserve" state="translated">Zákony měnící pozemek</target>
       </trans-unit>
       <trans-unit id="Laws Ignoring Authorization" xml:space="preserve">
         <source xml:space="preserve">Laws Ignoring Authorization</source>
@@ -16861,7 +16861,7 @@
       </trans-unit>
       <trans-unit id="Executive Actions Affecting Property" xml:space="preserve">
         <source xml:space="preserve">Executive Actions Affecting Property</source>
-        <target xml:space="preserve" state="translated">Výkonná opatření ovlivňující majetek</target>
+        <target xml:space="preserve" state="translated">Výkonná opatření ovlivňující pozemek</target>
       </trans-unit>
       <trans-unit id="Less Than" xml:space="preserve">
         <source xml:space="preserve">Less Than</source>
@@ -16897,19 +16897,19 @@
       </trans-unit>
       <trans-unit id="Owner Of Property" xml:space="preserve">
         <source xml:space="preserve">Owner Of Property</source>
-        <target xml:space="preserve" state="translated">Vlastník majetku</target>
+        <target xml:space="preserve" state="translated">Vlastník pozemku</target>
       </trans-unit>
       <trans-unit id="Not Owner Of Property" xml:space="preserve">
         <source xml:space="preserve">Not Owner Of Property</source>
-        <target xml:space="preserve" state="translated">Není vlastníkem majetku</target>
+        <target xml:space="preserve" state="translated">Není vlastníkem pozemku</target>
       </trans-unit>
       <trans-unit id="Authorized On Property" xml:space="preserve">
         <source xml:space="preserve">Authorized On Property</source>
-        <target xml:space="preserve" state="translated">S oprávněním k majetku</target>
+        <target xml:space="preserve" state="translated">S oprávněním k pozemku</target>
       </trans-unit>
       <trans-unit id="Unauthorized On Property" xml:space="preserve">
         <source xml:space="preserve">Unauthorized On Property</source>
-        <target xml:space="preserve" state="translated">Bez oprávnění k majetku</target>
+        <target xml:space="preserve" state="translated">Bez oprávnění k pozemku</target>
       </trans-unit>
       <trans-unit id="Not Destroying Organism" xml:space="preserve">
         <source xml:space="preserve">Not Destroying Organism</source>
@@ -16953,7 +16953,7 @@
       </trans-unit>
       <trans-unit id="Unclaiming Land" xml:space="preserve">
         <source xml:space="preserve">Unclaiming Land</source>
-        <target xml:space="preserve" state="translated">Rušení záboru</target>
+        <target xml:space="preserve" state="translated">Uvolňování půdy</target>
       </trans-unit>
       <trans-unit id="Building Block" xml:space="preserve">
         <source xml:space="preserve">Building Block</source>
@@ -19052,7 +19052,7 @@
       </trans-unit>
       <trans-unit id="Work Party" xml:space="preserve">
         <source xml:space="preserve">Work Party</source>
-        <target xml:space="preserve" state="translated">Pracovní skupina</target>
+        <target xml:space="preserve" state="translated">Pracovní parta</target>
       </trans-unit>
       <trans-unit id="Contracts related to {0} recalculated" xml:space="preserve">
         <source xml:space="preserve">Contracts related to <ph id="0">{0}</ph> recalculated</source>
@@ -19184,7 +19184,7 @@
       </trans-unit>
       <trans-unit id="All property owned {0}by {1}" xml:space="preserve">
         <source xml:space="preserve">All property owned <ph id="0">{0}</ph>by <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Veškerý majetek, který vlastní <ph id="0">{0}</ph><ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Všechny pozemky, které vlastní <ph id="0">{0}</ph><ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="only" xml:space="preserve">
         <source xml:space="preserve">only</source>
@@ -19192,15 +19192,15 @@
       </trans-unit>
       <trans-unit id="Property owned by this citizen." xml:space="preserve">
         <source xml:space="preserve">Property owned by this citizen.</source>
-        <target xml:space="preserve" state="translated">Majetek, který vlastní tento občan.</target>
+        <target xml:space="preserve" state="translated">Pozemky, které vlastní tento občan.</target>
       </trans-unit>
       <trans-unit id="Should only property that is solely owned by the specified citizen be considered? If not set, joint owned property will be chosen as well." xml:space="preserve">
         <source xml:space="preserve">Should only property that is solely owned by the specified citizen be considered? If not set, joint owned property will be chosen as well.</source>
-        <target xml:space="preserve" state="translated">Má se brát v úvahu jen majetek, který zadaný občan vlastní sám? Pokud volba není zapnutá, vybere se i majetek ve spoluvlastnictví.</target>
+        <target xml:space="preserve" state="translated">Mají se brát v úvahu jen pozemky, které zadaný občan vlastní sám? Pokud volba není zapnutá, vyberou se i pozemky ve spoluvlastnictví.</target>
       </trans-unit>
       <trans-unit id="All property owned by a citizen." xml:space="preserve">
         <source xml:space="preserve">All property owned by a citizen.</source>
-        <target xml:space="preserve" state="translated">Veškerý majetek vlastněný občanem.</target>
+        <target xml:space="preserve" state="translated">Všechny pozemky vlastněné občanem.</target>
       </trans-unit>
       <trans-unit id="Separate from how many total terms a citizen can serve, this value defines how many terms a citizen can have consecutively." xml:space="preserve">
         <source xml:space="preserve">Separate from how many total terms a citizen can serve, this value defines how many terms a citizen can have consecutively.</source>
@@ -19252,11 +19252,11 @@
       </trans-unit>
       <trans-unit id="Change the owners of a set of property." xml:space="preserve">
         <source xml:space="preserve">Change the owners of a set of property.</source>
-        <target xml:space="preserve" state="translated">Změní vlastníky zadané sady majetku.</target>
+        <target xml:space="preserve" state="translated">Změní vlastníky zadané sady pozemků.</target>
       </trans-unit>
       <trans-unit id="Change Property Owner" xml:space="preserve">
         <source xml:space="preserve">Change Property Owner</source>
-        <target xml:space="preserve" state="translated">Změnit vlastníka majetku</target>
+        <target xml:space="preserve" state="translated">Změnit vlastníka pozemku</target>
       </trans-unit>
       <trans-unit id="then" xml:space="preserve">
         <source xml:space="preserve">then</source>
@@ -19501,23 +19501,23 @@
       </trans-unit>
       <trans-unit id="A citizen started a work party." xml:space="preserve">
         <source xml:space="preserve">A citizen started a work party.</source>
-        <target xml:space="preserve" state="translated">Občan založil pracovní skupinu.</target>
+        <target xml:space="preserve" state="translated">Občan založil pracovní partu.</target>
       </trans-unit>
       <trans-unit id="A citizen joined a work party." xml:space="preserve">
         <source xml:space="preserve">A citizen joined a work party.</source>
-        <target xml:space="preserve" state="translated">Občan se připojil k pracovní skupině.</target>
+        <target xml:space="preserve" state="translated">Občan se připojil k pracovní partě.</target>
       </trans-unit>
       <trans-unit id="A citizen left a work party." xml:space="preserve">
         <source xml:space="preserve">A citizen left a work party.</source>
-        <target xml:space="preserve" state="translated">Občan opustil pracovní skupinu.</target>
+        <target xml:space="preserve" state="translated">Občan opustil pracovní partu.</target>
       </trans-unit>
       <trans-unit id="A work party was completed." xml:space="preserve">
         <source xml:space="preserve">A work party was completed.</source>
-        <target xml:space="preserve" state="translated">Pracovní skupina byla dokončena.</target>
+        <target xml:space="preserve" state="translated">Pracovní parta byla dokončena.</target>
       </trans-unit>
       <trans-unit id="A citizen performed work for a work party." xml:space="preserve">
         <source xml:space="preserve">A citizen performed work for a work party.</source>
-        <target xml:space="preserve" state="translated">Občan odvedl práci pro pracovní skupinu.</target>
+        <target xml:space="preserve" state="translated">Občan odvedl práci pro pracovní partu.</target>
       </trans-unit>
       <trans-unit id="Percent of work contributed." xml:space="preserve">
         <source xml:space="preserve">Percent of work contributed.</source>
@@ -19557,11 +19557,11 @@
       </trans-unit>
       <trans-unit id="A citizen claimed or unclaimed property." xml:space="preserve">
         <source xml:space="preserve">A citizen claimed or unclaimed property.</source>
-        <target xml:space="preserve" state="translated">Občan zabral pozemek nebo zrušil jeho zábor.</target>
+        <target xml:space="preserve" state="translated">Občan zabral nebo uvolnil pozemek.</target>
       </trans-unit>
       <trans-unit id="The citizen who claimed or unclaimed the land." xml:space="preserve">
         <source xml:space="preserve">The citizen who claimed or unclaimed the land.</source>
-        <target xml:space="preserve" state="translated">Občan, který pozemek zabral nebo zrušil jeho zábor.</target>
+        <target xml:space="preserve" state="translated">Občan, který pozemek zabral nebo uvolnil.</target>
       </trans-unit>
       <trans-unit id="A citizen paid tax." xml:space="preserve">
         <source xml:space="preserve">A citizen paid tax.</source>
@@ -20764,7 +20764,7 @@
       </trans-unit>
       <trans-unit id="Components" xml:space="preserve">
         <source xml:space="preserve">Components</source>
-        <target xml:space="preserve" state="translated">Komponenty</target>
+        <target xml:space="preserve" state="translated">Funkce</target>
       </trans-unit>
       <trans-unit id="Value" xml:space="preserve">
         <source xml:space="preserve">Value</source>
@@ -20879,7 +20879,7 @@
       </trans-unit>
       <trans-unit id="Work Party Payment" xml:space="preserve">
         <source xml:space="preserve">Work Party Payment</source>
-        <target xml:space="preserve" state="translated">Platba z pracovní skupiny</target>
+        <target xml:space="preserve" state="translated">Platba z pracovní party</target>
       </trans-unit>
       <trans-unit id="Toll Payment" xml:space="preserve">
         <source xml:space="preserve">Toll Payment</source>
@@ -21015,11 +21015,11 @@
       </trans-unit>
       <trans-unit id="Couldn't find any work orders to populate this work party with.  Create unfinished work orders first, then create the work party." xml:space="preserve">
         <source xml:space="preserve">Couldn't find any work orders to populate this work party with.  Create unfinished work orders first, then create the work party.</source>
-        <target xml:space="preserve" state="translated">Nepodařilo se najít žádné zakázky, kterými by se tato pracovní skupina naplnila. Nejprve vytvoř nedokončené zakázky a poté pracovní skupinu.</target>
+        <target xml:space="preserve" state="translated">Nepodařilo se najít žádné zakázky, kterými by se tato pracovní parta naplnila. Nejprve vytvoř nedokončené zakázky a poté pracovní partu.</target>
       </trans-unit>
       <trans-unit id="Couldn't spawn party: {0}" xml:space="preserve">
         <source xml:space="preserve">Couldn't spawn party: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Pracovní skupinu se nepodařilo vytvořit: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Pracovní partu se nepodařilo vytvořit: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Craft {0}" xml:space="preserve">
         <source xml:space="preserve">Craft <ph id="0">{0}</ph></source>
@@ -21027,7 +21027,7 @@
       </trans-unit>
       <trans-unit id="You contributed to {0} but are not a member of it!  To get credit for your contributions, join the work party at {1}." xml:space="preserve">
         <source xml:space="preserve">You contributed to <ph id="0">{0}</ph> but are not a member of it!  To get credit for your contributions, join the work party at <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Přispíváš do pracovní skupiny <ph id="0">{0}</ph>, ale nejsi jejím členem! Aby se ti příspěvky započítaly, připoj se k ní u objektu <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Přispíváš do pracovní party <ph id="0">{0}</ph>, ale nejsi jejím členem! Aby se ti příspěvky započítaly, připoj se k ní u objektu <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Post failed: {0}" xml:space="preserve">
         <source xml:space="preserve">Post failed: <ph id="0">{0}</ph></source>
@@ -21035,11 +21035,11 @@
       </trans-unit>
       <trans-unit id="{0} has been posted and is currently active." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has been posted and is currently active.</source>
-        <target xml:space="preserve" state="translated">Pracovní skupina <ph id="0">{0}</ph> byla zveřejněna a je nyní aktivní.</target>
+        <target xml:space="preserve" state="translated">Pracovní parta <ph id="0">{0}</ph> byla zveřejněna a je nyní aktivní.</target>
       </trans-unit>
       <trans-unit id="You do not meet the general requirements to join this work party.{0}{1}" xml:space="preserve">
         <source xml:space="preserve">You do not meet the general requirements to join this work party.<ph id="0">{0}</ph><ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Nesplňuješ obecné požadavky pro vstup do této pracovní skupiny.<ph id="0">{0}</ph><ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Nesplňuješ obecné požadavky pro vstup do této pracovní party.<ph id="0">{0}</ph><ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="You do not meet the requirements to join that role.{0}{1}" xml:space="preserve">
         <source xml:space="preserve">You do not meet the requirements to join that role.<ph id="0">{0}</ph><ph id="1">{1}</ph></source>
@@ -21047,15 +21047,15 @@
       </trans-unit>
       <trans-unit id="Could not add work to work party: {0} already is finished with both resources and labor, nothing left to do." xml:space="preserve">
         <source xml:space="preserve">Could not add work to work party: <ph id="0">{0}</ph> already is finished with both resources and labor, nothing left to do.</source>
-        <target xml:space="preserve" state="translated">Do pracovní skupiny nelze přidat práci: zakázka <ph id="0">{0}</ph> je už hotová (suroviny i práce), nezbývá nic k udělání.</target>
+        <target xml:space="preserve" state="translated">Do pracovní party nelze přidat práci: zakázka <ph id="0">{0}</ph> je už hotová (suroviny i práce), nezbývá nic k udělání.</target>
       </trans-unit>
       <trans-unit id="Could not add work to work party: {0} is already on another work party: {1}." xml:space="preserve">
         <source xml:space="preserve">Could not add work to work party: <ph id="0">{0}</ph> is already on another work party: <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Do pracovní skupiny nelze přidat práci: zakázka <ph id="0">{0}</ph> je už v jiné pracovní skupině: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Do pracovní party nelze přidat práci: zakázka <ph id="0">{0}</ph> je už v jiné pracovní partě: <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Work party deleted." xml:space="preserve">
         <source xml:space="preserve">Work party deleted.</source>
-        <target xml:space="preserve" state="translated">Pracovní skupina byla smazána.</target>
+        <target xml:space="preserve" state="translated">Pracovní parta byla smazána.</target>
       </trans-unit>
       <trans-unit id="Remaining Work:" xml:space="preserve">
         <source xml:space="preserve">Remaining Work:</source>
@@ -21063,7 +21063,7 @@
       </trans-unit>
       <trans-unit id="You may only share skill as payment if you have the skillbook in your inventory, or the workparty is creating the skillbook. {0} skillbook was not found in inventory or work list." xml:space="preserve">
         <source xml:space="preserve">You may only share skill as payment if you have the skillbook in your inventory, or the workparty is creating the skillbook. <ph id="0">{0}</ph> skillbook was not found in inventory or work list.</source>
-        <target xml:space="preserve" state="translated">Dovednost můžeš jako platbu sdílet, jen když máš její knihu v inventáři nebo ji vyrábí pracovní skupina. Kniha této dovednosti se nenašla v inventáři ani v seznamu prací: <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Dovednost můžeš jako platbu sdílet, jen když máš její knihu v inventáři nebo ji vyrábí pracovní parta. Kniha této dovednosti se nenašla v inventáři ani v seznamu prací: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="General Requirements" xml:space="preserve">
         <source xml:space="preserve">General Requirements</source>
@@ -21075,15 +21075,15 @@
       </trans-unit>
       <trans-unit id="The list of work that is to be performed for this work party." xml:space="preserve">
         <source xml:space="preserve">The list of work that is to be performed for this work party.</source>
-        <target xml:space="preserve" state="translated">Seznam práce, která se má v této pracovní skupině vykonat.</target>
+        <target xml:space="preserve" state="translated">Seznam práce, která se má v této pracovní partě vykonat.</target>
       </trans-unit>
       <trans-unit id="Details on how payments will be made for this work party." xml:space="preserve">
         <source xml:space="preserve">Details on how payments will be made for this work party.</source>
-        <target xml:space="preserve" state="translated">Podrobnosti o tom, jak se bude v této pracovní skupině platit.</target>
+        <target xml:space="preserve" state="translated">Podrobnosti o tom, jak se bude v této pracovní partě platit.</target>
       </trans-unit>
       <trans-unit id="{0} is assigned to a different work party: {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is assigned to a different work party: <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Zakázka <ph id="0">{0}</ph> je přiřazena k jiné pracovní skupině: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Zakázka <ph id="0">{0}</ph> je přiřazena k jiné pracovní partě: <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Needs" xml:space="preserve">
         <source xml:space="preserve">Needs</source>
@@ -21123,7 +21123,7 @@
       </trans-unit>
       <trans-unit id="Added by {0}" xml:space="preserve">
         <source xml:space="preserve">Added by <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Přidáno pracovní skupinou <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Přidáno pracovní partou <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Receive {0}, {1}" xml:space="preserve">
         <source xml:space="preserve">Receive <ph id="0">{0}</ph>, <ph id="1">{1}</ph></source>
@@ -21139,7 +21139,7 @@
       </trans-unit>
       <trans-unit id="Contributed to {0}" xml:space="preserve">
         <source xml:space="preserve">Contributed to <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Příspěvek pracovní skupině <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Příspěvek pracovní partě <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="occupant" xml:space="preserve">
         <source xml:space="preserve">occupant</source>
@@ -21155,7 +21155,7 @@
       </trans-unit>
       <trans-unit id="Which skills to share.  Must have access to the skillbook at posting time, or the work party is creating the skillbooks." xml:space="preserve">
         <source xml:space="preserve">Which skills to share.  Must have access to the skillbook at posting time, or the work party is creating the skillbooks.</source>
-        <target xml:space="preserve" state="translated">Které dovednosti sdílet. V době zveřejnění musíš mít přístup ke knize dovedností, jinak knihy vytvoří pracovní skupina.</target>
+        <target xml:space="preserve" state="translated">Které dovednosti sdílet. V době zveřejnění musíš mít přístup ke knize dovedností, jinak knihy vytvoří pracovní parta.</target>
       </trans-unit>
       <trans-unit id="Grants a title as payment." xml:space="preserve">
         <source xml:space="preserve">Grants a title as payment.</source>
@@ -21175,7 +21175,7 @@
       </trans-unit>
       <trans-unit id="Payment made with reputation from the work party creator." xml:space="preserve">
         <source xml:space="preserve">Payment made with reputation from the work party creator.</source>
-        <target xml:space="preserve" state="translated">Platba reputací od tvůrce pracovní skupiny.</target>
+        <target xml:space="preserve" state="translated">Platba reputací od tvůrce pracovní party.</target>
       </trans-unit>
       <trans-unit id="Amount paid must be greater than zero." xml:space="preserve">
         <source xml:space="preserve">Amount paid must be greater than zero.</source>
@@ -21199,7 +21199,7 @@
       </trans-unit>
       <trans-unit id="The laborer applying to be in this work party." xml:space="preserve">
         <source xml:space="preserve">The laborer applying to be in this work party.</source>
-        <target xml:space="preserve" state="translated">Pracovník, který se hlásí do této pracovní skupiny.</target>
+        <target xml:space="preserve" state="translated">Pracovník, který se hlásí do této pracovní party.</target>
       </trans-unit>
       <trans-unit id="No property assigned" xml:space="preserve">
         <source xml:space="preserve">No property assigned</source>
@@ -21615,7 +21615,7 @@
       </trans-unit>
       <trans-unit id="Describes the types of work that must be contributed to complete the work party." xml:space="preserve">
         <source xml:space="preserve">Describes the types of work that must be contributed to complete the work party.</source>
-        <target xml:space="preserve" state="translated">Popisuje druhy práce, které je třeba odvést, aby byla pracovní skupina dokončena.</target>
+        <target xml:space="preserve" state="translated">Popisuje druhy práce, které je třeba odvést, aby byla pracovní parta dokončena.</target>
       </trans-unit>
       <trans-unit id="Percent Contributed" xml:space="preserve">
         <source xml:space="preserve">Percent Contributed</source>
@@ -21631,7 +21631,7 @@
       </trans-unit>
       <trans-unit id="A set of requirements that must be met by a person in order for them to be permitted to join the work party.  Clicking the cog button will allow changing this. " xml:space="preserve">
         <source xml:space="preserve">A set of requirements that must be met by a person in order for them to be permitted to join the work party.  Clicking the cog button will allow changing this. </source>
-        <target xml:space="preserve" state="translated">Soubor požadavků, které musí osoba splnit, aby se mohla připojit k pracovní skupině. Změnit je lze tlačítkem s ozubeným kolem. </target>
+        <target xml:space="preserve" state="translated">Soubor požadavků, které musí osoba splnit, aby se mohla připojit k pracovní partě. Změnit je lze tlačítkem s ozubeným kolem. </target>
       </trans-unit>
       <trans-unit id="Ratify" xml:space="preserve">
         <source xml:space="preserve">Ratify</source>
@@ -21643,7 +21643,7 @@
       </trans-unit>
       <trans-unit id="Click to change the general requirements for this work party." xml:space="preserve">
         <source xml:space="preserve">Click to change the general requirements for this work party.</source>
-        <target xml:space="preserve" state="translated">Kliknutím změníš obecné požadavky této pracovní skupiny.</target>
+        <target xml:space="preserve" state="translated">Kliknutím změníš obecné požadavky této pracovní party.</target>
       </trans-unit>
       <trans-unit id="Music Volume " xml:space="preserve">
         <source xml:space="preserve">Music Volume </source>
@@ -21655,7 +21655,7 @@
       </trans-unit>
       <trans-unit id="Create Work Party" xml:space="preserve">
         <source xml:space="preserve">Create Work Party</source>
-        <target xml:space="preserve" state="translated">Vytvořit pracovní skupinu</target>
+        <target xml:space="preserve" state="translated">Vytvořit pracovní partu</target>
       </trans-unit>
       <trans-unit id="Borrower" xml:space="preserve">
         <source xml:space="preserve">Borrower</source>
@@ -22976,7 +22976,7 @@
       </trans-unit>
       <trans-unit id="{0} complete!" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> complete!</source>
-        <target xml:space="preserve" state="translated">Pracovní skupina <ph id="0">{0}</ph> byla dokončena!</target>
+        <target xml:space="preserve" state="translated">Pracovní parta <ph id="0">{0}</ph> byla dokončena!</target>
       </trans-unit>
       <trans-unit id="All weights must be greater than zero." xml:space="preserve">
         <source xml:space="preserve">All weights must be greater than zero.</source>
@@ -23262,7 +23262,7 @@
       </trans-unit>
       <trans-unit id="Work Party Refund" xml:space="preserve">
         <source xml:space="preserve">Work Party Refund</source>
-        <target xml:space="preserve" state="translated">Vratka za pracovní skupinu</target>
+        <target xml:space="preserve" state="translated">Vratka za pracovní partu</target>
       </trans-unit>
       <trans-unit id="A recurve bow that shoots faster and more powerful than a traditional wooden bow. Requires arrows to fire." xml:space="preserve">
         <source xml:space="preserve">A recurve bow that shoots faster and more powerful than a traditional wooden bow. Requires arrows to fire.</source>
@@ -23354,7 +23354,7 @@
       </trans-unit>
       <trans-unit id="component" xml:space="preserve">
         <source xml:space="preserve">component</source>
-        <target xml:space="preserve" state="translated">komponent</target>
+        <target xml:space="preserve" state="translated">funkcí</target>
       </trans-unit>
       <trans-unit id="{0} out of {1} {2} added." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> out of <ph id="1">{1}</ph> <ph id="2">{2}</ph> added.</source>
@@ -23714,7 +23714,7 @@
       </trans-unit>
       <trans-unit id="{0} is not active and can't be cancelled." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not active and can't be cancelled.</source>
-        <target xml:space="preserve" state="translated">Pracovní skupina <ph id="0">{0}</ph> není aktivní a nelze ji zrušit.</target>
+        <target xml:space="preserve" state="translated">Pracovní parta <ph id="0">{0}</ph> není aktivní a nelze ji zrušit.</target>
       </trans-unit>
       <trans-unit id="Can't take the role while {0} is on an unplaced board." xml:space="preserve">
         <source xml:space="preserve">Can't take the role while <ph id="0">{0}</ph> is on an unplaced board.</source>
@@ -23762,103 +23762,103 @@
       </trans-unit>
       <trans-unit id="Economic Components" xml:space="preserve">
         <source xml:space="preserve">Economic Components</source>
-        <target xml:space="preserve" state="translated">Ekonomické komponenty</target>
+        <target xml:space="preserve" state="translated">Ekonomické funkce</target>
       </trans-unit>
       <trans-unit id="Bank Component" xml:space="preserve">
         <source xml:space="preserve">Bank Component</source>
-        <target xml:space="preserve" state="translated">Bankovní komponenta</target>
+        <target xml:space="preserve" state="translated">Funkce banky</target>
       </trans-unit>
       <trans-unit id="Contract Board Component" xml:space="preserve">
         <source xml:space="preserve">Contract Board Component</source>
-        <target xml:space="preserve" state="translated">Komponenta nástěnky smluv</target>
+        <target xml:space="preserve" state="translated">Funkce nástěnky smluv</target>
       </trans-unit>
       <trans-unit id="Credit Component" xml:space="preserve">
         <source xml:space="preserve">Credit Component</source>
-        <target xml:space="preserve" state="translated">Komponenta kreditu</target>
+        <target xml:space="preserve" state="translated">Funkce kreditu</target>
       </trans-unit>
       <trans-unit id="Deed Sales Component" xml:space="preserve">
         <source xml:space="preserve">Deed Sales Component</source>
-        <target xml:space="preserve" state="translated">Komponenta prodeje vlastnictví</target>
+        <target xml:space="preserve" state="translated">Funkce prodeje vlastnictví</target>
       </trans-unit>
       <trans-unit id="Exchange Component" xml:space="preserve">
         <source xml:space="preserve">Exchange Component</source>
-        <target xml:space="preserve" state="translated">Komponenta směny</target>
+        <target xml:space="preserve" state="translated">Funkce směny</target>
       </trans-unit>
       <trans-unit id="Item Distribution Component" xml:space="preserve">
         <source xml:space="preserve">Item Distribution Component</source>
-        <target xml:space="preserve" state="translated">Komponenta rozdávání předmětů</target>
+        <target xml:space="preserve" state="translated">Funkce rozdávání předmětů</target>
       </trans-unit>
       <trans-unit id="Mint Component" xml:space="preserve">
         <source xml:space="preserve">Mint Component</source>
-        <target xml:space="preserve" state="translated">Komponenta mincovny</target>
+        <target xml:space="preserve" state="translated">Funkce mincovny</target>
       </trans-unit>
       <trans-unit id="Store Component" xml:space="preserve">
         <source xml:space="preserve">Store Component</source>
-        <target xml:space="preserve" state="translated">Komponenta obchodu</target>
+        <target xml:space="preserve" state="translated">Funkce obchodu</target>
       </trans-unit>
       <trans-unit id="Government Components" xml:space="preserve">
         <source xml:space="preserve">Government Components</source>
-        <target xml:space="preserve" state="translated">Vládní komponenty</target>
+        <target xml:space="preserve" state="translated">Vládní funkce</target>
       </trans-unit>
       <trans-unit id="Civic Action Component" xml:space="preserve">
         <source xml:space="preserve">Civic Action Component</source>
-        <target xml:space="preserve" state="translated">Komponenta občanské akce</target>
+        <target xml:space="preserve" state="translated">Funkce občanské akce</target>
       </trans-unit>
       <trans-unit id="Civic Object Component" xml:space="preserve">
         <source xml:space="preserve">Civic Object Component</source>
-        <target xml:space="preserve" state="translated">Komponenta občanského objektu</target>
+        <target xml:space="preserve" state="translated">Funkce občanského objektu</target>
       </trans-unit>
       <trans-unit id="Registrar Component" xml:space="preserve">
         <source xml:space="preserve">Registrar Component</source>
-        <target xml:space="preserve" state="translated">Komponenta registrátora</target>
+        <target xml:space="preserve" state="translated">Funkce registrátora</target>
       </trans-unit>
       <trans-unit id="Treasury Component" xml:space="preserve">
         <source xml:space="preserve">Treasury Component</source>
-        <target xml:space="preserve" state="translated">Komponenta státní pokladny</target>
+        <target xml:space="preserve" state="translated">Funkce státní pokladny</target>
       </trans-unit>
       <trans-unit id="Housing Components" xml:space="preserve">
         <source xml:space="preserve">Housing Components</source>
-        <target xml:space="preserve" state="translated">Komponenty bydlení</target>
+        <target xml:space="preserve" state="translated">Funkce bydlení</target>
       </trans-unit>
       <trans-unit id="Authorization Component" xml:space="preserve">
         <source xml:space="preserve">Authorization Component</source>
-        <target xml:space="preserve" state="translated">Autorizační komponenta</target>
+        <target xml:space="preserve" state="translated">Autorizační funkce</target>
       </trans-unit>
       <trans-unit id="Bed Component" xml:space="preserve">
         <source xml:space="preserve">Bed Component</source>
-        <target xml:space="preserve" state="translated">Komponenta postele</target>
+        <target xml:space="preserve" state="translated">Funkce postele</target>
       </trans-unit>
       <trans-unit id="Industry Components" xml:space="preserve">
         <source xml:space="preserve">Industry Components</source>
-        <target xml:space="preserve" state="translated">Průmyslové komponenty</target>
+        <target xml:space="preserve" state="translated">Průmyslové funkce</target>
       </trans-unit>
       <trans-unit id="Crafting Component" xml:space="preserve">
         <source xml:space="preserve">Crafting Component</source>
-        <target xml:space="preserve" state="translated">Komponenta výroby</target>
+        <target xml:space="preserve" state="translated">Funkce výroby</target>
       </trans-unit>
       <trans-unit id="Modules Component" xml:space="preserve">
         <source xml:space="preserve">Modules Component</source>
-        <target xml:space="preserve" state="translated">Komponenta modulů</target>
+        <target xml:space="preserve" state="translated">Funkce modulů</target>
       </trans-unit>
       <trans-unit id="Pipe Component" xml:space="preserve">
         <source xml:space="preserve">Pipe Component</source>
-        <target xml:space="preserve" state="translated">Komponenta potrubí</target>
+        <target xml:space="preserve" state="translated">Funkce potrubí</target>
       </trans-unit>
       <trans-unit id="Power Component" xml:space="preserve">
         <source xml:space="preserve">Power Component</source>
-        <target xml:space="preserve" state="translated">Komponenta energie</target>
+        <target xml:space="preserve" state="translated">Funkce energie</target>
       </trans-unit>
       <trans-unit id="Repair Component" xml:space="preserve">
         <source xml:space="preserve">Repair Component</source>
-        <target xml:space="preserve" state="translated">Komponenta opravy</target>
+        <target xml:space="preserve" state="translated">Funkce opravy</target>
       </trans-unit>
       <trans-unit id="Status Component" xml:space="preserve">
         <source xml:space="preserve">Status Component</source>
-        <target xml:space="preserve" state="translated">Komponenta stavu</target>
+        <target xml:space="preserve" state="translated">Funkce stavu</target>
       </trans-unit>
       <trans-unit id="Storage Component" xml:space="preserve">
         <source xml:space="preserve">Storage Component</source>
-        <target xml:space="preserve" state="translated">Komponenta skladu</target>
+        <target xml:space="preserve" state="translated">Funkce skladu</target>
       </trans-unit>
       <trans-unit id="Concepts" xml:space="preserve">
         <source xml:space="preserve">Concepts</source>
@@ -23902,7 +23902,7 @@
       </trans-unit>
       <trans-unit id="Vehicle Component" xml:space="preserve">
         <source xml:space="preserve">Vehicle Component</source>
-        <target xml:space="preserve" state="translated">Komponenta vozidla</target>
+        <target xml:space="preserve" state="translated">Funkce vozidla</target>
       </trans-unit>
       <trans-unit id="Getting Started" xml:space="preserve">
         <source xml:space="preserve">Getting Started</source>
@@ -23942,11 +23942,11 @@
       </trans-unit>
       <trans-unit id="My Deeds Component" xml:space="preserve">
         <source xml:space="preserve">My Deeds Component</source>
-        <target xml:space="preserve" state="translated">Komponenta mého vlastnictví</target>
+        <target xml:space="preserve" state="translated">Funkce mého vlastnictví</target>
       </trans-unit>
       <trans-unit id="Text Component" xml:space="preserve">
         <source xml:space="preserve">Text Component</source>
-        <target xml:space="preserve" state="translated">Textová komponenta</target>
+        <target xml:space="preserve" state="translated">Textová funkce</target>
       </trans-unit>
       <trans-unit id="Food Webs" xml:space="preserve">
         <source xml:space="preserve">Food Webs</source>
@@ -25270,7 +25270,7 @@
       </trans-unit>
       <trans-unit id="Stashed work parties list is not empty:" xml:space="preserve">
         <source xml:space="preserve">Stashed work parties list is not empty:</source>
-        <target xml:space="preserve" state="translated">Seznam odložených pracovních skupin není prázdný:</target>
+        <target xml:space="preserve" state="translated">Seznam odložených pracovních part není prázdný:</target>
       </trans-unit>
       <trans-unit id="Would you like to post the stash on this board?" xml:space="preserve">
         <source xml:space="preserve">Would you like to post the stash on this board?</source>
@@ -25282,7 +25282,7 @@
       </trans-unit>
       <trans-unit id="All stashed work parties were moved to this board!" xml:space="preserve">
         <source xml:space="preserve">All stashed work parties were moved to this board!</source>
-        <target xml:space="preserve" state="translated">Všechny odložené pracovní skupiny byly přesunuty na tuto nástěnku!</target>
+        <target xml:space="preserve" state="translated">Všechny odložené pracovní party byly přesunuty na tuto nástěnku!</target>
       </trans-unit>
       <trans-unit id="Successfully moved:" xml:space="preserve">
         <source xml:space="preserve">Successfully moved:</source>
@@ -26494,7 +26494,7 @@
       </trans-unit>
       <trans-unit id="{0} cancelled. {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cancelled. <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Pracovní skupina <ph id="0">{0}</ph> byla zrušena. <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Pracovní parta <ph id="0">{0}</ph> byla zrušena. <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="No payments upon completion." xml:space="preserve">
         <source xml:space="preserve">No payments upon completion.</source>
@@ -26722,11 +26722,11 @@
       </trans-unit>
       <trans-unit id="The {0} has a component missing in the {1}: {2} (or at wrong position)" xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> has a component missing in the <ph id="1">{1}</ph>: <ph id="2">{2}</ph> (or at wrong position)</source>
-        <target xml:space="preserve" state="translated">Objekt <ph id="0">{0}</ph>: v „<ph id="1">{1}</ph>“ chybí komponenta: <ph id="2">{2}</ph> (nebo je na nesprávné pozici)</target>
+        <target xml:space="preserve" state="translated">Objekt <ph id="0">{0}</ph>: v „<ph id="1">{1}</ph>“ chybí funkce: <ph id="2">{2}</ph> (nebo je na nesprávné pozici)</target>
       </trans-unit>
       <trans-unit id="The {0} missing a component from the {1}: {2}" xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> missing a component from the <ph id="1">{1}</ph>: <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>: chybí komponenta (z: <ph id="1">{1}</ph>): <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>: chybí funkce (z: <ph id="1">{1}</ph>): <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="The {0} has a child missing in the {1}: {2} (or at wrong position)" xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> has a child missing in the <ph id="1">{1}</ph>: <ph id="2">{2}</ph> (or at wrong position)</source>
@@ -28084,7 +28084,7 @@
       </trans-unit>
       <trans-unit id="Commands related to work parties." xml:space="preserve">
         <source xml:space="preserve">Commands related to work parties.</source>
-        <target xml:space="preserve" state="translated">Příkazy související s pracovními skupinami.</target>
+        <target xml:space="preserve" state="translated">Příkazy související s pracovními partami.</target>
       </trans-unit>
       <trans-unit id="WorkParty" xml:space="preserve">
         <source xml:space="preserve">WorkParty</source>
@@ -28092,7 +28092,7 @@
       </trans-unit>
       <trans-unit id="Spawn a work party for testing." xml:space="preserve">
         <source xml:space="preserve">Spawn a work party for testing.</source>
-        <target xml:space="preserve" state="translated">Vytvoří pracovní skupinu pro testování.</target>
+        <target xml:space="preserve" state="translated">Vytvoří pracovní partu pro testování.</target>
       </trans-unit>
       <trans-unit id="Personal account should have Creator." xml:space="preserve">
         <source xml:space="preserve">Personal account should have Creator.</source>
@@ -28507,7 +28507,7 @@
       </trans-unit>
       <trans-unit id="Property Type" xml:space="preserve">
         <source xml:space="preserve">Property Type</source>
-        <target xml:space="preserve" state="translated">Typ majetku</target>
+        <target xml:space="preserve" state="translated">Typ pozemku</target>
       </trans-unit>
       <trans-unit id="Rent" xml:space="preserve">
         <source xml:space="preserve">Rent</source>
@@ -29771,7 +29771,7 @@
       </trans-unit>
       <trans-unit id="Click existing claims to erase them. Hold left-control to temporarily switch viewed layer." xml:space="preserve">
         <source xml:space="preserve">Click existing claims to erase them. Hold left-control to temporarily switch viewed layer.</source>
-        <target xml:space="preserve" state="translated">Kliknutím na stávající zábory je smažeš. Podržením levého Ctrl dočasně přepneš zobrazenou vrstvu.</target>
+        <target xml:space="preserve" state="translated">Kliknutím na stávající pozemky je smažeš. Podržením levého Ctrl dočasně přepneš zobrazenou vrstvu.</target>
       </trans-unit>
       <trans-unit id="Draft election of type {0}." xml:space="preserve">
         <source xml:space="preserve">Draft election of type <ph id="0">{0}</ph>.</source>
@@ -30171,7 +30171,7 @@
       </trans-unit>
       <trans-unit id="Rent For Property" xml:space="preserve">
         <source xml:space="preserve">Rent For Property</source>
-        <target xml:space="preserve" state="translated">Nájemné za majetek</target>
+        <target xml:space="preserve" state="translated">Nájemné za pozemek</target>
       </trans-unit>
       <trans-unit id="Residency Context" xml:space="preserve">
         <source xml:space="preserve">Residency Context</source>
@@ -30211,23 +30211,23 @@
       </trans-unit>
       <trans-unit id="Posted Work Party" xml:space="preserve">
         <source xml:space="preserve">Posted Work Party</source>
-        <target xml:space="preserve" state="translated">Zveřejněná pracovní skupina</target>
+        <target xml:space="preserve" state="translated">Zveřejněná pracovní parta</target>
       </trans-unit>
       <trans-unit id="Joined Work Party" xml:space="preserve">
         <source xml:space="preserve">Joined Work Party</source>
-        <target xml:space="preserve" state="translated">Vstup do pracovní skupiny</target>
+        <target xml:space="preserve" state="translated">Vstup do pracovní party</target>
       </trans-unit>
       <trans-unit id="Left Work Party" xml:space="preserve">
         <source xml:space="preserve">Left Work Party</source>
-        <target xml:space="preserve" state="translated">Odchod z pracovní skupiny</target>
+        <target xml:space="preserve" state="translated">Odchod z pracovní party</target>
       </trans-unit>
       <trans-unit id="Completed Work Party" xml:space="preserve">
         <source xml:space="preserve">Completed Work Party</source>
-        <target xml:space="preserve" state="translated">Dokončená pracovní skupina</target>
+        <target xml:space="preserve" state="translated">Dokončená pracovní parta</target>
       </trans-unit>
       <trans-unit id="Worked For Work Party" xml:space="preserve">
         <source xml:space="preserve">Worked For Work Party</source>
-        <target xml:space="preserve" state="translated">Práce pro pracovní skupinu</target>
+        <target xml:space="preserve" state="translated">Práce pro pracovní partu</target>
       </trans-unit>
       <trans-unit id="Offered Loan Or Bond" xml:space="preserve">
         <source xml:space="preserve">Offered Loan Or Bond</source>
@@ -30279,7 +30279,7 @@
       </trans-unit>
       <trans-unit id="Claim Or Unclaim Property" xml:space="preserve">
         <source xml:space="preserve">Claim Or Unclaim Property</source>
-        <target xml:space="preserve" state="translated">Zabrat nebo uvolnit majetek</target>
+        <target xml:space="preserve" state="translated">Zabrat nebo uvolnit pozemek</target>
       </trans-unit>
       <trans-unit id="Residency Changed" xml:space="preserve">
         <source xml:space="preserve">Residency Changed</source>
@@ -30555,11 +30555,11 @@
       </trans-unit>
       <trans-unit id="Property Requirements" xml:space="preserve">
         <source xml:space="preserve">Property Requirements</source>
-        <target xml:space="preserve" state="translated">Požadavky na majetek</target>
+        <target xml:space="preserve" state="translated">Požadavky na pozemek</target>
       </trans-unit>
       <trans-unit id="Property Owned" xml:space="preserve">
         <source xml:space="preserve">Property Owned</source>
-        <target xml:space="preserve" state="translated">Vlastněný majetek</target>
+        <target xml:space="preserve" state="translated">Vlastněný pozemek</target>
       </trans-unit>
       <trans-unit id="District Requirements" xml:space="preserve">
         <source xml:space="preserve">District Requirements</source>
@@ -30627,7 +30627,7 @@
       </trans-unit>
       <trans-unit id="All Property" xml:space="preserve">
         <source xml:space="preserve">All Property</source>
-        <target xml:space="preserve" state="translated">Veškerý majetek</target>
+        <target xml:space="preserve" state="translated">Všechny pozemky</target>
       </trans-unit>
       <trans-unit id="Law Manager" xml:space="preserve">
         <source xml:space="preserve">Law Manager</source>
@@ -31135,7 +31135,7 @@
       </trans-unit>
       <trans-unit id="If this title is removed, then all the property that it owns will be transferred to this backup owner.  (Note: if this backup owner is invalid, then the property will become unowned.)" xml:space="preserve">
         <source xml:space="preserve">If this title is removed, then all the property that it owns will be transferred to this backup owner.  (Note: if this backup owner is invalid, then the property will become unowned.)</source>
-        <target xml:space="preserve" state="translated">Pokud bude tato funkce zrušena, veškerý majetek, který vlastní, bude převeden na tohoto záložního vlastníka.  (Poznámka: pokud je tento záložní vlastník neplatný, majetek zůstane bez vlastníka.)</target>
+        <target xml:space="preserve" state="translated">Pokud bude tato funkce zrušena, veškerý pozemek, který vlastní, bude převeden na tohoto záložního vlastníka.  (Poznámka: pokud je tento záložní vlastník neplatný, pozemek zůstane bez vlastníka.)</target>
       </trans-unit>
       <trans-unit id="{0} cannot manage and {1} cannot use this account anymore." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cannot manage and <ph id="1">{1}</ph> cannot use this account anymore.</source>
@@ -31362,7 +31362,7 @@
       </trans-unit>
       <trans-unit id="Property On Deed" xml:space="preserve">
         <source xml:space="preserve">Property On Deed</source>
-        <target xml:space="preserve" state="translated">Majetek ve vlastnictví</target>
+        <target xml:space="preserve" state="translated">Pozemek ve vlastnictví</target>
       </trans-unit>
       <trans-unit id="Village Workbench" xml:space="preserve">
         <source xml:space="preserve">Village Workbench</source>
@@ -31802,7 +31802,7 @@
       </trans-unit>
       <trans-unit id="Create Work Parties" xml:space="preserve">
         <source xml:space="preserve">Create Work Parties</source>
-        <target xml:space="preserve" state="translated">Vytvářet pracovní skupiny</target>
+        <target xml:space="preserve" state="translated">Vytvářet pracovní party</target>
       </trans-unit>
       <trans-unit id="Carpentry Research" xml:space="preserve">
         <source xml:space="preserve">Carpentry Research</source>
@@ -32670,7 +32670,7 @@
       </trans-unit>
       <trans-unit id="If this entry is removed, then all the property that belongs it will be transferred to this backup owner.  (Note: if this backup owner is invalid, then the property will become unowned.)" xml:space="preserve">
         <source xml:space="preserve">If this entry is removed, then all the property that belongs it will be transferred to this backup owner.  (Note: if this backup owner is invalid, then the property will become unowned.)</source>
-        <target xml:space="preserve" state="translated">Pokud bude tento záznam odstraněn, veškerý majetek, který mu patří, přejde na tohoto záložního vlastníka.  (Poznámka: pokud je tento záložní vlastník neplatný, majetek zůstane bez vlastníka.)</target>
+        <target xml:space="preserve" state="translated">Pokud bude tento záznam odstraněn, veškerý pozemek, který mu patří, přejde na tohoto záložního vlastníka.  (Poznámka: pokud je tento záložní vlastník neplatný, pozemek zůstane bez vlastníka.)</target>
       </trans-unit>
       <trans-unit id="{0} is outdated. All data was migrated to the new version." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is outdated. All data was migrated to the new version.</source>
@@ -33319,7 +33319,7 @@
       </trans-unit>
       <trans-unit id="Applies To Property Type" xml:space="preserve">
         <source xml:space="preserve">Applies To Property Type</source>
-        <target xml:space="preserve" state="translated">Platí pro typ majetku</target>
+        <target xml:space="preserve" state="translated">Platí pro typ pozemku</target>
       </trans-unit>
       <trans-unit id="If this is a teacher workstation, put the tier in this value." xml:space="preserve">
         <source xml:space="preserve">If this is a teacher workstation, put the tier in this value.</source>
@@ -33867,7 +33867,7 @@
       </trans-unit>
       <trans-unit id="Property Relation Type" xml:space="preserve">
         <source xml:space="preserve">Property Relation Type</source>
-        <target xml:space="preserve" state="translated">Vztah majetku ke čtvrti</target>
+        <target xml:space="preserve" state="translated">Vztah pozemku ke čtvrti</target>
       </trans-unit>
       <trans-unit id="House Value At Districts" xml:space="preserve">
         <source xml:space="preserve">House Value At Districts</source>
@@ -33903,7 +33903,7 @@
       </trans-unit>
       <trans-unit id="Property Location" xml:space="preserve">
         <source xml:space="preserve">Property Location</source>
-        <target xml:space="preserve" state="translated">Umístění majetku</target>
+        <target xml:space="preserve" state="translated">Umístění pozemku</target>
       </trans-unit>
       <trans-unit id="Invite Or Rescind" xml:space="preserve">
         <source xml:space="preserve">Invite Or Rescind</source>
@@ -35493,7 +35493,7 @@
       </trans-unit>
       <trans-unit id="Setup Payment for Work Party" xml:space="preserve">
         <source xml:space="preserve">Setup Payment for Work Party</source>
-        <target xml:space="preserve" state="translated">Nastavit platbu za pracovní skupinu</target>
+        <target xml:space="preserve" state="translated">Nastavit platbu za pracovní partu</target>
       </trans-unit>
       <trans-unit id="{0} granted {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> granted <ph id="1">{1}</ph>.</source>
@@ -35661,7 +35661,7 @@
       </trans-unit>
       <trans-unit id="To receive education in a topic, you must enroll in a class teaching the subject at a school.  View available classes in the economy viewer." xml:space="preserve">
         <source xml:space="preserve">To receive education in a topic, you must enroll in a class teaching the subject at a school.  View available classes in the economy viewer.</source>
-        <target xml:space="preserve" state="translated">Chceš-li získat vzdělání v daném oboru, zapiš se ve škole do kurzu, který ho vyučuje.  Dostupné kurzy najdeš v prohlížeči ekonomiky.</target>
+        <target xml:space="preserve" state="translated">Chceš-li získat vzdělání v daném oboru, zapiš se ve škole do kurzu, který ho vyučuje.  Dostupné kurzy najdeš v ekonomickém panelu.</target>
       </trans-unit>
       <trans-unit id="Fully Educated, not yet taken as specialty." xml:space="preserve">
         <source xml:space="preserve">Fully Educated, not yet taken as specialty.</source>
@@ -35773,7 +35773,7 @@
       </trans-unit>
       <trans-unit id="Can't unclaim plot: You have residents on the property, you will need to evict them before unclaiming land." xml:space="preserve">
         <source xml:space="preserve">Can't unclaim plot: You have residents on the property, you will need to evict them before unclaiming land.</source>
-        <target xml:space="preserve" state="translated">Nelze zrušit zábor parcely: na pozemku jsou obyvatelé, musíš je před zrušením záboru vystěhovat.</target>
+        <target xml:space="preserve" state="translated">Parcelu nelze uvolnit: na pozemku jsou obyvatelé, musíš je před uvolněním vystěhovat.</target>
       </trans-unit>
       <trans-unit id="Cannot move selected plot onto {0}: would result in non-contiguous deed" xml:space="preserve">
         <source xml:space="preserve">Cannot move selected plot onto <ph id="0">{0}</ph>: would result in non-contiguous deed</source>
@@ -37264,7 +37264,7 @@
       </trans-unit>
       <trans-unit id="{0} still owes {1} a total amount of {2}. Debt can be paid in the Economy Viewer." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> still owes <ph id="1">{1}</ph> a total amount of <ph id="2">{2}</ph>. Debt can be paid in the Economy Viewer.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> stále dluží <ph id="1">{1}</ph> celkem <ph id="2">{2}</ph>. Dluh lze splatit v prohlížeči ekonomiky.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> stále dluží <ph id="1">{1}</ph> celkem <ph id="2">{2}</ph>. Dluh lze splatit v ekonomickém panelu.</target>
       </trans-unit>
       <trans-unit id="Force a given number of players to be active, creating the users if there are not enough" xml:space="preserve">
         <source xml:space="preserve">Force a given number of players to be active, creating the users if there are not enough</source>
@@ -37873,7 +37873,7 @@
       </trans-unit>
       <trans-unit id="Forces resolution of property crises by removing claims now.  Pass individual settlement, or leave blank for 'all settlements in crisis'." xml:space="preserve">
         <source xml:space="preserve">Forces resolution of property crises by removing claims now.  Pass individual settlement, or leave blank for 'all settlements in crisis'.</source>
-        <target xml:space="preserve" state="translated">Vynutí vyřešení majetkových krizí okamžitým zrušením záborů.  Lze zadat jednotlivou osadu, nebo nechat prázdné pro „všechny osady v krizi“.</target>
+        <target xml:space="preserve" state="translated">Vynutí vyřešení pozemkových krizí okamžitým uvolněním pozemků.  Lze zadat jednotlivou osadu, nebo nechat prázdné pro „všechny osady v krizi“.</target>
         <note from="developer">Help text for chat command /resolvecrisis</note>
       </trans-unit>
       <trans-unit id="Citizens Per Town" xml:space="preserve">
@@ -37982,7 +37982,7 @@
       </trans-unit>
       <trans-unit id="Currency is a societal construct that makes trade easier." xml:space="preserve">
         <source xml:space="preserve">Currency is a societal construct that makes trade easier.</source>
-        <target xml:space="preserve" state="translated">Měna je společenský konstrukt, který usnadňuje obchod.</target>
+        <target xml:space="preserve" state="translated">Měna je společenský konstrukt, který usnadňuje obchodování.</target>
       </trans-unit>
       <trans-unit id="Create and manage access to bank accounts." xml:space="preserve">
         <source xml:space="preserve">Create and manage access to bank accounts.</source>
@@ -38698,7 +38698,7 @@
       </trans-unit>
       <trans-unit id="{0} started a work party {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> started a work party <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Hráč <ph id="0">{0}</ph> založil pracovní skupinu <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Hráč <ph id="0">{0}</ph> založil pracovní partu <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Government Account" xml:space="preserve">
         <source xml:space="preserve">Government Account</source>
@@ -38954,7 +38954,7 @@
       </trans-unit>
       <trans-unit id="Share Your Property" xml:space="preserve">
         <source xml:space="preserve">Share Your Property</source>
-        <target xml:space="preserve" state="translated">Sdílej svůj majetek</target>
+        <target xml:space="preserve" state="translated">Sdílej svůj pozemek</target>
       </trans-unit>
       <trans-unit id="You can set who is able to use your property for both objects and deeds." xml:space="preserve">
         <source xml:space="preserve">You can set who is able to use your property for both objects and deeds.</source>
@@ -38966,7 +38966,7 @@
       </trans-unit>
       <trans-unit id="Open the Deed by clicking the property name. Add friends to the authorized list if you like." xml:space="preserve">
         <source xml:space="preserve">Open the Deed by clicking the property name. Add friends to the authorized list if you like.</source>
-        <target xml:space="preserve" state="translated">Otevři list vlastnictví kliknutím na název majetku. Chceš-li, přidej přátele do seznamu oprávněných.</target>
+        <target xml:space="preserve" state="translated">Otevři list vlastnictví kliknutím na název pozemku. Chceš-li, přidej přátele do seznamu oprávněných.</target>
       </trans-unit>
       <trans-unit id="Build a House" xml:space="preserve">
         <source xml:space="preserve">Build a House</source>
@@ -39010,11 +39010,11 @@
       </trans-unit>
       <trans-unit id="You're low on calories, find wild food in the area.." xml:space="preserve">
         <source xml:space="preserve">You're low on calories, find wild food in the area..</source>
-        <target xml:space="preserve" state="translated">Máš málo kalorií, najdi v okolí divoké potraviny.</target>
+        <target xml:space="preserve" state="translated">Máš málo kalorií, najdi v okolí plody divočiny.</target>
       </trans-unit>
       <trans-unit id="Find more wild food in the area." xml:space="preserve">
         <source xml:space="preserve">Find more wild food in the area.</source>
-        <target xml:space="preserve" state="translated">Najdi v okolí další divoké potraviny.</target>
+        <target xml:space="preserve" state="translated">Najdi v okolí další plody divočiny.</target>
       </trans-unit>
       <trans-unit id="Eating a balanced diet will let you gain XP faster." xml:space="preserve">
         <source xml:space="preserve">Eating a balanced diet will let you gain XP faster.</source>
@@ -39050,7 +39050,7 @@
       </trans-unit>
       <trans-unit id="Plot unclaimed for {0}." xml:space="preserve">
         <source xml:space="preserve">Plot unclaimed for <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Zábor parcely zrušen pro <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Parcela uvolněna pro <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Objects destroyed: {0}" xml:space="preserve">
         <source xml:space="preserve">Objects destroyed: <ph id="0">{0}</ph></source>
@@ -39078,11 +39078,11 @@
       </trans-unit>
       <trans-unit id="Property crisis has been resolved!" xml:space="preserve">
         <source xml:space="preserve">Property crisis has been resolved!</source>
-        <target xml:space="preserve" state="translated">Majetková krize byla vyřešena!</target>
+        <target xml:space="preserve" state="translated">Pozemková krize byla vyřešena!</target>
       </trans-unit>
       <trans-unit id="Property crisis still active, still need to return {0}." xml:space="preserve">
         <source xml:space="preserve">Property crisis still active, still need to return <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Majetková krize stále trvá, stále je třeba vrátit: <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Pozemková krize stále trvá, stále je třeba vrátit: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="The population of {0} has increased to {1}." xml:space="preserve">
         <source xml:space="preserve">The population of <ph id="0">{0}</ph> has increased to <ph id="1">{1}</ph>.</source>
@@ -39094,7 +39094,7 @@
       </trans-unit>
       <trans-unit id="Property Crisis for {0} resolved." xml:space="preserve">
         <source xml:space="preserve">Property Crisis for <ph id="0">{0}</ph> resolved.</source>
-        <target xml:space="preserve" state="translated">Majetková krize osady <ph id="0">{0}</ph> byla vyřešena.</target>
+        <target xml:space="preserve" state="translated">Pozemková krize osady <ph id="0">{0}</ph> byla vyřešena.</target>
       </trans-unit>
       <trans-unit id="Removed placed {0} at {1}." xml:space="preserve">
         <source xml:space="preserve">Removed placed <ph id="0">{0}</ph> at <ph id="1">{1}</ph>.</source>
@@ -39102,7 +39102,7 @@
       </trans-unit>
       <trans-unit id="property crisis" xml:space="preserve">
         <source xml:space="preserve">property crisis</source>
-        <target xml:space="preserve" state="translated">majetková krize</target>
+        <target xml:space="preserve" state="translated">pozemková krize</target>
       </trans-unit>
       <trans-unit id="{0} new {1} items" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> new <ph id="1">{1}</ph> items</source>
@@ -39182,7 +39182,7 @@
       </trans-unit>
       <trans-unit id="Claim Papers are in use. Unclaim plots first." xml:space="preserve">
         <source xml:space="preserve">Claim Papers are in use. Unclaim plots first.</source>
-        <target xml:space="preserve" state="translated">Záborové listiny se používají. Nejprve zruš zábor parcel.</target>
+        <target xml:space="preserve" state="translated">Záborové listiny se používají. Nejprve uvolni parcely.</target>
       </trans-unit>
       <trans-unit id="this.DescribePlotsClaimed" xml:space="preserve">
         <source xml:space="preserve">this.DescribePlotsClaimed</source>
@@ -39190,7 +39190,7 @@
       </trans-unit>
       <trans-unit id="Items contributed towards property crisis successfully." xml:space="preserve">
         <source xml:space="preserve">Items contributed towards property crisis successfully.</source>
-        <target xml:space="preserve" state="translated">Předměty byly úspěšně vloženy k vyřešení majetkové krize.</target>
+        <target xml:space="preserve" state="translated">Předměty byly úspěšně vloženy k vyřešení pozemkové krize.</target>
       </trans-unit>
       <trans-unit id="this inventory" xml:space="preserve">
         <source xml:space="preserve">this inventory</source>
@@ -39198,11 +39198,11 @@
       </trans-unit>
       <trans-unit id="properties" xml:space="preserve">
         <source xml:space="preserve">properties</source>
-        <target xml:space="preserve" state="translated">majetků</target>
+        <target xml:space="preserve" state="translated">pozemků</target>
       </trans-unit>
       <trans-unit id="{0}'s Property" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s Property</source>
-        <target xml:space="preserve" state="translated">Majetek hráče <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Pozemek hráče <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Set Residency" xml:space="preserve">
         <source xml:space="preserve">Set Residency</source>
@@ -39462,7 +39462,7 @@
       </trans-unit>
       <trans-unit id="Claims" xml:space="preserve">
         <source xml:space="preserve">Claims</source>
-        <target xml:space="preserve" state="translated">Zábory</target>
+        <target xml:space="preserve" state="translated">Pozemky</target>
       </trans-unit>
       <trans-unit id="Can't leave vehicle, the way out is blocked" xml:space="preserve">
         <source xml:space="preserve">Can't leave vehicle, the way out is blocked</source>
@@ -40582,7 +40582,7 @@
       </trans-unit>
       <trans-unit id="Shows commands related to work parties." xml:space="preserve">
         <source xml:space="preserve">Shows commands related to work parties.</source>
-        <target xml:space="preserve" state="translated">Zobrazí příkazy související s pracovními skupinami.</target>
+        <target xml:space="preserve" state="translated">Zobrazí příkazy související s pracovními partami.</target>
       </trans-unit>
       <trans-unit id="This position can be replaced by a new election now." xml:space="preserve">
         <source xml:space="preserve">This position can be replaced by a new election now.</source>
@@ -40602,7 +40602,7 @@
       </trans-unit>
       <trans-unit id="Objects Containing {0}" xml:space="preserve">
         <source xml:space="preserve">Objects Containing <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Objekty s komponentou: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Objekty s funkcí: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="The skill scroll can't be created, there is not enough space in the inventory." xml:space="preserve">
         <source xml:space="preserve">The skill scroll can't be created, there is not enough space in the inventory.</source>
@@ -42593,7 +42593,7 @@
       </trans-unit>
       <trans-unit id="Setting up contracts and work parties" xml:space="preserve">
         <source xml:space="preserve">Setting up contracts and work parties</source>
-        <target xml:space="preserve" state="translated">Zakládání smluv a pracovních skupin</target>
+        <target xml:space="preserve" state="translated">Zakládání smluv a pracovních part</target>
       </trans-unit>
       <trans-unit id="Adding and managing work orders" xml:space="preserve">
         <source xml:space="preserve">Adding and managing work orders</source>
@@ -42801,7 +42801,7 @@
       </trans-unit>
       <trans-unit id="Spawned work party {0}." xml:space="preserve">
         <source xml:space="preserve">Spawned work party <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Vytvořena pracovní skupina <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Vytvořena pracovní parta <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Removed {0} from {1}." xml:space="preserve">
         <source xml:space="preserve">Removed <ph id="0">{0}</ph> from <ph id="1">{1}</ph>.</source>
@@ -43321,7 +43321,7 @@
       </trans-unit>
       <trans-unit id="Can't start a claim: this plot is already on the deed {0}." xml:space="preserve">
         <source xml:space="preserve">Can't start a claim: this plot is already on the deed <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Zábor nelze zahájit: tato parcela už je na listu vlastnictví <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Pozemek nelze zabrat: tato parcela už je na listu vlastnictví <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="become a resident" xml:space="preserve">
         <source xml:space="preserve">become a resident</source>
@@ -43329,7 +43329,7 @@
       </trans-unit>
       <trans-unit id="{0} power grid(s), containing {1} component(s). {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> power grid(s), containing <ph id="1">{1}</ph> component(s). <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated">Napájecí sítě: <ph id="0">{0}</ph>, komponenty v nich: <ph id="1">{1}</ph>. <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated">Napájecí sítě: <ph id="0">{0}</ph>, funkce v nich: <ph id="1">{1}</ph>. <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Power Grids" xml:space="preserve">
         <source xml:space="preserve">Power Grids</source>
@@ -43869,7 +43869,7 @@
       </trans-unit>
       <trans-unit id="Property Selection" xml:space="preserve">
         <source xml:space="preserve">Property Selection</source>
-        <target xml:space="preserve" state="translated">Výběr majetku</target>
+        <target xml:space="preserve" state="translated">Výběr pozemku</target>
       </trans-unit>
       <trans-unit id="This plot is unclaimed and not a part of any town." xml:space="preserve">
         <source xml:space="preserve">This plot is unclaimed and not a part of any town.</source>
@@ -43989,7 +43989,7 @@
       </trans-unit>
       <trans-unit id="Contracts &amp; Work Parties" xml:space="preserve">
         <source xml:space="preserve">Contracts &amp; Work Parties</source>
-        <target xml:space="preserve" state="translated">Smlouvy &amp; pracovní skupiny</target>
+        <target xml:space="preserve" state="translated">Smlouvy &amp; pracovní party</target>
       </trans-unit>
       <trans-unit id="Texture Reviews" xml:space="preserve">
         <source xml:space="preserve">Texture Reviews</source>
@@ -44101,11 +44101,11 @@
       </trans-unit>
       <trans-unit id="Unremoved components: {0}" xml:space="preserve">
         <source xml:space="preserve">Unremoved components: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Neodstraněné komponenty: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Neodstraněné funkce: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Unremoved component types: {0}" xml:space="preserve">
         <source xml:space="preserve">Unremoved component types: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Typy neodstraněných komponent: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Typy neodstraněných funkcí: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Unremoved objects names: {0}" xml:space="preserve">
         <source xml:space="preserve">Unremoved objects names: <ph id="0">{0}</ph></source>
@@ -44314,7 +44314,7 @@
       </trans-unit>
       <trans-unit id="Your store cannot buy items. You must first link an inventory to receive them in the storage component tab of the store." xml:space="preserve">
         <source xml:space="preserve">Your store cannot buy items. You must first link an inventory to receive them in the storage component tab of the store.</source>
-        <target xml:space="preserve" state="translated">Tvůj obchod nemůže nakupovat předměty. Nejprve musíš propojit inventář, do kterého se budou přijímat, na kartě komponenty skladu v obchodě.</target>
+        <target xml:space="preserve" state="translated">Tvůj obchod nemůže nakupovat předměty. Nejprve musíš propojit inventář, do kterého se budou přijímat, na kartě funkce skladu v obchodě.</target>
       </trans-unit>
       <trans-unit id="Minimum durability: {0}" xml:space="preserve">
         <source xml:space="preserve">Minimum durability: <ph id="0">{0}</ph></source>
@@ -44470,7 +44470,7 @@
       </trans-unit>
       <trans-unit id="Property Value" xml:space="preserve">
         <source xml:space="preserve">Property Value</source>
-        <target xml:space="preserve" state="translated">Hodnota majetku</target>
+        <target xml:space="preserve" state="translated">Hodnota pozemku</target>
       </trans-unit>
       <trans-unit id="Center In District" xml:space="preserve">
         <source xml:space="preserve">Center In District</source>
@@ -44502,7 +44502,7 @@
       </trans-unit>
       <trans-unit id="Transferred Using Work Party" xml:space="preserve">
         <source xml:space="preserve">Transferred Using Work Party</source>
-        <target xml:space="preserve" state="translated">Uděleno přes pracovní skupinu</target>
+        <target xml:space="preserve" state="translated">Uděleno přes pracovní partu</target>
       </trans-unit>
       <trans-unit id="Cultural" xml:space="preserve">
         <source xml:space="preserve">Cultural</source>
@@ -44730,7 +44730,7 @@
       </trans-unit>
       <trans-unit id="Defines the type of property and what effects the rooms and furniture have. See Ecopedia." xml:space="preserve">
         <source xml:space="preserve">Defines the type of property and what effects the rooms and furniture have. See Ecopedia.</source>
-        <target xml:space="preserve" state="translated">Určuje typ majetku a to, jaké účinky mají místnosti a nábytek. Viz Ekopedie.</target>
+        <target xml:space="preserve" state="translated">Určuje typ pozemku a to, jaké účinky mají místnosti a nábytek. Viz Ekopedie.</target>
       </trans-unit>
       <trans-unit id="boostdeed" translate="no">
         <source xml:space="preserve">boostdeed</source>
@@ -44747,7 +44747,7 @@
       </trans-unit>
       <trans-unit id="Claims plots in a given rect. If you're already standing on a claim you have auth on, it will use the existing deed. Otherwise, a new deed is created." xml:space="preserve">
         <source xml:space="preserve">Claims plots in a given rect. If you're already standing on a claim you have auth on, it will use the existing deed. Otherwise, a new deed is created.</source>
-        <target xml:space="preserve" state="translated">Zabere parcely v zadaném obdélníku. Pokud už stojíš na záboru, ke kterému máš oprávnění, použije se stávající list vlastnictví. Jinak se vytvoří nový list.</target>
+        <target xml:space="preserve" state="translated">Zabere parcely v zadaném obdélníku. Pokud už stojíš na pozemku, ke kterému máš oprávnění, použije se stávající list vlastnictví. Jinak se vytvoří nový list.</target>
         <note from="developer">Help text for chat command /claimrect</note>
       </trans-unit>
       <trans-unit id="MemoryManager" xml:space="preserve">
@@ -44812,7 +44812,7 @@
       </trans-unit>
       <trans-unit id="What the type of property is being initially set to." xml:space="preserve">
         <source xml:space="preserve">What the type of property is being initially set to.</source>
-        <target xml:space="preserve" state="translated">Na jaký typ majetku se zpočátku nastavuje.</target>
+        <target xml:space="preserve" state="translated">Na jaký typ pozemku se zpočátku nastavuje.</target>
       </trans-unit>
       <trans-unit id="Reputation Receiver" xml:space="preserve">
         <source xml:space="preserve">Reputation Receiver</source>
@@ -44852,7 +44852,7 @@
       </trans-unit>
       <trans-unit id="Was the reputation transferred manually or from a labor party?" xml:space="preserve">
         <source xml:space="preserve">Was the reputation transferred manually or from a labor party?</source>
-        <target xml:space="preserve" state="translated">Byla reputace předána ručně, nebo prostřednictvím pracovní skupiny?</target>
+        <target xml:space="preserve" state="translated">Byla reputace předána ručně, nebo prostřednictvím pracovní party?</target>
       </trans-unit>
       <trans-unit id="The amount of reputation that was transferred." xml:space="preserve">
         <source xml:space="preserve">The amount of reputation that was transferred.</source>
@@ -44880,7 +44880,7 @@
       </trans-unit>
       <trans-unit id="Provides a tool for claiming property around this object.  By adding claim papers from Settlements, you can increase the number of plots you can claim." xml:space="preserve">
         <source xml:space="preserve">Provides a tool for claiming property around this object.  By adding claim papers from Settlements, you can increase the number of plots you can claim.</source>
-        <target xml:space="preserve" state="translated">Poskytuje nástroj k záboru pozemků kolem tohoto objektu.  Přidáním záborových listin od osad můžeš zvýšit počet parcel, které lze zabrat.</target>
+        <target xml:space="preserve" state="translated">Poskytuje nástroj k zabírání pozemků kolem tohoto objektu.  Přidáním záborových listin od osad můžeš zvýšit počet parcel, které lze zabrat.</target>
       </trans-unit>
       <trans-unit id="As more citizens join a Settlement, more claim papers and stakes will be spawned here.  These can be used to claim more land." xml:space="preserve">
         <source xml:space="preserve">As more citizens join a Settlement, more claim papers and stakes will be spawned here.  These can be used to claim more land.</source>
@@ -44888,7 +44888,7 @@
       </trans-unit>
       <trans-unit id="Spawned Claims" xml:space="preserve">
         <source xml:space="preserve">Spawned Claims</source>
-        <target xml:space="preserve" state="translated">Zábory k vyzvednutí</target>
+        <target xml:space="preserve" state="translated">Záborové listiny</target>
       </trans-unit>
       <trans-unit id="Basic election process will be changed according to these values. This values will also be used as defaults for newly created election processes." xml:space="preserve">
         <source xml:space="preserve">Basic election process will be changed according to these values. This values will also be used as defaults for newly created election processes.</source>
@@ -44943,7 +44943,7 @@
       </trans-unit>
       <trans-unit id="Wild food for foraging" xml:space="preserve">
         <source xml:space="preserve">Wild food for foraging</source>
-        <target xml:space="preserve" state="translated">Divoké potraviny ke sběru</target>
+        <target xml:space="preserve" state="translated">Plody divočiny ke sběru</target>
       </trans-unit>
       <trans-unit id="Plains for farming" xml:space="preserve">
         <source xml:space="preserve">Plains for farming</source>
@@ -45131,7 +45131,7 @@
       </trans-unit>
       <trans-unit id="Property Value:" xml:space="preserve">
         <source xml:space="preserve">Property Value:</source>
-        <target xml:space="preserve" state="translated">Hodnota majetku:</target>
+        <target xml:space="preserve" state="translated">Hodnota pozemku:</target>
       </trans-unit>
       <trans-unit id="Users Not Meeting Citizen Requirements" xml:space="preserve">
         <source xml:space="preserve">Users Not Meeting Citizen Requirements</source>
@@ -45163,7 +45163,7 @@
       </trans-unit>
       <trans-unit id="NOTE: {0} can be at most {1} of the value of the primary rooms of the property (currently {2}). Dropping value of {3} from {4} to {5}." xml:space="preserve">
         <source xml:space="preserve">NOTE: <ph id="0">{0}</ph> can be at most <ph id="1">{1}</ph> of the value of the primary rooms of the property (currently <ph id="2">{2}</ph>). Dropping value of <ph id="3">{3}</ph> from <ph id="4">{4}</ph> to <ph id="5">{5}</ph>.</source>
-        <target xml:space="preserve" state="translated">POZNÁMKA: <ph id="0">{0}</ph> mohou tvořit nejvýše <ph id="1">{1}</ph> hodnoty hlavních místností majetku (aktuálně <ph id="2">{2}</ph>). Hodnota kategorie <ph id="3">{3}</ph> klesá z <ph id="4">{4}</ph> na <ph id="5">{5}</ph>.</target>
+        <target xml:space="preserve" state="translated">POZNÁMKA: <ph id="0">{0}</ph> mohou tvořit nejvýše <ph id="1">{1}</ph> hodnoty hlavních místností pozemku (aktuálně <ph id="2">{2}</ph>). Hodnota kategorie <ph id="3">{3}</ph> klesá z <ph id="4">{4}</ph> na <ph id="5">{5}</ph>.</target>
       </trans-unit>
       <trans-unit id=" - {0} point reduction: {1}" xml:space="preserve">
         <source xml:space="preserve"> - <ph id="0">{0}</ph> point reduction: <ph id="1">{1}</ph></source>
@@ -45187,7 +45187,7 @@
       </trans-unit>
       <trans-unit id=" - Ignoring {0}: {1} property doesnt receive value from {2} rooms." xml:space="preserve">
         <source xml:space="preserve"> - Ignoring <ph id="0">{0}</ph>: <ph id="1">{1}</ph> property doesnt receive value from <ph id="2">{2}</ph> rooms.</source>
-        <target xml:space="preserve" state="translated"> - Ignoruje se <ph id="0">{0}</ph>: majetek typu <ph id="1">{1}</ph> nezískává hodnotu z místností kategorie <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated"> - Ignoruje se <ph id="0">{0}</ph>: pozemek typu <ph id="1">{1}</ph> nezískává hodnotu z místností kategorie <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id=" - Ignoring {0}: doesn't support {1}." xml:space="preserve">
         <source xml:space="preserve"> - Ignoring <ph id="0">{0}</ph>: doesn't support <ph id="1">{1}</ph>.</source>
@@ -45231,7 +45231,7 @@
       </trans-unit>
       <trans-unit id="Failed: Property is set to give culture points but it is not a part of any settlement!" xml:space="preserve">
         <source xml:space="preserve">Failed: Property is set to give culture points but it is not a part of any settlement!</source>
-        <target xml:space="preserve" state="translated">Chyba: Majetek je nastaven tak, aby poskytoval kulturní body, ale není součástí žádné osady!</target>
+        <target xml:space="preserve" state="translated">Chyba: Pozemek je nastaven tak, aby poskytoval kulturní body, ale není součástí žádné osady!</target>
       </trans-unit>
       <trans-unit id="Cultural: {0}" xml:space="preserve">
         <source xml:space="preserve">Cultural: <ph id="0">{0}</ph></source>
@@ -45239,7 +45239,7 @@
       </trans-unit>
       <trans-unit id="Start a Claim for {0}" xml:space="preserve">
         <source xml:space="preserve">Start a Claim for <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Zahájit zábor pro: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Zabrat pozemek pro: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="To place, location must be:" xml:space="preserve">
         <source xml:space="preserve">To place, location must be:</source>
@@ -45287,15 +45287,15 @@
       </trans-unit>
       <trans-unit id="You may only start claims within the influence of {0}." xml:space="preserve">
         <source xml:space="preserve">You may only start claims within the influence of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Zábory můžeš zahajovat jen v rámci vlivu: <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Pozemky můžeš zabírat jen v rámci vlivu: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="This plot is already a member of {0}, you cannot start a new claim here." xml:space="preserve">
         <source xml:space="preserve">This plot is already a member of <ph id="0">{0}</ph>, you cannot start a new claim here.</source>
-        <target xml:space="preserve" state="translated">Tato parcela už je součástí: <ph id="0">{0}</ph>. Nový zábor tu zahájit nelze.</target>
+        <target xml:space="preserve" state="translated">Tato parcela už je součástí: <ph id="0">{0}</ph>. Nový pozemek tu zabrat nelze.</target>
       </trans-unit>
       <trans-unit id="This plot is unclaimed and influenced by {0}, you may start a new claim here." xml:space="preserve">
         <source xml:space="preserve">This plot is unclaimed and influenced by <ph id="0">{0}</ph>, you may start a new claim here.</source>
-        <target xml:space="preserve" state="translated">Tato parcela je nezabraná. Je pod vlivem: <ph id="0">{0}</ph>. Můžeš tu zahájit nový zábor.</target>
+        <target xml:space="preserve" state="translated">Tato parcela je nezabraná. Je pod vlivem: <ph id="0">{0}</ph>. Můžeš tu zabrat nový pozemek.</target>
       </trans-unit>
       <trans-unit id="This plot is influenced by {0} but you are not a citizen." xml:space="preserve">
         <source xml:space="preserve">This plot is influenced by <ph id="0">{0}</ph> but you are not a citizen.</source>
@@ -45379,7 +45379,7 @@
       </trans-unit>
       <trans-unit id="Claiming {0} of land for {1}." xml:space="preserve">
         <source xml:space="preserve">Claiming <ph id="0">{0}</ph> of land for <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Zábor půdy (<ph id="0">{0}</ph>) pro: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Zabírání půdy (<ph id="0">{0}</ph>) pro: <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Settlement Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Settlement Claim Stake</source>
@@ -45399,11 +45399,11 @@
       </trans-unit>
       <trans-unit id="{0} category rooms can exist on property types: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> category rooms can exist on property types: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Místnosti kategorie <ph id="0">{0}</ph> mohou existovat u těchto typů majetku: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Místnosti kategorie <ph id="0">{0}</ph> mohou existovat u těchto typů pozemku: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id=" - {0} {1} can't be more than {2} a property's total value." xml:space="preserve">
         <source xml:space="preserve"> - <ph id="0">{0}</ph> <ph id="1">{1}</ph> can't be more than <ph id="2">{2}</ph> a property's total value.</source>
-        <target xml:space="preserve" state="translated"> - <ph id="0">{0}</ph> <ph id="1">{1}</ph> nemohou tvořit víc než <ph id="2">{2}</ph> celkové hodnoty majetku.</target>
+        <target xml:space="preserve" state="translated"> - <ph id="0">{0}</ph> <ph id="1">{1}</ph> nemohou tvořit víc než <ph id="2">{2}</ph> celkové hodnoty pozemku.</target>
       </trans-unit>
       <trans-unit id="They can get support from other furnishing types:{0}." xml:space="preserve">
         <source xml:space="preserve">They can get support from other furnishing types:<ph id="0">{0}</ph>.</source>
@@ -45435,7 +45435,7 @@
       </trans-unit>
       <trans-unit id=" - Will negate the value of all other furniture in the room towards the property value." xml:space="preserve">
         <source xml:space="preserve"> - Will negate the value of all other furniture in the room towards the property value.</source>
-        <target xml:space="preserve" state="translated"> - Zruší hodnotu veškerého ostatního nábytku v místnosti pro hodnotu majetku.</target>
+        <target xml:space="preserve" state="translated"> - Zruší hodnotu veškerého ostatního nábytku v místnosti pro hodnotu pozemku.</target>
       </trans-unit>
       <trans-unit id="Support Room Only." xml:space="preserve">
         <source xml:space="preserve">Support Room Only.</source>
@@ -45671,7 +45671,7 @@
       </trans-unit>
       <trans-unit id="Delete all blocks above-ground that are constructed, delete all constructed world objects, remove all property, destroy all settlements and related objects." xml:space="preserve">
         <source xml:space="preserve">Delete all blocks above-ground that are constructed, delete all constructed world objects, remove all property, destroy all settlements and related objects.</source>
-        <target xml:space="preserve" state="translated">Smaže všechny postavené bloky nad zemí a všechny postavené objekty ve světě, zruší všechny zábory pozemků a zničí všechny osady a související objekty.</target>
+        <target xml:space="preserve" state="translated">Smaže všechny postavené bloky nad zemí a všechny postavené objekty ve světě, uvolní všechny pozemky a zničí všechny osady a související objekty.</target>
       </trans-unit>
       <trans-unit id="Couldn't find any entry matching: {0}" xml:space="preserve">
         <source xml:space="preserve">Couldn't find any entry matching: <ph id="0">{0}</ph></source>
@@ -45703,7 +45703,7 @@
       </trans-unit>
       <trans-unit id="Destroy all towns and property stakes and unclaim all property." xml:space="preserve">
         <source xml:space="preserve">Destroy all towns and property stakes and unclaim all property.</source>
-        <target xml:space="preserve" state="translated">Zničí všechna města a záborové kolíky a zruší zábor všech pozemků.</target>
+        <target xml:space="preserve" state="translated">Zničí všechna města a záborové kolíky a uvolní všechny pozemky.</target>
         <note from="developer">Help text for chat command /clearall</note>
       </trans-unit>
       <trans-unit id="The deed can only claim within {0} influence. This plot is not in its influence." xml:space="preserve">
@@ -45972,7 +45972,7 @@
       </trans-unit>
       <trans-unit id="Can't change property type when there are active residents.  Try again once residents are removed." xml:space="preserve">
         <source xml:space="preserve">Can't change property type when there are active residents.  Try again once residents are removed.</source>
-        <target xml:space="preserve" state="translated">Typ majetku nelze změnit, dokud v něm žijí aktivní obyvatelé.  Zkus to znovu, až budou obyvatelé odstraněni.</target>
+        <target xml:space="preserve" state="translated">Typ pozemku nelze změnit, dokud v něm žijí aktivní obyvatelé.  Zkus to znovu, až budou obyvatelé odstraněni.</target>
       </trans-unit>
       <trans-unit id="{0} was marked as citizen of {1} but is not in roster, removing." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was marked as citizen of <ph id="1">{1}</ph> but is not in roster, removing.</source>
@@ -46457,7 +46457,7 @@
       </trans-unit>
       <trans-unit id="Spawned Claims Component" xml:space="preserve">
         <source xml:space="preserve">Spawned Claims Component</source>
-        <target xml:space="preserve" state="translated">Komponenta záborů k vyzvednutí</target>
+        <target xml:space="preserve" state="translated">Funkce záborových listin</target>
       </trans-unit>
       <trans-unit id="Annexation" xml:space="preserve">
         <source xml:space="preserve">Annexation</source>
@@ -46477,7 +46477,7 @@
       </trans-unit>
       <trans-unit id="Property Crisis" xml:space="preserve">
         <source xml:space="preserve">Property Crisis</source>
-        <target xml:space="preserve" state="translated">Majetková krize</target>
+        <target xml:space="preserve" state="translated">Pozemková krize</target>
       </trans-unit>
       <trans-unit id="Settlement Overview" xml:space="preserve">
         <source xml:space="preserve">Settlement Overview</source>
@@ -46485,7 +46485,7 @@
       </trans-unit>
       <trans-unit id="Settlement Property" xml:space="preserve">
         <source xml:space="preserve">Settlement Property</source>
-        <target xml:space="preserve" state="translated">Majetek osady</target>
+        <target xml:space="preserve" state="translated">Pozemek osady</target>
       </trans-unit>
       <trans-unit id="Medium Shipyard" xml:space="preserve">
         <source xml:space="preserve">Medium Shipyard</source>
@@ -47111,11 +47111,11 @@
       </trans-unit>
       <trans-unit id="Landclaims made available on the settlement marker at each level of settlement. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">Landclaims made available on the settlement marker at each level of settlement. Defined per settlement type.</source>
-        <target xml:space="preserve" state="translated">Počet záborů pozemků dostupných na značce osady na každé úrovni osady. Určuje se pro každý typ osady.</target>
+        <target xml:space="preserve" state="translated">Počet pozemků dostupných na značce osady na každé úrovni osady. Určuje se pro každý typ osady.</target>
       </trans-unit>
       <trans-unit id="If a player enters the 'Abandoned' demographic, they will instead make this many claims available to Settlements they're a citizen of." xml:space="preserve">
         <source xml:space="preserve">If a player enters the 'Abandoned' demographic, they will instead make this many claims available to Settlements they're a citizen of.</source>
-        <target xml:space="preserve" state="translated">Pokud hráč přejde do demografické skupiny „Opuštění“, poskytne místo toho tolik záborů osadám, jejichž je občanem.</target>
+        <target xml:space="preserve" state="translated">Pokud hráč přejde do demografické skupiny „Opuštění“, poskytne místo toho tolik pozemků osadám, jejichž je občanem.</target>
       </trans-unit>
       <trans-unit id="Claim stakes made available on the settlement marker at each level of settlement. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">Claim stakes made available on the settlement marker at each level of settlement. Defined per settlement type.</source>
@@ -47139,7 +47139,7 @@
       </trans-unit>
       <trans-unit id="If there are not enough citizens to support the claimed plots, a property crisis will happen after this amount of time. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">If there are not enough citizens to support the claimed plots, a property crisis will happen after this amount of time. Defined per settlement type.</source>
-        <target xml:space="preserve" state="translated">Pokud není dost občanů na podporu zabraných parcel, nastane po uplynutí této doby majetková krize. Určuje se pro každý typ osady.</target>
+        <target xml:space="preserve" state="translated">Pokud není dost občanů na podporu zabraných parcel, nastane po uplynutí této doby pozemková krize. Určuje se pro každý typ osady.</target>
       </trans-unit>
       <trans-unit id="Names of the settlement types, 0 is the lowest level settlement." xml:space="preserve">
         <source xml:space="preserve">Names of the settlement types, 0 is the lowest level settlement.</source>
@@ -47438,7 +47438,7 @@
       </trans-unit>
       <trans-unit id="Wild Food" xml:space="preserve">
         <source xml:space="preserve">Wild Food</source>
-        <target xml:space="preserve" state="translated">Divoká potrava</target>
+        <target xml:space="preserve" state="translated">Plody divočiny</target>
       </trans-unit>
       <trans-unit id="Forest" xml:space="preserve">
         <source xml:space="preserve">Forest</source>
@@ -47458,7 +47458,7 @@
       </trans-unit>
       <trans-unit id="Wild food for foraging." xml:space="preserve">
         <source xml:space="preserve">Wild food for foraging.</source>
-        <target xml:space="preserve" state="translated">Divoké potraviny ke sběru.</target>
+        <target xml:space="preserve" state="translated">Plody divočiny ke sběru.</target>
       </trans-unit>
       <trans-unit id="Access to forests for logging." xml:space="preserve">
         <source xml:space="preserve">Access to forests for logging.</source>
@@ -47968,7 +47968,7 @@
       </trans-unit>
       <trans-unit id="Used to claim, unclaim and examine property." xml:space="preserve">
         <source xml:space="preserve">Used to claim, unclaim and examine property.</source>
-        <target xml:space="preserve" state="translated">Slouží k zabírání pozemků, rušení záboru a kontrole pozemků.</target>
+        <target xml:space="preserve" state="translated">Slouží k zabírání a uvolňování pozemků a k jejich kontrole.</target>
       </trans-unit>
       <trans-unit id="Docks Ramps Corner" xml:space="preserve">
         <source xml:space="preserve">Docks Ramps Corner</source>
@@ -48708,7 +48708,7 @@
       </trans-unit>
       <trans-unit id="Can't claim here, settlement connected to this claim is missing." xml:space="preserve">
         <source xml:space="preserve">Can't claim here, settlement connected to this claim is missing.</source>
-        <target xml:space="preserve" state="translated">Zde nelze zabrat pozemek, osada spojená s tímto záborem chybí.</target>
+        <target xml:space="preserve" state="translated">Zde nelze zabrat pozemek, osada spojená s tímto pozemkem chybí.</target>
       </trans-unit>
       <trans-unit id="This homestead can only be placed by {0}." xml:space="preserve">
         <source xml:space="preserve">This homestead can only be placed by <ph id="0">{0}</ph>.</source>
@@ -48744,7 +48744,7 @@
       </trans-unit>
       <trans-unit id="Will include a dynamic '{0}' component when placed." xml:space="preserve">
         <source xml:space="preserve">Will include a dynamic '<ph id="0">{0}</ph>' component when placed.</source>
-        <target xml:space="preserve" state="translated">Po umístění bude obsahovat dynamickou komponentu „<ph id="0">{0}</ph>“.</target>
+        <target xml:space="preserve" state="translated">Po umístění bude obsahovat dynamickou funkci „<ph id="0">{0}</ph>“.</target>
       </trans-unit>
       <trans-unit id="Allowing self reputation rating because you're an admin in QAmode." xml:space="preserve">
         <source xml:space="preserve">Allowing self reputation rating because you're an admin in QAmode.</source>
@@ -49295,7 +49295,7 @@
       </trans-unit>
       <trans-unit id="Claim mode disabled because you don't own any deed." xml:space="preserve">
         <source xml:space="preserve">Claim mode disabled because you don't own any deed.</source>
-        <target xml:space="preserve" state="translated">Režim záboru je vypnut, protože nevlastníš žádný list vlastnictví.</target>
+        <target xml:space="preserve" state="translated">Režim zabírání je vypnut, protože nevlastníš žádný list vlastnictví.</target>
       </trans-unit>
       <trans-unit id="Allows adding or removing plots from any deeds you own." xml:space="preserve">
         <source xml:space="preserve">Allows adding or removing plots from any deeds you own.</source>
@@ -49307,11 +49307,11 @@
       </trans-unit>
       <trans-unit id="This list shows deeds you own and can claim/unclaim plots for." xml:space="preserve">
         <source xml:space="preserve">This list shows deeds you own and can claim/unclaim plots for.</source>
-        <target xml:space="preserve" state="translated">Seznam zobrazuje listy vlastnictví, které vlastníš a pro které můžeš parcely zabírat nebo jejich zábor rušit.</target>
+        <target xml:space="preserve" state="translated">Seznam zobrazuje listy vlastnictví, které vlastníš a pro které můžeš parcely zabírat nebo uvolňovat.</target>
       </trans-unit>
       <trans-unit id="Unclaim" xml:space="preserve">
         <source xml:space="preserve">Unclaim</source>
-        <target xml:space="preserve" state="translated">Zrušit zábor</target>
+        <target xml:space="preserve" state="translated">Uvolnit pozemek</target>
       </trans-unit>
       <trans-unit id="Source settlement must be founded." xml:space="preserve">
         <source xml:space="preserve">Source settlement must be founded.</source>
@@ -49359,11 +49359,11 @@
       </trans-unit>
       <trans-unit id="Property type can't be changed from Cultural because this deed is on a settlement foundation object ({0})." xml:space="preserve">
         <source xml:space="preserve">Property type can't be changed from Cultural because this deed is on a settlement foundation object (<ph id="0">{0}</ph>).</source>
-        <target xml:space="preserve" state="translated">Typ majetku nelze změnit z „Kulturní“, protože tento list vlastnictví leží na objektu založení osady (<ph id="0">{0}</ph>).</target>
+        <target xml:space="preserve" state="translated">Typ pozemku nelze změnit z „Kulturní“, protože tento list vlastnictví leží na objektu založení osady (<ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="Only an owner may change property type." xml:space="preserve">
         <source xml:space="preserve">Only an owner may change property type.</source>
-        <target xml:space="preserve" state="translated">Typ majetku může změnit pouze vlastník.</target>
+        <target xml:space="preserve" state="translated">Typ pozemku může změnit pouze vlastník.</target>
       </trans-unit>
       <trans-unit id="Can't remove plots that are under {0} which is the deed host object." xml:space="preserve">
         <source xml:space="preserve">Can't remove plots that are under <ph id="0">{0}</ph> which is the deed host object.</source>
@@ -49419,7 +49419,7 @@
       </trans-unit>
       <trans-unit id="Component {0} has to explicitly define [HasIcon] or [NoIcon], because it's parent has [DerivedMustDefineIcon]." xml:space="preserve">
         <source xml:space="preserve">Component <ph id="0">{0}</ph> has to explicitly define [HasIcon] or [NoIcon], because it's parent has [DerivedMustDefineIcon].</source>
-        <target xml:space="preserve" state="translated">Komponenta <ph id="0">{0}</ph> musí výslovně definovat [HasIcon] nebo [NoIcon], protože její nadřazená třída má [DerivedMustDefineIcon].</target>
+        <target xml:space="preserve" state="translated">Funkce <ph id="0">{0}</ph> musí výslovně definovat [HasIcon] nebo [NoIcon], protože její nadřazená třída má [DerivedMustDefineIcon].</target>
       </trans-unit>
       <trans-unit id="{0} had 'Ignore Requirements' were set to {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> had 'Ignore Requirements' were set to <ph id="1">{1}</ph>.</source>
@@ -49427,7 +49427,7 @@
       </trans-unit>
       <trans-unit id="No object with status component was found within 5 meter." xml:space="preserve">
         <source xml:space="preserve">No object with status component was found within 5 meter.</source>
-        <target xml:space="preserve" state="translated">V okruhu 5 m nebyl nalezen žádný objekt s komponentou stavu.</target>
+        <target xml:space="preserve" state="translated">V okruhu 5 m nebyl nalezen žádný objekt s funkcí stavu.</target>
       </trans-unit>
       <trans-unit id="Object is force-enabled via admin, ignoring requirements." xml:space="preserve">
         <source xml:space="preserve">Object is force-enabled via admin, ignoring requirements.</source>
@@ -49495,7 +49495,7 @@
       </trans-unit>
       <trans-unit id="Property Tax:" xml:space="preserve">
         <source xml:space="preserve">Property Tax:</source>
-        <target xml:space="preserve" state="translated">Majetková daň:</target>
+        <target xml:space="preserve" state="translated">Daň z pozemků:</target>
       </trans-unit>
       <trans-unit id="Remove meteor impact hours" xml:space="preserve">
         <source xml:space="preserve">Remove meteor impact hours</source>
@@ -49607,7 +49607,7 @@
       </trans-unit>
       <trans-unit id="You can distribute these however you like, but keep in mind that if Citizens leave the town the claims can be cancelled." xml:space="preserve">
         <source xml:space="preserve">You can distribute these however you like, but keep in mind that if Citizens leave the town the claims can be cancelled.</source>
-        <target xml:space="preserve" state="translated">Můžeš je rozdělit, jak chceš, ale pamatuj, že pokud občané město opustí, jejich zábory mohou zaniknout.</target>
+        <target xml:space="preserve" state="translated">Můžeš je rozdělit, jak chceš, ale pamatuj, že pokud občané město opustí, jejich pozemky mohou zaniknout.</target>
       </trans-unit>
       <trans-unit id="Folders" xml:space="preserve">
         <source xml:space="preserve">Folders</source>
@@ -49766,11 +49766,11 @@
       </trans-unit>
       <trans-unit id="Allow Foreign Property Ownership" xml:space="preserve">
         <source xml:space="preserve">Allow Foreign Property Ownership</source>
-        <target xml:space="preserve" state="translated">Povolit vlastnictví majetku cizincům</target>
+        <target xml:space="preserve" state="translated">Povolit vlastnictví pozemku cizincům</target>
       </trans-unit>
       <trans-unit id="Property Heir When Citizens Leave" xml:space="preserve">
         <source xml:space="preserve">Property Heir When Citizens Leave</source>
-        <target xml:space="preserve" state="translated">Dědic majetku, když občané odejdou</target>
+        <target xml:space="preserve" state="translated">Dědic pozemku, když občané odejdou</target>
       </trans-unit>
       <trans-unit id="Allow Child Settlements To Secede" xml:space="preserve">
         <source xml:space="preserve">Allow Child Settlements To Secede</source>
@@ -49858,7 +49858,7 @@
       </trans-unit>
       <trans-unit id="You received {0} from {1} because you're the property heir of {2}." xml:space="preserve">
         <source xml:space="preserve">You received <ph id="0">{0}</ph> from <ph id="1">{1}</ph> because you're the property heir of <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated">Od <ph id="1">{1}</ph> ti připadl list vlastnictví <ph id="0">{0}</ph>, protože jsi dědicem majetku celku <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated">Od <ph id="1">{1}</ph> ti připadl list vlastnictví <ph id="0">{0}</ph>, protože jsi dědicem pozemku celku <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="Would you like to grant ownership of these properties to {0} and leave this settlement?" xml:space="preserve">
         <source xml:space="preserve">Would you like to grant ownership of these properties to <ph id="0">{0}</ph> and leave this settlement?</source>
@@ -50030,7 +50030,7 @@
       </trans-unit>
       <trans-unit id="Specific Property" xml:space="preserve">
         <source xml:space="preserve">Specific Property</source>
-        <target xml:space="preserve" state="translated">Konkrétní majetek</target>
+        <target xml:space="preserve" state="translated">Konkrétní pozemek</target>
       </trans-unit>
       <trans-unit id="The deed that we want to interact with." xml:space="preserve">
         <source xml:space="preserve">The deed that we want to interact with.</source>
@@ -50372,7 +50372,7 @@
       </trans-unit>
       <trans-unit id="A 'Cultural' deed is a type of property that can contribute to the overall Culture value of the containing settlement." xml:space="preserve">
         <source xml:space="preserve">A 'Cultural' deed is a type of property that can contribute to the overall Culture value of the containing settlement.</source>
-        <target xml:space="preserve" state="translated">„Kulturní“ list vlastnictví je typ majetku, který může přispívat k celkové hodnotě kultury osady, v níž se nachází.</target>
+        <target xml:space="preserve" state="translated">„Kulturní“ list vlastnictví je typ pozemku, který může přispívat k celkové hodnotě kultury osady, v níž se nachází.</target>
       </trans-unit>
       <trans-unit id="Allow Face Tracking On Server" xml:space="preserve">
         <source xml:space="preserve">Allow Face Tracking On Server</source>
@@ -50858,7 +50858,7 @@
       </trans-unit>
       <trans-unit id="Properties" xml:space="preserve">
         <source xml:space="preserve">Properties</source>
-        <target xml:space="preserve" state="translated">Majetky</target>
+        <target xml:space="preserve" state="translated">Pozemky</target>
       </trans-unit>
       <trans-unit id="Inventory only accepts {0}" xml:space="preserve">
         <source xml:space="preserve">Inventory only accepts <ph id="0">{0}</ph></source>
@@ -50958,7 +50958,7 @@
       </trans-unit>
       <trans-unit id="Picking this up will unclaim {0} {1}." xml:space="preserve">
         <source xml:space="preserve">Picking this up will unclaim <ph id="0">{0}</ph> <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Sebráním tohoto předmětu se zruší zábor – <ph id="1">{1}</ph>: <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Sebráním tohoto předmětu se uvolní pozemek – <ph id="1">{1}</ph>: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="plots" xml:space="preserve">
         <source xml:space="preserve">plots</source>
@@ -50986,15 +50986,15 @@
       </trans-unit>
       <trans-unit id="Property type can't be changed, Education feature is not yet implemented." xml:space="preserve">
         <source xml:space="preserve">Property type can't be changed, Education feature is not yet implemented.</source>
-        <target xml:space="preserve" state="translated">Typ majetku nelze změnit, funkce Vzdělávání zatím není implementována.</target>
+        <target xml:space="preserve" state="translated">Typ pozemku nelze změnit, funkce Vzdělávání zatím není implementována.</target>
       </trans-unit>
       <trans-unit id="Property type can't be changed, Settlement feature is not enabled." xml:space="preserve">
         <source xml:space="preserve">Property type can't be changed, Settlement feature is not enabled.</source>
-        <target xml:space="preserve" state="translated">Typ majetku nelze změnit, funkce Osady není zapnutá.</target>
+        <target xml:space="preserve" state="translated">Typ pozemku nelze změnit, funkce Osady není zapnutá.</target>
       </trans-unit>
       <trans-unit id="Property type can't be changed, Culture feature is not enabled." xml:space="preserve">
         <source xml:space="preserve">Property type can't be changed, Culture feature is not enabled.</source>
-        <target xml:space="preserve" state="translated">Typ majetku nelze změnit, funkce Kultura není zapnutá.</target>
+        <target xml:space="preserve" state="translated">Typ pozemku nelze změnit, funkce Kultura není zapnutá.</target>
       </trans-unit>
       <trans-unit id="Plots on deed must all be connected." xml:space="preserve">
         <source xml:space="preserve">Plots on deed must all be connected.</source>
@@ -51620,7 +51620,7 @@
       </trans-unit>
       <trans-unit id="Forces a recount and update of the number of spawned claims and stakes for each settlement, in case they are out of synch." xml:space="preserve">
         <source xml:space="preserve">Forces a recount and update of the number of spawned claims and stakes for each settlement, in case they are out of synch.</source>
-        <target xml:space="preserve" state="translated">Vynutí přepočet a aktualizaci počtu vytvořených záborů a kolíků u každé osady pro případ, že nejsou synchronizované.</target>
+        <target xml:space="preserve" state="translated">Vynutí přepočet a aktualizaci počtu záborových listin k vyzvednutí a kolíků u každé osady pro případ, že nejsou synchronizované.</target>
         <note from="developer">Help text for chat command /recountclaims</note>
       </trans-unit>
       <trans-unit id="populate" translate="no">
@@ -51645,7 +51645,7 @@
       </trans-unit>
       <trans-unit id="Hours To Resolve Property Crisis" xml:space="preserve">
         <source xml:space="preserve">Hours To Resolve Property Crisis</source>
-        <target xml:space="preserve" state="translated">Hodiny na vyřešení majetkové krize</target>
+        <target xml:space="preserve" state="translated">Hodiny na vyřešení pozemkové krize</target>
       </trans-unit>
       <trans-unit id="Settlement Foundation Base Influence" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Base Influence</source>
@@ -51838,11 +51838,11 @@
       </trans-unit>
       <trans-unit id="Citizens Of These Settlements May Expand Claims Within Our Influence" xml:space="preserve">
         <source xml:space="preserve">Citizens Of These Settlements May Expand Claims Within Our Influence</source>
-        <target xml:space="preserve" state="translated">Občané těchto osad mohou rozšiřovat zábory v rámci našeho vlivu</target>
+        <target xml:space="preserve" state="translated">Občané těchto osad mohou rozšiřovat pozemky v rámci našeho vlivu</target>
       </trans-unit>
       <trans-unit id="Specific Citizens That May Expand Claims Within Our Influence" xml:space="preserve">
         <source xml:space="preserve">Specific Citizens That May Expand Claims Within Our Influence</source>
-        <target xml:space="preserve" state="translated">Konkrétní občané, kteří mohou rozšiřovat zábory v rámci našeho vlivu</target>
+        <target xml:space="preserve" state="translated">Konkrétní občané, kteří mohou rozšiřovat pozemky v rámci našeho vlivu</target>
       </trans-unit>
       <trans-unit id="Settlements listed here may claim plots that are currently influenced by the assigned jurisidction." xml:space="preserve">
         <source xml:space="preserve">Settlements listed here may claim plots that are currently influenced by the assigned jurisidction.</source>
@@ -52141,7 +52141,7 @@
       </trans-unit>
       <trans-unit id="Has Property Privileges" xml:space="preserve">
         <source xml:space="preserve">Has Property Privileges</source>
-        <target xml:space="preserve" state="translated">Má majetkové výsady</target>
+        <target xml:space="preserve" state="translated">Má pozemkové výsady</target>
       </trans-unit>
       <trans-unit id="If this is true, elections can start before the end of the office holder's term, allowing only on the last hours of their term (when that amount is less than the hours an election takes, + 4 for a margin)." xml:space="preserve">
         <source xml:space="preserve">If this is true, elections can start before the end of the office holder's term, allowing only on the last hours of their term (when that amount is less than the hours an election takes, + 4 for a margin).</source>
@@ -52184,7 +52184,7 @@
       </trans-unit>
       <trans-unit id="The owner to assign the property. Leave blank to remove the owner and unclaim the property." xml:space="preserve">
         <source xml:space="preserve">The owner to assign the property. Leave blank to remove the owner and unclaim the property.</source>
-        <target xml:space="preserve" state="translated">Vlastník, kterému se pozemek přiřadí. Nech prázdné, chceš-li vlastníka odebrat a zrušit zábor pozemku.</target>
+        <target xml:space="preserve" state="translated">Vlastník, kterému se pozemek přiřadí. Nech prázdné, chceš-li vlastníka odebrat a pozemek uvolnit.</target>
       </trans-unit>
       <trans-unit id="Change the owners of a set of property. May only target deeds within jurisdication." xml:space="preserve">
         <source xml:space="preserve">Change the owners of a set of property. May only target deeds within jurisdication.</source>
@@ -52760,7 +52760,7 @@
       </trans-unit>
       <trans-unit id="Ignored {0}: Cannot remove settlement foundations (settlements must be dissolved to unclaim)." xml:space="preserve">
         <source xml:space="preserve">Ignored <ph id="0">{0}</ph>: Cannot remove settlement foundations (settlements must be dissolved to unclaim).</source>
-        <target xml:space="preserve" state="translated">Přeskočeno: <ph id="0">{0}</ph>. Objekty založení osad nelze odebrat (osadu je nutné rozpustit, aby se zábor zrušil).</target>
+        <target xml:space="preserve" state="translated">Přeskočeno: <ph id="0">{0}</ph>. Objekty založení osad nelze odebrat (osadu je nutné rozpustit, aby se pozemek uvolnil).</target>
       </trans-unit>
       <trans-unit id="Ignored {0} because they are already owned by {1}." xml:space="preserve">
         <source xml:space="preserve">Ignored <ph id="0">{0}</ph> because they are already owned by <ph id="1">{1}</ph>.</source>
@@ -52888,7 +52888,7 @@
       </trans-unit>
       <trans-unit id="This plot is influenced by {0}, which you have special permission to claim within." xml:space="preserve">
         <source xml:space="preserve">This plot is influenced by <ph id="0">{0}</ph>, which you have special permission to claim within.</source>
-        <target xml:space="preserve" state="translated">Tato parcela je pod vlivem celku <ph id="0">{0}</ph>, v jehož rámci máš zvláštní povolení k záboru.</target>
+        <target xml:space="preserve" state="translated">Tato parcela je pod vlivem celku <ph id="0">{0}</ph>, v jehož rámci máš zvláštní povolení zabírat pozemky.</target>
       </trans-unit>
       <trans-unit id="Upon placing your homestead here, you will become a direct citizen of the {1}." xml:space="preserve">
         <source xml:space="preserve">Upon placing your homestead here, you will become a direct citizen of the <ph id="1">{1}</ph>.</source>
@@ -53004,7 +53004,7 @@
       </trans-unit>
       <trans-unit id="Only a citizen holding an elected title within {0} that provides 'Property Privileges' is allowed to change this value." xml:space="preserve">
         <source xml:space="preserve">Only a citizen holding an elected title within <ph id="0">{0}</ph> that provides 'Property Privileges' is allowed to change this value.</source>
-        <target xml:space="preserve" state="translated">Tuto hodnotu smí změnit jen občan, který v rámci osady <ph id="0">{0}</ph> zastává volenou funkci poskytující „majetkové výsady“.</target>
+        <target xml:space="preserve" state="translated">Tuto hodnotu smí změnit jen občan, který v rámci osady <ph id="0">{0}</ph> zastává volenou funkci poskytující „pozemkové výsady“.</target>
       </trans-unit>
       <trans-unit id="Lower tier settlements will no longer influence {0}." xml:space="preserve">
         <source xml:space="preserve">Lower tier settlements will no longer influence <ph id="0">{0}</ph>.</source>
@@ -53128,7 +53128,7 @@
       </trans-unit>
       <trans-unit id="Payment for {0}" xml:space="preserve">
         <source xml:space="preserve">Payment for <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Platba za pracovní skupinu <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Platba za pracovní partu <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Must transfer positive amount." xml:space="preserve">
         <source xml:space="preserve">Must transfer positive amount.</source>
@@ -53424,7 +53424,7 @@
       </trans-unit>
       <trans-unit id="These claims must be used on claim stakes within the influence of" xml:space="preserve">
         <source xml:space="preserve">These claims must be used on claim stakes within the influence of</source>
-        <target xml:space="preserve" state="translated">Tyto zábory musí být použity na záborových kolících v oblasti vlivu osady</target>
+        <target xml:space="preserve" state="translated">Tyto záborové listiny musí být použity na záborových kolících v oblasti vlivu osady</target>
       </trans-unit>
       <trans-unit id="removed {0}. Remaining: {1}." xml:space="preserve">
         <source xml:space="preserve">removed <ph id="0">{0}</ph>. Remaining: <ph id="1">{1}</ph>.</source>
@@ -53484,7 +53484,7 @@
       </trans-unit>
       <trans-unit id="Removing the last sub-settlement will unplace this settlement. Proceed? Note: you can disable this in the foundation component." xml:space="preserve">
         <source xml:space="preserve">Removing the last sub-settlement will unplace this settlement. Proceed? Note: you can disable this in the foundation component.</source>
-        <target xml:space="preserve" state="translated">Odebráním poslední dceřiné osady se zruší umístění této osady. Pokračovat? Poznámka: toto lze vypnout v komponentě základů osady.</target>
+        <target xml:space="preserve" state="translated">Odebráním poslední dceřiné osady se zruší umístění této osady. Pokračovat? Poznámka: toto lze vypnout ve funkci základů osady.</target>
       </trans-unit>
       <trans-unit id="You can either use the {4} civic action to accept the application or {5} to rescind it." xml:space="preserve">
         <source xml:space="preserve">You can either use the <ph id="4">{4}</ph> civic action to accept the application or <ph id="5">{5}</ph> to rescind it.</source>
@@ -53564,7 +53564,7 @@
       </trans-unit>
       <trans-unit id="Removing the last citizen will dissolve this town. Proceed?  Note: you can disable this in the foundation component." xml:space="preserve">
         <source xml:space="preserve">Removing the last citizen will dissolve this town. Proceed?  Note: you can disable this in the foundation component.</source>
-        <target xml:space="preserve" state="translated">Odebráním posledního občana se toto město rozpustí. Pokračovat?  Poznámka: toto lze vypnout v komponentě základů osady.</target>
+        <target xml:space="preserve" state="translated">Odebráním posledního občana se toto město rozpustí. Pokračovat?  Poznámka: toto lze vypnout ve funkci základů osady.</target>
       </trans-unit>
       <trans-unit id="{0} should either move the Homestead plots closer or remove the homestead entirely to become a Citizen." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> should either move the Homestead plots closer or remove the homestead entirely to become a Citizen.</source>
@@ -54247,19 +54247,19 @@
       </trans-unit>
       <trans-unit id="Settlement Claims Per Citizen" xml:space="preserve">
         <source xml:space="preserve">Settlement Claims Per Citizen</source>
-        <target xml:space="preserve" state="translated">Zábory osady na občana</target>
+        <target xml:space="preserve" state="translated">Pozemky osady na občana</target>
       </trans-unit>
       <trans-unit id="Settlement Claims Per Abandoned Citizen" xml:space="preserve">
         <source xml:space="preserve">Settlement Claims Per Abandoned Citizen</source>
-        <target xml:space="preserve" state="translated">Zábory osady na opuštěného občana</target>
+        <target xml:space="preserve" state="translated">Pozemky osady na opuštěného občana</target>
       </trans-unit>
       <trans-unit id="Homestead Support Claims Per Citizen" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims Per Citizen</source>
-        <target xml:space="preserve" state="translated">Podpůrné zábory pro usedlosti na občana</target>
+        <target xml:space="preserve" state="translated">Podpůrné záborové listiny pro usedlosti na občana</target>
       </trans-unit>
       <trans-unit id="Homestead Support Claims Per Abandoned Citizen" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims Per Abandoned Citizen</source>
-        <target xml:space="preserve" state="translated">Podpůrné zábory pro usedlosti na opuštěného občana</target>
+        <target xml:space="preserve" state="translated">Podpůrné záborové listiny pro usedlosti na opuštěného občana</target>
       </trans-unit>
       <trans-unit id="Claim Stakes Per Citizen" xml:space="preserve">
         <source xml:space="preserve">Claim Stakes Per Citizen</source>
@@ -54303,7 +54303,7 @@
       </trans-unit>
       <trans-unit id="Support claims (usable only at homesteads with no settlement), made available on the settlement marker at each level of settlement. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">Support claims (usable only at homesteads with no settlement), made available on the settlement marker at each level of settlement. Defined per settlement type.</source>
-        <target xml:space="preserve" state="translated">Podpůrné zábory (použitelné jen na usedlostech bez osady), dostupné na značce osady na každé úrovni osady. Definováno podle typu osady.</target>
+        <target xml:space="preserve" state="translated">Podpůrné záborové listiny (použitelné jen na usedlostech bez osady), dostupné na značce osady na každé úrovni osady. Definováno podle typu osady.</target>
       </trans-unit>
       <trans-unit id="If the influence source position of a cultural deed is not within OtherDeedInfluenceRadius + (this * OtherDeedInfluenceRadius) then the deed will lose its influence (you must link properties together to cast influence)." xml:space="preserve">
         <source xml:space="preserve">If the influence source position of a cultural deed is not within OtherDeedInfluenceRadius + (this * OtherDeedInfluenceRadius) then the deed will lose its influence (you must link properties together to cast influence).</source>
@@ -54351,7 +54351,7 @@
       </trans-unit>
       <trans-unit id="Place this to start a new claim outside of any settlement." xml:space="preserve">
         <source xml:space="preserve">Place this to start a new claim outside of any settlement.</source>
-        <target xml:space="preserve" state="translated">Umístěním založíš nový zábor mimo jakoukoli osadu.</target>
+        <target xml:space="preserve" state="translated">Umístěním zabereš nový pozemek mimo jakoukoli osadu.</target>
       </trans-unit>
       <trans-unit id="Citizenship Type" xml:space="preserve">
         <source xml:space="preserve">Citizenship Type</source>
@@ -54363,11 +54363,11 @@
       </trans-unit>
       <trans-unit id="Allow Plots Unclaiming" xml:space="preserve">
         <source xml:space="preserve">Allow Plots Unclaiming</source>
-        <target xml:space="preserve" state="translated">Povolit rušení záboru parcel</target>
+        <target xml:space="preserve" state="translated">Povolit uvolňování parcel</target>
       </trans-unit>
       <trans-unit id="If checked, the owner of this deed may unclaim plots on the deed while you're a resident." xml:space="preserve">
         <source xml:space="preserve">If checked, the owner of this deed may unclaim plots on the deed while you're a resident.</source>
-        <target xml:space="preserve" state="translated">Pokud je zaškrtnuto, vlastník tohoto listu vlastnictví může zrušit zábor parcel na listu, dokud jsi tu obyvatelem.</target>
+        <target xml:space="preserve" state="translated">Pokud je zaškrtnuto, vlastník tohoto listu vlastnictví může parcely na listu uvolňovat, dokud jsi tu obyvatelem.</target>
       </trans-unit>
       <trans-unit id="defaultexhaust" translate="no">
         <source xml:space="preserve">defaultexhaust</source>
@@ -54457,7 +54457,7 @@
       </trans-unit>
       <trans-unit id="The deed being claimed to or unclaimed from." xml:space="preserve">
         <source xml:space="preserve">The deed being claimed to or unclaimed from.</source>
-        <target xml:space="preserve" state="translated">List vlastnictví, na který se zábor přidává nebo ze kterého se ruší.</target>
+        <target xml:space="preserve" state="translated">List vlastnictví, na který se pozemek zabírá nebo ze kterého se uvolňuje.</target>
       </trans-unit>
       <trans-unit id="The deed residency was changed in." xml:space="preserve">
         <source xml:space="preserve">The deed residency was changed in.</source>
@@ -54987,11 +54987,11 @@
       </trans-unit>
       <trans-unit id="This deed allows unclaiming plots while having residents." xml:space="preserve">
         <source xml:space="preserve">This deed allows unclaiming plots while having residents.</source>
-        <target xml:space="preserve" state="translated">Tento list vlastnictví umožňuje zrušit zábor parcel, i když má obyvatele.</target>
+        <target xml:space="preserve" state="translated">Tento list vlastnictví umožňuje uvolňovat parcely, i když má obyvatele.</target>
       </trans-unit>
       <trans-unit id="This deed doesn't allow unclaiming plots while having residents." xml:space="preserve">
         <source xml:space="preserve">This deed doesn't allow unclaiming plots while having residents.</source>
-        <target xml:space="preserve" state="translated">Tento list vlastnictví nedovoluje zrušit zábor parcel, pokud má obyvatele.</target>
+        <target xml:space="preserve" state="translated">Tento list vlastnictví nedovoluje uvolňovat parcely, pokud má obyvatele.</target>
       </trans-unit>
       <trans-unit id="Admin Options:" xml:space="preserve">
         <source xml:space="preserve">Admin Options:</source>
@@ -55283,7 +55283,7 @@
       </trans-unit>
       <trans-unit id="{0} had a property crisis (not enough citizens to support the claimed land)" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> had a property crisis (not enough citizens to support the claimed land)</source>
-        <target xml:space="preserve" state="translated">osada <ph id="0">{0}</ph> měla majetkovou krizi (příliš málo občanů na udržení zabrané půdy)</target>
+        <target xml:space="preserve" state="translated">osada <ph id="0">{0}</ph> měla pozemkovou krizi (příliš málo občanů na udržení zabrané půdy)</target>
       </trans-unit>
       <trans-unit id="You can't move a settlement foundation more than {0}m away from its original foundation position {1}." xml:space="preserve">
         <source xml:space="preserve">You can't move a settlement foundation more than <ph id="0">{0}</ph>m away from its original foundation position <ph id="1">{1}</ph>.</source>
@@ -55331,11 +55331,11 @@
       </trans-unit>
       <trans-unit id="property crisis resoultion was forced by {0}" xml:space="preserve">
         <source xml:space="preserve">property crisis resoultion was forced by <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">řešení majetkové krize bylo vynuceno hráčem <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">řešení pozemkové krize bylo vynuceno hráčem <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="a recount of claims was forced via admin command by {0}" xml:space="preserve">
         <source xml:space="preserve">a recount of claims was forced via admin command by <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">přepočítání záborů bylo vynuceno příkazem administrátora <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">přepočítání záborových listin bylo vynuceno příkazem administrátora <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Upon leaving {0} would you like to become a direct citizen of {1}?" xml:space="preserve">
         <source xml:space="preserve">Upon leaving <ph id="0">{0}</ph> would you like to become a direct citizen of <ph id="1">{1}</ph>?</source>
@@ -55359,7 +55359,7 @@
       </trans-unit>
       <trans-unit id="A plotsComponent doesn't have any deed." xml:space="preserve">
         <source xml:space="preserve">A plotsComponent doesn't have any deed.</source>
-        <target xml:space="preserve" state="translated">Komponenta plotsComponent nemá žádný list vlastnictví.</target>
+        <target xml:space="preserve" state="translated">Funkce plotsComponent nemá žádný list vlastnictví.</target>
       </trans-unit>
       <trans-unit id="Can't claim plot, {0} only allows unaffiliated homestead deeds to expand into its influence." xml:space="preserve">
         <source xml:space="preserve">Can't claim plot, <ph id="0">{0}</ph> only allows unaffiliated homestead deeds to expand into its influence.</source>
@@ -55371,7 +55371,7 @@
       </trans-unit>
       <trans-unit id="This deed has 'Allow Plots Unclaiming While Renting' enabled, meaning the landlord can remove plots from the deed without evicting residents, do you accept?" xml:space="preserve">
         <source xml:space="preserve">This deed has 'Allow Plots Unclaiming While Renting' enabled, meaning the landlord can remove plots from the deed without evicting residents, do you accept?</source>
-        <target xml:space="preserve" state="translated">Tento list vlastnictví má zapnuté nastavení „Povolit rušení záboru parcel během pronájmu“, takže pronajímatel může odebírat parcely z listu vlastnictví, aniž by vystěhoval obyvatele. Souhlasíš?</target>
+        <target xml:space="preserve" state="translated">Tento list vlastnictví má zapnuté nastavení „Povolit uvolňování parcel během pronájmu“, takže pronajímatel může odebírat parcely z listu vlastnictví, aniž by vystěhoval obyvatele. Souhlasíš?</target>
       </trans-unit>
       <trans-unit id="{0} only allows citizens to directly own properties inside its sphere of influence and {1} is not a citizen." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> only allows citizens to directly own properties inside its sphere of influence and <ph id="1">{1}</ph> is not a citizen.</source>
@@ -55427,7 +55427,7 @@
       </trans-unit>
       <trans-unit id="Note: {0} claims will not work until you actually join {1}." xml:space="preserve">
         <source xml:space="preserve">Note: <ph id="0">{0}</ph> claims will not work until you actually join <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Poznámka: zábory osady <ph id="0">{0}</ph> nebudou fungovat, dokud se skutečně nepřipojíš k osadě <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Poznámka: záborové listiny osady <ph id="0">{0}</ph> nebudou fungovat, dokud se skutečně nepřipojíš k osadě <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="MoveWorldObject.ItemUsed" xml:space="preserve">
         <source xml:space="preserve">MoveWorldObject.ItemUsed</source>
@@ -55503,7 +55503,7 @@
       </trans-unit>
       <trans-unit id="Allow plots unclaiming while renting" xml:space="preserve">
         <source xml:space="preserve">Allow plots unclaiming while renting</source>
-        <target xml:space="preserve" state="translated">Povolit rušení záboru parcel během pronájmu</target>
+        <target xml:space="preserve" state="translated">Povolit uvolňování parcel během pronájmu</target>
       </trans-unit>
       <trans-unit id="Clear Preview" xml:space="preserve">
         <source xml:space="preserve">Clear Preview</source>
@@ -55523,11 +55523,11 @@
       </trans-unit>
       <trans-unit id="Claims Requirement:" xml:space="preserve">
         <source xml:space="preserve">Claims Requirement:</source>
-        <target xml:space="preserve" state="translated">Požadavek na zábory:</target>
+        <target xml:space="preserve" state="translated">Požadavek na pozemky:</target>
       </trans-unit>
       <trans-unit id="Claims Requirements" xml:space="preserve">
         <source xml:space="preserve">Claims Requirements</source>
-        <target xml:space="preserve" state="translated">Požadavky na zábory</target>
+        <target xml:space="preserve" state="translated">Požadavky na pozemky</target>
       </trans-unit>
       <trans-unit id="Drop Picture Item here for the preview or browse a file" xml:space="preserve">
         <source xml:space="preserve">Drop Picture Item here for the preview or browse a file</source>
@@ -56362,7 +56362,7 @@
       </trans-unit>
       <trans-unit id="Destroy all things related with the passed settlement and unclaim all property." xml:space="preserve">
         <source xml:space="preserve">Destroy all things related with the passed settlement and unclaim all property.</source>
-        <target xml:space="preserve" state="translated">Zničí vše, co souvisí se zadanou osadou, a zruší zábor veškerých pozemků.</target>
+        <target xml:space="preserve" state="translated">Zničí vše, co souvisí se zadanou osadou, a uvolní veškeré pozemky.</target>
         <note from="developer">Help text for chat command /clear</note>
       </trans-unit>
       <trans-unit id="boostsettlement" translate="no">
@@ -57090,7 +57090,7 @@
       </trans-unit>
       <trans-unit id="These claims are {0} and can be used in any claim stake, regardless of settlements or lack thereof." xml:space="preserve">
         <source xml:space="preserve">These claims are <ph id="0">{0}</ph> and can be used in any claim stake, regardless of settlements or lack thereof.</source>
-        <target xml:space="preserve" state="translated">Tyto zábory mají označení „<ph id="0">{0}</ph>“ a lze je použít v libovolném záborovém kolíku, ať už osady existují, nebo ne.</target>
+        <target xml:space="preserve" state="translated">Tyto záborové listiny mají označení „<ph id="0">{0}</ph>“ a lze je použít v libovolném záborovém kolíku, ať už osady existují, nebo ne.</target>
       </trans-unit>
       <trans-unit id="coin" xml:space="preserve">
         <source xml:space="preserve">coin</source>
@@ -57599,7 +57599,7 @@
       </trans-unit>
       <trans-unit id="Admin Applied Property Value Boost: +{0}." xml:space="preserve">
         <source xml:space="preserve">Admin Applied Property Value Boost: +<ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Bonus administrátora k hodnotě majetku: +<ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Bonus administrátora k hodnotě pozemku: +<ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Architecture Multiplier:" xml:space="preserve">
         <source xml:space="preserve">Architecture Multiplier:</source>
@@ -57935,7 +57935,7 @@
       </trans-unit>
       <trans-unit id="Note: This report considers only initial placement. As you expand your claim with more plots, these values will change." xml:space="preserve">
         <source xml:space="preserve">Note: This report considers only initial placement. As you expand your claim with more plots, these values will change.</source>
-        <target xml:space="preserve" state="translated">Poznámka: tato zpráva zohledňuje jen počáteční umístění. Jak budeš rozšiřovat zábor o další parcely, budou se tyto hodnoty měnit.</target>
+        <target xml:space="preserve" state="translated">Poznámka: tato zpráva zohledňuje jen počáteční umístění. Jak budeš rozšiřovat pozemek o další parcely, budou se tyto hodnoty měnit.</target>
       </trans-unit>
       <trans-unit id="Report on placing a {0} at {1}" xml:space="preserve">
         <source xml:space="preserve">Report on placing a <ph id="0">{0}</ph> at <ph id="1">{1}</ph></source>
@@ -57983,11 +57983,11 @@
       </trans-unit>
       <trans-unit id="{0} has ended its property crisis." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has ended its property crisis.</source>
-        <target xml:space="preserve" state="translated">Osada <ph id="0">{0}</ph> ukončila svou majetkovou krizi.</target>
+        <target xml:space="preserve" state="translated">Osada <ph id="0">{0}</ph> ukončila svou pozemkovou krizi.</target>
       </trans-unit>
       <trans-unit id="Property crisis at {0}" xml:space="preserve">
         <source xml:space="preserve">Property crisis at <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Majetková krize: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Pozemková krize: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="{0} was removed from {1}: {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was removed from <ph id="1">{1}</ph>: <ph id="2">{2}</ph></source>
@@ -58071,7 +58071,7 @@
       </trans-unit>
       <trans-unit id="Alternatively, you can unclaim some land on your homestead." xml:space="preserve">
         <source xml:space="preserve">Alternatively, you can unclaim some land on your homestead.</source>
-        <target xml:space="preserve" state="translated">Případně můžeš zrušit zábor části půdy na své usedlosti.</target>
+        <target xml:space="preserve" state="translated">Případně můžeš uvolnit část půdy na své usedlosti.</target>
       </trans-unit>
       <trans-unit id="{0} cannot join {1}:" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cannot join <ph id="1">{1}</ph>:</source>
@@ -58119,7 +58119,7 @@
       </trans-unit>
       <trans-unit id="If this is not fixed before {0}, the farthest plots will be unclaimed." xml:space="preserve">
         <source xml:space="preserve">If this is not fixed before <ph id="0">{0}</ph>, the farthest plots will be unclaimed.</source>
-        <target xml:space="preserve" state="translated">Pokud se to do <ph id="0">{0}</ph> nevyřeší, zruší se zábor nejvzdálenějších parcel.</target>
+        <target xml:space="preserve" state="translated">Pokud se to do <ph id="0">{0}</ph> nevyřeší, uvolní se nejvzdálenější parcely.</target>
       </trans-unit>
       <trans-unit id="{0} was {1} and lost {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was <ph id="1">{1}</ph> and lost <ph id="2">{2}</ph>.</source>
@@ -58231,7 +58231,7 @@
       </trans-unit>
       <trans-unit id="Orphaned crafting component." xml:space="preserve">
         <source xml:space="preserve">Orphaned crafting component.</source>
-        <target xml:space="preserve" state="translated">Osiřelá výrobní komponenta.</target>
+        <target xml:space="preserve" state="translated">Osiřelá výrobní funkce.</target>
       </trans-unit>
       <trans-unit id="Couldn't start work order:" xml:space="preserve">
         <source xml:space="preserve">Couldn't start work order:</source>
@@ -59165,7 +59165,7 @@
       </trans-unit>
       <trans-unit id="Blocked from Trade" xml:space="preserve">
         <source xml:space="preserve">Blocked from Trade</source>
-        <target xml:space="preserve" state="translated">Zablokováno pro obchod</target>
+        <target xml:space="preserve" state="translated">Zákaz obchodování</target>
       </trans-unit>
       <trans-unit id="Premium Item Restrictions" xml:space="preserve">
         <source xml:space="preserve">Premium Item Restrictions</source>
@@ -60323,7 +60323,7 @@
       </trans-unit>
       <trans-unit id="When you harvest wild food, you will sometimes also receive seeds for that food." xml:space="preserve">
         <source xml:space="preserve">When you harvest wild food, you will sometimes also receive seeds for that food.</source>
-        <target xml:space="preserve" state="translated">Když sbíráš divoké potraviny, někdy získáš i jejich semena.</target>
+        <target xml:space="preserve" state="translated">Když sbíráš plody divočiny, někdy získáš i jejich semena.</target>
       </trans-unit>
       <trans-unit id="Vehicles will let you move larger quantites of heavier materials." xml:space="preserve">
         <source xml:space="preserve">Vehicles will let you move larger quantites of heavier materials.</source>
@@ -60403,7 +60403,7 @@
       </trans-unit>
       <trans-unit id="View your trade offer and other citizen's offers in the Economy Viewer. Close it when done." xml:space="preserve">
         <source xml:space="preserve">View your trade offer and other citizen's offers in the Economy Viewer. Close it when done.</source>
-        <target xml:space="preserve" state="translated">Prohlédni si svou obchodní nabídku a nabídky ostatních občanů v Prohlížeči ekonomiky. Až skončíš, zavři ho.</target>
+        <target xml:space="preserve" state="translated">Prohlédni si svou obchodní nabídku a nabídky ostatních občanů v Ekonomickém panelu. Až skončíš, zavři ho.</target>
       </trans-unit>
       <trans-unit id="Place your starting camp in a good location." xml:space="preserve">
         <source xml:space="preserve">Place your starting camp in a good location.</source>
@@ -60715,11 +60715,11 @@
       </trans-unit>
       <trans-unit id="Citizens specialize in different skills and need to trade with other specialists to acquire what they need." xml:space="preserve">
         <source xml:space="preserve">Citizens specialize in different skills and need to trade with other specialists to acquire what they need.</source>
-        <target xml:space="preserve" state="translated">Občané se specializují na různé dovednosti a to, co potřebují, musí získávat obchodem s dalšími specialisty.</target>
+        <target xml:space="preserve" state="translated">Občané se specializují na různé dovednosti a to, co potřebují, musí získávat obchodováním s dalšími specialisty.</target>
       </trans-unit>
       <trans-unit id="The economy viewer will show you all the active trades in the world, as well as Work Parties, Contracts, Rental Offers, Repair Bounties, and more." xml:space="preserve">
         <source xml:space="preserve">The economy viewer will show you all the active trades in the world, as well as Work Parties, Contracts, Rental Offers, Repair Bounties, and more.</source>
-        <target xml:space="preserve" state="translated">Prohlížeč ekonomiky ti ukáže všechny aktivní nabídky v obchodech ve světě i pracovní skupiny, smlouvy, nabídky pronájmu, odměny za opravy a další.</target>
+        <target xml:space="preserve" state="translated">Ekonomický panel ti ukáže všechny aktivní nabídky v obchodech ve světě i pracovní party, smlouvy, nabídky pronájmu, odměny za opravy a další.</target>
       </trans-unit>
       <trans-unit id="Use it to buy and sell both goods and services to other citizens." xml:space="preserve">
         <source xml:space="preserve">Use it to buy and sell both goods and services to other citizens.</source>
@@ -62726,7 +62726,7 @@
       </trans-unit>
       <trans-unit id="Maps the culture bonus of a property's architecture to a multiplier for the value of that property, for Residential property type." xml:space="preserve">
         <source xml:space="preserve">Maps the culture bonus of a property's architecture to a multiplier for the value of that property, for Residential property type.</source>
-        <target xml:space="preserve" state="translated">Přiřazuje kulturnímu bonusu architektury majetku násobič hodnoty tohoto majetku pro typ majetku Rezidenční.</target>
+        <target xml:space="preserve" state="translated">Přiřazuje kulturnímu bonusu architektury pozemku násobič hodnoty tohoto pozemku pro typ pozemku Rezidenční.</target>
       </trans-unit>
       <trans-unit id="Determines how long prepared food is considered fresh for dinner parties." xml:space="preserve">
         <source xml:space="preserve">Determines how long prepared food is considered fresh for dinner parties.</source>
@@ -63327,7 +63327,7 @@
       </trans-unit>
       <trans-unit id="Stockpile storage failed to initialize in time. Comp: {0}, Storage: {1}, Initialized: {2}" xml:space="preserve">
         <source xml:space="preserve">Stockpile storage failed to initialize in time. Comp: <ph id="0">{0}</ph>, Storage: <ph id="1">{1}</ph>, Initialized: <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated">Úložiště skladu se nepodařilo včas inicializovat. Komponenta: <ph id="0">{0}</ph>, Úložiště: <ph id="1">{1}</ph>, Inicializováno: <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated">Úložiště skladu se nepodařilo včas inicializovat. Funkce: <ph id="0">{0}</ph>, Úložiště: <ph id="1">{1}</ph>, Inicializováno: <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Stockpile storage has no inventory stacks." xml:space="preserve">
         <source xml:space="preserve">Stockpile storage has no inventory stacks.</source>
@@ -65082,7 +65082,7 @@
       </trans-unit>
       <trans-unit id="Total is capped at the property value of {0}: {1}" xml:space="preserve">
         <source xml:space="preserve">Total is capped at the property value of <ph id="0">{0}</ph>: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Celkem je omezeno hodnotou majetku podle listu vlastnictví <ph id="0">{0}</ph>: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Celkem je omezeno hodnotou pozemku podle listu vlastnictví <ph id="0">{0}</ph>: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Dinner party happened {0} ago, {1} reduction applied." xml:space="preserve">
         <source xml:space="preserve">Dinner party happened <ph id="0">{0}</ph> ago, <ph id="1">{1}</ph> reduction applied.</source>
@@ -65094,7 +65094,7 @@
       </trans-unit>
       <trans-unit id="Note: Dinner Parties only generate significant culture when they have citizens from multiple settlements dining together.  Dinner Party bonus is capped at the property value of the deed: {0}" xml:space="preserve">
         <source xml:space="preserve">Note: Dinner Parties only generate significant culture when they have citizens from multiple settlements dining together.  Dinner Party bonus is capped at the property value of the deed: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Poznámka: Hostiny vytvářejí významnou kulturu jen tehdy, když spolu stolují občané z více osad.  Bonus za hostinu je omezen hodnotou majetku podle listu vlastnictví: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Poznámka: Hostiny vytvářejí významnou kulturu jen tehdy, když spolu stolují občané z více osad.  Bonus za hostinu je omezen hodnotou pozemku podle listu vlastnictví: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="finished" xml:space="preserve">
         <source xml:space="preserve">finished</source>
@@ -65347,11 +65347,11 @@
       </trans-unit>
       <trans-unit id="You cannot leave this work party after having contributed." xml:space="preserve">
         <source xml:space="preserve">You cannot leave this work party after having contributed.</source>
-        <target xml:space="preserve" state="translated">Po přispění už nemůžeš tuto pracovní skupinu opustit.</target>
+        <target xml:space="preserve" state="translated">Po přispění už nemůžeš tuto pracovní partu opustit.</target>
       </trans-unit>
       <trans-unit id="Are you sure you want to leave this work party?" xml:space="preserve">
         <source xml:space="preserve">Are you sure you want to leave this work party?</source>
-        <target xml:space="preserve" state="translated">Opravdu chceš opustit tuto pracovní skupinu?</target>
+        <target xml:space="preserve" state="translated">Opravdu chceš opustit tuto pracovní partu?</target>
       </trans-unit>
       <trans-unit id="You do not have manager access to that title." xml:space="preserve">
         <source xml:space="preserve">You do not have manager access to that title.</source>
@@ -66250,7 +66250,7 @@
       </trans-unit>
       <trans-unit id="{0} is not counted because they were recently a member of {1}, which is currently in a property crisis." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not counted because they were recently a member of <ph id="1">{1}</ph>, which is currently in a property crisis.</source>
-        <target xml:space="preserve" state="translated">Hráč <ph id="0">{0}</ph> se nezapočítává: nedávné členství v osadě <ph id="1">{1}</ph>, která je právě v majetkové krizi.</target>
+        <target xml:space="preserve" state="translated">Hráč <ph id="0">{0}</ph> se nezapočítává: nedávné členství v osadě <ph id="1">{1}</ph>, která je právě v pozemkové krizi.</target>
       </trans-unit>
       <trans-unit id="Cannot claim {0} because it contains a vehicle and the deed is not owned by a citizen of {1}." xml:space="preserve">
         <source xml:space="preserve">Cannot claim <ph id="0">{0}</ph> because it contains a vehicle and the deed is not owned by a citizen of <ph id="1">{1}</ph>.</source>
@@ -66426,7 +66426,7 @@
       </trans-unit>
       <trans-unit id="{0} started unclaim abandoned command with {1} day(s) limit:" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> started unclaim abandoned command with <ph id="1">{1}</ph> day(s) limit:</source>
-        <target xml:space="preserve" state="translated">Uživatel <ph id="0">{0}</ph> spustil příkaz pro zrušení záboru opuštěných pozemků (limit ve dnech: <ph id="1">{1}</ph>):</target>
+        <target xml:space="preserve" state="translated">Uživatel <ph id="0">{0}</ph> spustil příkaz k uvolnění opuštěných pozemků (limit ve dnech: <ph id="1">{1}</ph>):</target>
       </trans-unit>
       <trans-unit id="Deeds found: {0} ({1})" xml:space="preserve">
         <source xml:space="preserve">Deeds found: <ph id="0">{0}</ph> (<ph id="1">{1}</ph>)</source>
@@ -66438,7 +66438,7 @@
       </trans-unit>
       <trans-unit id="Plots unclaimed: {0}" xml:space="preserve">
         <source xml:space="preserve">Plots unclaimed: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Zrušen zábor parcel: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Uvolněné parcely: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="You need to be closer to the property to be able to give reputation." xml:space="preserve">
         <source xml:space="preserve">You need to be closer to the property to be able to give reputation.</source>
@@ -67571,7 +67571,7 @@ Přístup k celému svému pozemku můžeš nastavit také následovně:</target
         <source xml:space="preserve">There's no wild food left around you.
 
 To find more food you'll need to collect it from other players.</source>
-        <target xml:space="preserve" state="translated">V okolí už nezbyly žádné divoké potraviny.
+        <target xml:space="preserve" state="translated">V okolí už nezbyly žádné plody divočiny.
 
 Další jídlo budeš muset sehnat od ostatních hráčů.</target>
       </trans-unit>
@@ -68034,13 +68034,13 @@ s ostatními občany ve sdíleném světě.</target>
       <trans-unit id="Property:&#10;" xml:space="preserve">
         <source xml:space="preserve">Property:
 </source>
-        <target xml:space="preserve" state="translated">Majetek:
+        <target xml:space="preserve" state="translated">Pozemek:
 </target>
       </trans-unit>
       <trans-unit id="Property&#10;" xml:space="preserve">
         <source xml:space="preserve">Property
 </source>
-        <target xml:space="preserve" state="translated">Majetek
+        <target xml:space="preserve" state="translated">Pozemky
 </target>
       </trans-unit>
       <trans-unit id="Accept&#10;" xml:space="preserve">
@@ -68150,7 +68150,7 @@ a při jejich změně se upraví. </target>
       <trans-unit id="Trade is very important in Eco.&#10;" xml:space="preserve">
         <source xml:space="preserve">Trade is very important in Eco.
 </source>
-        <target xml:space="preserve" state="translated">Obchod je v Eco velmi důležitý.
+        <target xml:space="preserve" state="translated">Obchodování je v Eco velmi důležité.
 </target>
       </trans-unit>
       <trans-unit id="There are two kinds of Currency in Eco: &#10;&#10;Citizen Credit (which that citizen can create infinite amounts of) and Backed Currency, which can only be created at a Mint and consumes resources." xml:space="preserve">
@@ -68329,7 +68329,7 @@ Eco</target>
         <source xml:space="preserve">Disabled: Residents are not allowed when
 Property Type is not set to 'Residence'.</source>
         <target xml:space="preserve" state="translated">Vypnuto: Obyvatelé nejsou povoleni, pokud
-typ majetku není nastaven na „Bydliště“.</target>
+typ pozemku není nastaven na „Bydliště“.</target>
       </trans-unit>
       <trans-unit id="&#10;The list of players who have access to the deed.&#10;These players will have full authority  for objects on the deed." xml:space="preserve">
         <source xml:space="preserve">
@@ -68486,7 +68486,7 @@ Po propojení a zapnutí se integrace aktivuje, jakmile se připojíš k serveru
       <trans-unit id="If checked, the owner of this deed may unclaim plots on the deed while you're a resident.&#10;Note: Can only be changed when there are no residents." xml:space="preserve">
         <source xml:space="preserve">If checked, the owner of this deed may unclaim plots on the deed while you're a resident.
 Note: Can only be changed when there are no residents.</source>
-        <target xml:space="preserve" state="translated">Je-li zaškrtnuto, vlastník tohoto listu vlastnictví může zrušit zábor parcel na listu, dokud tu bydlíš.
+        <target xml:space="preserve" state="translated">Je-li zaškrtnuto, vlastník tohoto listu vlastnictví může uvolnit parcely na listu, dokud tu bydlíš.
 Poznámka: Lze změnit jen tehdy, když nejsou žádní obyvatelé.</target>
       </trans-unit>
       <trans-unit id="Residents&#10;" xml:space="preserve">
@@ -68516,7 +68516,7 @@ Vlastníci nájemné ani poplatek za nastěhování neplatí.</target>
       <trans-unit id="Property On Deed:&#10;" xml:space="preserve">
         <source xml:space="preserve">Property On Deed:
 </source>
-        <target xml:space="preserve" state="translated">Majetek na listu vlastnictví:
+        <target xml:space="preserve" state="translated">Pozemek na listu vlastnictví:
 </target>
       </trans-unit>
       <trans-unit id="Submit Report&#10;" xml:space="preserve">
@@ -68559,9 +68559,9 @@ Break</source>
         <source xml:space="preserve">Set whether this Work Party is an Open or Closed size.
 
 An 'Open' Work Party will open a new laborer slot when existing roles fill up. A closed Work Party will not. </source>
-        <target xml:space="preserve" state="translated">Nastav, zda je velikost této pracovní skupiny otevřená, nebo uzavřená.
+        <target xml:space="preserve" state="translated">Nastav, zda je velikost této pracovní party otevřená, nebo uzavřená.
 
-„Otevřená“ pracovní skupina otevře nové místo pro pracovníka, když se stávající role zaplní. Uzavřená pracovní skupina to neudělá. </target>
+„Otevřená“ pracovní parta otevře nové místo pro pracovníka, když se stávající role zaplní. Uzavřená pracovní parta to neudělá. </target>
       </trans-unit>
       <trans-unit id="Payment&#10;" xml:space="preserve">
         <source xml:space="preserve">Payment
@@ -68649,7 +68649,7 @@ Zatím není založeno.</target>
 In the case of annexing a Homestead, this number will be increased by the number of Homestead Support Claim Papers that are on the stake.  This makes the support claims not only allow homesteads to claim more plots, but have more protection against annexation. </source>
         <target xml:space="preserve" state="translated">Anexe cíle vyžaduje zaplatit mu záborové listiny ze zdrojové osady.  Na rozdíl od surovin jdou tyto listiny ze 100 % bez ztrát do objektu založení cíle.  Cena se počítá za každého neopuštěného občana v cíli.
 
-Při anexi usedlosti se tento počet zvýší o počet podpůrných záborových listin pro usedlost, které jsou na kolíku.  Podpůrné zábory tak usedlostem nejen umožňují zabrat více parcel, ale také je lépe chrání před anexí. </target>
+Při anexi usedlosti se tento počet zvýší o počet podpůrných záborových listin pro usedlost, které jsou na kolíku.  Podpůrné záborové listiny tak usedlostem nejen umožňují zabrat více parcel, ale také je lépe chrání před anexí. </target>
       </trans-unit>
       <trans-unit id="The resources shown must exist in storage attached to an Embassy Desk that is assigned to the Settlement's jurisdiction.  They must be accessible to the leader of the Settlement. The cost is determined per-non-abandoned citizen in the target.&#10;&#10;Upon annexation, a percent of these will be given to the other party, and the rest destroyed as the cost of the annexation.&#10;&#10;If all citizens of a target are 'Abandoned', no resources are needed." xml:space="preserve">
         <source xml:space="preserve">The resources shown must exist in storage attached to an Embassy Desk that is assigned to the Settlement's jurisdiction.  They must be accessible to the leader of the Settlement. The cost is determined per-non-abandoned citizen in the target.
@@ -70537,7 +70537,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="Incompatible component." xml:space="preserve">
         <source xml:space="preserve">Incompatible component.</source>
-        <target state="translated">Nekompatibilní komponenta.</target>
+        <target state="translated">Nekompatibilní funkce.</target>
       </trans-unit>
       <trans-unit id="Copied store offers." xml:space="preserve">
         <source xml:space="preserve">Copied store offers.</source>
@@ -70684,7 +70684,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="Can only paste between the same kind of component." xml:space="preserve">
         <source xml:space="preserve">Can only paste between the same kind of component.</source>
-        <target state="translated">Vkládat lze pouze mezi komponentami stejného druhu.</target>
+        <target state="translated">Vkládat lze pouze mezi funkcemi stejného druhu.</target>
       </trans-unit>
       <trans-unit id="You don't have access to the copied object." xml:space="preserve">
         <source xml:space="preserve">You don't have access to the copied object.</source>
@@ -70692,7 +70692,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="Settings pasted to {0} in {1}." xml:space="preserve">
         <source xml:space="preserve">Settings pasted to <ph id="0">{0}</ph> in <ph id="1">{1}</ph>.</source>
-        <target state="translated">Nastavení vložena do komponenty <ph id="0">{0}</ph> objektu <ph id="1">{1}</ph>.</target>
+        <target state="translated">Nastavení vložena do funkce <ph id="0">{0}</ph> objektu <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Attempt interact on missing module item type {0}." xml:space="preserve">
         <source xml:space="preserve">Attempt interact on missing module item type <ph id="0">{0}</ph>.</source>
@@ -71075,7 +71075,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="Dumps pollution values for the claim you're standing on." xml:space="preserve">
         <source xml:space="preserve">Dumps pollution values for the claim you're standing on.</source>
-        <target state="translated">Vypíše hodnoty znečištění pro zábor, na kterém stojíš.</target>
+        <target state="translated">Vypíše hodnoty znečištění pro pozemek, na kterém stojíš.</target>
         <note>Help text for chat command /info</note>
       </trans-unit>
       <trans-unit id="wipe" xml:space="preserve">
@@ -71300,7 +71300,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="Maximum number of dinner parties that can be started on a single claim (deed) per day. Set to 0 or less for no limit." xml:space="preserve">
         <source xml:space="preserve">Maximum number of dinner parties that can be started on a single claim (deed) per day. Set to 0 or less for no limit.</source>
-        <target state="translated">Maximální počet hostin, které lze za den zahájit na jednom záboru (listu vlastnictví). Při hodnotě 0 nebo méně není počet omezen.</target>
+        <target state="translated">Maximální počet hostin, které lze za den zahájit na jednom pozemku (listu vlastnictví). Při hodnotě 0 nebo méně není počet omezen.</target>
       </trans-unit>
       <trans-unit id="Maximum number of dinner parties that can be started within a single settlement per day. Set to 0 or less for no limit." xml:space="preserve">
         <source xml:space="preserve">Maximum number of dinner parties that can be started within a single settlement per day. Set to 0 or less for no limit.</source>
@@ -71420,11 +71420,11 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="Heavy mineral pollution stops decaying naturally once a claim's value rises above this. Only active decontamination can bring it back down past this point." xml:space="preserve">
         <source xml:space="preserve">Heavy mineral pollution stops decaying naturally once a claim's value rises above this. Only active decontamination can bring it back down past this point.</source>
-        <target state="translated">Znečištění těžkými minerály přestane přirozeně ubývat, jakmile hodnota na záboru překročí tuto hranici. Pod ni ho dokáže vrátit jen aktivní dekontaminace.</target>
+        <target state="translated">Znečištění těžkými minerály přestane přirozeně ubývat, jakmile hodnota na pozemku překročí tuto hranici. Pod ni ho dokáže vrátit jen aktivní dekontaminace.</target>
       </trans-unit>
       <trans-unit id="Chemical pollution stops decaying naturally once a claim's value rises above this. Only active decontamination can bring it back down past this point." xml:space="preserve">
         <source xml:space="preserve">Chemical pollution stops decaying naturally once a claim's value rises above this. Only active decontamination can bring it back down past this point.</source>
-        <target state="translated">Chemické znečištění přestane přirozeně ubývat, jakmile hodnota na záboru překročí tuto hranici. Pod ni ho dokáže vrátit jen aktivní dekontaminace.</target>
+        <target state="translated">Chemické znečištění přestane přirozeně ubývat, jakmile hodnota na pozemku překročí tuto hranici. Pod ni ho dokáže vrátit jen aktivní dekontaminace.</target>
       </trans-unit>
       <trans-unit id="Contribution of the Soil Pollution buffer to ground pollution (ground = sum of each buffer × its ratio)." xml:space="preserve">
         <source xml:space="preserve">Contribution of the Soil Pollution buffer to ground pollution (ground = sum of each buffer × its ratio).</source>
@@ -71674,7 +71674,7 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="Adds {0} {1} per unit to the claim it's stored or dumped in, reaching full effect in ~{2} days." xml:space="preserve">
         <source xml:space="preserve">Adds <ph id="0">{0}</ph> <ph id="1">{1}</ph> per unit to the claim it's stored or dumped in, reaching full effect in ~<ph id="2">{2}</ph> days.</source>
-        <target state="translated">Přidává k záboru, kde je uložen nebo vysypán, <ph id="1">{1}</ph>: <ph id="0">{0}</ph> na jednotku (plný účinek v horizontu dnů: ~<ph id="2">{2}</ph>).</target>
+        <target state="translated">Přidává k pozemku, kde je uložen nebo vysypán, <ph id="1">{1}</ph>: <ph id="0">{0}</ph> na jednotku (plný účinek v horizontu dnů: ~<ph id="2">{2}</ph>).</target>
       </trans-unit>
       <trans-unit id="Pollution Grace" xml:space="preserve">
         <source xml:space="preserve">Pollution Grace</source>
@@ -72257,17 +72257,17 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="Sets a pollution layer value (soil/heavymineral/chemical/acidrain), on your claim or on every claim within a radius." xml:space="preserve">
         <source xml:space="preserve">Sets a pollution layer value (soil/heavymineral/chemical/acidrain), on your claim or on every claim within a radius.</source>
-        <target state="translated">Nastaví hodnotu vrstvy znečištění (soil/heavymineral/chemical/acidrain) na tvém záboru nebo na každém záboru v daném okruhu.</target>
+        <target state="translated">Nastaví hodnotu vrstvy znečištění (soil/heavymineral/chemical/acidrain) na tvém pozemku nebo na každém pozemku v daném okruhu.</target>
         <note>Help text for chat command /set</note>
       </trans-unit>
       <trans-unit id="Removes all pollution of one layer (soil/heavymineral/chemical/acidrain), on your claim or within a radius." xml:space="preserve">
         <source xml:space="preserve">Removes all pollution of one layer (soil/heavymineral/chemical/acidrain), on your claim or within a radius.</source>
-        <target state="translated">Odstraní veškeré znečištění jedné vrstvy (soil/heavymineral/chemical/acidrain) na tvém záboru nebo v daném okruhu.</target>
+        <target state="translated">Odstraní veškeré znečištění jedné vrstvy (soil/heavymineral/chemical/acidrain) na tvém pozemku nebo v daném okruhu.</target>
         <note>Help text for chat command /clear</note>
       </trans-unit>
       <trans-unit id="Queues decontamination of a pollution layer (soil/heavymineral/chemical), on your claim or within a radius." xml:space="preserve">
         <source xml:space="preserve">Queues decontamination of a pollution layer (soil/heavymineral/chemical), on your claim or within a radius.</source>
-        <target state="translated">Zařadí do fronty dekontaminaci vrstvy znečištění (soil/heavymineral/chemical) na tvém záboru nebo v daném okruhu.</target>
+        <target state="translated">Zařadí do fronty dekontaminaci vrstvy znečištění (soil/heavymineral/chemical) na tvém pozemku nebo v daném okruhu.</target>
         <note>Help text for chat command /decon</note>
       </trans-unit>
       <trans-unit id="setdecon" xml:space="preserve">
@@ -72277,7 +72277,7 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="Sets the queued decontamination (soil/heavymineral/chemical), on your claim or within a radius." xml:space="preserve">
         <source xml:space="preserve">Sets the queued decontamination (soil/heavymineral/chemical), on your claim or within a radius.</source>
-        <target state="translated">Nastaví dekontaminaci ve frontě (soil/heavymineral/chemical) na tvém záboru nebo v daném okruhu.</target>
+        <target state="translated">Nastaví dekontaminaci ve frontě (soil/heavymineral/chemical) na tvém pozemku nebo v daném okruhu.</target>
         <note>Help text for chat command /setdecon</note>
       </trans-unit>
       <trans-unit id="Waste product from concentrating ore. When stored improperly the run-off will create heavy mineral pollution; killing nearby plants and seeping into the water supply. Burying it does nothing; only sealed containment holds it back." xml:space="preserve">
@@ -72738,11 +72738,11 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
       </trans-unit>
       <trans-unit id="{0} pollution set to {1:0.00} on {2} claim(s)." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> pollution set to <ph id="1">{1:0.00}</ph> on <ph id="2">{2}</ph> claim(s).</source>
-        <target state="translated">Znečištění (<ph id="0">{0}</ph>) nastaveno na <ph id="1">{1:0.00}</ph>, počet dotčených záborů: <ph id="2">{2}</ph>.</target>
+        <target state="translated">Znečištění (<ph id="0">{0}</ph>) nastaveno na <ph id="1">{1:0.00}</ph>, počet dotčených pozemků: <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} decontamination pending set to {1:0.00} on {2} claim(s)." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> decontamination pending set to <ph id="1">{1:0.00}</ph> on <ph id="2">{2}</ph> claim(s).</source>
-        <target state="translated">Čekající dekontaminace (<ph id="0">{0}</ph>) nastavena na <ph id="1">{1:0.00}</ph>, počet dotčených záborů: <ph id="2">{2}</ph>.</target>
+        <target state="translated">Čekající dekontaminace (<ph id="0">{0}</ph>) nastavena na <ph id="1">{1:0.00}</ph>, počet dotčených pozemků: <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="Unknown pollution type '{0}'. Use soil, heavymineral, chemical or acidrain." xml:space="preserve">
         <source xml:space="preserve">Unknown pollution type '<ph id="0">{0}</ph>'. Use soil, heavymineral, chemical or acidrain.</source>
@@ -72830,7 +72830,7 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
       </trans-unit>
       <trans-unit id="Interactions: proxied {0} installed-component interaction(s) onto module items." xml:space="preserve">
         <source xml:space="preserve">Interactions: proxied <ph id="0">{0}</ph> installed-component interaction(s) onto module items.</source>
-        <target state="translated">Interakce: přesměrováno na předměty modulů (počet interakcí nainstalovaných komponent: <ph id="0">{0}</ph>).</target>
+        <target state="translated">Interakce: přesměrováno na předměty modulů (počet interakcí nainstalovaných funkcí: <ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="Rejected game value {0} for {1}: not compatible with {2}." xml:space="preserve">
         <source xml:space="preserve">Rejected game value <ph id="0">{0}</ph> for <ph id="1">{1}</ph>: not compatible with <ph id="2">{2}</ph>.</source>
@@ -72906,7 +72906,7 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
       </trans-unit>
       <trans-unit id="Attempt interact on missing component type {0} '{1}'." xml:space="preserve">
         <source xml:space="preserve">Attempt interact on missing component type <ph id="0">{0}</ph> '<ph id="1">{1}</ph>'.</source>
-        <target state="translated">Pokus o interakci s chybějícím typem komponenty <ph id="0">{0}</ph> „<ph id="1">{1}</ph>“.</target>
+        <target state="translated">Pokus o interakci s chybějícím typem funkce <ph id="0">{0}</ph> „<ph id="1">{1}</ph>“.</target>
       </trans-unit>
       <trans-unit id="Raises the table's required room tier by {0}. Installing is blocked unless the room already meets the raised requirement." xml:space="preserve">
         <source xml:space="preserve">Raises the table's required room tier by <ph id="0">{0}</ph>. Installing is blocked unless the room already meets the raised requirement.</source>
@@ -73118,15 +73118,15 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
       </trans-unit>
       <trans-unit id="Organic remediation blend that helps soil recover from light (Trash/sewage) pollution. Apply it to any ground or built block on a claim: one unit cancels one unit of Soil Pollution source, and half of the decontaminant waiting on an area takes effect every 24 hours." xml:space="preserve">
         <source xml:space="preserve">Organic remediation blend that helps soil recover from light (Trash/sewage) pollution. Apply it to any ground or built block on a claim: one unit cancels one unit of Soil Pollution source, and half of the decontaminant waiting on an area takes effect every 24 hours.</source>
-        <target state="translated">Organická směs, která pomáhá půdě zotavit se z lehkého znečištění (odpadky a odpadní voda). Aplikuj ji na jakýkoli blok terénu nebo stavby na záboru: jedna jednotka zruší jednu jednotku zdroje znečištění půdy a každých 24 hodin se uplatní polovina dekontaminantu čekajícího na dané oblasti.</target>
+        <target state="translated">Organická směs, která pomáhá půdě zotavit se z lehkého znečištění (odpadky a odpadní voda). Aplikuj ji na jakýkoli blok terénu nebo stavby na pozemku: jedna jednotka zruší jednu jednotku zdroje znečištění půdy a každých 24 hodin se uplatní polovina dekontaminantu čekajícího na dané oblasti.</target>
       </trans-unit>
       <trans-unit id="Mineral binder that immobilizes heavy-metal contamination ? the only way down once a claim passes the self-cleaning ceiling. Apply it to any ground or built block on a claim: one unit cancels one unit of Heavy Mineral Pollution source, and half of the decontaminant waiting on an area takes effect every 24 hours." xml:space="preserve">
         <source xml:space="preserve">Mineral binder that immobilizes heavy-metal contamination ? the only way down once a claim passes the self-cleaning ceiling. Apply it to any ground or built block on a claim: one unit cancels one unit of Heavy Mineral Pollution source, and half of the decontaminant waiting on an area takes effect every 24 hours.</source>
-        <target state="translated">Minerální pojivo, které znehybňuje kontaminaci těžkými kovy – jediný způsob, jak znečištění snížit, jakmile zábor překročí strop samočištění. Aplikuj ho na jakýkoli blok terénu nebo stavby na záboru: jedna jednotka zruší jednu jednotku zdroje znečištění těžkými minerály a každých 24 hodin se uplatní polovina dekontaminantu čekajícího na dané oblasti.</target>
+        <target state="translated">Minerální pojivo, které znehybňuje kontaminaci těžkými kovy – jediný způsob, jak znečištění snížit, jakmile pozemek překročí strop samočištění. Aplikuj ho na jakýkoli blok terénu nebo stavby na pozemku: jedna jednotka zruší jednu jednotku zdroje znečištění těžkými minerály a každých 24 hodin se uplatní polovina dekontaminantu čekajícího na dané oblasti.</target>
       </trans-unit>
       <trans-unit id="Industrial reagent that neutralizes toxic chemical contamination. Costly to produce, but the only way to recover land past the chemical self-cleaning ceiling. Apply it to any ground or built block on a claim: one unit cancels one unit of Chemical Pollution source, and half of the decontaminant waiting on an area takes effect every 24 hours." xml:space="preserve">
         <source xml:space="preserve">Industrial reagent that neutralizes toxic chemical contamination. Costly to produce, but the only way to recover land past the chemical self-cleaning ceiling. Apply it to any ground or built block on a claim: one unit cancels one unit of Chemical Pollution source, and half of the decontaminant waiting on an area takes effect every 24 hours.</source>
-        <target state="translated">Průmyslové činidlo neutralizující toxickou chemickou kontaminaci. Je nákladné na výrobu, ale je to jediný způsob, jak obnovit půdu za stropem chemického samočištění. Aplikuj ho na jakýkoli blok terénu nebo stavby na záboru: jedna jednotka zruší jednu jednotku zdroje chemického znečištění a každých 24 hodin se uplatní polovina dekontaminantu čekajícího na dané oblasti.</target>
+        <target state="translated">Průmyslové činidlo neutralizující toxickou chemickou kontaminaci. Je nákladné na výrobu, ale je to jediný způsob, jak obnovit půdu za stropem chemického samočištění. Aplikuj ho na jakýkoli blok terénu nebo stavby na pozemku: jedna jednotka zruší jednu jednotku zdroje chemického znečištění a každých 24 hodin se uplatní polovina dekontaminantu čekajícího na dané oblasti.</target>
       </trans-unit>
       <trans-unit id="A crude open dump for garbage. It holds a lot, but nothing stops the waste from seeping into the ground." xml:space="preserve">
         <source xml:space="preserve">A crude open dump for garbage. It holds a lot, but nothing stops the waste from seeping into the ground.</source>
@@ -73725,7 +73725,7 @@ Populace po: <ph id="5">{5}</ph></target>
       </trans-unit>
       <trans-unit id="These settings were copied from this same component." xml:space="preserve">
         <source xml:space="preserve">These settings were copied from this same component.</source>
-        <target state="translated">Tato nastavení byla zkopírována z téže komponenty.</target>
+        <target state="translated">Tato nastavení byla zkopírována z téže funkce.</target>
       </trans-unit>
       <trans-unit id="Removed duplicate {0} from {1} at {2}, state merged into {3}." xml:space="preserve">
         <source xml:space="preserve">Removed duplicate <ph id="0">{0}</ph> from <ph id="1">{1}</ph> at <ph id="2">{2}</ph>, state merged into <ph id="3">{3}</ph>.</source>
