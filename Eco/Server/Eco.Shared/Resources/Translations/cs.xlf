@@ -7479,7 +7479,7 @@
       </trans-unit>
       <trans-unit id="Logged out. Last online {0} ago" xml:space="preserve">
         <source xml:space="preserve">Logged out. Last online <ph id="0">{0}</ph> ago</source>
-        <target xml:space="preserve" state="translated">Offline. Doba od posledního přihlášení: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Offline. Doba od posledního odhlášení: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Unauthorized" xml:space="preserve">
         <source xml:space="preserve">Unauthorized</source>
@@ -10820,11 +10820,11 @@
       </trans-unit>
       <trans-unit id="Heart Of Palm" xml:space="preserve">
         <source xml:space="preserve">Heart Of Palm</source>
-        <target xml:space="preserve" state="translated">Palmové jádro</target>
+        <target xml:space="preserve" state="translated">Palmové srdce</target>
       </trans-unit>
       <trans-unit id="Hearts Of Palm" xml:space="preserve">
         <source xml:space="preserve">Hearts Of Palm</source>
-        <target xml:space="preserve" state="translated">Palmová jádra</target>
+        <target xml:space="preserve" state="translated">Palmová srdce</target>
       </trans-unit>
       <trans-unit id="Collected from the inner core and growing bud of a palm tree." xml:space="preserve">
         <source xml:space="preserve">Collected from the inner core and growing bud of a palm tree.</source>
@@ -13837,7 +13837,7 @@
       </trans-unit>
       <trans-unit id="It can be overthrown if another constitution is created in a building exceeding this one by {0}%." xml:space="preserve">
         <source xml:space="preserve">It can be overthrown if another constitution is created in a building exceeding this one by <ph id="0">{0}</ph>%.</source>
-        <target xml:space="preserve" state="translated">Lze ji svrhnout, pokud je jiná ústava umístěna v budově, která tuto převyšuje o <ph id="0">{0}</ph> %.</target>
+        <target xml:space="preserve" state="translated">Lze ji svrhnout, pokud je jiná ústava vytvořena v budově, která tuto převyšuje o <ph id="0">{0}</ph> %.</target>
       </trans-unit>
       <trans-unit id="Trap is nonfunctional." xml:space="preserve">
         <source xml:space="preserve">Trap is nonfunctional.</source>
@@ -18290,7 +18290,7 @@
       </trans-unit>
       <trans-unit id="Fried Hearts Of Palm" xml:space="preserve">
         <source xml:space="preserve">Fried Hearts Of Palm</source>
-        <target xml:space="preserve" state="translated">Smažená palmová jádra</target>
+        <target xml:space="preserve" state="translated">Smažená palmová srdce</target>
       </trans-unit>
       <trans-unit id="Fried Fiddleheads" xml:space="preserve">
         <source xml:space="preserve">Fried Fiddleheads</source>
@@ -18326,7 +18326,7 @@
       </trans-unit>
       <trans-unit id="Charred Heart Of Palm" xml:space="preserve">
         <source xml:space="preserve">Charred Heart Of Palm</source>
-        <target xml:space="preserve" state="translated">Opečené palmové jádro</target>
+        <target xml:space="preserve" state="translated">Opečené palmové srdce</target>
       </trans-unit>
       <trans-unit id="Charred Fireweed Shoots" xml:space="preserve">
         <source xml:space="preserve">Charred Fireweed Shoots</source>
@@ -18378,7 +18378,7 @@
       </trans-unit>
       <trans-unit id="Baked Heart Of Palm" xml:space="preserve">
         <source xml:space="preserve">Baked Heart Of Palm</source>
-        <target xml:space="preserve" state="translated">Pečené palmové jádro</target>
+        <target xml:space="preserve" state="translated">Pečené palmové srdce</target>
       </trans-unit>
       <trans-unit id="Baked Corn" xml:space="preserve">
         <source xml:space="preserve">Baked Corn</source>
@@ -20366,7 +20366,7 @@
       </trans-unit>
       <trans-unit id="Objective for {0} cleared" xml:space="preserve">
         <source xml:space="preserve">Objective for <ph id="0">{0}</ph> cleared</source>
-        <target xml:space="preserve" state="translated">Cíl vymazán: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Cíl pro <ph id="0">{0}</ph> vymazán</target>
       </trans-unit>
       <trans-unit id="Not authorized to add items there." xml:space="preserve">
         <source xml:space="preserve">Not authorized to add items there.</source>
@@ -21095,7 +21095,7 @@
       </trans-unit>
       <trans-unit id="{0}'s contribution is now over {1} and can {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s contribution is now over <ph id="1">{1}</ph> and can <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated">Příspěvek hráče <ph id="0">{0}</ph> nyní přesáhl <ph id="1">{1}</ph> a může <ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated">Příspěvek hráče <ph id="0">{0}</ph> nyní přesáhl <ph id="1">{1}</ph>, hráč tedy může <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="{0} queued to gain {1} when {2} finishes." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> queued to gain <ph id="1">{1}</ph> when <ph id="2">{2}</ph> finishes.</source>
@@ -24538,7 +24538,7 @@
       </trans-unit>
       <trans-unit id="Heart of palm collected fom fallen pineapple trees that have been charred over a campfire." xml:space="preserve">
         <source xml:space="preserve">Heart of palm collected fom fallen pineapple trees that have been charred over a campfire.</source>
-        <target xml:space="preserve" state="translated">Palmové jádro získané z padlých ananasovníků a opečené nad ohništěm.</target>
+        <target xml:space="preserve" state="translated">Palmové srdce získané z padlých ananasovníků a opečené nad ohništěm.</target>
       </trans-unit>
       <trans-unit id="Blackened cactus fruit. A favorite of early desert settlers." xml:space="preserve">
         <source xml:space="preserve">Blackened cactus fruit. A favorite of early desert settlers.</source>
@@ -24566,7 +24566,7 @@
       </trans-unit>
       <trans-unit id="Baked heart of palm that retains more nutrients than more simple methods of cooking." xml:space="preserve">
         <source xml:space="preserve">Baked heart of palm that retains more nutrients than more simple methods of cooking.</source>
-        <target xml:space="preserve" state="translated">Pečené palmové jádro, které si zachovává víc živin než při jednodušších způsobech přípravy.</target>
+        <target xml:space="preserve" state="translated">Pečené palmové srdce, které si zachovává víc živin než při jednodušších způsobech přípravy.</target>
       </trans-unit>
       <trans-unit id="Baked corn that retains more nutrients than more simple methods of cooking." xml:space="preserve">
         <source xml:space="preserve">Baked corn that retains more nutrients than more simple methods of cooking.</source>
@@ -25708,11 +25708,11 @@
       </trans-unit>
       <trans-unit id="Charred Hearts Of Palm" xml:space="preserve">
         <source xml:space="preserve">Charred Hearts Of Palm</source>
-        <target xml:space="preserve" state="translated">Opečená palmová jádra</target>
+        <target xml:space="preserve" state="translated">Opečená palmová srdce</target>
       </trans-unit>
       <trans-unit id="Baked Hearts Of Palm" xml:space="preserve">
         <source xml:space="preserve">Baked Hearts Of Palm</source>
-        <target xml:space="preserve" state="translated">Pečená palmová jádra</target>
+        <target xml:space="preserve" state="translated">Pečená palmová srdce</target>
       </trans-unit>
       <trans-unit id="A potentially poisonous mushroom. It might not be wise to eat it raw, but it can be detoxified when prepared properly by a chef. Eat at your own risk!" xml:space="preserve">
         <source xml:space="preserve">A potentially poisonous mushroom. It might not be wise to eat it raw, but it can be detoxified when prepared properly by a chef. Eat at your own risk!</source>
@@ -26502,7 +26502,7 @@
       </trans-unit>
       <trans-unit id="More than {0} hours have passed since the last interaction." xml:space="preserve">
         <source xml:space="preserve">More than <ph id="0">{0}</ph> hours have passed since the last interaction.</source>
-        <target xml:space="preserve" state="translated">Od poslední interakce uplynulo více než <ph id="0">{0}</ph> hodin.</target>
+        <target xml:space="preserve" state="translated">Od poslední interakce uplynula doba delší než <ph id="0">{0}</ph> h.</target>
       </trans-unit>
       <trans-unit id="As the owner of {0}, you are allowed to take ownership of this work order." xml:space="preserve">
         <source xml:space="preserve">As the owner of <ph id="0">{0}</ph>, you are allowed to take ownership of this work order.</source>
@@ -29507,7 +29507,7 @@
       </trans-unit>
       <trans-unit id="in {0}" xml:space="preserve">
         <source xml:space="preserve">in <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">v: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">– <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Calculated" xml:space="preserve">
         <source xml:space="preserve">Calculated</source>
@@ -30655,7 +30655,7 @@
       </trans-unit>
       <trans-unit id="Starvation" xml:space="preserve">
         <source xml:space="preserve">Starvation</source>
-        <target xml:space="preserve" state="translated">Hlad</target>
+        <target xml:space="preserve" state="translated">Vyhladovění</target>
       </trans-unit>
       <trans-unit id="Eaten By Animal" xml:space="preserve">
         <source xml:space="preserve">Eaten By Animal</source>
@@ -39262,7 +39262,7 @@
       </trans-unit>
       <trans-unit id="Server is shutting down {0}. Reason: {1}." xml:space="preserve">
         <source xml:space="preserve">Server is shutting down <ph id="0">{0}</ph>. Reason: <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Server se vypíná – čas: <ph id="0">{0}</ph>. Důvod: <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Server se vypíná <ph id="0">{0}</ph>. Důvod: <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Server is scheduled to shutdown at {0}. Reason: {1}" xml:space="preserve">
         <source xml:space="preserve">Server is scheduled to shutdown at <ph id="0">{0}</ph>. Reason: <ph id="1">{1}</ph></source>
@@ -48804,7 +48804,7 @@
       </trans-unit>
       <trans-unit id="{0} {1} allowed to change the settlement of markers without permission." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> allowed to change the settlement of markers without permission.</source>
-        <target xml:space="preserve" state="translated">Pro <ph id="0">{0}</ph> <ph id="1">{1}</ph> povoleno měnit příslušnost značek k osadě bez oprávnění.</target>
+        <target xml:space="preserve" state="translated">Hráči <ph id="0">{0}</ph> <ph id="1">{1}</ph> povoleno měnit příslušnost značek k osadě bez oprávnění.</target>
       </trans-unit>
       <trans-unit id="is now" xml:space="preserve">
         <source xml:space="preserve">is now</source>
@@ -52540,7 +52540,7 @@
       </trans-unit>
       <trans-unit id="Refine Heart Of Palm" xml:space="preserve">
         <source xml:space="preserve">Refine Heart Of Palm</source>
-        <target xml:space="preserve" state="translated">Získat palmové jádro</target>
+        <target xml:space="preserve" state="translated">Získat palmové srdce</target>
       </trans-unit>
       <trans-unit id="Geology Research Paper Modern Glass" xml:space="preserve">
         <source xml:space="preserve">Geology Research Paper Modern Glass</source>
@@ -52964,7 +52964,7 @@
       </trans-unit>
       <trans-unit id="{0} had culture boost set to {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> had culture boost set to <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Kulturní bonus u <ph id="0">{0}</ph> byl nastaven na <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>: kulturní bonus nastaven na <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Missing settlement." xml:space="preserve">
         <source xml:space="preserve">Missing settlement.</source>
@@ -53056,7 +53056,7 @@
       </trans-unit>
       <trans-unit id="the number of hours {0} has been a citizen of {1}" xml:space="preserve">
         <source xml:space="preserve">the number of hours <ph id="0">{0}</ph> has been a citizen of <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">počet hodin, po které je <ph id="0">{0}</ph> občanem osady <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">počet hodin, kdy je <ph id="0">{0}</ph> občanem osady <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0} is not influenced by any {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not influenced by any <ph id="1">{1}</ph>.</source>
@@ -58296,7 +58296,7 @@
       </trans-unit>
       <trans-unit id="{0} Not enough of part {1}, {2} needed." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Not enough of part <ph id="1">{1}</ph>, <ph id="2">{2}</ph> needed.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> Málo dílů <ph id="1">{1}</ph>, potřeba: <ph id="2">{2}</ph>.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> Nedostatečný počet dílů: <ph id="1">{1}</ph>, potřeba: <ph id="2">{2}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} Broken part {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Broken part <ph id="1">{1}</ph>.</source>
@@ -66258,7 +66258,7 @@
       </trans-unit>
       <trans-unit id=" (Last online: {0} ago)" xml:space="preserve">
         <source xml:space="preserve"> (Last online: <ph id="0">{0}</ph> ago)</source>
-        <target xml:space="preserve" state="translated"> (doba od posledního přihlášení: <ph id="0">{0}</ph>)</target>
+        <target xml:space="preserve" state="translated"> (doba od posledního odhlášení: <ph id="0">{0}</ph>)</target>
       </trans-unit>
       <trans-unit id="       {0} (level {1})" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> (level <ph id="1">{1}</ph>)</source>
