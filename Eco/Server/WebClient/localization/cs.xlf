@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="26" xml:space="preserve">
         <source xml:space="preserve">Elected officials receive 15 property claims</source>
-        <target xml:space="preserve" state="translated">Zvolení funkcionáři získají 15 záborů pozemků</target>
+        <target xml:space="preserve" state="translated">Zvolení funkcionáři získají 15 pozemků</target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built, they can set taxes (feature in progress)</source>
