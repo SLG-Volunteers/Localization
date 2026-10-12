@@ -4,11 +4,11 @@
     <body>
       <trans-unit id="0" xml:space="preserve">
         <source xml:space="preserve">Components related to the economy.</source>
-        <target xml:space="preserve" state="translated">Komponenty související s ekonomikou.</target>
+        <target xml:space="preserve" state="translated">Funkce související s ekonomikou.</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
-        <target xml:space="preserve" state="translated">V bankovní komponentě se vytvářejí a spravují {bankovní účty|Bank Accounts}. Občané si mohou vytvořit více účtů pro sebe nebo sdílet účty s ostatními občany. Účty lze také přiřadit {funkcím|Titles} a {demografickým skupinám|Demographics}.</target>
+        <target xml:space="preserve" state="translated">Ve funkci banky se vytvářejí a spravují {bankovní účty|Bank Accounts}. Občané si mohou vytvořit více účtů pro sebe nebo sdílet účty s ostatními občany. Účty lze také přiřadit {funkcím|Titles} a {demografickým skupinám|Demographics}.</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Account Users can perform transactions using the account (adding and removing funds).
@@ -24,11 +24,11 @@ V Pokročilých nastaveních můžeš účet nastavit jako vládní účet. Vlá
       </trans-unit>
       <trans-unit id="3" xml:space="preserve">
         <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
-        <target xml:space="preserve" state="translated">Bankovní komponenta slouží k vytváření a správě bankovních účtů</target>
+        <target xml:space="preserve" state="translated">Funkce banky slouží k vytváření a správě bankovních účtů</target>
       </trans-unit>
       <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.</source>
-        <target xml:space="preserve" state="translated">Komponenta nástěnky smluv umožňuje občanům zveřejňovat a přijímat {smlouvy|Contracts} a {pracovní skupiny|Work Parties}, a umožňuje tak vynucenou práci a další dohody mezi občany.</target>
+        <target xml:space="preserve" state="translated">Funkce nástěnky smluv umožňuje občanům zveřejňovat a přijímat {smlouvy|Contracts} a {pracovní party|Work Parties}, a umožňuje tak vynucenou práci a další dohody mezi občany.</target>
       </trans-unit>
       <trans-unit id="5" xml:space="preserve">
         <source xml:space="preserve">Setting Up a Contract</source>
@@ -64,7 +64,7 @@ Jakákoli platba nabízená za smlouvu se po dobu platnosti smlouvy drží v ús
       </trans-unit>
       <trans-unit id="7" xml:space="preserve">
         <source xml:space="preserve">Work Parties</source>
-        <target xml:space="preserve" state="translated">Pracovní skupiny</target>
+        <target xml:space="preserve" state="translated">Pracovní party</target>
       </trans-unit>
       <trans-unit id="8" xml:space="preserve">
         <source xml:space="preserve">
@@ -75,11 +75,11 @@ After posting a work party, Laborers can join the project at the Contract Board.
 When setting the Work desired, the poster of the work party can decide to hire for labor, resources, or both. Any citizen who contributes to the work party will receive a share of the payment based on the amount of work they provided. By assigning additional Weight to a particular job in a work party, that job will receive a higher share of the payment.
 </source>
         <target xml:space="preserve" state="translated">
-{Work Parties} lze zveřejnit také na nástěnce smluv. Umožňují zadávat úkoly, které může splnit více dalších občanů, na rozdíl od smluv, což jsou dohody jen mezi dvěma stranami. Před zveřejněním pracovní skupiny musí občan zahájit výrobní zakázku na výrobním stole, který vlastní.
+{Work Parties} lze zveřejnit také na nástěnce smluv. Umožňují zadávat úkoly, které může splnit více dalších občanů, na rozdíl od smluv, což jsou dohody jen mezi dvěma stranami. Před zveřejněním pracovní party musí občan zahájit výrobní zakázku na výrobním stole, který vlastní.
 
-Po zveřejnění pracovní skupiny se mohou pracovníci k projektu připojit na nástěnce smluv. Ve výchozím nastavení se jako pracovník může připojit kdokoli, ale lze nastavit požadavky na jednotlivé role nebo společné požadavky pro každého, kdo se chce připojit. Je-li zaškrtnuto „Přidávat role po zaplnění“, po obsazení všech rolí se automaticky vytvoří místo pro další pracovníky.
+Po zveřejnění pracovní party se mohou pracovníci k projektu připojit na nástěnce smluv. Ve výchozím nastavení se jako pracovník může připojit kdokoli, ale lze nastavit požadavky na jednotlivé role nebo společné požadavky pro každého, kdo se chce připojit. Je-li zaškrtnuto „Přidávat role po zaplnění“, po obsazení všech rolí se automaticky vytvoří místo pro další pracovníky.
 
-Při nastavování požadované práce se zadavatel pracovní skupiny může rozhodnout, že bude poptávat práci, suroviny, nebo obojí. Každý občan, který k pracovní skupině přispěje, dostane podíl na platbě podle množství odvedené práce. Přidělíš-li konkrétní práci v pracovní skupině vyšší Váhu, dostane tato práce vyšší podíl na platbě.
+Při nastavování požadované práce se zadavatel pracovní party může rozhodnout, že bude poptávat práci, suroviny, nebo obojí. Každý občan, který k pracovní partě přispěje, dostane podíl na platbě podle množství odvedené práce. Přidělíš-li konkrétní práci v pracovní partě vyšší Váhu, dostane tato práce vyšší podíl na platbě.
 </target>
       </trans-unit>
       <trans-unit id="9" xml:space="preserve">
@@ -95,25 +95,25 @@ There are a variety of Payment options for a work party, and multiple payment op
 - When granting a {Title|Titles} as payment, the citizen posting the contract must be a title manager for the title being offered. All citizens who contribute the minimum amount will be granted the new title. The Access Type determines if they will become a title manager or title user.
 </source>
         <target xml:space="preserve" state="translated">
-Za práci v pracovní skupině lze zaplatit několika způsoby a pro tutéž pracovní skupinu lze nabídnout i několik způsobů najednou.
+Za práci v pracovní partě lze zaplatit několika způsoby a pro tutéž pracovní partu lze nabídnout i několik způsobů najednou.
 
 - Nabízíš-li jako platbu {měnu|Currency}, je k dispozici volba „Průběžná platba“. Ta vyplácí pracovníky průběžně podle jejich příspěvku, místo aby se po dokončení smlouvy vyplatila jednorázová částka.
 
-- Nabízíš-li jako platbu {reputaci|Reputation}, po dokončení pracovní skupiny se rozdělí mezi všechny občany, kteří přispěli.
+- Nabízíš-li jako platbu {reputaci|Reputation}, po dokončení pracovní party se rozdělí mezi všechny občany, kteří přispěli.
 
-- Nabízíš-li jako platbu {výzkum|Research}, všichni občané, kteří přispějí požadovaným množstvím, po dokončení pracovní skupiny okamžitě objeví danou technologii. Výzkum lze nabídnout jako platbu jen tehdy, když pracovní skupina vyrábí knihu dovedností, nebo když občan, který pracovní skupinu zveřejňuje, má tuto knihu dovedností při zveřejnění v inventáři.
+- Nabízíš-li jako platbu {výzkum|Research}, všichni občané, kteří přispějí požadovaným množstvím, po dokončení pracovní party okamžitě objeví danou technologii. Výzkum lze nabídnout jako platbu jen tehdy, když pracovní parta vyrábí knihu dovedností, nebo když občan, který pracovní partu zveřejňuje, má tuto knihu dovedností při zveřejnění v inventáři.
 
-- Při udělování {funkce|Titles} jako platby musí být občan, který pracovní skupinu zveřejňuje, správcem nabízené funkce. Všichni občané, kteří přispějí alespoň minimálním množstvím, novou funkci získají. Typ přístupu určuje, zda se stanou správci funkce, nebo jejími uživateli.
+- Při udělování {funkce|Titles} jako platby musí být občan, který pracovní partu zveřejňuje, správcem nabízené funkce. Všichni občané, kteří přispějí alespoň minimálním množstvím, novou funkci získají. Typ přístupu určuje, zda se stanou správci funkce, nebo jejími uživateli.
 </target>
       </trans-unit>
       <trans-unit id="10" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post or accept contracts and work party offers.</source>
-        <target xml:space="preserve" state="translated">Komponenta nástěnky smluv umožňuje občanům zveřejňovat nebo přijímat smlouvy a nabídky pracovních skupin.</target>
+        <target xml:space="preserve" state="translated">Funkce nástěnky smluv umožňuje občanům zveřejňovat nebo přijímat smlouvy a nabídky pracovních part.</target>
       </trans-unit>
       <trans-unit id="11" xml:space="preserve">
         <source xml:space="preserve">The Credit Component allows citizens to set the currency and bank account for all transactions on an object they own.
   </source>
-        <target xml:space="preserve" state="translated">Komponenta kreditu umožňuje občanům nastavit měnu a bankovní účet pro všechny transakce na objektu, který vlastní.
+        <target xml:space="preserve" state="translated">Funkce kreditu umožňuje občanům nastavit měnu a bankovní účet pro všechny transakce na objektu, který vlastní.
   </target>
       </trans-unit>
       <trans-unit id="12" xml:space="preserve">
@@ -127,23 +127,23 @@ When selecting "None" for the currency in a store, direct trades are possible wi
 Objects with a {Crafting Component} can define a fee for authorized citizens to use them. The settings in the Credit Component will determine what currency that fee is charged in and what account the funds are deposited to.
   </source>
         <target xml:space="preserve" state="translated">
-Při výběru {bankovního účtu|Bank Accounts} si občané mohou zvolit kterýkoli účet, ke kterému mají přístup (ten se uděluje v {bankovní komponentě|Bank Component}). Ve výchozím nastavení je vybrán osobní účet občana.
+Při výběru {bankovního účtu|Bank Accounts} si občané mohou zvolit kterýkoli účet, ke kterému mají přístup (ten se uděluje ve {funkci banky|Bank Component}). Ve výchozím nastavení je vybrán osobní účet občana.
 
-V komponentě kreditu lze vybrat libovolnou z {měn|Currency} daného světa. Tato měna se použije pro všechny transakce, které s daným objektem proběhnou (například {obchod|Store Component} přijímá jakoukoli měnu, která je zde nastavena).
+Ve funkci kreditu lze vybrat libovolnou z {měn|Currency} daného světa. Tato měna se použije pro všechny transakce, které s daným objektem proběhnou (například {obchod|Store Component} přijímá jakoukoli měnu, která je zde nastavena).
 
 Pokud je v obchodě pro měnu vybráno „Žádná“, jsou možné přímé výměny, které měnu nepotřebují.
 
-Objekty s {komponentou výroby|Crafting Component} mohou stanovit poplatek za své používání pro oprávněné občany. Nastavení v komponentě kreditu určuje, v jaké měně se poplatek účtuje a na jaký účet se prostředky ukládají.
+Objekty s {funkcí výroby|Crafting Component} mohou stanovit poplatek za své používání pro oprávněné občany. Nastavení ve funkci kreditu určuje, v jaké měně se poplatek účtuje a na jaký účet se prostředky ukládají.
   </target>
       </trans-unit>
       <trans-unit id="13" xml:space="preserve">
         <source xml:space="preserve">The Credit Component allows citizens to set the bank account and currency for transactions on an object.</source>
-        <target xml:space="preserve" state="translated">Komponenta kreditu umožňuje občanům nastavit bankovní účet a měnu pro transakce na objektu.</target>
+        <target xml:space="preserve" state="translated">Funkce kreditu umožňuje občanům nastavit bankovní účet a měnu pro transakce na objektu.</target>
       </trans-unit>
       <trans-unit id="14" xml:space="preserve">
         <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell {Property}.
   </source>
-        <target xml:space="preserve" state="translated">Komponenta prodeje vlastnictví umožňuje občanům kupovat a prodávat {majetek|Property}.
+        <target xml:space="preserve" state="translated">Funkce prodeje vlastnictví umožňuje občanům kupovat a prodávat {pozemek|Property}.
   </target>
       </trans-unit>
       <trans-unit id="15" xml:space="preserve">
@@ -159,20 +159,20 @@ After the property is sold, the deed and all objects contained on the deed are t
         <target xml:space="preserve" state="translated">
 U {realitního stolu|Real Estate Desk Item} mohou občané vytvářet nabídky svých listů vlastnictví a prohlížet si nabídky ostatních občanů. Všechny zveřejněné nabídky jsou dostupné z kteréhokoli realitního stolu.
 
-Při vytváření nabídky vlastník majetku stanoví cenu a použitou {měnu|Currency}. Veškeré tržby poputují na vybraný {bankovní účet|Bank Accounts}.
+Při vytváření nabídky vlastník pozemku stanoví cenu a použitou {měnu|Currency}. Veškeré tržby poputují na vybraný {bankovní účet|Bank Accounts}.
 
 Při koupi listu vlastnictví se měna odečte z bankovního účtu, který zvolí kupující.
 
-Po prodeji majetku se list vlastnictví i všechny objekty, které se na něm nacházejí, převedou na nového vlastníka. 
+Po prodeji pozemku se list vlastnictví i všechny objekty, které se na něm nacházejí, převedou na nového vlastníka. 
   </target>
       </trans-unit>
       <trans-unit id="16" xml:space="preserve">
         <source xml:space="preserve">The Deed Sales Component allows citizens to buy and sell property.</source>
-        <target xml:space="preserve" state="translated">Komponenta prodeje vlastnictví umožňuje občanům kupovat a prodávat majetek.</target>
+        <target xml:space="preserve" state="translated">Funkce prodeje vlastnictví umožňuje občanům kupovat a prodávat pozemek.</target>
       </trans-unit>
       <trans-unit id="17" xml:space="preserve">
         <source xml:space="preserve">The Exchange Component allows citizens to trade one {Currency} for another.</source>
-        <target xml:space="preserve" state="translated">Komponenta směny umožňuje občanům směňovat jednu {měnu|Currency} za druhou.</target>
+        <target xml:space="preserve" state="translated">Funkce směny umožňuje občanům směňovat jednu {měnu|Currency} za druhou.</target>
       </trans-unit>
       <trans-unit id="18" xml:space="preserve">
         <source xml:space="preserve">Exchanging Currency</source>
@@ -185,7 +185,7 @@ The owner of a {CurrencyExchangeItem} uses the Exchange Component to offer curre
 When an {Authorized Consumer|Authorization Component} visits the currency exchange, they will see a list of all offered exchanges. By default, all citizens are authorized consumers.
 	</source>
         <target xml:space="preserve" state="translated">
-Vlastník {směnárny|CurrencyExchangeItem} používá komponentu směny k nabízení směny měn ostatním občanům. Při nastavování směny je Měna vlastníka ta měna, která se nabízí k prodeji. Za každou zakoupenou jednotku měny vlastníka zaplatí občané nastavené množství jiné měny.
+Vlastník {směnárny|CurrencyExchangeItem} používá funkci směny k nabízení směny měn ostatním občanům. Při nastavování směny je Měna vlastníka ta měna, která se nabízí k prodeji. Za každou zakoupenou jednotku měny vlastníka zaplatí občané nastavené množství jiné měny.
 
 Když {oprávněný spotřebitel|Authorization Component} navštíví směnárnu, uvidí seznam všech nabízených směn. Ve výchozím nastavení jsou oprávněnými spotřebiteli všichni občané.
 	</target>
@@ -212,7 +212,7 @@ Vlastník směnárny může nastavit omezení zůstatku. Ta občanům zabrání 
       </trans-unit>
       <trans-unit id="23" xml:space="preserve">
         <source xml:space="preserve">The Item Distribution Component allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.</source>
-        <target xml:space="preserve" state="translated">Komponenta rozdávání předmětů umožňuje majiteli nabídnout novým občanům předměty zdarma jako projev dobré vůle a podporu počáteční prosperity občanů.</target>
+        <target xml:space="preserve" state="translated">Funkce rozdávání předmětů umožňuje majiteli nabídnout novým občanům předměty zdarma jako projev dobré vůle a podporu počáteční prosperity občanů.</target>
       </trans-unit>
       <trans-unit id="24" xml:space="preserve">
         <source xml:space="preserve">
@@ -221,7 +221,7 @@ All new citizens who qualify (based on how long they have played) can collect th
 The owner may designate what items are to be distributed, how many of each item, and how recently the citizen must have joined the world to be eligible.
   </source>
         <target xml:space="preserve" state="translated">
-Všichni noví občané, kteří splňují podmínky (podle toho, jak dlouho hrají), si mohou předměty vyzvednout na {distribuční stanici|DistributionStationItem}. Po vstupu do světa dostanou noví občané globální značku na mapě, která je upozorní, že jsou předměty k dispozici. Pozor: {komponenta skladu|Storage Component} musí zůstat zásobená rozdávanými předměty, aby si je noví občané mohli vyzvednout.
+Všichni noví občané, kteří splňují podmínky (podle toho, jak dlouho hrají), si mohou předměty vyzvednout na {distribuční stanici|DistributionStationItem}. Po vstupu do světa dostanou noví občané globální značku na mapě, která je upozorní, že jsou předměty k dispozici. Pozor: {funkce skladu|Storage Component} musí zůstat zásobená rozdávanými předměty, aby si je noví občané mohli vyzvednout.
 
 Majitel může určit, které předměty se mají rozdávat, kolik kusů od každého a jak nedávno se občan musel do světa připojit, aby měl nárok.
   </target>
@@ -233,7 +233,7 @@ Majitel může určit, které předměty se mají rozdávat, kolik kusů od kaž
       <trans-unit id="26" xml:space="preserve">
         <source xml:space="preserve">The Mint Component allows citizens to create {Currencies|Currency} which are backed by a resource. 
 </source>
-        <target xml:space="preserve" state="translated">Komponenta mincovny umožňuje občanům vytvářet {měny|Currency}, které jsou kryté surovinou. 
+        <target xml:space="preserve" state="translated">Funkce mincovny umožňuje občanům vytvářet {měny|Currency}, které jsou kryté surovinou. 
 </target>
       </trans-unit>
       <trans-unit id="27" xml:space="preserve">
@@ -249,7 +249,7 @@ Při vytváření měny u {mincovny|MintItem} se vybere krycí předmět a také
 
 Krycí předmět a počet mincí za předmět jsou trvalé, proto si dobře rozmysli, čím měnu kryješ. Jakmile je měna vyražena, zůstane svázaná s mincovnou, na které vznikla, i když tu mincovnu sebereš.
 
-Občané, kterým bylo v {autorizační komponentě|Authorization Component} uděleno právo spotřebitele, mohou pomocí komponenty mincovny razit další měnu. Vyražená měna jde na cílový {bankovní účet|Bank Accounts} zvolený majitelem mincovny nebo na kterýkoli bankovní účet, ke kterému má razící občan přístup v {bankovní komponentě|Bank Component}.
+Občané, kterým bylo v {autorizační funkci|Authorization Component} uděleno právo spotřebitele, mohou pomocí funkce mincovny razit další měnu. Vyražená měna jde na cílový {bankovní účet|Bank Accounts} zvolený majitelem mincovny nebo na kterýkoli bankovní účet, ke kterému má razící občan přístup ve {funkci banky|Bank Component}.
   </target>
       </trans-unit>
       <trans-unit id="28" xml:space="preserve">
@@ -261,7 +261,7 @@ Občané, kterým bylo v {autorizační komponentě|Authorization Component} ud�
 The Store Component allows citizens to set items they wish to buy from and sell to other citizens. These actions can happen automatically, not requiring the store owner to be online.
   </source>
         <target xml:space="preserve" state="translated">
-Komponenta obchodu umožňuje občanům nastavit předměty, které chtějí od ostatních občanů nakupovat a které jim chtějí prodávat. Tyto akce mohou probíhat automaticky, aniž by majitel obchodu musel být online.
+Funkce obchodu umožňuje občanům nastavit předměty, které chtějí od ostatních občanů nakupovat a které jim chtějí prodávat. Tyto akce mohou probíhat automaticky, aniž by majitel obchodu musel být online.
   </target>
       </trans-unit>
       <trans-unit id="30" xml:space="preserve">
@@ -277,9 +277,9 @@ When creating a Purchase List, the price and Max to Buy quantity for each item m
 For tools with durability, a minimum durability to buy/sell can be set, and only items of that durability or higher will be eligible for trade via the store.
  </source>
         <target xml:space="preserve" state="translated">
-Měna a bankovní účet vybrané v {komponentě kreditu|Credit Component} se použijí pro všechny transakce v obchodě. Pokud je v obchodě pro měnu vybráno „Žádná“, jsou možné přímé výměny, které nepodléhají dani z prodeje.
+Měna a bankovní účet vybrané ve {funkci kreditu|Credit Component} se použijí pro všechny transakce v obchodě. Pokud je v obchodě pro měnu vybráno „Žádná“, jsou možné přímé výměny, které nepodléhají dani z prodeje.
  
-Majitel obchodu může propojit konkrétní kontejnery v {komponentě skladu|Storage Component} a určit tak, které předměty se počítají do zásob obchodu. Ve výchozím nastavení se při prvním umístění obchodu propojí všechny blízké úložné kontejnery.
+Majitel obchodu může propojit konkrétní kontejnery ve {funkci skladu|Storage Component} a určit tak, které předměty se počítají do zásob obchodu. Ve výchozím nastavení se při prvním umístění obchodu propojí všechny blízké úložné kontejnery.
 
 Při vytváření seznamu prodejů stačí nastavit jen cenu. Zásoby pro seznam prodejů se určují automaticky podle toho, jaké předměty jsou v propojených kontejnerech k dispozici.
 
@@ -294,14 +294,14 @@ U nástrojů se životností lze nastavit minimální životnost pro nákup a pr
       </trans-unit>
       <trans-unit id="33" xml:space="preserve">
         <source xml:space="preserve">Components related to the government.</source>
-        <target xml:space="preserve" state="translated">Komponenty související s vládou.</target>
+        <target xml:space="preserve" state="translated">Funkce související s vládou.</target>
       </trans-unit>
       <trans-unit id="34" xml:space="preserve">
         <source xml:space="preserve">
 The Civic Action Component allows citizens to participate in {Elections}, perform {Executive Actions}, and resign from office, depending on which object is being used.
 </source>
         <target xml:space="preserve" state="translated">
-Komponenta občanské akce umožňuje občanům – podle toho, který objekt se používá – účastnit se {voleb|Elections}, provádět {výkonná opatření|Executive Actions} a odstupovat z funkce.
+Funkce občanské akce umožňuje občanům – podle toho, který objekt se používá – účastnit se {voleb|Elections}, provádět {výkonná opatření|Executive Actions} a odstupovat z funkce.
 </target>
       </trans-unit>
       <trans-unit id="35" xml:space="preserve">
@@ -319,7 +319,7 @@ Citizens who have been granted Veto power in the current {Election Process|Elect
 To run for elected titles, first an eligible citizen must use the Start Election action. Once an election has started, eligible citizens can select Enter Election to join the race and give a campaign speech. Candidates can opt to Withdraw from Election at any time using the option available on a Ballot Box.
 </source>
         <target state="translated">
-Při použití komponenty občanské akce u {volební urny|Ballot Box Item} mohou občané kandidovat na {volené funkce|Elected Titles} a účastnit se voleb.
+Při použití funkce občanské akce u {volební urny|Ballot Box Item} mohou občané kandidovat na {volené funkce|Elected Titles} a účastnit se voleb.
 
 Stisknutím tlačítka „Hlasovat“ se hráči přesměrují do webového rozhraní, kde uvidí všechny probíhající {volby|Elections}, mohou o nich diskutovat se spoluobčany, podložit své argumenty {údaji|Data} a hlasovat.
 
@@ -341,7 +341,7 @@ The Citizen Conditions dictate which citizens the executive action applies to, a
 The Action on Each Citizen will take effect as soon as the executive action is approved. Multiple actions can be performed at once for each citizen who meets the conditions.
 </source>
         <target state="translated">
-Použití komponenty občanské akce u {výkonného úřadu|Executive Office Item} umožňuje volené funkci provádět jednorázová výkonná opatření, která se týkají určité skupiny občanů.
+Použití funkce občanské akce u {výkonného úřadu|Executive Office Item} umožňuje volené funkci provádět jednorázová výkonná opatření, která se týkají určité skupiny občanů.
 
 Podmínky pro občany určují, na které občany se výkonné opatření vztahuje, a podmínek může být i více. Má-li opatření platit pro všechny občany, použij jako podmínku pro občany {demografickou skupinu|Demographic} „Všichni“.
 
@@ -361,7 +361,7 @@ The Resign from Office action allows any elected official to step down from thei
 The Remove Official from Office action allows citizens who have been given the authority to remove elected titles from office. The same rules for finding a successor apply as if the official resigned.
 </source>
         <target state="translated">
-U {vládního úřadu|Government Office Item} umožňuje komponenta občanské akce voleným funkcím odstoupit z funkce nebo odvolat jiné volené funkce.
+U {vládního úřadu|Government Office Item} umožňuje funkce občanské akce voleným funkcím odstoupit z funkce nebo odvolat jiné volené funkce.
 
 Akce „Odstoupit z funkce“ umožňuje každému držiteli volené funkce vzdát se své funkce. Pokud byl při vytvoření volené funkce nastaven Nástupce (nástupnická funkce), nový držitel se náhodně vybere ze všech občanů, kteří tuto nástupnickou funkci zastávají; jinak zůstane volená funkce neobsazená.
 
@@ -376,7 +376,7 @@ Akce „Odvolat úředníka z funkce“ umožňuje občanům, kterým byla uděl
         <source xml:space="preserve">    
 The Civic Object Component allows citizens to propose, amend, and repeal various Civic Objects. </source>
         <target state="translated">    
-Komponenta občanského objektu umožňuje občanům navrhovat, měnit a rušit různé občanské objekty. </target>
+Funkce občanského objektu umožňuje občanům navrhovat, měnit a rušit různé občanské objekty. </target>
       </trans-unit>
       <trans-unit id="43" xml:space="preserve">
         <source xml:space="preserve">Civic Duties</source>
@@ -384,15 +384,15 @@ Komponenta občanského objektu umožňuje občanům navrhovat, měnit a rušit 
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">Within a Civic Object Component, you will see a list of your {Civic Duties}. This informs the citizen what permissions they have regarding civic objects, given the current {Constitution}.The possibilities of different civic duties are:</source>
-        <target xml:space="preserve" state="translated">V komponentě občanského objektu uvidíš seznam svých {občanských povinností|Civic Duties}. Ten občana informuje, jaká oprávnění má ve vztahu k občanským objektům podle platné {ústavy|Constitution}. Možné občanské povinnosti jsou:</target>
+        <target xml:space="preserve" state="translated">Ve funkci občanského objektu uvidíš seznam svých {občanských povinností|Civic Duties}. Ten občana informuje, jaká oprávnění má ve vztahu k občanským objektům podle platné {ústavy|Constitution}. Možné občanské povinnosti jsou:</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">The Civic Object Component allows citizens to propose, amend, and repeal civic objects.</source>
-        <target xml:space="preserve" state="translated">Komponenta občanského objektu umožňuje občanům navrhovat, měnit a rušit občanské objekty.</target>
+        <target xml:space="preserve" state="translated">Funkce občanského objektu umožňuje občanům navrhovat, měnit a rušit občanské objekty.</target>
       </trans-unit>
       <trans-unit id="46" xml:space="preserve">
         <source xml:space="preserve">The Registrar Component allows for the creation and management of non-elected {Titles}.  These titles can be used for many of the same purposes as {Elected Titles}, but they are appointed at the Registrar.</source>
-        <target xml:space="preserve" state="translated">Komponenta registrátora umožňuje vytvářet a spravovat nevolené {funkce|Titles}. Tyto funkce lze využít k mnoha stejným účelům jako {volené funkce|Elected Titles}, ale přidělují se u registrátora.</target>
+        <target xml:space="preserve" state="translated">Funkce registrátora umožňuje vytvářet a spravovat nevolené {funkce|Titles}. Tyto funkce lze využít k mnoha stejným účelům jako {volené funkce|Elected Titles}, ale přidělují se u registrátora.</target>
       </trans-unit>
       <trans-unit id="47" xml:space="preserve">
         <source xml:space="preserve">Assigning Titles</source>
@@ -425,7 +425,7 @@ V Pokročilých nastaveních lze nastavit požadavky na držitele funkce a kvali
   
 U položky Požadavky na držitele funkcí lze nastavit nejrůznější podmínky. Pokud občan tyto požadavky přestane plnit, přijde o přidělení jako uživatel funkce. Pomocí „Souboru podmínek“ lze pro držitele funkce nastavit více požadavků najednou.
  
-Mzdy se uživatelům funkce vyplácejí z kteréhokoli {bankovního účtu|Bank Accounts}, který smí správce funkce používat v {bankovní komponentě|Bank Component}. Vyplácejí se každou hodinu (podle nastavení světa) na osobní účet každého uživatele funkce. Pomocí Typu mzdy lze z výplaty mezd vyloučit hodiny, kdy je uživatel offline.
+Mzdy se uživatelům funkce vyplácejí z kteréhokoli {bankovního účtu|Bank Accounts}, který smí správce funkce používat ve {funkci banky|Bank Component}. Vyplácejí se každou hodinu (podle nastavení světa) na osobní účet každého uživatele funkce. Pomocí Typu mzdy lze z výplaty mezd vyloučit hodiny, kdy je uživatel offline.
 	</target>
       </trans-unit>
       <trans-unit id="51" xml:space="preserve">
@@ -434,7 +434,7 @@ Mzdy se uživatelům funkce vyplácejí z kteréhokoli {bankovního účtu|Bank 
       </trans-unit>
       <trans-unit id="52" xml:space="preserve">
         <source xml:space="preserve">The Treasury Component allows {Elected Titles} that have been granted the right to 'Set Taxes at the Treasury' to adjust the tax rate and select the World Default Currency.</source>
-        <target state="translated">Komponenta státní pokladny umožňuje {voleným funkcím|Elected Titles}, kterým bylo uděleno právo „Může nastavovat daně státní pokladny“, upravovat daňovou sazbu a vybírat výchozí měnu světa.</target>
+        <target state="translated">Funkce státní pokladny umožňuje {voleným funkcím|Elected Titles}, kterým bylo uděleno právo „Může nastavovat daně státní pokladny“, upravovat daňovou sazbu a vybírat výchozí měnu světa.</target>
       </trans-unit>
       <trans-unit id="53" xml:space="preserve">
         <source xml:space="preserve">Taxes</source>
@@ -442,7 +442,7 @@ Mzdy se uživatelům funkce vyplácejí z kteréhokoli {bankovního účtu|Bank 
       </trans-unit>
       <trans-unit id="54" xml:space="preserve">
         <source xml:space="preserve">After {Taxes} are set in the Treasury Component, they are automatically applied to all relevant transactions. All revenue goes into the Treasury {Bank Account|Bank Accounts}. Elected titles that have the setting 'Government Banking Privileges' can transact directly from the Treasury account (allowing selection of the account within the {Credit Component}).  Money can also come out of the treasury via {Laws} that make payments to citizens.</source>
-        <target state="translated">Jakmile jsou v komponentě státní pokladny nastaveny {daně|Taxes}, automaticky se uplatňují na všechny příslušné transakce. Všechny příjmy plynou na {bankovní účty|Bank Accounts} státní pokladny. Volené funkce s nastavením „Vládní bankovní výsady“ mohou provádět transakce přímo z účtu státní pokladny (účet lze vybrat v {komponentě kreditu|Credit Component}).  Peníze mohou ze státní pokladny odcházet také prostřednictvím {zákonů|Laws}, které občanům vyplácejí platby.</target>
+        <target state="translated">Jakmile jsou ve funkci státní pokladny nastaveny {daně|Taxes}, automaticky se uplatňují na všechny příslušné transakce. Všechny příjmy plynou na {bankovní účty|Bank Accounts} státní pokladny. Volené funkce s nastavením „Vládní bankovní výsady“ mohou provádět transakce přímo z účtu státní pokladny (účet lze vybrat ve {funkci kreditu|Credit Component}).  Peníze mohou ze státní pokladny odcházet také prostřednictvím {zákonů|Laws}, které občanům vyplácejí platby.</target>
       </trans-unit>
       <trans-unit id="55" xml:space="preserve">
         <source xml:space="preserve">World Default Currency</source>
@@ -450,7 +450,7 @@ Mzdy se uživatelům funkce vyplácejí z kteréhokoli {bankovního účtu|Bank 
       </trans-unit>
       <trans-unit id="56" xml:space="preserve">
         <source xml:space="preserve">The World Default Currency is the default {Currency} used when placing a new object that contains the Credit Component. Citizens can still choose to use any currency in a {Trade}, but having a World Default Currency makes it is easier to establish an economy with a common currency.</source>
-        <target state="translated">Výchozí měna světa je výchozí {měna|Currency}, která se použije při umístění nového objektu s komponentou kreditu. Občané si i tak mohou při {obchodu|Trade} zvolit libovolnou měnu, ale díky výchozí měně světa se snáze zavede ekonomika se společnou měnou.</target>
+        <target state="translated">Výchozí měna světa je výchozí {měna|Currency}, která se použije při umístění nového objektu s funkcí kreditu. Občané si i tak mohou při {obchodování|Trade} zvolit libovolnou měnu, ale díky výchozí měně světa se snáze zavede ekonomika se společnou měnou.</target>
       </trans-unit>
       <trans-unit id="57" xml:space="preserve">
         <source xml:space="preserve">Direct Taxes</source>
@@ -472,12 +472,12 @@ Správa státní pokladny zahrnuje také možnost zahodit měnu z účtu státn�
       </trans-unit>
       <trans-unit id="60" xml:space="preserve">
         <source xml:space="preserve">Components related to housing.</source>
-        <target xml:space="preserve" state="translated">Komponenty související s bydlením.</target>
+        <target xml:space="preserve" state="translated">Funkce související s bydlením.</target>
       </trans-unit>
       <trans-unit id="61" xml:space="preserve">
         <source xml:space="preserve">The Authorization Component allows specifying what permissions citizens have on the object.
     </source>
-        <target state="translated">Autorizační komponenta umožňuje určit, jaká oprávnění mají občané k objektu.
+        <target state="translated">Autorizační funkce umožňuje určit, jaká oprávnění mají občané k objektu.
     </target>
       </trans-unit>
       <trans-unit id="62" xml:space="preserve">
@@ -493,7 +493,7 @@ Zobrazený list vlastnictví je pouze odkaz na list vlastnictví {pozemku|Proper
 
 Zde lze uvést oprávněné spotřebitele, a to buď jako konkrétní osoby, nebo jako {funkce|Titles} či {demografické skupiny|Demographics}.  Kdokoli uvedený může s objektem pracovat, aniž by měl plnou kontrolu.  Například obchod umožní občanům s právy spotřebitele nakupovat a prodávat, ale měnit nabídku nebo obchod přemístit smějí jen občané s plnými právy k pozemku.
 
-Všechny umístěné objekty mají autorizační komponentu.
+Všechny umístěné objekty mají autorizační funkci.
   </target>
       </trans-unit>
       <trans-unit id="63" xml:space="preserve">
@@ -514,14 +514,14 @@ Všechny umístěné objekty mají autorizační komponentu.
       </trans-unit>
       <trans-unit id="66" xml:space="preserve">
         <source xml:space="preserve">Components related to industry.</source>
-        <target xml:space="preserve" state="translated">Komponenty související s průmyslem.</target>
+        <target xml:space="preserve" state="translated">Funkce související s průmyslem.</target>
       </trans-unit>
       <trans-unit id="67" xml:space="preserve">
         <source xml:space="preserve">
     The Crafting Component is used to {Craft|Crafting} items, add resources or labor, and cancel existing projects. When contributing to a {Work Party|Work Parties}, the Crafting Component can be accessed by citizens who have joined the work party.
   </source>
         <target state="translated">
-    Komponenta výroby slouží k {výrobě|Crafting} předmětů, přidávání surovin nebo práce a rušení probíhajících projektů. Při práci v {pracovní skupině|Work Parties} mají ke komponentě výroby přístup občané, kteří se do skupiny připojili.
+    Funkce výroby slouží k {výrobě|Crafting} předmětů, přidávání surovin nebo práce a rušení probíhajících projektů. Při práci v {pracovní partě|Work Parties} mají ke funkci výroby přístup občané, kteří se do party připojili.
   </target>
       </trans-unit>
       <trans-unit id="68" xml:space="preserve">
@@ -539,11 +539,11 @@ By adding an upgrade in the {Modules Component}, work orders on a crafting table
 If a project is cancelled early (by right clicking the order), the resources will be refunded but the spent labor will be lost.
   </source>
         <target state="translated">
-Po výběru předmětu a množství k výrobě je k zahájení projektu potřeba mít suroviny a práci. Suroviny lze přidat ručně (položením přímo na výrobní stůl) nebo propojením {komponenty skladu|Storage Component}, která je obsahuje.
+Po výběru předmětu a množství k výrobě je k zahájení projektu potřeba mít suroviny a práci. Suroviny lze přidat ručně (položením přímo na výrobní stůl) nebo propojením {funkce skladu|Storage Component}, která je obsahuje.
 
-Občané s příslušnou {specializací|Specialties} potřebují na přidání práce méně kalorií. Některé projekty vyžadují kvalifikovanou práci občana s odpovídající specializací. Toto snížení se uplatní až po zahájení zakázky, takže do téže pracovní skupiny mohou přispívat občané s různou úrovní dovedností.
+Občané s příslušnou {specializací|Specialties} potřebují na přidání práce méně kalorií. Některé projekty vyžadují kvalifikovanou práci občana s odpovídající specializací. Toto snížení se uplatní až po zahájení zakázky, takže do téže pracovní party mohou přispívat občané s různou úrovní dovedností.
 
-Vložením vylepšení do {komponenty modulů|Modules Component} se u zakázek na výrobním stole zkrátí doba výroby a sníží se náklady na suroviny.
+Vložením vylepšení do {funkce modulů|Modules Component} se u zakázek na výrobním stole zkrátí doba výroby a sníží se náklady na suroviny.
 
 Pokud se projekt předčasně zruší (kliknutím pravým tlačítkem na zakázku), suroviny se vrátí, ale vynaložená práce propadne.
   </target>
@@ -559,9 +559,9 @@ For every unit of labor needed, {Calories|Nutrition} are consumed. After a work 
 Once a project is started, labor can quickly be added from outside the Crafting Component by right clicking on a crafting table. When adding labor in this way, holding down 'Ctrl' will add 5x the normal amount of labor. Holding down 'Alt' will add all available calories.
   </source>
         <target state="translated">
-Za každou potřebnou jednotku práce se spotřebují {kalorie|Nutrition}. Po zahájení zakázky mohou občané přidávat práci tlačítkem „Práce“ v komponentě výroby. 
+Za každou potřebnou jednotku práce se spotřebují {kalorie|Nutrition}. Po zahájení zakázky mohou občané přidávat práci tlačítkem „Práce“ ve funkci výroby. 
 
-Jakmile je projekt zahájen, lze práci rychle přidat i mimo komponentu výroby, a to kliknutím pravým tlačítkem na výrobní stůl. Přitom podržení klávesy „Ctrl“ přidá pětinásobek obvyklého množství práce a podržení klávesy „Alt“ přidá všechny dostupné kalorie.
+Jakmile je projekt zahájen, lze práci rychle přidat i mimo funkci výroby, a to kliknutím pravým tlačítkem na výrobní stůl. Přitom podržení klávesy „Ctrl“ přidá pětinásobek obvyklého množství práce a podržení klávesy „Alt“ přidá všechny dostupné kalorie.
   </target>
       </trans-unit>
       <trans-unit id="72" xml:space="preserve">
@@ -598,11 +598,11 @@ Ve výchozím stavu se zobrazují jen recepty, na které jsou k dispozici surovi
       </trans-unit>
       <trans-unit id="76" xml:space="preserve">
         <source xml:space="preserve">The Crafting Component is used to craft items and add labor to projects.</source>
-        <target state="translated">Komponenta výroby slouží k výrobě předmětů a přidávání práce k projektům.</target>
+        <target state="translated">Funkce výroby slouží k výrobě předmětů a přidávání práce k projektům.</target>
       </trans-unit>
       <trans-unit id="77" xml:space="preserve">
         <source xml:space="preserve"> The Modules Component allows citizens to insert upgrades into their {Crafting} tables. After inserting an upgrade, work orders on that table will have reduced resource costs and crafting times.</source>
-        <target state="translated"> Komponenta modulů umožňuje občanům vkládat vylepšení do jejich {výrobních|Crafting} stolů. Po vložení vylepšení se u zakázek na daném stole sníží náklady na suroviny a zkrátí doba výroby.</target>
+        <target state="translated"> Funkce modulů umožňuje občanům vkládat vylepšení do jejich {výrobních|Crafting} stolů. Po vložení vylepšení se u zakázek na daném stole sníží náklady na suroviny a zkrátí doba výroby.</target>
       </trans-unit>
       <trans-unit id="78" xml:space="preserve">
         <source xml:space="preserve">Using Upgrades</source>
@@ -649,7 +649,7 @@ Některé specializace mají vylepšení několika stupňů, která odpovídají
 The Pipe Component allows a citizen to check the status of an object’s smog output, water usage, and sewage flow.  
   </source>
         <target state="translated">
-Komponenta potrubí umožňuje občanovi zkontrolovat stav výstupu smogu, spotřeby vody a toku odpadní vody u daného objektu.  
+Funkce potrubí umožňuje občanovi zkontrolovat stav výstupu smogu, spotřeby vody a toku odpadní vody u daného objektu.  
   </target>
       </trans-unit>
       <trans-unit id="84" xml:space="preserve">
@@ -687,18 +687,18 @@ Pipes containing Sewage Output function similar to water pipes, but the {Sewage}
         <target state="translated">
 Objekty s vodním vstupem a čerpadla s vodním výstupem se propojují soustavou trubek. Soustava vodních trubek může mít více vstupů pro vodní čerpadla a více výstupů pro každý objekt, který vodu potřebuje.	
 
-V popisku vody v komponentě potrubí může občan zjistit, kolik vody objekt přesně produkuje nebo spotřebovává. Pokud se vyrábí málo vody, objekty se stanou neaktivními.
+V popisku vody ve funkci potrubí může občan zjistit, kolik vody objekt přesně produkuje nebo spotřebovává. Pokud se vyrábí málo vody, objekty se stanou neaktivními.
 
 Trubky s výstupem odpadní vody fungují podobně jako vodní trubky, ale {odpadní voda|Sewage}, kterou vedou, je zdrojem znečištění země. Po vynalezení {filtrů odpadních vod|Waste Filter Item} lze výstup odpadní vody zavést do filtru a znečištění země tak zmírnit.
 	</target>
       </trans-unit>
       <trans-unit id="88" xml:space="preserve">
         <source xml:space="preserve">The Pipe Component allows a citizen to check the status of an object’s smog output and water usage.</source>
-        <target state="translated">Komponenta potrubí umožňuje občanovi zkontrolovat stav výstupu smogu a spotřeby vody u daného objektu.</target>
+        <target state="translated">Funkce potrubí umožňuje občanovi zkontrolovat stav výstupu smogu a spotřeby vody u daného objektu.</target>
       </trans-unit>
       <trans-unit id="89" xml:space="preserve">
         <source xml:space="preserve">The Power Component is used to check the status of local power grid. It is also used to check the consumption of objects that require fuel to operate.</source>
-        <target state="translated">Komponenta energie slouží ke kontrole stavu místní napájecí sítě. Zjišťuje se v ní také spotřeba objektů, které ke svému provozu potřebují palivo.</target>
+        <target state="translated">Funkce energie slouží ke kontrole stavu místní napájecí sítě. Zjišťuje se v ní také spotřeba objektů, které ke svému provozu potřebují palivo.</target>
       </trans-unit>
       <trans-unit id="90" xml:space="preserve">
         <source xml:space="preserve">Fuel</source>
@@ -711,7 +711,7 @@ Objects that consume fuel will have fuel input here, and each may require differ
 While operating, an object consumes fuel every second, measured in Watts (W). Each type of fuel contains a different amount of potential energy, measured in Joules (J). For every 1 Watt needed per second, 1 Joule of energy is consumed. Fuel is not consumed while the object is inactive.
   </source>
         <target state="translated">
-Objekty, které spotřebovávají palivo, mají zde vstup pro palivo a každý z nich může ke svému provozu vyžadovat jiné druhy paliva. Popisky přijímaných paliv obsahují seznam konkrétních předmětů, jimiž lze objekt zásobovat. Palivo lze doplnit také z {komponenty skladu|Storage Component}.
+Objekty, které spotřebovávají palivo, mají zde vstup pro palivo a každý z nich může ke svému provozu vyžadovat jiné druhy paliva. Popisky přijímaných paliv obsahují seznam konkrétních předmětů, jimiž lze objekt zásobovat. Palivo lze doplnit také z {funkce skladu|Storage Component}.
 
 Za provozu objekt každou sekundu spotřebovává palivo, měřené ve wattech (W). Každý druh paliva obsahuje jiné množství potenciální energie, měřené v joulech (J). Na každý 1 watt potřebný za sekundu se spotřebuje 1 joule energie. Je-li objekt neaktivní, palivo se nespotřebovává.
   </target>
@@ -734,11 +734,11 @@ Generátory energie, které spotřebovávají palivo, se stanou neaktivními, po
       </trans-unit>
       <trans-unit id="94" xml:space="preserve">
         <source xml:space="preserve">The Power Component is used to check the supply and demand for power and fuel.</source>
-        <target state="translated">Komponenta energie slouží ke sledování nabídky a poptávky po energii a palivu.</target>
+        <target state="translated">Funkce energie slouží ke sledování nabídky a poptávky po energii a palivu.</target>
       </trans-unit>
       <trans-unit id="95" xml:space="preserve">
         <source xml:space="preserve">The Repair Component allows citizens to repair tools at a {ToolBenchItem}.</source>
-        <target state="translated">Komponenta opravy umožňuje občanům opravovat nástroje na {ToolBenchItem}.</target>
+        <target state="translated">Funkce opravy umožňuje občanům opravovat nástroje na {ToolBenchItem}.</target>
       </trans-unit>
       <trans-unit id="96" xml:space="preserve">
         <source xml:space="preserve">
@@ -747,9 +747,9 @@ After inserting a broken tool, the repair cost will appear. Advanced tools can b
 The owner of a Tool Bench can allow other citizens access to repair their own tools for a fee set in the {Credit Component}. When offering tool repair to the public, consumer rights must be given in the {Authorization Component}.
   </source>
         <target state="translated">
-Po vložení rozbitého nástroje se zobrazí náklady na opravu. Pokročilé nástroje opraví za méně surovin občané s odpovídající {specializací|Specialties}. Potřebné suroviny může občan přidat ručně, nebo se vezmou z propojeného kontejneru v {komponentě skladu|Storage Component}.
+Po vložení rozbitého nástroje se zobrazí náklady na opravu. Pokročilé nástroje opraví za méně surovin občané s odpovídající {specializací|Specialties}. Potřebné suroviny může občan přidat ručně, nebo se vezmou z propojeného kontejneru ve {funkci skladu|Storage Component}.
 
-Majitel nástrojářského stolu může ostatním občanům povolit opravovat si u něj vlastní nástroje za poplatek nastavený v {komponentě kreditu|Credit Component}. Nabízí-li se oprava nástrojů veřejnosti, je třeba v {autorizační komponentě|Authorization Component} udělit práva spotřebitele.
+Majitel nástrojářského stolu může ostatním občanům povolit opravovat si u něj vlastní nástroje za poplatek nastavený ve {funkci kreditu|Credit Component}. Nabízí-li se oprava nástrojů veřejnosti, je třeba v {autorizační funkci|Authorization Component} udělit práva spotřebitele.
   </target>
       </trans-unit>
       <trans-unit id="97" xml:space="preserve">
@@ -761,7 +761,7 @@ Majitel nástrojářského stolu může ostatním občanům povolit opravovat si
 The Status Component allows citizens to see the requirements for an object to be active, and which of those requirements are met. If an object causes {Pollution}, the status component also shows the lifetime pollution production for that object.
 	</source>
         <target state="translated">
-Komponenta stavu umožňuje občanům zjistit, jaké podmínky musí objekt splnit, aby byl aktivní, a které z nich jsou splněny. Pokud objekt způsobuje {znečištění|Pollution}, komponenta stavu zobrazuje také celkovou produkci znečištění tohoto objektu za celou dobu jeho provozu.
+Funkce stavu umožňuje občanům zjistit, jaké podmínky musí objekt splnit, aby byl aktivní, a které z nich jsou splněny. Pokud objekt způsobuje {znečištění|Pollution}, funkce stavu zobrazuje také celkovou produkci znečištění tohoto objektu za celou dobu jeho provozu.
 	</target>
       </trans-unit>
       <trans-unit id="99" xml:space="preserve">
@@ -779,7 +779,7 @@ Each condition in the Status Component must be satisfied before an object can be
 - A working {Sewage} system
 	</source>
         <target state="translated">
-Aby mohl být objekt aktivní, musí být splněna každá podmínka v komponentě stavu.  Příklady podmínek:
+Aby mohl být objekt aktivní, musí být splněna každá podmínka ve funkci stavu.  Příklady podmínek:
 
 - Umístění v platné {místnosti|Rooms}
 
@@ -797,7 +797,7 @@ Aby mohl být objekt aktivní, musí být splněna každá podmínka v komponent
 When interacting with an object with a Status Component, citizens can quickly see the status of the object by checking the status indicator in the top left corner. A green circle means an object is active while a red circle means it is inactive.
 	</source>
         <target state="translated">
-Při práci s objektem, který má komponentu stavu, mohou občané rychle zjistit jeho stav podle indikátoru stavu v levém horním rohu. Zelený kruh znamená, že je objekt aktivní, červený kruh, že je neaktivní.
+Při práci s objektem, který má funkci stavu, mohou občané rychle zjistit jeho stav podle indikátoru stavu v levém horním rohu. Zelený kruh znamená, že je objekt aktivní, červený kruh, že je neaktivní.
 	</target>
       </trans-unit>
       <trans-unit id="103" xml:space="preserve">
@@ -807,7 +807,7 @@ Při práci s objektem, který má komponentu stavu, mohou občané rychle zjist
       <trans-unit id="104" xml:space="preserve">
         <source xml:space="preserve">The Storage Component is used to manage the inventory of storage containers and link them to objects that require access to storage.
   </source>
-        <target xml:space="preserve" state="translated">Komponenta skladu slouží ke správě obsahu skladovacích kontejnerů a k jejich propojení s objekty, které potřebují přístup ke skladu.
+        <target xml:space="preserve" state="translated">Funkce skladu slouží ke správě obsahu skladovacích kontejnerů a k jejich propojení s objekty, které potřebují přístup ke skladu.
   </target>
       </trans-unit>
       <trans-unit id="105" xml:space="preserve">
@@ -825,9 +825,9 @@ When linking storage containers, the topmost container in the Storage Component 
         <target xml:space="preserve" state="translated">
 Některé skladovací kontejnery, například {StockpileItem}, pojmou jakýkoli druh předmětů. Jiné, například {StorageChestItem}, pojmou jen nenesené předměty. Objekty jako {StorageSiloItem} mohou skladovat jen určité druhy předmětů.
 
-Kontejnery lze k objektu propojit jako vstup a/nebo výstup přepnutím příslušného tlačítka v komponentě skladu daného objektu. Při propojení jako vstup získá objekt přístup ke všem předmětům v tomto kontejneru, aby je mohl použít jako ingredience při výrobě nebo jako zásoby v obchodě. Propojení kontejneru jako výstup umožní ukládat do něj hotové výrobky a zboží zakoupené v obchodě.
+Kontejnery lze k objektu propojit jako vstup a/nebo výstup přepnutím příslušného tlačítka ve funkci skladu daného objektu. Při propojení jako vstup získá objekt přístup ke všem předmětům v tomto kontejneru, aby je mohl použít jako ingredience při výrobě nebo jako zásoby v obchodě. Propojení kontejneru jako výstup umožní ukládat do něj hotové výrobky a zboží zakoupené v obchodě.
 
-Při propojování skladovacích kontejnerů se vždy jako první použije kontejner nejvýše v seznamu v komponentě skladu, a to jak pro odebírání vstupů, tak pro ukládání výstupů. Pořadí lze změnit kliknutím a přetažením kontejnerů zobrazených v tomto seznamu.
+Při propojování skladovacích kontejnerů se vždy jako první použije kontejner nejvýše v seznamu ve funkci skladu, a to jak pro odebírání vstupů, tak pro ukládání výstupů. Pořadí lze změnit kliknutím a přetažením kontejnerů zobrazených v tomto seznamu.
   </target>
       </trans-unit>
       <trans-unit id="107" xml:space="preserve">
@@ -860,14 +860,14 @@ Předměty lze mezi kontejnery přesouvat tažením hromádek z jednoho kontejne
       </trans-unit>
       <trans-unit id="110" xml:space="preserve">
         <source xml:space="preserve">An economy thriving with trade is essential to developing the technology needed to stop the meteor.</source>
-        <target state="translated">Ekonomika vzkvétající díky obchodu je nezbytná pro rozvoj technologií potřebných k zastavení meteoru.</target>
+        <target state="translated">Ekonomika vzkvétající díky obchodování je nezbytná pro rozvoj technologií potřebných k zastavení meteoru.</target>
       </trans-unit>
       <trans-unit id="111" xml:space="preserve">
         <source xml:space="preserve">Bank accounts are storages of {Currency} that one or more citizen can access.  Each citizen enters the world with a permanent Personal Bank Account, containing an infinite amount of their Personal Credit. Additional bank accounts can be granted and have their access-rights adjusted at a {Bank|bank component}.
 
 Bank accounts are useful for organizing currency, allowing access to funds by multiple parties, and storing the collection of taxes and designating who can access them.  Governments will generally setup a number of bank accounts to manage the in-flow of taxes, ensuring the funds are used as intended.  Each bank account can hold unlimited amounts of unlimited currencies, with each currency tracked separately. Clicking on the bank account will display the ledger listing all transactions to or from it, as all transactions in Eco are public.
 </source>
-        <target state="translated">Bankovní účty jsou úložiště {měny|Currency}, ke kterým má přístup jeden nebo více občanů.  Každý občan vstupuje do světa s trvalým osobním bankovním účtem, na kterém má nekonečné množství své osobní měny. Další bankovní účty lze zřídit a jejich přístupová práva upravit v {bankovní komponentě|bank component}.
+        <target state="translated">Bankovní účty jsou úložiště {měny|Currency}, ke kterým má přístup jeden nebo více občanů.  Každý občan vstupuje do světa s trvalým osobním bankovním účtem, na kterém má nekonečné množství své osobní měny. Další bankovní účty lze zřídit a jejich přístupová práva upravit ve {funkci banky|bank component}.
 
 Bankovní účty se hodí k uspořádání měny, ke sdílení přístupu k penězům mezi více stran a k ukládání vybraných daní včetně určení, kdo k nim má přístup.  Vlády obvykle zřizují několik bankovních účtů, aby spravovaly příliv daní a zajistily, že se peníze použijí tak, jak mají.  Na každém bankovním účtu může být neomezené množství neomezeného počtu měn, přičemž každá měna se eviduje zvlášť. Kliknutím na bankovní účet se zobrazí kniha všech transakcí na účet i z něj, protože všechny transakce v Eco jsou veřejné.
 </target>
@@ -913,11 +913,11 @@ Many recipes require labor of a specific {Skill|skills overview}.  While any cit
         <target state="translated">
 Výroba je vytváření nových produktů z ingrediencí, práce a/nebo energie.  Při výrobě mohou vznikat také vedlejší produkty, které způsobují znečištění a negativně ovlivňují životní prostředí.  Je páteří ekonomiky: vytváří poptávku po zdrojích, které pocházejí z okolního ekosystému, i po práci jednotlivých kvalifikovaných lidí a po sdílených službách, jako je {energie|Power Component} nebo {odpadní voda|Sewage}.
 
-Každý stůl s {komponentou výroby|Crafting Component} může vyrábět produkty definované v seznamu. Výrobní stoly lze sdílet; každý z nich má nastavitelnou {autorizační komponentu|Authorization Component}, která určuje, kdo k němu má přístup, a v {komponentě kreditu|Credit Component} na stole lze nastavit poplatky, díky nimž můžeš sdílením svého stolu vydělávat.
+Každý stůl s {funkcí výroby|Crafting Component} může vyrábět produkty definované v seznamu. Výrobní stoly lze sdílet; každý z nich má nastavitelnou {autorizační funkci|Authorization Component}, která určuje, kdo k němu má přístup, a ve {funkci kreditu|Credit Component} na stole lze nastavit poplatky, díky nimž můžeš sdílením svého stolu vydělávat.
 
-Vstupy a výstupy lze brát přímo z výrobního stolu, nebo je umístit do připojené {komponenty skladu|Storage Component}.  Když ingredience a produkty umístíš do skladu, mohou občané zadat do fronty velké zakázky, které pak probíhají automaticky. 
+Vstupy a výstupy lze brát přímo z výrobního stolu, nebo je umístit do připojené {funkce skladu|Storage Component}.  Když ingredience a produkty umístíš do skladu, mohou občané zadat do fronty velké zakázky, které pak probíhají automaticky. 
 
-Mnoho receptů vyžaduje práci určité {dovednosti|skills overview}.  Recept může zahájit nebo ingrediencemi přispět kterýkoli občan, ale práci do něj může přidat jen občan s potřebnými dovednostmi.  Aby se na jedné výrobní zakázce mohlo podílet více občanů a dělit se o odměnu, lze vytvořit {pracovní skupiny|Work Parties}.
+Mnoho receptů vyžaduje práci určité {dovednosti|skills overview}.  Recept může zahájit nebo ingrediencemi přispět kterýkoli občan, ale práci do něj může přidat jen občan s potřebnými dovednostmi.  Aby se na jedné výrobní zakázce mohlo podílet více občanů a dělit se o odměnu, lze vytvořit {pracovní party|Work Parties}.
   </target>
       </trans-unit>
       <trans-unit id="117" xml:space="preserve">
@@ -935,7 +935,7 @@ Backed currencies are much more stable. A backed currency is created at a {Mint|
 
 Currencies can be transferred to others in the Economy Viewer, as well as through {Trade}.  All currency is stored in a {Bank Account|Bank Accounts}.
 </source>
-        <target state="translated">Měna je prostředek, který usnadňuje obchod jako zástupce hodnoty. Její hodnota je zcela dána tím, jak se používá.
+        <target state="translated">Měna je prostředek, který usnadňuje obchodování jako zástupce hodnoty. Její hodnota je zcela dána tím, jak se používá.
 
 V Eco existují dva druhy měn: krytá a nekrytá.
 
@@ -943,12 +943,12 @@ Nekrytá měna je tzv. fiat měna a každý hráč začíná s vlastní osobní 
 
 Kryté měny jsou mnohem stabilnější. Krytá měna se vytváří v {mincovně|Mint Component} přeměnou krycího materiálu na mince.  Další měnu lze vytvořit jen získáním dalšího množství daného materiálu.  Tím se množství měny, které lze do světa uvést, mnohem přísněji omezí, a vzniká pevnější základ pro globální obchod.  Jak ekonomika v průběhu hry roste a je potřeba víc globálního obchodu a spolupráce, svět se často rozhodne přejít od souboru osobních měn k jedné či více krytým měnám.
 
-Měny lze posílat ostatním v Prohlížeči ekonomiky i prostřednictvím {obchodu|Trade}.  Veškerá měna je uložena na {bankovních účtech|Bank Accounts}.
+Měny lze posílat ostatním v Ekonomickém panelu i prostřednictvím {obchodu|Trade}.  Veškerá měna je uložena na {bankovních účtech|Bank Accounts}.
 </target>
       </trans-unit>
       <trans-unit id="119" xml:space="preserve">
         <source xml:space="preserve">Currency is a societal construct that makes trade easier.</source>
-        <target state="translated">Měna je společenský výtvor, který usnadňuje obchod.</target>
+        <target state="translated">Měna je společenský výtvor, který usnadňuje obchodování.</target>
       </trans-unit>
       <trans-unit id="120" xml:space="preserve">
         <source xml:space="preserve">"Economy has frequently nothing whatever to do with the amount of money being spent, but with the wisdom used in spending it."
@@ -961,7 +961,7 @@ Měny lze posílat ostatním v Prohlížeči ekonomiky i prostřednictvím {obch
       <trans-unit id="121" xml:space="preserve">
         <source xml:space="preserve">The economy comprises the actions of harvesting, production and trade among citizens, taking from the {Ecosystem|Ecosystem Overview} under the regulation of the {Government|Government Overview}. Citizens will need to ensure a smoothly running economy in order to progress technology enough to stop the meteor, without letting it run amok and destroy the planet through pollution in the process.
   </source>
-        <target state="translated">Ekonomika zahrnuje získávání zdrojů, výrobu a obchod mezi občany, přičemž se čerpá z {ekosystému|Ecosystem Overview} pod dohledem {vlády|Government Overview}. Občané budou muset zajistit hladký chod ekonomiky, aby technologicky pokročili natolik, že zastaví meteor, a přitom ji nenechali vymknout se z rukou a znečištěním zničit planetu.
+        <target state="translated">Ekonomika zahrnuje získávání zdrojů, výrobu a obchodování mezi občany, přičemž se čerpá z {ekosystému|Ecosystem Overview} pod dohledem {vlády|Government Overview}. Občané budou muset zajistit hladký chod ekonomiky, aby technologicky pokročili natolik, že zastaví meteor, a přitom ji nenechali vymknout se z rukou a znečištěním zničit planetu.
   </target>
       </trans-unit>
       <trans-unit id="122" xml:space="preserve">
@@ -986,7 +986,7 @@ Měny lze posílat ostatním v Prohlížeči ekonomiky i prostřednictvím {obch
 - {Transport}.  Přeprava zdrojů z místa na místo a budování infrastruktury po celém světě, která to umožňuje.
 - {Research}. Rozšiřování lidských znalostí ve prospěch společnosti.
 - {Currency}. Zástupce hodnoty vytvořený občany, který usnadňuje ekonomickou činnost.
-- {Work Parties}. Organizované skupiny pracujících, které si dělí odměny.
+- {Work Parties}. Organizované party pracujících, které si dělí odměny.
 - {Contracts}. Dohody mezi dvěma občany o práci nebo jiných ujednáních.
 - {Bank Accounts}. Úložiště měny s nastavitelným přístupem.
 - {Finance}. Poskytování kapitálu ostatním občanům, aby se mohli rozvíjet, a zároveň tvorba vlastního zisku.
@@ -994,7 +994,7 @@ Měny lze posílat ostatním v Prohlížeči ekonomiky i prostřednictvím {obch
       </trans-unit>
       <trans-unit id="124" xml:space="preserve">
         <source xml:space="preserve">The economy consists of all resource usage, trade, and technological progress by citizens.</source>
-        <target state="translated">Ekonomika zahrnuje veškeré využívání zdrojů, obchod a technologický pokrok občanů.</target>
+        <target state="translated">Ekonomika zahrnuje veškeré využívání zdrojů, obchodování a technologický pokrok občanů.</target>
       </trans-unit>
       <trans-unit id="125" xml:space="preserve">
         <source xml:space="preserve">Through the use of {Contracts}, Citizens in Eco can create loan and bond agreements between two parties, tracking automatically the interest payment and due date of the funds.  Loans and bonds are a great way for new citizens to collaborate with long-time citizens with more wealth in a way that benefits both parties and increases societal progress.
@@ -1009,7 +1009,7 @@ Penalties for defaulting on loans can be constructed using {Laws}, by watching f
 Pokud si občan vezme půjčku, nabízející strana mu dá peníze, které má splatit i s úrokem.
 Pokud občan koupí dluhopis, dá peníze nabízející straně a očekává, že mu je vrátí i s úrokem.
 
-Postihy za nesplácení půjček lze nastavit pomocí {zákonů|Laws}, a to sledováním spouštěče „Nesplacená půjčka nebo dluhopis“. Pak lze přijmout opatření, například zabavit majetek nebo uložit jiné sankce a pokuty.
+Postihy za nesplácení půjček lze nastavit pomocí {zákonů|Laws}, a to sledováním spouštěče „Nesplacená půjčka nebo dluhopis“. Pak lze přijmout opatření, například zabavit pozemek nebo uložit jiné sankce a pokuty.
 </target>
       </trans-unit>
       <trans-unit id="126" xml:space="preserve">
@@ -1043,7 +1043,7 @@ Skill books are some of the most difficult items to create, and citizens will ty
 
 Každý svitek dovedností je spotřební předmět na jedno použití, který tomu, kdo ho použije, odemkne novou {specializaci|specialties}; tu je pak nutné zvolit při zvýšení úrovně v systému {dovedností|skills overview}.  Použití nového svitku dovedností také občanovi dává sadu {záborových listin|ClaimToolItem}, díky které může s rostoucí dovedností zabírat další půdu.
     
-Knihy dovedností patří mezi nejobtížněji vyrobitelné předměty a občané budou obvykle muset spolupracovat, aby získali všechny potřebné suroviny a práci.  Proto se výzkumné projekty obzvlášť hodí pro {pracovní skupiny|Work Parties}: občané v nich mohou sdílet práci potřebnou k jejich výrobě a po dokončení i odměnu v podobě znalostí.
+Knihy dovedností patří mezi nejobtížněji vyrobitelné předměty a občané budou obvykle muset spolupracovat, aby získali všechny potřebné suroviny a práci.  Proto se výzkumné projekty obzvlášť hodí pro {pracovní party|Work Parties}: občané v nich mohou sdílet práci potřebnou k jejich výrobě a po dokončení i odměnu v podobě znalostí.
   </target>
       </trans-unit>
       <trans-unit id="131" xml:space="preserve">
@@ -1071,7 +1071,7 @@ Building roads between villages and resource caches will take time and the effor
 
 K účinné přepravě materiálů budeš potřebovat vyrobit vozidla, a ta vyžadují vyrovnaný terén ve formě cest.  Pomocí {kamenného nástroje na cesty|StoneRoadToolItem} můžeš terén vyrovnat a upravit pro vozidla a pomocí ramp vytvoříš mírné svahy, po kterých vozidla pojedou.  Pokročilejší vozidla budou k efektivní jízdě potřebovat pokročilejší cesty a cesty bude třeba pravidelně vylepšovat, jakmile bude k dispozici nová technologie.
 
-Stavba cest mezi vesnicemi a zásobárnami zdrojů si vyžádá čas a úsilí mnoha občanů a je skvělým kandidátem na veřejné stavby financované z {daní|Taxes} a budované pomocí {pracovních skupin|Work Parties}.  S technologickým pokrokem světa bude vznikat stále víc dopravní infrastruktury, která usnadní tok obchodu, až nakonec stavba cest a provoz vozidel začnou mít dopad na životní prostředí.  Klíčem k zachování ekosystémů, jimiž procházejí, bude pečlivé řízení tohoto vlivu.
+Stavba cest mezi vesnicemi a zásobárnami zdrojů si vyžádá čas a úsilí mnoha občanů a je skvělým kandidátem na veřejné stavby financované z {daní|Taxes} a budované pomocí {pracovních part|Work Parties}.  S technologickým pokrokem světa bude vznikat stále víc dopravní infrastruktury, která usnadní tok obchodu, až nakonec stavba cest a provoz vozidel začnou mít dopad na životní prostředí.  Klíčem k zachování ekosystémů, jimiž procházejí, bude pečlivé řízení tohoto vlivu.
 </target>
       </trans-unit>
       <trans-unit id="135" xml:space="preserve">
@@ -1097,28 +1097,28 @@ Payment can take a variety of forms:
 
 The economy of Eco is focused not just on trading of goods but trading of labor, and work parties make it easy to farm out many kinds of work to the general populace.
   </source>
-        <target state="translated">Pracovní skupina je dohoda několika občanů o provedení práce.  Založí ji jednotlivý občan tím, že po vytvoření výrobní zakázky navštíví {nástěnku smluv|Contract Board Component}.
+        <target state="translated">Pracovní parta je dohoda několika občanů o provedení práce.  Založí ji jednotlivý občan tím, že po vytvoření výrobní zakázky navštíví {nástěnku smluv|Contract Board Component}.
 
-Občan, který pracovní skupinu zadává, může určit různé parametry práce, mimo jiné:
+Občan, který pracovní partu zadává, může určit různé parametry práce, mimo jiné:
  - Výrobní zakázky, které je třeba splnit.
- - Co se požaduje od občanů, kteří se chtějí do pracovní skupiny zapojit.
+ - Co se požaduje od občanů, kteří se chtějí do pracovní party zapojit.
  - Jaká odměna se vyplatí těm, kdo se zúčastní.
  - Jak se tato odměna rozdělí.
 
-Pracovní skupiny se obzvlášť hodí k provádění {výzkumu|Research}. Občan může založit výzkumný projekt, který stojí velké množství zdrojů, a připojit k němu pracovní skupinu. Občané se pak mohou do pracovní skupiny automaticky zapojit (i když zadávající občan není online – za předpokladu, že splňují stanovené požadavky) a začít úkol plnit.
+Pracovní party se obzvlášť hodí k provádění {výzkumu|Research}. Občan může založit výzkumný projekt, který stojí velké množství zdrojů, a připojit k němu pracovní partu. Občané se pak mohou do pracovní party automaticky zapojit (i když zadávající občan není online – za předpokladu, že splňují stanovené požadavky) a začít úkol plnit.
 
 Odměna může mít různé podoby:
 - {Currency}, rozdělovaná podle toho, kolik práce kdo vykonal, a to buď okamžitě, nebo po dokončení.
-- {Reputation}, kterou tvůrce pracovní skupiny uděluje pracovníkovi (platí přitom denní limity reputace k rozdání).
-- Znalost určité specializace (stejný účinek jako přečtení svitku dovedností). Aby ji mohl poskytnout, musí tvůrce pracovní skupiny vlastnit knihu dovedností dané specializace, nebo se tato kniha musí vyrobit v jedné z výrobních zakázek skupiny.
+- {Reputation}, kterou tvůrce pracovní party uděluje pracovníkovi (platí přitom denní limity reputace k rozdání).
+- Znalost určité specializace (stejný účinek jako přečtení svitku dovedností). Aby ji mohl poskytnout, musí tvůrce pracovní party vlastnit knihu dovedností dané specializace, nebo se tato kniha musí vyrobit v jedné z výrobních zakázek party.
 - Udělení {funkce|Title}, která může pracovníkovi dát nová oprávnění k přístupu na pozemky a další schopnosti.
 
-Ekonomika Eco se zaměřuje nejen na obchod se zbožím, ale i na obchod s prací, a pracovní skupiny usnadňují zadat mnoho druhů práce široké veřejnosti.
+Ekonomika Eco se zaměřuje nejen na obchod se zbožím, ale i na obchod s prací, a pracovní party usnadňují zadat mnoho druhů práce široké veřejnosti.
   </target>
       </trans-unit>
       <trans-unit id="137" xml:space="preserve">
         <source xml:space="preserve">Work Parties are joint agreements by a number of players to perform a given task, with compensation being distributed in various ways.</source>
-        <target state="translated">Pracovní skupiny jsou společné dohody několika hráčů o splnění určitého úkolu, přičemž se odměna rozděluje různými způsoby.</target>
+        <target state="translated">Pracovní party jsou společné dohody několika hráčů o splnění určitého úkolu, přičemž se odměna rozděluje různými způsoby.</target>
       </trans-unit>
       <trans-unit id="138" xml:space="preserve">
         <source xml:space="preserve">The living biome of the world, providing resources which humans must use to survive.</source>
@@ -1133,7 +1133,7 @@ Biomes are ecosystems within the global ecosystem, and within biomes there are s
 Climate change may shift the boundaries of biomes, displacing communities-- some species will survive and adapt, but others will not be so resilient. Direct displacement of soil and other habitat destruction from activities like construction, farming, mining, and logging will also have an impact on species within biomes to differing degrees. Species of plants or animals might not only prefer particular biomes, but particular parts of sub-biomes, which will mean a greater impact if those highly localized areas are altered or destroyed. Resilient and adaptive species will be able to thrive across biome boundaries as they are altered, but those same species may become a threat to more sensitive plants or animals in the new biomes they are introduced to.
  </source>
         <target state="translated">
-Obrovskou rozmanitost a bohatství života na planetě lze zhruba rozdělit do oblastí zvaných biomy. Biomy v Eco jsou oblasti světa, které spadají do určitých rozmezí srážek a teploty. Díky těmto simulovaným fyzikálním rozdílům mohou v různých biomech přežít a prospívat různé druhy mikroorganismů, rostlin, hub a zvířat. Každý biom v Eco nabízí jedinečnou sadu zdrojů, které mohou hráči objevovat a získávat, aby na nich stavěli a pohánili své společnosti. Společenství živých organismů v každém biomu jsou na sobě navzájem závislá, obvykle prostřednictvím stanoviště, potravy a půdy, které zase vznikají z místního podnebí a přítomných zdrojů země. 
+Obrovskou rozmanitost a bohatství života na planetě lze zhruba rozdělit do oblastí zvaných biomy. Biomy v Eco jsou oblasti světa, které spadají do určitých rozmezí srážek a teploty. Díky těmto simulovaným fyzikálním rozdílům mohou v různých biomech přežít a prospívat různé druhy mikroorganismů, rostlin, hub a zvířat. Každý biom v Eco nabízí jedinečnou sadu zdrojů, které mohou hráči objevovat a získávat, aby na nich stavěli a poháněli své společnosti. Společenství živých organismů v každém biomu jsou na sobě navzájem závislá, obvykle prostřednictvím stanoviště, potravy a půdy, které zase vznikají z místního podnebí a přítomných zdrojů země. 
   
 Biomy jsou ekosystémy uvnitř globálního ekosystému a uvnitř biomů se někdy vyskytují další členění neboli „dílčí biomy“, například náhorní poušť, prérie s vysokou trávou, ledovcový led v tundře nebo mořská pobřeží. Biomy a dílčí biomy jsou souvislé celky a řada z nich má omezení, vedle kterých biomů nebo uvnitř kterých biomů se mohou nacházet. Časem, jak se vlivem hráčů mění podmínky, mohou být biomy radikálně přetvořeny. 
 
@@ -1233,7 +1233,7 @@ Currently we’re working on adding in-game designation of property and district
         <target state="translated">
 Mapa je ve hře silný nástroj, který slouží mnoha účelům: navigaci, plánování, zobrazení dat, hledání pozemků a mnoha dalším. Lze ji zapnout tak, aby zobrazovala různé vrstvy světa hry (teplotní mapy) a barevným přechodem zvýrazňovala oblasti s vysokou či nízkou populací, znečištěním, aktivitou občanů apod.  Světové značky lze přidávat ručně nebo globálně pro všechny občany, aby ukazovaly na konkrétní body a pomáhaly koordinovat činnost lidí. Tyto značky se také používají k automatickému navádění občanů k dynamické práci – určují, kde se mají podle smlouvy stavět cesty, kam se má doručit zboží k přepravě a podobně.
 
-V současné době pracujeme na přidání možnosti označovat ve hře pozemky a čtvrti a určovat oblasti půdy pro pracovní skupiny a smlouvy, takže například občané budou moci ve hře označit oblasti, kde chtějí najmout jiné, aby zorali pole nebo postavili cestu apod. Tím se výrazně rozšíří možnosti trhu práce a občané budou moci snadněji a mnohem přesněji určit, kde chtějí práci provést.
+V současné době pracujeme na přidání možnosti označovat ve hře pozemky a čtvrti a určovat oblasti půdy pro pracovní party a smlouvy, takže například občané budou moci ve hře označit oblasti, kde chtějí najmout jiné, aby zorali pole nebo postavili cestu apod. Tím se výrazně rozšíří možnosti trhu práce a občané budou moci snadněji a mnohem přesněji určit, kde chtějí práci provést.
 </target>
       </trans-unit>
       <trans-unit id="149" xml:space="preserve">
@@ -1385,11 +1385,11 @@ Waste that a machine has just produced is granted a day of grace before it begin
 The Ground Pollution map you can call up shows the sum of the four layers, spread outward from every contaminated claim. Plumes fall off with the square of the distance and they add together, so three neighbouring claims at 100% read, from a distance, exactly like a single claim at 300%. Their reach grows with the square root of the value: ten times the pollution carries about three times as far. A poisoned claim is never a private problem for long.
 </source>
         <target state="translated">
-Znečištění země se sleduje po jednotlivých záborech ve čtyřech samostatných vrstvách: znečištění půdy, znečištění těžkými minerály, chemické znečištění a znečištění kyselým deštěm. Každý znečišťující blok ponechaný ve světě přidá k vrstvě, do níž patří, pevných 0,1, takže deset bloků {hlušiny|TailingsItem} na záboru žene znečištění těžkými minerály na tomto záboru na 100 %. Vrstvy na tuto hodnotu neskočí, přibližují se k ní zhruba tři dny, takže únik potřebuje čas, než se plně projeví, a po jeho vyřešení zase čas, než odezní. Záleží jen na vodorovné poloze odpadu. Zahrabání nic nemění.
+Znečištění země se sleduje po jednotlivých pozemcích ve čtyřech samostatných vrstvách: znečištění půdy, znečištění těžkými minerály, chemické znečištění a znečištění kyselým deštěm. Každý znečišťující blok ponechaný ve světě přidá k vrstvě, do níž patří, pevných 0,1, takže deset bloků {hlušiny|TailingsItem} na pozemku žene znečištění těžkými minerály na tomto pozemku na 100 %. Vrstvy na tuto hodnotu neskočí, přibližují se k ní zhruba tři dny, takže únik potřebuje čas, než se plně projeví, a po jeho vyřešení zase čas, než odezní. Záleží jen na vodorovné poloze odpadu. Zahrabání nic nemění.
 
 Odpad, který právě vyrobil stroj, má den odkladu, než začne znečišťovat, což je dost času na to odvézt ho k třídiči nebo do správné nádoby. Odpad, který nevznikl výrobou, ale byl prostě odhozen do světa, znečišťuje od okamžiku, kdy dopadne.
 
-Mapa znečištění země, kterou můžeš vyvolat, ukazuje součet čtyř vrstev, rozšířený od každého znečištěného záboru. Vlečky slábnou s druhou mocninou vzdálenosti a sčítají se, takže tři sousední zábory na 100 % vypadají zdálky úplně stejně jako jediný zábor na 300 %. Jejich dosah roste s odmocninou hodnoty: desetinásobné znečištění sahá zhruba třikrát dál. Otrávený zábor nezůstane dlouho soukromým problémem.
+Mapa znečištění země, kterou můžeš vyvolat, ukazuje součet čtyř vrstev, rozšířený od každého znečištěného pozemku. Vlečky slábnou s druhou mocninou vzdálenosti a sčítají se, takže tři sousední pozemky na 100 % vypadají zdálky úplně stejně jako jediný pozemek na 300 %. Jejich dosah roste s odmocninou hodnoty: desetinásobné znečištění sahá zhruba třikrát dál. Otrávený pozemek nezůstane dlouho soukromým problémem.
 </target>
       </trans-unit>
       <trans-unit id="170" xml:space="preserve">
@@ -1405,7 +1405,7 @@ Where air pollution meets rainfall, it comes back down as acid rain and feeds th
         <target state="translated">
 Mnoho činností hráčů vytváří škodlivé emise, které po uvolnění do atmosféry působí jako znečištění ovzduší. Výroba na objektech s výstupem CO2 nebo provoz generátorů s takovým výstupem přispívá k místní i globální úrovni znečištění. Během dlouhých období přispívá globální hladina CO2 ke globálnímu oteplování, které zase ovlivňuje hladinu moře. Některé znečišťující látky, například CO2, mají přirozené pohlcovače, jako jsou lesy.
 
-Tam, kde se znečištění ovzduší setká s deštěm, spadne zpět jako kyselý déšť a přibude ve vrstvě kyselého deště na záboru, na kterém bylo vypuštěno; ta se pak šíří ven jako každé jiné znečištění země. Emise proto nikdy nejsou jen problémem ovzduší: nefiltrovaný komín pomalu okyseluje půdu kolem sebe a řada komínů ji okyseluje společně.
+Tam, kde se znečištění ovzduší setká s deštěm, spadne zpět jako kyselý déšť a přibude ve vrstvě kyselého deště na pozemku, na kterém bylo vypuštěno; ta se pak šíří ven jako každé jiné znečištění země. Emise proto nikdy nejsou jen problémem ovzduší: nefiltrovaný komín pomalu okyseluje půdu kolem sebe a řada komínů ji okyseluje společně.
 </target>
       </trans-unit>
       <trans-unit id="172" xml:space="preserve">
@@ -1425,7 +1425,7 @@ Voda sama žádné znečištění nemá; nese to, co jí dá země. Kde vlečka 
 
 Druhou cestou, jak se voda stává problémem, je potrubí. Odpadní kapalina vypuštěná z otevřeného konce potrubí otráví zem, na kterou dopadne, přičemž každá kapalina živí svou vlastní vrstvu: {odpadní voda|SewageItem} znečišťuje půdu, {průmyslové odpadní vody|IndustrialSewageItem} nesou těžké kovy a {chemický odpad|ChemicalWasteFluidItem} je tak žíravý, že tvoří vlastní kategorii. Pošli je raději do {filtru odpadních vod|WasteFilterItem} a vyjdou jako {voda|WaterItem}, dost čistá na vypuštění nebo opětovné použití, a pevné látky, které nesly, se zachytí, aby je šlo uložit nebo recyklovat.
 
-Protože otevřená voda jen odráží své zdroje, nelze z ní nic přímo odstranit. Zadrž nebo odstraň zdroje na břehu, sanuj zábory, které ji živí, a voda se vyčistí spolu s nimi.
+Protože otevřená voda jen odráží své zdroje, nelze z ní nic přímo odstranit. Zadrž nebo odstraň zdroje na břehu, sanuj pozemky, které ji živí, a voda se vyčistí spolu s nimi.
 </target>
       </trans-unit>
       <trans-unit id="174" xml:space="preserve">
@@ -1439,7 +1439,7 @@ Storing polluting material properly is the cheapest way to keep it out of the gr
 Producing less waste to begin with is the other half of the answer. A {GarbageSorterItem} separates mixed garbage into materials that can be recycled and put back to use, and a {ResidualWasteSorterItem} does the same for the residuals of industry, leaving a smaller volume of genuinely unusable waste behind. Space must still be made for what remains, and where that space goes should be a deliberate decision of your society rather than an accident of where the carts stopped.
 </source>
         <target state="translated">
-Správné uskladnění znečišťujícího materiálu je nejlevnější způsob, jak ho udržet mimo zem. Znečišťující blok pohozený na volném prostranství přispívá celým svým množstvím a pozor, stejně tak přispívá týž materiál ležící v obyčejné bedně: jen k tomu určené uskladnění něco zadrží. {Primitivní popelnice|PrimitiveBinItem} udrží 20 % toho, co obsahuje, mimo půdu, {moderní popelnice|ModernGarbageBinItem} 60 % a {kontejner na odpad|DumpsterGarbageItem} 90 %. Žádná z nich není dokonalá: dostatečně velká skládka stále otráví zábor, na kterém stojí, ať je sebelépe naskládaná.
+Správné uskladnění znečišťujícího materiálu je nejlevnější způsob, jak ho udržet mimo zem. Znečišťující blok pohozený na volném prostranství přispívá celým svým množstvím a pozor, stejně tak přispívá týž materiál ležící v obyčejné bedně: jen k tomu určené uskladnění něco zadrží. {Primitivní popelnice|PrimitiveBinItem} udrží 20 % toho, co obsahuje, mimo půdu, {moderní popelnice|ModernGarbageBinItem} 60 % a {kontejner na odpad|DumpsterGarbageItem} 90 %. Žádná z nich není dokonalá: dostatečně velká skládka stále otráví pozemek, na kterém stojí, ať je sebelépe naskládaná.
 
 Druhou polovinou řešení je produkovat odpadu méně už od začátku. {Třídič odpadu|GarbageSorterItem} rozdělí směsný odpad na materiály, které lze recyklovat a znovu použít, a {třídič zbytkového odpadu|ResidualWasteSorterItem} totéž udělá se zbytky průmyslové výroby, takže zůstane menší objem skutečně nepoužitelného odpadu. Místo pro to, co zbude, je přesto třeba vyhradit, a kde bude, má být promyšleným rozhodnutím celé společnosti, a ne náhodou podle toho, kde se vozíky zastavily.
 </target>
@@ -1628,17 +1628,17 @@ Volby mohou mít řadu nastavení určených jejich {volebním procesem|Election
 Depending on what {Civic Articles} are available, these actions may or may not require an election. Some civic articles state that only {Elected Titles} may perform Executive Actions.
   </source>
         <target state="translated">Výkonná opatření jsou jednorázové akce, které mohou zasáhnout konkrétní skupinu občanů, nebo všechny občany najednou.
-  Výkonná opatření lze navrhovat ve {výkonném úřadu|ExecutiveOfficeItem} pomocí {komponenty občanské akce|Civic Action Component}. Tyto akce mají tři hlavní účinky:
+  Výkonná opatření lze navrhovat ve {výkonném úřadu|ExecutiveOfficeItem} pomocí {funkce občanské akce|Civic Action Component}. Tyto akce mají tři hlavní účinky:
  - Vyměřit jednorázovou {daň|Taxes}
  - Vyplatit občanům platbu ze {státní pokladny|TreasuryItem}
- - Změnit vlastníka existujícího {majetku|Property}
+ - Změnit vlastníka existujícího {pozemku|Property}
 
 Podle toho, jaké {občanské články|Civic Articles} jsou k dispozici, mohou tyto akce volby vyžadovat, nebo nemusejí. Některé občanské články stanoví, že výkonná opatření smějí provádět jen držitelé {volených funkcí|Elected Titles}.
   </target>
       </trans-unit>
       <trans-unit id="192" xml:space="preserve">
         <source xml:space="preserve">An action performed by a government official having effects on taxes, property, etc.</source>
-        <target state="translated">Akce vládního činitele s dopadem na daně, majetek atd.</target>
+        <target state="translated">Akce vládního činitele s dopadem na daně, pozemky atd.</target>
       </trans-unit>
       <trans-unit id="193" xml:space="preserve">
         <source xml:space="preserve">"The punishment which the wise suffer who refuse to take part in the government, is to live under the government of worse men."\n- Plato</source>
@@ -1798,7 +1798,7 @@ Daně státní pokladny
 Ve {státní pokladně|TreasuryItem} lze nastavit daně z nejrůznějších akcí:
  - Daň z prodeje.  Daň z prodeje zboží v obchodě.
  - Daň z poplatku za výrobu. Daň z poplatků vybíraných za sdílení tvého výrobního stolu.
- - Daň ze smluv. Daně z plateb uskutečněných prostřednictvím smluv a pracovních skupin.
+ - Daň ze smluv. Daně z plateb uskutečněných prostřednictvím smluv a pracovních part.
  - Daň z přímého převodu. Daně z převodů mezi hráči.
  - Daň z přímého převodu na vlastní účet. Daně z převodu na účet, k němuž máš přístup (volitelná ochrana proti obcházení daní).
 
@@ -1807,7 +1807,7 @@ Tyto sazby smí upravovat jen občan s {volenou funkcí|Elected Titles}, jemuž 
 Daně ze zákonů
 Daně lze nastavit také pomocí {zákonů|Laws}, jejichž výši i cíl lze určovat dynamicky. Lze určit i bankovní účet, na který se ukládají, takže se dají financovat konkrétní účely a prostředky uložit na bankovní účty přístupné jen omezenému počtu lidí.  Díky systému zákonů lze tyto daně velmi přesně zacílit a upravovat podle toho, jaké akce se právě dějí.
 
-Lze například vytvořit pozici volené funkce „ministr dopravy“ s výhradním přístupem na {bankovní účet|Bank Accounts} Dopravního fondu.  Pak lze vytvořit zákon, který zdaní výrobu paliva a obchod s ním, přičemž výnosy poputují do Dopravního fondu, odkud je právě zvolený ministr dopravy může použít k financování nových {pracovních skupin|Work Parties} na stavbu silnic.
+Lze například vytvořit pozici volené funkce „ministr dopravy“ s výhradním přístupem na {bankovní účet|Bank Accounts} Dopravního fondu.  Pak lze vytvořit zákon, který zdaní výrobu paliva a obchod s ním, přičemž výnosy poputují do Dopravního fondu, odkud je právě zvolený ministr dopravy může použít k financování nových {pracovních part|Work Parties} na stavbu silnic.
 </target>
       </trans-unit>
       <trans-unit id="212" xml:space="preserve">
@@ -1879,7 +1879,7 @@ Many types of power generation exist, and each has different fuel needs as well 
   </source>
         <target state="translated">Mnoho předmětů potřebuje k provozu energii a s tím, jak tvá společnost pokročí, se budou vyvíjet i druhy energie.
   
-Zpočátku bude většina energie pocházet z kalorií, které občané vydají.  Lze také postavit místní zdroje energie, například {vodní kola|Waterwheel Item}, která napájejí jen bezprostřední okolí.  Až technologie pokročí k elektřině, bude možné energii vyrábět centrálně, takže se skupiny mohou spojit a společně zásobovat města, místo aby si každý zřizoval vlastní zdroje (na komunitní projekty tohoto druhu se výborně hodí financování ze systému {daní|Taxes} a k jejich výstavbě pomohou {smlouvy|Contracts} a {pracovní skupiny|Work Parties}).
+Zpočátku bude většina energie pocházet z kalorií, které občané vydají.  Lze také postavit místní zdroje energie, například {vodní kola|Waterwheel Item}, která napájejí jen bezprostřední okolí.  Až technologie pokročí k elektřině, bude možné energii vyrábět centrálně, takže se skupiny mohou spojit a společně zásobovat města, místo aby si každý zřizoval vlastní zdroje (na komunitní projekty tohoto druhu se výborně hodí financování ze systému {daní|Taxes} a k jejich výstavbě pomohou {smlouvy|Contracts} a {pracovní party|Work Parties}).
   
 Existuje mnoho druhů výroby energie a každý má jiné nároky na palivo i jiný dopad na životní prostředí. S technologickým pokrokem se stavba, zásobování palivem a provoz elektráren mohou stát významným zdrojem {znečištění|Pollution}, a občané proto budou muset pečlivě regulovat, jaké druhy energie používají a jak naloží se znečištěním, aby zabránili ekologické katastrofě.
   </target>
@@ -1913,7 +1913,7 @@ Existuje mnoho druhů výroby energie a každý má jiné nároky na palivo i ji
       <trans-unit id="223" xml:space="preserve">
         <source xml:space="preserve">Objects can have their access rights set separately from the land they are on, to allow consumer access to objects that are on private land.  These settings are determined in an {Authorization Component}.  
 </source>
-        <target state="translated">Přístupová práva k objektům lze nastavit odděleně od pozemku, na kterém stojí, a umožnit tak spotřebitelům přístup k objektům na soukromém pozemku.  Tato nastavení se určují v {autorizační komponentě|Authorization Component}.  
+        <target state="translated">Přístupová práva k objektům lze nastavit odděleně od pozemku, na kterém stojí, a umožnit tak spotřebitelům přístup k objektům na soukromém pozemku.  Tato nastavení se určují v {autorizační funkci|Authorization Component}.  
 </target>
       </trans-unit>
       <trans-unit id="224" xml:space="preserve">
@@ -1926,7 +1926,7 @@ Existuje mnoho druhů výroby energie a každý má jiné nároky na palivo i ji
       </trans-unit>
       <trans-unit id="226" xml:space="preserve">
         <source xml:space="preserve">Citizens and governments may own property and determine the access rights of them.</source>
-        <target state="translated">Občané i vlády mohou vlastnit majetek a určovat k němu přístupová práva.</target>
+        <target state="translated">Občané i vlády mohou vlastnit pozemek a určovat k němu přístupová práva.</target>
       </trans-unit>
       <trans-unit id="227" xml:space="preserve">
         <source xml:space="preserve">Rooms are enclosed areas protected from the elements where all holes to the outside world are filled with walls, doors and windows.
@@ -1979,7 +1979,7 @@ Sewage systems are created by connecting a {MechanicalWaterPumpItem} or {Electri
 Pipes will automatically connect to any adjacent pipe block of the same type.  To make sewage systems with different pipes in close proximity, use different materials of pipes.
 </source>
         <target state="translated">
-Mnoho průmyslových a obytných objektů vyžaduje k provozu napojení na systém odpadních vod.  Obvykle to znamená, že objekt potřebuje na vstupu vodu a na výstupu odvod odpadní vody.  Každý objekt, který má {komponentu potrubí|Pipe Component}, vyžaduje připojení k systému odpadních vod.
+Mnoho průmyslových a obytných objektů vyžaduje k provozu napojení na systém odpadních vod.  Obvykle to znamená, že objekt potřebuje na vstupu vodu a na výstupu odvod odpadní vody.  Každý objekt, který má {funkci potrubí|Pipe Component}, vyžaduje připojení k systému odpadních vod.
 
 Systémy odpadních vod se vytvářejí připojením {mechanického vodního čerpadla|MechanicalWaterPumpItem} nebo {elektrického vodního čerpadla|ElectricWaterPumpItem} ke zdroji vody a následným vybudováním potrubí mezi jednotlivými objekty, které je třeba zásobovat.  Na odpadní straně potrubí odvádí odpadní vodu z objektu a buď ji vypustí do prostředí (v místě výstupu tak vzniká {znečištění|Pollution}), nebo ji zpracuje ve {filtru odpadních vod|WasteFilterItem}, který z ní vyrobí {kompost|CompostItem}.
 
@@ -1992,7 +1992,7 @@ Potrubí se automaticky napojí na každý sousední potrubní blok téhož typu
       </trans-unit>
       <trans-unit id="231" xml:space="preserve">
         <source xml:space="preserve">Components related to industry.</source>
-        <target xml:space="preserve" state="translated">Komponenty související s průmyslem.</target>
+        <target xml:space="preserve" state="translated">Funkce související s průmyslem.</target>
       </trans-unit>
       <trans-unit id="232" xml:space="preserve">
         <source xml:space="preserve">As you gain experience in Eco you will be able to unlock new specialties and new abilities within those specialties. There are two types of experience you will gain, Character Experience and Specialty Experience.  Both are increased by your Experience Multiplier.
@@ -2165,7 +2165,7 @@ V dialogu výběru dovedností vidíš rozložení specializací, které si osta
 -{OilDrillingSkill} allows citizens to use a {PumpJackItem} to collect {PetroleumItem} for use in fuel and a variety of industrial projects.
 -{ElectronicsSkill} is a high-end engineer specialty that uses expensive ingredients to produce the most advanced materials needed for modern crafting projects. In addition to this and providing a source of green electricity, electronics is used to craft the {LaserItem} needed to save the world from the meteor.
   </source>
-        <target state="translated">Inženýři využívají materiály vyrobené jinými profesemi a razí cestu technologickému pokroku. Vozidla, která vyrábějí, výrazně zvyšují možnosti obchodu i rychlost, jakou občané pracují. Výrobní stoly, které vyrábějí, používá řada profesí k výrobě špičkového zboží. Být inženýrem vyžaduje častou spolupráci s dalšími profesemi, protože inženýři nedokážou sami vyrobit základní vstupy potřebné k výrobě.
+        <target state="translated">Inženýři využívají materiály vyrobené jinými profesemi a razí cestu technologickému pokroku. Vozidla, která vyrábějí, výrazně zvyšují možnosti obchodování i rychlost, jakou občané pracují. Výrobní stoly, které vyrábějí, používá řada profesí k výrobě špičkového zboží. Být inženýrem vyžaduje častou spolupráci s dalšími profesemi, protože inženýři nedokážou sami vyrobit základní vstupy potřebné k výrobě.
   
 -{BasicEngineeringSkill} umožňuje občanům vyrábět silnice a vozíky, které pomáhají s dopravou. Základy inženýrství navíc vytvářejí výrobní stoly potřebné ke zpracování a tavení rudy.
 -{MechanicsSkill} umožňuje občanům vyrábět první motorová vozidla, například {parní nákladní vůz|SteamTruckItem}. Mechanika poskytuje první zdroj elektrické energie, který umožňuje technologický pokrok.
@@ -2302,7 +2302,7 @@ Zkušenosti v dovednosti {SelfImprovementSkill} se získávají pokaždé, když
         <source xml:space="preserve">Any object containing a Vehicle Component can be mounted and interacted with in a variety of ways, providing a number of benefits.
   
 Many vehicles require {Power|Power Component} to operate and each have their own {Storage|Storage Component}. Building infrastructure around the world will greatly enhance your {Transport} capabilites as many vehicles require roads to operate.</source>
-        <target state="translated">Na každý objekt s komponentou vozidla lze nasednout a různými způsoby s ním pracovat, což přináší řadu výhod.
+        <target state="translated">Na každý objekt s funkcí vozidla lze nasednout a různými způsoby s ním pracovat, což přináší řadu výhod.
   
 Mnoho vozidel vyžaduje k provozu {energii|Power Component} a každé má vlastní {sklad|Storage Component}. Budování infrastruktury po celém světě výrazně zlepší tvé možnosti {přepravy|Transport}, protože mnoho vozidel k provozu potřebuje silnice.</target>
       </trans-unit>
@@ -2335,7 +2335,7 @@ Different plants require different tools to harvest, such as a shovel, or a scyt
 
   </source>
         <target state="translated">
-V Eco hráči zpočátku sbírají potravu z divokých biomů kolem sebe. Rostlin vhodných k udržitelné sklizni je všude dost. Divoké zdroje potravy mohou sloužit jako doplňkový obnovitelný zdroj, ale při zneužívání se rychle vyčerpají. Některé rostliny se hodí nejen jako potrava – mohou poskytovat chemické sloučeniny, které nikde jinde nenajdeš, nebo suroviny potřebné pro textil a oblečení.
+V Eco hráči zpočátku sbírají potravu z divokých biomů kolem sebe. Rostlin vhodných k udržitelné sklizni je všude dost. Plody divočiny mohou sloužit jako doplňkový obnovitelný zdroj, ale při zneužívání se rychle vyčerpají. Některé rostliny se hodí nejen jako potrava – mohou poskytovat chemické sloučeniny, které nikde jinde nenajdeš, nebo suroviny potřebné pro textil a oblečení.
 
 Různé rostliny vyžadují k sklizni různé nástroje, například lopatu nebo kosu. Jiné druhy lze trhat holýma rukama bez nástroje. Podobně některé rostliny sklizní odumřou, zatímco jiné plody znovu vyženou, pokud dál rostou a jsou zdravé. 
 
@@ -2460,15 +2460,15 @@ As you build up your capabilities and have more needs of other citizens, you can
  </source>
         <target state="translated">Aby společnost prošla věky až na vrchol technologií, je potřeba prosperující {ekonomika|Economy Overview}. Zapojením do ní mohou občané posouvat společnost kupředu a zároveň rozvíjet vlastní schopnosti i bohatství.
  
-Do ekonomiky se zapojuješ {obchodem|Trade} se zbožím i službami.  Když najdeš existující osady s {obchody|Store Component}, {smlouvami|Contracts} a {pracovními skupinami|Work Parties}, můžeš zboží a práci, na kterou se specializuješ, vyměnit za to, v čem se specializují ostatní, a svých cílů tak dosáhnout rychleji, než kdyby každý pracoval sám.  
+Do ekonomiky se zapojuješ {obchodováním|Trade} se zbožím i službami.  Když najdeš existující osady s {obchody|Store Component}, {smlouvami|Contracts} a {pracovními partami|Work Parties}, můžeš zboží a práci, na kterou se specializuješ, vyměnit za to, v čem se specializují ostatní, a svých cílů tak dosáhnout rychleji, než kdyby každý pracoval sám.  
 Když se pustíš do nových projektů, které vyžadují materiál nebo práci, kterou neumíš vyrobit ani odvést, můžeš místo toho prodávat zboží a nabízet služby na trhu: založíš obchody a stanovíš ceny v {měně|Currency} podle vlastního výběru. Za tuto měnu pak nakoupíš zboží a služby od ostatních a ke svým cílům se dostaneš bez nutnosti učit se všechno vlastními silami.
 
-Jakmile ti porostou schopnosti a budeš víc potřebovat ostatní občany, můžeš zakládat vlastní obchody, smlouvy a pracovní skupiny a získávat tak jejich pomoc.  S rostoucím bohatstvím roste i tvá schopnost prosazovat změny (k lepšímu i k horšímu).
+Jakmile ti porostou schopnosti a budeš víc potřebovat ostatní občany, můžeš zakládat vlastní obchody, smlouvy a pracovní party a získávat tak jejich pomoc.  S rostoucím bohatstvím roste i tvá schopnost prosazovat změny (k lepšímu i k horšímu).
  </target>
       </trans-unit>
       <trans-unit id="279" xml:space="preserve">
         <source xml:space="preserve">The most efficient way to progress in knowledge and technology is trade within the economy.</source>
-        <target state="translated">Nejúčinnější cesta k pokroku ve znalostech a technologiích je obchod v rámci ekonomiky.</target>
+        <target state="translated">Nejúčinnější cesta k pokroku ve znalostech a technologiích je obchodování v rámci ekonomiky.</target>
       </trans-unit>
       <trans-unit id="280" xml:space="preserve">
         <source xml:space="preserve">While a functioning society is necessary to stop the meteor, each individual must have their own needs met, starting with food and shelter.
@@ -2631,12 +2631,12 @@ Všechny nástroje mají svou životnost, která se používáním snižuje.  Ja
 The My Deeds Component allows citizens to view and manage all {Property} that they own, providing an interface to access them easily.
   </source>
         <target state="translated">
-Komponenta mého vlastnictví umožňuje občanům prohlížet a spravovat veškerý {majetek|Property}, který vlastní, a poskytuje rozhraní pro snadný přístup k němu.
+Funkce mého vlastnictví umožňuje občanům prohlížet a spravovat všechny {pozemky|Property}, které vlastní, a poskytuje rozhraní pro snadný přístup k němu.
   </target>
       </trans-unit>
       <trans-unit id="301" xml:space="preserve">
         <source xml:space="preserve">Allows citizens to see view and manage all property they own.</source>
-        <target state="translated">Umožňuje občanům prohlížet a spravovat veškerý majetek, který vlastní.</target>
+        <target state="translated">Umožňuje občanům prohlížet a spravovat všechny pozemky, které vlastní.</target>
       </trans-unit>
       <trans-unit id="302" xml:space="preserve">
         <source xml:space="preserve">
@@ -2647,7 +2647,7 @@ Text can be useful for giving directions, advertising, or just writing a friendl
 For those familar with text markup, a variety of tags may be used to alter the size, color, and formatting of text.
 </source>
         <target state="translated">
-Textovou komponentu najdeš na cedulích, na {vozidlech|Vehicle Component} a na {distribuční stanici|Item Distribution Component}.
+Textovou funkci najdeš na cedulích, na {vozidlech|Vehicle Component} a na {distribuční stanici|Item Distribution Component}.
   
 Text se hodí k vyznačení směru, k reklamě nebo jen k přátelskému pozdravu.
 
@@ -2797,7 +2797,7 @@ The buildings containing civic objects must remain placed and active for the civ
         <target state="translated">
 Kliknutím na tlačítko „Koncept“ může občan navrhnout nový občanský objekt. Nový koncept občanského objektu lze také zahájit kliknutím na tlačítko „Kopírovat“, které se objeví po najetí na ikonu. Otevře se dialog, v němž můžeš jako základ vybrat libovolný občanský objekt (minulý i současný). 
 
-Navštívíš-li komponentu občanského objektu na vládní budově, která už nějaké občanské objekty obsahuje, můžeš tyto politiky měnit nebo rušit. Chceš-li občanský objekt zrušit, klikni na červené „X“, které se objeví po najetí myší na ikonu.  Chceš-li stávající objekt změnit, klikni na tlačítko „Revidovat“ v rozhraní.
+Navštívíš-li funkci občanského objektu na vládní budově, která už nějaké občanské objekty obsahuje, můžeš tyto politiky měnit nebo rušit. Chceš-li občanský objekt zrušit, klikni na červené „X“, které se objeví po najetí myší na ikonu.  Chceš-li stávající objekt změnit, klikni na tlačítko „Revidovat“ v rozhraní.
 
 Budovy, které občanské objekty obsahují, musí zůstat umístěné a aktivní, aby občanský objekt zůstal v platnosti. Pokud je vládní budova sebrána, všechny občanské objekty v ní se sebou odnesou a nakonec se vypnou, pokud budova nebude vrácena na místo.
 	</target>
@@ -2827,16 +2827,16 @@ Citizens can quickly rename their deeds, choose a color for that property on the
 A useful feature of this component is the ability to quickly move plots of property from one deed to another. This includes the option to create a new deed to split an existing piece of property.
 </source>
         <target state="translated">
-K této komponentě se dostaneš z {realitního stolu|RealEstateDeskItem}. Nabízí odkazy na všechny jednotlivé listy vlastnictví, které jsou jinak dostupné interakcí s {nástrojem pro zábor|ClaimToolItem} na listu vlastnictví, který občan vlastní.
+K této funkci se dostaneš z {realitního stolu|RealEstateDeskItem}. Nabízí odkazy na všechny jednotlivé listy vlastnictví, které jsou jinak dostupné interakcí s {nástrojem pro zábor|ClaimToolItem} na listu vlastnictví, který občan vlastní.
 
-Občané mohou rychle přejmenovat své listy vlastnictví, zvolit barvu daného pozemku na minimapě nebo udělit práva spotřebitele jiným občanům; to vše se jinak obvykle dělá přes {autorizační komponentu|Authorization Component}.
+Občané mohou rychle přejmenovat své listy vlastnictví, zvolit barvu daného pozemku na minimapě nebo udělit práva spotřebitele jiným občanům; to vše se jinak obvykle dělá přes {autorizační funkci|Authorization Component}.
 
-Užitečnou funkcí této komponenty je možnost rychle přesouvat parcely z jednoho listu vlastnictví na jiný. Patří sem i možnost vytvořit nový list vlastnictví a stávající pozemek tak rozdělit.
+Užitečnou funkcí této funkce je možnost rychle přesouvat parcely z jednoho listu vlastnictví na jiný. Patří sem i možnost vytvořit nový list vlastnictví a stávající pozemek tak rozdělit.
 </target>
       </trans-unit>
       <trans-unit id="323" xml:space="preserve">
         <source xml:space="preserve">The Text Component allows a citizen to write text that is displayed on a world object for other citizens to read.</source>
-        <target state="translated">Textová komponenta umožňuje občanovi napsat text, který se zobrazí na objektu ve světě, aby si ho mohli přečíst ostatní občané.</target>
+        <target state="translated">Textová funkce umožňuje občanovi napsat text, který se zobrazí na objektu ve světě, aby si ho mohli přečíst ostatní občané.</target>
       </trans-unit>
       <trans-unit id="324" xml:space="preserve">
         <source xml:space="preserve">Pipe Requirements</source>
@@ -2851,7 +2851,7 @@ Some objects require all three uses of pipes to have an active {Status|Status Co
 By holding the mouse over the display for one of the pipes, a tooltip appears with more information about why a pipe is or isn't active.
   </source>
         <target state="translated">
-Po otevření komponenty potrubí se zobrazí různé vstupy a výstupy potrubí, které představují požadavky na potrubí. Objekty s touto komponentou musí splňovat všechny požadavky na potrubí, aby byly aktivní.
+Po otevření funkce potrubí se zobrazí různé vstupy a výstupy potrubí, které představují požadavky na potrubí. Objekty s touto funkcí musí splňovat všechny požadavky na potrubí, aby byly aktivní.
 
 Některé objekty vyžadují, aby všechna tři použití potrubí měla aktivní {stav|Status Component}, jiné vyžadují jen některá. Každý potrubní systém lze využít jen pro jedno ze tří použití.
 
@@ -3026,11 +3026,11 @@ The {Tailor} specializes in making high end furniture and specialized clothing t
       </trans-unit>
       <trans-unit id="344" xml:space="preserve">
         <source xml:space="preserve">A general overview of the current economy that contains information such as available trades, work parties, and contracts.</source>
-        <target state="translated">Obecný přehled současné ekonomiky s informacemi, jako jsou dostupné obchodní nabídky, pracovní skupiny a smlouvy.</target>
+        <target state="translated">Obecný přehled současné ekonomiky s informacemi, jako jsou dostupné obchodní nabídky, pracovní party a smlouvy.</target>
       </trans-unit>
       <trans-unit id="345" xml:space="preserve">
         <source xml:space="preserve">The Economy Viewer provides a general overview of the current economy and is an incredibly useful tool for economic participation. Among other users, the Economy Viewer shows the location of every {StoreItem} and what is currently being bought and sold.</source>
-        <target state="translated">Prohlížeč ekonomiky poskytuje obecný přehled o současné ekonomice a je neuvěřitelně užitečným nástrojem pro zapojení do ekonomiky. Mimo jiné ukazuje polohu každého {obchodu|StoreItem} i to, co se právě kupuje a prodává.</target>
+        <target state="translated">Ekonomický panel poskytuje obecný přehled o současné ekonomice a je neuvěřitelně užitečným nástrojem pro zapojení do ekonomiky. Mimo jiné ukazuje polohu každého {obchodu|StoreItem} i to, co se právě kupuje a prodává.</target>
       </trans-unit>
       <trans-unit id="346" xml:space="preserve">
         <source xml:space="preserve">
@@ -3045,24 +3045,24 @@ The Economy Viewer provides detailed information about the following:
 In addition, the Economy Viewer allows citizens to directly transfer currency to other citizens and quickly check the status of their own {Bank Accounts} and any outstanding debts.
    </source>
         <target state="translated">
-Prohlížeč ekonomiky poskytuje podrobné informace o těchto věcech:
+Ekonomický panel poskytuje podrobné informace o těchto věcech:
 
    - Aktuální {nabídky obchodu|Trade}
-   - Existující {pracovní skupiny|Work Parties} a jejich stav
+   - Existující {pracovní party|Work Parties} a jejich stav
    - Všechny zveřejněné {smlouvy|Contracts}
    - Umístění {veřejných výrobních stanic|Crafting Component}
    - Informace o stávajících {měnách|Currency}
 
-Prohlížeč ekonomiky navíc umožňuje občanům posílat peníze přímo jiným občanům a rychle zkontrolovat stav vlastních {bankovních účtů|Bank Accounts} a případných nesplacených dluhů.
+Ekonomický panel navíc umožňuje občanům posílat peníze přímo jiným občanům a rychle zkontrolovat stav vlastních {bankovních účtů|Bank Accounts} a případných nesplacených dluhů.
    </target>
       </trans-unit>
       <trans-unit id="347" xml:space="preserve">
         <source xml:space="preserve">Accessing the Economy Viewer</source>
-        <target state="translated">Přístup k prohlížeči ekonomiky</target>
+        <target state="translated">Přístup k ekonomickému panelu</target>
       </trans-unit>
       <trans-unit id="348" xml:space="preserve">
         <source xml:space="preserve">The Economy Viewer can be accessed by clicking the Economy button located at the bottom right of the screen.</source>
-        <target state="translated">Prohlížeč ekonomiky otevřeš kliknutím na tlačítko „Ekonomika“ vpravo dole na obrazovce.</target>
+        <target state="translated">Ekonomický panel otevřeš kliknutím na tlačítko „Ekonomika“ vpravo dole na obrazovce.</target>
       </trans-unit>
       <trans-unit id="349" xml:space="preserve">
         <source xml:space="preserve">Feeding the World
@@ -3109,7 +3109,7 @@ Když se občan stane obyvatelem pozemku, získá zvláštní sadu oprávnění 
 Pronájem
 Po pozvání obyvatel lze listy vlastnictví nabídnout k pronájmu, aby mezi občany mohly vzniknout dohody o automatickém výběru nájemného. Když si nájemník pozemek pronajme, získá na listu vlastnictví bydliště a dostane všechny související bonusy za bydlení i oprávnění. Při nabídce pozemku k pronájmu se stanoví hodinová sazba a volitelný poplatek za nastěhování. Dohodu lze upravit tak, aby určovala, zda se platí i hodiny, kdy je nájemník offline.
 
-Pozemky k pronájmu najdeš v {Prohlížeči ekonomiky|Economy Viewer}. Po přijetí bude mít nájemné pevnou sazbu, dokud jedna ze stran dohodu o pronájmu neukončí.
+Pozemky k pronájmu najdeš v {Ekonomickém panelu|Economy Viewer}. Po přijetí bude mít nájemné pevnou sazbu, dokud jedna ze stran dohodu o pronájmu neukončí.
 </target>
       </trans-unit>
       <trans-unit id="353" xml:space="preserve">
@@ -3133,12 +3133,12 @@ Pozemky k pronájmu najdeš v {Prohlížeči ekonomiky|Economy Viewer}. Po přij
 Stacks of identical items can be quickly consolidated and sorted by pressing the consolidate button found at the bottom right of the Storage Component. In addition, storages can be filtered to only display certain types items by using the item selector or simply typing of the name of the item.
   </source>
         <target state="translated">
-Hromady stejných předmětů lze rychle sloučit a seřadit stisknutím tlačítka „Sloučit“ vpravo dole v komponentě skladu. Sklady lze navíc filtrovat, aby zobrazovaly jen určité druhy předmětů, a to výběrem předmětu nebo prostým napsáním jeho názvu.
+Hromady stejných předmětů lze rychle sloučit a seřadit stisknutím tlačítka „Sloučit“ vpravo dole ve funkci skladu. Sklady lze navíc filtrovat, aby zobrazovaly jen určité druhy předmětů, a to výběrem předmětu nebo prostým napsáním jeho názvu.
   </target>
       </trans-unit>
       <trans-unit id="357" xml:space="preserve">
         <source xml:space="preserve">Trade between citizens of different abilities and possessing different goods is the backbone of the economy.</source>
-        <target state="translated">Obchod mezi občany s různými schopnostmi a různým zbožím je páteří ekonomiky.</target>
+        <target state="translated">Obchodování mezi občany s různými schopnostmi a různým zbožím je páteří ekonomiky.</target>
       </trans-unit>
       <trans-unit id="358" xml:space="preserve">
         <source xml:space="preserve">Trade with your fellow citizens is essential in Eco, as each player has a set of {Specialties} that they can contribute to most effectively while trading with other citizens who are skilled in professions in which they are not. 
@@ -3149,13 +3149,13 @@ Hromady stejných předmětů lze rychle sloučit a seřadit stisknutím tlačí
  - Trade is facilitated by {Transport} and building transportation infrastructure between the burgeoning hubs of your civilization will greatly promote the ability to trade.
  - Trade is subject to {Taxes}, set by the {Government|Government Overview}, which can either promote or reduce the value of certain trades.
 </source>
-        <target state="translated">Obchod s ostatními občany je v Eco nezbytný: každý hráč má svou sadu {specializací|Specialties}, v nichž může přispět nejvíc, a v ostatních profesích se spoléhá na občany, kteří je ovládají.
+        <target state="translated">Obchodování s ostatními občany je v Eco nezbytné: každý hráč má svou sadu {specializací|Specialties}, v nichž může přispět nejvíc, a v ostatních profesích se spoléhá na občany, kteří je ovládají.
 
- - Obchody lze zřídit v {komponentě obchodu|Store Component}, kde uvedeš nákupní a prodejní ceny různého zboží, o které máš zájem.  Občané pak s tebou mohou obchodovat asynchronně, tedy kupovat od tebe zboží i prodávat ti ho bez tvé přítomnosti.
- - Obchod s prací může probíhat prostřednictvím {smluv|Contracts} a {pracovních skupin|Work Parties}, v nichž hráči vykonávají práci za odměnu za předem dohodnutých podmínek.  I to lze dělat asynchronně.
+ - Obchody lze zřídit ve {funkci obchodu|Store Component}, kde uvedeš nákupní a prodejní ceny různého zboží, o které máš zájem.  Občané pak s tebou mohou obchodovat i bez tvé přítomnosti: kupovat od tebe zboží a prodávat ti ho, i když jsi zrovna offline.
+ - Obchodování s prací může probíhat prostřednictvím {smluv|Contracts} a {pracovních part|Work Parties}, v nichž hráči vykonávají práci za odměnu za předem dohodnutých podmínek.  I to lze dělat bez toho, aby byli všichni zároveň online.
  - S měnami se obchoduje ve {směnárně|Exchange Component}, kde se uvádějí nákupní a prodejní kurzy pro výměnu různých měn.
- - {Přeprava|Transport} obchod usnadňuje a výstavba dopravní infrastruktury mezi rostoucími centry tvé civilizace ho výrazně podpoří.
- - Obchod podléhá {daním|Taxes}, které stanovuje {vláda|Government Overview} a které mohou hodnotu určitých obchodů zvýšit, nebo snížit.
+ - {Přeprava|Transport} obchodování usnadňuje a výstavba dopravní infrastruktury mezi rostoucími centry tvé civilizace ho výrazně podpoří.
+ - Obchodování podléhá {daním|Taxes}, které stanovuje {vláda|Government Overview} a které mohou hodnotu určitých obchodů zvýšit, nebo snížit.
 </target>
       </trans-unit>
       <trans-unit id="359" xml:space="preserve">
@@ -3339,7 +3339,7 @@ Pozor, záleží na typu osady: osada může anektovat jen osady nižšího typu
     - Účastníci z více osad. Hostina, jíž se zúčastní občané bez osady nebo všichni z jediné osady, vytvoří jen málo kultury. Chceš-li získat výrazný bonus za hostinu, musí se jí zúčastnit občané z více osad.
     - Průměrná výživa. Průměrná nutriční hodnota jídla se převede na body kultury pomocí násobiče (viz níže).
     - Chutnější jídlo. Hodnota každého chodu závisí na individuálních chuťových bonusech daného občana: čím chutnější mu jídlo připadá, tím větší je bonus.
-    - Lepší místo konání. Maximální bonus určuje hodnota majetku na listu vlastnictví, na němž se hostina koná.
+    - Lepší místo konání. Maximální bonus určuje hodnota pozemku na listu vlastnictví, na němž se hostina koná.
   </target>
       </trans-unit>
       <trans-unit id="384" xml:space="preserve">
@@ -3354,8 +3354,8 @@ Pozor, záleží na typu osady: osada může anektovat jen osady nižšího typu
 </source>
         <target state="translated">
  - Osobní bonus výživy: Tvůj násobič výživy se zvýší podle nedávných hostin s tvou účastí.
- - Bonus kultury osady: Osada získá celkovou kulturu podle hostin pořádaných na majetku osady.
- - Bonus vlivu osady: Pokud se hostina koná na majetku typu „Kulturní“, přičte se její hodnota kultury k celkové hodnotě kultury, a tím se zvýší i vliv osady.
+ - Bonus kultury osady: Osada získá celkovou kulturu podle hostin pořádaných na pozemku osady.
+ - Bonus vlivu osady: Pokud se hostina koná na pozemku typu „Kulturní“, přičte se její hodnota kultury k celkové hodnotě kultury, a tím se zvýší i vliv osady.
 </target>
       </trans-unit>
       <trans-unit id="386" xml:space="preserve">
@@ -3427,11 +3427,11 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
         <target state="translated">
     - {Founding} – Více občanů se může spojit a založit novou osadu.
     - {Citizenship} – Občanům lze udělit zvláštní práva a výsady a občanství v osadě zvyšuje její moc.
-    - {Influence} – Osady působí vlivem v okruhu kolem určitých budov; uvnitř něj se prosazují zákony a pravidla týkající se majetku.
-    - {Settlement Property} – Čím víc občanů osada má, tím víc majetku lze zabrat.
+    - {Influence} – Osady působí vlivem v okruhu kolem určitých budov; uvnitř něj se prosazují zákony a pravidla týkající se pozemku.
+    - {Settlement Property} – Čím víc občanů osada má, tím víc pozemku lze zabrat.
     - {Culture} – Kultura umožňuje osadám působit vlivem na sousední osady, což může vést k jejich anexi.
     - {Annexation} – Osady mohou převzít jiné osady nebo usedlosti, pokud je jejich úroveň kultury dostatečně vysoká.
-    - {Property Crisis} – Pokud osada přijde o občany, nemusí být schopna udržet majetek, který už zabrala.
+    - {Property Crisis} – Pokud osada přijde o občany, nemusí být schopna udržet pozemek, který už zabrala.
   </target>
       </trans-unit>
       <trans-unit id="415" xml:space="preserve">
@@ -3443,7 +3443,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
         <target state="translated">
-    Občanství je členství v osadě, které poskytuje občanské pravomoci. Čím víc občanů osada má, tím víc {majetku osady|Settlement Property} může zabrat.
+    Občanství je členství v osadě, které poskytuje občanské pravomoci. Čím víc občanů osada má, tím víc {pozemku osady|Settlement Property} může zabrat.
 
     Každá osada může udělovat občanství seznamu osob na záložce {CitizenRosterComponent} objektu založení.   O občanství tu mohou zažádat i lidé, kteří občany nejsou; žádost musí schválit schvalovatel, kterého určuje nastavení {imigrační politiky|Immigration Policy} (ve výchozím stavu vůdce osady).  Všichni občané dceřiných osad se navíc automaticky stávají občany mateřské osady (tj. občané každého města jsou zároveň občany své země).
 
@@ -3468,7 +3468,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
       </trans-unit>
       <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
-        <target state="translated">Založená osada vytváří pro svůj majetek výchozí množství kultury. Toto množství je konstantní a zajišťuje základní úroveň vlivu.  Ke zvýšení kultury a k získání kultury z dalšího majetku je třeba využít jiné zdroje.</target>
+        <target state="translated">Založená osada vytváří pro svůj pozemek výchozí množství kultury. Toto množství je konstantní a zajišťuje základní úroveň vlivu.  Ke zvýšení kultury a k získání kultury z dalšího pozemku je třeba využít jiné zdroje.</target>
       </trans-unit>
       <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
@@ -3481,9 +3481,9 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
         <target state="translated">
-    Když občané použijí {EaselItem}, {HandheldCameraItem} nebo {TripodCameraItem} k vytvoření obrázku, lze tyto obrázky vystavit v rámu na zdi a přidat tak majetku body kultury. Množství kultury závisí na reputaci obrázku i umělce a diváci jsou vyzváni, aby zobrazené obrázky hodnotili, čímž jim dodají další reputaci. S růstem těchto hodnot se vytváří víc kultury, až do určitého limitu.  Bonus kultury od občanů ze stejné osady je však snížen o 90 %, takže většina hodnoty pochází od občanů jiných osad, kteří šíří reputaci díla. Vyplatí se proto získat reputaci v jedné osadě, dílo pak prodat nebo předat do jiné osady, kde bude mít mnohem větší hodnotu, protože pochází z jiného místa.
+    Když občané použijí {EaselItem}, {HandheldCameraItem} nebo {TripodCameraItem} k vytvoření obrázku, lze tyto obrázky vystavit v rámu na zdi a přidat tak pozemku body kultury. Množství kultury závisí na reputaci obrázku i umělce a diváci jsou vyzváni, aby zobrazené obrázky hodnotili, čímž jim dodají další reputaci. S růstem těchto hodnot se vytváří víc kultury, až do určitého limitu.  Bonus kultury od občanů ze stejné osady je však snížen o 90 %, takže většina hodnoty pochází od občanů jiných osad, kteří šíří reputaci díla. Vyplatí se proto získat reputaci v jedné osadě, dílo pak prodat nebo předat do jiné osady, kde bude mít mnohem větší hodnotu, protože pochází z jiného místa.
 
-    V jedné galerii platí pro vystavování obrázků od stejného umělce na majetku jako celku klesající výnosy.  Tomu se vyhneš, když místo toho vystavíš sbírku od mnoha umělců.
+    V jedné galerii platí pro vystavování obrázků od stejného umělce na pozemku jako celku klesající výnosy.  Tomu se vyhneš, když místo toho vystavíš sbírku od mnoha umělců.
   </target>
       </trans-unit>
       <trans-unit id="422" xml:space="preserve">
@@ -3511,7 +3511,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
 </source>
         <target state="translated">Občan, který umístí objekt založení, se stane prvním vůdcem města a získá některé zvláštní výsady, ale tato pozice se může časem měnit podle pravidel vlády.
 
-    Po umístění se parcela pod objektem zabere jako majetek nové osady a vlastnictví se přiřadí vůdci.  Další parcely lze zabrat pomocí {nástroje pro zábor|ClaimToolItem} (klikni na předmět pravým tlačítkem a jako cíl vyber list vlastnictví osady).  Díky tomu můžeš zabrat půdu kolem objektu založení a postavit místnost, která splňuje požadavky.
+    Po umístění se parcela pod objektem zabere jako pozemek nové osady a vlastnictví se přiřadí vůdci.  Další parcely lze zabrat pomocí {nástroje pro zábor|ClaimToolItem} (klikni na předmět pravým tlačítkem a jako cíl vyber list vlastnictví osady).  Díky tomu můžeš zabrat půdu kolem objektu založení a postavit místnost, která splňuje požadavky.
 
     Osady potřebují minimální počet občanů, minimální počet dceřiných osad (tj. země potřebuje ke vzniku určitý počet měst, která do ní patří) a minimální úroveň kultury ve všech dceřiných osadách.  U osady nejnižší úrovně, tedy města, se kultura ani dceřiné osady nevyžadují (město nemůže mít dceřiné osady, protože je nejnižší).  Na záložce „Občané“ objektu založení může vůdce zvát občany a schvalovat žadatele; ostatní lidé, kteří občany nejsou, mohou pozvání přijmout nebo o občanství požádat.
 </target>
@@ -3533,11 +3533,11 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
         <target state="translated">
     Jakmile jsou splněny všechny požadavky, mohou začít volby o ratifikaci {ústavy|Constitution} osady.  Na záložce „Ústava“ můžeš ústavu nastavit, jak chceš, a navrhnout si vládu podle svých představ (viz průvodce ústavou). Jakmile spustíš hlasování, budou o ní moci hlasovat všichni současní občané osady.  Pokud neprojde, můžeš ji upravit a zkusit to znovu.
 
-    Chceš-li, můžeš k počátečnímu založení osady přidat i další občanské prvky; například umístěním soudu na počáteční majetek osady můžeš vytvořit zákony spojené s osadou a zařadit je do stejných voleb jako ratifikaci ústavy. Tímto způsobem můžeš do jedněch voleb zabalit libovolný počet občanských objektů, pokud chceš začít s vládou už plně vytvořenou.  Pokud ne, můžeš je vždy přidat později v dalších volbách.
+    Chceš-li, můžeš k počátečnímu založení osady přidat i další občanské prvky; například umístěním soudu na počáteční pozemek osady můžeš vytvořit zákony spojené s osadou a zařadit je do stejných voleb jako ratifikaci ústavy. Tímto způsobem můžeš do jedněch voleb zabalit libovolný počet občanských objektů, pokud chceš začít s vládou už plně vytvořenou.  Pokud ne, můžeš je vždy přidat později v dalších volbách.
 
     Jakmile jsou splněny všechny požadavky a ústava je ratifikována, osada je připravena k založení!  Kliknutím na tlačítko na záložce „Založení“ objektu založení spustíš slavnostní odhalení, kterého se mohou zúčastnit všichni tví občané a oslavit vznik nové osady.
 
-    Po založení začne tvá osada působit {vlivem|Influence}, vytvářet {majetek osady|Settlement Property} a získávat {kulturu|Culture}.
+    Po založení začne tvá osada působit {vlivem|Influence}, vytvářet {pozemek osady|Settlement Property} a získávat {kulturu|Culture}.
   </target>
       </trans-unit>
       <trans-unit id="428" xml:space="preserve">
@@ -3593,11 +3593,11 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
         <target state="translated">
-    Vliv lze rozšířit pomocí {kultury|Culture}. Čím vyšší je úroveň kultury majetku, tím větší vliv vytváří pro vlastnící osadu. Díky tomu můžeš rozšiřovat hranice zvyšováním kultury nebo vytvářením nových kulturních nemovitostí. Počet kulturních nemovitostí i maximální dosah vlivu jsou však omezené, takže hranice nelze rozšiřovat donekonečna. S každým zvýšením úrovně osady se zvětší možný dosah vlivu a lze vytvořit víc kulturních nemovitostí.
+    Vliv lze rozšířit pomocí {kultury|Culture}. Čím vyšší je úroveň kultury pozemku, tím větší vliv vytváří pro vlastnící osadu. Díky tomu můžeš rozšiřovat hranice zvyšováním kultury nebo vytvářením nových kulturních nemovitostí. Počet kulturních nemovitostí i maximální dosah vlivu jsou však omezené, takže hranice nelze rozšiřovat donekonečna. S každým zvýšením úrovně osady se zvětší možný dosah vlivu a lze vytvořit víc kulturních nemovitostí.
     
-    Vliv se šíří z váženého průměru poloh místností na majetku; váhou je hodnota majetku každé místnosti.  
+    Vliv se šíří z váženého průměru poloh místností na pozemku; váhou je hodnota pozemku každé místnosti.  
 
-    {Usedlosti|HomesteadClaimStakeObject} jsou majetek pro jednoho člověka, který je přidružen k osadě, jejímž občanem je jeho vlastník. Pokud vlastník není občanem žádné osady, nebude ho ovlivňovat žádná. Když se občané vzdají občanství, může to ve vlivu města vytvořit díry, silná osada však může tento majetek násilně zabrat v procesu {anexe|Annexation}.
+    {Usedlosti|HomesteadClaimStakeObject} jsou pozemek pro jednoho člověka, který je přidružen k osadě, jejímž občanem je jeho vlastník. Pokud vlastník není občanem žádné osady, nebude ho ovlivňovat žádná. Když se občané vzdají občanství, může to ve vlivu města vytvořit díry, silná osada však může tento pozemek násilně zabrat v procesu {anexe|Annexation}.
   </target>
       </trans-unit>
       <trans-unit id="435" xml:space="preserve">
@@ -3644,23 +3644,23 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
         <target state="translated">
-    K majetkové krizi dojde, když počet občanů v osadě klesne natolik, že už nestačí k udržení používaných záborových kolíků a záborových listin.
+    K pozemkové krizi dojde, když počet občanů v osadě klesne natolik, že už nestačí k udržení používaných záborových kolíků a záborových listin.
     
-    Osady vytvářejí záborové kolíky a listiny, když se připojují občané, a odstraňují je, když odcházejí. Pokud tedy občané odejdou a v objektu založení osady nejsou žádné volné kolíky ani listiny, které by šlo odstranit, může vzniknout majetková krize.  V takovém případě se spustí časovač a do jeho konce musí občané vrátit potřebný počet kolíků a listin do objektu založení, ať už uvolněním záboru, nebo jejich sebráním jakkoli jinak.  Když se během majetkové krize kolíky a listiny vloží do objektu založení, okamžitě se odstraní, a pokud je nedostatek vyrovnán, krize okamžitě skončí.
+    Osady vytvářejí záborové kolíky a listiny, když se připojují občané, a odstraňují je, když odcházejí. Pokud tedy občané odejdou a v objektu založení osady nejsou žádné volné kolíky ani listiny, které by šlo odstranit, může vzniknout pozemková krize.  V takovém případě se spustí časovač a do jeho konce musí občané vrátit potřebný počet kolíků a listin do objektu založení, ať už uvolněním pozemků, nebo jejich sebráním jakkoli jinak.  Když se během pozemkové krize kolíky a listiny vloží do objektu založení, okamžitě se odstraní, a pokud je nedostatek vyrovnán, krize okamžitě skončí.
 
-    Pokud občané nemohou nebo nechtějí potřebné kolíky a listiny před vypršením časovače vrátit, zničí se, ať jsou kdekoli. Jakmile se majetková krize vyřeší, dojde k těmto zabavením:
+    Pokud občané nemohou nebo nechtějí potřebné kolíky a listiny před vypršením časovače vrátit, zničí se, ať jsou kdekoli. Jakmile se pozemková krize vyřeší, dojde k těmto zabavením:
     - Nejprve se zničí listiny a kolíky, které se nepoužívají (leží třeba v batohu občana).
     - Poté se zničí kolíky a listiny, které se používají, pokud nedostatek stále není vyrovnán.
     V obou krocích se jako první ničí záborové kolíky a listiny patřící opuštěným občanům.
 
     Je velmi důležité, aby osady počet svých občanů pečlivě hlídaly a předešly nedostatku. Je rozumné část kolíků a listin držet v rezervě a hned je nevyužívat, případně zareagovat už ve chvíli, kdy občané začnou odcházet.
 
-    Občané, kteří přejdou do {demografické skupiny|Demographic} Opuštění, také přestanou přispívat k počtu vytvářených kolíků a listin, což může rovněž vést k majetkové krizi.
+    Občané, kteří přejdou do {demografické skupiny|Demographic} Opuštění, také přestanou přispívat k počtu vytvářených kolíků a listin, což může rovněž vést k pozemkové krizi.
   </target>
       </trans-unit>
       <trans-unit id="440" xml:space="preserve">
         <source xml:space="preserve">Property Crisis Settings</source>
-        <target state="translated">Nastavení majetkové krize</target>
+        <target state="translated">Nastavení pozemkové krize</target>
       </trans-unit>
       <trans-unit id="441" xml:space="preserve">
         <source xml:space="preserve">
@@ -3671,24 +3671,24 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
         <target state="translated">
-    Čím víc občanů se do osady připojí, tím víc {majetku|Property} lze zabrat pomocí záborových kolíků a záborových listin patřících k osadě.
+    Čím víc občanů se do osady připojí, tím víc {pozemku|Property} lze zabrat pomocí záborových kolíků a záborových listin patřících k osadě.
 
-    Osada tyto předměty vytváří podle své úrovně, přičemž záborové kolíky mají varianty {TownClaimStakeItem}, {CountryClaimStakeItem} a {FederationClaimStakeItem}.  Zabírají majetek jménem osady, ke které patří, a lze je posílit pomocí {záborových listin|ClaimPaperItem}, aby zabíraly víc parcel – stačí je vložit do inventáře záborového kolíku.
+    Osada tyto předměty vytváří podle své úrovně, přičemž záborové kolíky mají varianty {TownClaimStakeItem}, {CountryClaimStakeItem} a {FederationClaimStakeItem}.  Zabírají pozemek jménem osady, ke které patří, a lze je posílit pomocí {záborových listin|ClaimPaperItem}, aby zabíraly víc parcel – stačí je vložit do inventáře záborového kolíku.
 
-    Pokud občané odejdou, sníží se nejvyšší povolený počet záborových listin a kolíků a odeberou se z inventáře objektu založení. Pokud jsou všechny v používání a nelze je vrátit, nastane {majetková krize|Property Crisis}.
+    Pokud občané odejdou, sníží se nejvyšší povolený počet záborových listin a kolíků a odeberou se z inventáře objektu založení. Pokud jsou všechny v používání a nelze je vrátit, nastane {pozemková krize|Property Crisis}.
   </target>
       </trans-unit>
       <trans-unit id="442" xml:space="preserve">
         <source xml:space="preserve">Homestead Support Claims</source>
-        <target state="translated">Podpůrné zábory pro usedlosti</target>
+        <target state="translated">Záborové listiny pro usedlosti</target>
       </trans-unit>
       <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target state="translated">Osady také vytvářejí {podpůrné záborové listiny pro usedlosti|HomesteadSupportClaimPaperItem}, které lze darovat nebo prodat lidem, kteří nejsou občany. Díky nim mohou usedlosti bez přidružené osady zabírat další parcely kdekoli na mapě.  Většinou je u měst z celého světa vyhledávají farmáři z odlehlých, izolovaných oblastí, kteří chtějí větší farmy – výměnou za jídlo nebo práci.  Představují podporu osady uplatněnou na ochranu majetku mimo osadu.</target>
+        <target state="translated">Osady také vytvářejí {podpůrné záborové listiny pro usedlosti|HomesteadSupportClaimPaperItem}, které lze darovat nebo prodat lidem, kteří nejsou občany. Díky nim mohou usedlosti bez přidružené osady zabírat další parcely kdekoli na mapě.  Většinou je u měst z celého světa vyhledávají farmáři z odlehlých, izolovaných oblastí, kteří chtějí větší farmy – výměnou za jídlo nebo práci.  Představují podporu osady uplatněnou na ochranu pozemku mimo osadu.</target>
       </trans-unit>
       <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
-        <target state="translated">Nastavení majetku osady</target>
+        <target state="translated">Nastavení pozemku osady</target>
       </trans-unit>
       <trans-unit id="445" xml:space="preserve">
         <source xml:space="preserve">The Four Layers</source>
@@ -3709,9 +3709,9 @@ Znečištění půdy je odpad každodenního života: {MixedGarbageItem}, odpadk
 
 Znečištění těžkými minerály pochází z hornictví a zpracování minerálů, především z {hlušiny|TailingsItem} a {mokré hlušiny|WetTailingsItem}. Samo se čistí jen do 100 %. Nad tuto hodnotu je půda nasycená a sama se už nikdy nezotaví.
 
-Chemické znečištění je znamením těžkého průmyslu; vzniká z {chemického odpadu|ChemicalWasteItem} a z chemických vedlejších produktů pokročilé výroby. Je zdaleka nejméně odpouštějící: samo se čistí jen do pouhých 30 %. Nech zábor vystoupat nad tuto hodnotu a zůstane otrávený, dokud ho neošetříš.
+Chemické znečištění je znamením těžkého průmyslu; vzniká z {chemického odpadu|ChemicalWasteItem} a z chemických vedlejších produktů pokročilé výroby. Je zdaleka nejméně odpouštějící: samo se čistí jen do pouhých 30 %. Nech pozemek vystoupat nad tuto hodnotu a zůstane otrávený, dokud ho neošetříš.
 
-Znečištění kyselým deštěm je jediná vrstva, kterou nikdy nevyhazuješ: ta padá. Kde se znečištěné ovzduší setká s deštěm, vzniká kyselý déšť a usazuje se v půdě pod ním. Jak moc se zábor okyselí, závisí na tom, kolik vypouštějí jeho komíny a jak vlhká je oblast. Vysoká pec, která běží ve dne v noci, udrží svůj zábor v průměrném podnebí na dvojnásobku plné stupnice, v poušti ale jen na pětině této hodnoty, takže stojí za to dobře zvážit, kam těžký průmysl umístit. Je to také jediná vrstva, kterou nikdy nemusíš ošetřovat: jakmile komíny utichnou, každých šest hodin se sníží na polovinu, takže celým řešením je omezit emise.
+Znečištění kyselým deštěm je jediná vrstva, kterou nikdy nevyhazuješ: ta padá. Kde se znečištěné ovzduší setká s deštěm, vzniká kyselý déšť a usazuje se v půdě pod ním. Jak moc se pozemek okyselí, závisí na tom, kolik vypouštějí jeho komíny a jak vlhká je oblast. Vysoká pec, která běží ve dne v noci, udrží svůj pozemek v průměrném podnebí na dvojnásobku plné stupnice, v poušti ale jen na pětině této hodnoty, takže stojí za to dobře zvážit, kam těžký průmysl umístit. Je to také jediná vrstva, kterou nikdy nemusíš ošetřovat: jakmile komíny utichnou, každých šest hodin se sníží na polovinu, takže celým řešením je omezit emise.
 </target>
       </trans-unit>
       <trans-unit id="447" xml:space="preserve">
@@ -3725,9 +3725,9 @@ Land that has already been poisoned can be treated. Decontaminants are consumabl
 Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Every decontaminant cleans at the same rate, so the cost is what separates them: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
 </source>
         <target state="translated">
-Už otrávenou půdu lze ošetřit. Dekontaminanty jsou spotřební předměty, které se používají podobně jako hnojivo, na jakémkoli bloku záboru, ať je to holá země, silnice, nebo podlaha továrny: {SoilDecontaminantItem} pro půdu, {HeavyMineralDecontaminantItem} pro těžké kovy a {ChemicalDecontaminantItem} pro chemické znečištění. Jedna jednotka zruší jednu jednotku zdroje znečištění, dávky se sčítají a polovina toho, co na dané oblasti čeká, se projeví každých 24 hodin, takže silně kontaminovaný zábor lze ošetřit hromadně a nechat působit.
+Už otrávenou půdu lze ošetřit. Dekontaminanty jsou spotřební předměty, které se používají podobně jako hnojivo, na jakémkoli bloku pozemku, ať je to holá země, silnice, nebo podlaha továrny: {SoilDecontaminantItem} pro půdu, {HeavyMineralDecontaminantItem} pro těžké kovy a {ChemicalDecontaminantItem} pro chemické znečištění. Jedna jednotka zruší jednu jednotku zdroje znečištění, dávky se sčítají a polovina toho, co na dané oblasti čeká, se projeví každých 24 hodin, takže silně kontaminovaný pozemek lze ošetřit hromadně a nechat působit.
 
-Dekontaminace je také jediné, co funguje nad hranicí samočištění vrstvy. Zábor nad 100 % těžkých minerálů nebo nad 30 % chemikálií by jinak zůstal v tomto stavu natrvalo, ať už byl zdroj odstraněn, nebo ne. Všechny dekontaminanty čistí stejným tempem, takže se liší jen cenou: kompost a hlína čistí půdu, jíl a dřevěné uhlí vážou těžké kovy a oxid železa s dřevěným uhlím jde do každého neutralizátoru chemikálií. Úklid po těžkém průmyslu má být drahý. Neuklízet má být ještě horší.
+Dekontaminace je také jediné, co funguje nad hranicí samočištění vrstvy. Pozemek nad 100 % těžkých minerálů nebo nad 30 % chemikálií by jinak zůstal v tomto stavu natrvalo, ať už byl zdroj odstraněn, nebo ne. Všechny dekontaminanty čistí stejným tempem, takže se liší jen cenou: kompost a hlína čistí půdu, jíl a dřevěné uhlí vážou těžké kovy a oxid železa s dřevěným uhlím jde do každého neutralizátoru chemikálií. Úklid po těžkém průmyslu má být drahý. Neuklízet má být ještě horší.
 </target>
       </trans-unit>
     </body>
