@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">Admin</source>
-        <target xml:space="preserve" state="translated">Admini</target>
+        <target xml:space="preserve" state="translated">Admin</target>
       </trans-unit>
       <trans-unit id="7" xml:space="preserve">
         <source xml:space="preserve">Max Slots</source>
@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="70" xml:space="preserve">
         <source xml:space="preserve">days/sec</source>
-        <target xml:space="preserve" state="translated">dní/s</target>
+        <target xml:space="preserve" state="translated">d/s</target>
       </trans-unit>
       <trans-unit id="71" xml:space="preserve">
         <source xml:space="preserve">In-Game Actions</source>
@@ -356,7 +356,7 @@
       </trans-unit>
       <trans-unit id="94" xml:space="preserve">
         <source xml:space="preserve">unity could send a full list of options to the dropdown later</source>
-        <target xml:space="preserve" state="translated">Unity může do rozevíracího seznamu později poslat úplný seznam možností</target>
+        <target xml:space="preserve" state="translated">Unity může do rozbalovacího seznamu později poslat úplný seznam možností</target>
       </trans-unit>
       <trans-unit id="95" xml:space="preserve">
         <source xml:space="preserve">Layer Select by Name or Number</source>
@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit id="155" xml:space="preserve">
         <source xml:space="preserve">days</source>
-        <target xml:space="preserve" state="translated">dny</target>
+        <target xml:space="preserve" state="translated">d</target>
       </trans-unit>
       <trans-unit id="156" xml:space="preserve">
         <source xml:space="preserve">hrs</source>
@@ -704,11 +704,11 @@
       </trans-unit>
       <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
-        <target state="translated">hlasů z Twitche</target>
+        <target state="translated">Hlasy z Twitche</target>
       </trans-unit>
       <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
-        <target state="translated">hlasů hráčů</target>
+        <target state="translated">Hlasy hráčů</target>
       </trans-unit>
       <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
