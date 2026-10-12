@@ -1260,7 +1260,7 @@ Ekosystém v Eco běží na nepřetržité simulaci, která je aktivní, dokud b
       </trans-unit>
       <trans-unit id="152" xml:space="preserve">
         <source xml:space="preserve">Gameplay</source>
-        <target xml:space="preserve" state="translated">Hraní</target>
+        <target xml:space="preserve" state="translated">Hratelnost</target>
       </trans-unit>
       <trans-unit id="153" xml:space="preserve">
         <source xml:space="preserve">The ecosystem is the foundational system which citizens must understand and contend with. From growing large {Farms|Farming} and {Mines|Mining} to understanding the impact of {Pollution} through study, the impact of citizens on the ecosystem will determine the success or failure of player decisions. Understanding how it functions using in-game {Data} becomes a key requirement of survival. Unlike the {Economy|Economy Overview} and the {Government|Government Overview}, the ecosystem is not a citizen construct – its behavior is absolute, nothing about how it functions can be changed by fiat the way the economy can. In this sense it’s a reality check, the place where the conflicting biases and beliefs of citizens collide and reveal the true consequences.</source>
