@@ -2930,7 +2930,7 @@
       </trans-unit>
       <trans-unit id="Dorky sombrero that doesn't fit anyone. You feel embarrassed to wear it." xml:space="preserve">
         <source xml:space="preserve">Dorky sombrero that doesn't fit anyone. You feel embarrassed to wear it.</source>
-        <target xml:space="preserve" state="translated">Trapné sombrero, které nikomu nesedí. Je ti trapné ho nosit.</target>
+        <target xml:space="preserve" state="translated">Praštěné sombrero, které nikomu nesedí. Je ti trapné ho nosit.</target>
       </trans-unit>
       <trans-unit id="Cool piratey shirt that makes your biceps look bigger than they really are." xml:space="preserve">
         <source xml:space="preserve">Cool piratey shirt that makes your biceps look bigger than they really are.</source>
@@ -2950,7 +2950,7 @@
       </trans-unit>
       <trans-unit id="Belt with a square buckle." xml:space="preserve">
         <source xml:space="preserve">Belt with a square buckle.</source>
-        <target xml:space="preserve" state="translated">Opasek se čtvercovou sponou.</target>
+        <target xml:space="preserve" state="translated">Opasek s hranatou přezkou.</target>
       </trans-unit>
       <trans-unit id="Knee-high boots are boots that rise to the knee, or slightly thereunder. They are generally tighter around the leg shaft and ankle than at the top." xml:space="preserve">
         <source xml:space="preserve">Knee-high boots are boots that rise to the knee, or slightly thereunder. They are generally tighter around the leg shaft and ankle than at the top.</source>
@@ -3183,7 +3183,7 @@
       </trans-unit>
       <trans-unit id="Meat cooked in meat juices keeps the meat juicy." xml:space="preserve">
         <source xml:space="preserve">Meat cooked in meat juices keeps the meat juicy.</source>
-        <target xml:space="preserve" state="translated">Maso vařené ve vlastní šťávě zůstává šťavnaté.</target>
+        <target xml:space="preserve" state="translated">Maso dušené ve vlastní šťávě zůstává šťavnaté.</target>
       </trans-unit>
       <trans-unit id="Even sweet lovers don't eat sugar plain." xml:space="preserve">
         <source xml:space="preserve">Even sweet lovers don't eat sugar plain.</source>
@@ -3251,7 +3251,7 @@
       </trans-unit>
       <trans-unit id="A vegetable or animal fat-based diesel fuel." xml:space="preserve">
         <source xml:space="preserve">A vegetable or animal fat-based diesel fuel.</source>
-        <target xml:space="preserve" state="translated">Naftové palivo na bázi rostlinných nebo živočišných tuků.</target>
+        <target xml:space="preserve" state="translated">Motorová nafta na bázi rostlinných nebo živočišných tuků.</target>
       </trans-unit>
       <trans-unit id="A dead bison" xml:space="preserve">
         <source xml:space="preserve">A dead bison</source>
@@ -13368,7 +13368,7 @@
       </trans-unit>
       <trans-unit id="Office Holders History" xml:space="preserve">
         <source xml:space="preserve">Office Holders History</source>
-        <target xml:space="preserve" state="translated">Historie držitelů úřadů</target>
+        <target xml:space="preserve" state="translated">Historie držitelů funkce</target>
       </trans-unit>
       <trans-unit id="Election currently running for this position: {0}" xml:space="preserve">
         <source xml:space="preserve">Election currently running for this position: <ph id="0">{0}</ph></source>
@@ -13404,7 +13404,7 @@
       </trans-unit>
       <trans-unit id="{0} Else {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Else <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> Jinak <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>, jinak <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0}, proceeding." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>, proceeding.</source>
@@ -18976,7 +18976,7 @@
       </trans-unit>
       <trans-unit id="A line of blocks." xml:space="preserve">
         <source xml:space="preserve">A line of blocks.</source>
-        <target xml:space="preserve" state="translated">Řada bloků.</target>
+        <target xml:space="preserve" state="translated">Čára z bloků.</target>
       </trans-unit>
       <trans-unit id="Box 3 Point" xml:space="preserve">
         <source xml:space="preserve">Box 3 Point</source>
@@ -19088,11 +19088,11 @@
       </trans-unit>
       <trans-unit id="Number of hours the world has been active." xml:space="preserve">
         <source xml:space="preserve">Number of hours the world has been active.</source>
-        <target xml:space="preserve" state="translated">Počet hodin, po které je svět aktivní.</target>
+        <target xml:space="preserve" state="translated">Počet hodin od spuštění světa.</target>
       </trans-unit>
       <trans-unit id="Number of days the world has been active." xml:space="preserve">
         <source xml:space="preserve">Number of days the world has been active.</source>
-        <target xml:space="preserve" state="translated">Počet dní, po které je svět aktivní.</target>
+        <target xml:space="preserve" state="translated">Počet dní od spuštění světa.</target>
       </trans-unit>
       <trans-unit id="Is this citizen currently not an admin?" xml:space="preserve">
         <source xml:space="preserve">Is this citizen currently not an admin?</source>
@@ -20261,7 +20261,7 @@
       </trans-unit>
       <trans-unit id="People To Send To" xml:space="preserve">
         <source xml:space="preserve">People To Send To</source>
-        <target xml:space="preserve" state="translated">Lidé, kterým poslat</target>
+        <target xml:space="preserve" state="translated">Komu poslat</target>
       </trans-unit>
       <trans-unit id="Value To Display" xml:space="preserve">
         <source xml:space="preserve">Value To Display</source>
@@ -20394,7 +20394,7 @@
       </trans-unit>
       <trans-unit id="Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth.  To set this, you must have government banking privileges, assigned by an Elected Title." xml:space="preserve">
         <source xml:space="preserve">Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth.  To set this, you must have government banking privileges, assigned by an Elected Title.</source>
-        <target xml:space="preserve" state="translated">Vládní účty mohou přijímat a vyplácet daňové prostředky; při vybírání daní a výpočtu osobního bohatství se na ně nebere ohled. K nastavení potřebuješ vládní bankovní privilegia, která jsou spojena s volenou funkcí.</target>
+        <target xml:space="preserve" state="translated">Vládní účty mohou přijímat a vyplácet daňové prostředky; při vybírání daní a výpočtu osobního bohatství se na ně nebere ohled. K nastavení potřebuješ vládní bankovní výsady, které jsou spojeny s volenou funkcí.</target>
       </trans-unit>
       <trans-unit id="Not enough {0} in {1}" xml:space="preserve">
         <source xml:space="preserve">Not enough <ph id="0">{0}</ph> in <ph id="1">{1}</ph></source>
@@ -25515,7 +25515,7 @@
       </trans-unit>
       <trans-unit id="A modern composite bow made with fiberglass that makes hunting a breeze. Requires arrows to fire." xml:space="preserve">
         <source xml:space="preserve">A modern composite bow made with fiberglass that makes hunting a breeze. Requires arrows to fire.</source>
-        <target xml:space="preserve" state="translated">Moderní kompozitní luk vyrobený ze sklolaminátu, díky kterému je lov hračkou. K střelbě jsou potřeba šípy.</target>
+        <target xml:space="preserve" state="translated">Moderní kompozitní luk vyrobený ze sklolaminátu, díky kterému je lov hračkou. Ke střelbě jsou potřeba šípy.</target>
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Smelting recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Smelting recipes.</source>
@@ -26260,7 +26260,7 @@
       </trans-unit>
       <trans-unit id="Tier 0 buildings are made from unprocessed natural blocks (caves, mud huts, etc)." xml:space="preserve">
         <source xml:space="preserve">Tier 0 buildings are made from unprocessed natural blocks (caves, mud huts, etc).</source>
-        <target xml:space="preserve" state="translated">Budovy úrovně 0 jsou postaveny z nezpracovaných přírodních bloků (jeskyně, hliněné chýše atd.).</target>
+        <target xml:space="preserve" state="translated">Budovy úrovně 0 se staví z nezpracovaných přírodních bloků (jeskyně, hliněné chýše atd.).</target>
       </trans-unit>
       <trans-unit id="To build a Tier {0} building, use a {1} to place Constructs of the following blocks" xml:space="preserve">
         <source xml:space="preserve">To build a Tier <ph id="0">{0}</ph> building, use a <ph id="1">{1}</ph> to place Constructs of the following blocks</source>
@@ -29078,19 +29078,19 @@
       </trans-unit>
       <trans-unit id="You are not invited to become a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">You are not invited to become a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Nemáš pozvánku, která by ti umožnila stát se obyvatelem <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Nemáš pozvánku pro bydliště: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="You are already a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">You are already a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Už jsi obyvatelem <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Už bydlíš v: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Invitation accepted!  You are now a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">Invitation accepted!  You are now a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Pozvání přijato!  Nyní jsi obyvatelem <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Pozvání přijato!  Nyní bydlíš v: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="You are now a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">You are now a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Nyní jsi obyvatelem <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Nyní bydlíš v: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="(Ignoring rent and fees since you are an owner.)" xml:space="preserve">
         <source xml:space="preserve">(Ignoring rent and fees since you are an owner.)</source>
@@ -29098,7 +29098,7 @@
       </trans-unit>
       <trans-unit id="You are no longer a resident of {0}." xml:space="preserve">
         <source xml:space="preserve">You are no longer a resident of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Už nejsi obyvatelem <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Už nebydlíš v: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Residents:" xml:space="preserve">
         <source xml:space="preserve">Residents:</source>
@@ -44278,11 +44278,11 @@
       </trans-unit>
       <trans-unit id="All Other Privileges" xml:space="preserve">
         <source xml:space="preserve">All Other Privileges</source>
-        <target xml:space="preserve" state="translated">Všechna ostatní oprávnění</target>
+        <target xml:space="preserve" state="translated">Všechny ostatní výsady</target>
       </trans-unit>
       <trans-unit id="SPECIAL RATIFICATION PRIVILEGE" xml:space="preserve">
         <source xml:space="preserve">SPECIAL RATIFICATION PRIVILEGE</source>
-        <target xml:space="preserve" state="translated">ZVLÁŠTNÍ RATIFIKAČNÍ PRÁVO</target>
+        <target xml:space="preserve" state="translated">ZVLÁŠTNÍ RATIFIKAČNÍ VÝSADA</target>
       </trans-unit>
       <trans-unit id="Commands to aid in physics debugging." xml:space="preserve">
         <source xml:space="preserve">Commands to aid in physics debugging.</source>
@@ -46220,11 +46220,11 @@
       </trans-unit>
       <trans-unit id="Icon with name &quot;{0}&quot; doesn't have Foreground Sprite" xml:space="preserve">
         <source xml:space="preserve">Icon with name "<ph id="0">{0}</ph>" doesn't have Foreground Sprite</source>
-        <target xml:space="preserve" state="translated">Ikona s názvem „<ph id="0">{0}</ph>“ nemá sprite v popředí.</target>
+        <target xml:space="preserve" state="translated">Ikona s názvem „<ph id="0">{0}</ph>“ nemá sprite v popředí</target>
       </trans-unit>
       <trans-unit id="Icon with name &quot;{0}&quot; doesn't have Full Sprite" xml:space="preserve">
         <source xml:space="preserve">Icon with name "<ph id="0">{0}</ph>" doesn't have Full Sprite</source>
-        <target xml:space="preserve" state="translated">Ikona s názvem „<ph id="0">{0}</ph>“ nemá kompletní sprite.</target>
+        <target xml:space="preserve" state="translated">Ikona s názvem „<ph id="0">{0}</ph>“ nemá kompletní sprite</target>
       </trans-unit>
       <trans-unit id="No suitable material found for tier '{0}'" xml:space="preserve">
         <source xml:space="preserve">No suitable material found for tier '<ph id="0">{0}</ph>'</source>
@@ -50292,7 +50292,7 @@
       </trans-unit>
       <trans-unit id="A simple wet brick ready to be processed into a construction block." xml:space="preserve">
         <source xml:space="preserve">A simple wet brick ready to be processed into a construction block.</source>
-        <target xml:space="preserve" state="translated">Jednoduchá mokrá cihla připravená ke zpracování na stavební blok.</target>
+        <target xml:space="preserve" state="translated">Jednoduchá syrová cihla připravená ke zpracování na stavební blok.</target>
       </trans-unit>
       <trans-unit id="Wet Brick" xml:space="preserve">
         <source xml:space="preserve">Wet Brick</source>
@@ -50512,7 +50512,7 @@
       </trans-unit>
       <trans-unit id="Current review state: " xml:space="preserve">
         <source xml:space="preserve">Current review state: </source>
-        <target xml:space="preserve" state="translated">Aktuální stav recenze: </target>
+        <target xml:space="preserve" state="translated">Aktuální stav posouzení: </target>
       </trans-unit>
       <trans-unit id="Click to show in the map." xml:space="preserve">
         <source xml:space="preserve">Click to show in the map.</source>
@@ -54108,7 +54108,7 @@
       </trans-unit>
       <trans-unit id="Bonus Hours On Exhaustion Enabled" xml:space="preserve">
         <source xml:space="preserve">Bonus Hours On Exhaustion Enabled</source>
-        <target xml:space="preserve" state="translated">Bonusové hodiny při vyčerpání povoleny</target>
+        <target xml:space="preserve" state="translated">Bonusové hodiny po povolení vyčerpání</target>
       </trans-unit>
       <trans-unit id="Bonus Retroactive Hours After Start" xml:space="preserve">
         <source xml:space="preserve">Bonus Retroactive Hours After Start</source>
@@ -55063,7 +55063,7 @@
       </trans-unit>
       <trans-unit id="Bonus Hours On Exhaustion enabled" xml:space="preserve">
         <source xml:space="preserve">Bonus Hours On Exhaustion enabled</source>
-        <target xml:space="preserve" state="translated">Bonusové hodiny při vyčerpání povoleny</target>
+        <target xml:space="preserve" state="translated">Bonusové hodiny po povolení vyčerpání</target>
       </trans-unit>
       <trans-unit id="Invalid password." xml:space="preserve">
         <source xml:space="preserve">Invalid password.</source>
@@ -57695,7 +57695,7 @@
       </trans-unit>
       <trans-unit id="No custom lists to delete" xml:space="preserve">
         <source xml:space="preserve">No custom lists to delete</source>
-        <target xml:space="preserve" state="translated">Žádné vlastní seznamy k odstranění</target>
+        <target xml:space="preserve" state="translated">Žádné vlastní seznamy ke smazání</target>
       </trans-unit>
       <trans-unit id="You must have logged into a world to report it." xml:space="preserve">
         <source xml:space="preserve">You must have logged into a world to report it.</source>
@@ -59741,7 +59741,7 @@
       </trans-unit>
       <trans-unit id="The percentage rate of decay for tools that are repaired." xml:space="preserve">
         <source xml:space="preserve">The percentage rate of decay for tools that are repaired.</source>
-        <target xml:space="preserve" state="translated">Procentuální míra opotřebení opravených nástrojů.</target>
+        <target xml:space="preserve" state="translated">Procentuální snížení integrity (maximální životnosti) nástroje při každé opravě.</target>
       </trans-unit>
       <trans-unit id="skiptime" translate="no">
         <source xml:space="preserve">skiptime</source>
@@ -60263,7 +60263,7 @@
       </trans-unit>
       <trans-unit id="Eco Credit Distribution Details" xml:space="preserve">
         <source xml:space="preserve">Eco Credit Distribution Details</source>
-        <target xml:space="preserve" state="translated">Podrobnosti o rozdělení kreditů Eco</target>
+        <target xml:space="preserve" state="translated">Podrobnosti o rozdělení Eco Credits</target>
       </trans-unit>
       <trans-unit id="If not resolved by {0}, influence will be disabled." xml:space="preserve">
         <source xml:space="preserve">If not resolved by <ph id="0">{0}</ph>, influence will be disabled.</source>
@@ -62981,7 +62981,7 @@
       </trans-unit>
       <trans-unit id="An alarm or bell was used." xml:space="preserve">
         <source xml:space="preserve">An alarm or bell was used.</source>
-        <target xml:space="preserve" state="translated">Byl použit alarm nebo zvonek.</target>
+        <target xml:space="preserve" state="translated">Byl použit alarm nebo zvon.</target>
       </trans-unit>
       <trans-unit id="Defines a set of blocks that must exist, or not exist on a property. This can be used for all kinds of things:\n - Removing unwanted plants\n - Removing pollution\n - Planting fields (planted blocks must exist)\n - Removing structures or obstacles.\n\nIf {Text.Info(Surface)} is checked, only surface blocks will be examined. Otherwise, blocks to a depth of {Text.Info(5)} below the highest block will be examined." xml:space="preserve">
         <source xml:space="preserve">Defines a set of blocks that must exist, or not exist on a property. This can be used for all kinds of things:\n - Removing unwanted plants\n - Removing pollution\n - Planting fields (planted blocks must exist)\n - Removing structures or obstacles.\n\nIf {Text.Info(Surface)} is checked, only surface blocks will be examined. Otherwise, blocks to a depth of {Text.Info(5)} below the highest block will be examined.</source>
@@ -65907,7 +65907,7 @@
       </trans-unit>
       <trans-unit id="Chip Off the Old Block" xml:space="preserve">
         <source xml:space="preserve">Chip Off the Old Block</source>
-        <target xml:space="preserve" state="translated">Jablko nepadá daleko od stromu</target>
+        <target xml:space="preserve" state="translated">Odštěpek ze starého kvádru</target>
       </trans-unit>
       <trans-unit id="Create 1 masonry item." xml:space="preserve">
         <source xml:space="preserve">Create 1 masonry item.</source>
@@ -68909,7 +68909,7 @@ Level 5</source>
       </trans-unit>
       <trans-unit id="Page 1 0f 12" xml:space="preserve">
         <source xml:space="preserve">Page 1 0f 12</source>
-        <target xml:space="preserve" state="translated">Strana 1 z 12</target>
+        <target xml:space="preserve" state="translated">Stránka 1 z 12</target>
       </trans-unit>
       <trans-unit id="​" xml:space="preserve">
         <source xml:space="preserve">​</source>
