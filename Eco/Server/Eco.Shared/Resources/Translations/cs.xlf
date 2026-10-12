@@ -20386,7 +20386,7 @@
       </trans-unit>
       <trans-unit id="Government Banking Privileges" xml:space="preserve">
         <source xml:space="preserve">Government Banking Privileges</source>
-        <target xml:space="preserve" state="translated">Vládní bankovní privilegia</target>
+        <target xml:space="preserve" state="translated">Vládní bankovní výsady</target>
       </trans-unit>
       <trans-unit id="(Only account managers are counted in percent ownership, unless there are no managers)." xml:space="preserve">
         <source xml:space="preserve">(Only account managers are counted in percent ownership, unless there are no managers).</source>
@@ -69240,12 +69240,12 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="highlight" xml:space="preserve">
         <source xml:space="preserve">highlight</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">zdůraznit</target>
+        <target xml:space="preserve" state="translated">highlight</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="export" xml:space="preserve">
         <source xml:space="preserve">export</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">export</target>
+        <target xml:space="preserve" state="translated">export</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Server data export tools." xml:space="preserve">
@@ -69255,12 +69255,12 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="treehashset" xml:space="preserve">
         <source xml:space="preserve">treehashset</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">treehashset</target>
+        <target xml:space="preserve" state="translated">treehashset</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="exporttreehashset" xml:space="preserve">
         <source xml:space="preserve">exporttreehashset</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">exporttreehashset</target>
+        <target xml:space="preserve" state="translated">exporttreehashset</target>
         <note>Chat command shortcut</note>
       </trans-unit>
       <trans-unit id="Dumps the tree subset of the live MinimapObject hashset to disk for bulk-load benchmarking. Optional &lt;filename&gt; overrides the auto timestamped basename." xml:space="preserve">
@@ -69402,7 +69402,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="notificationstats" xml:space="preserve">
         <source xml:space="preserve">notificationstats</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">oznámenístatistiky</target>
+        <target xml:space="preserve" state="translated">notificationstats</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Records controller notification fan-out and writes a sorted report to Logs/NotificationStats. Optionally pass duration in seconds, defaults to 180 seconds." xml:space="preserve">
@@ -69412,7 +69412,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="filename" xml:space="preserve">
         <source xml:space="preserve">filename</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">název souboru</target>
+        <target xml:space="preserve" state="translated">filename</target>
         <note>Parameter for chat command /treehashset</note>
       </trans-unit>
       <trans-unit id="personal bank account of {0}" xml:space="preserve">
@@ -69510,7 +69510,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="spawnobjects" xml:space="preserve">
         <source xml:space="preserve">spawnobjects</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">spawnobjects</target>
+        <target state="translated">spawnobjects</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Fills an area with world objects (defaults to fish traps) to stress-test client rendering. Placement matches the level command, so run level first then this over the same x and y." xml:space="preserve">
@@ -69571,7 +69571,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="clearmodules" xml:space="preserve">
         <source xml:space="preserve">clearmodules</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">clearmodules</target>
+        <target state="translated">clearmodules</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Clears all installed plugin modules from worldobjects within the given radius (default 5m). Bypasses the permanence restriction; modules are destroyed, not returned to anyone." xml:space="preserve">
@@ -69581,7 +69581,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="garbage" xml:space="preserve">
         <source xml:space="preserve">garbage</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">odpadky</target>
+        <target state="translated">garbage</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Performs a variety of garbage operations." xml:space="preserve">
@@ -69591,7 +69591,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="randommixed" xml:space="preserve">
         <source xml:space="preserve">randommixed</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">randommixed</target>
+        <target state="translated">randommixed</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Give N full stacks of MixedGarbageItem, each with a distinct random repartition over 2..5 GarbageMaterials drawn at random. Targets the nearest storage within searchRadius, falling back to the player's inventory." xml:space="preserve">
@@ -70197,22 +70197,22 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="perBlock" xml:space="preserve">
         <source xml:space="preserve">perBlock</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">perBlock</target>
+        <target state="translated">perBlock</target>
         <note>Parameter for chat command /spawnobjects</note>
       </trans-unit>
       <trans-unit id="stacks" xml:space="preserve">
         <source xml:space="preserve">stacks</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">stohy</target>
+        <target state="translated">stacks</target>
         <note>Parameter for chat command /randommixed</note>
       </trans-unit>
       <trans-unit id="searchRadius" xml:space="preserve">
         <source xml:space="preserve">searchRadius</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">searchRadius</target>
+        <target state="translated">searchRadius</target>
         <note>Parameter for chat command /randommixed</note>
       </trans-unit>
       <trans-unit id="garbages" xml:space="preserve">
         <source xml:space="preserve">garbages</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">odpadky</target>
+        <target state="translated">garbages</target>
         <note>Parameter for chat command /give</note>
       </trans-unit>
       <trans-unit id="Interact Middle" xml:space="preserve">
@@ -71050,24 +71050,27 @@ Ctrl – x100</target>
         <source xml:space="preserve">If set, area benefit buildings dedicated to a profession only apply their bonuses while enough citizens hold that profession.</source>
         <target state="translated">Je-li zapnuto, budovy s plošným bonusem určené pro některou profesi uplatňují své bonusy, jen dokud tuto profesi má dost občanů.</target>
       </trans-unit>
-      <trans-unit id="buffer">
+      <trans-unit id="buffer" xml:space="preserve">
         <source xml:space="preserve">buffer</source>
+        <target state="translated">buffer</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Sets a buffer pollution layer value (soil/heavymineral/chemical) around you.">
         <source xml:space="preserve">Sets a buffer pollution layer value (soil/heavymineral/chemical) around you.</source>
         <note>Help text for chat command /buffer</note>
       </trans-unit>
-      <trans-unit id="decon">
+      <trans-unit id="decon" xml:space="preserve">
         <source xml:space="preserve">decon</source>
+        <target state="translated">decon</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Queues decontamination of a buffer layer (soil/heavymineral/chemical) around you.">
         <source xml:space="preserve">Queues decontamination of a buffer layer (soil/heavymineral/chemical) around you.</source>
         <note>Help text for chat command /decon</note>
       </trans-unit>
-      <trans-unit id="info">
+      <trans-unit id="info" xml:space="preserve">
         <source xml:space="preserve">info</source>
+        <target state="translated">info</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Dumps pollution values for the claim you're standing on." xml:space="preserve">
@@ -71075,8 +71078,9 @@ Ctrl – x100</target>
         <target state="translated">Vypíše hodnoty znečištění pro zábor, na kterém stojíš.</target>
         <note>Help text for chat command /info</note>
       </trans-unit>
-      <trans-unit id="wipe">
+      <trans-unit id="wipe" xml:space="preserve">
         <source xml:space="preserve">wipe</source>
+        <target state="translated">wipe</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Clears all pollution layers and the buffer cache (resets the pollution system)." xml:space="preserve">
@@ -72093,8 +72097,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Fraction of a consumed ingredient's SalvageCost that becomes garbage during crafting. 0.2 means 20% of the recycle value is produced as waste per unit of ingredient consumed.</source>
         <target state="translated">Podíl SalvageCost spotřebované ingredience, který se při výrobě změní na odpad. Hodnota 0,2 znamená, že na každou spotřebovanou jednotku ingredience vznikne odpad ve výši 20 % její recyklační hodnoty.</target>
       </trans-unit>
-      <trans-unit id="spawndebris">
+      <trans-unit id="spawndebris" xml:space="preserve">
         <source xml:space="preserve">spawndebris</source>
+        <target state="translated">spawndebris</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Spawns debris in an area." xml:space="preserve">
@@ -72142,8 +72147,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <target state="translated">Přesune slunce na zadanou hodinu pro všechny hráče.</target>
         <note>Help text for chat command /set</note>
       </trans-unit>
-      <trans-unit id="mytime">
+      <trans-unit id="mytime" xml:space="preserve">
         <source xml:space="preserve">mytime</source>
+        <target state="translated">mytime</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="List of commands to change the time of day for yourself only." xml:space="preserve">
@@ -72181,8 +72187,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <target state="translated">Posune slunce na zadanou hodinu, jen pro tebe.</target>
         <note>Help text for chat command /set</note>
       </trans-unit>
-      <trans-unit id="myweather">
+      <trans-unit id="myweather" xml:space="preserve">
         <source xml:space="preserve">myweather</source>
+        <target state="translated">myweather</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="List of commands to change the weather for yourself only." xml:space="preserve">
@@ -72263,8 +72270,9 @@ To play here you need to switch to a different game branch, check our discord fo
         <target state="translated">Zařadí do fronty dekontaminaci vrstvy znečištění (soil/heavymineral/chemical) na tvém záboru nebo v daném okruhu.</target>
         <note>Help text for chat command /decon</note>
       </trans-unit>
-      <trans-unit id="setdecon">
+      <trans-unit id="setdecon" xml:space="preserve">
         <source xml:space="preserve">setdecon</source>
+        <target state="translated">setdecon</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Sets the queued decontamination (soil/heavymineral/chemical), on your claim or within a radius." xml:space="preserve">
@@ -73078,12 +73086,14 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
         <source xml:space="preserve">Container</source>
         <target state="translated">Kontejner</target>
       </trans-unit>
-      <trans-unit id="restockdeadzones">
+      <trans-unit id="restockdeadzones" xml:space="preserve">
         <source xml:space="preserve">restockdeadzones</source>
+        <target state="translated">restockdeadzones</target>
         <note>Chat command</note>
       </trans-unit>
-      <trans-unit id="restockdead">
+      <trans-unit id="restockdead" xml:space="preserve">
         <source xml:space="preserve">restockdead</source>
+        <target state="translated">restockdead</target>
         <note>Chat command shortcut</note>
       </trans-unit>
       <trans-unit id="Refills every dead but habitable spot of a species to its full capacity, world wide. All species when unset. A one time repair after erroneous population loss; extinction stays possible afterwards." xml:space="preserve">
@@ -73091,12 +73101,14 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
         <target state="translated">Doplní každé mrtvé, ale obyvatelné místo daného druhu na plnou kapacitu, po celém světě. Pokud druh není zadán, platí pro všechny druhy. Jednorázová oprava po chybné ztrátě populace; vyhynutí je potom stále možné.</target>
         <note>Help text for chat command /restockdeadzones</note>
       </trans-unit>
-      <trans-unit id="restockspecies">
+      <trans-unit id="restockspecies" xml:space="preserve">
         <source xml:space="preserve">restockspecies</source>
+        <target state="translated">restockspecies</target>
         <note>Chat command</note>
       </trans-unit>
-      <trans-unit id="restock">
+      <trans-unit id="restock" xml:space="preserve">
         <source xml:space="preserve">restock</source>
+        <target state="translated">restock</target>
         <note>Chat command shortcut</note>
       </trans-unit>
       <trans-unit id="Adds population of a given species to the habitable area around you, filling each spot up to its capacity" xml:space="preserve">
@@ -73160,12 +73172,14 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
         <source xml:space="preserve">EXPERIMENTAL. Raise the minimum thread pool size so bursts of parallel work are not throttled while the pool grows. If your server hangs at boot and doesn't initialize or you notice other issues, try to turn this setting off first. Not recommended when several servers share one machine. The -threadboost=true/false launch argument overrides this. Takes effect after server restart.</source>
         <target state="translated">EXPERIMENTÁLNÍ. Zvýší minimální velikost fondu vláken, aby se nárazy paralelní práce neomezovaly, dokud fond roste. Pokud se server při spuštění zasekne a neinicializuje se, nebo si všimneš jiných problémů, zkus nejprve toto nastavení vypnout. Nedoporučuje se, když si jeden počítač sdílí několik serverů. Spouštěcí argument -threadboost=true/false toto nastavení přebíjí. Projeví se po restartu serveru.</target>
       </trans-unit>
-      <trans-unit id="preloadedtoworldposition">
+      <trans-unit id="preloadedtoworldposition" xml:space="preserve">
         <source xml:space="preserve">preloadedtoworldposition</source>
+        <target state="translated">preloadedtoworldposition</target>
         <note>Chat command</note>
       </trans-unit>
-      <trans-unit id="tpp">
+      <trans-unit id="tpp" xml:space="preserve">
         <source xml:space="preserve">tpp</source>
+        <target state="translated">tpp</target>
         <note>Chat command shortcut</note>
       </trans-unit>
       <trans-unit id="Teleport to an xyz coordinate or an xz coordinate, preloading the destination chunks first so you don't arrive into void. For two components Y is calculated automatically." xml:space="preserve">
@@ -73173,12 +73187,14 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
         <target state="translated">Teleportuje na souřadnice xyz nebo xz; nejdřív načte cílové chunky, takže nedorazíš do prázdna. Při dvou složkách se Y dopočítá automaticky.</target>
         <note>Help text for chat command /preloadedtoworldposition</note>
       </trans-unit>
-      <trans-unit id="preloadedtoplayer">
+      <trans-unit id="preloadedtoplayer" xml:space="preserve">
         <source xml:space="preserve">preloadedtoplayer</source>
+        <target state="translated">preloadedtoplayer</target>
         <note>Chat command</note>
       </trans-unit>
-      <trans-unit id="tppto">
+      <trans-unit id="tppto" xml:space="preserve">
         <source xml:space="preserve">tppto</source>
+        <target state="translated">tppto</target>
         <note>Chat command shortcut</note>
       </trans-unit>
       <trans-unit id="Teleport to a citizen, preloading the destination chunks first so you don't arrive into void." xml:space="preserve">
@@ -73186,8 +73202,9 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
         <target state="translated">Teleportuje k občanovi; nejdřív načte cílové chunky, takže nedorazíš do prázdna.</target>
         <note>Help text for chat command /preloadedtoplayer</note>
       </trans-unit>
-      <trans-unit id="adjustblueprintcount">
+      <trans-unit id="adjustblueprintcount" xml:space="preserve">
         <source xml:space="preserve">adjustblueprintcount</source>
+        <target state="translated">adjustblueprintcount</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Adjusts how many of a paid item a player counts as having crafted. Negative amounts refund blueprint uses lost to bugs." xml:space="preserve">
@@ -73204,8 +73221,9 @@ Toto je oficiální server Eco od Strange Loop Games.</target>
         <target state="translated">Doplní tvé kalorie na maximum. Toto je ladicí sestavení, proto je příkaz dostupný všem uživatelům.</target>
         <note>Help text for chat command /eat</note>
       </trans-unit>
-      <trans-unit id="tastes">
+      <trans-unit id="tastes" xml:space="preserve">
         <source xml:space="preserve">tastes</source>
+        <target state="translated">tastes</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Shows one food per taste preference for a player (self if no player given)." xml:space="preserve">
