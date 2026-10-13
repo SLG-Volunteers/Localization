@@ -63703,7 +63703,7 @@
       </trans-unit>
       <trans-unit id="Per item: {0}" xml:space="preserve">
         <source xml:space="preserve">Per item: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">По пунктам: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">За предмет: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Per minute: {0}" xml:space="preserve">
         <source xml:space="preserve">Per minute: <ph id="0">{0}</ph></source>
@@ -63719,7 +63719,7 @@
       </trans-unit>
       <trans-unit id="Base cost: {0}" xml:space="preserve">
         <source xml:space="preserve">Base cost: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Базовая стоимость: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Базовая стоимость: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Additional cost: {0} ({1} chosen {2} * {3})" xml:space="preserve">
         <source xml:space="preserve">Additional cost: <ph id="0">{0}</ph> (<ph id="1">{1}</ph> chosen <ph id="2">{2}</ph> * <ph id="3">{3}</ph>)</source>
@@ -63739,7 +63739,7 @@
       </trans-unit>
       <trans-unit id="  Total XP Multiplier: {0}" xml:space="preserve">
         <source xml:space="preserve">  Total XP Multiplier: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">  Общий множитель XP: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">  Общий множитель Опыта: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Every action you do that gives XP will be multiplied by this value." xml:space="preserve">
         <source xml:space="preserve">Every action you do that gives XP will be multiplied by this value.</source>
@@ -63751,15 +63751,15 @@
       </trans-unit>
       <trans-unit id="  Character XP: {0}" xml:space="preserve">
         <source xml:space="preserve">  Character XP: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">  Опыт персонажа: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">  Опыт персонажа: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="  Current Level: {0}" xml:space="preserve">
         <source xml:space="preserve">  Current Level: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">  Текущий уровень: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">  Текущий уровень: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="  Available Stars: {0}" xml:space="preserve">
         <source xml:space="preserve">  Available Stars: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">  Доступные звезды: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">  Доступные звезды: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Each time you level up your character, you gain a star that can be spent on new skills. Next Level-Up at Current XP Rate: {0}" xml:space="preserve">
         <source xml:space="preserve">Each time you level up your character, you gain a star that can be spent on new skills. Next Level-Up at Current XP Rate: <ph id="0">{0}</ph></source>
@@ -63767,11 +63767,11 @@
       </trans-unit>
       <trans-unit id="Maximum durability: {0}" xml:space="preserve">
         <source xml:space="preserve">Maximum durability: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation">Максимальная прочность: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Максимальная прочность: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Minimum Integrity: {0}" xml:space="preserve">
         <source xml:space="preserve">Minimum Integrity: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Минимальная целостность: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Минимальная целостность: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Maximum Integrity: {0}" xml:space="preserve">
         <source xml:space="preserve">Maximum Integrity: <ph id="0">{0}</ph></source>
@@ -63827,7 +63827,7 @@
       </trans-unit>
       <trans-unit id="Consuming at {0} normal rate." xml:space="preserve">
         <source xml:space="preserve">Consuming at <ph id="0">{0}</ph> normal rate.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Доступно по адресу <ph id="0">{0}</ph> по обычной цене.</target>
+        <target xml:space="preserve" state="translated">Потребляет <ph id="0">{0}</ph> от нормы.</target>
       </trans-unit>
       <trans-unit id="You cannot send credits to yourself." xml:space="preserve">
         <source xml:space="preserve">You cannot send credits to yourself.</source>
