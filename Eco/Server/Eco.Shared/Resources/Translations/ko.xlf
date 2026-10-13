@@ -72403,8 +72403,9 @@ This is an official Eco server provided by Strange Loop Games.</source>
       <trans-unit id="(at {0}%)">
         <source xml:space="preserve">(at <ph id="0">{0}</ph>%)</source>
       </trans-unit>
-      <trans-unit id="Salinity">
+      <trans-unit id="Salinity" xml:space="preserve">
         <source xml:space="preserve">Salinity</source>
+        <target state="translated">염분</target>
       </trans-unit>
       <trans-unit id="The container's load wouldn't fit back in and is still on the loader.">
         <source xml:space="preserve">The container's load wouldn't fit back in and is still on the loader.</source>
