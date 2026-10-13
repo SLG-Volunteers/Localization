@@ -63635,15 +63635,15 @@
       </trans-unit>
       <trans-unit id="- {0} {1}: {2} {3}" xml:space="preserve">
         <source xml:space="preserve">- <ph id="0">{0}</ph> <ph id="1">{1}</ph>: <ph id="2">{2}</ph> <ph id="3">{3}</ph></source>
-        <target xml:space="preserve" state="needs-translation">- <ph id="0">{0}</ph> <ph id="1">{1}</ph>: <ph id="2">{2}</ph> <ph id="3">{3}</ph></target>
+        <target xml:space="preserve" state="translated">- <ph id="0">{0}</ph> <ph id="1">{1}</ph>: <ph id="2">{2}</ph> <ph id="3">{3}</ph></target>
       </trans-unit>
       <trans-unit id=" - {0} {1}" xml:space="preserve">
         <source xml:space="preserve"> - <ph id="0">{0}</ph> <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"> - <ph id="0">{0}</ph> <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"> - <ph id="0">{0}</ph> <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Store data cleared." xml:space="preserve">
         <source xml:space="preserve">Store data cleared.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Данные из магазина удалены.</target>
+        <target xml:space="preserve" state="translated">Данные магазина удалены.</target>
       </trans-unit>
       <trans-unit id="Tag '{0}' not found." xml:space="preserve">
         <source xml:space="preserve">Tag '<ph id="0">{0}</ph>' not found.</source>
@@ -63671,11 +63671,11 @@
       </trans-unit>
       <trans-unit id="Infinite or invalid result (e.g. division by zero)." xml:space="preserve">
         <source xml:space="preserve">Infinite or invalid result (e.g. division by zero).</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Бесконечный или недопустимый результат (например, деление на ноль).</target>
+        <target xml:space="preserve" state="translated">Бесконечный или недопустимый результат (например, деление на ноль).</target>
       </trans-unit>
       <trans-unit id="Infinite or invalid result (e.g. rounding to a multiple of zero)." xml:space="preserve">
         <source xml:space="preserve">Infinite or invalid result (e.g. rounding to a multiple of zero).</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Бесконечный или недопустимый результат (например, округление до кратного нулю).</target>
+        <target xml:space="preserve" state="translated">Бесконечный или недопустимый результат (например, округление до кратного нулю).</target>
       </trans-unit>
       <trans-unit id="{0} is on {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is on <ph id="1">{1}</ph></source>
@@ -63687,15 +63687,15 @@
       </trans-unit>
       <trans-unit id="Election is tied, no action taken." xml:space="preserve">
         <source xml:space="preserve">Election is tied, no action taken.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Голосование завершилось вничью, никаких действий не предпринято.</target>
+        <target xml:space="preserve" state="translated">Голосование завершилось вничью, никаких действий не предпринято.</target>
       </trans-unit>
       <trans-unit id="Election tied, all ties are considered winners." xml:space="preserve">
         <source xml:space="preserve">Election tied, all ties are considered winners.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Если голосование заканчивается вничью, все кандидаты считаются победителями.</target>
+        <target xml:space="preserve" state="translated">Голосование закончилось вничью, все участники считаются победителями.</target>
       </trans-unit>
       <trans-unit id="Poll complete, no winner." xml:space="preserve">
         <source xml:space="preserve">Poll complete, no winner.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Опрос завершен, победителя нет.</target>
+        <target xml:space="preserve" state="translated">Опрос завершен, победителя нет.</target>
       </trans-unit>
       <trans-unit id="Additional Law Effects:" xml:space="preserve">
         <source xml:space="preserve">Additional Law Effects:</source>
@@ -63707,7 +63707,7 @@
       </trans-unit>
       <trans-unit id="Per minute: {0}" xml:space="preserve">
         <source xml:space="preserve">Per minute: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">В минуту: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">В минуту: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="You don't have the {0} talent, so someone else will need to perform the labor on work orders crafting this. Do you still want to start it?" xml:space="preserve">
         <source xml:space="preserve">You don't have the <ph id="0">{0}</ph> talent, so someone else will need to perform the labor on work orders crafting this. Do you still want to start it?</source>
@@ -63715,7 +63715,7 @@
       </trans-unit>
       <trans-unit id="Hotkey for {0} (currently unbound, assign in settings)" xml:space="preserve">
         <source xml:space="preserve">Hotkey for <ph id="0">{0}</ph> (currently unbound, assign in settings)</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Горячая клавиша для «<ph id="0">» {0}</ph> (в настоящее время не привязана, назначается в настройках)</target>
+        <target xml:space="preserve" state="translated">Горячая клавиша для «<ph id="0">» {0}</ph> (клавиша не назначена, назначается в настройках)</target>
       </trans-unit>
       <trans-unit id="Base cost: {0}" xml:space="preserve">
         <source xml:space="preserve">Base cost: <ph id="0">{0}</ph></source>
