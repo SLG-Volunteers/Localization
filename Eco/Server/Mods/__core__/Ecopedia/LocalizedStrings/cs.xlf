@@ -157,7 +157,7 @@ When buying a deed, the currency will be taken from the bank account selected by
 After the property is sold, the deed and all objects contained on the deed are transferred to the new owner. 
   </source>
         <target xml:space="preserve" state="translated">
-U {realitního stolu|Real Estate Desk Item} mohou občané vytvářet nabídky svých listů vlastnictví a prohlížet si nabídky ostatních občanů. Všechny zveřejněné nabídky jsou dostupné z kteréhokoli realitního stolu.
+U {realitního stolu|RealEstateDeskItem} mohou občané vytvářet nabídky svých listů vlastnictví a prohlížet si nabídky ostatních občanů. Všechny zveřejněné nabídky jsou dostupné z kteréhokoli realitního stolu.
 
 Při vytváření nabídky vlastník pozemku stanoví cenu a použitou {měnu|Currency}. Veškeré tržby poputují na vybraný {bankovní účet|Bank Accounts}.
 
@@ -319,7 +319,7 @@ Citizens who have been granted Veto power in the current {Election Process|Elect
 To run for elected titles, first an eligible citizen must use the Start Election action. Once an election has started, eligible citizens can select Enter Election to join the race and give a campaign speech. Candidates can opt to Withdraw from Election at any time using the option available on a Ballot Box.
 </source>
         <target state="translated">
-Při použití funkce občanské akce u {volební urny|Ballot Box Item} mohou občané kandidovat na {volené funkce|Elected Titles} a účastnit se voleb.
+Při použití funkce občanské akce u {volební urny|BallotBoxItem} mohou občané kandidovat na {volené funkce|Elected Titles} a účastnit se voleb.
 
 Stisknutím tlačítka „Hlasovat“ se hráči přesměrují do webového rozhraní, kde uvidí všechny probíhající {volby|Elections}, mohou o nich diskutovat se spoluobčany, podložit své argumenty {údaji|Data} a hlasovat.
 
@@ -341,7 +341,7 @@ The Citizen Conditions dictate which citizens the executive action applies to, a
 The Action on Each Citizen will take effect as soon as the executive action is approved. Multiple actions can be performed at once for each citizen who meets the conditions.
 </source>
         <target state="translated">
-Použití funkce občanské akce u {výkonného úřadu|Executive Office Item} umožňuje volené funkci provádět jednorázová výkonná opatření, která se týkají určité skupiny občanů.
+Použití funkce občanské akce u {výkonného úřadu|ExecutiveOfficeItem} umožňuje volené funkci provádět jednorázová výkonná opatření, která se týkají určité skupiny občanů.
 
 Podmínky pro občany určují, na které občany se výkonné opatření vztahuje, a podmínek může být i více. Má-li opatření platit pro všechny občany, použij jako podmínku pro občany {demografickou skupinu|Demographic} „Všichni“.
 
@@ -361,7 +361,7 @@ The Resign from Office action allows any elected official to step down from thei
 The Remove Official from Office action allows citizens who have been given the authority to remove elected titles from office. The same rules for finding a successor apply as if the official resigned.
 </source>
         <target state="translated">
-U {vládního úřadu|Government Office Item} umožňuje funkce občanské akce voleným funkcím odstoupit z funkce nebo odvolat jiné volené funkce.
+U {vládního úřadu|GovernmentOfficeItem} umožňuje funkce občanské akce voleným funkcím odstoupit z funkce nebo odvolat jiné volené funkce.
 
 Akce „Odstoupit z funkce“ umožňuje každému držiteli volené funkce vzdát se své funkce. Pokud byl při vytvoření volené funkce nastaven Nástupce (nástupnická funkce), nový držitel se náhodně vybere ze všech občanů, kteří tuto nástupnickou funkci zastávají; jinak zůstane volená funkce neobsazená.
 
@@ -689,7 +689,7 @@ Objekty s vodním vstupem a čerpadla s vodním výstupem se propojují soustavo
 
 V popisku vody ve funkci potrubí může občan zjistit, kolik vody objekt přesně produkuje nebo spotřebovává. Pokud se vyrábí málo vody, objekty se stanou neaktivními.
 
-Trubky s výstupem odpadní vody fungují podobně jako vodní trubky, ale {odpadní voda|Sewage}, kterou vedou, je zdrojem znečištění země. Po vynalezení {filtrů odpadních vod|Waste Filter Item} lze výstup odpadní vody zavést do filtru a znečištění země tak zmírnit.
+Trubky s výstupem odpadní vody fungují podobně jako vodní trubky, ale {odpadní voda|Sewage}, kterou vedou, je zdrojem znečištění země. Po vynalezení {filtrů odpadních vod|WasteFilterItem} lze výstup odpadní vody zavést do filtru a znečištění země tak zmírnit.
 	</target>
       </trans-unit>
       <trans-unit id="88" xml:space="preserve">
@@ -1217,7 +1217,7 @@ Players can view these in two ways: through the minimap in game, which can also 
         <target state="translated">
 Světy Eco jsou rozmanitá místa s mnoha různými biomy a místy lidského rozvoje a dopadů na životní prostředí. Aby bylo vidět, jak se různé části světa liší, jsou k dispozici teplotní mapy pro všechny různé jevy ve světě hry.  Teplotními mapami lze zobrazit hodnoty jako aktivita občanů, vývoj populace, míra znečištění, teplota, vlhkost a desítky dalších, přičemž se změny zaznamenávají v čase, lze je přehrát a použít jako vědecký argument.
 
-Hráči si je mohou prohlížet dvěma způsoby: v minimapě ve hře, která umí zobrazit i barevný terén.   Druhou možností je webový prohlížeč, kde se využívá možnost přehrávání v čase. Snímek každé teplotní mapy se ukládá do dat serveru každých 10 minut (lze nastavit) a občané si mohou prohlížet časosběrné záběry toho, jak se teplotní mapy v čase mění.  To je zásadní pro měření dopadů na konkrétních místech a pro určení nejlepších tras pro stavbu infrastruktury a nových osad.
+Hráči si je mohou prohlížet dvěma způsoby: v minimapě ve hře, která umí zobrazit i barevný terén.   Druhou možností je webový prohlížeč, kde se využívá možnost přehrávání v čase. Snímek každé teplotní mapy se ukládá do dat serveru každých 10 minut (lze nastavit) a občané si mohou prohlížet časosběrné záběry toho, jak se teplotní mapy v čase mění.  To je zásadní pro měření dopadů na konkrétních místech a pro určení nejlepších tras pro stavbu infrastruktury a nových společenství.
 </target>
       </trans-unit>
       <trans-unit id="147" xml:space="preserve">
@@ -1233,7 +1233,7 @@ Currently we’re working on adding in-game designation of property and district
         <target state="translated">
 Mapa je ve hře silný nástroj, který slouží mnoha účelům: navigaci, plánování, zobrazení dat, hledání pozemků a mnoha dalším. Lze ji zapnout tak, aby zobrazovala různé vrstvy světa hry (teplotní mapy) a barevným přechodem zvýrazňovala oblasti s vysokou či nízkou populací, znečištěním, aktivitou občanů apod.  Světové značky lze přidávat ručně nebo globálně pro všechny občany, aby ukazovaly na konkrétní body a pomáhaly koordinovat činnost lidí. Tyto značky se také používají k automatickému navádění občanů k dynamické práci – určují, kde se mají podle smlouvy stavět cesty, kam se má doručit zboží k přepravě a podobně.
 
-V současné době pracujeme na přidání možnosti označovat ve hře pozemky a čtvrti a určovat oblasti půdy pro pracovní party a smlouvy, takže například občané budou moci ve hře označit oblasti, kde chtějí najmout jiné, aby zorali pole nebo postavili cestu apod. Tím se výrazně rozšíří možnosti trhu práce a občané budou moci snadněji a mnohem přesněji určit, kde chtějí práci provést.
+V současné době pracujeme na přidání možnosti označovat ve hře pozemky a zóny a určovat oblasti půdy pro pracovní party a smlouvy, takže například občané budou moci ve hře označit oblasti, kde chtějí najmout jiné, aby zorali pole nebo postavili cestu apod. Tím se výrazně rozšíří možnosti trhu práce a občané budou moci snadněji a mnohem přesněji určit, kde chtějí práci provést.
 </target>
       </trans-unit>
       <trans-unit id="149" xml:space="preserve">
@@ -1521,11 +1521,11 @@ A district is a selected area of land, non-contiguous, which players can adjust 
 
 Districts can be used to designate where actions are allowed with laws. A law can be created, for example, players can create a law that prevents chopping trees in a 'Protected Zone' district.
 </source>
-        <target state="translated">Čtvrti vytvářejí hráči v {úřadu územního plánu|ZoningOfficeItem} a lze je použít jako oblasti, na které se odkazují zákony.
+        <target state="translated">Zóny vytvářejí hráči v {úřadu územního plánu|ZoningOfficeItem} a lze je použít jako oblasti, na které se odkazují zákony.
 
-Čtvrť je vybraná oblast země, která nemusí být souvislá a kterou mohou hráči libovolně upravovat. Čtvrti patří do map čtvrtí a ve světě může být těchto map více. V rámci jedné mapy čtvrtí se však žádné čtvrti nesmějí překrývat.
+Zóna je vybraná oblast země, která nemusí být souvislá a kterou mohou hráči libovolně upravovat. Zóny patří do map zón a ve světě může být těchto map více. V rámci jedné mapy zón se však žádné zóny nesmějí překrývat.
 
-Čtvrti lze využít k tomu, aby zákony určovaly, kde jsou akce povoleny. Hráči mohou například vytvořit zákon, který zakazuje kácení stromů ve čtvrti „Chráněná zóna“.
+Zóny lze využít k tomu, aby zákony určovaly, kde jsou akce povoleny. Hráči mohou například vytvořit zákon, který zakazuje kácení stromů v zóně „Chráněná zóna“.
 </target>
       </trans-unit>
       <trans-unit id="184" xml:space="preserve">
@@ -1721,7 +1721,7 @@ Demografická skupina vymezuje skupinu lidí podle určitých pravidel. Tuto sku
 Defines an area of land which can be referenced in laws and other places.  A {ZoningOfficeItem} can hold up to three district maps.
 </source>
         <target state="translated">{Districts}
-Vymezuje oblast země, na kterou lze odkazovat v zákonech a jinde.  {Úřad územního plánu|ZoningOfficeItem} pojme až tři mapy čtvrtí.
+Vymezuje oblast země, na kterou lze odkazovat v zákonech a jinde.  {Úřad územního plánu|ZoningOfficeItem} pojme až tři mapy zón.
 </target>
       </trans-unit>
       <trans-unit id="204" xml:space="preserve">
@@ -1859,7 +1859,7 @@ Additionally, many objects require houses and utilities to operate. The housing 
         <target state="translated">Občan nemůže prosperovat bez řádného přístřeší a spolu s tvou {výživou|Nutrition} určuje hodnota tvého bydlení tvůj násobič {zkušeností|Experience}.  Čím lepší jsou materiály a vybavení tvého domu, tím vyšší je tvůj násobič zkušeností.  
 
 Kromě toho mnoho předmětů vyžaduje k provozu dům a technické sítě. Systém bydlení se skládá z těchto částí:
- - {Residency}. Bydliště na pozemku můžeš sdílet s ostatními.
+ - {Residency}. Domov na pozemku můžeš sdílet s ostatními.
  - {Rooms}. Místnost je zcela uzavřený prostor a mnoho předmětů musí být pro správnou funkci umístěno uvnitř místnosti.
  - {Property}. Občané mohou zabírat jednotlivé parcely a řídit k nim přístup.
  - {Power}. Mnoho předmětů potřebuje k provozu zdroj energie a vyrobenou energii může sdílet více občanů.
@@ -1879,7 +1879,7 @@ Many types of power generation exist, and each has different fuel needs as well 
   </source>
         <target state="translated">Mnoho předmětů potřebuje k provozu energii a s tím, jak tvá společnost pokročí, se budou vyvíjet i druhy energie.
   
-Zpočátku bude většina energie pocházet z kalorií, které občané vydají.  Lze také postavit místní zdroje energie, například {vodní kola|Waterwheel Item}, která napájejí jen bezprostřední okolí.  Až technologie pokročí k elektřině, bude možné energii vyrábět centrálně, takže se skupiny mohou spojit a společně zásobovat města, místo aby si každý zřizoval vlastní zdroje (na komunitní projekty tohoto druhu se výborně hodí financování ze systému {daní|Taxes} a k jejich výstavbě pomohou {smlouvy|Contracts} a {pracovní party|Work Parties}).
+Zpočátku bude většina energie pocházet z kalorií, které občané vydají.  Lze také postavit místní zdroje energie, například {vodní kola|WaterwheelItem}, která napájejí jen bezprostřední okolí.  Až technologie pokročí k elektřině, bude možné energii vyrábět centrálně, takže se skupiny mohou spojit a společně zásobovat města, místo aby si každý zřizoval vlastní zdroje (na komunitní projekty tohoto druhu se výborně hodí financování ze systému {daní|Taxes} a k jejich výstavbě pomohou {smlouvy|Contracts} a {pracovní party|Work Parties}).
   
 Existuje mnoho druhů výroby energie a každý má jiné nároky na palivo i jiný dopad na životní prostředí. S technologickým pokrokem se stavba, zásobování palivem a provoz elektráren mohou stát významným zdrojem {znečištění|Pollution}, a občané proto budou muset pečlivě regulovat, jaké druhy energie používají a jak naloží se znečištěním, aby zabránili ekologické katastrofě.
   </target>
@@ -1904,7 +1904,7 @@ Existuje mnoho druhů výroby energie a každý má jiné nároky na palivo i ji
         <source xml:space="preserve">
   Land can be claimed as property by using a {Land Claim Stake|ClaimToolItem} and targeting an unclaimed plot of land.  When targeted, a {Settlement Claim Stake|SettlementProperty} will be planted, and the citizen will become the owner on the deed. The property at your current position can be seen in the world panel in the bottom right of the screen, and clicking the title will open the deed.</source>
         <target xml:space="preserve" state="translated">
-  Pozemek lze zabrat pomocí {záborového kolíku|ClaimToolItem} a zacílením na nezabranou parcelu.  Po zacílení se umístí {záborový kolík osady|SettlementProperty} a občan se stane vlastníkem na listu vlastnictví. Pozemek, na kterém právě stojíš, najdeš v panelu světa vpravo dole na obrazovce a kliknutím na název se otevře list vlastnictví.</target>
+  Pozemek lze zabrat pomocí {záborového kolíku|ClaimToolItem} a zacílením na nezabranou parcelu.  Po zacílení se umístí {záborový kolík společenství|SettlementProperty} a občan se stane vlastníkem na listu vlastnictví. Pozemek, na kterém právě stojíš, najdeš v panelu světa vpravo dole na obrazovce a kliknutím na název se otevře list vlastnictví.</target>
       </trans-unit>
       <trans-unit id="222" xml:space="preserve">
         <source xml:space="preserve">Object Property Rights</source>
@@ -1957,7 +1957,7 @@ Zabráním půdy a stavbou místností na ní začneš získávat další zkuše
 
 Opakování stejného kusu nábytku v místnosti nebo stejného typu místnosti v domě přináší klesající výnosy; body za bydlení za ně stále dostaneš, ale ne tolik jako za první.   Nakonec bude přírůstek bodů zanedbatelný a nebude stát za to přidávat do domu další nábytek nebo místnost téhož typu.  Například tvoje dvanáctá koupelna přidá k hodnotě domu mnohem méně než první.
 
-Různé druhy pozemků podporují různé typy místností; například „Ložnice“ se hodí na pozemek typu „Bydliště“, ale ne na „Kulturní“ pozemek, zatímco „Koupelna“ se hodí na oba.  Některé kategorie místností mohou podporovat i jiné druhy nábytku (například „kulturní“ vybavení může přidat hodnotu „Obývacímu pokoji“) a tato podpůrná hodnota je omezena určitým procentem hodnoty hlavního nábytku (tj. dekorace v koupelně jsou bezcenné, pokud tam není záchod).  
+Různé druhy pozemků podporují různé typy místností; například „Ložnice“ se hodí na pozemek typu „Obytný“, ale ne na „Kulturní“ pozemek, zatímco „Koupelna“ se hodí na oba.  Některé kategorie místností mohou podporovat i jiné druhy nábytku (například „kulturní“ vybavení může přidat hodnotu „Obývacímu pokoji“) a tato podpůrná hodnota je omezena určitým procentem hodnoty hlavního nábytku (tj. dekorace v koupelně jsou bezcenné, pokud tam není záchod).  
 
 Některé druhy vybavení jsou jen podpůrné kategorie a nemohou mít vlastní místnost. Tj. dekorace mohou podporovat jakoukoli místnost, ale samy místností být nemohou. 
 U některých typů místností je hodnota omezena vzhledem k hlavním místnostem domu. Tj. koupelny jsou ve výchozím nastavení omezeny na 33 % hlavních místností domu (takže pozemek, který je jen jednou velkou koupelnou, nemá žádnou kladnou hodnotu, ale pokud jsou přítomny další místnosti, má).
@@ -2125,7 +2125,7 @@ V dialogu výběru dovedností vidíš rozložení specializací, které si osta
         <target state="translated">Tesaři jsou specialisté na práci se dřevem.
 
   - {LoggingSkill} umožňuje občanům kácet stromy rychleji a s menším výdejem kalorií. Kromě toho se tato specializace používá k výrobě {otesaných kmenů|HewnLogItem}, které jsou hlavním stavebním materiálem tesařské profese.
-  - {CarpentrySkill} umožňuje občanům vyrábět dřevěný nábytek a {prkna|Board Item}. S pomocí {pily|SawmillItem} mohou občané s touto specializací vyrábět {řezivo|LumberItem} a kvalitnější nábytek.
+  - {CarpentrySkill} umožňuje občanům vyrábět dřevěný nábytek a {prkna|BoardItem}. S pomocí {pily|SawmillItem} mohou občané s touto specializací vyrábět {řezivo|LumberItem} a kvalitnější nábytek.
   - {CompositesSkill} umožňuje občanům využívat pokročilou technologii k výrobě nejkvalitnějšího dřevěného stavebního materiálu.
   - {PaperMillingSkill} umožňuje občanům zpracovávat buničinu na {papír|PaperItem}. Papír se používá pro některý speciální nábytek.
 	</target>
@@ -2363,7 +2363,7 @@ Při lovu mohou hráči pomocí různých pastí a ručních nástrojů získáv
 
 Ulovit zvíře je jen první krok k jeho co nejlepšímu využití. Pokroky v řeznictví umožní hráčům zvířata zpracovávat a využívat pro širokou škálu živočišných produktů. Spolupráce s dalšími profesemi, například kuchaři a krejčími, odemkne mnoho výživných, průmyslových i kulturních způsobů využití zvířat a jejich produktů, z nichž ne všechny je nutné získávat lovem. Pokud se však určitý živočišný produkt stane v ekonomice oblíbeným, je třeba dávat pozor, aby na daný druh nevznikl ničivý tlak. Lov je často poslední ranou pro ohrožený druh, jehož produkty jsou tím cennější, čím jsou vzácnější.
 
-K zahájení lovu budeš potřebovat vyrobit {dřevěný luk|WoodenBowItem} a nějaké {šípy|Arrow Item}. Pokročilejší luky usnadní rychlé zasažení cíle. Pamatuj, že zvíře zabiješ rychleji dobře zamířenou ranou a že lov některých zvířat může být snazší podle denní doby. 
+K zahájení lovu budeš potřebovat vyrobit {dřevěný luk|WoodenBowItem} a nějaké {šípy|ArrowItem}. Pokročilejší luky usnadní rychlé zasažení cíle. Pamatuj, že zvíře zabiješ rychleji dobře zamířenou ranou a že lov některých zvířat může být snazší podle denní doby. 
   </target>
       </trans-unit>
       <trans-unit id="268" xml:space="preserve">
@@ -2430,7 +2430,7 @@ Každá profese má pod sebou několik {specializací|Specialties}, které odemy
     Do chodu vlády se lze zapojit mnoha způsoby, například:
 
     - Založením vlády vytvořením {kapitolu|CapitolItem} a {ústavy|Constitution}.
-    - Určením občanských objektů, mezi které patří {čtvrti|Districts}, {demografické skupiny|Demographics}, {volené funkce|Elected Titles}, {volební procesy|Election Processes} a {dodatky|Constitution}.
+    - Určením občanských objektů, mezi které patří {zóny|Districts}, {demografické skupiny|Demographics}, {volené funkce|Elected Titles}, {volební procesy|Election Processes} a {dodatky|Constitution}.
     - Kandidaturou na {volenou funkci|Elected Titles}, k níž ústava přiděluje zvláštní pravomoci.
     - Schvalováním {zákonů|Laws} poté, co k tomu získáš oprávnění (určené v ústavě).
     - Zaváděním {výkonných opatření|Executive Actions}, k nimž jsou oprávnění rovněž určena v ústavě.
@@ -2460,7 +2460,7 @@ As you build up your capabilities and have more needs of other citizens, you can
  </source>
         <target state="translated">Aby společnost prošla věky až na vrchol technologií, je potřeba prosperující {ekonomika|Economy Overview}. Zapojením do ní mohou občané posouvat společnost kupředu a zároveň rozvíjet vlastní schopnosti i bohatství.
  
-Do ekonomiky se zapojuješ {obchodováním|Trade} se zbožím i službami.  Když najdeš existující osady s {obchody|Store Component}, {smlouvami|Contracts} a {pracovními partami|Work Parties}, můžeš zboží a práci, na kterou se specializuješ, vyměnit za to, v čem se specializují ostatní, a svých cílů tak dosáhnout rychleji, než kdyby každý pracoval sám.  
+Do ekonomiky se zapojuješ {obchodováním|Trade} se zbožím i službami.  Když najdeš existující společenství s {obchody|Store Component}, {smlouvami|Contracts} a {pracovními partami|Work Parties}, můžeš zboží a práci, na kterou se specializuješ, vyměnit za to, v čem se specializují ostatní, a svých cílů tak dosáhnout rychleji, než kdyby každý pracoval sám.  
 Když se pustíš do nových projektů, které vyžadují materiál nebo práci, kterou neumíš vyrobit ani odvést, můžeš místo toho prodávat zboží a nabízet služby na trhu: založíš obchody a stanovíš ceny v {měně|Currency} podle vlastního výběru. Za tuto měnu pak nakoupíš zboží a služby od ostatních a ke svým cílům se dostaneš bez nutnosti učit se všechno vlastními silami.
 
 Jakmile ti porostou schopnosti a budeš víc potřebovat ostatní občany, můžeš zakládat vlastní obchody, smlouvy a pracovní party a získávat tak jejich pomoc.  S rostoucím bohatstvím roste i tvá schopnost prosazovat změny (k lepšímu i k horšímu).
@@ -2478,7 +2478,7 @@ Jakmile ti porostou schopnosti a budeš víc potřebovat ostatní občany, můž
       </trans-unit>
       <trans-unit id="281" xml:space="preserve">
         <source xml:space="preserve">Choosing a Settlement</source>
-        <target state="translated">Výběr osady</target>
+        <target state="translated">Výběr společenství</target>
       </trans-unit>
       <trans-unit id="282" xml:space="preserve">
         <source xml:space="preserve">When choosing a location to settle in, you'll want to consider the following factors:</source>
@@ -2495,7 +2495,7 @@ Setting up near other settlements offers a distinct advantage, as you can then t
 Přírodní zdroje potravy a stavební materiál poblíž výrazně urychlí počáteční pokrok.
 
 Blízkost ostatních
-Usídlení poblíž jiných osad přináší zřetelnou výhodu, protože můžeš s ostatními obchodovat a postupovat rychleji.  Přeplněná oblast ale může mít omezené možnosti rozšiřování a v okolí také málo přírodní potravy. Najdi rovnováhu podle svých preferencí.
+Usídlení poblíž jiných společenství přináší zřetelnou výhodu, protože můžeš s ostatními obchodovat a postupovat rychleji.  Přeplněná oblast ale může mít omezené možnosti rozšiřování a v okolí také málo přírodní potravy. Najdi rovnováhu podle svých preferencí.
   </target>
       </trans-unit>
       <trans-unit id="284" xml:space="preserve">
@@ -2504,7 +2504,7 @@ Usídlení poblíž jiných osad přináší zřetelnou výhodu, protože může
       </trans-unit>
       <trans-unit id="285" xml:space="preserve">
         <source xml:space="preserve"> Once you've selected a place to build your first settlement, you'll want to claim {Property} around it.  When placing your starting tent this will automatically occur, and further property can be claimed with land papers.  Property you claim will be protected from other citizens, unless you give them access.</source>
-        <target state="translated"> Jakmile vybereš místo pro svou první osadu, budeš chtít kolem ní zabrat {pozemky|Property}.  Při postavení úvodního stanu se to stane automaticky, další pozemky lze zabrat pomocí záborových listin.  Zabrané pozemky jsou před ostatními občany chráněné, pokud jim k nim nedáš přístup.</target>
+        <target state="translated"> Jakmile vybereš místo pro své první společenství, budeš chtít kolem něj zabrat {pozemky|Property}.  Při postavení úvodního stanu se to stane automaticky, další pozemky lze zabrat pomocí záborových listin.  Zabrané pozemky jsou před ostatními občany chráněné, pokud jim k nim nedáš přístup.</target>
       </trans-unit>
       <trans-unit id="286" xml:space="preserve">
         <source xml:space="preserve">Food</source>
@@ -2873,7 +2873,7 @@ Když podržíš myš nad zobrazením některého z potrubí, objeví se popisek
         <target state="translated">
 {Tesaři|Carpenter} se specializují na kácení stromů a zpracování dřeva na nábytek a stavební materiál pro domy.
   - {LoggingSkill} umožňuje občanům kácet stromy efektivněji. Těžba dřeva se navíc používá k výrobě {otesaných kmenů|HewnLogItem}, které jsou hlavním stavebním materiálem pro profesi tesařství.
-  - {CarpentrySkill} umožňuje občanům vyrábět dřevěný nábytek a {prkna|Board Item}. S {pilou|SawmillItem} mohou občané s touto specializací vyrábět {řezivo|LumberItem}.
+  - {CarpentrySkill} umožňuje občanům vyrábět dřevěný nábytek a {prkna|BoardItem}. S {pilou|SawmillItem} mohou občané s touto specializací vyrábět {řezivo|LumberItem}.
   - {CompositesSkill} umožňují občanům využít pokročilou technologii k výrobě nejkvalitnějšího stavebního materiálu, {kompozitního řeziva|CompositeLumberItem}.
   - {PaperMillingSkill} umožňuje občanům zušlechťovat buničinu na {papír|PaperItem}. Papír se používá u některého speciálního nábytku.
 </target>
@@ -3074,14 +3074,14 @@ Jídlo je páteří rostoucí společnosti v Eco a pohání růst dovedností po
       </trans-unit>
       <trans-unit id="350" xml:space="preserve">
         <source xml:space="preserve">The property where you have taken residency provides your housing points.</source>
-        <target state="translated">Pozemek, na kterém máš bydliště, ti dává body za bydlení.</target>
+        <target state="translated">Pozemek, na kterém máš domov, ti dává body za bydlení.</target>
       </trans-unit>
       <trans-unit id="351" xml:space="preserve">
         <source xml:space="preserve">  
 Citizens pick a primary residence to determine which deed will provide their {Housing|Housing Overview} bonus. Each deed can have any number of residents, and those residents will share in an {Experience} boost based on the quality of the house and number of occupants.
   </source>
         <target xml:space="preserve" state="translated">  
-Občané si vybírají hlavní bydliště, které určuje, který list vlastnictví jim dá bonus za {bydlení|Housing Overview}. Každý list vlastnictví může mít libovolný počet obyvatel a všichni se podílejí na bonusu ke {zkušenostem|Experience}, který závisí na kvalitě domu a počtu obyvatel.
+Občané si vybírají hlavní domov, které určuje, který list vlastnictví jim dá bonus za {bydlení|Housing Overview}. Každý list vlastnictví může mít libovolný počet obyvatel a všichni se podílejí na bonusu ke {zkušenostem|Experience}, který závisí na kvalitě domu a počtu obyvatel.
   </target>
       </trans-unit>
       <trans-unit id="352" xml:space="preserve">
@@ -3107,7 +3107,7 @@ Když se občan stane obyvatelem pozemku, získá zvláštní sadu oprávnění 
 
 
 Pronájem
-Po pozvání obyvatel lze listy vlastnictví nabídnout k pronájmu, aby mezi občany mohly vzniknout dohody o automatickém výběru nájemného. Když si nájemník pozemek pronajme, získá na listu vlastnictví bydliště a dostane všechny související bonusy za bydlení i oprávnění. Při nabídce pozemku k pronájmu se stanoví hodinová sazba a volitelný poplatek za nastěhování. Dohodu lze upravit tak, aby určovala, zda se platí i hodiny, kdy je nájemník offline.
+Po pozvání obyvatel lze listy vlastnictví nabídnout k pronájmu, aby mezi občany mohly vzniknout dohody o automatickém výběru nájemného. Když si nájemník pozemek pronajme, získá na listu vlastnictví domov a dostane všechny související bonusy za bydlení i oprávnění. Při nabídce pozemku k pronájmu se stanoví hodinová sazba a volitelný poplatek za nastěhování. Dohodu lze upravit tak, aby určovala, zda se platí i hodiny, kdy je nájemník offline.
 
 Pozemky k pronájmu najdeš v {Ekonomickém panelu|Economy Viewer}. Po přijetí bude mít nájemné pevnou sazbu, dokud jedna ze stran dohodu o pronájmu neukončí.
 </target>
@@ -3169,9 +3169,9 @@ Hromady stejných předmětů lze rychle sloučit a seřadit stisknutím tlačí
     The ability to create injunctions is a powerful feature that should be considered when forming a country or federation, as it can have a big influence on the government of children settlements.  Powers can be defined in the constitution of the settlement to lay out who can make injunction additions and changes, if any.  The role of injunctions should be carefully discussed among town leaders when joining together to form a country.
   </source>
         <target state="translated">
-    Soudní příkazy, které lze vytvářet u {velkého soudu|LargeCourtItem}, umožňují blokovat zákony na menším soudu. Každý soudní příkaz uvádí seznam spouštěčů a právních kroků, které budou zablokovány ve stanovené skupině dceřiných osad (nebo ve všech, pokud zůstane prázdná). Země tak mohou například blokovat zákony, které přijalo nějaké město.
+    Soudní příkazy, které lze vytvářet u {velkého soudu|LargeCourtItem}, umožňují blokovat zákony na menším soudu. Každý soudní příkaz uvádí seznam spouštěčů a právních kroků, které budou zablokovány ve stanovené skupině dceřiných společenství (nebo ve všech, pokud zůstane prázdná). Státy tak mohou například blokovat zákony, které přijalo nějaké město.
 
-    Možnost vytvářet soudní příkazy je silný nástroj, který je dobré zvážit při zakládání země nebo federace, protože může výrazně ovlivnit vládu dceřiných osad.  V ústavě osady lze určit pravomoci, které vymezí, kdo (pokud vůbec někdo) smí soudní příkazy přidávat a měnit.  Roli soudních příkazů by měli vůdci měst důkladně probrat, když se spojují a zakládají zemi.
+    Možnost vytvářet soudní příkazy je silný nástroj, který je dobré zvážit při zakládání státu nebo federace, protože může výrazně ovlivnit vládu dceřiných společenství.  V ústavě společenství lze určit pravomoci, které vymezí, kdo (pokud vůbec někdo) smí soudní příkazy přidávat a měnit.  Roli soudních příkazů by měli vůdci měst důkladně probrat, když se spojují a zakládají stát.
   </target>
       </trans-unit>
       <trans-unit id="361" xml:space="preserve">
@@ -3187,12 +3187,12 @@ S rostoucím počtem obyvatel roste postih za obsazenost.  Při malém počtu ob
 
 Míra „klesajících výnosů“ místností je však obsazeností ovlivněna příznivě (tři koupelny jsou zbytečné pro jednoho obyvatele, ale skvělé, když máš spolubydlící).  Postih proto můžeš překonat stavbou většího domu a duplicitní místnosti pak bonus za obsazenost ovlivní opačně.
 
-Chceš-li se stát obyvatelem pozemku, klikni na jeho název (vidíš ho ve vyskakovacím panelu stavu, když jsi na pozemku). Odtud se můžeš stát obyvatelem (pokud vlastníš list vlastnictví) i pozvat další občany, aby se obyvateli stali také.  Pozvaní občané se pak mohou stát obyvateli přes totéž rozhraní. Můžeš dokonce zvát celé skupiny zadáním funkcí nebo demografických skupin, a tak vytvořit bydlení pro zvláštní skupiny občanů (třeba nové hráče). Můžeš také nastavit nejvyšší počet obyvatel, aby správa bydlišť tímto způsobem (pozváním velkých skupin) nevedla k přeplněným domům.
+Chceš-li se stát obyvatelem pozemku, klikni na jeho název (vidíš ho ve vyskakovacím panelu stavu, když jsi na pozemku). Odtud se můžeš stát obyvatelem (pokud vlastníš list vlastnictví) i pozvat další občany, aby se obyvateli stali také.  Pozvaní občané se pak mohou stát obyvateli přes totéž rozhraní. Můžeš dokonce zvát celé skupiny zadáním funkcí nebo demografických skupin, a tak vytvořit bydlení pro zvláštní skupiny občanů (třeba nové hráče). Můžeš také nastavit nejvyšší počet obyvatel, aby správa domovů tímto způsobem (pozváním velkých skupin) nevedla k přeplněným domům.
 </target>
       </trans-unit>
       <trans-unit id="362" xml:space="preserve">
         <source xml:space="preserve">Settlements are organizations of people, or other settlements.  They are the structure and organization of society.</source>
-        <target state="translated">Osady jsou organizace lidí nebo jiných osad.  Tvoří strukturu a uspořádání společnosti.</target>
+        <target state="translated">Společenství jsou organizace lidí nebo jiných společenství.  Tvoří strukturu a uspořádání společnosti.</target>
       </trans-unit>
       <trans-unit id="363" xml:space="preserve">
         <source xml:space="preserve">
@@ -3203,11 +3203,11 @@ Chceš-li se stát obyvatelem pozemku, klikni na jeho název (vidíš ho ve vysk
     Annexing can be an important tool for bringing laws to a rogue settlement that is refusing to comply with global needs, as annexing will disable all their laws and allow the annexing settlement to implement new ones.
   </source>
         <target state="translated">
-    Osada s dostatečně vyšší kulturou než sousední osada ji může anektovat, tedy připojit k sobě, pokud jsou splněny požadavky.
+    Společenství s dostatečně vyšší kulturou než sousední společenství ho může anektovat, tedy připojit k sobě, pokud jsou splněny požadavky.
 
-    Když spolu sousedí dvě osady stejného typu, jejich dosahy vlivu se mohou navzájem tlačit. V takovém případě osada s větší kulturou posouvá svůj vliv hlouběji do hranic té druhé. Nakonec může být kulturní rozdíl tak velký, že jedna osada druhou zcela převezme.
+    Když spolu sousedí dvě společenství stejného typu, jejich dosahy vlivu se mohou navzájem tlačit. V takovém případě společenství s větší kulturou posouvá svůj vliv hlouběji do hranic toho druhého. Nakonec může být kulturní rozdíl tak velký, že jedno společenství zcela převezme druhé.
 
-    Anexe může být důležitým nástrojem k prosazení zákonů v odbojné osadě, která odmítá vyhovět potřebám celého světa, protože anexe deaktivuje všechny její zákony a anektující osadě umožní zavést nové.
+    Anexe může být důležitým nástrojem k prosazení zákonů v odbojném společenství, které odmítá vyhovět potřebám celého světa, protože anexe deaktivuje všechny jeho zákony a anektující společenství umožní zavést nové.
   </target>
       </trans-unit>
       <trans-unit id="364" xml:space="preserve">
@@ -3231,19 +3231,19 @@ Chceš-li se stát obyvatelem pozemku, klikni na jeho název (vidíš ho ve vysk
 Note that the type of settlement matters: a settlement can only annex other settlements of lower tiers (IE, a town can't annex a country but a federation can annex a town).  If the annexing settlement is a higher type than the target (IE, a country annexing a neighbor town), a different, easier set of values (displayed below) are used that make it easier to perform.
   </source>
         <target state="translated">
-    Požadavky, které musí být splněny, aby jedna osada mohla anektovat jinou, jsou tyto:
+    Požadavky, které musí být splněny, aby jedno společenství mohlo anektovat jiné, jsou tyto:
 
-    Osada vyšší úrovně. Anektující osada musí být vyšší úrovně než její cíl, ledaže jde o osadu nejvyšší úrovně (federace), které jako jediné smějí anektovat osadu stejné úrovně.
+    Společenství vyšší úrovně. Anektující společenství musí být vyšší úrovně než jeho cíl, ledaže jde o společenství nejvyšší úrovně (federace), které jako jediné smějí anektovat společenství stejné úrovně.
 
-    Požadavek na počet občanů. Anektující osada musí mít daný podíl počtu občanů cílové osady.
+    Požadavek na počet občanů. Anektující společenství musí mít daný podíl počtu občanů cílového společenství.
 
-    Požadavek na okolní vliv.  To znamená, že anektující osada musí mít pod vlivem parcely obklopující hranici vlivu sousední osady.  Po překročení stanoveného prahu je tento požadavek splněn, ale čím víc parcel hranici vlivu obklopuje, tím víc vzroste násobič dalšího požadavku, kultury.
+    Požadavek na okolní vliv.  To znamená, že anektující společenství musí mít pod vlivem parcely obklopující hranici vlivu sousedního společenství.  Po překročení stanoveného prahu je tento požadavek splněn, ale čím víc parcel hranici vlivu obklopuje, tím víc vzroste násobič dalšího požadavku, kultury.
 
-    Požadavek na kulturu. Tento požadavek říká, že kultura anektující osady musí být vyšší než kultura cílové osady dvojím způsobem: musí být o daný procentní podíl vyšší a zároveň o absolutní hodnotu vyšší. Tím se brání tomu, aby se malé osady s nízkou kulturou anektovaly příliš snadno; je třeba dosáhnout základní kulturní převahy.  Kultura se zvyšuje různými způsoby popsanými na stránce {Culture}.
+    Požadavek na kulturu. Tento požadavek říká, že kultura anektující společenství musí být vyšší než kultura cílového společenství dvojím způsobem: musí být o daný procentní podíl vyšší a zároveň o absolutní hodnotu vyšší. Tím se brání tomu, aby se malé společenství s nízkou kulturou anektovalo příliš snadno; je třeba dosáhnout základní kulturní převahy.  Kultura se zvyšuje různými způsoby popsanými na stránce {Culture}.
 
-    Cena v surovinách. Jde o sadu předmětů, které představují fyzickou cenu anexe.  Jejich část se rozdělí mezi neopuštěné občany cílové osady a zbytek přijde nazmar (proto je vždy levnější dohodnout se s druhou osadou než ji nutit silou). Suroviny na provedení anexe musí být uloženy ve skladu připojeném k velvyslaneckému stolu v jurisdikci osady a sklad musí být přístupný vůdci osady.
+    Cena v surovinách. Jde o sadu předmětů, které představují fyzickou cenu anexe.  Jejich část se rozdělí mezi neopuštěné občany cílového společenství a zbytek přijde nazmar (proto je vždy levnější dohodnout se s druhým společenstvím než ho nutit silou). Suroviny na provedení anexe musí být uloženy ve skladu připojeném k velvyslaneckému stolu v jurisdikci společenství a sklad musí být přístupný vůdci společenství.
 
-Pozor, záleží na typu osady: osada může anektovat jen osady nižšího typu (například město nemůže anektovat zemi, ale federace může anektovat město).  Je-li anektující osada vyššího typu než cílová (například země anektuje sousední město), použije se jiná, snazší sada hodnot (zobrazená níže), která anexi usnadňuje.
+Pozor, záleží na typu společenství: společenství může anektovat jen společenství nižšího typu (například město nemůže anektovat stát, ale federace může anektovat město).  Je-li anektující společenství vyššího typu než cílové (například stát anektuje sousední město), použije se jiná, snazší sada hodnot (zobrazená níže), která anexi usnadňuje.
   </target>
       </trans-unit>
       <trans-unit id="366" xml:space="preserve">
@@ -3261,13 +3261,13 @@ Pozor, záleží na typu osady: osada může anektovat jen osady nižšího typu
     Once a settlement is annexed, it can no longer perfrom the 'Secede Settlement', it will be locked to the parent until the parent removes it. 
   </source>
         <target state="translated">
-    Jakmile jsou splněny obě podmínky, může vůdce osady kdykoli provést anexi u {velvyslaneckého stolu|EmbassyDeskItem} patřícího k anektující osadě.
+    Jakmile jsou splněny obě podmínky, může vůdce společenství kdykoli provést anexi u {velvyslaneckého stolu|EmbassyDeskItem} patřícího k anektujícímu společenství.
 
-    Po aktivaci se u osad stejného typu cílová osada odstraní a všichni její občané se přesunou do nové osady.
-    Pokud jsou osady různého typu, cílová osada se jen odebere od dosavadní nadřazené osady a přidá se jako dceřiná osada té nové.
+    Po aktivaci se u společenství stejného typu cílové společenství se odstraní a všichni jeho občané se přesunou do nového společenství.
+    Pokud jsou společenství různého typu, cílové společenství se jen odebere od dosavadního nadřazeného společenství a přidá se jako dceřiné společenství toho nového.
     V obou případech se všechny zákony a další občanské objekty deaktivují a vrátí se do podoby konceptu.
 
-    Anektovaná osada už nemůže provést akci „Odtržení od mateřské osady“; zůstane uzamčena u mateřské osady, dokud ji mateřská osada neodebere. 
+    Anektované společenství už nemůže provést akci „Odtržení od mateřského společenství“; zůstane uzamčeno u mateřského společenství, dokud ho mateřské společenství neodebere. 
   </target>
       </trans-unit>
       <trans-unit id="368" xml:space="preserve">
@@ -3279,7 +3279,7 @@ Pozor, záleží na typu osady: osada může anektovat jen osady nižšího typu
     Attending Dinner Parties will generate culture for your settlement, as well as a skill bonus to your nutrition. They are a valuable way to increase the culture generation of the world by connecting Citizens over shared meals.
   </source>
         <target state="translated">
-    Účast na hostinách vytváří kulturu pro tvou osadu a také bonus k dovednostem z výživy. Je to cenný způsob, jak zvýšit tvorbu kultury ve světě tím, že hostina spojí občany u společného jídla.
+    Účast na hostinách vytváří kulturu pro tvé společenství a také bonus k dovednostem z výživy. Je to cenný způsob, jak zvýšit tvorbu kultury ve světě tím, že hostina spojí občany u společného jídla.
   </target>
       </trans-unit>
       <trans-unit id="378" xml:space="preserve">
@@ -3336,7 +3336,7 @@ Pozor, záleží na typu osady: osada může anektovat jen osady nižšího typu
         <target state="translated">
     Hodnotu hostiny můžeš zvýšit podle těchto doporučení:
     - Více hostů. Čím víc hostů se hostiny zúčastní, tím vyšší může být bonus.
-    - Účastníci z více osad. Hostina, jíž se zúčastní občané bez osady nebo všichni z jediné osady, vytvoří jen málo kultury. Chceš-li získat výrazný bonus za hostinu, musí se jí zúčastnit občané z více osad.
+    - Účastníci z více společenství. Hostina, jíž se zúčastní občané bez společenství nebo všichni z jediného společenství, vytvoří jen málo kultury. Chceš-li získat výrazný bonus za hostinu, musí se jí zúčastnit občané z více společenství.
     - Průměrná výživa. Průměrná nutriční hodnota jídla se převede na body kultury pomocí násobiče (viz níže).
     - Chutnější jídlo. Hodnota každého chodu závisí na individuálních chuťových bonusech daného občana: čím chutnější mu jídlo připadá, tím větší je bonus.
     - Lepší místo konání. Maximální bonus určuje hodnota pozemku na listu vlastnictví, na němž se hostina koná.
@@ -3354,8 +3354,8 @@ Pozor, záleží na typu osady: osada může anektovat jen osady nižšího typu
 </source>
         <target state="translated">
  - Osobní bonus výživy: Tvůj násobič výživy se zvýší podle nedávných hostin s tvou účastí.
- - Bonus kultury osady: Osada získá celkovou kulturu podle hostin pořádaných na pozemku osady.
- - Bonus vlivu osady: Pokud se hostina koná na pozemku typu „Kulturní“, přičte se její hodnota kultury k celkové hodnotě kultury, a tím se zvýší i vliv osady.
+ - Bonus kultury společenství: Společenství získá celkovou kulturu podle hostin pořádaných na pozemku společenství.
+ - Bonus vlivu společenství: Pokud se hostina koná na pozemku typu „Kulturní“, přičte se její hodnota kultury k celkové hodnotě kultury, a tím se zvýší i vliv společenství.
 </target>
       </trans-unit>
       <trans-unit id="386" xml:space="preserve">
@@ -3376,7 +3376,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
       </trans-unit>
       <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
-        <target state="translated">Osada je společenství občanů, kteří se spojili na základě dohodnutých pravidel.</target>
+        <target state="translated">Společenství tvoří občané, kteří se spojili na základě dohodnutých pravidel.</target>
       </trans-unit>
       <trans-unit id="407" xml:space="preserve">
         <source xml:space="preserve">"Civilization is a movement and not a condition, a voyage and not a harbor."
@@ -3391,12 +3391,12 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     A Settlement can be created by a collection of Citizens to enact a government within its areas of {Influence}.
   </source>
         <target state="translated">
-    Osadu může vytvořit skupina občanů, aby v oblastech svého {vlivu|Influence} zřídila vládu.
+    Společenství může vytvořit skupina občanů, aby v oblastech svého {vlivu|Influence} zřídila vládu.
   </target>
       </trans-unit>
       <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target state="translated">Existují tři úrovně osad:</target>
+        <target state="translated">Existují tři úrovně společenství:</target>
       </trans-unit>
       <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
@@ -3404,15 +3404,15 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
       </trans-unit>
       <trans-unit id="411" xml:space="preserve">
         <source xml:space="preserve">Countries are collections of Towns and citizens.</source>
-        <target state="translated">Země jsou skupiny měst a občanů.</target>
+        <target state="translated">Státy jsou skupiny měst a občanů.</target>
       </trans-unit>
       <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target state="translated">Federace jsou skupiny zemí, měst a občanů.</target>
+        <target state="translated">Federace jsou skupiny států, měst a občanů.</target>
       </trans-unit>
       <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
-        <target state="translated">Základní pojmy osad</target>
+        <target state="translated">Základní pojmy společenství</target>
       </trans-unit>
       <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
@@ -3425,13 +3425,13 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     - {Property Crisis} - If a settlement loses citizens, it may not be able to maintain the property that is already claimed.
   </source>
         <target state="translated">
-    - {Founding} – Více občanů se může spojit a založit novou osadu.
-    - {Citizenship} – Občanům lze udělit zvláštní práva a výsady a občanství v osadě zvyšuje její moc.
-    - {Influence} – Osady působí vlivem v okruhu kolem určitých budov; uvnitř něj se prosazují zákony a pravidla týkající se pozemku.
-    - {Settlement Property} – Čím víc občanů osada má, tím víc pozemku lze zabrat.
-    - {Culture} – Kultura umožňuje osadám působit vlivem na sousední osady, což může vést k jejich anexi.
-    - {Annexation} – Osady mohou převzít jiné osady nebo usedlosti, pokud je jejich úroveň kultury dostatečně vysoká.
-    - {Property Crisis} – Pokud osada přijde o občany, nemusí být schopna udržet pozemek, který už zabrala.
+    - {Founding} – Více občanů se může spojit a založit nové společenství.
+    - {Citizenship} – Občanům lze udělit zvláštní práva a výsady a občanství ve společenství zvyšuje jeho moc.
+    - {Influence} – Společenství působí vlivem v okruhu kolem určitých budov; uvnitř něj se prosazují zákony a pravidla týkající se pozemku.
+    - {Settlement Property} – Čím víc občanů společenství má, tím víc pozemku lze zabrat.
+    - {Culture} – Kultura umožňuje společenstvím působit vlivem na sousední společenství, což může vést k jejich anexi.
+    - {Annexation} – Společenství mohou převzít jiné společenství nebo usedlosti, pokud je jejich úroveň kultury dostatečně vysoká.
+    - {Property Crisis} – Pokud společenství přijde o občany, nemusí být schopno udržet pozemek, který už zabrala.
   </target>
       </trans-unit>
       <trans-unit id="415" xml:space="preserve">
@@ -3443,11 +3443,11 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Players with an existing homestead, utilizing the {HomesteadSupportClaimPaperItem}, can seamlessly join settlements by depositing an equivalent number of that settlement claim papers within their homestead.
   </source>
         <target state="translated">
-    Občanství je členství v osadě, které poskytuje občanské pravomoci. Čím víc občanů osada má, tím víc {pozemku osady|Settlement Property} může zabrat.
+    Občanství je členství ve společenství, které poskytuje občanské pravomoci. Čím víc občanů společenství má, tím víc {pozemku společenství|Settlement Property} může zabrat.
 
-    Každá osada může udělovat občanství seznamu osob na záložce {CitizenRosterComponent} objektu založení.   O občanství tu mohou zažádat i lidé, kteří občany nejsou; žádost musí schválit schvalovatel, kterého určuje nastavení {imigrační politiky|Immigration Policy} (ve výchozím stavu vůdce osady).  Všichni občané dceřiných osad se navíc automaticky stávají občany mateřské osady (tj. občané každého města jsou zároveň občany své země).
+    Každé společenství může udělovat občanství seznamu osob na záložce {Občané|CitizenRosterComponent} objektu založení.   O občanství tu mohou zažádat i lidé, kteří občany nejsou; žádost musí schválit schvalovatel, kterého určuje nastavení {imigrační politiky|Immigration Policy} (ve výchozím stavu vůdce společenství).  Všichni občané dceřiných společenství se navíc automaticky stávají občany mateřského společenství (tj. občané každého města jsou zároveň občany svého státu).
 
-    Hráči, kteří už mají usedlost a využívají {podpůrné záborové listiny pro usedlost|HomesteadSupportClaimPaperItem}, se mohou k osadě hladce připojit tak, že do své usedlosti vloží odpovídající počet záborových listin této osady.
+    Hráči, kteří už mají usedlost a využívají {podpůrné záborové listiny pro usedlost|HomesteadSupportClaimPaperItem}, se mohou ke společenství hladce připojit tak, že do své usedlosti vloží odpovídající počet záborových listin tohoto společenství.
   </target>
       </trans-unit>
       <trans-unit id="416" xml:space="preserve">
@@ -3459,16 +3459,16 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Culture is created by Citizens by creating creative works, discovering historical artifacts (coming soon), hosting events and festivals (coming soon), and founding settlements.  Culture is always assigned to a settlement, and the more Culture a settlement has, the farther its {Influence} will reach.
   </source>
         <target state="translated">
-    Kulturu vytvářejí občané: tvorbou uměleckých děl, objevováním historických artefaktů (již brzy), pořádáním akcí a festivalů (již brzy) a zakládáním osad.  Kultura je vždy přiřazena osadě a čím víc kultury osada má, tím dál sahá její {vliv|Influence}.
+    Kulturu vytvářejí občané: tvorbou uměleckých děl, objevováním historických artefaktů (již brzy), pořádáním akcí a festivalů (již brzy) a zakládáním společenství.  Kultura je vždy přiřazena společenství a čím víc kultury společenství má, tím dál sahá jeho {vliv|Influence}.
   </target>
       </trans-unit>
       <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
-        <target state="translated">Kultura ze založení osady</target>
+        <target state="translated">Kultura ze založení společenství</target>
       </trans-unit>
       <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
-        <target state="translated">Založená osada vytváří pro svůj pozemek výchozí množství kultury. Toto množství je konstantní a zajišťuje základní úroveň vlivu.  Ke zvýšení kultury a k získání kultury z dalšího pozemku je třeba využít jiné zdroje.</target>
+        <target state="translated">Založené společenství vytváří pro svůj pozemek výchozí množství kultury. Toto množství je konstantní a zajišťuje základní úroveň vlivu.  Ke zvýšení kultury a k získání kultury z dalšího pozemku je třeba využít jiné zdroje.</target>
       </trans-unit>
       <trans-unit id="420" xml:space="preserve">
         <source xml:space="preserve">Culture from Works of Art</source>
@@ -3481,7 +3481,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Within a single gallery, there is diminishing returns for displaying pictures from the same artist on the property as a whole.  To avoid this, you can show a collection from many artists instead.
   </source>
         <target state="translated">
-    Když občané použijí {EaselItem}, {HandheldCameraItem} nebo {TripodCameraItem} k vytvoření obrázku, lze tyto obrázky vystavit v rámu na zdi a přidat tak pozemku body kultury. Množství kultury závisí na reputaci obrázku i umělce a diváci jsou vyzváni, aby zobrazené obrázky hodnotili, čímž jim dodají další reputaci. S růstem těchto hodnot se vytváří víc kultury, až do určitého limitu.  Bonus kultury od občanů ze stejné osady je však snížen o 90 %, takže většina hodnoty pochází od občanů jiných osad, kteří šíří reputaci díla. Vyplatí se proto získat reputaci v jedné osadě, dílo pak prodat nebo předat do jiné osady, kde bude mít mnohem větší hodnotu, protože pochází z jiného místa.
+    Když občané použijí {EaselItem}, {HandheldCameraItem} nebo {TripodCameraItem} k vytvoření obrázku, lze tyto obrázky vystavit v rámu na zdi a přidat tak pozemku body kultury. Množství kultury závisí na reputaci obrázku i umělce a diváci jsou vyzváni, aby zobrazené obrázky hodnotili, čímž jim dodají další reputaci. S růstem těchto hodnot se vytváří víc kultury, až do určitého limitu.  Bonus kultury od občanů ze stejného společenství je však snížen o 90 %, takže většina hodnoty pochází od občanů jiných společenství, kteří šíří reputaci díla. Vyplatí se proto získat reputaci v jednom společenství, dílo pak prodat nebo předat do jiného společenství, kde bude mít mnohem větší hodnotu, protože pochází z jiného místa.
 
     V jedné galerii platí pro vystavování obrázků od stejného umělce na pozemku jako celku klesající výnosy.  Tomu se vyhneš, když místo toho vystavíš sbírku od mnoha umělců.
   </target>
@@ -3495,7 +3495,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
         <target state="translated">
-    Prvním krokem při zakládání nové osady je umístění objektu založení.  Jsou to {TownFoundationItem}, {CountryFoundationItem} a {FederationFoundationItem}. Po umístění začne vznikat nová nezaložená osada a jakmile jsou splněny všechny požadavky, lze spustit slavnostní založení.
+    Prvním krokem při zakládání nového společenství je umístění objektu založení.  Jsou to {TownFoundationItem}, {CountryFoundationItem} a {FederationFoundationItem}. Po umístění začne vznikat nové nezaložené společenství a jakmile jsou splněny všechny požadavky, lze spustit slavnostní založení.
 </target>
       </trans-unit>
       <trans-unit id="424" xml:space="preserve">
@@ -3511,9 +3511,9 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
 </source>
         <target state="translated">Občan, který umístí objekt založení, se stane prvním vůdcem města a získá některé zvláštní výsady, ale tato pozice se může časem měnit podle pravidel vlády.
 
-    Po umístění se parcela pod objektem zabere jako pozemek nové osady a vlastnictví se přiřadí vůdci.  Další parcely lze zabrat pomocí {nástroje pro zábor|ClaimToolItem} (klikni na předmět pravým tlačítkem a jako cíl vyber list vlastnictví osady).  Díky tomu můžeš zabrat půdu kolem objektu založení a postavit místnost, která splňuje požadavky.
+    Po umístění se parcela pod objektem zabere jako pozemek nového společenství a vlastnictví se přiřadí vůdci.  Další parcely lze zabrat pomocí {nástroje pro zábor|ClaimToolItem} (klikni na předmět pravým tlačítkem a jako cíl vyber list vlastnictví společenství).  Díky tomu můžeš zabrat půdu kolem objektu založení a postavit místnost, která splňuje požadavky.
 
-    Osady potřebují minimální počet občanů, minimální počet dceřiných osad (tj. země potřebuje ke vzniku určitý počet měst, která do ní patří) a minimální úroveň kultury ve všech dceřiných osadách.  U osady nejnižší úrovně, tedy města, se kultura ani dceřiné osady nevyžadují (město nemůže mít dceřiné osady, protože je nejnižší).  Na záložce „Občané“ objektu založení může vůdce zvát občany a schvalovat žadatele; ostatní lidé, kteří občany nejsou, mohou pozvání přijmout nebo o občanství požádat.
+    Společenství potřebují minimální počet občanů, minimální počet dceřiných společenství (tj. stát potřebuje ke vzniku určitý počet měst, která do ní patří) a minimální úroveň kultury ve všech dceřiných společenstvích.  U společenství nejnižší úrovně, tedy města, se kultura ani dceřiné společenství nevyžadují (město nemůže mít dceřiné společenství, protože je nejnižší).  Na záložce „Občané“ objektu založení může vůdce zvát občany a schvalovat žadatele; ostatní lidé, kteří občany nejsou, mohou pozvání přijmout nebo o občanství požádat.
 </target>
       </trans-unit>
       <trans-unit id="426" xml:space="preserve">
@@ -3531,18 +3531,18 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Once founded, your settlement will begin casting {Influence}, generating {Settlement Property}, and receiving {Culture}.
   </source>
         <target state="translated">
-    Jakmile jsou splněny všechny požadavky, mohou začít volby o ratifikaci {ústavy|Constitution} osady.  Na záložce „Ústava“ můžeš ústavu nastavit, jak chceš, a navrhnout si vládu podle svých představ (viz průvodce ústavou). Jakmile spustíš hlasování, budou o ní moci hlasovat všichni současní občané osady.  Pokud neprojde, můžeš ji upravit a zkusit to znovu.
+    Jakmile jsou splněny všechny požadavky, mohou začít volby o ratifikaci {ústavy|Constitution} společenství.  Na záložce „Ústava“ můžeš ústavu nastavit, jak chceš, a navrhnout si vládu podle svých představ (viz průvodce ústavou). Jakmile spustíš hlasování, budou o ní moci hlasovat všichni současní občané společenství.  Pokud neprojde, můžeš ji upravit a zkusit to znovu.
 
-    Chceš-li, můžeš k počátečnímu založení osady přidat i další občanské prvky; například umístěním soudu na počáteční pozemek osady můžeš vytvořit zákony spojené s osadou a zařadit je do stejných voleb jako ratifikaci ústavy. Tímto způsobem můžeš do jedněch voleb zabalit libovolný počet občanských objektů, pokud chceš začít s vládou už plně vytvořenou.  Pokud ne, můžeš je vždy přidat později v dalších volbách.
+    Chceš-li, můžeš k počátečnímu založení společenství přidat i další občanské prvky; například umístěním soudu na počáteční pozemek společenství můžeš vytvořit zákony spojené se společenstvím a zařadit je do stejných voleb jako ratifikaci ústavy. Tímto způsobem můžeš do jedněch voleb zabalit libovolný počet občanských objektů, pokud chceš začít s vládou už plně vytvořenou.  Pokud ne, můžeš je vždy přidat později v dalších volbách.
 
-    Jakmile jsou splněny všechny požadavky a ústava je ratifikována, osada je připravena k založení!  Kliknutím na tlačítko na záložce „Založení“ objektu založení spustíš slavnostní odhalení, kterého se mohou zúčastnit všichni tví občané a oslavit vznik nové osady.
+    Jakmile jsou splněny všechny požadavky a ústava je ratifikována, společenství je připraveno k založení!  Kliknutím na tlačítko na záložce „Založení“ objektu založení spustíš slavnostní odhalení, kterého se mohou zúčastnit všichni tví občané a oslavit vznik nového společenství.
 
-    Po založení začne tvá osada působit {vlivem|Influence}, vytvářet {pozemek osady|Settlement Property} a získávat {kulturu|Culture}.
+    Po založení začne tvé společenství působit {vlivem|Influence}, vytvářet {pozemek společenství|Settlement Property} a získávat {kulturu|Culture}.
   </target>
       </trans-unit>
       <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
-        <target state="translated">Nastavení založení osady</target>
+        <target state="translated">Nastavení založení společenství</target>
       </trans-unit>
       <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
@@ -3553,23 +3553,23 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Requirements can be set that must be met and/or maintained in order to remain a Citizen of the settlement.  For Citizens to become or stay Citizens, they must meet all these requirements in the settlement they join as well as all of its parents.
   </source>
         <target state="translated">
-    Pravidla pro nové občany může osada definovat v {imigrační politice|Immigration Policy}.
+    Pravidla pro nové občany může společenství definovat v {imigrační politice|Immigration Policy}.
 
-    Každá osada má vždy jednu imigrační politiku.  Zpočátku je to objekt zabudovaný přímo v osadě s výchozím nastavením, které vůdci umožňuje schvalovat nové občany, a je vidět v popiscích osady.  Jakmile se do dosahu vlivu osady umístí {ImmigrationDeskItem}, lze tuto politiku upravovat.
+    Každé společenství má vždy jednu imigrační politiku.  Zpočátku je to objekt zabudovaný přímo ve společenství s výchozím nastavením, které vůdci umožňuje schvalovat nové občany, a je vidět v popiscích společenství.  Jakmile se do dosahu vlivu společenství umístí {ImmigrationDeskItem}, lze tuto politiku upravovat.
 
-    Lze nastavit požadavky, které je třeba splnit či udržet, aby si občan v osadě zachoval občanství.  Aby lidé mohli občany být nebo jimi zůstat, musí tyto požadavky splňovat v osadě, do které vstupují, i ve všech jejích mateřských osadách.
+    Lze nastavit požadavky, které je třeba splnit či udržet, aby si občan ve společenství zachoval občanství.  Aby lidé mohli občany být nebo jimi zůstat, musí tyto požadavky splňovat ve společenství, do kterého vstupují, i ve všech jeho mateřských společenstvích.
   </target>
       </trans-unit>
       <trans-unit id="430" xml:space="preserve">
         <source xml:space="preserve">Settlement Advertisement</source>
-        <target state="translated">Reklama osady</target>
+        <target state="translated">Reklama společenství</target>
       </trans-unit>
       <trans-unit id="431" xml:space="preserve">
         <source xml:space="preserve">
     When a settlement is set to allow brand new people to instantly join, a special feature is unlocked. Newly joining people will see the settlement on the map when they first start among other possible starting positions, as well as a note from the settlement (assigned in the Advertisement section on the immigration policy).  When they enter the world into your settlement this way, they'll automatically become a Citizen, and start at a designated position next to the Immigration Desk object.  Using this feature is a great way to get new players into your settlements and grow a community.
   </source>
         <target state="translated">
-    Pokud osada umožňuje okamžité připojení zcela nových lidí, odemkne se zvláštní funkce. Noví lidé při prvním spuštění uvidí tuto osadu na mapě mezi dalšími možnými počátečními místy zrození, spolu s poznámkou osady (zadává se v sekci Reklama v imigrační politice).  Když takto vstoupí do světa ve tvé osadě, automaticky se stanou občany a začnou na určené pozici vedle imigračního stolu.  Tato funkce je skvělý způsob, jak do osad přivést nové hráče a rozvíjet komunitu.
+    Pokud společenství umožňuje okamžité připojení zcela nových lidí, odemkne se zvláštní funkce. Noví lidé při prvním spuštění uvidí toto společenství na mapě mezi dalšími možnými počátečními místy zrození, spolu s poznámkou společenství (zadává se v sekci Reklama v imigrační politice).  Když takto vstoupí do světa ve tvém společenství, automaticky se stanou občany a začnou na určené pozici vedle imigračního stolu.  Tato funkce je skvělý způsob, jak do společenství přivést nové hráče a rozvíjet komunitu.
   </target>
       </trans-unit>
       <trans-unit id="432" xml:space="preserve">
@@ -3577,7 +3577,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
         <target state="translated">
-    Jakmile je osada {založena|Founding}, začne působit vlivem v okruhu kolem objektu založení. Veškerá půda v dosahu jejího vlivu podléhá jejím zákonům a občanským akcím.
+    Jakmile je společenství {založeno|Founding}, začne působit vlivem v okruhu kolem objektu založení. Veškerá půda v dosahu jeho vlivu podléhá jeho zákonům a občanským akcím.
   </target>
       </trans-unit>
       <trans-unit id="433" xml:space="preserve">
@@ -3593,16 +3593,16 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     {Homesteads|HomesteadClaimStakeObject} are single-person properties that are associated with whatever settlement their owner is a Citizen of. If the owner is not a citizen of any settlement, then it will not be influenced by any.  This can create holes in town influence when citizens renounce their citizenship, however a powerful settlement can force-claim this property through the process of {Annexation}.
   </source>
         <target state="translated">
-    Vliv lze rozšířit pomocí {kultury|Culture}. Čím vyšší je úroveň kultury pozemku, tím větší vliv vytváří pro vlastnící osadu. Díky tomu můžeš rozšiřovat hranice zvyšováním kultury nebo vytvářením nových kulturních nemovitostí. Počet kulturních nemovitostí i maximální dosah vlivu jsou však omezené, takže hranice nelze rozšiřovat donekonečna. S každým zvýšením úrovně osady se zvětší možný dosah vlivu a lze vytvořit víc kulturních nemovitostí.
+    Vliv lze rozšířit pomocí {kultury|Culture}. Čím vyšší je úroveň kultury pozemku, tím větší vliv vytváří pro vlastnící společenství. Díky tomu můžeš rozšiřovat hranice zvyšováním kultury nebo vytvářením nových kulturních nemovitostí. Počet kulturních nemovitostí i maximální dosah vlivu jsou však omezené, takže hranice nelze rozšiřovat donekonečna. S každým zvýšením úrovně společenství se zvětší možný dosah vlivu a lze vytvořit víc kulturních nemovitostí.
     
     Vliv se šíří z váženého průměru poloh místností na pozemku; váhou je hodnota pozemku každé místnosti.  
 
-    {Usedlosti|HomesteadClaimStakeObject} jsou pozemek pro jednoho člověka, který je přidružen k osadě, jejímž občanem je jeho vlastník. Pokud vlastník není občanem žádné osady, nebude ho ovlivňovat žádná. Když se občané vzdají občanství, může to ve vlivu města vytvořit díry, silná osada však může tento pozemek násilně zabrat v procesu {anexe|Annexation}.
+    {Záborový kolík usedlosti|HomesteadClaimStakeItem} vymezuje usedlost – pozemek pro jednoho člověka, který je přidružen ke společenství, jehož občanem je jeho vlastník. Pokud vlastník není občanem žádného společenství, nebude ho ovlivňovat žádné. Když se občané vzdají občanství, může to ve vlivu města vytvořit díry, silné společenství však může tento pozemek násilně zabrat v procesu {anexe|Annexation}.
   </target>
       </trans-unit>
       <trans-unit id="435" xml:space="preserve">
         <source xml:space="preserve">Multiple Influencing Settlements</source>
-        <target state="translated">Vliv více osad</target>
+        <target state="translated">Vliv více společenství</target>
       </trans-unit>
       <trans-unit id="436" xml:space="preserve">
         <source xml:space="preserve">
@@ -3611,9 +3611,9 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     When two settlements of the same type are competing for influence, the closer one will push further into the influence boundaries of the other.  However, any land that is already claimed will remain influenced even if it would otherwise be contained in the opposing settlement. This can even lead to parts of the settlement breaking off and being enveloped by other settlements.
 </source>
         <target state="translated">
-    Každá úroveň osady (město, země, federace) má vlastní mapu vlivu a na danou parcelu může působit jen jedna osada od každého typu (tj. dvě města nemohou ovlivňovat stejnou parcelu).  Je-li však osada dceřinou osadou jiné osady, působí na parcelu vlivem i tato mateřská osada (tj. vliv země sahá všude, kam sahá vliv jejích členských měst).  Na parcelách ovlivňovaných takto více osadami se uplatní vlády všech těchto osad.
+    Každá úroveň společenství (město, stát, federace) má vlastní mapu vlivu a na danou parcelu může působit jen jedno společenství od každého typu (tj. dvě města nemohou ovlivňovat stejnou parcelu).  Je-li však společenství podřízeno jinému společenství, působí na parcelu vlivem i toto mateřské společenství (tj. vliv státu sahá všude, kam sahá vliv jeho členských měst).  Na parcelách ovlivňovaných takto více společenstvími se uplatní vlády všech těchto společenství.
     
-    Když o vliv soupeří dvě osady stejného typu, ta bližší pronikne hlouběji do hranic vlivu té druhé.  Půda, která už je zabraná, však zůstane pod vlivem své osady, i kdyby jinak spadala do protější osady. To může dokonce vést k tomu, že se části osady oddělí a ocitnou se obklopeny jinými osadami.
+    Když o vliv soupeří dvě společenství stejného typu, to bližší pronikne hlouběji do hranic vlivu toho druhého.  Půda, která už je zabraná, však zůstane pod vlivem svého společenství, i kdyby jinak spadala do protějšího společenství. To může dokonce vést k tomu, že se části společenství oddělí a ocitnou se obklopeny jinými společenstvími.
 </target>
       </trans-unit>
       <trans-unit id="437" xml:space="preserve">
@@ -3625,7 +3625,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     On an {Immigration Desk|ImmigrationDeskObject}, leadership of a settlement may designate neighboring homesteads or settlements which can claim within our influence. If a neighbor wants to claim land that is otherwise influenced by your settlement (perhaps for a price), this is the way to allow it.
   </source>
         <target state="translated">
-    Na {imigračním stole|ImmigrationDeskObject} může vedení osady určit sousední usedlosti nebo osady, které smějí zabírat půdu uvnitř vlivu osady. Pokud chce soused zabrat půdu, kterou jinak ovlivňuje tvá osada (třeba za úplatu), je to způsob, jak mu to umožnit.
+    Pomocí objektu {Imigrační stůl|ImmigrationDeskItem} může vedení společenství určit sousední usedlosti nebo společenství, které smějí zabírat půdu uvnitř vlivu společenství. Pokud chce soused zabrat půdu, kterou jinak ovlivňuje tvé společenství (třeba za úplatu), je to způsob, jak mu to umožnit.
   </target>
       </trans-unit>
       <trans-unit id="439" xml:space="preserve">
@@ -3644,16 +3644,16 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Citizens that enter the Abandoned {Demographic} will also stop contributing to the number of spawned Stakes and Papers, which can lead to a property crisis as well.
   </source>
         <target state="translated">
-    K pozemkové krizi dojde, když počet občanů v osadě klesne natolik, že už nestačí k udržení používaných záborových kolíků a záborových listin.
+    K pozemkové krizi dojde, když počet občanů ve společenství klesne natolik, že už nestačí k udržení používaných záborových kolíků a záborových listin.
     
-    Osady vytvářejí záborové kolíky a listiny, když se připojují občané, a odstraňují je, když odcházejí. Pokud tedy občané odejdou a v objektu založení osady nejsou žádné volné kolíky ani listiny, které by šlo odstranit, může vzniknout pozemková krize.  V takovém případě se spustí časovač a do jeho konce musí občané vrátit potřebný počet kolíků a listin do objektu založení, ať už uvolněním pozemků, nebo jejich sebráním jakkoli jinak.  Když se během pozemkové krize kolíky a listiny vloží do objektu založení, okamžitě se odstraní, a pokud je nedostatek vyrovnán, krize okamžitě skončí.
+    Společenství vytvářejí záborové kolíky a listiny, když se připojují občané, a odstraňují je, když odcházejí. Pokud tedy občané odejdou a v objektu založení společenství nejsou žádné volné kolíky ani listiny, které by šlo odstranit, může vzniknout pozemková krize.  V takovém případě se spustí časovač a do jeho konce musí občané vrátit potřebný počet kolíků a listin do objektu založení, ať už uvolněním pozemků, nebo jejich sebráním jakkoli jinak.  Když se během pozemkové krize kolíky a listiny vloží do objektu založení, okamžitě se odstraní, a pokud je nedostatek vyrovnán, krize okamžitě skončí.
 
     Pokud občané nemohou nebo nechtějí potřebné kolíky a listiny před vypršením časovače vrátit, zničí se, ať jsou kdekoli. Jakmile se pozemková krize vyřeší, dojde k těmto zabavením:
     - Nejprve se zničí listiny a kolíky, které se nepoužívají (leží třeba v batohu občana).
     - Poté se zničí kolíky a listiny, které se používají, pokud nedostatek stále není vyrovnán.
     V obou krocích se jako první ničí záborové kolíky a listiny patřící opuštěným občanům.
 
-    Je velmi důležité, aby osady počet svých občanů pečlivě hlídaly a předešly nedostatku. Je rozumné část kolíků a listin držet v rezervě a hned je nevyužívat, případně zareagovat už ve chvíli, kdy občané začnou odcházet.
+    Je velmi důležité, aby společenství počet svých občanů pečlivě hlídala a předešla nedostatku. Je rozumné část kolíků a listin držet v rezervě a hned je nevyužívat, případně zareagovat už ve chvíli, kdy občané začnou odcházet.
 
     Občané, kteří přejdou do {demografické skupiny|Demographic} Opuštění, také přestanou přispívat k počtu vytvářených kolíků a listin, což může rovněž vést k pozemkové krizi.
   </target>
@@ -3671,9 +3671,9 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     If Citizens leave, the max number of Claim Papers and Stakes allowed will reduce and be removed from the Settlement Foundation inventory.  If they're all in use and not available to be returned, a {Property Crisis} will occur.
   </source>
         <target state="translated">
-    Čím víc občanů se do osady připojí, tím víc {pozemku|Property} lze zabrat pomocí záborových kolíků a záborových listin patřících k osadě.
+    Čím víc občanů se do společenství připojí, tím víc {pozemku|Property} lze zabrat pomocí záborových kolíků a záborových listin patřících ke společenství.
 
-    Osada tyto předměty vytváří podle své úrovně, přičemž záborové kolíky mají varianty {TownClaimStakeItem}, {CountryClaimStakeItem} a {FederationClaimStakeItem}.  Zabírají pozemek jménem osady, ke které patří, a lze je posílit pomocí {záborových listin|ClaimPaperItem}, aby zabíraly víc parcel – stačí je vložit do inventáře záborového kolíku.
+    Společenství tyto předměty vytváří podle své úrovně, přičemž záborové kolíky mají varianty {TownClaimStakeItem}, {CountryClaimStakeItem} a {FederationClaimStakeItem}.  Zabírají pozemek jménem společenství, ke kterému patří, a lze je posílit pomocí {záborových listin|ClaimPaperItem}, aby zabíraly víc parcel – stačí je vložit do inventáře záborového kolíku.
 
     Pokud občané odejdou, sníží se nejvyšší povolený počet záborových listin a kolíků a odeberou se z inventáře objektu založení. Pokud jsou všechny v používání a nelze je vrátit, nastane {pozemková krize|Property Crisis}.
   </target>
@@ -3684,11 +3684,11 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
       </trans-unit>
       <trans-unit id="443" xml:space="preserve">
         <source xml:space="preserve">Settlements will also spawn {Homestead Support Claims|HomesteadSupportClaimPaperItem} which can be given or sold to non-citizens. These claims will allow homesteads that have no settlement associated with them to claim more plots, anywhere in the map.  Typically, farmers in far-off, isolated regions who want to have larger farms will seek these out (trading food or labor) from towns around the world.  They represent support from a settlement applied to outside property protection.</source>
-        <target state="translated">Osady také vytvářejí {podpůrné záborové listiny pro usedlosti|HomesteadSupportClaimPaperItem}, které lze darovat nebo prodat lidem, kteří nejsou občany. Díky nim mohou usedlosti bez přidružené osady zabírat další parcely kdekoli na mapě.  Většinou je u měst z celého světa vyhledávají farmáři z odlehlých, izolovaných oblastí, kteří chtějí větší farmy – výměnou za jídlo nebo práci.  Představují podporu osady uplatněnou na ochranu pozemku mimo osadu.</target>
+        <target state="translated">Společenství také vytvářejí {podpůrné záborové listiny pro usedlosti|HomesteadSupportClaimPaperItem}, které lze darovat nebo prodat lidem, kteří nejsou občany. Díky nim mohou usedlosti bez přidruženého společenství zabírat další parcely kdekoli na mapě.  Většinou je u měst z celého světa vyhledávají farmáři z odlehlých, izolovaných oblastí, kteří chtějí větší farmy – výměnou za jídlo nebo práci.  Představují podporu společenství uplatněnou na ochranu pozemku mimo společenství.</target>
       </trans-unit>
       <trans-unit id="444" xml:space="preserve">
         <source xml:space="preserve">Settlement Property Settings</source>
-        <target state="translated">Nastavení pozemku osady</target>
+        <target state="translated">Nastavení pozemku společenství</target>
       </trans-unit>
       <trans-unit id="445" xml:space="preserve">
         <source xml:space="preserve">The Four Layers</source>
