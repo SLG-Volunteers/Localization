@@ -316,19 +316,19 @@
       </trans-unit>
       <trans-unit id="84" xml:space="preserve">
         <source xml:space="preserve">Add Districts</source>
-        <target xml:space="preserve" state="translated">Přidat čtvrti</target>
+        <target xml:space="preserve" state="translated">Přidat zóny</target>
       </trans-unit>
       <trans-unit id="85" xml:space="preserve">
         <source xml:space="preserve">Remove Districts</source>
-        <target xml:space="preserve" state="translated">Odebrat čtvrti</target>
+        <target xml:space="preserve" state="translated">Odebrat zóny</target>
       </trans-unit>
       <trans-unit id="86" xml:space="preserve">
         <source xml:space="preserve">Add New District</source>
-        <target xml:space="preserve" state="translated">Přidat novou čtvrť</target>
+        <target xml:space="preserve" state="translated">Přidat novou zónu</target>
       </trans-unit>
       <trans-unit id="87" xml:space="preserve">
         <source xml:space="preserve">Hold right click to draw district</source>
-        <target xml:space="preserve" state="translated">Podrž pravé tlačítko myši a nakresli čtvrť</target>
+        <target xml:space="preserve" state="translated">Podrž pravé tlačítko myši a nakresli zónu</target>
       </trans-unit>
       <trans-unit id="88" xml:space="preserve">
         <source xml:space="preserve">Reasoning</source>
@@ -372,11 +372,11 @@
       </trans-unit>
       <trans-unit id="98" xml:space="preserve">
         <source xml:space="preserve">There are no districts set yet</source>
-        <target xml:space="preserve" state="translated">Zatím nejsou nastavené žádné čtvrti</target>
+        <target xml:space="preserve" state="translated">Zatím nejsou nastavené žádné zóny</target>
       </trans-unit>
       <trans-unit id="99" xml:space="preserve">
         <source xml:space="preserve">Active Districts</source>
-        <target xml:space="preserve" state="translated">Aktivní čtvrti</target>
+        <target xml:space="preserve" state="translated">Aktivní zóny</target>
       </trans-unit>
       <trans-unit id="100" xml:space="preserve">
         <source xml:space="preserve">Candidate Ranks For Each Year</source>
