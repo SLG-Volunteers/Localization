@@ -4,11 +4,11 @@
     <body>
       <trans-unit id="0" xml:space="preserve">
         <source xml:space="preserve">Components related to the economy.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Komponenter knyttet til økonomien.</target>
+        <target state="translated">Komponenter knyttet til økonomien.</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Bankkomponenten er der {bankkontoer} opprettes og administreres. Innbyggere kan opprette flere kontoer for seg selv eller dele kontoer med andre innbyggere. Kontoer kan også tilordnes {titler} og {demografiske grupper}.</target>
+        <target state="translated">Bankkomponenten er der {bankkontoer} opprettes og administreres. Innbyggere kan opprette flere kontoer for seg selv, eller dele kontoer med andre innbyggere. Kontoer kan også tilordnes {titler} og {demografiske grupper}.</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Account Users can perform transactions using the account (adding and removing funds).
@@ -16,7 +16,7 @@
 Account Managers can change the users in both the manager list and the user list, rename the account, and perform transactions. 
 
 In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Kontobrukere kan utføre transaksjoner ved hjelp av kontoen (sette inn og ta ut midler).
+        <target state="needs-translation">Kontobrukere kan utføre transaksjoner ved hjelp av kontoen (sette inn og ta ut midler).
 
 Kontoadministratorer kan endre brukerne både i administratorlisten og brukerlisten, gi kontoen nytt navn og utføre transaksjoner. 
 
@@ -24,15 +24,15 @@ I de avanserte innstillingene kan du angi kontoen som en regjeringskonto.  Regje
       </trans-unit>
       <trans-unit id="3" xml:space="preserve">
         <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Bankmodulen brukes til å opprette og administrere bankkontoer</target>
+        <target state="translated">Bankmodulen brukes til å opprette og administrere bankkontoer</target>
       </trans-unit>
       <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Kontraktstavle-komponenten lar innbyggerne legge ut og godta {kontrakter} og {arbeidsgrupper}, noe som muliggjør tvangsarbeid og andre avtaler mellom innbyggerne.</target>
+        <target state="translated">Kontraktstavle-komponenten lar innbyggerne legge ut og godta {kontrakter} og {arbeidsgrupper}, noe som muliggjør tvangsarbeid og andre avtaler mellom innbyggerne.</target>
       </trans-unit>
       <trans-unit id="5" xml:space="preserve">
         <source xml:space="preserve">Setting Up a Contract</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Opprette en kontrakt</target>
+        <target state="translated">Opprette en kontrakt</target>
       </trans-unit>
       <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">
