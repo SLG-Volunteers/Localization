@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="You killed the {0}. Find the carcass to harvest it." xml:space="preserve">
         <source xml:space="preserve">You killed the <ph id="0">{0}</ph>. Find the carcass to harvest it.</source>
-        <target xml:space="preserve" state="translated">Uloveno: <ph id="0">{0}</ph>. Najdi úlovek a zpracuj ho.</target>
+        <target xml:space="preserve" state="translated">Zabil/a jsi: <ph id="0">{0}</ph>. Najdi mrtvolu pro zpracování.</target>
       </trans-unit>
       <trans-unit id="The carcass has already been harvested" xml:space="preserve">
         <source xml:space="preserve">The carcass has already been harvested</source>
@@ -24,11 +24,11 @@
       </trans-unit>
       <trans-unit id="You cannot queue more than {0} projects at a single table." xml:space="preserve">
         <source xml:space="preserve">You cannot queue more than <ph id="0">{0}</ph> projects at a single table.</source>
-        <target xml:space="preserve" state="translated">Do fronty u jednoho stolu nelze přidat další projekt. Limit projektů: <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Do fronty stolu nelze dát více než <ph id="0">{0}</ph> projektů.</target>
       </trans-unit>
       <trans-unit id="Cannot lower the priority of other people's work orders on someone else's property." xml:space="preserve">
         <source xml:space="preserve">Cannot lower the priority of other people's work orders on someone else's property.</source>
-        <target xml:space="preserve" state="translated">Nelze snížit prioritu cizích výrobních zakázek na cizím pozemku.</target>
+        <target xml:space="preserve" state="translated">Nelze snížit prioritu cizích výrobních zakázek na cizím majetku.</target>
       </trans-unit>
       <trans-unit id="Project cancelled." xml:space="preserve">
         <source xml:space="preserve">Project cancelled.</source>
@@ -2122,7 +2122,7 @@
       </trans-unit>
       <trans-unit id="Beets" xml:space="preserve">
         <source xml:space="preserve">Beets</source>
-        <target xml:space="preserve" state="translated">Řepa</target>
+        <target xml:space="preserve" state="translated">Řepy</target>
       </trans-unit>
       <trans-unit id="Boiled Sausages" xml:space="preserve">
         <source xml:space="preserve">Boiled Sausages</source>
