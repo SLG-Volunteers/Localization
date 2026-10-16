@@ -380,11 +380,11 @@ Funkce občanského objektu umožňuje občanům navrhovat, měnit a rušit růz
       </trans-unit>
       <trans-unit id="43" xml:space="preserve">
         <source xml:space="preserve">Civic Duties</source>
-        <target xml:space="preserve" state="translated">Občanské povinnosti</target>
+        <target xml:space="preserve" state="translated">Občanské pravomoci</target>
       </trans-unit>
       <trans-unit id="44" xml:space="preserve">
         <source xml:space="preserve">Within a Civic Object Component, you will see a list of your {Civic Duties}. This informs the citizen what permissions they have regarding civic objects, given the current {Constitution}.The possibilities of different civic duties are:</source>
-        <target xml:space="preserve" state="translated">Ve funkci občanského objektu uvidíš seznam svých {občanských povinností|Civic Duties}. Ten občana informuje, jaká oprávnění má ve vztahu k občanským objektům podle platné {ústavy|Constitution}. Možné občanské povinnosti jsou:</target>
+        <target xml:space="preserve" state="translated">Ve funkci občanského objektu uvidíš seznam svých {občanských pravomocí|Civic Duties}. Ten občana informuje, jaká oprávnění má ve vztahu k občanským objektům podle platné {ústavy|Constitution}. Možné občanské pravomoci jsou:</target>
       </trans-unit>
       <trans-unit id="45" xml:space="preserve">
         <source xml:space="preserve">The Civic Object Component allows citizens to propose, amend, and repeal civic objects.</source>
@@ -2124,7 +2124,7 @@ V dialogu výběru dovedností vidíš rozložení specializací, které si osta
 	</source>
         <target state="translated">Tesaři jsou specialisté na práci se dřevem.
 
-  - {LoggingSkill} umožňuje občanům kácet stromy rychleji a s menším výdejem kalorií. Kromě toho se tato specializace používá k výrobě {otesaných kmenů|HewnLogItem}, které jsou hlavním stavebním materiálem tesařské profese.
+  - {LoggingSkill} umožňuje občanům kácet stromy rychleji a s menším výdejem kalorií. Kromě toho se tato specializace používá k výrobě {otesaných klád|HewnLogItem}, které jsou hlavním stavebním materiálem tesařské profese.
   - {CarpentrySkill} umožňuje občanům vyrábět dřevěný nábytek a {prkna|BoardItem}. S pomocí {pily|SawmillItem} mohou občané s touto specializací vyrábět {řezivo|LumberItem} a kvalitnější nábytek.
   - {CompositesSkill} umožňuje občanům využívat pokročilou technologii k výrobě nejkvalitnějšího dřevěného stavebního materiálu.
   - {PaperMillingSkill} umožňuje občanům zpracovávat buničinu na {papír|PaperItem}. Papír se používá pro některý speciální nábytek.
@@ -2448,7 +2448,7 @@ Každá profese má pod sebou několik {specializací|Specialties}, které odemy
       </trans-unit>
       <trans-unit id="277" xml:space="preserve">
         <source xml:space="preserve">Your civic duties are the many different ways you can interact with the government.</source>
-        <target state="translated">Tvé občanské povinnosti zahrnují mnoho způsobů, jak můžeš jednat s vládou.</target>
+        <target state="translated">Tvé občanské pravomoci jsou všechny způsoby, jakými můžeš jednat s vládou.</target>
       </trans-unit>
       <trans-unit id="278" xml:space="preserve">
         <source xml:space="preserve">To bring a society through the ages to the peaks of technology, a thriving {Economy|Economy Overview} is needed, and by participating in it, citizens can both help progress society as well advance their own abilities and wealth.
@@ -2872,7 +2872,7 @@ Když podržíš myš nad zobrazením některého z potrubí, objeví se popisek
 </source>
         <target state="translated">
 {Tesaři|Carpenter} se specializují na kácení stromů a zpracování dřeva na nábytek a stavební materiál pro domy.
-  - {LoggingSkill} umožňuje občanům kácet stromy efektivněji. Těžba dřeva se navíc používá k výrobě {otesaných kmenů|HewnLogItem}, které jsou hlavním stavebním materiálem pro profesi tesařství.
+  - {LoggingSkill} umožňuje občanům kácet stromy efektivněji. Těžba dřeva se navíc používá k výrobě {otesaných klád|HewnLogItem}, které jsou hlavním stavebním materiálem pro profesi tesařství.
   - {CarpentrySkill} umožňuje občanům vyrábět dřevěný nábytek a {prkna|BoardItem}. S {pilou|SawmillItem} mohou občané s touto specializací vyrábět {řezivo|LumberItem}.
   - {CompositesSkill} umožňují občanům využít pokročilou technologii k výrobě nejkvalitnějšího stavebního materiálu, {kompozitního řeziva|CompositeLumberItem}.
   - {PaperMillingSkill} umožňuje občanům zušlechťovat buničinu na {papír|PaperItem}. Papír se používá u některého speciálního nábytku.
@@ -3445,7 +3445,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
         <target state="translated">
     Občanství je členství ve společenství, které poskytuje občanské pravomoci. Čím víc občanů společenství má, tím víc {pozemku společenství|Settlement Property} může zabrat.
 
-    Každé společenství může udělovat občanství seznamu osob na záložce {Občané|CitizenRosterComponent} objektu založení.   O občanství tu mohou zažádat i lidé, kteří občany nejsou; žádost musí schválit schvalovatel, kterého určuje nastavení {imigrační politiky|Immigration Policy} (ve výchozím stavu vůdce společenství).  Všichni občané dceřiných společenství se navíc automaticky stávají občany mateřského společenství (tj. občané každého města jsou zároveň občany svého státu).
+    Každé společenství může udělovat občanství seznamu osob na záložce {Občané|CitizenRosterComponent} základního kamene.   O občanství tu mohou zažádat i lidé, kteří občany nejsou; žádost musí schválit schvalovatel, kterého určuje nastavení {imigrační politiky|Immigration Policy} (ve výchozím stavu vůdce společenství).  Všichni občané dceřiných společenství se navíc automaticky stávají občany mateřského společenství (tj. občané každého města jsou zároveň občany svého státu).
 
     Hráči, kteří už mají usedlost a využívají {podpůrné záborové listiny pro usedlost|HomesteadSupportClaimPaperItem}, se mohou ke společenství hladce připojit tak, že do své usedlosti vloží odpovídající počet záborových listin tohoto společenství.
   </target>
@@ -3464,7 +3464,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
       </trans-unit>
       <trans-unit id="418" xml:space="preserve">
         <source xml:space="preserve">Culture from Settlement Foundation</source>
-        <target state="translated">Kultura ze založení společenství</target>
+        <target state="translated">Kultura základního kamene společenství</target>
       </trans-unit>
       <trans-unit id="419" xml:space="preserve">
         <source xml:space="preserve">A founded settlement will generate a default amount of culture for its property, this amount is constant and gives a baseline level of influence.  To expand it further and from other properties, other sources must be used.</source>
@@ -3495,7 +3495,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     The first step in starting a new settlement is to place the foundation object.  Those are {TownFoundationItem}, {CountryFoundationItem}, and {FederationFoundationItem}. Once placed, it will begin a new unfounded settlement, and once all the requirements are met the founding ceremony can be triggered.
 </source>
         <target state="translated">
-    Prvním krokem při zakládání nového společenství je umístění objektu založení.  Jsou to {TownFoundationItem}, {CountryFoundationItem} a {FederationFoundationItem}. Po umístění začne vznikat nové nezaložené společenství a jakmile jsou splněny všechny požadavky, lze spustit slavnostní založení.
+    Prvním krokem při zakládání nového společenství je umístění základního kamene.  Jsou to {TownFoundationItem}, {CountryFoundationItem} a {FederationFoundationItem}. Po umístění začne vznikat nové nezaložené společenství a jakmile jsou splněny všechny požadavky, lze spustit slavnostní založení.
 </target>
       </trans-unit>
       <trans-unit id="424" xml:space="preserve">
@@ -3509,11 +3509,11 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
 
     Settlements need a minimum number of citizens, a minimum number of sub-settlements (IE, a country will need a certain number of towns as part of it to form), and a minimum culture level in all the sub-settlements.  For the lowest level settlement, a Town, culture and sub-settlements are not required (because a Town can not have sub-settlements, it's the lowest one).  On the 'Citizens' tab of the foundation object, the leader can invite and approve applied citizens, and other non-citizens can accept invites and apply to become a citizen.min
 </source>
-        <target state="translated">Občan, který umístí objekt založení, se stane prvním vůdcem města a získá některé zvláštní výsady, ale tato pozice se může časem měnit podle pravidel vlády.
+        <target state="translated">Občan, který umístí základní kámen, se stane prvním vůdcem města a získá některé zvláštní výsady, ale tato pozice se může časem měnit podle pravidel vlády.
 
-    Po umístění se parcela pod objektem zabere jako pozemek nového společenství a vlastnictví se přiřadí vůdci.  Další parcely lze zabrat pomocí {nástroje pro zábor|ClaimToolItem} (klikni na předmět pravým tlačítkem a jako cíl vyber list vlastnictví společenství).  Díky tomu můžeš zabrat půdu kolem objektu založení a postavit místnost, která splňuje požadavky.
+    Po umístění se parcela pod objektem zabere jako pozemek nového společenství a vlastnictví se přiřadí vůdci.  Další parcely lze zabrat pomocí {nástroje pro zábor|ClaimToolItem} (klikni na předmět pravým tlačítkem a jako cíl vyber list vlastnictví společenství).  Díky tomu můžeš zabrat půdu kolem základního kamene a postavit místnost, která splňuje požadavky.
 
-    Společenství potřebují minimální počet občanů, minimální počet dceřiných společenství (tj. stát potřebuje ke vzniku určitý počet měst, která do ní patří) a minimální úroveň kultury ve všech dceřiných společenstvích.  U společenství nejnižší úrovně, tedy města, se kultura ani dceřiné společenství nevyžadují (město nemůže mít dceřiné společenství, protože je nejnižší).  Na záložce „Občané“ objektu založení může vůdce zvát občany a schvalovat žadatele; ostatní lidé, kteří občany nejsou, mohou pozvání přijmout nebo o občanství požádat.
+    Společenství potřebují minimální počet občanů, minimální počet dceřiných společenství (tj. stát potřebuje ke vzniku určitý počet měst, která do ní patří) a minimální úroveň kultury ve všech dceřiných společenstvích.  U společenství nejnižší úrovně, tedy města, se kultura ani dceřiné společenství nevyžadují (město nemůže mít dceřiné společenství, protože je nejnižší).  Na záložce „Občané“ základního kamene může vůdce zvát občany a schvalovat žadatele; ostatní lidé, kteří občany nejsou, mohou pozvání přijmout nebo o občanství požádat.
 </target>
       </trans-unit>
       <trans-unit id="426" xml:space="preserve">
@@ -3535,14 +3535,14 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
 
     Chceš-li, můžeš k počátečnímu založení společenství přidat i další občanské prvky; například umístěním soudu na počáteční pozemek společenství můžeš vytvořit zákony spojené se společenstvím a zařadit je do stejných voleb jako ratifikaci ústavy. Tímto způsobem můžeš do jedněch voleb zabalit libovolný počet občanských objektů, pokud chceš začít s vládou už plně vytvořenou.  Pokud ne, můžeš je vždy přidat později v dalších volbách.
 
-    Jakmile jsou splněny všechny požadavky a ústava je ratifikována, společenství je připraveno k založení!  Kliknutím na tlačítko na záložce „Založení“ objektu založení spustíš slavnostní odhalení, kterého se mohou zúčastnit všichni tví občané a oslavit vznik nového společenství.
+    Jakmile jsou splněny všechny požadavky a ústava je ratifikována, společenství je připraveno k založení!  Kliknutím na tlačítko na záložce základního kamene spustíš slavnostní odhalení, kterého se mohou zúčastnit všichni tví občané a oslavit vznik nového společenství.
 
     Po založení začne tvé společenství působit {vlivem|Influence}, vytvářet {pozemek společenství|Settlement Property} a získávat {kulturu|Culture}.
   </target>
       </trans-unit>
       <trans-unit id="428" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Settings</source>
-        <target state="translated">Nastavení založení společenství</target>
+        <target state="translated">Nastavení základního kamene společenství</target>
       </trans-unit>
       <trans-unit id="429" xml:space="preserve">
         <source xml:space="preserve">
@@ -3577,7 +3577,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
     Once a settlement is {Founded|Founding}, it will begin casting influence in a radius around the foundation.  Any land under its influnece will be subject to its laws and civic actions.
   </source>
         <target state="translated">
-    Jakmile je společenství {založeno|Founding}, začne působit vlivem v okruhu kolem objektu založení. Veškerá půda v dosahu jeho vlivu podléhá jeho zákonům a občanským akcím.
+    Jakmile je společenství {založeno|Founding}, začne působit vlivem v okruhu kolem základního kamene. Veškerá půda v dosahu jeho vlivu podléhá jeho zákonům a občanským akcím.
   </target>
       </trans-unit>
       <trans-unit id="433" xml:space="preserve">
@@ -3646,7 +3646,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
         <target state="translated">
     K pozemkové krizi dojde, když počet občanů ve společenství klesne natolik, že už nestačí k udržení používaných záborových kolíků a záborových listin.
     
-    Společenství vytvářejí záborové kolíky a listiny, když se připojují občané, a odstraňují je, když odcházejí. Pokud tedy občané odejdou a v objektu založení společenství nejsou žádné volné kolíky ani listiny, které by šlo odstranit, může vzniknout pozemková krize.  V takovém případě se spustí časovač a do jeho konce musí občané vrátit potřebný počet kolíků a listin do objektu založení, ať už uvolněním pozemků, nebo jejich sebráním jakkoli jinak.  Když se během pozemkové krize kolíky a listiny vloží do objektu založení, okamžitě se odstraní, a pokud je nedostatek vyrovnán, krize okamžitě skončí.
+    Společenství vytvářejí záborové kolíky a listiny, když se připojují občané, a odstraňují je, když odcházejí. Pokud tedy občané odejdou a v základním kameni společenství nejsou žádné volné kolíky ani listiny, které by šlo odstranit, může vzniknout pozemková krize.  V takovém případě se spustí časovač a do jeho konce musí občané vrátit potřebný počet kolíků a listin do základního kamene, ať už uvolněním pozemků, nebo jejich sebráním jakkoli jinak.  Když se během pozemkové krize kolíky a listiny vloží do základního kamene, okamžitě se odstraní, a pokud je nedostatek vyrovnán, krize okamžitě skončí.
 
     Pokud občané nemohou nebo nechtějí potřebné kolíky a listiny před vypršením časovače vrátit, zničí se, ať jsou kdekoli. Jakmile se pozemková krize vyřeší, dojde k těmto zabavením:
     - Nejprve se zničí listiny a kolíky, které se nepoužívají (leží třeba v batohu občana).
@@ -3675,7 +3675,7 @@ Hostina skončí, když hostitel klikne na „Ukončit hostinu“, po uplynutí 
 
     Společenství tyto předměty vytváří podle své úrovně, přičemž záborové kolíky mají varianty {TownClaimStakeItem}, {CountryClaimStakeItem} a {FederationClaimStakeItem}.  Zabírají pozemek jménem společenství, ke kterému patří, a lze je posílit pomocí {záborových listin|ClaimPaperItem}, aby zabíraly víc parcel – stačí je vložit do inventáře záborového kolíku.
 
-    Pokud občané odejdou, sníží se nejvyšší povolený počet záborových listin a kolíků a odeberou se z inventáře objektu založení. Pokud jsou všechny v používání a nelze je vrátit, nastane {pozemková krize|Property Crisis}.
+    Pokud občané odejdou, sníží se nejvyšší povolený počet záborových listin a kolíků a odeberou se z inventáře základního kamene. Pokud jsou všechny v používání a nelze je vrátit, nastane {pozemková krize|Property Crisis}.
   </target>
       </trans-unit>
       <trans-unit id="442" xml:space="preserve">
