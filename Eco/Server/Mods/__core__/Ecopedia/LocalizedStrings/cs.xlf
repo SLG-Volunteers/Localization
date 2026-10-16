@@ -228,7 +228,7 @@ Majitel může určit, které předměty se mají rozdávat, kolik kusů od kaž
       </trans-unit>
       <trans-unit id="25" xml:space="preserve">
         <source xml:space="preserve">Allows the owner to provide free items to new citizens, as an act of good will and to boost initial citizen prosperity.</source>
-        <target xml:space="preserve" state="translated">Umožňuje majiteli nabídnout novým občanům předměty zdarma jako projev dobré vůle a podporu počáteční prosperity občanů.</target>
+        <target xml:space="preserve" state="translated">Umožňuje majiteli rozdávat novým občanům předměty zdarma – jako projev dobré vůle a pomoc, aby se rychleji rozjeli.</target>
       </trans-unit>
       <trans-unit id="26" xml:space="preserve">
         <source xml:space="preserve">The Mint Component allows citizens to create {Currencies|Currency} which are backed by a resource. 
