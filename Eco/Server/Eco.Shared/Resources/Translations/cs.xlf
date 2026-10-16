@@ -1006,7 +1006,7 @@
       </trans-unit>
       <trans-unit id="Acorn Powder" xml:space="preserve">
         <source xml:space="preserve">Acorn Powder</source>
-        <target xml:space="preserve" state="translated">Žaludová moučka</target>
+        <target xml:space="preserve" state="translated">Žaludová mouka</target>
       </trans-unit>
       <trans-unit id="Raw Meat" xml:space="preserve">
         <source xml:space="preserve">Raw Meat</source>
@@ -1070,7 +1070,7 @@
       </trans-unit>
       <trans-unit id="Bear S U P R E M E" xml:space="preserve">
         <source xml:space="preserve">Bear S U P R E M E</source>
-        <target xml:space="preserve" state="translated">Medvěd S U P R E M E</target>
+        <target xml:space="preserve" state="translated">Medvědí S U P R É M</target>
       </trans-unit>
       <trans-unit id="Raw Sausage" xml:space="preserve">
         <source xml:space="preserve">Raw Sausage</source>
@@ -1114,11 +1114,11 @@
       </trans-unit>
       <trans-unit id="Raw Fish" xml:space="preserve">
         <source xml:space="preserve">Raw Fish</source>
-        <target xml:space="preserve" state="translated">Syrová ryba</target>
+        <target xml:space="preserve" state="translated">Syrové rybí maso</target>
       </trans-unit>
       <trans-unit id="Charred Fish" xml:space="preserve">
         <source xml:space="preserve">Charred Fish</source>
-        <target xml:space="preserve" state="translated">Opečená ryba</target>
+        <target xml:space="preserve" state="translated">Opečené rybí maso</target>
       </trans-unit>
       <trans-unit id="Charred Meat" xml:space="preserve">
         <source xml:space="preserve">Charred Meat</source>
@@ -1158,7 +1158,7 @@
       </trans-unit>
       <trans-unit id="Crimson Salad" xml:space="preserve">
         <source xml:space="preserve">Crimson Salad</source>
-        <target xml:space="preserve" state="translated">Karmínový salát</target>
+        <target xml:space="preserve" state="translated">Rudý salát</target>
       </trans-unit>
       <trans-unit id="Raw Bacon" xml:space="preserve">
         <source xml:space="preserve">Raw Bacon</source>
@@ -1262,7 +1262,7 @@
       </trans-unit>
       <trans-unit id="Wild Stew" xml:space="preserve">
         <source xml:space="preserve">Wild Stew</source>
-        <target xml:space="preserve" state="translated">Ragú z divokých rostlin</target>
+        <target xml:space="preserve" state="translated">Divoké ragú</target>
       </trans-unit>
       <trans-unit id="Wilted Fiddleheads" xml:space="preserve">
         <source xml:space="preserve">Wilted Fiddleheads</source>
@@ -1290,7 +1290,7 @@
       </trans-unit>
       <trans-unit id="Log" xml:space="preserve">
         <source xml:space="preserve">Log</source>
-        <target xml:space="preserve" state="translated">Kmen</target>
+        <target xml:space="preserve" state="translated">Kláda</target>
       </trans-unit>
       <trans-unit id="Arrow" xml:space="preserve">
         <source xml:space="preserve">Arrow</source>
@@ -1418,7 +1418,7 @@
       </trans-unit>
       <trans-unit id="Hewn Log" xml:space="preserve">
         <source xml:space="preserve">Hewn Log</source>
-        <target xml:space="preserve" state="translated">Otesaný kmen</target>
+        <target xml:space="preserve" state="translated">Otesaná kláda</target>
       </trans-unit>
       <trans-unit id="Iron Ore" xml:space="preserve">
         <source xml:space="preserve">Iron Ore</source>
@@ -2094,7 +2094,7 @@
       </trans-unit>
       <trans-unit id="Logs" xml:space="preserve">
         <source xml:space="preserve">Logs</source>
-        <target xml:space="preserve" state="translated">Kmeny</target>
+        <target xml:space="preserve" state="translated">Klády</target>
       </trans-unit>
       <trans-unit id="Sands" xml:space="preserve">
         <source xml:space="preserve">Sands</source>
@@ -2987,7 +2987,7 @@
       </trans-unit>
       <trans-unit id="Just because the name has 'bear' in it doesn't mean it actually contains bear." xml:space="preserve">
         <source xml:space="preserve">Just because the name has 'bear' in it doesn't mean it actually contains bear.</source>
-        <target xml:space="preserve" state="translated">Jen proto, že je v názvu „medvěd“, neznamená to, že jídlo opravdu obsahuje medvěda.</target>
+        <target xml:space="preserve" state="translated">Jen proto, že je v názvu „medvědí“, neznamená to, že jídlo opravdu obsahuje medvěda.</target>
       </trans-unit>
       <trans-unit id="A brilliantly colored bulb with an earthy sweetness." xml:space="preserve">
         <source xml:space="preserve">A brilliantly colored bulb with an earthy sweetness.</source>
@@ -3159,7 +3159,7 @@
       </trans-unit>
       <trans-unit id="A fatty cut of raw fish." xml:space="preserve">
         <source xml:space="preserve">A fatty cut of raw fish.</source>
-        <target xml:space="preserve" state="translated">Tučný kus syrové ryby.</target>
+        <target xml:space="preserve" state="translated">Tučný kus syrového rybího masa.</target>
       </trans-unit>
       <trans-unit id="Fresh raw meat from the hunt. It should probably be cooked before being consumed." xml:space="preserve">
         <source xml:space="preserve">Fresh raw meat from the hunt. It should probably be cooked before being consumed.</source>
@@ -3355,7 +3355,7 @@
       </trans-unit>
       <trans-unit id="A log hewn and shaped to be a building material." xml:space="preserve">
         <source xml:space="preserve">A log hewn and shaped to be a building material.</source>
-        <target xml:space="preserve" state="translated">Kmen otesaný a upravený na stavební materiál.</target>
+        <target xml:space="preserve" state="translated">Kláda otesaná a upravená na stavební materiál.</target>
       </trans-unit>
       <trans-unit id="Unrefined ore with traces of iron." xml:space="preserve">
         <source xml:space="preserve">Unrefined ore with traces of iron.</source>
@@ -3371,7 +3371,7 @@
       </trans-unit>
       <trans-unit id="A stack of logs." xml:space="preserve">
         <source xml:space="preserve">A stack of logs.</source>
-        <target xml:space="preserve" state="translated">Hromada kmenů.</target>
+        <target xml:space="preserve" state="translated">Hromada klád.</target>
       </trans-unit>
       <trans-unit id="Can be fashioned into various usable equipment." xml:space="preserve">
         <source xml:space="preserve">Can be fashioned into various usable equipment.</source>
@@ -7162,7 +7162,7 @@
       </trans-unit>
       <trans-unit id="A door made from roughly hewn logs." xml:space="preserve">
         <source xml:space="preserve">A door made from roughly hewn logs.</source>
-        <target xml:space="preserve" state="translated">Dveře vyrobené z hrubě otesaných kmenů.</target>
+        <target xml:space="preserve" state="translated">Dveře vyrobené z hrubě otesaných klád.</target>
       </trans-unit>
       <trans-unit id="Kitchen" xml:space="preserve">
         <source xml:space="preserve">Kitchen</source>
@@ -11627,7 +11627,7 @@
       </trans-unit>
       <trans-unit id="Hewn Logs" xml:space="preserve">
         <source xml:space="preserve">Hewn Logs</source>
-        <target xml:space="preserve" state="translated">Otesané kmeny</target>
+        <target xml:space="preserve" state="translated">Otesané klády</target>
       </trans-unit>
       <trans-unit id="Work orders will use nearby tables and storage to fulfill work orders." xml:space="preserve">
         <source xml:space="preserve">Work orders will use nearby tables and storage to fulfill work orders.</source>
@@ -12520,7 +12520,7 @@
       </trans-unit>
       <trans-unit id="A log hewn and shaped to be a building material. Hewing logs at a workbench will grant no experience." xml:space="preserve">
         <source xml:space="preserve">A log hewn and shaped to be a building material. Hewing logs at a workbench will grant no experience.</source>
-        <target xml:space="preserve" state="translated">Kmen otesaný do podoby stavebního materiálu. Za otesávání kmenů na pracovním stole nezískáš žádné zkušenosti.</target>
+        <target xml:space="preserve" state="translated">Kláda otesaná do podoby stavebního materiálu. Za otesávání klád na pracovním stole nezískáš žádné zkušenosti.</target>
       </trans-unit>
       <trans-unit id="Player Trampled" xml:space="preserve">
         <source xml:space="preserve">Player Trampled</source>
@@ -18238,7 +18238,7 @@
       </trans-unit>
       <trans-unit id="Pastry Dough" xml:space="preserve">
         <source xml:space="preserve">Pastry Dough</source>
-        <target xml:space="preserve" state="translated">Křehké těsto</target>
+        <target xml:space="preserve" state="translated">Těsto na jemné pečivo</target>
       </trans-unit>
       <trans-unit id="Pastry" xml:space="preserve">
         <source xml:space="preserve">Pastry</source>
@@ -18598,7 +18598,7 @@
       </trans-unit>
       <trans-unit id="Spruce Log" xml:space="preserve">
         <source xml:space="preserve">Spruce Log</source>
-        <target xml:space="preserve" state="translated">Smrkový kmen</target>
+        <target xml:space="preserve" state="translated">Smrková kláda</target>
       </trans-unit>
       <trans-unit id="Softwood" xml:space="preserve">
         <source xml:space="preserve">Softwood</source>
@@ -18610,11 +18610,11 @@
       </trans-unit>
       <trans-unit id="Softwood Hewn Log" xml:space="preserve">
         <source xml:space="preserve">Softwood Hewn Log</source>
-        <target xml:space="preserve" state="translated">Otesaný kmen z měkkého dřeva</target>
+        <target xml:space="preserve" state="translated">Otesaná kláda z měkkého dřeva</target>
       </trans-unit>
       <trans-unit id="HewnLog" xml:space="preserve">
         <source xml:space="preserve">HewnLog</source>
-        <target xml:space="preserve" state="translated">Otesaný kmen</target>
+        <target xml:space="preserve" state="translated">Otesaná kláda</target>
       </trans-unit>
       <trans-unit id="Slag" xml:space="preserve">
         <source xml:space="preserve">Slag</source>
@@ -18630,7 +18630,7 @@
       </trans-unit>
       <trans-unit id="Redwood Log" xml:space="preserve">
         <source xml:space="preserve">Redwood Log</source>
-        <target xml:space="preserve" state="translated">Sekvojový kmen</target>
+        <target xml:space="preserve" state="translated">Sekvojová kláda</target>
       </trans-unit>
       <trans-unit id="Liquid Fuel" xml:space="preserve">
         <source xml:space="preserve">Liquid Fuel</source>
@@ -18638,7 +18638,7 @@
       </trans-unit>
       <trans-unit id="Palm Log" xml:space="preserve">
         <source xml:space="preserve">Palm Log</source>
-        <target xml:space="preserve" state="translated">Palmový kmen</target>
+        <target xml:space="preserve" state="translated">Palmová kláda</target>
       </trans-unit>
       <trans-unit id="Concentrated Ore" xml:space="preserve">
         <source xml:space="preserve">Concentrated Ore</source>
@@ -18646,7 +18646,7 @@
       </trans-unit>
       <trans-unit id="Oak Log" xml:space="preserve">
         <source xml:space="preserve">Oak Log</source>
-        <target xml:space="preserve" state="translated">Dubový kmen</target>
+        <target xml:space="preserve" state="translated">Dubová kláda</target>
       </trans-unit>
       <trans-unit id="Hardwood" xml:space="preserve">
         <source xml:space="preserve">Hardwood</source>
@@ -18666,7 +18666,7 @@
       </trans-unit>
       <trans-unit id="Joshua Log" xml:space="preserve">
         <source xml:space="preserve">Joshua Log</source>
-        <target xml:space="preserve" state="translated">Kmen juky</target>
+        <target xml:space="preserve" state="translated">Kláda juky</target>
       </trans-unit>
       <trans-unit id="Ore" xml:space="preserve">
         <source xml:space="preserve">Ore</source>
@@ -18686,7 +18686,7 @@
       </trans-unit>
       <trans-unit id="Hardwood Hewn Log" xml:space="preserve">
         <source xml:space="preserve">Hardwood Hewn Log</source>
-        <target xml:space="preserve" state="translated">Otesaný kmen z tvrdého dřeva</target>
+        <target xml:space="preserve" state="translated">Otesaná kláda z tvrdého dřeva</target>
       </trans-unit>
       <trans-unit id="Gold Concentrate" xml:space="preserve">
         <source xml:space="preserve">Gold Concentrate</source>
@@ -18698,7 +18698,7 @@
       </trans-unit>
       <trans-unit id="Fir Log" xml:space="preserve">
         <source xml:space="preserve">Fir Log</source>
-        <target xml:space="preserve" state="translated">Jedlový kmen</target>
+        <target xml:space="preserve" state="translated">Jedlová kláda</target>
       </trans-unit>
       <trans-unit id="Crushed Stone" xml:space="preserve" translate="no">
         <source xml:space="preserve">Crushed Stone</source>
@@ -18816,15 +18816,15 @@
       </trans-unit>
       <trans-unit id="Ceiba Log" xml:space="preserve">
         <source xml:space="preserve">Ceiba Log</source>
-        <target xml:space="preserve" state="translated">Kmen vlnovce</target>
+        <target xml:space="preserve" state="translated">Kláda vlnovce</target>
       </trans-unit>
       <trans-unit id="Cedar Log" xml:space="preserve">
         <source xml:space="preserve">Cedar Log</source>
-        <target xml:space="preserve" state="translated">Cedrový kmen</target>
+        <target xml:space="preserve" state="translated">Cedrová kláda</target>
       </trans-unit>
       <trans-unit id="Birch Log" xml:space="preserve">
         <source xml:space="preserve">Birch Log</source>
-        <target xml:space="preserve" state="translated">Březový kmen</target>
+        <target xml:space="preserve" state="translated">Březová kláda</target>
       </trans-unit>
       <trans-unit id="Ashlar Stone" xml:space="preserve">
         <source xml:space="preserve">Ashlar Stone</source>
@@ -20107,7 +20107,7 @@
       </trans-unit>
       <trans-unit id="Your Civic Duties" xml:space="preserve">
         <source xml:space="preserve">Your Civic Duties</source>
-        <target xml:space="preserve" state="translated">Tvé občanské povinnosti</target>
+        <target xml:space="preserve" state="translated">Tvé občanské pravomoci</target>
       </trans-unit>
       <trans-unit id="Contained Districts" xml:space="preserve">
         <source xml:space="preserve">Contained Districts</source>
@@ -23914,7 +23914,7 @@
       </trans-unit>
       <trans-unit id="Civic Duties" xml:space="preserve">
         <source xml:space="preserve">Civic Duties</source>
-        <target xml:space="preserve" state="translated">Občanské povinnosti</target>
+        <target xml:space="preserve" state="translated">Občanské pravomoci</target>
       </trans-unit>
       <trans-unit id="Economic Participation" xml:space="preserve">
         <source xml:space="preserve">Economic Participation</source>
@@ -24106,7 +24106,7 @@
       </trans-unit>
       <trans-unit id="Carpenters use harvested logs to craft a variety of useful products. Wood is an excellent source of building materials and furniture for homes." xml:space="preserve">
         <source xml:space="preserve">Carpenters use harvested logs to craft a variety of useful products. Wood is an excellent source of building materials and furniture for homes.</source>
-        <target xml:space="preserve" state="translated">Tesaři zpracovávají vytěžené kmeny na řadu užitečných výrobků. Dřevo je výborným zdrojem stavebních materiálů a nábytku do domů.</target>
+        <target xml:space="preserve" state="translated">Tesaři zpracovávají vytěžené klády na řadu užitečných výrobků. Dřevo je výborným zdrojem stavebních materiálů a nábytku do domů.</target>
       </trans-unit>
       <trans-unit id="atob" translate="no">
         <source xml:space="preserve">atob</source>
@@ -24734,7 +24734,7 @@
       </trans-unit>
       <trans-unit id="Spruce log is a type of softwood, sometimes referred to as whitewood." xml:space="preserve">
         <source xml:space="preserve">Spruce log is a type of softwood, sometimes referred to as whitewood.</source>
-        <target xml:space="preserve" state="translated">Smrkový kmen je druh měkkého dřeva, někdy zvaného bílé dřevo.</target>
+        <target xml:space="preserve" state="translated">Smrková kláda je druh měkkého dřeva, někdy zvaného bílé dřevo.</target>
       </trans-unit>
       <trans-unit id="Saguaro rib is a basic, lightweight wood harvested from the saguaro cactus." xml:space="preserve">
         <source xml:space="preserve">Saguaro rib is a basic, lightweight wood harvested from the saguaro cactus.</source>
@@ -24742,11 +24742,11 @@
       </trans-unit>
       <trans-unit id="Redwood log is a type of softwood that can be easily identified by its distinct red bark." xml:space="preserve">
         <source xml:space="preserve">Redwood log is a type of softwood that can be easily identified by its distinct red bark.</source>
-        <target xml:space="preserve" state="translated">Sekvojový kmen je druh měkkého dřeva, které lze snadno poznat podle výrazné červené kůry.</target>
+        <target xml:space="preserve" state="translated">Sekvojová kláda je druh měkkého dřeva, které lze snadno poznat podle výrazné červené kůry.</target>
       </trans-unit>
       <trans-unit id="Oak log is a type of hardwood. With its great strength and hardness, oak is commonly used for furniture and building materials." xml:space="preserve">
         <source xml:space="preserve">Oak log is a type of hardwood. With its great strength and hardness, oak is commonly used for furniture and building materials.</source>
-        <target xml:space="preserve" state="translated">Dubový kmen je druh tvrdého dřeva. Dub se díky své pevnosti a tvrdosti běžně používá na nábytek a stavební materiály.</target>
+        <target xml:space="preserve" state="translated">Dubová kláda je druh tvrdého dřeva. Dub se díky své pevnosti a tvrdosti běžně používá na nábytek a stavební materiály.</target>
       </trans-unit>
       <trans-unit id="Iron ore that has been concentrated to remove impurities. Ore concentrate is used by smiths to smelt metal bars." xml:space="preserve">
         <source xml:space="preserve">Iron ore that has been concentrated to remove impurities. Ore concentrate is used by smiths to smelt metal bars.</source>
@@ -24758,7 +24758,7 @@
       </trans-unit>
       <trans-unit id="Fir log is a type of softwood with a nice piney smell." xml:space="preserve">
         <source xml:space="preserve">Fir log is a type of softwood with a nice piney smell.</source>
-        <target xml:space="preserve" state="translated">Jedlový kmen je druh měkkého dřeva s příjemnou jehličnatou vůní.</target>
+        <target xml:space="preserve" state="translated">Jedlová kláda je druh měkkého dřeva s příjemnou jehličnatou vůní.</target>
       </trans-unit>
       <trans-unit id="Slag that has been crushed into a fine gravel." xml:space="preserve">
         <source xml:space="preserve">Slag that has been crushed into a fine gravel.</source>
@@ -24806,15 +24806,15 @@
       </trans-unit>
       <trans-unit id="Ceiba log is a type of hardwood. The Ceiba tree, with its giant trunk, is often sought after by loggers for the large volume of logs it produces." xml:space="preserve">
         <source xml:space="preserve">Ceiba log is a type of hardwood. The Ceiba tree, with its giant trunk, is often sought after by loggers for the large volume of logs it produces.</source>
-        <target xml:space="preserve" state="translated">Kmen vlnovce je druh tvrdého dřeva. Vlnovec s obrovským kmenem dřevorubci často vyhledávají kvůli velkému množství kmenů, které poskytuje.</target>
+        <target xml:space="preserve" state="translated">Kláda vlnovce je druh tvrdého dřeva. Vlnovec s obrovským kmenem dřevorubci často vyhledávají kvůli velkému množství klád, které poskytuje.</target>
       </trans-unit>
       <trans-unit id="Cedar log is a type of softwood. Cedar wood is a natural repellent to moths." xml:space="preserve">
         <source xml:space="preserve">Cedar log is a type of softwood. Cedar wood is a natural repellent to moths.</source>
-        <target xml:space="preserve" state="translated">Cedrový kmen je druh měkkého dřeva. Cedrové dřevo je přírodní repelent proti molům.</target>
+        <target xml:space="preserve" state="translated">Cedrová kláda je druh měkkého dřeva. Cedrové dřevo je přírodní repelent proti molům.</target>
       </trans-unit>
       <trans-unit id="Birch log is a type of hardwood, notable for its white and papery bark." xml:space="preserve">
         <source xml:space="preserve">Birch log is a type of hardwood, notable for its white and papery bark.</source>
-        <target xml:space="preserve" state="translated">Březový kmen je druh tvrdého dřeva, výrazný bílou a papírovitou kůrou.</target>
+        <target xml:space="preserve" state="translated">Březová kláda je druh tvrdého dřeva, výrazná bílou a papírovitou kůrou.</target>
       </trans-unit>
       <trans-unit id="Asphalt Concrete" xml:space="preserve">
         <source xml:space="preserve">Asphalt Concrete</source>
@@ -27042,11 +27042,11 @@
       </trans-unit>
       <trans-unit id="Palm log comes from the palm tree, which is unique among trees that it is neither hardwood nor softwood. It still makes an excellent building material." xml:space="preserve">
         <source xml:space="preserve">Palm log comes from the palm tree, which is unique among trees that it is neither hardwood nor softwood. It still makes an excellent building material.</source>
-        <target xml:space="preserve" state="translated">Palmový kmen pochází z palmy, která je mezi stromy jedinečná tím, že dává dřevo, které není ani tvrdé, ani měkké. Přesto je to výborný stavební materiál.</target>
+        <target xml:space="preserve" state="translated">Palmová kláda pochází z palmy, která je mezi stromy jedinečná tím, že dává dřevo, které není ani tvrdé, ani měkké. Přesto je to výborný stavební materiál.</target>
       </trans-unit>
       <trans-unit id="Joshua log is a basic wood, harvested from the Joshua tree. Despite the name, Joshua trees are succulents and the building material they provide is neither hardwood nor softwood." xml:space="preserve">
         <source xml:space="preserve">Joshua log is a basic wood, harvested from the Joshua tree. Despite the name, Joshua trees are succulents and the building material they provide is neither hardwood nor softwood.</source>
-        <target xml:space="preserve" state="translated">Kmen juky je základní dřevo získávané z juky. Navzdory anglickému názvu „Joshua tree“ (strom) jsou juky sukulenty a stavební materiál, který poskytují, není ani tvrdé, ani měkké dřevo.</target>
+        <target xml:space="preserve" state="translated">Kláda juky je základní dřevo získávané z juky. Navzdory anglickému názvu „Joshua tree“ (strom) jsou juky sukulenty a stavební materiál, který poskytují, není ani tvrdé, ani měkké dřevo.</target>
       </trans-unit>
       <trans-unit id="property owned by" xml:space="preserve">
         <source xml:space="preserve">property owned by</source>
@@ -27713,7 +27713,7 @@
       </trans-unit>
       <trans-unit id="Advanced Upgrade that greatly increases efficiency when crafting Advanced Smelting recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced Upgrade that greatly increases efficiency when crafting Advanced Smelting recipes.</source>
-        <target xml:space="preserve" state="translated">Pokročilé vylepšení, které výrazně zvyšuje efektivitu výroby u receptů pokročilého hutnictví.</target>
+        <target xml:space="preserve" state="translated">Pokročilé vylepšení, které výrazně zvyšuje efektivitu výroby receptů oboru pokročilého hutnictví.</target>
       </trans-unit>
       <trans-unit id="It tastes somewhat burnt but at least the fire has removed the bitter taste." xml:space="preserve">
         <source xml:space="preserve">It tastes somewhat burnt but at least the fire has removed the bitter taste.</source>
@@ -31638,7 +31638,7 @@
       </trans-unit>
       <trans-unit id="Hewn Logs Project" xml:space="preserve">
         <source xml:space="preserve">Hewn Logs Project</source>
-        <target xml:space="preserve" state="translated">Projekt: otesané kmeny</target>
+        <target xml:space="preserve" state="translated">Projekt: otesané klády</target>
       </trans-unit>
       <trans-unit id="for" xml:space="preserve">
         <source xml:space="preserve">for</source>
@@ -36902,7 +36902,7 @@
       </trans-unit>
       <trans-unit id="Sensuous Sea Pizza" xml:space="preserve">
         <source xml:space="preserve">Sensuous Sea Pizza</source>
-        <target xml:space="preserve" state="translated">Smyslná mořská pizza</target>
+        <target xml:space="preserve" state="translated">Mámivá mořská pizza</target>
       </trans-unit>
       <trans-unit id="Shark Fillet Soup" xml:space="preserve">
         <source xml:space="preserve">Shark Fillet Soup</source>
@@ -36934,7 +36934,7 @@
       </trans-unit>
       <trans-unit id="Worldly Donut" xml:space="preserve">
         <source xml:space="preserve">Worldly Donut</source>
-        <target xml:space="preserve" state="translated">Světový donut</target>
+        <target xml:space="preserve" state="translated">Světaznalý donut</target>
       </trans-unit>
       <trans-unit id="CO2 Canister" xml:space="preserve">
         <source xml:space="preserve">CO2 Canister</source>
@@ -38934,7 +38934,7 @@
       </trans-unit>
       <trans-unit id="Place 10 logs in the stockpile by your tent." xml:space="preserve">
         <source xml:space="preserve">Place 10 logs in the stockpile by your tent.</source>
-        <target xml:space="preserve" state="translated">Ulož 10 kmenů do skladu u svého stanu.</target>
+        <target xml:space="preserve" state="translated">Ulož 10 klád do skladu u svého stanu.</target>
       </trans-unit>
       <trans-unit id="Make a Workbench" xml:space="preserve">
         <source xml:space="preserve">Make a Workbench</source>
@@ -39598,7 +39598,7 @@
       </trans-unit>
       <trans-unit id="Your duties are driven by the ratified Constitution" xml:space="preserve">
         <source xml:space="preserve">Your duties are driven by the ratified Constitution</source>
-        <target xml:space="preserve" state="translated">Tvé povinnosti vycházejí z ratifikované ústavy</target>
+        <target xml:space="preserve" state="translated">Tvé pravomoci vycházejí z ratifikované ústavy</target>
       </trans-unit>
       <trans-unit id="Input Inventory" xml:space="preserve">
         <source xml:space="preserve">Input Inventory</source>
@@ -40400,7 +40400,7 @@
       </trans-unit>
       <trans-unit id="Cutting logs into usable crafting and building materials is an important skill for budding communities. Levels up by crafting related recipes." xml:space="preserve">
         <source xml:space="preserve">Cutting logs into usable crafting and building materials is an important skill for budding communities. Levels up by crafting related recipes.</source>
-        <target xml:space="preserve" state="translated">Řezání kmenů na použitelné řemeslné a stavební materiály je pro rodící se komunity důležitá dovednost. Úroveň se zvyšuje výrobou souvisejících receptů.</target>
+        <target xml:space="preserve" state="translated">Řezání klád na použitelné řemeslné a stavební materiály je pro rodící se komunity důležitá dovednost. Úroveň se zvyšuje výrobou souvisejících receptů.</target>
       </trans-unit>
       <trans-unit id="Advanced techniques for producing food over a campfire with a little less burned and a little more golden brown. Levels up by crafting campfire recipes." xml:space="preserve">
         <source xml:space="preserve">Advanced techniques for producing food over a campfire with a little less burned and a little more golden brown. Levels up by crafting campfire recipes.</source>
@@ -42328,7 +42328,7 @@
       </trans-unit>
       <trans-unit id="Flax Stem" xml:space="preserve">
         <source xml:space="preserve">Flax Stem</source>
-        <target xml:space="preserve" state="translated">Lněný stonek</target>
+        <target xml:space="preserve" state="translated">Stonek lnu</target>
       </trans-unit>
       <trans-unit id="Linen Fabric" xml:space="preserve">
         <source xml:space="preserve">Linen Fabric</source>
@@ -43145,7 +43145,7 @@
       </trans-unit>
       <trans-unit id="{0} may apply for membership in this {1} by performing a civic action on their foundation object." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> may apply for membership in this <ph id="1">{1}</ph> by performing a civic action on their foundation object.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> se mohou ucházet o členství v tomto celku typu <ph id="1">{1}</ph> provedením občanské akce na svém objektu založení.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> se mohou ucházet o členství v tomto celku typu <ph id="1">{1}</ph> provedením občanské akce na svém základním kameni.</target>
       </trans-unit>
       <trans-unit id="Until {0} is founded, only the creator {1} may approve applicant {2}." xml:space="preserve">
         <source xml:space="preserve">Until <ph id="0">{0}</ph> is founded, only the creator <ph id="1">{1}</ph> may approve applicant <ph id="2">{2}</ph>.</source>
@@ -43233,7 +43233,7 @@
       </trans-unit>
       <trans-unit id="{0} Foundation" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Foundation</source>
-        <target xml:space="preserve" state="translated">Založení: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Základní kámen: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Found {0}" xml:space="preserve">
         <source xml:space="preserve">Found <ph id="0">{0}</ph></source>
@@ -43897,7 +43897,7 @@
       </trans-unit>
       <trans-unit id="Your duties are determined by the ratified Constitution." xml:space="preserve">
         <source xml:space="preserve">Your duties are determined by the ratified Constitution.</source>
-        <target xml:space="preserve" state="translated">Tvé povinnosti určuje ratifikovaná ústava.</target>
+        <target xml:space="preserve" state="translated">Tvé pravomoci určuje ratifikovaná ústava.</target>
       </trans-unit>
       <trans-unit id="Browse" xml:space="preserve">
         <source xml:space="preserve">Browse</source>
@@ -44374,15 +44374,15 @@
       </trans-unit>
       <trans-unit id="Town Foundation" xml:space="preserve">
         <source xml:space="preserve">Town Foundation</source>
-        <target xml:space="preserve" state="translated">Založení města</target>
+        <target xml:space="preserve" state="translated">Základní kámen města</target>
       </trans-unit>
       <trans-unit id="Country Foundation" xml:space="preserve">
         <source xml:space="preserve">Country Foundation</source>
-        <target xml:space="preserve" state="translated">Založení státu</target>
+        <target xml:space="preserve" state="translated">Základní kámen státu</target>
       </trans-unit>
       <trans-unit id="Federation Foundation" xml:space="preserve">
         <source xml:space="preserve">Federation Foundation</source>
-        <target xml:space="preserve" state="translated">Založení federace</target>
+        <target xml:space="preserve" state="translated">Základní kámen federace</target>
       </trans-unit>
       <trans-unit id="Town Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Town Claim Stake</source>
@@ -47131,7 +47131,7 @@
       </trans-unit>
       <trans-unit id="The number of plots that a settlement foundation allows you to claim by default, specified by settlement type. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">The number of plots that a settlement foundation allows you to claim by default, specified by settlement type. Defined per settlement type.</source>
-        <target xml:space="preserve" state="translated">Výchozí počet parcel, které lze zabrat díky založení společenství, podle typu společenství. Určuje se pro každý typ společenství.</target>
+        <target xml:space="preserve" state="translated">Výchozí počet parcel, které lze zabrat díky základnímu kameni společenství, podle typu společenství. Určuje se pro každý typ společenství.</target>
       </trans-unit>
       <trans-unit id="The number of plots that a homestead claim stake allows you to claim by default." xml:space="preserve">
         <source xml:space="preserve">The number of plots that a homestead claim stake allows you to claim by default.</source>
@@ -47167,7 +47167,7 @@
       </trans-unit>
       <trans-unit id="Minimum culture values of the foundation deed. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">Minimum culture values of the foundation deed. Defined per settlement type.</source>
-        <target xml:space="preserve" state="translated">Minimální hodnoty kultury u listu vlastnictví pro založení společenství. Určuje se pro každý typ společenství.</target>
+        <target xml:space="preserve" state="translated">Minimální hodnoty kultury u listu vlastnictví základního kamene společenství. Určuje se pro každý typ společenství.</target>
       </trans-unit>
       <trans-unit id="Max number of cultural properties per settlement type. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">Max number of cultural properties per settlement type. Defined per settlement type.</source>
@@ -48228,7 +48228,7 @@
       </trans-unit>
       <trans-unit id="Applying min culture for {0} foundation: {1}" xml:space="preserve">
         <source xml:space="preserve">Applying min culture for <ph id="0">{0}</ph> foundation: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Platí minimální kultura pro založení (<ph id="0">{0}</ph>): <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Platí minimální kultura pro základní kámen (<ph id="0">{0}</ph>): <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Self-Transfer Tax" xml:space="preserve">
         <source xml:space="preserve">Self-Transfer Tax</source>
@@ -48348,7 +48348,7 @@
       </trans-unit>
       <trans-unit id="You may claim plots connected to the foundation of {0} while it's in draft form." xml:space="preserve">
         <source xml:space="preserve">You may claim plots connected to the foundation of <ph id="0">{0}</ph> while it's in draft form.</source>
-        <target xml:space="preserve" state="translated">Dokud je založení celku <ph id="0">{0}</ph> ve stavu konceptu, můžeš zabírat navazující parcely.</target>
+        <target xml:space="preserve" state="translated">Dokud je celek <ph id="0">{0}</ph> ve stavu konceptu, můžeš zabírat parcely navazující na jeho základní kámen.</target>
       </trans-unit>
       <trans-unit id="Right-Click claim tool to change deeds." xml:space="preserve">
         <source xml:space="preserve">Right-Click claim tool to change deeds.</source>
@@ -48416,7 +48416,7 @@
       </trans-unit>
       <trans-unit id="Cannot place here: Your Homestead must be no more than {0}m away from the foundation of the {1} you are a citizen of." xml:space="preserve">
         <source xml:space="preserve">Cannot place here: Your Homestead must be no more than <ph id="0">{0}</ph>m away from the foundation of the <ph id="1">{1}</ph> you are a citizen of.</source>
-        <target xml:space="preserve" state="translated">Zde nelze umístit: usedlost smí být nejvýše <ph id="0">{0}</ph> m od založení celku <ph id="1">{1}</ph>, jehož občanství máš.</target>
+        <target xml:space="preserve" state="translated">Zde nelze umístit: usedlost smí být nejvýše <ph id="0">{0}</ph> m od základního kamene celku <ph id="1">{1}</ph>, jehož občanství máš.</target>
       </trans-unit>
       <trans-unit id="This plot is within {0}m of the unfounded {1} (of which you are a citizen), so you may place your homestead here." xml:space="preserve">
         <source xml:space="preserve">This plot is within <ph id="0">{0}</ph>m of the unfounded <ph id="1">{1}</ph> (of which you are a citizen), so you may place your homestead here.</source>
@@ -48448,11 +48448,11 @@
       </trans-unit>
       <trans-unit id="This plot is {2}m away from foundation of {3} at {4}." xml:space="preserve">
         <source xml:space="preserve">This plot is <ph id="2">{2}</ph>m away from foundation of <ph id="3">{3}</ph> at <ph id="4">{4}</ph>.</source>
-        <target xml:space="preserve" state="translated">Tato parcela je <ph id="2">{2}</ph> m od založení celku <ph id="3">{3}</ph> (<ph id="4">{4}</ph>).</target>
+        <target xml:space="preserve" state="translated">Tato parcela je <ph id="2">{2}</ph> m od základního kamene celku <ph id="3">{3}</ph> (<ph id="4">{4}</ph>).</target>
       </trans-unit>
       <trans-unit id="To claim here, you must first become a citizen at the {1} foundation at {2}." xml:space="preserve">
         <source xml:space="preserve">To claim here, you must first become a citizen at the <ph id="1">{1}</ph> foundation at <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated">Zabrat zde půdu lze až po získání občanství na založení celku <ph id="1">{1}</ph> (<ph id="2">{2}</ph>).</target>
+        <target xml:space="preserve" state="translated">Zabrat zde půdu lze až po získání občanství u základního kamene celku <ph id="1">{1}</ph> (<ph id="2">{2}</ph>).</target>
       </trans-unit>
       <trans-unit id="Avatar Observation Toggle" xml:space="preserve">
         <source xml:space="preserve">Avatar Observation Toggle</source>
@@ -49191,7 +49191,7 @@
       </trans-unit>
       <trans-unit id="{0} Foundation Deed" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Foundation Deed</source>
-        <target xml:space="preserve" state="translated">Vlastnictví založení: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Vlastnictví základního kamene: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Anyone can approve new settlements since this one has no creator." xml:space="preserve">
         <source xml:space="preserve">Anyone can approve new settlements since this one has no creator.</source>
@@ -49239,11 +49239,11 @@
       </trans-unit>
       <trans-unit id="This settlement doesn't have a foundation to spawn claim stakes in." xml:space="preserve">
         <source xml:space="preserve">This settlement doesn't have a foundation to spawn claim stakes in.</source>
-        <target xml:space="preserve" state="translated">Toto společenství nemá objekt založení, ve kterém by šlo vytvořit záborové kolíky.</target>
+        <target xml:space="preserve" state="translated">Toto společenství nemá základní kámen, ve kterém by šlo vytvořit záborové kolíky.</target>
       </trans-unit>
       <trans-unit id="This settlement doesn't have a foundation to spawn claim papers in." xml:space="preserve">
         <source xml:space="preserve">This settlement doesn't have a foundation to spawn claim papers in.</source>
-        <target xml:space="preserve" state="translated">Toto společenství nemá objekt založení, ve kterém by šlo vytvořit záborové listiny.</target>
+        <target xml:space="preserve" state="translated">Toto společenství nemá základní kámen, ve kterém by šlo vytvořit záborové listiny.</target>
       </trans-unit>
       <trans-unit id="Your homestead wasn't placed yet." xml:space="preserve">
         <source xml:space="preserve">Your homestead wasn't placed yet.</source>
@@ -49359,7 +49359,7 @@
       </trans-unit>
       <trans-unit id="Property type can't be changed from Cultural because this deed is on a settlement foundation object ({0})." xml:space="preserve">
         <source xml:space="preserve">Property type can't be changed from Cultural because this deed is on a settlement foundation object (<ph id="0">{0}</ph>).</source>
-        <target xml:space="preserve" state="translated">Typ pozemku nelze změnit z „Kulturní“, protože tento list vlastnictví leží na objektu založení společenství (<ph id="0">{0}</ph>).</target>
+        <target xml:space="preserve" state="translated">Typ pozemku nelze změnit z „Kulturní“, protože tento list vlastnictví leží na základním kameni společenství (<ph id="0">{0}</ph>).</target>
       </trans-unit>
       <trans-unit id="Only an owner may change property type." xml:space="preserve">
         <source xml:space="preserve">Only an owner may change property type.</source>
@@ -49595,7 +49595,7 @@
       </trans-unit>
       <trans-unit id="Congratulations! Now you have a Town Foundation, which means you can start a brand new Town Settlement by placing it inside a room." xml:space="preserve">
         <source xml:space="preserve">Congratulations! Now you have a Town Foundation, which means you can start a brand new Town Settlement by placing it inside a room.</source>
-        <target xml:space="preserve" state="translated">Gratulujeme! Nyní máš Založení města, díky kterému můžeš založit zcela nové městské společenství – stačí jej umístit do místnosti.</target>
+        <target xml:space="preserve" state="translated">Gratulujeme! Nyní máš základní kámen města, díky kterému můžeš založit zcela nové městské společenství – stačí jej umístit do místnosti.</target>
       </trans-unit>
       <trans-unit id="How to Start a New Town" xml:space="preserve">
         <source xml:space="preserve">How to Start a New Town</source>
@@ -51402,7 +51402,7 @@
       </trans-unit>
       <trans-unit id="Dried Fish" xml:space="preserve">
         <source xml:space="preserve">Dried Fish</source>
-        <target xml:space="preserve" state="translated">Sušená ryba</target>
+        <target xml:space="preserve" state="translated">Sušené rybí maso</target>
       </trans-unit>
       <trans-unit id="Dried Meat" xml:space="preserve">
         <source xml:space="preserve">Dried Meat</source>
@@ -51637,7 +51637,7 @@
       </trans-unit>
       <trans-unit id="Base Plots On Foundation" xml:space="preserve">
         <source xml:space="preserve">Base Plots On Foundation</source>
-        <target xml:space="preserve" state="translated">Základní počet parcel při založení</target>
+        <target xml:space="preserve" state="translated">Výchozí počet parcel u základního kamene</target>
       </trans-unit>
       <trans-unit id="Base Plots On Homestead Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Base Plots On Homestead Claim Stake</source>
@@ -51649,7 +51649,7 @@
       </trans-unit>
       <trans-unit id="Settlement Foundation Base Influence" xml:space="preserve">
         <source xml:space="preserve">Settlement Foundation Base Influence</source>
-        <target xml:space="preserve" state="translated">Základní vliv založení společenství</target>
+        <target xml:space="preserve" state="translated">Výchozí vliv základního kamene společenství</target>
       </trans-unit>
       <trans-unit id="Settlement Influence Multiplier" xml:space="preserve">
         <source xml:space="preserve">Settlement Influence Multiplier</source>
@@ -51709,7 +51709,7 @@
       </trans-unit>
       <trans-unit id="Min Culture Of Foundation Settlements" xml:space="preserve">
         <source xml:space="preserve">Min Culture Of Foundation Settlements</source>
-        <target xml:space="preserve" state="translated">Min. kultura zakládajících společenství</target>
+        <target xml:space="preserve" state="translated">Min. kultura pozemku základního kamene společenství</target>
       </trans-unit>
       <trans-unit id="Max Number Of Cultural Properties" xml:space="preserve">
         <source xml:space="preserve">Max Number Of Cultural Properties</source>
@@ -51773,7 +51773,7 @@
       </trans-unit>
       <trans-unit id="A founded settlement foundation will provide this much influence, without any culture." xml:space="preserve">
         <source xml:space="preserve">A founded settlement foundation will provide this much influence, without any culture.</source>
-        <target xml:space="preserve" state="translated">Založený objekt založení společenství poskytuje tolik vlivu i bez jakékoli kultury.</target>
+        <target xml:space="preserve" state="translated">Základní kámen založeného společenství poskytuje tolik vlivu i bez jakékoli kultury.</target>
       </trans-unit>
       <trans-unit id="The influence gained from the different deeds that are created inside the settlement will be multiplied by this value." xml:space="preserve">
         <source xml:space="preserve">The influence gained from the different deeds that are created inside the settlement will be multiplied by this value.</source>
@@ -52660,7 +52660,7 @@
       </trans-unit>
       <trans-unit id="Base Influence Radius From Foundation:" xml:space="preserve">
         <source xml:space="preserve">Base Influence Radius From Foundation:</source>
-        <target xml:space="preserve" state="translated">Základní poloměr vlivu ze založení společenství:</target>
+        <target xml:space="preserve" state="translated">Základní poloměr vlivu od základního kamene:</target>
       </trans-unit>
       <trans-unit id="Cultural Influence Radius:" xml:space="preserve">
         <source xml:space="preserve">Cultural Influence Radius:</source>
@@ -52760,7 +52760,7 @@
       </trans-unit>
       <trans-unit id="Ignored {0}: Cannot remove settlement foundations (settlements must be dissolved to unclaim)." xml:space="preserve">
         <source xml:space="preserve">Ignored <ph id="0">{0}</ph>: Cannot remove settlement foundations (settlements must be dissolved to unclaim).</source>
-        <target xml:space="preserve" state="translated">Přeskočeno: <ph id="0">{0}</ph>. Objekty založení společenství nelze odebrat (společenství je nutné rozpustit, aby se pozemek uvolnil).</target>
+        <target xml:space="preserve" state="translated">Přeskočeno: <ph id="0">{0}</ph>. Základní kameny společenství nelze odebrat (společenství je nutné rozpustit, aby se pozemek uvolnil).</target>
       </trans-unit>
       <trans-unit id="Ignored {0} because they are already owned by {1}." xml:space="preserve">
         <source xml:space="preserve">Ignored <ph id="0">{0}</ph> because they are already owned by <ph id="1">{1}</ph>.</source>
@@ -52976,7 +52976,7 @@
       </trans-unit>
       <trans-unit id="Settlement foundations cannot be picked up once founded. They can be moved, or they can be dissolved via civic action." xml:space="preserve">
         <source xml:space="preserve">Settlement foundations cannot be picked up once founded. They can be moved, or they can be dissolved via civic action.</source>
-        <target xml:space="preserve" state="translated">Objekty založení společenství nelze po založení sebrat. Lze je přesunout nebo rozpustit prostřednictvím občanské akce.</target>
+        <target xml:space="preserve" state="translated">Základní kameny společenství nelze po založení sebrat. Lze je přesunout nebo rozpustit prostřednictvím občanské akce.</target>
       </trans-unit>
       <trans-unit id="No remaining citizens." xml:space="preserve">
         <source xml:space="preserve">No remaining citizens.</source>
@@ -53024,7 +53024,7 @@
       </trans-unit>
       <trans-unit id="May only select deeds on {0} claim stakes which do not have a settlement foundation." xml:space="preserve">
         <source xml:space="preserve">May only select deeds on <ph id="0">{0}</ph> claim stakes which do not have a settlement foundation.</source>
-        <target xml:space="preserve" state="translated">Lze vybírat jen listy vlastnictví na záborových kolících společenství <ph id="0">{0}</ph>, které nemají objekt založení společenství.</target>
+        <target xml:space="preserve" state="translated">Lze vybírat jen listy vlastnictví na záborových kolících společenství <ph id="0">{0}</ph>, které nemají základní kámen společenství.</target>
       </trans-unit>
       <trans-unit id="Border Control for {0}." xml:space="preserve">
         <source xml:space="preserve">Border Control for <ph id="0">{0}</ph>.</source>
@@ -53484,7 +53484,7 @@
       </trans-unit>
       <trans-unit id="Removing the last sub-settlement will unplace this settlement. Proceed? Note: you can disable this in the foundation component." xml:space="preserve">
         <source xml:space="preserve">Removing the last sub-settlement will unplace this settlement. Proceed? Note: you can disable this in the foundation component.</source>
-        <target xml:space="preserve" state="translated">Odebráním posledního dceřiného společenství se zruší umístění tohoto společenství. Pokračovat? Poznámka: toto lze vypnout ve funkci základů společenství.</target>
+        <target xml:space="preserve" state="translated">Odebráním posledního dceřiného společenství se zruší umístění tohoto společenství. Pokračovat? Poznámka: toto lze vypnout ve funkci základního kamene.</target>
       </trans-unit>
       <trans-unit id="You can either use the {4} civic action to accept the application or {5} to rescind it." xml:space="preserve">
         <source xml:space="preserve">You can either use the <ph id="4">{4}</ph> civic action to accept the application or <ph id="5">{5}</ph> to rescind it.</source>
@@ -53560,11 +53560,11 @@
       </trans-unit>
       <trans-unit id="You are the last citizen to leave, this will destroy the settlement and give the foundation back to the creator. Are you sure you want to leave?" xml:space="preserve">
         <source xml:space="preserve">You are the last citizen to leave, this will destroy the settlement and give the foundation back to the creator. Are you sure you want to leave?</source>
-        <target xml:space="preserve" state="translated">Jsi posledním občanem, který odchází. Společenství tím zanikne a objekt založení se vrátí tvůrci. Opravdu chceš odejít?</target>
+        <target xml:space="preserve" state="translated">Jsi posledním občanem, který odchází. Společenství tím zanikne a základní kámen se vrátí tvůrci. Opravdu chceš odejít?</target>
       </trans-unit>
       <trans-unit id="Removing the last citizen will dissolve this town. Proceed?  Note: you can disable this in the foundation component." xml:space="preserve">
         <source xml:space="preserve">Removing the last citizen will dissolve this town. Proceed?  Note: you can disable this in the foundation component.</source>
-        <target xml:space="preserve" state="translated">Odebráním posledního občana se toto město rozpustí. Pokračovat?  Poznámka: toto lze vypnout ve funkci základů společenství.</target>
+        <target xml:space="preserve" state="translated">Odebráním posledního občana se toto město rozpustí. Pokračovat?  Poznámka: toto lze vypnout ve funkci základního kamene.</target>
       </trans-unit>
       <trans-unit id="{0} should either move the Homestead plots closer or remove the homestead entirely to become a Citizen." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> should either move the Homestead plots closer or remove the homestead entirely to become a Citizen.</source>
@@ -54275,7 +54275,7 @@
       </trans-unit>
       <trans-unit id="Base Influence Radius Foundation Movement Allowed After Founding" xml:space="preserve">
         <source xml:space="preserve">Base Influence Radius Foundation Movement Allowed After Founding</source>
-        <target xml:space="preserve" state="translated">Povolený posun založení po založení společenství (v rámci základního poloměru vlivu)</target>
+        <target xml:space="preserve" state="translated">Povolený posun základního kamene po založení společenství (v rámci základního poloměru vlivu)</target>
       </trans-unit>
       <trans-unit id="Current World Size Multiplier" xml:space="preserve">
         <source xml:space="preserve">Current World Size Multiplier</source>
@@ -54315,7 +54315,7 @@
       </trans-unit>
       <trans-unit id="This will determine how far the player can move the settlement foundation away from its founding position depending on the base influence of the settlement. Note that this will also be affected by the settlement influence multiplier" xml:space="preserve">
         <source xml:space="preserve">This will determine how far the player can move the settlement foundation away from its founding position depending on the base influence of the settlement. Note that this will also be affected by the settlement influence multiplier</source>
-        <target xml:space="preserve" state="translated">Určuje, jak daleko může hráč posunout založení společenství od místa, kde bylo založeno, podle základního vlivu společenství. Ovlivňuje to i násobič vlivu společenství.</target>
+        <target xml:space="preserve" state="translated">Určuje, jak daleko může hráč posunout základní kámen společenství od jeho polohy při založení, podle základního vlivu společenství. Ovlivňuje to i násobič vlivu společenství.</target>
       </trans-unit>
       <trans-unit id="Current World Size multiplier." xml:space="preserve">
         <source xml:space="preserve">Current World Size multiplier.</source>
@@ -54546,7 +54546,7 @@
       </trans-unit>
       <trans-unit id="Allows title holders to use Embassy Desk objects to determine cultural influence and annex other settlements, set the new-citizen message, and adjust border control in the foundation." xml:space="preserve">
         <source xml:space="preserve">Allows title holders to use Embassy Desk objects to determine cultural influence and annex other settlements, set the new-citizen message, and adjust border control in the foundation.</source>
-        <target xml:space="preserve" state="translated">Umožňuje držitelům funkce používat velvyslanecké stoly k určování kulturního vlivu a anexi dalších společenství, nastavení zprávy pro nové občany a úpravě kontroly hranic v objektu založení společenství.</target>
+        <target xml:space="preserve" state="translated">Umožňuje držitelům funkce používat velvyslanecké stoly k určování kulturního vlivu a anexi dalších společenství, nastavení zprávy pro nové občany a úpravě kontroly hranic na základním kameni společenství.</target>
       </trans-unit>
       <trans-unit id="Children Settlements May Annex Each Other" xml:space="preserve">
         <source xml:space="preserve">Children Settlements May Annex Each Other</source>
@@ -55095,7 +55095,7 @@
       </trans-unit>
       <trans-unit id="Note: A settlement can give special permission to allow non-citizens to claim in its influence at its foundation." xml:space="preserve">
         <source xml:space="preserve">Note: A settlement can give special permission to allow non-citizens to claim in its influence at its foundation.</source>
-        <target xml:space="preserve" state="translated">Poznámka: Společenství může v objektu založení udělit zvláštní povolení, aby ve sféře jeho vlivu mohli zabírat pozemky i ti, kdo občany nejsou.</target>
+        <target xml:space="preserve" state="translated">Poznámka: Společenství může na svém základním kameni udělit zvláštní povolení, aby ve sféře jeho vlivu mohli zabírat pozemky i ti, kdo občany nejsou.</target>
       </trans-unit>
       <trans-unit id="Can copy world block to carried slot with Shift+E." xml:space="preserve">
         <source xml:space="preserve">Can copy world block to carried slot with Shift+E.</source>
@@ -55287,15 +55287,15 @@
       </trans-unit>
       <trans-unit id="You can't move a settlement foundation more than {0}m away from its original foundation position {1}." xml:space="preserve">
         <source xml:space="preserve">You can't move a settlement foundation more than <ph id="0">{0}</ph>m away from its original foundation position <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Založení společenství nelze přesunout o více než <ph id="0">{0}</ph> m od původní polohy <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Základní kámen společenství nelze přesunout o více než <ph id="0">{0}</ph> m od jeho původní polohy <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Upon moving this foundation, the {0} of {1} will not be covered by {2} anymore and their citizenship will be lost. Are you sure about this ?" xml:space="preserve">
         <source xml:space="preserve">Upon moving this foundation, the <ph id="0">{0}</ph> of <ph id="1">{1}</ph> will not be covered by <ph id="2">{2}</ph> anymore and their citizenship will be lost. Are you sure about this ?</source>
-        <target xml:space="preserve" state="translated">Po přesunutí tohoto založení již společenství <ph id="2">{2}</ph> nebude pokrývat <ph id="0">{0}</ph> těchto hráčů: <ph id="1">{1}</ph>. Jejich občanství bude ztraceno. Opravdu chceš pokračovat?</target>
+        <target xml:space="preserve" state="translated">Po přesunutí tohoto základního kamene již společenství <ph id="2">{2}</ph> nebude pokrývat <ph id="0">{0}</ph> těchto hráčů: <ph id="1">{1}</ph>. Jejich občanství bude ztraceno. Opravdu chceš pokračovat?</target>
       </trans-unit>
       <trans-unit id="Upon moving this foundation, {0} will not be {1} of {2} anymore. Are you sure about this ?" xml:space="preserve">
         <source xml:space="preserve">Upon moving this foundation, <ph id="0">{0}</ph> will not be <ph id="1">{1}</ph> of <ph id="2">{2}</ph> anymore. Are you sure about this ?</source>
-        <target xml:space="preserve" state="translated">Po přesunutí tohoto založení již <ph id="0">{0}</ph> nepatří mezi <ph id="1">{1}</ph> (nadřazená společenství: <ph id="2">{2}</ph>). Opravdu chceš pokračovat?</target>
+        <target xml:space="preserve" state="translated">Po přesunutí tohoto základního kamene již <ph id="0">{0}</ph> nepatří mezi <ph id="1">{1}</ph> (nadřazená společenství: <ph id="2">{2}</ph>). Opravdu chceš pokračovat?</target>
       </trans-unit>
       <trans-unit id="homestead" xml:space="preserve">
         <source xml:space="preserve">homestead</source>
@@ -55600,7 +55600,7 @@
       </trans-unit>
       <trans-unit id="Far East Lumber" xml:space="preserve">
         <source xml:space="preserve">Far East Lumber</source>
-        <target xml:space="preserve" state="translated">Dálněvýchodní řezivo</target>
+        <target xml:space="preserve" state="translated">Východoasijské řezivo</target>
       </trans-unit>
       <trans-unit id="WIP" xml:space="preserve">
         <source xml:space="preserve">WIP</source>
@@ -57074,11 +57074,11 @@
       </trans-unit>
       <trans-unit id="This settlement is disabled because the foundation ({0}) has been disabled for too long!" xml:space="preserve">
         <source xml:space="preserve">This settlement is disabled because the foundation (<ph id="0">{0}</ph>) has been disabled for too long!</source>
-        <target xml:space="preserve" state="translated">Toto společenství je vypnuté, protože objekt založení (<ph id="0">{0}</ph>) byl příliš dlouho vypnutý!</target>
+        <target xml:space="preserve" state="translated">Toto společenství je vypnuté, protože základní kámen (<ph id="0">{0}</ph>) byl příliš dlouho vypnutý!</target>
       </trans-unit>
       <trans-unit id="Until the foundation is repaired, Influence and Laws will not function, and it will be much easier for other settlements to annex this one." xml:space="preserve">
         <source xml:space="preserve">Until the foundation is repaired, Influence and Laws will not function, and it will be much easier for other settlements to annex this one.</source>
-        <target xml:space="preserve" state="translated">Dokud nebude objekt založení opraven, nebudou fungovat vliv ani zákony a ostatním společenstvím bude mnohem snazší toto společenství anektovat.</target>
+        <target xml:space="preserve" state="translated">Dokud nebude základní kámen opraven, nebudou fungovat vliv ani zákony a ostatním společenstvím bude mnohem snazší toto společenství anektovat.</target>
       </trans-unit>
       <trans-unit id="Can be used as currency, up to {0} per item." xml:space="preserve">
         <source xml:space="preserve">Can be used as currency, up to <ph id="0">{0}</ph> per item.</source>
@@ -57555,11 +57555,11 @@
       </trans-unit>
       <trans-unit id="Click the button to unveil the {0} foundation and found the {1}." xml:space="preserve">
         <source xml:space="preserve">Click the button to unveil the <ph id="0">{0}</ph> foundation and found the <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">Kliknutím na tlačítko odhalíš objekt založení typu <ph id="0">{0}</ph> a založíš celek typu <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Kliknutím na tlačítko odhalíš základní kámen typu <ph id="0">{0}</ph> a založíš celek typu <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="After founding {0} you will not be able to move the foundation more than {1}m from its founding position anymore and moving it will not change the source position of influence, which will stay at the original position." xml:space="preserve">
         <source xml:space="preserve">After founding <ph id="0">{0}</ph> you will not be able to move the foundation more than <ph id="1">{1}</ph>m from its founding position anymore and moving it will not change the source position of influence, which will stay at the original position.</source>
-        <target xml:space="preserve" state="translated">Po založení (<ph id="0">{0}</ph>) nebudeš moci přesunout objekt založení dál než <ph id="1">{1}</ph> m od jeho pozice při založení. Přesunutí nezmění zdrojovou pozici vlivu, která zůstane na původním místě.</target>
+        <target xml:space="preserve" state="translated">Po založení (<ph id="0">{0}</ph>) nebudeš moci přesunout základní kámen dál než <ph id="1">{1}</ph> m od jeho pozice při založení. Přesunutí nezmění zdrojovou pozici vlivu, která zůstane na původním místě.</target>
       </trans-unit>
       <trans-unit id="You placed a {0} claim stake in the influence of {1}, this allows you to claim outside the influence of the {2}, extending its influence into the parent {3}." xml:space="preserve">
         <source xml:space="preserve">You placed a <ph id="0">{0}</ph> claim stake in the influence of <ph id="1">{1}</ph>, this allows you to claim outside the influence of the <ph id="2">{2}</ph>, extending its influence into the parent <ph id="3">{3}</ph>.</source>
@@ -57951,7 +57951,7 @@
       </trans-unit>
       <trans-unit id="If the {0} foundation is placed here, its base influence range of {1}m gives these results:" xml:space="preserve">
         <source xml:space="preserve">If the <ph id="0">{0}</ph> foundation is placed here, its base influence range of <ph id="1">{1}</ph>m gives these results:</source>
-        <target xml:space="preserve" state="translated">Pokud se sem umístí objekt založení typu <ph id="0">{0}</ph>, jeho základní dosah vlivu <ph id="1">{1}</ph> m přinese tyto výsledky:</target>
+        <target xml:space="preserve" state="translated">Pokud se sem umístí základní kámen typu <ph id="0">{0}</ph>, jeho základní dosah vlivu <ph id="1">{1}</ph> m přinese tyto výsledky:</target>
       </trans-unit>
       <trans-unit id="In influence range and may become a parent." xml:space="preserve">
         <source xml:space="preserve">In influence range and may become a parent.</source>
@@ -58095,7 +58095,7 @@
       </trans-unit>
       <trans-unit id="It will not cast influence outside of its property nor enforce laws until the foundation is fixed." xml:space="preserve">
         <source xml:space="preserve">It will not cast influence outside of its property nor enforce laws until the foundation is fixed.</source>
-        <target xml:space="preserve" state="translated">Dokud se objekt založení neopraví, nebude společenství vyvíjet vliv mimo svůj pozemek ani prosazovat zákony.</target>
+        <target xml:space="preserve" state="translated">Dokud se základní kámen neopraví, nebude společenství vyvíjet vliv mimo svůj pozemek ani prosazovat zákony.</target>
       </trans-unit>
       <trans-unit id="Dissolution of {0}" xml:space="preserve">
         <source xml:space="preserve">Dissolution of <ph id="0">{0}</ph></source>
@@ -58143,7 +58143,7 @@
       </trans-unit>
       <trans-unit id="Settlement foundation's inventory" xml:space="preserve">
         <source xml:space="preserve">Settlement foundation's inventory</source>
-        <target xml:space="preserve" state="translated">Inventář objektu založení společenství</target>
+        <target xml:space="preserve" state="translated">Inventář základního kamene společenství</target>
       </trans-unit>
       <trans-unit id="Not enough claim papers are in its inventory to support all the claimed plots." xml:space="preserve">
         <source xml:space="preserve">Not enough claim papers are in its inventory to support all the claimed plots.</source>
@@ -58159,7 +58159,7 @@
       </trans-unit>
       <trans-unit id="Can't claim plot, must be under the influence of {0} or a settlement that has given special border control permission on its foundation." xml:space="preserve">
         <source xml:space="preserve">Can't claim plot, must be under the influence of <ph id="0">{0}</ph> or a settlement that has given special border control permission on its foundation.</source>
-        <target xml:space="preserve" state="translated">Parcelu nelze zabrat, musí být ve vlivu společenství <ph id="0">{0}</ph> nebo společenství, které na svém objektu založení udělilo zvláštní povolení ke kontrole hranic.</target>
+        <target xml:space="preserve" state="translated">Parcelu nelze zabrat, musí být ve vlivu společenství <ph id="0">{0}</ph> nebo společenství, které na svém základním kameni udělilo zvláštní povolení ke kontrole hranic.</target>
       </trans-unit>
       <trans-unit id="Can't claim plot, it's under the influence of a settlement that you're not part of and didn't give you any special permission." xml:space="preserve">
         <source xml:space="preserve">Can't claim plot, it's under the influence of a settlement that you're not part of and didn't give you any special permission.</source>
@@ -59709,7 +59709,7 @@
       </trans-unit>
       <trans-unit id="A large log cut in half for placing things on." xml:space="preserve">
         <source xml:space="preserve">A large log cut in half for placing things on.</source>
-        <target xml:space="preserve" state="translated">Velký kmen rozříznutý napůl, na který lze pokládat věci.</target>
+        <target xml:space="preserve" state="translated">Velká kláda rozříznutá napůl, na kterou lze pokládat věci.</target>
       </trans-unit>
       <trans-unit id="Stump Table" xml:space="preserve">
         <source xml:space="preserve">Stump Table</source>
@@ -59899,11 +59899,11 @@
       </trans-unit>
       <trans-unit id="Use Foundation As Spawn" xml:space="preserve">
         <source xml:space="preserve">Use Foundation As Spawn</source>
-        <target xml:space="preserve" state="translated">Použít založení společenství jako místo zrození</target>
+        <target xml:space="preserve" state="translated">Použít základní kámen společenství jako místo zrození</target>
       </trans-unit>
       <trans-unit id="Enabling this feature will set the settlement spawn point to the town foundation instead of the immigration desk." xml:space="preserve">
         <source xml:space="preserve">Enabling this feature will set the settlement spawn point to the town foundation instead of the immigration desk.</source>
-        <target xml:space="preserve" state="translated">Po zapnutí této funkce se místo zrození společenství přesune z imigračního stolu na objekt založení města.</target>
+        <target xml:space="preserve" state="translated">Po zapnutí této funkce se místo zrození společenství přesune z imigračního stolu na základní kámen města.</target>
       </trans-unit>
       <trans-unit id="Restrict Count To Citizen" xml:space="preserve">
         <source xml:space="preserve">Restrict Count To Citizen</source>
@@ -60071,7 +60071,7 @@
       </trans-unit>
       <trans-unit id="Processed Acorn Powder" xml:space="preserve">
         <source xml:space="preserve">Processed Acorn Powder</source>
-        <target xml:space="preserve" state="translated">Zpracovaná žaludová moučka</target>
+        <target xml:space="preserve" state="translated">Zpracovaná žaludová mouka</target>
       </trans-unit>
       <trans-unit id="Peat Charcoal" xml:space="preserve">
         <source xml:space="preserve">Peat Charcoal</source>
@@ -60271,7 +60271,7 @@
       </trans-unit>
       <trans-unit id="Warning: {0} is not attached to the settlement foundation." xml:space="preserve">
         <source xml:space="preserve">Warning: <ph id="0">{0}</ph> is not attached to the settlement foundation.</source>
-        <target xml:space="preserve" state="translated">Upozornění: list vlastnictví <ph id="0">{0}</ph> není napojen na založení společenství.</target>
+        <target xml:space="preserve" state="translated">Upozornění: list vlastnictví <ph id="0">{0}</ph> není napojen na základní kámen společenství.</target>
       </trans-unit>
       <trans-unit id="The deed {0} has been removed from the list of cultural properties generating influence for {1} as it is no longer valid." xml:space="preserve">
         <source xml:space="preserve">The deed <ph id="0">{0}</ph> has been removed from the list of cultural properties generating influence for <ph id="1">{1}</ph> as it is no longer valid.</source>
@@ -61850,7 +61850,7 @@
       </trans-unit>
       <trans-unit id="Flax Flower" xml:space="preserve">
         <source xml:space="preserve">Flax Flower</source>
-        <target xml:space="preserve" state="translated">Lněný květ</target>
+        <target xml:space="preserve" state="translated">Květ lnu</target>
       </trans-unit>
       <trans-unit id="For someone special or just for decoration." xml:space="preserve">
         <source xml:space="preserve">For someone special or just for decoration.</source>
@@ -62802,11 +62802,11 @@
       </trans-unit>
       <trans-unit id="Place New Settlement Foundation" xml:space="preserve">
         <source xml:space="preserve">Place New Settlement Foundation</source>
-        <target xml:space="preserve" state="translated">Umístit základy nového společenství</target>
+        <target xml:space="preserve" state="translated">Umístit základní kámen nového společenství</target>
       </trans-unit>
       <trans-unit id="A citizen placed a new settlement foundation within the influence of another." xml:space="preserve">
         <source xml:space="preserve">A citizen placed a new settlement foundation within the influence of another.</source>
-        <target xml:space="preserve" state="translated">Občan umístil objekt založení nového společenství v oblasti vlivu jiného společenství.</target>
+        <target xml:space="preserve" state="translated">Občan umístil základní kámen nového společenství v oblasti vlivu jiného společenství.</target>
       </trans-unit>
       <trans-unit id="Settlement Founded" xml:space="preserve">
         <source xml:space="preserve">Settlement Founded</source>
@@ -67336,7 +67336,7 @@ Celková zbývající populace: <ph id="8">{8}</ph></target>
       <trans-unit id="Tree still has unharvested logs:&#10;{0}" xml:space="preserve">
         <source xml:space="preserve">Tree still has unharvested logs:
 <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">Strom stále obsahuje nesklizené kmeny:
+        <target xml:space="preserve" state="translated">Strom stále obsahuje nesklizené klády:
 <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="&#10;Found {0} at {1}." xml:space="preserve">
@@ -68647,7 +68647,7 @@ Zatím není založeno.</target>
         <source xml:space="preserve">Annexing a target requires paying them Claim Papers from the source settlement.  Unlike resources, these 100% go to the foundation of the target without waste.  The cost is determined per-non-abandoned citizen in the target.
 
 In the case of annexing a Homestead, this number will be increased by the number of Homestead Support Claim Papers that are on the stake.  This makes the support claims not only allow homesteads to claim more plots, but have more protection against annexation. </source>
-        <target xml:space="preserve" state="translated">Anexe cíle vyžaduje zaplatit mu záborové listiny ze zdrojového společenství.  Na rozdíl od surovin jdou tyto listiny ze 100 % bez ztrát do objektu založení cíle.  Cena se počítá za každého neopuštěného občana v cíli.
+        <target xml:space="preserve" state="translated">Anexe cíle vyžaduje zaplatit mu záborové listiny ze zdrojového společenství.  Na rozdíl od surovin jdou tyto listiny ze 100 % bez ztrát do základního kamene cíle.  Cena se počítá za každého neopuštěného občana v cíli.
 
 Při anexi usedlosti se tento počet zvýší o počet podpůrných záborových listin pro usedlost, které jsou na kolíku.  Podpůrné záborové listiny tak usedlostem nejen umožňují zabrat více parcel, ale také je lépe chrání před anexí. </target>
       </trans-unit>
@@ -71502,7 +71502,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="Quick stash" xml:space="preserve">
         <source xml:space="preserve">Quick stash</source>
-        <target state="translated">Rychle uložit</target>
+        <target state="translated">Rychle vložit</target>
       </trans-unit>
       <trans-unit id="Sent {0} private messages to you from {1} test users." xml:space="preserve">
         <source xml:space="preserve">Sent <ph id="0">{0}</ph> private messages to you from <ph id="1">{1}</ph> test users.</source>
