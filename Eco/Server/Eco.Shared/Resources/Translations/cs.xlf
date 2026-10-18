@@ -6974,15 +6974,15 @@
       </trans-unit>
       <trans-unit id="Butcher Bison" xml:space="preserve">
         <source xml:space="preserve">Butcher Bison</source>
-        <target xml:space="preserve" state="translated">Rozbourat bizona</target>
+        <target xml:space="preserve" state="translated">Rozporcovat bizona</target>
       </trans-unit>
       <trans-unit id="Butcher Hare" xml:space="preserve">
         <source xml:space="preserve">Butcher Hare</source>
-        <target xml:space="preserve" state="translated">Rozbourat zajíce</target>
+        <target xml:space="preserve" state="translated">Rozporcovat zajíce</target>
       </trans-unit>
       <trans-unit id="Campfire Bison" xml:space="preserve">
         <source xml:space="preserve">Campfire Bison</source>
-        <target xml:space="preserve" state="translated">Bizon z ohniště</target>
+        <target xml:space="preserve" state="translated">Opéct bizona</target>
       </trans-unit>
       <trans-unit id="Clean Urchins" xml:space="preserve">
         <source xml:space="preserve">Clean Urchins</source>
@@ -22187,7 +22187,7 @@
       </trans-unit>
       <trans-unit id="Campfire Pacific Sardine" xml:space="preserve">
         <source xml:space="preserve">Campfire Pacific Sardine</source>
-        <target xml:space="preserve" state="translated">Sardinka z ohniště</target>
+        <target xml:space="preserve" state="translated">Opéct sardinky</target>
       </trans-unit>
       <trans-unit id="Small Carcass" xml:space="preserve">
         <source xml:space="preserve">Small Carcass</source>
@@ -22780,23 +22780,23 @@
       </trans-unit>
       <trans-unit id="Campfire Animal Tiny" xml:space="preserve">
         <source xml:space="preserve">Campfire Animal Tiny</source>
-        <target xml:space="preserve" state="translated">Drobné zvíře z ohniště</target>
+        <target xml:space="preserve" state="translated">Opéct drobný úlovek</target>
       </trans-unit>
       <trans-unit id="Campfire Animal Small" xml:space="preserve">
         <source xml:space="preserve">Campfire Animal Small</source>
-        <target xml:space="preserve" state="translated">Malé zvíře z ohniště</target>
+        <target xml:space="preserve" state="translated">Opéct malý úlovek</target>
       </trans-unit>
       <trans-unit id="Campfire Animal Medium" xml:space="preserve">
         <source xml:space="preserve">Campfire Animal Medium</source>
-        <target xml:space="preserve" state="translated">Střední zvíře z ohniště</target>
+        <target xml:space="preserve" state="translated">Opéct střední úlovek</target>
       </trans-unit>
       <trans-unit id="Butcher Small Animal" xml:space="preserve">
         <source xml:space="preserve">Butcher Small Animal</source>
-        <target xml:space="preserve" state="translated">Rozbourat malé zvíře</target>
+        <target xml:space="preserve" state="translated">Rozporcovat malý úlovek</target>
       </trans-unit>
       <trans-unit id="Butcher Medium Animal" xml:space="preserve">
         <source xml:space="preserve">Butcher Medium Animal</source>
-        <target xml:space="preserve" state="translated">Rozbourat střední zvíře</target>
+        <target xml:space="preserve" state="translated">Rozporcovat střední úlovek</target>
       </trans-unit>
       <trans-unit id="Tailoring Upgrade" xml:space="preserve">
         <source xml:space="preserve">Tailoring Upgrade</source>
@@ -23206,11 +23206,11 @@
       </trans-unit>
       <trans-unit id="Butcher Tiny Leather Animal" xml:space="preserve">
         <source xml:space="preserve">Butcher Tiny Leather Animal</source>
-        <target xml:space="preserve" state="translated">Rozbourat drobné zvíře s kůží</target>
+        <target xml:space="preserve" state="translated">Rozporcovat drobný úlovek s kůží</target>
       </trans-unit>
       <trans-unit id="Butcher Tiny Fur Animal" xml:space="preserve">
         <source xml:space="preserve">Butcher Tiny Fur Animal</source>
-        <target xml:space="preserve" state="translated">Rozbourat drobné zvíře s kožešinou</target>
+        <target xml:space="preserve" state="translated">Rozporcovat drobný úlovek s kožešinou</target>
       </trans-unit>
       <trans-unit id="A dish of plain boiled grains that can be topped with fruit to make a nice tasting porridge." xml:space="preserve">
         <source xml:space="preserve">A dish of plain boiled grains that can be topped with fruit to make a nice tasting porridge.</source>
@@ -34824,15 +34824,15 @@
       </trans-unit>
       <trans-unit id="Campfire Fish Medium" xml:space="preserve">
         <source xml:space="preserve">Campfire Fish Medium</source>
-        <target xml:space="preserve" state="translated">Střední ryba z ohniště</target>
+        <target xml:space="preserve" state="translated">Opéct střední rybu</target>
       </trans-unit>
       <trans-unit id="Campfire Fish Large" xml:space="preserve">
         <source xml:space="preserve">Campfire Fish Large</source>
-        <target xml:space="preserve" state="translated">Velká ryba z ohniště</target>
+        <target xml:space="preserve" state="translated">Opéct velkou rybu</target>
       </trans-unit>
       <trans-unit id="Butcher Medium Wooly Animal" xml:space="preserve">
         <source xml:space="preserve">Butcher Medium Wooly Animal</source>
-        <target xml:space="preserve" state="translated">Rozbourat střední zvíře s vlnou</target>
+        <target xml:space="preserve" state="translated">Rozporcovat střední úlovek s vlnou</target>
       </trans-unit>
       <trans-unit id="Tailoring Basic Upgrades" xml:space="preserve">
         <source xml:space="preserve">Tailoring Basic Upgrades</source>
@@ -38250,7 +38250,7 @@
       </trans-unit>
       <trans-unit id="Campfire Fish Small" xml:space="preserve">
         <source xml:space="preserve">Campfire Fish Small</source>
-        <target xml:space="preserve" state="translated">Malá ryba z ohniště</target>
+        <target xml:space="preserve" state="translated">Opéct malou rybu</target>
       </trans-unit>
       <trans-unit id="Fabric" xml:space="preserve">
         <source xml:space="preserve">Fabric</source>
@@ -39898,7 +39898,7 @@
       </trans-unit>
       <trans-unit id="{0} Wanted" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Wanted</source>
-        <target xml:space="preserve" state="translated">Hledá se: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Výkup: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Chat Settings" xml:space="preserve">
         <source xml:space="preserve">Chat Settings</source>
@@ -40711,7 +40711,7 @@
       </trans-unit>
       <trans-unit id="Wanted" xml:space="preserve">
         <source xml:space="preserve">Wanted</source>
-        <target xml:space="preserve" state="translated">Hledá se</target>
+        <target xml:space="preserve" state="translated">Výkup</target>
       </trans-unit>
       <trans-unit id="Quantity:" xml:space="preserve">
         <source xml:space="preserve">Quantity:</source>
@@ -40810,7 +40810,7 @@
       </trans-unit>
       <trans-unit id="WANTED" xml:space="preserve">
         <source xml:space="preserve">WANTED</source>
-        <target xml:space="preserve" state="translated">HLEDÁ SE</target>
+        <target xml:space="preserve" state="translated">VÝKUP</target>
       </trans-unit>
       <trans-unit id="FOR SALE" xml:space="preserve">
         <source xml:space="preserve">FOR SALE</source>
@@ -40830,7 +40830,7 @@
       </trans-unit>
       <trans-unit id="SELECTED" xml:space="preserve">
         <source xml:space="preserve">SELECTED</source>
-        <target xml:space="preserve" state="translated">VYBRANÉ</target>
+        <target xml:space="preserve" state="translated">NABÍDKA</target>
       </trans-unit>
       <trans-unit id="Change Chat text size" xml:space="preserve">
         <source xml:space="preserve">Change Chat text size</source>
@@ -42352,7 +42352,7 @@
       </trans-unit>
       <trans-unit id="Fiber Scutching Station" xml:space="preserve">
         <source xml:space="preserve">Fiber Scutching Station</source>
-        <target xml:space="preserve" state="translated">Tírna</target>
+        <target xml:space="preserve" state="translated">Stůl na zpracování vláken</target>
       </trans-unit>
       <trans-unit id="Picture Frame" xml:space="preserve">
         <source xml:space="preserve">Picture Frame</source>
@@ -44145,7 +44145,7 @@
       </trans-unit>
       <trans-unit id="Max{0}{1}" xml:space="preserve">
         <source xml:space="preserve">Max<ph id="0">{0}</ph><ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated">Max<ph id="0">{0}</ph><ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Max.<ph id="0">{0}</ph><ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Press '{0}' to wake up." xml:space="preserve">
         <source xml:space="preserve">Press '<ph id="0">{0}</ph>' to wake up.</source>
@@ -49986,7 +49986,7 @@
       </trans-unit>
       <trans-unit id="For Sale" xml:space="preserve">
         <source xml:space="preserve">For Sale</source>
-        <target xml:space="preserve" state="translated">Na prodej</target>
+        <target xml:space="preserve" state="translated">Prodej objektu</target>
       </trans-unit>
       <trans-unit id="Sellers Account" xml:space="preserve">
         <source xml:space="preserve">Sellers Account</source>
@@ -52652,7 +52652,7 @@
       </trans-unit>
       <trans-unit id="Items Wanted" xml:space="preserve">
         <source xml:space="preserve">Items Wanted</source>
-        <target xml:space="preserve" state="translated">Hledané předměty</target>
+        <target xml:space="preserve" state="translated">Vykupované předměty</target>
       </trans-unit>
       <trans-unit id="Other Influencing Settlements:" xml:space="preserve">
         <source xml:space="preserve">Other Influencing Settlements:</source>
@@ -60395,7 +60395,7 @@
       </trans-unit>
       <trans-unit id="In the store's 'Wanted' section, create an entry for something you'd like to buy." xml:space="preserve">
         <source xml:space="preserve">In the store's 'Wanted' section, create an entry for something you'd like to buy.</source>
-        <target xml:space="preserve" state="translated">V sekci „Hledá se“ v obchodě vytvoř záznam o něčem, co chceš koupit.</target>
+        <target xml:space="preserve" state="translated">V sekci „Výkup“ v obchodě vytvoř záznam o něčem, co chceš koupit.</target>
       </trans-unit>
       <trans-unit id="In the store's 'For Sale' section, create an entry for something you'd like to sell, and put that item in a connected storage." xml:space="preserve">
         <source xml:space="preserve">In the store's 'For Sale' section, create an entry for something you'd like to sell, and put that item in a connected storage.</source>
@@ -63548,11 +63548,11 @@
       </trans-unit>
       <trans-unit id="Trimming Tiny Animal" xml:space="preserve">
         <source xml:space="preserve">Trimming Tiny Animal</source>
-        <target xml:space="preserve" state="translated">Ořezání drobného zvířete</target>
+        <target xml:space="preserve" state="translated">Ořezat drobný úlovek</target>
       </trans-unit>
       <trans-unit id="Trimming Small Animal" xml:space="preserve">
         <source xml:space="preserve">Trimming Small Animal</source>
-        <target xml:space="preserve" state="translated">Ořezání malého zvířete</target>
+        <target xml:space="preserve" state="translated">Ořezat malý úlovek</target>
       </trans-unit>
       <trans-unit id="Sulfurcrete" xml:space="preserve">
         <source xml:space="preserve">Sulfurcrete</source>
@@ -66194,7 +66194,7 @@
       </trans-unit>
       <trans-unit id="In the store's 'Wanted' section, create an entry for something you'd like to buy. It can be an item, or a tag." xml:space="preserve">
         <source xml:space="preserve">In the store's 'Wanted' section, create an entry for something you'd like to buy. It can be an item, or a tag.</source>
-        <target xml:space="preserve" state="translated">V sekci obchodu „Hledá se“ vytvoř záznam pro něco, co chceš koupit. Může to být předmět nebo štítek.</target>
+        <target xml:space="preserve" state="translated">V sekci obchodu „Výkup“ vytvoř záznam pro něco, co chceš koupit. Může to být předmět nebo štítek.</target>
       </trans-unit>
       <trans-unit id="Host a Dinner Party" xml:space="preserve">
         <source xml:space="preserve">Host a Dinner Party</source>
@@ -71540,7 +71540,7 @@ Ctrl – x100</target>
       </trans-unit>
       <trans-unit id="Butcher Wolf" xml:space="preserve">
         <source xml:space="preserve">Butcher Wolf</source>
-        <target state="translated">Rozbourat vlka</target>
+        <target state="translated">Rozporcovat vlka</target>
       </trans-unit>
       <trans-unit id="Running at {0} — not enough supply" xml:space="preserve">
         <source xml:space="preserve">Running at <ph id="0">{0}</ph> — not enough supply</source>
