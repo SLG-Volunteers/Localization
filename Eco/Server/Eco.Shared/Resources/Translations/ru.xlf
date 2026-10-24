@@ -61946,7 +61946,7 @@
       </trans-unit>
       <trans-unit id="A smaller table for displaying different items." xml:space="preserve">
         <source xml:space="preserve">A smaller table for displaying different items.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Небольшая таблица для отображения различных предметов.</target>
+        <target xml:space="preserve" state="needs-translation">Столик поменьше, для демонстрации различных предметов.</target>
       </trans-unit>
       <trans-unit id="Coffee Table" xml:space="preserve">
         <source xml:space="preserve">Coffee Table</source>
@@ -61978,7 +61978,7 @@
       </trans-unit>
       <trans-unit id="Fancy Medium Lumber Store Window" xml:space="preserve">
         <source xml:space="preserve">Fancy Medium Lumber Store Window</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Витрина магазина «Fancy Medium Lumber»</target>
+        <target xml:space="preserve" state="translated">Среднее Изысканное окно магазина из пиломатериалов</target>
       </trans-unit>
       <trans-unit id="A vase made with glass to brighten up your home." xml:space="preserve">
         <source xml:space="preserve">A vase made with glass to brighten up your home.</source>
@@ -61994,7 +61994,7 @@
       </trans-unit>
       <trans-unit id="Shelves so reliable, even your plants will stop judging you." xml:space="preserve">
         <source xml:space="preserve">Shelves so reliable, even your plants will stop judging you.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Полки настолько надежные, что даже твои растения перестанут тебя осуждать.</target>
+        <target xml:space="preserve" state="translated">Полки настолько надежные, что даже твои растения перестанут тебя осуждать.</target>
       </trans-unit>
       <trans-unit id="Hardwood Double Shelf" xml:space="preserve">
         <source xml:space="preserve">Hardwood Double Shelf</source>
@@ -62006,11 +62006,11 @@
       </trans-unit>
       <trans-unit id="A temperature regulated display storage." xml:space="preserve">
         <source xml:space="preserve">A temperature regulated display storage.</source>
-        <target xml:space="preserve" state="translated">Хранилище с дисплеем для регулировки температуры.</target>
+        <target xml:space="preserve" state="translated">Витрина, поддерживающая определенный температурный режим.</target>
       </trans-unit>
       <trans-unit id="Heated Display Cabinet" xml:space="preserve">
         <source xml:space="preserve">Heated Display Cabinet</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Витрина с подогревом</target>
+        <target xml:space="preserve" state="translated">Витрина с подогревом</target>
       </trans-unit>
       <trans-unit id="It holds the dream of catching time forever in its charm." xml:space="preserve">
         <source xml:space="preserve">It holds the dream of catching time forever in its charm.</source>
@@ -62030,7 +62030,7 @@
       </trans-unit>
       <trans-unit id="Large Lumber Store Window" xml:space="preserve">
         <source xml:space="preserve">Large Lumber Store Window</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Витрина большого магазина стройматериалов</target>
+        <target xml:space="preserve" state="needs-translation">Большое окно магазина из пиломатериалов</target>
       </trans-unit>
       <trans-unit id="Long Basic Hardwood Shelf" xml:space="preserve">
         <source xml:space="preserve">Long Basic Hardwood Shelf</source>
@@ -62122,7 +62122,7 @@
       </trans-unit>
       <trans-unit id="Refrigerated Display Cabinet" xml:space="preserve">
         <source xml:space="preserve">Refrigerated Display Cabinet</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Холодильная витрина</target>
+        <target xml:space="preserve" state="translated">Холодильная витрина</target>
       </trans-unit>
       <trans-unit id="A simple rotating cube, will it ever stop?" xml:space="preserve">
         <source xml:space="preserve">A simple rotating cube, will it ever stop?</source>
@@ -72618,6 +72618,7 @@ This server runs an unstable development build that likely contains bugs and tec
       </trans-unit>
       <trans-unit id="To do so, please download the required build from https://play.eco. If you need help to find the correct build, please ask on our official discord community.">
         <source xml:space="preserve">To do so, please download the required build from https://play.eco. If you need help to find the correct build, please ask on our official discord community.</source>
+        <target state="translated">Чтобы сделать это, скачайте, пожалуйста, требуемую версию клиента на сайте https://play.eco. Если вам нужна помощь в поиске нужной версии - спросите на нашем официальном сервере Discord.</target>
       </trans-unit>
       <trans-unit id="&#10;This is an official Eco server provided by Strange Loop Games." xml:space="preserve">
         <source xml:space="preserve">
@@ -72627,9 +72628,11 @@ This is an official Eco server provided by Strange Loop Games.</source>
       </trans-unit>
       <trans-unit id="This server runs an unstable development build that likely contains bugs and technical issues. To play here, you need to switch your game to the same build.">
         <source xml:space="preserve">This server runs an unstable development build that likely contains bugs and technical issues. To play here, you need to switch your game to the same build.</source>
+        <target state="translated">Этот сервер запущен на нестабильной версии в стадии разработки, которая может содержать ошибки и технические проблемы. Вам нужно переключить клиент игры на такую же версию, чтобы играть здесь.</target>
       </trans-unit>
       <trans-unit id="This server is running a different version. You are running {0} but the server is running {1}.">
         <source xml:space="preserve">This server is running a different version. You are running <ph id="0">{0}</ph> but the server is running <ph id="1">{1}</ph>.</source>
+        <target state="translated">Этот сервер использует другую версию клиента. Версия вашего клиента <ph id="0">{0}</ph> но версия клиента сервера <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Fly: On" xml:space="preserve">
         <source xml:space="preserve">Fly: On</source>
@@ -72637,6 +72640,7 @@ This is an official Eco server provided by Strange Loop Games.</source>
       </trans-unit>
       <trans-unit id="Fly: Off">
         <source xml:space="preserve">Fly: Off</source>
+        <target state="translated">Полет: Выкл</target>
       </trans-unit>
       <trans-unit id="machine">
         <source xml:space="preserve">machine</source>
@@ -72651,9 +72655,11 @@ This is an official Eco server provided by Strange Loop Games.</source>
       </trans-unit>
       <trans-unit id="{0} {1} {2}">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph></source>
+        <target state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="(at {0}%)">
         <source xml:space="preserve">(at <ph id="0">{0}</ph>%)</source>
+        <target state="translated">(на <ph id="0">{0}</ph>%)</target>
       </trans-unit>
       <trans-unit id="Salinity" xml:space="preserve">
         <source xml:space="preserve">Salinity</source>
@@ -72678,6 +72684,7 @@ This is an official Eco server provided by Strange Loop Games.</source>
       </trans-unit>
       <trans-unit id="{0} pollution cannot be decontaminated.">
         <source xml:space="preserve"><ph id="0">{0}</ph> pollution cannot be decontaminated.</source>
+        <target state="translated"><ph id="0">{0}</ph> загрязнения не может быть нейтрализовано.</target>
       </trans-unit>
       <trans-unit id="Increases Blast Furnace Pollution by {0}." xml:space="preserve">
         <source xml:space="preserve">Increases Blast Furnace Pollution by <ph id="0">{0}</ph>.</source>
@@ -72774,6 +72781,7 @@ This is an official Eco server provided by Strange Loop Games.</source>
       </trans-unit>
       <trans-unit id="No Access">
         <source xml:space="preserve">No Access</source>
+        <target state="translated">Нет доступа</target>
       </trans-unit>
       <trans-unit id="Limited Storage" xml:space="preserve">
         <source xml:space="preserve">Limited Storage</source>
@@ -72796,9 +72804,11 @@ This is an official Eco server provided by Strange Loop Games.</source>
       </trans-unit>
       <trans-unit id="A placed object sold where it stands, rather than goods sold through a store.">
         <source xml:space="preserve">A placed object sold where it stands, rather than goods sold through a store.</source>
+        <target state="translated">Размещаемые объекты продаются с места своей установки, в отличие от продажи через магазин.</target>
       </trans-unit>
       <trans-unit id="Copied {0} to clipboard.">
         <source xml:space="preserve">Copied <ph id="0">{0}</ph> to clipboard.</source>
+        <target state="translated"><ph id="0">{0}</ph> скопировано в буфер обмена.</target>
       </trans-unit>
       <trans-unit id="Cannot paste {0} into a list of {1}." xml:space="preserve">
         <source xml:space="preserve">Cannot paste <ph id="0">{0}</ph> into a list of <ph id="1">{1}</ph>.</source>
