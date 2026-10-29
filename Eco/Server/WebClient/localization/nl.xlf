@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="14" xml:space="preserve">
         <source xml:space="preserve">Game server port</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Poort van de spelserver</target>
+        <target state="translated">Poort van de spelserver</target>
       </trans-unit>
       <trans-unit id="15" xml:space="preserve">
         <source xml:space="preserve">Web server port</source>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="124" xml:space="preserve">
         <source xml:space="preserve">Do you want to save your changes before proceeding?</source>
-        <target xml:space="preserve" state="translated">Wil je je wijzigingen opslaan voordat je doorgaat?</target>
+        <target xml:space="preserve" state="translated">Wil je de wijzigingen opslaan voordat je doorgaat?</target>
       </trans-unit>
       <trans-unit id="125" xml:space="preserve">
         <source xml:space="preserve">Don't Save</source>
@@ -604,7 +604,7 @@
       </trans-unit>
       <trans-unit id="157" xml:space="preserve">
         <source xml:space="preserve">mins</source>
-        <target xml:space="preserve" state="translated">mins</target>
+        <target xml:space="preserve" state="translated">min</target>
       </trans-unit>
       <trans-unit id="158" xml:space="preserve">
         <source xml:space="preserve">in the last hour</source>
@@ -676,43 +676,43 @@
       </trans-unit>
       <trans-unit id="176" xml:space="preserve">
         <source xml:space="preserve">Web graphs will be available after the first simulation tick</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Webgrafieken zijn beschikbaar na de eerste simulatietik</target>
+        <target state="translated">Webgrafieken zijn beschikbaar na de eerste simulatietick</target>
       </trans-unit>
       <trans-unit id="177" xml:space="preserve">
         <source xml:space="preserve">Argument over laws goes here</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Discussies over wetten horen hier thuis</target>
+        <target state="translated">Argumenten over wetten komen hier</target>
       </trans-unit>
       <trans-unit id="178" xml:space="preserve">
         <source xml:space="preserve">No Meteor</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Geen meteoor</target>
+        <target state="translated">Geen meteoor</target>
       </trans-unit>
       <trans-unit id="179" xml:space="preserve">
         <source xml:space="preserve">Select an election from the menu</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Kies een verkiezing uit het menu</target>
+        <target state="translated">Kies een verkiezing uit het menu</target>
       </trans-unit>
       <trans-unit id="180" xml:space="preserve">
         <source xml:space="preserve">The meteor was destroyed</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">De meteoor is vernietigd</target>
+        <target state="translated">De meteoor is vernietigd</target>
       </trans-unit>
       <trans-unit id="181" xml:space="preserve">
         <source xml:space="preserve">There have been no elections yet</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Er zijn nog geen verkiezingen geweest</target>
+        <target state="translated">Er zijn nog geen verkiezingen geweest</target>
       </trans-unit>
       <trans-unit id="182" xml:space="preserve">
         <source xml:space="preserve">To start a new election</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Om nieuwe verkiezingen te starten</target>
+        <target state="translated">Om een nieuwe verkiezing te starten</target>
       </trans-unit>
       <trans-unit id="183" xml:space="preserve">
         <source xml:space="preserve">TwitchVotes</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">TwitchVotes</target>
+        <target state="translated">Twitch-stemmen</target>
       </trans-unit>
       <trans-unit id="184" xml:space="preserve">
         <source xml:space="preserve">UserVotes</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Gebruikersstemmen</target>
+        <target state="translated">Gebruikersstemmen</target>
       </trans-unit>
       <trans-unit id="185" xml:space="preserve">
         <source xml:space="preserve">When a Treasury is built</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Als er een schatkist wordt gebouwd</target>
+        <target state="translated">Als er een Ministerie van Financiën is gebouwd</target>
       </trans-unit>
     </body>
   </file>
