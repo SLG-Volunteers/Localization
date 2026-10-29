@@ -29242,7 +29242,7 @@
       </trans-unit>
       <trans-unit id="Resident of {0} at {1}." xml:space="preserve">
         <source xml:space="preserve">Resident of <ph id="0">{0}</ph> at <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph> の<ph id="0">{0}</ph>居住者。</target>
+        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph> の <ph id="0">{0}</ph> 居住者。</target>
       </trans-unit>
       <trans-unit id="Currently has no residence." xml:space="preserve">
         <source xml:space="preserve">Currently has no residence.</source>
@@ -29327,11 +29327,11 @@
       </trans-unit>
       <trans-unit id="{0} may have {1} plots. Still left: {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> may have <ph id="1">{1}</ph> plots. Still left: <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>はプロット <ph id="1">{1}</ph> かもしれません。まだ残っている:<ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> はプロット <ph id="1">{1}</ph> かもしれません。まだ残っている: <ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="This plot is part of {0}." xml:space="preserve">
         <source xml:space="preserve">This plot is part of <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">このプロットは<ph id="0">{0}</ph>の一部です。</target>
+        <target xml:space="preserve" state="translated">このプロットは <ph id="0">{0}</ph> の一部です。</target>
       </trans-unit>
       <trans-unit id="This plot is already claimed." xml:space="preserve">
         <source xml:space="preserve">This plot is already claimed.</source>
@@ -29339,7 +29339,7 @@
       </trans-unit>
       <trans-unit id="Starting a New {0}" xml:space="preserve">
         <source xml:space="preserve">Starting a New <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">新しい<ph id="0">{0}</ph>の始まり</target>
+        <target xml:space="preserve" state="translated">新しい <ph id="0">{0}</ph> の始まり</target>
       </trans-unit>
       <trans-unit id="Are you sure you want to {0} world {1}?" xml:space="preserve">
         <source xml:space="preserve">Are you sure you want to <ph id="0">{0}</ph> world <ph id="1">{1}</ph>?</source>
@@ -29495,7 +29495,7 @@
       </trans-unit>
       <trans-unit id="Cannot attach these objects, max of {0} slots allowed on this {1}." xml:space="preserve">
         <source xml:space="preserve">Cannot attach these objects, max of <ph id="0">{0}</ph> slots allowed on this <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated">これらのオブジェクトは取り付けられません。この <ph id="1">{1}</ph> では最大で<ph id="0">{0}</ph>スロットまで制限されています。</target>
+        <target xml:space="preserve" state="translated">これらのオブジェクトは取り付けられません。この <ph id="1">{1}</ph> では最大で <ph id="0">{0}</ph> スロットまで制限されています。</target>
       </trans-unit>
       <trans-unit id="Rent:" xml:space="preserve">
         <source xml:space="preserve">Rent:</source>
@@ -29515,7 +29515,7 @@
       </trans-unit>
       <trans-unit id="This plot will not be connected to {0}, Would you like to continue and create a new deed?" xml:space="preserve">
         <source xml:space="preserve">This plot will not be connected to <ph id="0">{0}</ph>, Would you like to continue and create a new deed?</source>
-        <target xml:space="preserve" state="translated">この区画は<ph id="0">{0}</ph> に接続されません。新しい権利書を作成して続行しますか？</target>
+        <target xml:space="preserve" state="translated">この区画は <ph id="0">{0}</ph> に接続されません。新しい権利書を作成して続行しますか？</target>
       </trans-unit>
       <trans-unit id="No deed exists for this object." xml:space="preserve">
         <source xml:space="preserve">No deed exists for this object.</source>
@@ -29599,7 +29599,7 @@
       </trans-unit>
       <trans-unit id="Caches was invalidated for {0} chunk column(s)." xml:space="preserve">
         <source xml:space="preserve">Caches was invalidated for <ph id="0">{0}</ph> chunk column(s).</source>
-        <target xml:space="preserve" state="translated">キャッシュは<ph id="0">{0}</ph>チャンク列で無効化されました。</target>
+        <target xml:space="preserve" state="translated">キャッシュは <ph id="0">{0}</ph> チャンク列で無効化されました。</target>
       </trans-unit>
       <trans-unit id="The value must be greater or equal than 0.01." xml:space="preserve">
         <source xml:space="preserve">The value must be greater or equal than 0.01.</source>
@@ -29707,7 +29707,7 @@
       </trans-unit>
       <trans-unit id="{0} is {1}: {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is <ph id="1">{1}</ph>: <ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>は <ph id="1">{1}</ph> :<ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="1">{1}</ph> :<ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Population: {0}" xml:space="preserve">
         <source xml:space="preserve">Population: <ph id="0">{0}</ph></source>
@@ -29715,7 +29715,7 @@
       </trans-unit>
       <trans-unit id="{0} is not a resident on any deed." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not a resident on any deed.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>はどの権利証書にも居住者ではありません。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> はどの権利証書の居住者でもありません。</target>
       </trans-unit>
       <trans-unit id="{0} evicted from {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> evicted from <ph id="1">{1}</ph>.</source>
@@ -29775,7 +29775,7 @@
       </trans-unit>
       <trans-unit id="Draft election of type {0}." xml:space="preserve">
         <source xml:space="preserve">Draft election of type <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>型のドラフト選挙。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 型のドラフト選挙。</target>
       </trans-unit>
       <trans-unit id="Priority: {0}" xml:space="preserve">
         <source xml:space="preserve">Priority: <ph id="0">{0}</ph></source>
@@ -29791,7 +29791,7 @@
       </trans-unit>
       <trans-unit id="Cannot save the following {0} as they already exist:" xml:space="preserve">
         <source xml:space="preserve">Cannot save the following <ph id="0">{0}</ph> as they already exist:</source>
-        <target xml:space="preserve" state="translated">以下の<ph id="0">{0}</ph>はすでに存在するため保存できません:</target>
+        <target xml:space="preserve" state="translated">以下の <ph id="0">{0}</ph> はすでに存在するため保存できません:</target>
       </trans-unit>
       <trans-unit id="{0} renamed to {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> renamed to <ph id="1">{1}</ph></source>
@@ -29799,7 +29799,7 @@
       </trans-unit>
       <trans-unit id="Rewards for learning {0}" xml:space="preserve">
         <source xml:space="preserve">Rewards for learning <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">学習の報酬<ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">学習の報酬 <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Requirements:" xml:space="preserve">
         <source xml:space="preserve">Requirements:</source>
@@ -29817,7 +29817,7 @@
       </trans-unit>
       <trans-unit id="{0} work order cancelled." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> work order cancelled.</source>
-        <target xml:space="preserve" state="translated">作業<ph id="0">{0}</ph>キャンセルされました。</target>
+        <target xml:space="preserve" state="translated">作業 <ph id="0">{0}</ph> はキャンセルされました。</target>
       </trans-unit>
       <trans-unit id="'Missing Recipe'" xml:space="preserve">
         <source xml:space="preserve">'Missing Recipe'</source>
@@ -29857,7 +29857,7 @@
       </trans-unit>
       <trans-unit id="Add new {0}" xml:space="preserve">
         <source xml:space="preserve">Add new <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">新しいものを追加<ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">新しい <ph id="0">{0}</ph> を追加</target>
       </trans-unit>
       <trans-unit id="Out of range." xml:space="preserve">
         <source xml:space="preserve">Out of range.</source>
@@ -29865,7 +29865,7 @@
       </trans-unit>
       <trans-unit id="{0} meters {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> meters <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>メートル <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> メートル <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="In Range." xml:space="preserve">
         <source xml:space="preserve">In Range.</source>
@@ -29993,7 +29993,7 @@
       </trans-unit>
       <trans-unit id="{0} chat messages removed from history." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> chat messages removed from history.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>チャットメッセージが履歴から削除されました。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> チャットメッセージが履歴から削除されました。</target>
       </trans-unit>
       <trans-unit id="Commands related to chat." xml:space="preserve">
         <source xml:space="preserve">Commands related to chat.</source>
@@ -31011,19 +31011,19 @@
       </trans-unit>
       <trans-unit id="--&gt; {0} joined the server." xml:space="preserve">
         <source xml:space="preserve">--&gt; <ph id="0">{0}</ph> joined the server.</source>
-        <target xml:space="preserve" state="translated">――&gt; <ph id="0">{0}</ph>サーバーに参加した。</target>
+        <target xml:space="preserve" state="translated">――&gt; <ph id="0">{0}</ph> がサーバーに参加しました。</target>
       </trans-unit>
       <trans-unit id="&lt;-- {0} logged out." xml:space="preserve">
         <source xml:space="preserve">&lt;-- <ph id="0">{0}</ph> logged out.</source>
-        <target xml:space="preserve" state="translated">&lt;――<ph id="0">{0}</ph>ログアウトした。</target>
+        <target xml:space="preserve" state="translated">&lt;―― <ph id="0">{0}</ph> がログアウトしました。</target>
       </trans-unit>
       <trans-unit id="--&gt; {0} logged in." xml:space="preserve">
         <source xml:space="preserve">--&gt; <ph id="0">{0}</ph> logged in.</source>
-        <target xml:space="preserve" state="translated">――&gt; <ph id="0">{0}</ph>ログインしました。</target>
+        <target xml:space="preserve" state="translated">――&gt; <ph id="0">{0}</ph> がログインしました。</target>
       </trans-unit>
       <trans-unit id="+{0} until {1} meters (then drop to zero at {2} meters)." xml:space="preserve">
         <source xml:space="preserve">+<ph id="0">{0}</ph> until <ph id="1">{1}</ph> meters (then drop to zero at <ph id="2">{2}</ph> meters).</source>
-        <target xml:space="preserve" state="translated">+<ph id="0">{0}</ph><ph id="1">{1}</ph>メートルまで(<ph id="2">{2}</ph>メートルでゼロに落ちます)。</target>
+        <target xml:space="preserve" state="translated">+<ph id="0">{0}</ph><ph id="1">{1}</ph> メートルまで (<ph id="2">{2}</ph> メートルでゼロに落ちます)。</target>
       </trans-unit>
       <trans-unit id="(Current value at {0} meters: +{1})" xml:space="preserve">
         <source xml:space="preserve">(Current value at <ph id="0">{0}</ph> meters: +<ph id="1">{1}</ph>)</source>
@@ -31035,27 +31035,27 @@
       </trans-unit>
       <trans-unit id="You have reset {0} for {1}." xml:space="preserve">
         <source xml:space="preserve">You have reset <ph id="0">{0}</ph> for <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph> の<ph id="0">{0}</ph>リセットされました。</target>
+        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph> の <ph id="0">{0}</ph> リセットされました。</target>
       </trans-unit>
       <trans-unit id="{0} has reset your skill {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has reset your skill <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>あなたのスキルがリセットされてしまいました <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> あなたのスキルがリセットされてしまいました <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Can't reset {0} for {1}, already at level 0." xml:space="preserve">
         <source xml:space="preserve">Can't reset <ph id="0">{0}</ph> for <ph id="1">{1}</ph>, already at level 0.</source>
-        <target xml:space="preserve" state="translated">レベル0なので <ph id="1">{1}</ph> <ph id="0">{0}</ph>リセットできません。</target>
+        <target xml:space="preserve" state="translated">レベル0なので <ph id="1">{1}</ph> <ph id="0">{0}</ph> リセットできません。</target>
       </trans-unit>
       <trans-unit id="{0} is not discovered by {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not discovered by <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>は <ph id="1">{1}</ph> によって発見されません</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="1">{1}</ph> によって発見されません</target>
       </trans-unit>
       <trans-unit id="You have reset all specialities for {0}" xml:space="preserve">
         <source xml:space="preserve">You have reset all specialities for <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">すべての専門分野がリセットされています<ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">すべての専門分野がリセットされています <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="{0} has reset all your specialities" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has reset all your specialities</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>あなたの専門分野をすべてリセットしました</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> あなたの専門分野をすべてリセットしました</target>
       </trans-unit>
       <trans-unit id="You have removed talent {0} from {1}" xml:space="preserve" translate="no">
         <source xml:space="preserve">You have removed talent <ph id="0">{0}</ph> from <ph id="1">{1}</ph></source>
@@ -31069,11 +31069,11 @@
       </trans-unit>
       <trans-unit id="You have removed talent for {0} from {1}" xml:space="preserve">
         <source xml:space="preserve">You have removed talent for <ph id="0">{0}</ph> from <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>の才能を奪った<ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> の才能を奪った <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0} has removed talents for {1} from you" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has removed talents for <ph id="1">{1}</ph> from you</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>はあなたから才能を奪い去 <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> はあなたから <ph id="1">{1}</ph> の才能を削除しました</target>
       </trans-unit>
       <trans-unit id="You have removed all talents from {0}" xml:space="preserve">
         <source xml:space="preserve">You have removed all talents from <ph id="0">{0}</ph></source>
