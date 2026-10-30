@@ -31077,11 +31077,11 @@
       </trans-unit>
       <trans-unit id="You have removed all talents from {0}" xml:space="preserve">
         <source xml:space="preserve">You have removed all talents from <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">あなたはすべての才能を奪い去ってしまった<ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> のすべての才能を削除しました</target>
       </trans-unit>
       <trans-unit id="{0} has removed all talents from you" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has removed all talents from you</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>はあなたのすべての才能を奪いました</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> はあなたのすべての才能を削除しました</target>
       </trans-unit>
       <trans-unit id="Resets a specialization for a player. If the skill name is empty it will reset all specializations." xml:space="preserve">
         <source xml:space="preserve">Resets a specialization for a player. If the skill name is empty it will reset all specializations.</source>
@@ -31127,7 +31127,7 @@
       </trans-unit>
       <trans-unit id="{0} will become the new owner of {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> will become the new owner of <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>が <ph id="1">{1}</ph> の新しい所有者になるでしょう</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> が <ph id="1">{1}</ph> の新しい所有者になります</target>
       </trans-unit>
       <trans-unit id="Direct transfer" xml:space="preserve">
         <source xml:space="preserve">Direct transfer</source>
@@ -31139,19 +31139,19 @@
       </trans-unit>
       <trans-unit id="{0} cannot manage and {1} cannot use this account anymore." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cannot manage and <ph id="1">{1}</ph> cannot use this account anymore.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>このアカウントを管理できず、<ph id="1">{1}</ph>ももう使えません。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> はこのアカウントを管理できず、<ph id="1">{1}</ph> ももう使えません。</target>
       </trans-unit>
       <trans-unit id="{0} cannot manage this account anymore." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cannot manage this account anymore.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>このアカウントをもう管理できません。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> はこのアカウントをもう管理できません。</target>
       </trans-unit>
       <trans-unit id="{0} cannot use this account anymore." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> cannot use this account anymore.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>このアカウントはもう使えません。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> はこのアカウントはもう使えません。</target>
       </trans-unit>
       <trans-unit id="Make {0} the only manager and user of {1}." xml:space="preserve">
         <source xml:space="preserve">Make <ph id="0">{0}</ph> the only manager and user of <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph><ph id="1">{1}</ph>の唯一の管理者兼ユーザーにしてください。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> だけを <ph id="1">{1}</ph> の管理者兼ユーザーにしてください。</target>
       </trans-unit>
       <trans-unit id="Replace managers and users of a bank account." xml:space="preserve">
         <source xml:space="preserve">Replace managers and users of a bank account.</source>
@@ -31171,11 +31171,11 @@
       </trans-unit>
       <trans-unit id="You have abandoned {0} specialty" xml:space="preserve">
         <source xml:space="preserve">You have abandoned <ph id="0">{0}</ph> specialty</source>
-        <target xml:space="preserve" state="translated">あなたは<ph id="0">{0}</ph>専門分野を放棄しました</target>
+        <target xml:space="preserve" state="translated">あなたは <ph id="0">{0}</ph> 専門分野を放棄しました</target>
       </trans-unit>
       <trans-unit id="{0} Empty Corner {1} ({2})" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Empty Corner <ph id="1">{1}</ph> (<ph id="2">{2}</ph>)</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 空の隅<ph id="1">{1}</ph>(<ph id="2">{2}</ph>)</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 空の隅 <ph id="1">{1}</ph>(<ph id="2">{2}</ph>)</target>
       </trans-unit>
       <trans-unit id="Shows list of banned users or bans user by account id, steamid, slgid, or username. Ban forever by default with empty time. Time format: 1m, 1h, 1d, 1w." xml:space="preserve">
         <source xml:space="preserve">Shows list of banned users or bans user by account id, steamid, slgid, or username. Ban forever by default with empty time. Time format: 1m, 1h, 1d, 1w.</source>
@@ -31189,7 +31189,7 @@
       </trans-unit>
       <trans-unit id="Requested collection {0}" xml:space="preserve">
         <source xml:space="preserve">Requested collection <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="translated">回収を依頼<ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> の回収を依頼しました</target>
       </trans-unit>
       <trans-unit id="Release Date: {0}" xml:space="preserve">
         <source xml:space="preserve">Release Date: <ph id="0">{0}</ph></source>
