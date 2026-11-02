@@ -1384,10 +1384,10 @@ Mixed waste fresh out of a crafting table is granted a day of grace in storage b
 
 The Ground Pollution map you can call up shows the sum of the four layers, spread outward from every contaminated claim. Plumes fall off with the square of the distance and they add together, so three neighbouring claims at 100% read, from a distance, exactly like a single claim at 300%. Their reach grows with the square root of the value: ten times the pollution carries about three times as far. A poisoned claim is never a private problem for long.
 </source>
-        <target state="needs-translation">
+        <target state="translated">
 Znečištění země se sleduje po jednotlivých pozemcích ve čtyřech samostatných vrstvách: znečištění půdy, znečištění těžkými minerály, chemické znečištění a znečištění kyselým deštěm. Každý znečišťující blok ponechaný ve světě přidá k vrstvě, do níž patří, pevných 0,1, takže deset bloků {hlušiny|TailingsItem} na pozemku žene znečištění těžkými minerály na tomto pozemku na 100 %. Vrstvy na tuto hodnotu neskočí, přibližují se k ní zhruba tři dny, takže únik potřebuje čas, než se plně projeví, a po jeho vyřešení zase čas, než odezní. Záleží jen na vodorovné poloze odpadu. Zahrabání nic nemění.
 
-Odpad, který právě vyrobil stroj, má den odkladu, než začne znečišťovat, což je dost času na to odvézt ho k třídiči nebo do správné nádoby. Odpad, který nevznikl výrobou, ale byl prostě odhozen do světa, znečišťuje od okamžiku, kdy dopadne.
+Smíšený odpad, který právě vyrobil výrobní stůl, má ve skladu den odkladu, než začne znečišťovat, což je dost času na to odvézt ho k třídiči nebo do správné nádoby. Všechno ostatní znečišťuje od začátku: čisté bloky, výstup recyklátorů a třídičů i jakýkoli odpad ponechaný ve světě. Odpad převážený ve vozidle se počítá, až když vozidlo zůstane deset minut na jednom místě.
 
 Mapa znečištění země, kterou můžeš vyvolat, ukazuje součet čtyř vrstev, rozšířený od každého znečištěného pozemku. Vlečky slábnou s druhou mocninou vzdálenosti a sčítají se, takže tři sousední pozemky na 100 % vypadají zdálky úplně stejně jako jediný pozemek na 300 %. Jejich dosah roste s odmocninou hodnoty: desetinásobné znečištění sahá zhruba třikrát dál. Otrávený pozemek nezůstane dlouho soukromým problémem.
 </target>
@@ -3704,12 +3704,12 @@ Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and t
 
 Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. How sour a claim gets depends on how much its chimneys emit and on how wet the region is — a blast furnace running day and night will hold its own claim at twice the full gauge in an average climate, but at a fifth of that in a desert, so where heavy industry goes is a decision worth making. It is also the one layer you never need to treat: it halves every six hours once the smokestacks go quiet, so cutting emissions is the whole answer.
 </source>
-        <target state="needs-translation">
+        <target state="translated">
 Znečištění půdy je odpad každodenního života: {MixedGarbageItem}, odpadky a odpadní voda. Je z těch čtyř nejmírnější a jediné se vždy časem samo vyčistí, ať vystoupá jakkoli vysoko.
 
-Znečištění těžkými minerály pochází z hornictví a zpracování minerálů, především z {hlušiny|TailingsItem} a {mokré hlušiny|WetTailingsItem}. Samo se čistí jen do 100 %. Nad tuto hodnotu je půda nasycená a sama se už nikdy nezotaví.
+Znečištění těžkými minerály pochází z hornictví a zpracování minerálů, především z {hlušiny|TailingsItem} a {mokré hlušiny|WetTailingsItem}. Samo se čistí až do 500 %, což odpovídá zhruba padesáti blokům ponechaným na jednom pozemku. Nad tuto hodnotu je půda nasycená a sama se už nikdy nezotaví.
 
-Chemické znečištění je znamením těžkého průmyslu; vzniká z {chemického odpadu|ChemicalWasteItem} a z chemických vedlejších produktů pokročilé výroby. Je zdaleka nejméně odpouštějící: samo se čistí jen do pouhých 30 %. Nech pozemek vystoupat nad tuto hodnotu a zůstane otrávený, dokud ho neošetříš.
+Chemické znečištění je znamením těžkého průmyslu; vzniká z {chemického odpadu|ChemicalWasteItem} a z chemických vedlejších produktů pokročilé výroby. Je zdaleka nejméně odpouštějící: samo se čistí jen do 100 %, čehož stačí dosáhnout deseti bloky. Nech pozemek vystoupat nad tuto hodnotu a zůstane otrávený, dokud ho neošetříš.
 
 Znečištění kyselým deštěm je jediná vrstva, kterou nikdy nevyhazuješ: ta padá. Kde se znečištěné ovzduší setká s deštěm, vzniká kyselý déšť a usazuje se v půdě pod ním. Jak moc se pozemek okyselí, závisí na tom, kolik vypouštějí jeho komíny a jak vlhká je oblast. Vysoká pec, která běží ve dne v noci, udrží svůj pozemek v průměrném podnebí na dvojnásobku plné stupnice, v poušti ale jen na pětině této hodnoty, takže stojí za to dobře zvážit, kam těžký průmysl umístit. Je to také jediná vrstva, kterou nikdy nemusíš ošetřovat: jakmile komíny utichnou, každých šest hodin se sníží na polovinu, takže celým řešením je omezit emise.
 </target>
@@ -3724,17 +3724,19 @@ Land that has already been poisoned can be treated. Decontaminants are consumabl
 
 Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 500% Heavy Mineral, or above 100% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Every decontaminant cleans at the same rate, so the cost is what separates them: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
 </source>
-        <target state="needs-translation">
+        <target state="translated">
 Už otrávenou půdu lze ošetřit. Dekontaminanty jsou spotřební předměty, které se používají podobně jako hnojivo, na jakémkoli bloku pozemku, ať je to holá země, silnice, nebo podlaha továrny: {SoilDecontaminantItem} pro půdu, {HeavyMineralDecontaminantItem} pro těžké kovy a {ChemicalDecontaminantItem} pro chemické znečištění. Jedna jednotka zruší jednu jednotku zdroje znečištění, dávky se sčítají a polovina toho, co na dané oblasti čeká, se projeví každých 24 hodin, takže silně kontaminovaný pozemek lze ošetřit hromadně a nechat působit.
 
-Dekontaminace je také jediné, co funguje nad hranicí samočištění vrstvy. Pozemek nad 100 % těžkých minerálů nebo nad 30 % chemikálií by jinak zůstal v tomto stavu natrvalo, ať už byl zdroj odstraněn, nebo ne. Všechny dekontaminanty čistí stejným tempem, takže se liší jen cenou: kompost a hlína čistí půdu, jíl a dřevěné uhlí vážou těžké kovy a oxid železa s dřevěným uhlím jde do každého neutralizátoru chemikálií. Úklid po těžkém průmyslu má být drahý. Neuklízet má být ještě horší.
+Dekontaminace je také jediné, co funguje nad hranicí samočištění vrstvy. Pozemek nad 500 % těžkých minerálů nebo nad 100 % chemikálií by jinak zůstal v tomto stavu natrvalo, ať už byl zdroj odstraněn, nebo ne. Všechny dekontaminanty čistí stejným tempem, takže se liší jen cenou: kompost a hlína čistí půdu, jíl a dřevěné uhlí vážou těžké kovy a oxid železa s dřevěným uhlím jde do každého neutralizátoru chemikálií. Úklid po těžkém průmyslu má být drahý. Neuklízet má být ještě horší.
 </target>
       </trans-unit>
       <trans-unit id="449">
         <source xml:space="preserve">How garbage is produced, recycled and sorted, and how to keep its losses and pollution down.</source>
+        <target state="translated">Jak odpad vzniká, jak se recykluje a třídí a jak omezit jeho ztráty a znečištění.</target>
       </trans-unit>
       <trans-unit id="450">
         <source xml:space="preserve">Garbage Blocks</source>
+        <target state="translated">Bloky odpadu</target>
       </trans-unit>
       <trans-unit id="451">
         <source xml:space="preserve">
@@ -3747,30 +3749,37 @@ Crafting, recycling and sorting all collect their waste until it fills a whole b
 
 Whatever is left below a full block carries over and mixes with what comes next, so one odd craft can change the next block.
 </source>
+        <target state="translated">Výroba, recyklace i třídění sbírají svůj odpad, dokud nenaplní celý blok, a pak tento blok vydají. Jaký blok vznikne, závisí jen na tom, co obsahuje podíl odpadu o velikosti bloku: - Jediný materiál dá čistý blok tohoto materiálu, například blok {železného šrotu|IronScrapItem}. - Více materiálů stejné skupiny dá smíšený blok této skupiny, například blok {smíšeného kovového šrotu|MixedMetalScrapItem}. Příměs zbytků na tom nic nemění. - Samé zbytky dají {smíšené zbytky|MixedResidualsItem}. - Cokoli jiného dá {smíšený odpad|MixedGarbageItem}. To, co zbude pod hranicí plného bloku, se přenáší dál a smíchá se s tím, co přijde příště, takže jedna nezvyklá výroba může změnit další blok.</target>
       </trans-unit>
       <trans-unit id="452">
         <source xml:space="preserve">Sorting at the Source</source>
+        <target state="translated">Třídění u zdroje</target>
       </trans-unit>
       <trans-unit id="453">
         <source xml:space="preserve">
 A crafting table keeps one garbage store for every recipe it crafts. A table dedicated to recipes producing the same waste therefore outputs pure blocks, which skip sorting and the losses that come with it, and most pure materials no longer pollute. A recipe that produces several kinds of waste always comes out mixed. The table's status shows what the next block will be.
 </source>
+        <target state="translated">Výrobní stůl si vede samostatný sklad odpadu pro každý recept, který se na něm vyrábí. Stůl vyhrazený receptům, jež vytvářejí stejný odpad, proto vydává čisté bloky, které přeskočí třídění i ztráty, jež s ním přicházejí, a většina čistých materiálů už neznečišťuje. Recept, který vytváří několik druhů odpadu, vždy vyjde jako smíšený. Stav stolu ukazuje, jaký bude další blok.</target>
       </trans-unit>
       <trans-unit id="454">
         <source xml:space="preserve">Efficiency</source>
+        <target state="translated">Účinnost</target>
       </trans-unit>
       <trans-unit id="455">
         <source xml:space="preserve">
 Recyclers and sorters lose part of what they process. Their efficiency is the share of each material that keeps its type; the rest degrades into a residual, such as {GarbageItem} for metals or {CompostItem} for food. The {RecyclerItem} keeps 75%, the {ToolBenchItem} 50%, and sorters between 75% and 100% depending on how specialized they are. Efficiency is fixed for each machine: skills and talents do not change it. Residuals are never degraded further, and each garbage item's tooltip shows what it degrades into.
 </source>
+        <target state="translated">Recyklátory a třídiče část toho, co zpracují, ztratí. Jejich účinnost je podíl každého materiálu, který si zachová svůj druh; zbytek se rozloží na zbytek, například na {odpad|GarbageItem} u kovů nebo na {kompost|CompostItem} u jídla. {Recyklátor|RecyclerItem} si zachová 75 %, {nástrojářský stůl|ToolBenchItem} 50 % a třídiče 75 až 100 % podle toho, jak jsou specializované. Účinnost je u každého stroje pevná: dovednosti ani talenty ji nemění. Zbytky se už dál nerozkládají a popisek každého odpadu ukazuje, na co se rozkládá.</target>
       </trans-unit>
       <trans-unit id="456">
         <source xml:space="preserve">Transport</source>
+        <target state="translated">Převoz</target>
       </trans-unit>
       <trans-unit id="457">
         <source xml:space="preserve">
 Polluting waste carried in a vehicle only pollutes once the vehicle has stayed ten minutes in the same spot, so driving it to a sorter or a dump does not poison the road.
 </source>
+        <target state="translated">Znečišťující odpad převážený ve vozidle začne znečišťovat, až když vozidlo zůstane deset minut na jednom místě, takže cesta k třídiči nebo na skládku silnici neotráví.</target>
       </trans-unit>
     </body>
   </file>
