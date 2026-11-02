@@ -1363,7 +1363,7 @@ Pentru a asigura supraviețuirea ecosistemelor și a păstra resurse precum solu
         <source xml:space="preserve">
 Ground pollution is tracked claim by claim, in four separate layers: Soil, Heavy Mineral, Chemical and Acid Rain. Every polluting block left in the world adds a flat 0.1 to the layer it belongs to, so ten blocks of {TailingsItem} sitting on a claim will drive that claim's Heavy Mineral Pollution to 100%. Layers do not jump to that figure, they converge on it over roughly three days, so a spill takes time to show its full effect, and time to fade once you have dealt with it. Only the horizontal position of the waste matters. Burying it changes nothing.
 
-Waste that a machine has just produced is granted a day of grace before it begins to pollute, which is time enough to cart it to a sorter or a proper container. Waste that was not produced but simply dropped in the world pollutes from the moment it lands.
+Mixed waste fresh out of a crafting table is granted a day of grace in storage before it begins to pollute, which is time enough to cart it to a sorter or a proper container. Everything else pollutes from the start: pure blocks, the output of recyclers and sorters, and any waste placed in the world. Waste carried in a vehicle only counts once the vehicle has stayed ten minutes in one spot.
 
 The Ground Pollution map you can call up shows the sum of the four layers, spread outward from every contaminated claim. Plumes fall off with the square of the distance and they add together, so three neighbouring claims at 100% read, from a distance, exactly like a single claim at 300%. Their reach grows with the square root of the value: ten times the pollution carries about three times as far. A poisoned claim is never a private problem for long.
 </source>
@@ -3666,9 +3666,9 @@ Petrecerile culinare se vor încheia atunci când gazda dă clic pe „Finish”
         <source xml:space="preserve">
 Soil Pollution is the waste of everyday life: {MixedGarbageItem}, trash and sewage. It is the mildest of the four, and the only one that always cleans itself in time, however high it has climbed.
 
-Heavy Mineral Pollution comes from mining and mineral processing, above all {TailingsItem} and {WetTailingsItem}. It only self-cleans up to 100%. Past that the ground is saturated and will never recover on its own.
+Heavy Mineral Pollution comes from mining and mineral processing, above all {TailingsItem} and {WetTailingsItem}. It self-cleans up to 500%, the mark of some fifty blocks left on one claim. Past that the ground is saturated and will never recover on its own.
 
-Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and the chemical byproducts of advanced crafting. It is by far the least forgiving, plateauing at a mere 30%. Let a claim climb past that and it stays poisoned until you treat it.
+Chemical Pollution is the mark of heavy industry, from {ChemicalWasteItem} and the chemical byproducts of advanced crafting. It is by far the least forgiving, self-cleaning only up to 100%, which ten blocks are enough to reach. Let a claim climb past that and it stays poisoned until you treat it.
 
 Acid Rain Pollution is the one layer you never dump: it falls. Where air pollution meets rainfall, acid rain forms and settles into the ground below. How sour a claim gets depends on how much its chimneys emit and on how wet the region is — a blast furnace running day and night will hold its own claim at twice the full gauge in an average climate, but at a fifth of that in a desert, so where heavy industry goes is a decision worth making. It is also the one layer you never need to treat: it halves every six hours once the smokestacks go quiet, so cutting emissions is the whole answer.
 </source>
@@ -3680,7 +3680,49 @@ Acid Rain Pollution is the one layer you never dump: it falls. Where air polluti
         <source xml:space="preserve">
 Land that has already been poisoned can be treated. Decontaminants are consumables applied much like fertilizer, on any block of a claim — bare ground, a road, or the floor of a factory: a {SoilDecontaminantItem} for soil, a {HeavyMineralDecontaminantItem} for heavy metals, and a {ChemicalDecontaminantItem} for chemical contamination. One unit cancels one unit of pollution source, doses stack, and half of what is waiting on an area takes effect every 24 hours, so a badly contaminated claim can be treated in bulk and left to soak.
 
-Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 100% Heavy Mineral, or above 30% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Every decontaminant cleans at the same rate, so the cost is what separates them: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
+Decontamination is also the only thing that works past a layer's self-cleaning ceiling. A claim above 500% Heavy Mineral, or above 100% Chemical, will sit there indefinitely otherwise, whether or not the source has been removed. Every decontaminant cleans at the same rate, so the cost is what separates them: compost and dirt clean soil, clay and coal bind heavy metals, and iron and coal go into every chemical neutralizer. Cleaning up after heavy industry is meant to be expensive. Not cleaning up is meant to be worse.
+</source>
+      </trans-unit>
+      <trans-unit id="449">
+        <source xml:space="preserve">How garbage is produced, recycled and sorted, and how to keep its losses and pollution down.</source>
+      </trans-unit>
+      <trans-unit id="450">
+        <source xml:space="preserve">Garbage Blocks</source>
+      </trans-unit>
+      <trans-unit id="451">
+        <source xml:space="preserve">
+Crafting, recycling and sorting all collect their waste until it fills a whole block, then output that block. What the block becomes depends only on what that block-sized share contains:
+
+- A single material gives a pure block of it, such as {IronScrapItem}.
+- Several materials of the same family give that family's mixed block, such as {MixedMetalScrapItem}. Residuals mixed in do not change this.
+- Only residuals give {MixedResidualsItem}.
+- Anything else gives {MixedGarbageItem}.
+
+Whatever is left below a full block carries over and mixes with what comes next, so one odd craft can change the next block.
+</source>
+      </trans-unit>
+      <trans-unit id="452">
+        <source xml:space="preserve">Sorting at the Source</source>
+      </trans-unit>
+      <trans-unit id="453">
+        <source xml:space="preserve">
+A crafting table keeps one garbage store for every recipe it crafts. A table dedicated to recipes producing the same waste therefore outputs pure blocks, which skip sorting and the losses that come with it, and most pure materials no longer pollute. A recipe that produces several kinds of waste always comes out mixed. The table's status shows what the next block will be.
+</source>
+      </trans-unit>
+      <trans-unit id="454">
+        <source xml:space="preserve">Efficiency</source>
+      </trans-unit>
+      <trans-unit id="455">
+        <source xml:space="preserve">
+Recyclers and sorters lose part of what they process. Their efficiency is the share of each material that keeps its type; the rest degrades into a residual, such as {GarbageItem} for metals or {CompostItem} for food. The {RecyclerItem} keeps 75%, the {ToolBenchItem} 50%, and sorters between 75% and 100% depending on how specialized they are. Efficiency is fixed for each machine: skills and talents do not change it. Residuals are never degraded further, and each garbage item's tooltip shows what it degrades into.
+</source>
+      </trans-unit>
+      <trans-unit id="456">
+        <source xml:space="preserve">Transport</source>
+      </trans-unit>
+      <trans-unit id="457">
+        <source xml:space="preserve">
+Polluting waste carried in a vehicle only pollutes once the vehicle has stayed ten minutes in the same spot, so driving it to a sorter or a dump does not poison the road.
 </source>
       </trans-unit>
     </body>
