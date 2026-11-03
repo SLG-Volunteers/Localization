@@ -3773,7 +3773,7 @@ Recyclers and sorters lose part of what they process. Their efficiency is the sh
       </trans-unit>
       <trans-unit id="456">
         <source xml:space="preserve">Transport</source>
-        <target state="translated">Převoz</target>
+        <target state="translated">Přeprava</target>
       </trans-unit>
       <trans-unit id="457">
         <source xml:space="preserve">
@@ -3783,12 +3783,15 @@ Polluting waste carried in a vehicle only pollutes once the vehicle has stayed t
       </trans-unit>
       <trans-unit id="458">
         <source xml:space="preserve">Buildings must hold themselves up: blocks that no longer touch the ground fall, and blocks that stick out too far or carry too much break.</source>
+        <target state="translated">Stavby se musí udržet samy: bloky, které se už nedotýkají země, spadnou, a bloky, které přečnívají příliš daleko nebo nesou příliš mnoho, prasknou.</target>
       </trans-unit>
       <trans-unit id="459">
         <source xml:space="preserve">Every block you build has to be carried, down to the ground. Each material has three numbers, shown on the tooltip of each block: its horizontal support (how far it reaches out from a column), its Structural Weight, and the supported weight, the Structural Weight piled on it that it can carry. Constructed blocks that fall turn into garbage, mostly mixed, with some blocks of the scraps they are made of (wood scrap, iron scrap...); natural blocks fall as they are. Piles of items set down on the ground fall straight as they are when nothing is under them. Pipes never fall and hold nothing up: what falls goes through them, and a pipe routed through a block breaks with it.</source>
+        <target state="translated">Každý blok, který postavíš, musí být podepřen až k zemi. Každý materiál má tři hodnoty, které vidíš v popisku každého bloku: své vyložení (jak daleko sahá od sloupu), svou konstrukční váhu a únosnost, tedy kolik konstrukční váhy navršené na něm unese. Postavené bloky, které spadnou, se změní na odpad, většinou smíšený, doplněný několika bloky šrotu z materiálů, z nichž byly vyrobeny (dřevěný odpad, železný šrot...); přírodní bloky padají beze změny. Hromady předmětů položené na zem se, když pod nimi nic není, propadnou rovně dolů beze změny. Trubky nikdy nepadají a nic nenesou: to, co padá, jimi propadne, a trubka vedená skrz blok praskne spolu s ním.</target>
       </trans-unit>
       <trans-unit id="460">
         <source xml:space="preserve">The rules</source>
+        <target state="translated">Pravidla</target>
       </trans-unit>
       <trans-unit id="461">
         <source xml:space="preserve">Stay connected. A block that no longer touches the ground, even through other blocks on its side, falls.
@@ -3797,15 +3800,19 @@ Horizontal support: how far a block sticks out over empty space. Count the steps
 
 Supported weight: how much a block carries. A block carries only what is straight above it, and what hangs straight under it: weight never travels sideways, so a wall never carries the lintel or the balcony hanging off it, and a column that stands keeps standing. Each material says how high a column of itself can go, and heavy materials weigh more, so a wooden base holds fewer stone blocks than wooden ones. Out over a void a block carries less the further out it is: half as much halfway to the end of its horizontal support, almost nothing at the end of it. The middle of a lintel, furthest from the walls, gives way first.
 </source>
+        <target state="translated">Zachovej spojení. Blok, který se nedotýká země ani nepřímo přes jiné bloky po svém boku, spadne. Vyložení: jak daleko blok přečnívá nad prázdným prostorem. Počítej kroky do strany od nejbližšího sloupu stojícího na zemi: každý krok do strany i každý blok zavěšený pod jiným přidává jedničku; cesta dolů je zdarma, takže blok položený na trámu je stejně daleko jako trám. Blok, který je dál, než dovoluje jeho vyložení, praskne, i když na něm nic neleží, a schodiště stoupající ze zdi ven tam končí. Únosnost: kolik toho blok unese. Blok nese jen to, co je přímo nad ním, a to, co visí přímo pod ním: váha se nikdy nepřenáší do strany, takže zeď nenese překlad ani balkon, který z ní vybíhá, a sloup, který stojí, zůstane stát. Každý materiál udává, jak vysoký může být sloup z něj, a těžké materiály váží víc, takže dřevěný základ unese méně kamenných bloků než dřevěných. Nad prázdnem blok unese tím méně, čím dál vyčnívá: v polovině cesty ke konci svého vyložení jen polovinu, na jeho konci téměř nic. Střed překladu, nejdál od zdí, povolí jako první.</target>
       </trans-unit>
       <trans-unit id="462">
         <source xml:space="preserve">Shapes</source>
+        <target state="translated">Tvary</target>
       </trans-unit>
       <trans-unit id="463">
         <source xml:space="preserve">Most shapes hold like the full block, so you can decorate freely. A few have a job, shown as a bonus or malus on the hammer's shape picker: a column carries half again as much but must stand on what is under it, without reaching out at all; floors reach a quarter further; roofs reach as far as floors but, meant for the top, carry a quarter less.</source>
+        <target state="translated">Většina tvarů drží jako plný blok, takže můžeš volně zdobit. Několik jich má svůj úkol, který se ve výběru tvaru u kladiva zobrazuje jako bonus nebo postih: sloup unese o polovinu víc, ale musí stát na tom, co je pod ním, a vůbec nesmí přečnívat; podlahy sahají o čtvrtinu dál; střechy sahají stejně daleko jako podlahy, ale protože jsou určené na vršek, unesou o čtvrtinu méně.</target>
       </trans-unit>
       <trans-unit id="464">
         <source xml:space="preserve">How far can I go?</source>
+        <target state="translated">Jak daleko můžu zajít?</target>
       </trans-unit>
       <trans-unit id="465">
         <source xml:space="preserve">
@@ -3819,21 +3826,27 @@ Supported weight: how much a block carries. A block carries only what is straigh
 
 A bridge held at both ends spans twice its horizontal support. Long floors need a pillar in the middle: each half then only has to reach half as far.
 </source>
+        <target state="translated">- Vepřovice: dům o jednom podlaží, místnosti široké až 8 bloků bez pilíře. - Otesané klády a kamenné zdivo: dvě podlaží; balkon z otesaných klád sahá 10 bloků. - Řezivo a cihly: tři podlaží, ale žádné věže. - Železobeton, ocel, kompozitní řezivo a kvádry: vysoké budovy a dlouhá rozpětí. Most podepřený na obou koncích překlene dvojnásobek svého vyložení. Dlouhé podlahy potřebují uprostřed pilíř: každá polovina pak musí sahat jen na poloviční vzdálenost.</target>
       </trans-unit>
       <trans-unit id="466">
         <source xml:space="preserve">Building against the terrain</source>
+        <target state="translated">Stavění do terénu</target>
       </trans-unit>
       <trans-unit id="467">
         <source xml:space="preserve">Natural terrain anchors whatever is built on it: a block touching rock on any side is held like one resting on the ground, so a room dug into a hill can hang shelves and beams from its walls. Rock beside a block also takes its weight: a column built against the wall of a pit carries nothing down to its foot, and only what rises above the rock piles up again. Loose ground (dirt, sand, clay, gravel) gives no such grip, and holds what is built against it only where it stands on rock all the way down. Garbage and scrap never hold anything but what is set on them. Terrain never weighs on buildings, but natural blocks set on a building do: a field on a roof weighs on it, and it holds nothing built out of it.</source>
+        <target state="translated">Přírodní terén kotví vše, co je na něm postaveno: blok, který se z kterékoli strany dotýká horniny, drží, jako by stál na zemi, takže v místnosti vyhloubené do kopce můžeš na stěny připevnit police a trámy. Hornina vedle bloku také přebírá jeho váhu: sloup postavený u stěny jámy nenese nic dolů ke své patě a váha se znovu hromadí až z toho, co se zvedá nad horninu. Sypká zemina (hlína, písek, jíl, štěrk) takové uchycení nedává a to, co je k ní přistavěno, drží jen tam, kde stojí na hornině až úplně dolů. Odpad a šrot nedrží nic jiného než to, co je na ně položeno. Terén nikdy netíží stavby, ale přírodní bloky položené na stavbě ano: pole na střeše ji zatěžuje a samo nic nedrží, co by z něj vybíhalo.</target>
       </trans-unit>
       <trans-unit id="468">
         <source xml:space="preserve">Mines and cave-ins</source>
+        <target state="translated">Doly a závaly</target>
       </trans-unit>
       <trans-unit id="469">
         <source xml:space="preserve">When cave-ins are on, rock above a hole follows the horizontal support rule: a ceiling spans twice the horizontal support of its rock, about 10 blocks in soft sandstone and shale, 14 in common stone, 18 in granite, basalt and gneiss, however deep the tunnel. Dig wider and leave pillars, or prop the ceiling up with a construction that reaches the ground by itself, like a column standing on the tunnel floor; a plank stuck under the ceiling does not count. Loose ground has no horizontal support: it pours down as soon as nothing holds it from below, and keeps a slope: a free pile of it stands at most 2 high and slides down anything steeper, unless it sits on a rock or masonry ledge or is wedged between two solids. Fallen rock stays rock.</source>
+        <target state="translated">Jsou-li závaly zapnuté, hornina nad dutinou se řídí pravidlem vyložení: strop překlene dvojnásobek vyložení své horniny, tedy asi 10 bloků v měkkém pískovci a břidlici, 14 v běžném kameni a 18 v žule, bazaltu a rule, ať je tunel jakkoli hluboko. Kopej šířeji a nech stát pilíře, nebo strop podepři konstrukcí, která sama dosáhne až na zem, třeba sloupem stojícím na podlaze tunelu; prkno nastrčené pod strop se nepočítá. Sypká zemina nemá vyložení: sesype se, jakmile ji zespodu nic nedrží, a drží svah: volná hromada jí stojí nejvýš 2 bloky vysoko a sesouvá se z každého strmějšího sklonu, pokud nespočívá na římse z horniny nebo zdiva nebo není zaklíněna mezi dvěma pevnými bloky. Spadlá hornina zůstává horninou.</target>
       </trans-unit>
       <trans-unit id="470">
         <source xml:space="preserve">Seeing the weight</source>
+        <target state="translated">Jak vidět váhu</target>
       </trans-unit>
       <trans-unit id="471">
         <source xml:space="preserve">
@@ -3841,12 +3854,15 @@ While you hold a hammer, turn on the structural view (N by default, shown under 
 
 When something you build or remove overloads a block, it cracks for a while before it breaks. Put a support back in time and the cracks go away.
 </source>
+        <target state="translated">Při držení kladiva zapni zobrazení statiky (ve výchozím nastavení N, najdeš ho pod výběrem tvaru u kladiva): okolní bloky se zabarví podle toho, jak blízko mají k prasknutí; zelené mají k prasknutí daleko, žluté jsou v polovině cesty a červené každou chvíli prasknou. Podívej se na blok a zjistíš proč: řádek pod jeho názvem vypisuje každé pravidlo, podle kterého se posuzuje, a kolik z něj využívá; to, které ho omezuje, je vyznačeno tučně. Když něco, co postavíš nebo odstraníš, blok přetíží, nějakou dobu praská, než se zlomí. Vrať oporu včas a praskliny zmizí.</target>
       </trans-unit>
       <trans-unit id="472">
         <source xml:space="preserve">Servers</source>
+        <target state="translated">Servery</target>
       </trans-unit>
       <trans-unit id="473">
         <source xml:space="preserve">Each of these rules can be turned on or off by the server, and turned off in some claims or districts.</source>
+        <target state="translated">Každé z těchto pravidel může server zapnout nebo vypnout a v některých pozemcích nebo zónách může být vypnuté.</target>
       </trans-unit>
     </body>
   </file>
