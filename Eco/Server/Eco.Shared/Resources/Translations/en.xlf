@@ -4662,33 +4662,39 @@
         <target xml:space="preserve">A save named '<ph id="0">{0}</ph>' already exists</target>
         <note from="developer">{0} - save name e.g. A save named 'nice new world' already exists</note>
       </trans-unit>
-      <trans-unit id="Blocked by object.">
+      <trans-unit id="Blocked by object." translate="no">
         <source xml:space="preserve">Blocked by object.</source>
         <target xml:space="preserve">Blocked by object.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Not enough items carried to place.">
+      <trans-unit id="Not enough items carried to place." translate="no">
         <source xml:space="preserve">Not enough items carried to place.</source>
         <target xml:space="preserve">Not enough items carried to place.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Click a stockpile or vehicle to pick up materials.">
         <source xml:space="preserve">Click a stockpile or vehicle to pick up materials.</source>
         <target xml:space="preserve">Click a stockpile or vehicle to pick up materials.</target>
       </trans-unit>
-      <trans-unit id="Click to begin building a wall.">
+      <trans-unit id="Click to begin building a wall." translate="no">
         <source xml:space="preserve">Click to begin building a wall.</source>
         <target xml:space="preserve">Click to begin building a wall.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Click to build a {0} x {1} x {2} wall ({3} blocks).">
+      <trans-unit id="Click to build a {0} x {1} x {2} wall ({3} blocks)." translate="no">
         <source xml:space="preserve">Click to build a <ph id="0">{0}</ph> x <ph id="1">{1}</ph> x <ph id="2">{2}</ph> wall (<ph id="3">{3}</ph> blocks).</source>
         <target xml:space="preserve">Click to build a <ph id="0">{0}</ph> x <ph id="1">{1}</ph> x <ph id="2">{2}</ph> wall (<ph id="3">{3}</ph> blocks).</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Landscape blocking placement.">
+      <trans-unit id="Landscape blocking placement." translate="no">
         <source xml:space="preserve">Landscape blocking placement.</source>
         <target xml:space="preserve">Landscape blocking placement.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Must attach to ground.">
+      <trans-unit id="Must attach to ground." translate="no">
         <source xml:space="preserve">Must attach to ground.</source>
         <target xml:space="preserve">Must attach to ground.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Owned by ">
         <source xml:space="preserve">Owned by </source>
@@ -5292,13 +5298,15 @@
         <source xml:space="preserve">Whether temperature changes should be simulated.</source>
         <target xml:space="preserve">Whether temperature changes should be simulated.</target>
       </trans-unit>
-      <trans-unit id="Sea levels start rising when CO2 is above this value">
+      <trans-unit id="Sea levels start rising when CO2 is above this value" translate="no">
         <source xml:space="preserve">Sea levels start rising when CO2 is above this value</source>
         <target xml:space="preserve">Sea levels start rising when CO2 is above this value</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the sea level will rise 1 meter.">
+      <trans-unit id="For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the sea level will rise 1 meter." translate="no">
         <source xml:space="preserve">For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the sea level will rise 1 meter.</source>
         <target xml:space="preserve">For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the sea level will rise 1 meter.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="No matter how bad it gets, it will never get worse than this.">
         <source xml:space="preserve">No matter how bad it gets, it will never get worse than this.</source>
@@ -5316,9 +5324,10 @@
         <source xml:space="preserve">At this level of CO2, global temperatures start to rise.</source>
         <target xml:space="preserve">At this level of CO2, global temperatures start to rise.</target>
       </trans-unit>
-      <trans-unit id="For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the global temperature level will rise 1 degree.">
+      <trans-unit id="For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the global temperature level will rise 1 degree." translate="no">
         <source xml:space="preserve">For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the global temperature level will rise 1 degree.</source>
         <target xml:space="preserve">For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the global temperature level will rise 1 degree.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="The amount of ground pollution emitted by each incorrectly stored tailing block each tick." translate="no">
         <source xml:space="preserve">The amount of ground pollution emitted by each incorrectly stored tailing block each tick.</source>
@@ -8431,13 +8440,15 @@
         <source xml:space="preserve">Min CO2 ppm</source>
         <target xml:space="preserve">Min CO2 ppm</target>
       </trans-unit>
-      <trans-unit id="Sea Levels' Rise At CO2 ppm">
+      <trans-unit id="Sea Levels' Rise At CO2 ppm" translate="no">
         <source xml:space="preserve">Sea Levels' Rise At CO2 ppm</source>
         <target xml:space="preserve">Sea Levels' Rise At CO2 ppm</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="CO2 ppm Per Sea Level Meter Rise">
+      <trans-unit id="CO2 ppm Per Sea Level Meter Rise" translate="no">
         <source xml:space="preserve">CO2 ppm Per Sea Level Meter Rise</source>
         <target xml:space="preserve">CO2 ppm Per Sea Level Meter Rise</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Temperatures Rise At CO2 ppm">
         <source xml:space="preserve">Temperatures Rise At CO2 ppm</source>
@@ -10852,9 +10863,10 @@
         <source xml:space="preserve">Compost Fertilizer</source>
         <target xml:space="preserve">Compost Fertilizer</target>
       </trans-unit>
-      <trans-unit id="Slightly increases movement speed in high activity areas.">
+      <trans-unit id="Slightly increases movement speed in high activity areas." translate="no">
         <source xml:space="preserve">Slightly increases movement speed in high activity areas.</source>
         <target xml:space="preserve">Slightly increases movement speed in high activity areas.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Lowers the calorie cost of using related tool by 20 percent.">
         <source xml:space="preserve">Lowers the calorie cost of using related tool by 20 percent.</source>
@@ -10864,9 +10876,10 @@
         <source xml:space="preserve">Picking up rocks also attempts to pick up similar rocks in an area.</source>
         <target xml:space="preserve">Picking up rocks also attempts to pick up similar rocks in an area.</target>
       </trans-unit>
-      <trans-unit id="Slightly increases movement speed in low activity areas.">
+      <trans-unit id="Slightly increases movement speed in low activity areas." translate="no">
         <source xml:space="preserve">Slightly increases movement speed in low activity areas.</source>
         <target xml:space="preserve">Slightly increases movement speed in low activity areas.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Mining rocks no longer has a chance to create large chunks.">
         <source xml:space="preserve">Mining rocks no longer has a chance to create large chunks.</source>
@@ -12937,7 +12950,7 @@
       <trans-unit id="material" translate="no">
         <source xml:space="preserve">material</source>
         <target xml:space="preserve">material</target>
-        <note from="developer">Parameter for chat command /buildingofmaterial</note>
+        <note from="developer">Parameter for multiple chat commands</note>
       </trans-unit>
       <trans-unit id="lender" translate="no">
         <source xml:space="preserve">lender</source>
@@ -15114,7 +15127,7 @@
       <trans-unit id="district" translate="no">
         <source xml:space="preserve">district</source>
         <target xml:space="preserve">district</target>
-        <note from="developer">Parameter for chat command /add</note>
+        <note from="developer">Parameter for multiple chat commands</note>
       </trans-unit>
       <trans-unit id="civics" translate="no">
         <source xml:space="preserve">civics</source>
@@ -16817,7 +16830,7 @@
       <trans-unit id="map" translate="no">
         <source xml:space="preserve">map</source>
         <target xml:space="preserve">map</target>
-        <note from="developer">Parameter for chat command /add</note>
+        <note from="developer">Chat command/Parameter for chat command /add</note>
       </trans-unit>
       <trans-unit id="clearmap" translate="no">
         <source xml:space="preserve">clearmap</source>
@@ -24894,69 +24907,85 @@
         <source xml:space="preserve">Wide Hips</source>
         <target xml:space="preserve">Wide Hips</target>
       </trans-unit>
-      <trans-unit id="Asphalt White Ramp LineD">
+      <trans-unit id="Asphalt White Ramp LineD" translate="no">
         <source xml:space="preserve">Asphalt White Ramp LineD</source>
         <target xml:space="preserve">Asphalt White Ramp LineD</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Ramp LineC">
+      <trans-unit id="Asphalt White Ramp LineC" translate="no">
         <source xml:space="preserve">Asphalt White Ramp LineC</source>
         <target xml:space="preserve">Asphalt White Ramp LineC</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Ramp LineB">
+      <trans-unit id="Asphalt White Ramp LineB" translate="no">
         <source xml:space="preserve">Asphalt White Ramp LineB</source>
         <target xml:space="preserve">Asphalt White Ramp LineB</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Ramp LineA">
+      <trans-unit id="Asphalt White Ramp LineA" translate="no">
         <source xml:space="preserve">Asphalt White Ramp LineA</source>
         <target xml:space="preserve">Asphalt White Ramp LineA</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="White Ramp Edge LineD">
+      <trans-unit id="White Ramp Edge LineD" translate="no">
         <source xml:space="preserve">White Ramp Edge LineD</source>
         <target xml:space="preserve">White Ramp Edge LineD</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="White Ramp Edge LineC">
+      <trans-unit id="White Ramp Edge LineC" translate="no">
         <source xml:space="preserve">White Ramp Edge LineC</source>
         <target xml:space="preserve">White Ramp Edge LineC</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="White Ramp Edge LineB">
+      <trans-unit id="White Ramp Edge LineB" translate="no">
         <source xml:space="preserve">White Ramp Edge LineB</source>
         <target xml:space="preserve">White Ramp Edge LineB</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="White Ramp Edge LineA">
+      <trans-unit id="White Ramp Edge LineA" translate="no">
         <source xml:space="preserve">White Ramp Edge LineA</source>
         <target xml:space="preserve">White Ramp Edge LineA</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Ramp Dash LineD">
+      <trans-unit id="Asphalt White Ramp Dash LineD" translate="no">
         <source xml:space="preserve">Asphalt White Ramp Dash LineD</source>
         <target xml:space="preserve">Asphalt White Ramp Dash LineD</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Ramp Dash LineC">
+      <trans-unit id="Asphalt White Ramp Dash LineC" translate="no">
         <source xml:space="preserve">Asphalt White Ramp Dash LineC</source>
         <target xml:space="preserve">Asphalt White Ramp Dash LineC</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Ramp Dash LineB">
+      <trans-unit id="Asphalt White Ramp Dash LineB" translate="no">
         <source xml:space="preserve">Asphalt White Ramp Dash LineB</source>
         <target xml:space="preserve">Asphalt White Ramp Dash LineB</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Ramp Dash LineA">
+      <trans-unit id="Asphalt White Ramp Dash LineA" translate="no">
         <source xml:space="preserve">Asphalt White Ramp Dash LineA</source>
         <target xml:space="preserve">Asphalt White Ramp Dash LineA</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Line">
+      <trans-unit id="Asphalt White Line" translate="no">
         <source xml:space="preserve">Asphalt White Line</source>
         <target xml:space="preserve">Asphalt White Line</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="White Edge">
+      <trans-unit id="White Edge" translate="no">
         <source xml:space="preserve">White Edge</source>
         <target xml:space="preserve">White Edge</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Dash Line">
+      <trans-unit id="Asphalt White Dash Line" translate="no">
         <source xml:space="preserve">Asphalt White Dash Line</source>
         <target xml:space="preserve">Asphalt White Dash Line</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Asphalt White Cube">
+      <trans-unit id="Asphalt White Cube" translate="no">
         <source xml:space="preserve">Asphalt White Cube</source>
         <target xml:space="preserve">Asphalt White Cube</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Under Slope Turn">
         <source xml:space="preserve">Under Slope Turn</source>
@@ -25607,9 +25636,10 @@
         <source xml:space="preserve">Temperature rises <ph id="0">{0}</ph> degree for every <ph id="1">{1}</ph>ppm past <ph id="2">{2}</ph>ppm (changing by <ph id="3">{3}</ph> degrees per day, <ph id="4">{4}</ph> degrees raised so far)</source>
         <target xml:space="preserve">Temperature rises <ph id="0">{0}</ph> degree for every <ph id="1">{1}</ph>ppm past <ph id="2">{2}</ph>ppm (changing by <ph id="3">{3}</ph> degrees per day, <ph id="4">{4}</ph> degrees raised so far)</target>
       </trans-unit>
-      <trans-unit id="Sea level rises {0} meter every {1}ppm past {2}ppm (rising by {3} meters per day, {4} meters raised so far)">
+      <trans-unit id="Sea level rises {0} meter every {1}ppm past {2}ppm (rising by {3} meters per day, {4} meters raised so far)" translate="no">
         <source xml:space="preserve">Sea level rises <ph id="0">{0}</ph> meter every <ph id="1">{1}</ph>ppm past <ph id="2">{2}</ph>ppm (rising by <ph id="3">{3}</ph> meters per day, <ph id="4">{4}</ph> meters raised so far)</source>
         <target xml:space="preserve">Sea level rises <ph id="0">{0}</ph> meter every <ph id="1">{1}</ph>ppm past <ph id="2">{2}</ph>ppm (rising by <ph id="3">{3}</ph> meters per day, <ph id="4">{4}</ph> meters raised so far)</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Total CO2">
         <source xml:space="preserve">Total CO2</source>
@@ -26490,9 +26520,10 @@
         <source xml:space="preserve">(Unnamed Marker)</source>
         <target xml:space="preserve">(Unnamed Marker)</target>
       </trans-unit>
-      <trans-unit id="Speed x{0}{1}">
+      <trans-unit id="Speed x{0}{1}" translate="no">
         <source xml:space="preserve">Speed x<ph id="0">{0}</ph><ph id="1">{1}</ph></source>
         <target xml:space="preserve">Speed x<ph id="0">{0}</ph><ph id="1">{1}</ph></target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Open/Close">
         <source xml:space="preserve">Open/Close</source>
@@ -28998,13 +29029,15 @@
         <source xml:space="preserve">A Henley shirt is a collarless pullover shirt, characterized by a placket beneath the round neckline, about 8 to 13 cm long and usually having 2 to 5 buttons. It essentially resembles a collarless polo shirt.</source>
         <target xml:space="preserve">A Henley shirt is a collarless pullover shirt, characterized by a placket beneath the round neckline, about 8 to 13 cm long and usually having 2 to 5 buttons. It essentially resembles a collarless polo shirt.</target>
       </trans-unit>
-      <trans-unit id="White Edge Rotate">
+      <trans-unit id="White Edge Rotate" translate="no">
         <source xml:space="preserve">White Edge Rotate</source>
         <target xml:space="preserve">White Edge Rotate</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Two White Edge Rotate">
+      <trans-unit id="Two White Edge Rotate" translate="no">
         <source xml:space="preserve">Two White Edge Rotate</source>
         <target xml:space="preserve">Two White Edge Rotate</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Healthy soil is essential to support life. When displaced, dirt can be used to terraform an area to support buildings and infrastructure.">
         <source xml:space="preserve">Healthy soil is essential to support life. When displaced, dirt can be used to terraform an area to support buildings and infrastructure.</source>
@@ -32422,6 +32455,7 @@
       <trans-unit id="at">
         <source xml:space="preserve">at</source>
         <target xml:space="preserve">at</target>
+        <note>Chat command</note>
       </trans-unit>
       <trans-unit id=" at or above level">
         <source xml:space="preserve"> at or above level</source>
@@ -32971,13 +33005,15 @@
         <source xml:space="preserve">Driving mode</source>
         <target xml:space="preserve">Driving mode</target>
       </trans-unit>
-      <trans-unit id="Rotate Platform">
+      <trans-unit id="Rotate Platform" translate="no">
         <source xml:space="preserve">Rotate Platform</source>
         <target xml:space="preserve">Rotate Platform</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Boom Down+Pull/Up+Push">
+      <trans-unit id="Boom Down+Pull/Up+Push" translate="no">
         <source xml:space="preserve">Boom Down+Pull/Up+Push</source>
         <target xml:space="preserve">Boom Down+Pull/Up+Push</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Boom Down/Up">
         <source xml:space="preserve">Boom Down/Up</source>
@@ -32987,9 +33023,10 @@
         <source xml:space="preserve">Boom Pull/Push</source>
         <target xml:space="preserve">Boom Pull/Push</target>
       </trans-unit>
-      <trans-unit id="Rotate Scoop">
+      <trans-unit id="Rotate Scoop" translate="no">
         <source xml:space="preserve">Rotate Scoop</source>
         <target xml:space="preserve">Rotate Scoop</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Dump Contents">
         <source xml:space="preserve">Dump Contents</source>
@@ -37612,9 +37649,10 @@
         <source xml:space="preserve">Spawns Clothing items</source>
         <target xml:space="preserve">Spawns Clothing items</target>
       </trans-unit>
-      <trans-unit id="Craving Satisfied for {0}:">
+      <trans-unit id="Craving Satisfied for {0}:" translate="no">
         <source xml:space="preserve">Craving Satisfied for <ph id="0">{0}</ph>:</source>
         <target xml:space="preserve">Craving Satisfied for <ph id="0">{0}</ph>:</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Room Category">
         <source xml:space="preserve">Room Category</source>
@@ -40376,13 +40414,15 @@
         <source xml:space="preserve">Boom Up/Boom Down</source>
         <target xml:space="preserve">Boom Up/Boom Down</target>
       </trans-unit>
-      <trans-unit id="Take / Place">
+      <trans-unit id="Take / Place" translate="no">
         <source xml:space="preserve">Take / Place</source>
         <target xml:space="preserve">Take / Place</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Put / Cancel">
+      <trans-unit id="Put / Cancel" translate="no">
         <source xml:space="preserve">Put / Cancel</source>
         <target xml:space="preserve">Put / Cancel</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Change owner of current target, if the target is a store it will change it without closing it.">
         <source xml:space="preserve">Change owner of current target, if the target is a store it will change it without closing it.</source>
@@ -41131,13 +41171,15 @@
         <source xml:space="preserve">Backward/Forward/Left/Right</source>
         <target xml:space="preserve">Backward/Forward/Left/Right</target>
       </trans-unit>
-      <trans-unit id="Rotate Left/Rotate Right">
+      <trans-unit id="Rotate Left/Rotate Right" translate="no">
         <source xml:space="preserve">Rotate Left/Rotate Right</source>
         <target xml:space="preserve">Rotate Left/Rotate Right</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Drop / Pull Hook">
+      <trans-unit id="Drop / Pull Hook" translate="no">
         <source xml:space="preserve">Drop / Pull Hook</source>
         <target xml:space="preserve">Drop / Pull Hook</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="+8 slots hidden from filter">
         <source xml:space="preserve">+8 slots hidden from filter</source>
@@ -46443,6 +46485,7 @@
       <trans-unit id="off">
         <source xml:space="preserve">off</source>
         <target xml:space="preserve">off</target>
+        <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Can't change property type when there are active residents.  Try again once residents are removed.">
         <source xml:space="preserve">Can't change property type when there are active residents.  Try again once residents are removed.</source>
@@ -59564,10 +59607,11 @@
         <target xml:space="preserve">clearpaint</target>
         <note from="developer">Chat command</note>
       </trans-unit>
-      <trans-unit id="Clears paint in area with radius specified around the player. Max = 20">
+      <trans-unit id="Clears paint in area with radius specified around the player. Max = 20" translate="no">
         <source xml:space="preserve">Clears paint in area with radius specified around the player. Max = 20</source>
         <target xml:space="preserve">Clears paint in area with radius specified around the player. Max = 20</target>
         <note from="developer">Help text for chat command /clearpaint</note>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="A simple animal skin processed for indoor use.">
         <source xml:space="preserve">A simple animal skin processed for indoor use.</source>
@@ -60728,13 +60772,15 @@
         <source xml:space="preserve">Integrity</source>
         <target xml:space="preserve">Integrity</target>
       </trans-unit>
-      <trans-unit id="Coating: {0}%">
+      <trans-unit id="Coating: {0}%" translate="no">
         <source xml:space="preserve">Coating: <ph id="0">{0}</ph>%</source>
         <target xml:space="preserve">Coating: <ph id="0">{0}</ph>%</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Target block color: {0} {1}">
+      <trans-unit id="Target block color: {0} {1}" translate="no">
         <source xml:space="preserve">Target block color: <ph id="0">{0}</ph> <ph id="1">{1}</ph></source>
         <target xml:space="preserve">Target block color: <ph id="0">{0}</ph> <ph id="1">{1}</ph></target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="This will take you to a webpage that lets you spend Eco Credits on buy server hosting time on 4Players.IO.">
         <source xml:space="preserve">This will take you to a webpage that lets you spend Eco Credits on buy server hosting time on 4Players.IO.</source>
@@ -61479,10 +61525,11 @@
         <target xml:space="preserve">painttest</target>
         <note from="developer">Chat command</note>
       </trans-unit>
-      <trans-unit id="Spawns giant walls and paints them with random colors">
+      <trans-unit id="Spawns giant walls and paints them with random colors" translate="no">
         <source xml:space="preserve">Spawns giant walls and paints them with random colors</source>
         <target xml:space="preserve">Spawns giant walls and paints them with random colors</target>
         <note from="developer">Help text for chat command /painttest</note>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="testpaintedroom" translate="no">
         <source xml:space="preserve">testpaintedroom</source>
@@ -62949,13 +62996,15 @@
         <source xml:space="preserve">Wood Double Shelf</source>
         <target xml:space="preserve">Wood Double Shelf</target>
       </trans-unit>
-      <trans-unit id="Block Bulk Actions">
+      <trans-unit id="Block Bulk Actions" translate="no">
         <source xml:space="preserve">Block Bulk Actions</source>
         <target xml:space="preserve">Block Bulk Actions</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Blocks bulk recording of actions which can help reduce crashes caused by a bug in LiteDB that mostly occur on larger servers, but may lead to some data no longer being available for civic features.">
+      <trans-unit id="Blocks bulk recording of actions which can help reduce crashes caused by a bug in LiteDB that mostly occur on larger servers, but may lead to some data no longer being available for civic features." translate="no">
         <source xml:space="preserve">Blocks bulk recording of actions which can help reduce crashes caused by a bug in LiteDB that mostly occur on larger servers, but may lead to some data no longer being available for civic features.</source>
         <target xml:space="preserve">Blocks bulk recording of actions which can help reduce crashes caused by a bug in LiteDB that mostly occur on larger servers, but may lead to some data no longer being available for civic features.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="How old records can be grouped. It means it will try to process all last X days of records to group them. Usually you want to have this number low (1-2) in order to avoid process already processed records, but you can set high value (by example world age) in order to process at once all records from some old save with disabled grouping.">
         <source xml:space="preserve">How old records can be grouped. It means it will try to process all last X days of records to group them. Usually you want to have this number low (1-2) in order to avoid process already processed records, but you can set high value (by example world age) in order to process at once all records from some old save with disabled grouping.</source>
@@ -70696,9 +70745,10 @@ Ctrl - x100</target>
         <target xml:space="preserve">A concentrated source of pollutants from heavy industry ? leached metals and degraded tailings. Severely contaminates the ground; isolate or bury it far from inhabited areas.</target>
         <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="Heavy Mineral Pollutant">
+      <trans-unit id="Heavy Mineral Pollutant" translate="no">
         <source xml:space="preserve">Heavy Mineral Pollutant</source>
         <target xml:space="preserve">Heavy Mineral Pollutant</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Recovered iron scrap from a sorting process.">
         <source xml:space="preserve">Recovered iron scrap from a sorting process.</source>
@@ -73055,9 +73105,10 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Squash Max Deferral Hours</source>
         <target xml:space="preserve">Squash Max Deferral Hours</target>
       </trans-unit>
-      <trans-unit id="Skip the hourly stats squash while online player count exceeds this, since the LiteDB churn it causes competes with live gameplay for GC time. Set to 0 to disable.">
+      <trans-unit id="Skip the hourly stats squash while online player count exceeds this, since the LiteDB churn it causes competes with live gameplay for GC time. Set to 0 to disable." translate="no">
         <source xml:space="preserve">Skip the hourly stats squash while online player count exceeds this, since the LiteDB churn it causes competes with live gameplay for GC time. Set to 0 to disable.</source>
         <target xml:space="preserve">Skip the hourly stats squash while online player count exceeds this, since the LiteDB churn it causes competes with live gameplay for GC time. Set to 0 to disable.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Even if the server stays busy, force a squash after this many hours so the backlog can't grow unbounded.">
         <source xml:space="preserve">Even if the server stays busy, force a squash after this many hours so the backlog can't grow unbounded.</source>
@@ -73432,9 +73483,10 @@ To play here you need to switch to a different game branch, check our discord fo
         <source xml:space="preserve">Alternative Recipes</source>
         <target xml:space="preserve">Alternative Recipes</target>
       </trans-unit>
-      <trans-unit id="(does not apply to crafting labor)">
+      <trans-unit id="(does not apply to crafting labor)" translate="no">
         <source xml:space="preserve">(does not apply to crafting labor)</source>
         <target xml:space="preserve">(does not apply to crafting labor)</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Carry Weight: {0}">
         <source xml:space="preserve">Carry Weight: <ph id="0">{0}</ph></source>
@@ -74937,9 +74989,10 @@ Population after: <ph id="5">{5}</ph></target>
         <source xml:space="preserve">A horrid heap of toxic, ultra-polluting chemical waste. Devastates the ground around it and seeps into nearby soil and water — contain it, or keep it as far from anything living as possible.</source>
         <target xml:space="preserve">A horrid heap of toxic, ultra-polluting chemical waste. Devastates the ground around it and seeps into nearby soil and water — contain it, or keep it as far from anything living as possible.</target>
       </trans-unit>
-      <trans-unit id="A concentrated source of pollutants from heavy industry — leached metals and degraded tailings. Severely contaminates the ground; isolate or bury it far from inhabited areas.">
+      <trans-unit id="A concentrated source of pollutants from heavy industry — leached metals and degraded tailings. Severely contaminates the ground; isolate or bury it far from inhabited areas." translate="no">
         <source xml:space="preserve">A concentrated source of pollutants from heavy industry — leached metals and degraded tailings. Severely contaminates the ground; isolate or bury it far from inhabited areas.</source>
         <target xml:space="preserve">A concentrated source of pollutants from heavy industry — leached metals and degraded tailings. Severely contaminates the ground; isolate or bury it far from inhabited areas.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="A simple sailor's cap, don’t lose it or you might be walking on a plank.">
         <source xml:space="preserve">A simple sailor's cap, don’t lose it or you might be walking on a plank.</source>
@@ -76488,21 +76541,25 @@ The machine will now run with your talents, and use the storages linked for you 
         <source xml:space="preserve">Increases damage by 20%.</source>
         <target xml:space="preserve">Increases damage by 20%.</target>
       </trans-unit>
-      <trans-unit id="[BaseTickRepair] No objects found near {0} after waiting; nothing disabled.">
+      <trans-unit id="[BaseTickRepair] No objects found near {0} after waiting; nothing disabled." translate="no">
         <source xml:space="preserve">[BaseTickRepair] No objects found near <ph id="0">{0}</ph> after waiting; nothing disabled.</source>
         <target xml:space="preserve">[BaseTickRepair] No objects found near <ph id="0">{0}</ph> after waiting; nothing disabled.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="[BaseTickRepair] Failed: {0}">
+      <trans-unit id="[BaseTickRepair] Failed: {0}" translate="no">
         <source xml:space="preserve">[BaseTickRepair] Failed: <ph id="0">{0}</ph></source>
         <target xml:space="preserve">[BaseTickRepair] Failed: <ph id="0">{0}</ph></target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="[BaseTickRepair] {0} at {1} links={2} owner={3}">
+      <trans-unit id="[BaseTickRepair] {0} at {1} links={2} owner={3}" translate="no">
         <source xml:space="preserve">[BaseTickRepair] <ph id="0">{0}</ph> at <ph id="1">{1}</ph> links=<ph id="2">{2}</ph> owner=<ph id="3">{3}</ph></source>
         <target xml:space="preserve">[BaseTickRepair] <ph id="0">{0}</ph> at <ph id="1">{1}</ph> links=<ph id="2">{2}</ph> owner=<ph id="3">{3}</ph></target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
-      <trans-unit id="[BaseTickRepair] Disabled ticking on {0}/{1} objects near {2}. Total link-graph edges across the base: {3}.">
+      <trans-unit id="[BaseTickRepair] Disabled ticking on {0}/{1} objects near {2}. Total link-graph edges across the base: {3}." translate="no">
         <source xml:space="preserve">[BaseTickRepair] Disabled ticking on <ph id="0">{0}</ph>/<ph id="1">{1}</ph> objects near <ph id="2">{2}</ph>. Total link-graph edges across the base: <ph id="3">{3}</ph>.</source>
         <target xml:space="preserve">[BaseTickRepair] Disabled ticking on <ph id="0">{0}</ph>/<ph id="1">{1}</ph> objects near <ph id="2">{2}</ph>. Total link-graph edges across the base: <ph id="3">{3}</ph>.</target>
+        <note from="developer">Obsolete string</note>
       </trans-unit>
       <trans-unit id="Web API auth rejected: {0}. {1} {2}{3} from {4}, User-Agent: '{5}', token #{6}. {7} other rejections since the last report; next report in {8} minutes at the earliest.">
         <source xml:space="preserve">Web API auth rejected: <ph id="0">{0}</ph>. <ph id="1">{1}</ph> <ph id="2">{2}</ph><ph id="3">{3}</ph> from <ph id="4">{4}</ph>, User-Agent: '<ph id="5">{5}</ph>', token #<ph id="6">{6}</ph>. <ph id="7">{7}</ph> other rejections since the last report; next report in <ph id="8">{8}</ph> minutes at the earliest.</source>
@@ -78181,6 +78238,1653 @@ Use it to keep money aside for wages, taxes or anything else paid from the same 
       <trans-unit id="Prices and volumes of what sold in shops across the server.">
         <source xml:space="preserve">Prices and volumes of what sold in shops across the server.</source>
         <target xml:space="preserve">Prices and volumes of what sold in shops across the server.</target>
+      </trans-unit>
+      <trans-unit id="Structural Integrity">
+        <source xml:space="preserve">Structural Integrity</source>
+        <target xml:space="preserve">Structural Integrity</target>
+      </trans-unit>
+      <trans-unit id="Procedural">
+        <source xml:space="preserve">Procedural</source>
+        <target xml:space="preserve">Procedural</target>
+      </trans-unit>
+      <trans-unit id="Image">
+        <source xml:space="preserve">Image</source>
+        <target xml:space="preserve">Image</target>
+      </trans-unit>
+      <trans-unit id="Map Source">
+        <source xml:space="preserve">Map Source</source>
+        <target xml:space="preserve">Map Source</target>
+      </trans-unit>
+      <trans-unit id="Image Map">
+        <source xml:space="preserve">Image Map</source>
+        <target xml:space="preserve">Image Map</target>
+      </trans-unit>
+      <trans-unit id="Effective Heightmap Module">
+        <source xml:space="preserve">Effective Heightmap Module</source>
+        <target xml:space="preserve">Effective Heightmap Module</target>
+      </trans-unit>
+      <trans-unit id="Effective Water Module">
+        <source xml:space="preserve">Effective Water Module</source>
+        <target xml:space="preserve">Effective Water Module</target>
+      </trans-unit>
+      <trans-unit id="Where the world comes from: the procedural generator (Advanced Config), or the images of the Image Map.">
+        <source xml:space="preserve">Where the world comes from: the procedural generator (Advanced Config), or the images of the Image Map.</source>
+        <target xml:space="preserve">Where the world comes from: the procedural generator (Advanced Config), or the images of the Image Map.</target>
+      </trans-unit>
+      <trans-unit id="Image map used when Map Source is Image: a folder of Configs/Maps (or a path) holding biomes.png, optionally height.png and freshwater.png. The images set the world size; everything else comes from this config, so share it along with the map. Export the current preview from the Terrain Editor or with /world exportmap to get a template. See Eco.WorldGenerator/ImageWorld/README.md.">
+        <source xml:space="preserve">Image map used when Map Source is Image: a folder of Configs/Maps (or a path) holding biomes.png, optionally height.png and freshwater.png. The images set the world size; everything else comes from this config, so share it along with the map. Export the current preview from the Terrain Editor or with /world exportmap to get a template. See Eco.WorldGenerator/ImageWorld/README.md.</source>
+        <target xml:space="preserve">Image map used when Map Source is Image: a folder of Configs/Maps (or a path) holding biomes.png, optionally height.png and freshwater.png. The images set the world size; everything else comes from this config, so share it along with the map. Export the current preview from the Terrain Editor or with /world exportmap to get a template. See Eco.WorldGenerator/ImageWorld/README.md.</target>
+      </trans-unit>
+      <trans-unit id="exportmap">
+        <source xml:space="preserve">exportmap</source>
+        <target xml:space="preserve">exportmap</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="Exports the world generator layers as an image map in Configs/Maps, to edit and load back with Map Source 'Image'. After a restart the layers are regenerated from the config first.">
+        <source xml:space="preserve">Exports the world generator layers as an image map in Configs/Maps, to edit and load back with Map Source 'Image'. After a restart the layers are regenerated from the config first.</source>
+        <target xml:space="preserve">Exports the world generator layers as an image map in Configs/Maps, to edit and load back with Map Source 'Image'. After a restart the layers are regenerated from the config first.</target>
+        <note>Help text for chat command /exportmap</note>
+      </trans-unit>
+      <trans-unit id="structural">
+        <source xml:space="preserve">structural</source>
+        <target xml:space="preserve">structural</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="Commands for the structural integrity system.">
+        <source xml:space="preserve">Commands for the structural integrity system.</source>
+        <target xml:space="preserve">Commands for the structural integrity system.</target>
+        <note>Help text for chat command /structural</note>
+      </trans-unit>
+      <trans-unit id="sistatus">
+        <source xml:space="preserve">sistatus</source>
+        <target xml:space="preserve">sistatus</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Show which integrity systems are on and the exempt areas.">
+        <source xml:space="preserve">Show which integrity systems are on and the exempt areas.</source>
+        <target xml:space="preserve">Show which integrity systems are on and the exempt areas.</target>
+        <note>Help text for chat command /status</note>
+      </trans-unit>
+      <trans-unit id="sion">
+        <source xml:space="preserve">sion</source>
+        <target xml:space="preserve">sion</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Turn integrity systems on server-wide (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces).">
+        <source xml:space="preserve">Turn integrity systems on server-wide (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces).</source>
+        <target xml:space="preserve">Turn integrity systems on server-wide (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces).</target>
+        <note>Help text for chat command /on</note>
+      </trans-unit>
+      <trans-unit id="sioff">
+        <source xml:space="preserve">sioff</source>
+        <target xml:space="preserve">sioff</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Turn integrity systems off server-wide (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces).">
+        <source xml:space="preserve">Turn integrity systems off server-wide (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces).</source>
+        <target xml:space="preserve">Turn integrity systems off server-wide (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces).</target>
+        <note>Help text for chat command /off</note>
+      </trans-unit>
+      <trans-unit id="exemptclaim">
+        <source xml:space="preserve">exemptclaim</source>
+        <target xml:space="preserve">exemptclaim</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="siexemptclaim">
+        <source xml:space="preserve">siexemptclaim</source>
+        <target xml:space="preserve">siexemptclaim</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Turn integrity systems off in the claim you stand in (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces).">
+        <source xml:space="preserve">Turn integrity systems off in the claim you stand in (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces).</source>
+        <target xml:space="preserve">Turn integrity systems off in the claim you stand in (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces).</target>
+        <note>Help text for chat command /exemptclaim</note>
+      </trans-unit>
+      <trans-unit id="exemptdistrict">
+        <source xml:space="preserve">exemptdistrict</source>
+        <target xml:space="preserve">exemptdistrict</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="siexemptdistrict">
+        <source xml:space="preserve">siexemptdistrict</source>
+        <target xml:space="preserve">siexemptdistrict</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Turn integrity systems off in the district you stand in (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces); name the district or its map when several cover this place.">
+        <source xml:space="preserve">Turn integrity systems off in the district you stand in (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces); name the district or its map when several cover this place.</source>
+        <target xml:space="preserve">Turn integrity systems off in the district you stand in (systems: floatingblocks, buildings, caveins, foundations, worldobjects or all, separated by spaces); name the district or its map when several cover this place.</target>
+        <note>Help text for chat command /exemptdistrict</note>
+      </trans-unit>
+      <trans-unit id="unexemptclaim">
+        <source xml:space="preserve">unexemptclaim</source>
+        <target xml:space="preserve">unexemptclaim</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="siunexemptclaim">
+        <source xml:space="preserve">siunexemptclaim</source>
+        <target xml:space="preserve">siunexemptclaim</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Remove the exemption of the claim you stand in.">
+        <source xml:space="preserve">Remove the exemption of the claim you stand in.</source>
+        <target xml:space="preserve">Remove the exemption of the claim you stand in.</target>
+        <note>Help text for chat command /unexemptclaim</note>
+      </trans-unit>
+      <trans-unit id="unexemptdistrict">
+        <source xml:space="preserve">unexemptdistrict</source>
+        <target xml:space="preserve">unexemptdistrict</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="siunexemptdistrict">
+        <source xml:space="preserve">siunexemptdistrict</source>
+        <target xml:space="preserve">siunexemptdistrict</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Remove the exemption of the district you stand in; name the district or its map when several cover this place.">
+        <source xml:space="preserve">Remove the exemption of the district you stand in; name the district or its map when several cover this place.</source>
+        <target xml:space="preserve">Remove the exemption of the district you stand in; name the district or its map when several cover this place.</target>
+        <note>Help text for chat command /unexemptdistrict</note>
+      </trans-unit>
+      <trans-unit id="exemptions">
+        <source xml:space="preserve">exemptions</source>
+        <target xml:space="preserve">exemptions</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="siexemptions">
+        <source xml:space="preserve">siexemptions</source>
+        <target xml:space="preserve">siexemptions</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="List the exempt claims and districts.">
+        <source xml:space="preserve">List the exempt claims and districts.</source>
+        <target xml:space="preserve">List the exempt claims and districts.</target>
+        <note>Help text for chat command /exemptions</note>
+      </trans-unit>
+      <trans-unit id="recalc">
+        <source xml:space="preserve">recalc</source>
+        <target xml:space="preserve">recalc</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="sirecalc">
+        <source xml:space="preserve">sirecalc</source>
+        <target xml:space="preserve">sirecalc</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Re-judge every block in a cube around you.">
+        <source xml:space="preserve">Re-judge every block in a cube around you.</source>
+        <target xml:space="preserve">Re-judge every block in a cube around you.</target>
+        <note>Help text for chat command /recalc</note>
+      </trans-unit>
+      <trans-unit id="siat">
+        <source xml:space="preserve">siat</source>
+        <target xml:space="preserve">siat</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Show what a block carries and how close it is to breaking.">
+        <source xml:space="preserve">Show what a block carries and how close it is to breaking.</source>
+        <target xml:space="preserve">Show what a block carries and how close it is to breaking.</target>
+        <note>Help text for chat command /at</note>
+      </trans-unit>
+      <trans-unit id="collapsenow">
+        <source xml:space="preserve">collapsenow</source>
+        <target xml:space="preserve">collapsenow</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="sicollapse">
+        <source xml:space="preserve">sicollapse</source>
+        <target xml:space="preserve">sicollapse</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="End every reprieve now, so cracking blocks fall without waiting out their delay.">
+        <source xml:space="preserve">End every reprieve now, so cracking blocks fall without waiting out their delay.</source>
+        <target xml:space="preserve">End every reprieve now, so cracking blocks fall without waiting out their delay.</target>
+        <note>Help text for chat command /collapsenow</note>
+      </trans-unit>
+      <trans-unit id="bake">
+        <source xml:space="preserve">bake</source>
+        <target xml:space="preserve">bake</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="sibake">
+        <source xml:space="preserve">sibake</source>
+        <target xml:space="preserve">sibake</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Re-measure the structural view map in a radius of chunks around you.">
+        <source xml:space="preserve">Re-measure the structural view map in a radius of chunks around you.</source>
+        <target xml:space="preserve">Re-measure the structural view map in a radius of chunks around you.</target>
+        <note>Help text for chat command /bake</note>
+      </trans-unit>
+      <trans-unit id="simap">
+        <source xml:space="preserve">simap</source>
+        <target xml:space="preserve">simap</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Describe the structural view map and chunk cache state around you.">
+        <source xml:space="preserve">Describe the structural view map and chunk cache state around you.</source>
+        <target xml:space="preserve">Describe the structural view map and chunk cache state around you.</target>
+        <note>Help text for chat command /map</note>
+      </trans-unit>
+      <trans-unit id="stats">
+        <source xml:space="preserve">stats</source>
+        <target xml:space="preserve">stats</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="sistats">
+        <source xml:space="preserve">sistats</source>
+        <target xml:space="preserve">sistats</target>
+        <note>Chat command shortcut</note>
+      </trans-unit>
+      <trans-unit id="Show engine queue stats.">
+        <source xml:space="preserve">Show engine queue stats.</source>
+        <target xml:space="preserve">Show engine queue stats.</target>
+        <note>Help text for chat command /stats</note>
+      </trans-unit>
+      <trans-unit id="Allow Overeating">
+        <source xml:space="preserve">Allow Overeating</source>
+        <target xml:space="preserve">Allow Overeating</target>
+      </trans-unit>
+      <trans-unit id="Overeating Max Capacity Multiplier">
+        <source xml:space="preserve">Overeating Max Capacity Multiplier</source>
+        <target xml:space="preserve">Overeating Max Capacity Multiplier</target>
+      </trans-unit>
+      <trans-unit id="Allows eating dinner party courses past the stomach capacity. The extra calories stay until they are spent.">
+        <source xml:space="preserve">Allows eating dinner party courses past the stomach capacity. The extra calories stay until they are spent.</source>
+        <target xml:space="preserve">Allows eating dinner party courses past the stomach capacity. The extra calories stay until they are spent.</target>
+      </trans-unit>
+      <trans-unit id="Maximum calories while overeating, as a multiple of the stomach capacity.">
+        <source xml:space="preserve">Maximum calories while overeating, as a multiple of the stomach capacity.</source>
+        <target xml:space="preserve">Maximum calories while overeating, as a multiple of the stomach capacity.</target>
+      </trans-unit>
+      <trans-unit id="Blocks must stay connected to the ground. A block that no longer touches the ground through other blocks falls: natural blocks fall as they are, constructed blocks fall and turn into garbage (see Salvage Share). Sideways connections count, so a bridge anchored at one end is still connected: whether it can actually hold is up to Constructed Blocks Need Support.">
+        <source xml:space="preserve">Blocks must stay connected to the ground. A block that no longer touches the ground through other blocks falls: natural blocks fall as they are, constructed blocks fall and turn into garbage (see Salvage Share). Sideways connections count, so a bridge anchored at one end is still connected: whether it can actually hold is up to Constructed Blocks Need Support.</source>
+        <target xml:space="preserve">Blocks must stay connected to the ground. A block that no longer touches the ground through other blocks falls: natural blocks fall as they are, constructed blocks fall and turn into garbage (see Salvage Share). Sideways connections count, so a bridge anchored at one end is still connected: whether it can actually hold is up to Constructed Blocks Need Support.</target>
+      </trans-unit>
+      <trans-unit id="Disconnected Blocks Fall">
+        <source xml:space="preserve">Disconnected Blocks Fall</source>
+        <target xml:space="preserve">Disconnected Blocks Fall</target>
+      </trans-unit>
+      <trans-unit id="Constructed blocks must hold themselves up, with two numbers shown in each block's tooltip. Horizontal support: how many blocks out a block can stick out sideways (held from the side or hanging) from a column standing on the ground. Supported weight: how much structural weight piled on it a block can carry, less the further out it is. A block past its horizontal support, or carrying more than it supports, cracks, then breaks with everything it was holding. A block resting on the block under it has no horizontal limit. Weight only goes down, toward the ground, through the blocks holding it. Building against rock anchors a construction; loose ground (dirt, sand, clay, gravel) does not. Natural blocks set on a construction, like a field on a roof, weigh on it.">
+        <source xml:space="preserve">Constructed blocks must hold themselves up, with two numbers shown in each block's tooltip. Horizontal support: how many blocks out a block can stick out sideways (held from the side or hanging) from a column standing on the ground. Supported weight: how much structural weight piled on it a block can carry, less the further out it is. A block past its horizontal support, or carrying more than it supports, cracks, then breaks with everything it was holding. A block resting on the block under it has no horizontal limit. Weight only goes down, toward the ground, through the blocks holding it. Building against rock anchors a construction; loose ground (dirt, sand, clay, gravel) does not. Natural blocks set on a construction, like a field on a roof, weigh on it.</source>
+        <target xml:space="preserve">Constructed blocks must hold themselves up, with two numbers shown in each block's tooltip. Horizontal support: how many blocks out a block can stick out sideways (held from the side or hanging) from a column standing on the ground. Supported weight: how much structural weight piled on it a block can carry, less the further out it is. A block past its horizontal support, or carrying more than it supports, cracks, then breaks with everything it was holding. A block resting on the block under it has no horizontal limit. Weight only goes down, toward the ground, through the blocks holding it. Building against rock anchors a construction; loose ground (dirt, sand, clay, gravel) does not. Natural blocks set on a construction, like a field on a roof, weigh on it.</target>
+      </trans-unit>
+      <trans-unit id="Constructed Blocks Need Support">
+        <source xml:space="preserve">Constructed Blocks Need Support</source>
+        <target xml:space="preserve">Constructed Blocks Need Support</target>
+      </trans-unit>
+      <trans-unit id="Natural blocks that do not rest on solid ground all the way down (cave ceilings, overhangs, the rock above a tunnel) follow the horizontal support rule of constructed blocks with each rock's own horizontal support: a ceiling spans about twice it. Constructions standing on the ground hold them up, so pillars and props save a mine. Loose ground (dirt, sand, clay, gravel) keeps a slope: a free-standing pile higher than 2 blocks slides down, unless it rests on a rock or masonry ledge or is wedged between two solids. Fallen blocks keep their type. When off, natural blocks only fall when they are disconnected (see Disconnected Blocks Fall).">
+        <source xml:space="preserve">Natural blocks that do not rest on solid ground all the way down (cave ceilings, overhangs, the rock above a tunnel) follow the horizontal support rule of constructed blocks with each rock's own horizontal support: a ceiling spans about twice it. Constructions standing on the ground hold them up, so pillars and props save a mine. Loose ground (dirt, sand, clay, gravel) keeps a slope: a free-standing pile higher than 2 blocks slides down, unless it rests on a rock or masonry ledge or is wedged between two solids. Fallen blocks keep their type. When off, natural blocks only fall when they are disconnected (see Disconnected Blocks Fall).</source>
+        <target xml:space="preserve">Natural blocks that do not rest on solid ground all the way down (cave ceilings, overhangs, the rock above a tunnel) follow the horizontal support rule of constructed blocks with each rock's own horizontal support: a ceiling spans about twice it. Constructions standing on the ground hold them up, so pillars and props save a mine. Loose ground (dirt, sand, clay, gravel) keeps a slope: a free-standing pile higher than 2 blocks slides down, unless it rests on a rock or masonry ledge or is wedged between two solids. Fallen blocks keep their type. When off, natural blocks only fall when they are disconnected (see Disconnected Blocks Fall).</target>
+      </trans-unit>
+      <trans-unit id="Natural Blocks Need Support">
+        <source xml:space="preserve">Natural Blocks Need Support</source>
+        <target xml:space="preserve">Natural Blocks Need Support</target>
+      </trans-unit>
+      <trans-unit id="Placed objects (tables, machines, storages) fall into a garbage bag, with all their contents, when the ground under them goes or when falling blocks land on them; the bag can be picked back up. When off, objects stay where they are, even in mid-air, and falling blocks land on top of them.">
+        <source xml:space="preserve">Placed objects (tables, machines, storages) fall into a garbage bag, with all their contents, when the ground under them goes or when falling blocks land on them; the bag can be picked back up. When off, objects stay where they are, even in mid-air, and falling blocks land on top of them.</source>
+        <target xml:space="preserve">Placed objects (tables, machines, storages) fall into a garbage bag, with all their contents, when the ground under them goes or when falling blocks land on them; the bag can be picked back up. When off, objects stay where they are, even in mid-air, and falling blocks land on top of them.</target>
+      </trans-unit>
+      <trans-unit id="Objects Need Support">
+        <source xml:space="preserve">Objects Need Support</source>
+        <target xml:space="preserve">Objects Need Support</target>
+      </trans-unit>
+      <trans-unit id="Rock standing on this many rock blocks counts as solid ground, for natural blocks and as an anchor for constructions: only the layers of rock just above a void can cave in, so a cave too wide brings down a slab this thick, then the next one over a narrower opening, until it settles into a vault, instead of the whole mountain above it. Loose ground never counts. 0: only rock in an unbroken column from bedrock is ground.">
+        <source xml:space="preserve">Rock standing on this many rock blocks counts as solid ground, for natural blocks and as an anchor for constructions: only the layers of rock just above a void can cave in, so a cave too wide brings down a slab this thick, then the next one over a narrower opening, until it settles into a vault, instead of the whole mountain above it. Loose ground never counts. 0: only rock in an unbroken column from bedrock is ground.</source>
+        <target xml:space="preserve">Rock standing on this many rock blocks counts as solid ground, for natural blocks and as an anchor for constructions: only the layers of rock just above a void can cave in, so a cave too wide brings down a slab this thick, then the next one over a narrower opening, until it settles into a vault, instead of the whole mountain above it. Loose ground never counts. 0: only rock in an unbroken column from bedrock is ground.</target>
+      </trans-unit>
+      <trans-unit id="Rock Layers That Count As Ground">
+        <source xml:space="preserve">Rock Layers That Count As Ground</source>
+        <target xml:space="preserve">Rock Layers That Count As Ground</target>
+      </trans-unit>
+      <trans-unit id="Share of a fallen constructed block's salvage cost that comes back as garbage where it lands; the rest is lost as Trash. 1 returns everything, 0 only Trash.">
+        <source xml:space="preserve">Share of a fallen constructed block's salvage cost that comes back as garbage where it lands; the rest is lost as Trash. 1 returns everything, 0 only Trash.</source>
+        <target xml:space="preserve">Share of a fallen constructed block's salvage cost that comes back as garbage where it lands; the rest is lost as Trash. 1 returns everything, 0 only Trash.</target>
+      </trans-unit>
+      <trans-unit id="Salvage Share">
+        <source xml:space="preserve">Salvage Share</source>
+        <target xml:space="preserve">Salvage Share</target>
+      </trans-unit>
+      <trans-unit id="Share of the garbage a collapse leaves, counted in items, that lands as blocks of what it is made of (Wood Scrap, crushed rock, residuals...); the rest lands as MixedGarbage. 0 leaves only MixedGarbage.">
+        <source xml:space="preserve">Share of the garbage a collapse leaves, counted in items, that lands as blocks of what it is made of (Wood Scrap, crushed rock, residuals...); the rest lands as MixedGarbage. 0 leaves only MixedGarbage.</source>
+        <target xml:space="preserve">Share of the garbage a collapse leaves, counted in items, that lands as blocks of what it is made of (Wood Scrap, crushed rock, residuals...); the rest lands as MixedGarbage. 0 leaves only MixedGarbage.</target>
+      </trans-unit>
+      <trans-unit id="Scrap Share">
+        <source xml:space="preserve">Scrap Share</source>
+        <target xml:space="preserve">Scrap Share</target>
+      </trans-unit>
+      <trans-unit id="Claims and districts where some or all of these rules are off, managed in game with /structural exemptclaim and /structural exemptdistrict. In an exempt area the exempted rules never break anything, and its blocks count as solid anchors for the blocks around it. Entries are stored by id, so renaming a claim or a district keeps them; deleting it makes its entry do nothing.">
+        <source xml:space="preserve">Claims and districts where some or all of these rules are off, managed in game with /structural exemptclaim and /structural exemptdistrict. In an exempt area the exempted rules never break anything, and its blocks count as solid anchors for the blocks around it. Entries are stored by id, so renaming a claim or a district keeps them; deleting it makes its entry do nothing.</source>
+        <target xml:space="preserve">Claims and districts where some or all of these rules are off, managed in game with /structural exemptclaim and /structural exemptdistrict. In an exempt area the exempted rules never break anything, and its blocks count as solid anchors for the blocks around it. Entries are stored by id, so renaming a claim or a district keeps them; deleting it makes its entry do nothing.</target>
+      </trans-unit>
+      <trans-unit id="Exemptions">
+        <source xml:space="preserve">Exemptions</source>
+        <target xml:space="preserve">Exemptions</target>
+      </trans-unit>
+      <trans-unit id="Timing, performance limits and logging. The defaults suit most servers.">
+        <source xml:space="preserve">Timing, performance limits and logging. The defaults suit most servers.</source>
+        <target xml:space="preserve">Timing, performance limits and logging. The defaults suit most servers.</target>
+      </trans-unit>
+      <trans-unit id="Advanced Configuration">
+        <source xml:space="preserve">Advanced Configuration</source>
+        <target xml:space="preserve">Advanced Configuration</target>
+      </trans-unit>
+      <trans-unit id="Blocks that no longer touch the ground through other blocks fall.">
+        <source xml:space="preserve">Blocks that no longer touch the ground through other blocks fall.</source>
+        <target xml:space="preserve">Blocks that no longer touch the ground through other blocks fall.</target>
+      </trans-unit>
+      <trans-unit id="How long blocks a player cut off from the ground crack before falling. Connecting them back to the ground in time saves them. Loose ground and blocks cut off by another collapse do not wait. 0: they fall at once.">
+        <source xml:space="preserve">How long blocks a player cut off from the ground crack before falling. Connecting them back to the ground in time saves them. Loose ground and blocks cut off by another collapse do not wait. 0: they fall at once.</source>
+        <target xml:space="preserve">How long blocks a player cut off from the ground crack before falling. Connecting them back to the ground in time saves them. Loose ground and blocks cut off by another collapse do not wait. 0: they fall at once.</target>
+      </trans-unit>
+      <trans-unit id="Crack Seconds">
+        <source xml:space="preserve">Crack Seconds</source>
+        <target xml:space="preserve">Crack Seconds</target>
+      </trans-unit>
+      <trans-unit id="Constructed blocks past their horizontal support, or carrying more than they support, break.">
+        <source xml:space="preserve">Constructed blocks past their horizontal support, or carrying more than they support, break.</source>
+        <target xml:space="preserve">Constructed blocks past their horizontal support, or carrying more than they support, break.</target>
+      </trans-unit>
+      <trans-unit id="How long a constructed block a player left without support cracks before breaking: nothing holds it to the ground any more, or it sticks out past its horizontal support. Putting a support back in time saves it. Blocks pulled down by another collapse do not wait. 0: it breaks at once.">
+        <source xml:space="preserve">How long a constructed block a player left without support cracks before breaking: nothing holds it to the ground any more, or it sticks out past its horizontal support. Putting a support back in time saves it. Blocks pulled down by another collapse do not wait. 0: it breaks at once.</source>
+        <target xml:space="preserve">How long a constructed block a player left without support cracks before breaking: nothing holds it to the ground any more, or it sticks out past its horizontal support. Putting a support back in time saves it. Blocks pulled down by another collapse do not wait. 0: it breaks at once.</target>
+      </trans-unit>
+      <trans-unit id="Crack Seconds When Unsupported">
+        <source xml:space="preserve">Crack Seconds When Unsupported</source>
+        <target xml:space="preserve">Crack Seconds When Unsupported</target>
+      </trans-unit>
+      <trans-unit id="How long a constructed block cracks before breaking when it is still held but a player's change left it carrying more than it supports. Removing weight or adding a support in time saves it. 0: it breaks at once.">
+        <source xml:space="preserve">How long a constructed block cracks before breaking when it is still held but a player's change left it carrying more than it supports. Removing weight or adding a support in time saves it. 0: it breaks at once.</source>
+        <target xml:space="preserve">How long a constructed block cracks before breaking when it is still held but a player's change left it carrying more than it supports. Removing weight or adding a support in time saves it. 0: it breaks at once.</target>
+      </trans-unit>
+      <trans-unit id="Crack Seconds When Too Heavy">
+        <source xml:space="preserve">Crack Seconds When Too Heavy</source>
+        <target xml:space="preserve">Crack Seconds When Too Heavy</target>
+      </trans-unit>
+      <trans-unit id="Multiplies how far every constructed block can stick out sideways, rounded to whole blocks. 2: balconies and spans twice as long.">
+        <source xml:space="preserve">Multiplies how far every constructed block can stick out sideways, rounded to whole blocks. 2: balconies and spans twice as long.</source>
+        <target xml:space="preserve">Multiplies how far every constructed block can stick out sideways, rounded to whole blocks. 2: balconies and spans twice as long.</target>
+      </trans-unit>
+      <trans-unit id="Horizontal Support Multiplier">
+        <source xml:space="preserve">Horizontal Support Multiplier</source>
+        <target xml:space="preserve">Horizontal Support Multiplier</target>
+      </trans-unit>
+      <trans-unit id="Multiplies how much weight every constructed block can carry. 2: towers twice as tall.">
+        <source xml:space="preserve">Multiplies how much weight every constructed block can carry. 2: towers twice as tall.</source>
+        <target xml:space="preserve">Multiplies how much weight every constructed block can carry. 2: towers twice as tall.</target>
+      </trans-unit>
+      <trans-unit id="Supported Weight Multiplier">
+        <source xml:space="preserve">Supported Weight Multiplier</source>
+        <target xml:space="preserve">Supported Weight Multiplier</target>
+      </trans-unit>
+      <trans-unit id="Cave ceilings and overhangs too wide for their rock cave in, and loose ground steeper than its slope slides down.">
+        <source xml:space="preserve">Cave ceilings and overhangs too wide for their rock cave in, and loose ground steeper than its slope slides down.</source>
+        <target xml:space="preserve">Cave ceilings and overhangs too wide for their rock cave in, and loose ground steeper than its slope slides down.</target>
+      </trans-unit>
+      <trans-unit id="How long rock a player left without support (a ceiling dug too wide) cracks before caving in. Propping it up in time saves it. Loose ground (dirt, sand, clay, gravel) and rock pulled down by another collapse do not wait. 0: it caves in at once.">
+        <source xml:space="preserve">How long rock a player left without support (a ceiling dug too wide) cracks before caving in. Propping it up in time saves it. Loose ground (dirt, sand, clay, gravel) and rock pulled down by another collapse do not wait. 0: it caves in at once.</source>
+        <target xml:space="preserve">How long rock a player left without support (a ceiling dug too wide) cracks before caving in. Propping it up in time saves it. Loose ground (dirt, sand, clay, gravel) and rock pulled down by another collapse do not wait. 0: it caves in at once.</target>
+      </trans-unit>
+      <trans-unit id="Multiplies how far every rock can span over a void, rounded to whole blocks. 2: caves and mine halls twice as wide hold without pillars.">
+        <source xml:space="preserve">Multiplies how far every rock can span over a void, rounded to whole blocks. 2: caves and mine halls twice as wide hold without pillars.</source>
+        <target xml:space="preserve">Multiplies how far every rock can span over a void, rounded to whole blocks. 2: caves and mine halls twice as wide hold without pillars.</target>
+      </trans-unit>
+      <trans-unit id="Placed objects fall into a garbage bag, with their contents, when the ground under them goes or falling blocks land on them.">
+        <source xml:space="preserve">Placed objects fall into a garbage bag, with their contents, when the ground under them goes or falling blocks land on them.</source>
+        <target xml:space="preserve">Placed objects fall into a garbage bag, with their contents, when the ground under them goes or falling blocks land on them.</target>
+      </trans-unit>
+      <trans-unit id="Random spread of the crack time, as a share of it, so a whole floor does not drop as one slab. 0.3: each block waits between 85% and 115% of it.">
+        <source xml:space="preserve">Random spread of the crack time, as a share of it, so a whole floor does not drop as one slab. 0.3: each block waits between 85% and 115% of it.</source>
+        <target xml:space="preserve">Random spread of the crack time, as a share of it, so a whole floor does not drop as one slab. 0.3: each block waits between 85% and 115% of it.</target>
+      </trans-unit>
+      <trans-unit id="Crack Seconds Random Spread">
+        <source xml:space="preserve">Crack Seconds Random Spread</source>
+        <target xml:space="preserve">Crack Seconds Random Spread</target>
+      </trans-unit>
+      <trans-unit id="Seconds between one layer of a collapse and the next coming down on screen: the blocks that broke fall first, then what they carried, a layer at a time. A tall collapse shortens the step so that it never takes more than 4 seconds. 0: a whole collapse comes down at once.">
+        <source xml:space="preserve">Seconds between one layer of a collapse and the next coming down on screen: the blocks that broke fall first, then what they carried, a layer at a time. A tall collapse shortens the step so that it never takes more than 4 seconds. 0: a whole collapse comes down at once.</source>
+        <target xml:space="preserve">Seconds between one layer of a collapse and the next coming down on screen: the blocks that broke fall first, then what they carried, a layer at a time. A tall collapse shortens the step so that it never takes more than 4 seconds. 0: a whole collapse comes down at once.</target>
+      </trans-unit>
+      <trans-unit id="Seconds Between Collapse Layers">
+        <source xml:space="preserve">Seconds Between Collapse Layers</source>
+        <target xml:space="preserve">Seconds Between Collapse Layers</target>
+      </trans-unit>
+      <trans-unit id="Most blocks one check may visit. A structure bigger than this is left standing rather than collapsed on a guess. Raise it if very large builds never react to damage; it costs server time on every edit near them.">
+        <source xml:space="preserve">Most blocks one check may visit. A structure bigger than this is left standing rather than collapsed on a guess. Raise it if very large builds never react to damage; it costs server time on every edit near them.</source>
+        <target xml:space="preserve">Most blocks one check may visit. A structure bigger than this is left standing rather than collapsed on a guess. Raise it if very large builds never react to damage; it costs server time on every edit near them.</target>
+      </trans-unit>
+      <trans-unit id="Max Blocks Per Check">
+        <source xml:space="preserve">Max Blocks Per Check</source>
+        <target xml:space="preserve">Max Blocks Per Check</target>
+      </trans-unit>
+      <trans-unit id="Block changes processed per tick. More wait for the next tick, so a huge edit (an explosion, a large paste) never freezes the server, at the cost of collapses spreading over a few ticks.">
+        <source xml:space="preserve">Block changes processed per tick. More wait for the next tick, so a huge edit (an explosion, a large paste) never freezes the server, at the cost of collapses spreading over a few ticks.</source>
+        <target xml:space="preserve">Block changes processed per tick. More wait for the next tick, so a huge edit (an explosion, a large paste) never freezes the server, at the cost of collapses spreading over a few ticks.</target>
+      </trans-unit>
+      <trans-unit id="Max Block Changes Per Tick">
+        <source xml:space="preserve">Max Block Changes Per Tick</source>
+        <target xml:space="preserve">Max Block Changes Per Tick</target>
+      </trans-unit>
+      <trans-unit id="Highest height checked when looking for the ground under a column of blocks. Only needs raising for worlds taller than this.">
+        <source xml:space="preserve">Highest height checked when looking for the ground under a column of blocks. Only needs raising for worlds taller than this.</source>
+        <target xml:space="preserve">Highest height checked when looking for the ground under a column of blocks. Only needs raising for worlds taller than this.</target>
+      </trans-unit>
+      <trans-unit id="Ground Search Max Height">
+        <source xml:space="preserve">Ground Search Max Height</source>
+        <target xml:space="preserve">Ground Search Max Height</target>
+      </trans-unit>
+      <trans-unit id="Milliseconds between ticks. Lower reacts faster to edits, higher costs less server time.">
+        <source xml:space="preserve">Milliseconds between ticks. Lower reacts faster to edits, higher costs less server time.</source>
+        <target xml:space="preserve">Milliseconds between ticks. Lower reacts faster to edits, higher costs less server time.</target>
+      </trans-unit>
+      <trans-unit id="Tick Ms">
+        <source xml:space="preserve">Tick Ms</source>
+        <target xml:space="preserve">Tick Ms</target>
+      </trans-unit>
+      <trans-unit id="Writes a log line for every block change looked at and every block dropped. For debugging only: every dig logs a line.">
+        <source xml:space="preserve">Writes a log line for every block change looked at and every block dropped. For debugging only: every dig logs a line.</source>
+        <target xml:space="preserve">Writes a log line for every block change looked at and every block dropped. For debugging only: every dig logs a line.</target>
+      </trans-unit>
+      <trans-unit id="Verbose Logging">
+        <source xml:space="preserve">Verbose Logging</source>
+        <target xml:space="preserve">Verbose Logging</target>
+      </trans-unit>
+      <trans-unit id="Writes one log line a second while structural integrity works: the block changes that woke it, and how many blocks it checked, judged and dropped, with the time it took.">
+        <source xml:space="preserve">Writes one log line a second while structural integrity works: the block changes that woke it, and how many blocks it checked, judged and dropped, with the time it took.</source>
+        <target xml:space="preserve">Writes one log line a second while structural integrity works: the block changes that woke it, and how many blocks it checked, judged and dropped, with the time it took.</target>
+      </trans-unit>
+      <trans-unit id="Activity Log">
+        <source xml:space="preserve">Activity Log</source>
+        <target xml:space="preserve">Activity Log</target>
+      </trans-unit>
+      <trans-unit id="Structural integrity: blocks that must stay connected to the ground, buildings that must hold themselves up, cave-ins and falling objects. Every system is off by default.">
+        <source xml:space="preserve">Structural integrity: blocks that must stay connected to the ground, buildings that must hold themselves up, cave-ins and falling objects. Every system is off by default.</source>
+        <target xml:space="preserve">Structural integrity: blocks that must stay connected to the ground, buildings that must hold themselves up, cave-ins and falling objects. Every system is off by default.</target>
+      </trans-unit>
+      <trans-unit id="Clears paint in area with radius specified around the player. Max = 50">
+        <source xml:space="preserve">Clears paint in area with radius specified around the player. Max = 50</source>
+        <target xml:space="preserve">Clears paint in area with radius specified around the player. Max = 50</target>
+        <note>Help text for chat command /clearpaint</note>
+      </trans-unit>
+      <trans-unit id="Spawns walls of painted blocks for performance tests: random colors and patterns on every face, 'layers' coats per face (1-3), 'shapes' mixes every form of 'material' (stairs, ramps, glass panes...)">
+        <source xml:space="preserve">Spawns walls of painted blocks for performance tests: random colors and patterns on every face, 'layers' coats per face (1-3), 'shapes' mixes every form of 'material' (stairs, ramps, glass panes...)</source>
+        <target xml:space="preserve">Spawns walls of painted blocks for performance tests: random colors and patterns on every face, 'layers' coats per face (1-3), 'shapes' mixes every form of 'material' (stairs, ramps, glass panes...)</target>
+        <note>Help text for chat command /painttest</note>
+      </trans-unit>
+      <trans-unit id="paintrandom">
+        <source xml:space="preserve">paintrandom</source>
+        <target xml:space="preserve">paintrandom</target>
+        <note>Chat command</note>
+      </trans-unit>
+      <trans-unit id="Paints every face of the constructed blocks within radius with random colors and patterns, 'layers' coats per face (1-3)">
+        <source xml:space="preserve">Paints every face of the constructed blocks within radius with random colors and patterns, 'layers' coats per face (1-3)</source>
+        <target xml:space="preserve">Paints every face of the constructed blocks within radius with random colors and patterns, 'layers' coats per face (1-3)</target>
+        <note>Help text for chat command /paintrandom</note>
+      </trans-unit>
+      <trans-unit id="Plants and fallen tree debris slow you down half as much.">
+        <source xml:space="preserve">Plants and fallen tree debris slow you down half as much.</source>
+        <target xml:space="preserve">Plants and fallen tree debris slow you down half as much.</target>
+      </trans-unit>
+      <trans-unit id="Roads speed you up on foot: +2.5% on dirt, +5% on stone and +10% on asphalt.">
+        <source xml:space="preserve">Roads speed you up on foot: +2.5% on dirt, +5% on stone and +10% on asphalt.</source>
+        <target xml:space="preserve">Roads speed you up on foot: +2.5% on dirt, +5% on stone and +10% on asphalt.</target>
+      </trans-unit>
+      <trans-unit id="Backend">
+        <source xml:space="preserve">Backend</source>
+        <target xml:space="preserve">Backend</target>
+      </trans-unit>
+      <trans-unit id="Connection String">
+        <source xml:space="preserve">Connection String</source>
+        <target xml:space="preserve">Connection String</target>
+      </trans-unit>
+      <trans-unit id="Outage Budget Seconds">
+        <source xml:space="preserve">Outage Budget Seconds</source>
+        <target xml:space="preserve">Outage Budget Seconds</target>
+      </trans-unit>
+      <trans-unit id="Skip the hourly stats squash while online player count exceeds this, since the churn it causes competes with live gameplay for GC time. Set to 0 to disable.">
+        <source xml:space="preserve">Skip the hourly stats squash while online player count exceeds this, since the churn it causes competes with live gameplay for GC time. Set to 0 to disable.</source>
+        <target xml:space="preserve">Skip the hourly stats squash while online player count exceeds this, since the churn it causes competes with live gameplay for GC time. Set to 0 to disable.</target>
+      </trans-unit>
+      <trans-unit id="Which database engine stats are stored in: Sqlite (default, a file next to the save), PostgreSql or MariaDb (10.11 or later). PostgreSql and MariaDb require ConnectionString to be set and their provider to be built into this server. Both are experimental — they have only been smoke-tested, not run against a production workload.">
+        <source xml:space="preserve">Which database engine stats are stored in: Sqlite (default, a file next to the save), PostgreSql or MariaDb (10.11 or later). PostgreSql and MariaDb require ConnectionString to be set and their provider to be built into this server. Both are experimental — they have only been smoke-tested, not run against a production workload.</source>
+        <target xml:space="preserve">Which database engine stats are stored in: Sqlite (default, a file next to the save), PostgreSql or MariaDb (10.11 or later). PostgreSql and MariaDb require ConnectionString to be set and their provider to be built into this server. Both are experimental — they have only been smoke-tested, not run against a production workload.</target>
+      </trans-unit>
+      <trans-unit id="Connection string for non-SQLite backends. Ignored when Backend is Sqlite. Contains a credential — prefer the ECO_STATS_CONNECTION_STRING environment variable or the -statsConnectionString launch argument over setting it here, since either one overrides this value and avoids putting a secret in a config file that may be shared or version-controlled.">
+        <source xml:space="preserve">Connection string for non-SQLite backends. Ignored when Backend is Sqlite. Contains a credential — prefer the ECO_STATS_CONNECTION_STRING environment variable or the -statsConnectionString launch argument over setting it here, since either one overrides this value and avoids putting a secret in a config file that may be shared or version-controlled.</source>
+        <target xml:space="preserve">Connection string for non-SQLite backends. Ignored when Backend is Sqlite. Contains a credential — prefer the ECO_STATS_CONNECTION_STRING environment variable or the -statsConnectionString launch argument over setting it here, since either one overrides this value and avoids putting a secret in a config file that may be shared or version-controlled.</target>
+      </trans-unit>
+      <trans-unit id="Seconds a non-SQLite backend may stay unreachable before the server stops without saving, so it restarts from its last save. Ignored when Backend is Sqlite.">
+        <source xml:space="preserve">Seconds a non-SQLite backend may stay unreachable before the server stops without saving, so it restarts from its last save. Ignored when Backend is Sqlite.</source>
+        <target xml:space="preserve">Seconds a non-SQLite backend may stay unreachable before the server stops without saving, so it restarts from its last save. Ignored when Backend is Sqlite.</target>
+      </trans-unit>
+      <trans-unit id="Sea Level Rises At Temperature Delta">
+        <source xml:space="preserve">Sea Level Rises At Temperature Delta</source>
+        <target xml:space="preserve">Sea Level Rises At Temperature Delta</target>
+      </trans-unit>
+      <trans-unit id="Degrees Per Sea Level Meter Rise">
+        <source xml:space="preserve">Degrees Per Sea Level Meter Rise</source>
+        <target xml:space="preserve">Degrees Per Sea Level Meter Rise</target>
+      </trans-unit>
+      <trans-unit id="Sea levels start rising once the global temperature has risen more than this many degrees.">
+        <source xml:space="preserve">Sea levels start rising once the global temperature has risen more than this many degrees.</source>
+        <target xml:space="preserve">Sea levels start rising once the global temperature has risen more than this many degrees.</target>
+      </trans-unit>
+      <trans-unit id="For every X degrees of warming over the base 'SeaLevelRisesAtTemperatureDelta' value, the sea level will rise 1 meter.">
+        <source xml:space="preserve">For every X degrees of warming over the base 'SeaLevelRisesAtTemperatureDelta' value, the sea level will rise 1 meter.</source>
+        <target xml:space="preserve">For every X degrees of warming over the base 'SeaLevelRisesAtTemperatureDelta' value, the sea level will rise 1 meter.</target>
+      </trans-unit>
+      <trans-unit id="For every X ppm over the base 'TemperaturesRiseAtCO2ppm' value, the global temperature level will rise 1 degree.">
+        <source xml:space="preserve">For every X ppm over the base 'TemperaturesRiseAtCO2ppm' value, the global temperature level will rise 1 degree.</source>
+        <target xml:space="preserve">For every X ppm over the base 'TemperaturesRiseAtCO2ppm' value, the global temperature level will rise 1 degree.</target>
+      </trans-unit>
+      <trans-unit id="systems">
+        <source xml:space="preserve">systems</source>
+        <target xml:space="preserve">systems</target>
+        <note>Parameter for multiple chat commands</note>
+      </trans-unit>
+      <trans-unit id="chunkRadius">
+        <source xml:space="preserve">chunkRadius</source>
+        <target xml:space="preserve">chunkRadius</target>
+        <note>Parameter for multiple chat commands</note>
+      </trans-unit>
+      <trans-unit id="layers">
+        <source xml:space="preserve">layers</source>
+        <target xml:space="preserve">layers</target>
+        <note>Parameter for multiple chat commands</note>
+      </trans-unit>
+      <trans-unit id="shapes">
+        <source xml:space="preserve">shapes</source>
+        <target xml:space="preserve">shapes</target>
+        <note>Parameter for chat command /painttest</note>
+      </trans-unit>
+      <trans-unit id="Vehicle Straighten">
+        <source xml:space="preserve">Vehicle Straighten</source>
+        <target xml:space="preserve">Vehicle Straighten</target>
+      </trans-unit>
+      <trans-unit id="Structural View Toggle">
+        <source xml:space="preserve">Structural View Toggle</source>
+        <target xml:space="preserve">Structural View Toggle</target>
+      </trans-unit>
+      <trans-unit id="Skid Steer Left Wheels Back/Forward">
+        <source xml:space="preserve">Skid Steer Left Wheels Back/Forward</source>
+        <target xml:space="preserve">Skid Steer Left Wheels Back/Forward</target>
+      </trans-unit>
+      <trans-unit id="Skid Steer Right Wheels Back/Forward">
+        <source xml:space="preserve">Skid Steer Right Wheels Back/Forward</source>
+        <target xml:space="preserve">Skid Steer Right Wheels Back/Forward</target>
+      </trans-unit>
+      <trans-unit id="Excavator Flip Bucket">
+        <source xml:space="preserve">Excavator Flip Bucket</source>
+        <target xml:space="preserve">Excavator Flip Bucket</target>
+      </trans-unit>
+      <trans-unit id="Crane Camera On Target">
+        <source xml:space="preserve">Crane Camera On Target</source>
+        <target xml:space="preserve">Crane Camera On Target</target>
+      </trans-unit>
+      <trans-unit id="Structural View">
+        <source xml:space="preserve">Structural View</source>
+        <target xml:space="preserve">Structural View</target>
+      </trans-unit>
+      <trans-unit id="Skid Steer Left Wheels">
+        <source xml:space="preserve">Skid Steer Left Wheels</source>
+        <target xml:space="preserve">Skid Steer Left Wheels</target>
+      </trans-unit>
+      <trans-unit id="Skid Steer Right Wheels">
+        <source xml:space="preserve">Skid Steer Right Wheels</source>
+        <target xml:space="preserve">Skid Steer Right Wheels</target>
+      </trans-unit>
+      <trans-unit id="Stuffed: {0} calories above capacity, kept until you spend them.">
+        <source xml:space="preserve">Stuffed: <ph id="0">{0}</ph> calories above capacity, kept until you spend them.</source>
+        <target xml:space="preserve">Stuffed: <ph id="0">{0}</ph> calories above capacity, kept until you spend them.</target>
+      </trans-unit>
+      <trans-unit id="{0} blocks out from a column">
+        <source xml:space="preserve"><ph id="0">{0}</ph> blocks out from a column</source>
+        <target xml:space="preserve"><ph id="0">{0}</ph> blocks out from a column</target>
+      </trans-unit>
+      <trans-unit id="{0} of structural weight piled on it">
+        <source xml:space="preserve"><ph id="0">{0}</ph> of structural weight piled on it</source>
+        <target xml:space="preserve"><ph id="0">{0}</ph> of structural weight piled on it</target>
+      </trans-unit>
+      <trans-unit id="Loose: piles up {0} blocks high and slides down anything steeper, unless it rests on a rock or masonry ledge or is wedged between two solids. Gives no grip to what is built against it.">
+        <source xml:space="preserve">Loose: piles up <ph id="0">{0}</ph> blocks high and slides down anything steeper, unless it rests on a rock or masonry ledge or is wedged between two solids. Gives no grip to what is built against it.</source>
+        <target xml:space="preserve">Loose: piles up <ph id="0">{0}</ph> blocks high and slides down anything steeper, unless it rests on a rock or masonry ledge or is wedged between two solids. Gives no grip to what is built against it.</target>
+      </trans-unit>
+      <trans-unit id="Spans {0} blocks over a cave or a tunnel: a mine {1} wide holds without pillars.">
+        <source xml:space="preserve">Spans <ph id="0">{0}</ph> blocks over a cave or a tunnel: a mine <ph id="1">{1}</ph> wide holds without pillars.</source>
+        <target xml:space="preserve">Spans <ph id="0">{0}</ph> blocks over a cave or a tunnel: a mine <ph id="1">{1}</ph> wide holds without pillars.</target>
+      </trans-unit>
+      <trans-unit id="Horizontal support">
+        <source xml:space="preserve">Horizontal support</source>
+        <target xml:space="preserve">Horizontal support</target>
+      </trans-unit>
+      <trans-unit id="Structural Weight">
+        <source xml:space="preserve">Structural Weight</source>
+        <target xml:space="preserve">Structural Weight</target>
+      </trans-unit>
+      <trans-unit id="Supported weight">
+        <source xml:space="preserve">Supported weight</source>
+        <target xml:space="preserve">Supported weight</target>
+      </trans-unit>
+      <trans-unit id="none, it must rest on what holds it">
+        <source xml:space="preserve">none, it must rest on what holds it</source>
+        <target xml:space="preserve">none, it must rest on what holds it</target>
+      </trans-unit>
+      <trans-unit id="Cumulative Bonuses:">
+        <source xml:space="preserve">Cumulative Bonuses:</source>
+        <target xml:space="preserve">Cumulative Bonuses:</target>
+      </trans-unit>
+      <trans-unit id="Craving Bonus: {0}">
+        <source xml:space="preserve">Craving Bonus: <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">Craving Bonus: <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="Final Multiplier:{0}">
+        <source xml:space="preserve">Final Multiplier:<ph id="0">{0}</ph></source>
+        <target xml:space="preserve">Final Multiplier:<ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="CO2 Pollution: {0}x">
+        <source xml:space="preserve">CO2 Pollution: <ph id="0">{0}</ph>x</source>
+        <target xml:space="preserve">CO2 Pollution: <ph id="0">{0}</ph>x</target>
+      </trans-unit>
+      <trans-unit id="(does not apply to crafting labor or passive burn)">
+        <source xml:space="preserve">(does not apply to crafting labor or passive burn)</source>
+        <target xml:space="preserve">(does not apply to crafting labor or passive burn)</target>
+      </trans-unit>
+      <trans-unit id="Jump Height: {0}">
+        <source xml:space="preserve">Jump Height: <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">Jump Height: <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="Produces {0} PPM of air pollution per hour when operating.{1}{2}">
+        <source xml:space="preserve">Produces <ph id="0">{0}</ph> PPM of air pollution per hour when operating.<ph id="1">{1}</ph><ph id="2">{2}</ph></source>
+        <target xml:space="preserve">Produces <ph id="0">{0}</ph> PPM of air pollution per hour when operating.<ph id="1">{1}</ph><ph id="2">{2}</ph></target>
+      </trans-unit>
+      <trans-unit id="Exhaust: raises CO2 but causes no acid rain.">
+        <source xml:space="preserve">Exhaust: raises CO2 but causes no acid rain.</source>
+        <target xml:space="preserve">Exhaust: raises CO2 but causes no acid rain.</target>
+      </trans-unit>
+      <trans-unit id="Smog: raises CO2 and contributes to acid rain.">
+        <source xml:space="preserve">Smog: raises CO2 and contributes to acid rain.</source>
+        <target xml:space="preserve">Smog: raises CO2 and contributes to acid rain.</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] bench {0}">
+        <source xml:space="preserve">[StructuralIntegrity] bench <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] bench <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] test bench failed: {0}">
+        <source xml:space="preserve">[StructuralIntegrity] test bench failed: <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] test bench failed: <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="Plain">
+        <source xml:space="preserve">Plain</source>
+        <target xml:space="preserve">Plain</target>
+      </trans-unit>
+      <trans-unit id="Missing texture">
+        <source xml:space="preserve">Missing texture</source>
+        <target xml:space="preserve">Missing texture</target>
+      </trans-unit>
+      <trans-unit id="{0} ({1} colors)">
+        <source xml:space="preserve"><ph id="0">{0}</ph> (<ph id="1">{1}</ph> colors)</source>
+        <target xml:space="preserve"><ph id="0">{0}</ph> (<ph id="1">{1}</ph> colors)</target>
+      </trans-unit>
+      <trans-unit id="Texture">
+        <source xml:space="preserve">Texture</source>
+        <target xml:space="preserve">Texture</target>
+      </trans-unit>
+      <trans-unit id="Pattern">
+        <source xml:space="preserve">Pattern</source>
+        <target xml:space="preserve">Pattern</target>
+      </trans-unit>
+      <trans-unit id="Fill">
+        <source xml:space="preserve">Fill</source>
+        <target xml:space="preserve">Fill</target>
+      </trans-unit>
+      <trans-unit id="Paints the whole area with one color.">
+        <source xml:space="preserve">Paints the whole area with one color.</source>
+        <target xml:space="preserve">Paints the whole area with one color.</target>
+      </trans-unit>
+      <trans-unit id="Paints the whole face.">
+        <source xml:space="preserve">Paints the whole face.</source>
+        <target xml:space="preserve">Paints the whole face.</target>
+      </trans-unit>
+      <trans-unit id="Square">
+        <source xml:space="preserve">Square</source>
+        <target xml:space="preserve">Square</target>
+      </trans-unit>
+      <trans-unit id="Missing pattern">
+        <source xml:space="preserve">Missing pattern</source>
+        <target xml:space="preserve">Missing pattern</target>
+      </trans-unit>
+      <trans-unit id="Area {0}: {1}">
+        <source xml:space="preserve">Area <ph id="0">{0}</ph>: <ph id="1">{1}</ph></source>
+        <target xml:space="preserve">Area <ph id="0">{0}</ph>: <ph id="1">{1}</ph></target>
+      </trans-unit>
+      <trans-unit id="Area {0}: {1}, {2} of {3} colors: {4}">
+        <source xml:space="preserve">Area <ph id="0">{0}</ph>: <ph id="1">{1}</ph>, <ph id="2">{2}</ph> of <ph id="3">{3}</ph> colors: <ph id="4">{4}</ph></source>
+        <target xml:space="preserve">Area <ph id="0">{0}</ph>: <ph id="1">{1}</ph>, <ph id="2">{2}</ph> of <ph id="3">{3}</ph> colors: <ph id="4">{4}</ph></target>
+      </trans-unit>
+      <trans-unit id="Area {0}: {1}: {2}. Clear it to repaint">
+        <source xml:space="preserve">Area <ph id="0">{0}</ph>: <ph id="1">{1}</ph>: <ph id="2">{2}</ph>. Clear it to repaint</source>
+        <target xml:space="preserve">Area <ph id="0">{0}</ph>: <ph id="1">{1}</ph>: <ph id="2">{2}</ph>. Clear it to repaint</target>
+      </trans-unit>
+      <trans-unit id="{0} layers left">
+        <source xml:space="preserve"><ph id="0">{0}</ph> layers left</source>
+        <target xml:space="preserve"><ph id="0">{0}</ph> layers left</target>
+      </trans-unit>
+      <trans-unit id="{0}. {1} {2}, {3}%">
+        <source xml:space="preserve"><ph id="0">{0}</ph>. <ph id="1">{1}</ph> <ph id="2">{2}</ph>, <ph id="3">{3}</ph>%</source>
+        <target xml:space="preserve"><ph id="0">{0}</ph>. <ph id="1">{1}</ph> <ph id="2">{2}</ph>, <ph id="3">{3}</ph>%</target>
+      </trans-unit>
+      <trans-unit id="Original color">
+        <source xml:space="preserve">Original color</source>
+        <target xml:space="preserve">Original color</target>
+      </trans-unit>
+      <trans-unit id="No layer left, clear the face to repaint it">
+        <source xml:space="preserve">No layer left, clear the face to repaint it</source>
+        <target xml:space="preserve">No layer left, clear the face to repaint it</target>
+      </trans-unit>
+      <trans-unit id="1 layer left">
+        <source xml:space="preserve">1 layer left</source>
+        <target xml:space="preserve">1 layer left</target>
+      </trans-unit>
+      <trans-unit id="Picked layer {0} of {1}">
+        <source xml:space="preserve">Picked layer <ph id="0">{0}</ph> of <ph id="1">{1}</ph></source>
+        <target xml:space="preserve">Picked layer <ph id="0">{0}</ph> of <ph id="1">{1}</ph></target>
+      </trans-unit>
+      <trans-unit id="This face already has {0} layers of paint, clear it first.">
+        <source xml:space="preserve">This face already has <ph id="0">{0}</ph> layers of paint, clear it first.</source>
+        <target xml:space="preserve">This face already has <ph id="0">{0}</ph> layers of paint, clear it first.</target>
+      </trans-unit>
+      <trans-unit id="Rotate pattern">
+        <source xml:space="preserve">Rotate pattern</source>
+        <target xml:space="preserve">Rotate pattern</target>
+      </trans-unit>
+      <trans-unit id="Patterns">
+        <source xml:space="preserve">Patterns</source>
+        <target xml:space="preserve">Patterns</target>
+      </trans-unit>
+      <trans-unit id="Cow">
+        <source xml:space="preserve">Cow</source>
+        <target xml:space="preserve">Cow</target>
+      </trans-unit>
+      <trans-unit id="Large irregular patches over the background, like a dairy cow.">
+        <source xml:space="preserve">Large irregular patches over the background, like a dairy cow.</source>
+        <target xml:space="preserve">Large irregular patches over the background, like a dairy cow.</target>
+      </trans-unit>
+      <trans-unit id="Dalmatian">
+        <source xml:space="preserve">Dalmatian</source>
+        <target xml:space="preserve">Dalmatian</target>
+      </trans-unit>
+      <trans-unit id="Small scattered spots over the background.">
+        <source xml:space="preserve">Small scattered spots over the background.</source>
+        <target xml:space="preserve">Small scattered spots over the background.</target>
+      </trans-unit>
+      <trans-unit id="Zebra">
+        <source xml:space="preserve">Zebra</source>
+        <target xml:space="preserve">Zebra</target>
+      </trans-unit>
+      <trans-unit id="Wavy stripes over the background.">
+        <source xml:space="preserve">Wavy stripes over the background.</source>
+        <target xml:space="preserve">Wavy stripes over the background.</target>
+      </trans-unit>
+      <trans-unit id="Tiger">
+        <source xml:space="preserve">Tiger</source>
+        <target xml:space="preserve">Tiger</target>
+      </trans-unit>
+      <trans-unit id="Thin wavy stripes over the background.">
+        <source xml:space="preserve">Thin wavy stripes over the background.</source>
+        <target xml:space="preserve">Thin wavy stripes over the background.</target>
+      </trans-unit>
+      <trans-unit id="Giraffe">
+        <source xml:space="preserve">Giraffe</source>
+        <target xml:space="preserve">Giraffe</target>
+      </trans-unit>
+      <trans-unit id="Patches separated by thin lines of the background.">
+        <source xml:space="preserve">Patches separated by thin lines of the background.</source>
+        <target xml:space="preserve">Patches separated by thin lines of the background.</target>
+      </trans-unit>
+      <trans-unit id="Rosettes: background, then their rims, then their centers.">
+        <source xml:space="preserve">Rosettes: background, then their rims, then their centers.</source>
+        <target xml:space="preserve">Rosettes: background, then their rims, then their centers.</target>
+      </trans-unit>
+      <trans-unit id="Crocodile">
+        <source xml:space="preserve">Crocodile</source>
+        <target xml:space="preserve">Crocodile</target>
+      </trans-unit>
+      <trans-unit id="Rows of scales: background in the grooves, then the scales, then their raised ridges.">
+        <source xml:space="preserve">Rows of scales: background in the grooves, then the scales, then their raised ridges.</source>
+        <target xml:space="preserve">Rows of scales: background in the grooves, then the scales, then their raised ridges.</target>
+      </trans-unit>
+      <trans-unit id="Camouflage">
+        <source xml:space="preserve">Camouflage</source>
+        <target xml:space="preserve">Camouflage</target>
+      </trans-unit>
+      <trans-unit id="Background, then two layers of blotches.">
+        <source xml:space="preserve">Background, then two layers of blotches.</source>
+        <target xml:space="preserve">Background, then two layers of blotches.</target>
+      </trans-unit>
+      <trans-unit id="Stripes">
+        <source xml:space="preserve">Stripes</source>
+        <target xml:space="preserve">Stripes</target>
+      </trans-unit>
+      <trans-unit id="Straight even stripes over the background.">
+        <source xml:space="preserve">Straight even stripes over the background.</source>
+        <target xml:space="preserve">Straight even stripes over the background.</target>
+      </trans-unit>
+      <trans-unit id="Polka Dots">
+        <source xml:space="preserve">Polka Dots</source>
+        <target xml:space="preserve">Polka Dots</target>
+      </trans-unit>
+      <trans-unit id="Evenly spaced round dots over the background.">
+        <source xml:space="preserve">Evenly spaced round dots over the background.</source>
+        <target xml:space="preserve">Evenly spaced round dots over the background.</target>
+      </trans-unit>
+      <trans-unit id="Checkerboard">
+        <source xml:space="preserve">Checkerboard</source>
+        <target xml:space="preserve">Checkerboard</target>
+      </trans-unit>
+      <trans-unit id="Alternating squares with the background.">
+        <source xml:space="preserve">Alternating squares with the background.</source>
+        <target xml:space="preserve">Alternating squares with the background.</target>
+      </trans-unit>
+      <trans-unit id="Nebula">
+        <source xml:space="preserve">Nebula</source>
+        <target xml:space="preserve">Nebula</target>
+      </trans-unit>
+      <trans-unit id="Deep space: background, then glowing gas clouds, then stars.">
+        <source xml:space="preserve">Deep space: background, then glowing gas clouds, then stars.</source>
+        <target xml:space="preserve">Deep space: background, then glowing gas clouds, then stars.</target>
+      </trans-unit>
+      <trans-unit id="The character {0}, one per block, to spell words on roads and walls.">
+        <source xml:space="preserve">The character <ph id="0">{0}</ph>, one per block, to spell words on roads and walls.</source>
+        <target xml:space="preserve">The character <ph id="0">{0}</ph>, one per block, to spell words on roads and walls.</target>
+      </trans-unit>
+      <trans-unit id="Lines">
+        <source xml:space="preserve">Lines</source>
+        <target xml:space="preserve">Lines</target>
+      </trans-unit>
+      <trans-unit id="Shapes">
+        <source xml:space="preserve">Shapes</source>
+        <target xml:space="preserve">Shapes</target>
+      </trans-unit>
+      <trans-unit id="Letters">
+        <source xml:space="preserve">Letters</source>
+        <target xml:space="preserve">Letters</target>
+      </trans-unit>
+      <trans-unit id="Digits">
+        <source xml:space="preserve">Digits</source>
+        <target xml:space="preserve">Digits</target>
+      </trans-unit>
+      <trans-unit id="Center Line">
+        <source xml:space="preserve">Center Line</source>
+        <target xml:space="preserve">Center Line</target>
+      </trans-unit>
+      <trans-unit id="A thin line through the middle of the face, continuous from one block to the next.">
+        <source xml:space="preserve">A thin line through the middle of the face, continuous from one block to the next.</source>
+        <target xml:space="preserve">A thin line through the middle of the face, continuous from one block to the next.</target>
+      </trans-unit>
+      <trans-unit id="Thick Line">
+        <source xml:space="preserve">Thick Line</source>
+        <target xml:space="preserve">Thick Line</target>
+      </trans-unit>
+      <trans-unit id="A wide band through the middle of the face.">
+        <source xml:space="preserve">A wide band through the middle of the face.</source>
+        <target xml:space="preserve">A wide band through the middle of the face.</target>
+      </trans-unit>
+      <trans-unit id="Double Line">
+        <source xml:space="preserve">Double Line</source>
+        <target xml:space="preserve">Double Line</target>
+      </trans-unit>
+      <trans-unit id="Two thin parallel lines, like a no-overtaking road line.">
+        <source xml:space="preserve">Two thin parallel lines, like a no-overtaking road line.</source>
+        <target xml:space="preserve">Two thin parallel lines, like a no-overtaking road line.</target>
+      </trans-unit>
+      <trans-unit id="Dashed Line">
+        <source xml:space="preserve">Dashed Line</source>
+        <target xml:space="preserve">Dashed Line</target>
+      </trans-unit>
+      <trans-unit id="A short dash in the middle of each block, for broken road lines.">
+        <source xml:space="preserve">A short dash in the middle of each block, for broken road lines.</source>
+        <target xml:space="preserve">A short dash in the middle of each block, for broken road lines.</target>
+      </trans-unit>
+      <trans-unit id="Solid and Dashed Line">
+        <source xml:space="preserve">Solid and Dashed Line</source>
+        <target xml:space="preserve">Solid and Dashed Line</target>
+      </trans-unit>
+      <trans-unit id="A solid line beside a dashed one, overtaking allowed on the dashed side only.">
+        <source xml:space="preserve">A solid line beside a dashed one, overtaking allowed on the dashed side only.</source>
+        <target xml:space="preserve">A solid line beside a dashed one, overtaking allowed on the dashed side only.</target>
+      </trans-unit>
+      <trans-unit id="Edge Line">
+        <source xml:space="preserve">Edge Line</source>
+        <target xml:space="preserve">Edge Line</target>
+      </trans-unit>
+      <trans-unit id="A band along one edge, as wide as the border, to mark the side of a road.">
+        <source xml:space="preserve">A band along one edge, as wide as the border, to mark the side of a road.</source>
+        <target xml:space="preserve">A band along one edge, as wide as the border, to mark the side of a road.</target>
+      </trans-unit>
+      <trans-unit id="Dashed Edge Line">
+        <source xml:space="preserve">Dashed Edge Line</source>
+        <target xml:space="preserve">Dashed Edge Line</target>
+      </trans-unit>
+      <trans-unit id="A dash along one edge of each block, for a broken line on the side of a road.">
+        <source xml:space="preserve">A dash along one edge of each block, for a broken line on the side of a road.</source>
+        <target xml:space="preserve">A dash along one edge of each block, for a broken line on the side of a road.</target>
+      </trans-unit>
+      <trans-unit id="Corner Line">
+        <source xml:space="preserve">Corner Line</source>
+        <target xml:space="preserve">Corner Line</target>
+      </trans-unit>
+      <trans-unit id="A band along two edges, as wide as the border, for corners and parking spots.">
+        <source xml:space="preserve">A band along two edges, as wide as the border, for corners and parking spots.</source>
+        <target xml:space="preserve">A band along two edges, as wide as the border, for corners and parking spots.</target>
+      </trans-unit>
+      <trans-unit id="Border">
+        <source xml:space="preserve">Border</source>
+        <target xml:space="preserve">Border</target>
+      </trans-unit>
+      <trans-unit id="A thin frame around the whole face.">
+        <source xml:space="preserve">A thin frame around the whole face.</source>
+        <target xml:space="preserve">A thin frame around the whole face.</target>
+      </trans-unit>
+      <trans-unit id="Crosswalk">
+        <source xml:space="preserve">Crosswalk</source>
+        <target xml:space="preserve">Crosswalk</target>
+      </trans-unit>
+      <trans-unit id="Two wide stripes, a pedestrian crossing when repeated.">
+        <source xml:space="preserve">Two wide stripes, a pedestrian crossing when repeated.</source>
+        <target xml:space="preserve">Two wide stripes, a pedestrian crossing when repeated.</target>
+      </trans-unit>
+      <trans-unit id="Diagonal Line">
+        <source xml:space="preserve">Diagonal Line</source>
+        <target xml:space="preserve">Diagonal Line</target>
+      </trans-unit>
+      <trans-unit id="A thin line from one corner to the opposite one.">
+        <source xml:space="preserve">A thin line from one corner to the opposite one.</source>
+        <target xml:space="preserve">A thin line from one corner to the opposite one.</target>
+      </trans-unit>
+      <trans-unit id="Diagonal Corner">
+        <source xml:space="preserve">Diagonal Corner</source>
+        <target xml:space="preserve">Diagonal Corner</target>
+      </trans-unit>
+      <trans-unit id="A small corner, where a diagonal line or a full cross passes by the next block.">
+        <source xml:space="preserve">A small corner, where a diagonal line or a full cross passes by the next block.</source>
+        <target xml:space="preserve">A small corner, where a diagonal line or a full cross passes by the next block.</target>
+      </trans-unit>
+      <trans-unit id="Hatching">
+        <source xml:space="preserve">Hatching</source>
+        <target xml:space="preserve">Hatching</target>
+      </trans-unit>
+      <trans-unit id="Diagonal stripes, to mark no-go areas.">
+        <source xml:space="preserve">Diagonal stripes, to mark no-go areas.</source>
+        <target xml:space="preserve">Diagonal stripes, to mark no-go areas.</target>
+      </trans-unit>
+      <trans-unit id="Half Fill">
+        <source xml:space="preserve">Half Fill</source>
+        <target xml:space="preserve">Half Fill</target>
+      </trans-unit>
+      <trans-unit id="Paints one half of the face.">
+        <source xml:space="preserve">Paints one half of the face.</source>
+        <target xml:space="preserve">Paints one half of the face.</target>
+      </trans-unit>
+      <trans-unit id="Quarter Fill">
+        <source xml:space="preserve">Quarter Fill</source>
+        <target xml:space="preserve">Quarter Fill</target>
+      </trans-unit>
+      <trans-unit id="Paints one quarter of the face.">
+        <source xml:space="preserve">Paints one quarter of the face.</source>
+        <target xml:space="preserve">Paints one quarter of the face.</target>
+      </trans-unit>
+      <trans-unit id="Diagonal Half">
+        <source xml:space="preserve">Diagonal Half</source>
+        <target xml:space="preserve">Diagonal Half</target>
+      </trans-unit>
+      <trans-unit id="Paints one half of the face, cut along the diagonal.">
+        <source xml:space="preserve">Paints one half of the face, cut along the diagonal.</source>
+        <target xml:space="preserve">Paints one half of the face, cut along the diagonal.</target>
+      </trans-unit>
+      <trans-unit id="Diagonal Quarter">
+        <source xml:space="preserve">Diagonal Quarter</source>
+        <target xml:space="preserve">Diagonal Quarter</target>
+      </trans-unit>
+      <trans-unit id="Paints one quarter of the face, cut along both diagonals.">
+        <source xml:space="preserve">Paints one quarter of the face, cut along both diagonals.</source>
+        <target xml:space="preserve">Paints one quarter of the face, cut along both diagonals.</target>
+      </trans-unit>
+      <trans-unit id="Checker">
+        <source xml:space="preserve">Checker</source>
+        <target xml:space="preserve">Checker</target>
+      </trans-unit>
+      <trans-unit id="Two opposite quarters, a checkerboard when repeated.">
+        <source xml:space="preserve">Two opposite quarters, a checkerboard when repeated.</source>
+        <target xml:space="preserve">Two opposite quarters, a checkerboard when repeated.</target>
+      </trans-unit>
+      <trans-unit id="Dot">
+        <source xml:space="preserve">Dot</source>
+        <target xml:space="preserve">Dot</target>
+      </trans-unit>
+      <trans-unit id="A filled circle in the middle of the face.">
+        <source xml:space="preserve">A filled circle in the middle of the face.</source>
+        <target xml:space="preserve">A filled circle in the middle of the face.</target>
+      </trans-unit>
+      <trans-unit id="Small Square">
+        <source xml:space="preserve">Small Square</source>
+        <target xml:space="preserve">Small Square</target>
+      </trans-unit>
+      <trans-unit id="A filled square in the middle of the face, a bit larger than the dot.">
+        <source xml:space="preserve">A filled square in the middle of the face, a bit larger than the dot.</source>
+        <target xml:space="preserve">A filled square in the middle of the face, a bit larger than the dot.</target>
+      </trans-unit>
+      <trans-unit id="Ring">
+        <source xml:space="preserve">Ring</source>
+        <target xml:space="preserve">Ring</target>
+      </trans-unit>
+      <trans-unit id="A circle outline in the middle of the face.">
+        <source xml:space="preserve">A circle outline in the middle of the face.</source>
+        <target xml:space="preserve">A circle outline in the middle of the face.</target>
+      </trans-unit>
+      <trans-unit id="Diamond">
+        <source xml:space="preserve">Diamond</source>
+        <target xml:space="preserve">Diamond</target>
+      </trans-unit>
+      <trans-unit id="A diamond touching the middle of each edge.">
+        <source xml:space="preserve">A diamond touching the middle of each edge.</source>
+        <target xml:space="preserve">A diamond touching the middle of each edge.</target>
+      </trans-unit>
+      <trans-unit id="Cross">
+        <source xml:space="preserve">Cross</source>
+        <target xml:space="preserve">Cross</target>
+      </trans-unit>
+      <trans-unit id="An X from corner to corner.">
+        <source xml:space="preserve">An X from corner to corner.</source>
+        <target xml:space="preserve">An X from corner to corner.</target>
+      </trans-unit>
+      <trans-unit id="Full Cross">
+        <source xml:space="preserve">Full Cross</source>
+        <target xml:space="preserve">Full Cross</target>
+      </trans-unit>
+      <trans-unit id="An X reaching the corners, continuous from one block to the next.">
+        <source xml:space="preserve">An X reaching the corners, continuous from one block to the next.</source>
+        <target xml:space="preserve">An X reaching the corners, continuous from one block to the next.</target>
+      </trans-unit>
+      <trans-unit id="Plus">
+        <source xml:space="preserve">Plus</source>
+        <target xml:space="preserve">Plus</target>
+      </trans-unit>
+      <trans-unit id="A plus sign in the middle of the face.">
+        <source xml:space="preserve">A plus sign in the middle of the face.</source>
+        <target xml:space="preserve">A plus sign in the middle of the face.</target>
+      </trans-unit>
+      <trans-unit id="Full Plus">
+        <source xml:space="preserve">Full Plus</source>
+        <target xml:space="preserve">Full Plus</target>
+      </trans-unit>
+      <trans-unit id="A plus sign reaching the edges, a grid when repeated.">
+        <source xml:space="preserve">A plus sign reaching the edges, a grid when repeated.</source>
+        <target xml:space="preserve">A plus sign reaching the edges, a grid when repeated.</target>
+      </trans-unit>
+      <trans-unit id="Triangle">
+        <source xml:space="preserve">Triangle</source>
+        <target xml:space="preserve">Triangle</target>
+      </trans-unit>
+      <trans-unit id="A triangle pointing up.">
+        <source xml:space="preserve">A triangle pointing up.</source>
+        <target xml:space="preserve">A triangle pointing up.</target>
+      </trans-unit>
+      <trans-unit id="A five pointed star.">
+        <source xml:space="preserve">A five pointed star.</source>
+        <target xml:space="preserve">A five pointed star.</target>
+      </trans-unit>
+      <trans-unit id="An arrow pointing straight ahead.">
+        <source xml:space="preserve">An arrow pointing straight ahead.</source>
+        <target xml:space="preserve">An arrow pointing straight ahead.</target>
+      </trans-unit>
+      <trans-unit id="Left Turn Arrow">
+        <source xml:space="preserve">Left Turn Arrow</source>
+        <target xml:space="preserve">Left Turn Arrow</target>
+      </trans-unit>
+      <trans-unit id="An arrow turning left.">
+        <source xml:space="preserve">An arrow turning left.</source>
+        <target xml:space="preserve">An arrow turning left.</target>
+      </trans-unit>
+      <trans-unit id="Right Turn Arrow">
+        <source xml:space="preserve">Right Turn Arrow</source>
+        <target xml:space="preserve">Right Turn Arrow</target>
+      </trans-unit>
+      <trans-unit id="An arrow turning right.">
+        <source xml:space="preserve">An arrow turning right.</source>
+        <target xml:space="preserve">An arrow turning right.</target>
+      </trans-unit>
+      <trans-unit id="Straight or Left Arrow">
+        <source xml:space="preserve">Straight or Left Arrow</source>
+        <target xml:space="preserve">Straight or Left Arrow</target>
+      </trans-unit>
+      <trans-unit id="An arrow going straight with a branch to the left.">
+        <source xml:space="preserve">An arrow going straight with a branch to the left.</source>
+        <target xml:space="preserve">An arrow going straight with a branch to the left.</target>
+      </trans-unit>
+      <trans-unit id="Straight or Right Arrow">
+        <source xml:space="preserve">Straight or Right Arrow</source>
+        <target xml:space="preserve">Straight or Right Arrow</target>
+      </trans-unit>
+      <trans-unit id="An arrow going straight with a branch to the right.">
+        <source xml:space="preserve">An arrow going straight with a branch to the right.</source>
+        <target xml:space="preserve">An arrow going straight with a branch to the right.</target>
+      </trans-unit>
+      <trans-unit id="U-Turn Arrow">
+        <source xml:space="preserve">U-Turn Arrow</source>
+        <target xml:space="preserve">U-Turn Arrow</target>
+      </trans-unit>
+      <trans-unit id="An arrow making a U-turn.">
+        <source xml:space="preserve">An arrow making a U-turn.</source>
+        <target xml:space="preserve">An arrow making a U-turn.</target>
+      </trans-unit>
+      <trans-unit id="Chevron">
+        <source xml:space="preserve">Chevron</source>
+        <target xml:space="preserve">Chevron</target>
+      </trans-unit>
+      <trans-unit id="A chevron pointing ahead, for direction signs.">
+        <source xml:space="preserve">A chevron pointing ahead, for direction signs.</source>
+        <target xml:space="preserve">A chevron pointing ahead, for direction signs.</target>
+      </trans-unit>
+      <trans-unit id="Three-Way Arrow">
+        <source xml:space="preserve">Three-Way Arrow</source>
+        <target xml:space="preserve">Three-Way Arrow</target>
+      </trans-unit>
+      <trans-unit id="An arrow going straight with branches to the left and right.">
+        <source xml:space="preserve">An arrow going straight with branches to the left and right.</source>
+        <target xml:space="preserve">An arrow going straight with branches to the left and right.</target>
+      </trans-unit>
+      <trans-unit id="Straight Arrow Tail">
+        <source xml:space="preserve">Straight Arrow Tail</source>
+        <target xml:space="preserve">Straight Arrow Tail</target>
+      </trans-unit>
+      <trans-unit id="The stem of the straight, three-way and straight-or-turn arrows, to lengthen them on the block behind.">
+        <source xml:space="preserve">The stem of the straight, three-way and straight-or-turn arrows, to lengthen them on the block behind.</source>
+        <target xml:space="preserve">The stem of the straight, three-way and straight-or-turn arrows, to lengthen them on the block behind.</target>
+      </trans-unit>
+      <trans-unit id="Turn Arrow Tail">
+        <source xml:space="preserve">Turn Arrow Tail</source>
+        <target xml:space="preserve">Turn Arrow Tail</target>
+      </trans-unit>
+      <trans-unit id="The stem of the turn arrows, to lengthen them on the block behind.">
+        <source xml:space="preserve">The stem of the turn arrows, to lengthen them on the block behind.</source>
+        <target xml:space="preserve">The stem of the turn arrows, to lengthen them on the block behind.</target>
+      </trans-unit>
+      <trans-unit id="No paintable block starts with '{0}'.">
+        <source xml:space="preserve">No paintable block starts with '<ph id="0">{0}</ph>'.</source>
+        <target xml:space="preserve">No paintable block starts with '<ph id="0">{0}</ph>'.</target>
+      </trans-unit>
+      <trans-unit id="Painted {0} blocks ({1} shapes of {2}, {3} layers on each face).">
+        <source xml:space="preserve">Painted <ph id="0">{0}</ph> blocks (<ph id="1">{1}</ph> shapes of <ph id="2">{2}</ph>, <ph id="3">{3}</ph> layers on each face).</source>
+        <target xml:space="preserve">Painted <ph id="0">{0}</ph> blocks (<ph id="1">{1}</ph> shapes of <ph id="2">{2}</ph>, <ph id="3">{3}</ph> layers on each face).</target>
+      </trans-unit>
+      <trans-unit id="Painted {0} constructed blocks within radius {1}, {2} layers on each face.">
+        <source xml:space="preserve">Painted <ph id="0">{0}</ph> constructed blocks within radius <ph id="1">{1}</ph>, <ph id="2">{2}</ph> layers on each face.</source>
+        <target xml:space="preserve">Painted <ph id="0">{0}</ph> constructed blocks within radius <ph id="1">{1}</ph>, <ph id="2">{2}</ph> layers on each face.</target>
+      </trans-unit>
+      <trans-unit id="Spawns walls of painted blocks for performance tests: random colors and patterns on every face, ">
+        <source xml:space="preserve">Spawns walls of painted blocks for performance tests: random colors and patterns on every face, </source>
+        <target xml:space="preserve">Spawns walls of painted blocks for performance tests: random colors and patterns on every face, </target>
+      </trans-unit>
+      <trans-unit id="Image map: the biome image contains colors that match no biome: {0}. Accepted colors (opaque): {1}.">
+        <source xml:space="preserve">Image map: the biome image contains colors that match no biome: <ph id="0">{0}</ph>. Accepted colors (opaque): <ph id="1">{1}</ph>.</source>
+        <target xml:space="preserve">Image map: the biome image contains colors that match no biome: <ph id="0">{0}</ph>. Accepted colors (opaque): <ph id="1">{1}</ph>.</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] {0} at {1} {2} → drops into a garbage bag">
+        <source xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> at <ph id="1">{1}</ph> <ph id="2">{2}</ph> → drops into a garbage bag</source>
+        <target xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> at <ph id="1">{1}</ph> <ph id="2">{2}</ph> → drops into a garbage bag</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] {0} at {1} {2} → moves to {3}">
+        <source xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> at <ph id="1">{1}</ph> <ph id="2">{2}</ph> → moves to <ph id="3">{3}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> at <ph id="1">{1}</ph> <ph id="2">{2}</ph> → moves to <ph id="3">{3}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] world-object support check failed: {0}">
+        <source xml:space="preserve">[StructuralIntegrity] world-object support check failed: <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] world-object support check failed: <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] no room for a garbage bag around {0} — {1}x {2} and what follows lost.">
+        <source xml:space="preserve">[StructuralIntegrity] no room for a garbage bag around <ph id="0">{0}</ph> — <ph id="1">{1}</ph>x <ph id="2">{2}</ph> and what follows lost.</source>
+        <target xml:space="preserve">[StructuralIntegrity] no room for a garbage bag around <ph id="0">{0}</ph> — <ph id="1">{1}</ph>x <ph id="2">{2}</ph> and what follows lost.</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] {0}x {1} doesn't fit an empty garbage bag — lost.">
+        <source xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph>x <ph id="1">{1}</ph> doesn't fit an empty garbage bag — lost.</source>
+        <target xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph>x <ph id="1">{1}</ph> doesn't fit an empty garbage bag — lost.</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] bake {0}: {1} constructed">
+        <source xml:space="preserve">[StructuralIntegrity] bake <ph id="0">{0}</ph>: <ph id="1">{1}</ph> constructed</source>
+        <target xml:space="preserve">[StructuralIntegrity] bake <ph id="0">{0}</ph>: <ph id="1">{1}</ph> constructed</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] bake {0} failed: {1}">
+        <source xml:space="preserve">[StructuralIntegrity] bake <ph id="0">{0}</ph> failed: <ph id="1">{1}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] bake <ph id="0">{0}</ph> failed: <ph id="1">{1}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] {0} cells read short waiting — dropped, their readings stand">
+        <source xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> cells read short waiting — dropped, their readings stand</source>
+        <target xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> cells read short waiting — dropped, their readings stand</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] reach ball cap reached at {0} — remainder re-tests as the collapse cascades">
+        <source xml:space="preserve">[StructuralIntegrity] reach ball cap reached at <ph id="0">{0}</ph> — remainder re-tests as the collapse cascades</source>
+        <target xml:space="preserve">[StructuralIntegrity] reach ball cap reached at <ph id="0">{0}</ph> — remainder re-tests as the collapse cascades</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] region cap reached around {0} — leaving structure in place">
+        <source xml:space="preserve">[StructuralIntegrity] region cap reached around <ph id="0">{0}</ph> — leaving structure in place</source>
+        <target xml:space="preserve">[StructuralIntegrity] region cap reached around <ph id="0">{0}</ph> — leaving structure in place</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] activity {0}">
+        <source xml:space="preserve">[StructuralIntegrity] activity <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] activity <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] enqueue {0} {1} {2}→{3} (pending={4})">
+        <source xml:space="preserve">[StructuralIntegrity] enqueue <ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph>→<ph id="3">{3}</ph> (pending=<ph id="4">{4}</ph>)</source>
+        <target xml:space="preserve">[StructuralIntegrity] enqueue <ph id="0">{0}</ph> <ph id="1">{1}</ph> <ph id="2">{2}</ph>→<ph id="3">{3}</ph> (pending=<ph id="4">{4}</ph>)</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] flood cap reached from {0} ({1} cells) — leaving structure in place">
+        <source xml:space="preserve">[StructuralIntegrity] flood cap reached from <ph id="0">{0}</ph> (<ph id="1">{1}</ph> cells) — leaving structure in place</source>
+        <target xml:space="preserve">[StructuralIntegrity] flood cap reached from <ph id="0">{0}</ph> (<ph id="1">{1}</ph> cells) — leaving structure in place</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] tick work failed: {0}">
+        <source xml:space="preserve">[StructuralIntegrity] tick work failed: <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] tick work failed: <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] {0} failed: {1}">
+        <source xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> failed: <ph id="1">{1}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> failed: <ph id="1">{1}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] process {0} failed: {1}">
+        <source xml:space="preserve">[StructuralIntegrity] process <ph id="0">{0}</ph> failed: <ph id="1">{1}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] process <ph id="0">{0}</ph> failed: <ph id="1">{1}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] judging {0} changed cell(s) failed: {1}">
+        <source xml:space="preserve">[StructuralIntegrity] judging <ph id="0">{0}</ph> changed cell(s) failed: <ph id="1">{1}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] judging <ph id="0">{0}</ph> changed cell(s) failed: <ph id="1">{1}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] judging woken cells failed: {0}">
+        <source xml:space="preserve">[StructuralIntegrity] judging woken cells failed: <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] judging woken cells failed: <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] collapse: {0} condemned → {1} falling">
+        <source xml:space="preserve">[StructuralIntegrity] collapse: <ph id="0">{0}</ph> condemned → <ph id="1">{1}</ph> falling</source>
+        <target xml:space="preserve">[StructuralIntegrity] collapse: <ph id="0">{0}</ph> condemned → <ph id="1">{1}</ph> falling</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] {0} block(s) cracking, ~{1}s">
+        <source xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> block(s) cracking, ~<ph id="1">{1}</ph>s</source>
+        <target xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> block(s) cracking, ~<ph id="1">{1}</ph>s</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] {0} block(s) saved — cracks cleared">
+        <source xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> block(s) saved — cracks cleared</source>
+        <target xml:space="preserve">[StructuralIntegrity] <ph id="0">{0}</ph> block(s) saved — cracks cleared</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] pouring a collapse's rubble failed: {0}">
+        <source xml:space="preserve">[StructuralIntegrity] pouring a collapse's rubble failed: <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] pouring a collapse's rubble failed: <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] DROP {0}/{1} block(s) moved">
+        <source xml:space="preserve">[StructuralIntegrity] DROP <ph id="0">{0}</ph>/<ph id="1">{1}</ph> block(s) moved</source>
+        <target xml:space="preserve">[StructuralIntegrity] DROP <ph id="0">{0}</ph>/<ph id="1">{1}</ph> block(s) moved</target>
+      </trans-unit>
+      <trans-unit id="You ate {0} for {1} calories.">
+        <source xml:space="preserve">You ate <ph id="0">{0}</ph> for <ph id="1">{1}</ph> calories.</source>
+        <target xml:space="preserve">You ate <ph id="0">{0}</ph> for <ph id="1">{1}</ph> calories.</target>
+      </trans-unit>
+      <trans-unit id="You feel stuffed: the calories above your stomach capacity stay until you spend them.">
+        <source xml:space="preserve">You feel stuffed: the calories above your stomach capacity stay until you spend them.</source>
+        <target xml:space="preserve">You feel stuffed: the calories above your stomach capacity stay until you spend them.</target>
+      </trans-unit>
+      <trans-unit id="Structural view">
+        <source xml:space="preserve">Structural view</source>
+        <target xml:space="preserve">Structural view</target>
+      </trans-unit>
+      <trans-unit id="Top speed">
+        <source xml:space="preserve">Top speed</source>
+        <target xml:space="preserve">Top speed</target>
+      </trans-unit>
+      <trans-unit id="Broken parts">
+        <source xml:space="preserve">Broken parts</source>
+        <target xml:space="preserve">Broken parts</target>
+      </trans-unit>
+      <trans-unit id="Driver out of calories">
+        <source xml:space="preserve">Driver out of calories</source>
+        <target xml:space="preserve">Driver out of calories</target>
+      </trans-unit>
+      <trans-unit id="Not drivable">
+        <source xml:space="preserve">Not drivable</source>
+        <target xml:space="preserve">Not drivable</target>
+      </trans-unit>
+      <trans-unit id="Tool action">
+        <source xml:space="preserve">Tool action</source>
+        <target xml:space="preserve">Tool action</target>
+      </trans-unit>
+      <trans-unit id="Speed: {0}">
+        <source xml:space="preserve">Speed: <ph id="0">{0}</ph></source>
+        <target xml:space="preserve">Speed: <ph id="0">{0}</ph></target>
+      </trans-unit>
+      <trans-unit id="Base walk">
+        <source xml:space="preserve">Base walk</source>
+        <target xml:space="preserve">Base walk</target>
+      </trans-unit>
+      <trans-unit id="Fast swim">
+        <source xml:space="preserve">Fast swim</source>
+        <target xml:space="preserve">Fast swim</target>
+      </trans-unit>
+      <trans-unit id="Other bonuses">
+        <source xml:space="preserve">Other bonuses</source>
+        <target xml:space="preserve">Other bonuses</target>
+      </trans-unit>
+      <trans-unit id="Crouching">
+        <source xml:space="preserve">Crouching</source>
+        <target xml:space="preserve">Crouching</target>
+      </trans-unit>
+      <trans-unit id="Update the preview before exporting it as an image map.">
+        <source xml:space="preserve">Update the preview before exporting it as an image map.</source>
+        <target xml:space="preserve">Update the preview before exporting it as an image map.</target>
+      </trans-unit>
+      <trans-unit id="Export Image Map">
+        <source xml:space="preserve">Export Image Map</source>
+        <target xml:space="preserve">Export Image Map</target>
+      </trans-unit>
+      <trans-unit id="Generating world from image map '{0}' ({1})">
+        <source xml:space="preserve">Generating world from image map '<ph id="0">{0}</ph>' (<ph id="1">{1}</ph>)</source>
+        <target xml:space="preserve">Generating world from image map '<ph id="0">{0}</ph>' (<ph id="1">{1}</ph>)</target>
+      </trans-unit>
+      <trans-unit id="Image map '{0}': world of {1}x{2} chunks, sea level {3}, max generation height {4}{5}, seed {6}.">
+        <source xml:space="preserve">Image map '<ph id="0">{0}</ph>': world of <ph id="1">{1}</ph>x<ph id="2">{2}</ph> chunks, sea level <ph id="3">{3}</ph>, max generation height <ph id="4">{4}</ph><ph id="5">{5}</ph>, seed <ph id="6">{6}</ph>.</source>
+        <target xml:space="preserve">Image map '<ph id="0">{0}</ph>': world of <ph id="1">{1}</ph>x<ph id="2">{2}</ph> chunks, sea level <ph id="3">{3}</ph>, max generation height <ph id="4">{4}</ph><ph id="5">{5}</ph>, seed <ph id="6">{6}</ph>.</target>
+      </trans-unit>
+      <trans-unit id="Image map '{0}': no height image, deriving the height from the biomes.">
+        <source xml:space="preserve">Image map '<ph id="0">{0}</ph>': no height image, deriving the height from the biomes.</source>
+        <target xml:space="preserve">Image map '<ph id="0">{0}</ph>': no height image, deriving the height from the biomes.</target>
+      </trans-unit>
+      <trans-unit id="Image map: '{0}' is {1}x{2} but the world is {3}x{4} blocks. All the images of a map must have the same size.">
+        <source xml:space="preserve">Image map: '<ph id="0">{0}</ph>' is <ph id="1">{1}</ph>x<ph id="2">{2}</ph> but the world is <ph id="3">{3}</ph>x<ph id="4">{4}</ph> blocks. All the images of a map must have the same size.</source>
+        <target xml:space="preserve">Image map: '<ph id="0">{0}</ph>' is <ph id="1">{1}</ph>x<ph id="2">{2}</ph> but the world is <ph id="3">{3}</ph>x<ph id="4">{4}</ph> blocks. All the images of a map must have the same size.</target>
+      </trans-unit>
+      <trans-unit id="World exported as image map '{0}' in {1}. Share it with Configs/WorldGenerator.eco, which holds its sea level, generation height and seed.">
+        <source xml:space="preserve">World exported as image map '<ph id="0">{0}</ph>' in <ph id="1">{1}</ph>. Share it with Configs/WorldGenerator.eco, which holds its sea level, generation height and seed.</source>
+        <target xml:space="preserve">World exported as image map '<ph id="0">{0}</ph>' in <ph id="1">{1}</ph>. Share it with Configs/WorldGenerator.eco, which holds its sea level, generation height and seed.</target>
+      </trans-unit>
+      <trans-unit id="Image map '{0}' already exists in {1}, pick another name.">
+        <source xml:space="preserve">Image map '<ph id="0">{0}</ph>' already exists in <ph id="1">{1}</ph>, pick another name.</source>
+        <target xml:space="preserve">Image map '<ph id="0">{0}</ph>' already exists in <ph id="1">{1}</ph>, pick another name.</target>
+      </trans-unit>
+      <trans-unit id="Image map: MapSource is Image but ImageMap is empty. Set it to the name of a folder of {0}.">
+        <source xml:space="preserve">Image map: MapSource is Image but ImageMap is empty. Set it to the name of a folder of <ph id="0">{0}</ph>.</source>
+        <target xml:space="preserve">Image map: MapSource is Image but ImageMap is empty. Set it to the name of a folder of <ph id="0">{0}</ph>.</target>
+      </trans-unit>
+      <trans-unit id="Image map: '{0}' not found. An image map is a folder of {1} holding at least {2}.">
+        <source xml:space="preserve">Image map: '<ph id="0">{0}</ph>' not found. An image map is a folder of <ph id="1">{1}</ph> holding at least <ph id="2">{2}</ph>.</source>
+        <target xml:space="preserve">Image map: '<ph id="0">{0}</ph>' not found. An image map is a folder of <ph id="1">{1}</ph> holding at least <ph id="2">{2}</ph>.</target>
+      </trans-unit>
+      <trans-unit id="Image map: '{0}' is {1}x{2}, worlds are square.">
+        <source xml:space="preserve">Image map: '<ph id="0">{0}</ph>' is <ph id="1">{1}</ph>x<ph id="2">{2}</ph>, worlds are square.</source>
+        <target xml:space="preserve">Image map: '<ph id="0">{0}</ph>' is <ph id="1">{1}</ph>x<ph id="2">{2}</ph>, worlds are square.</target>
+      </trans-unit>
+      <trans-unit id="Image map '{0}': images are {1} px wide, which must be a multiple of {2} ({3} blocks per chunk, world width in chunks divisible by {4}).">
+        <source xml:space="preserve">Image map '<ph id="0">{0}</ph>': images are <ph id="1">{1}</ph> px wide, which must be a multiple of <ph id="2">{2}</ph> (<ph id="3">{3}</ph> blocks per chunk, world width in chunks divisible by <ph id="4">{4}</ph>).</source>
+        <target xml:space="preserve">Image map '<ph id="0">{0}</ph>': images are <ph id="1">{1}</ph> px wide, which must be a multiple of <ph id="2">{2}</ph> (<ph id="3">{3}</ph> blocks per chunk, world width in chunks divisible by <ph id="4">{4}</ph>).</target>
+      </trans-unit>
+      <trans-unit id="Image map '{0}': {1} px is outside the supported world sizes.">
+        <source xml:space="preserve">Image map '<ph id="0">{0}</ph>': <ph id="1">{1}</ph> px is outside the supported world sizes.</source>
+        <target xml:space="preserve">Image map '<ph id="0">{0}</ph>': <ph id="1">{1}</ph> px is outside the supported world sizes.</target>
+      </trans-unit>
+      <trans-unit id="Every color of this area's texture is painted, clear the area first to repaint it.">
+        <source xml:space="preserve">Every color of this area's texture is painted, clear the area first to repaint it.</source>
+        <target xml:space="preserve">Every color of this area's texture is painted, clear the area first to repaint it.</target>
+      </trans-unit>
+      <trans-unit id="This area is painted with a texture, clear it first to paint it again.">
+        <source xml:space="preserve">This area is painted with a texture, clear it first to paint it again.</source>
+        <target xml:space="preserve">This area is painted with a texture, clear it first to paint it again.</target>
+      </trans-unit>
+      <trans-unit id="World exported as an image map to {0}.">
+        <source xml:space="preserve">World exported as an image map to <ph id="0">{0}</ph>.</source>
+        <target xml:space="preserve">World exported as an image map to <ph id="0">{0}</ph>.</target>
+      </trans-unit>
+      <trans-unit id="Exporting the world generator layers... After a restart they are regenerated from the config first, which can take a while on big worlds.">
+        <source xml:space="preserve">Exporting the world generator layers... After a restart they are regenerated from the config first, which can take a while on big worlds.</source>
+        <target xml:space="preserve">Exporting the world generator layers... After a restart they are regenerated from the config first, which can take a while on big worlds.</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] active ({0}{1}, crack seconds: disconnected {2}, unsupported {3}, too heavy {4}, natural {5}; SecondsBetweenCollapseLayers={6}, MaxBlocksPerCheck={7}, TickMs={8}).">
+        <source xml:space="preserve">[StructuralIntegrity] active (<ph id="0">{0}</ph><ph id="1">{1}</ph>, crack seconds: disconnected <ph id="2">{2}</ph>, unsupported <ph id="3">{3}</ph>, too heavy <ph id="4">{4}</ph>, natural <ph id="5">{5}</ph>; SecondsBetweenCollapseLayers=<ph id="6">{6}</ph>, MaxBlocksPerCheck=<ph id="7">{7}</ph>, TickMs=<ph id="8">{8}</ph>).</source>
+        <target xml:space="preserve">[StructuralIntegrity] active (<ph id="0">{0}</ph><ph id="1">{1}</ph>, crack seconds: disconnected <ph id="2">{2}</ph>, unsupported <ph id="3">{3}</ph>, too heavy <ph id="4">{4}</ph>, natural <ph id="5">{5}</ph>; SecondsBetweenCollapseLayers=<ph id="6">{6}</ph>, MaxBlocksPerCheck=<ph id="7">{7}</ph>, TickMs=<ph id="8">{8}</ph>).</target>
+      </trans-unit>
+      <trans-unit id="[StructuralIntegrity] explaining {0} failed: {1}">
+        <source xml:space="preserve">[StructuralIntegrity] explaining <ph id="0">{0}</ph> failed: <ph id="1">{1}</ph></source>
+        <target xml:space="preserve">[StructuralIntegrity] explaining <ph id="0">{0}</ph> failed: <ph id="1">{1}</ph></target>
+      </trans-unit>
+      <trans-unit id="On: {0}. Exemptions: {1} (see /structural exemptions).">
+        <source xml:space="preserve">On: <ph id="0">{0}</ph>. Exemptions: <ph id="1">{1}</ph> (see /structural exemptions).</source>
+        <target xml:space="preserve">On: <ph id="0">{0}</ph>. Exemptions: <ph id="1">{1}</ph> (see /structural exemptions).</target>
+      </trans-unit>
+      <trans-unit id="No exempt claims or districts.">
+        <source xml:space="preserve">No exempt claims or districts.</source>
+        <target xml:space="preserve">No exempt claims or districts.</target>
+      </trans-unit>
+      <trans-unit id="Queued re-evaluation within {0} blocks.">
+        <source xml:space="preserve">Queued re-evaluation within <ph id="0">{0}</ph> blocks.</source>
+        <target xml:space="preserve">Queued re-evaluation within <ph id="0">{0}</ph> blocks.</target>
+      </trans-unit>
+      <trans-unit id="Cracking blocks will come down on the next tick.">
+        <source xml:space="preserve">Cracking blocks will come down on the next tick.</source>
+        <target xml:space="preserve">Cracking blocks will come down on the next tick.</target>
+      </trans-unit>
+      <trans-unit id="Queued {0} chunk(s) for measuring.">
+        <source xml:space="preserve">Queued <ph id="0">{0}</ph> chunk(s) for measuring.</source>
+        <target xml:space="preserve">Queued <ph id="0">{0}</ph> chunk(s) for measuring.</target>
+      </trans-unit>
+      <trans-unit id="The tier is 1 to 5.">
+        <source xml:space="preserve">The tier is 1 to 5.</source>
+        <target xml:space="preserve">The tier is 1 to 5.</target>
+      </trans-unit>
+      <trans-unit id="Building the reference buildings at tier {0}, this takes a little while...">
+        <source xml:space="preserve">Building the reference buildings at tier <ph id="0">{0}</ph>, this takes a little while...</source>
+        <target xml:space="preserve">Building the reference buildings at tier <ph id="0">{0}</ph>, this takes a little while...</target>
+      </trans-unit>
+      <trans-unit id="Building the town at tier {0}, this takes a little while...">
+        <source xml:space="preserve">Building the town at tier <ph id="0">{0}</ph>, this takes a little while...</source>
+        <target xml:space="preserve">Building the town at tier <ph id="0">{0}</ph>, this takes a little while...</target>
+      </trans-unit>
+      <trans-unit id="Test bench taken down (the stone pad stays).">
+        <source xml:space="preserve">Test bench taken down (the stone pad stays).</source>
+        <target xml:space="preserve">Test bench taken down (the stone pad stays).</target>
+      </trans-unit>
+      <trans-unit id="Structural integrity systems on: {0}.">
+        <source xml:space="preserve">Structural integrity systems on: <ph id="0">{0}</ph>.</source>
+        <target xml:space="preserve">Structural integrity systems on: <ph id="0">{0}</ph>.</target>
+      </trans-unit>
+      <trans-unit id="Unknown system '{0}'. {1}.">
+        <source xml:space="preserve">Unknown system '<ph id="0">{0}</ph>'. <ph id="1">{1}</ph>.</source>
+        <target xml:space="preserve">Unknown system '<ph id="0">{0}</ph>'. <ph id="1">{1}</ph>.</target>
+      </trans-unit>
+      <trans-unit id="You are not standing in a claim.">
+        <source xml:space="preserve">You are not standing in a claim.</source>
+        <target xml:space="preserve">You are not standing in a claim.</target>
+      </trans-unit>
+      <trans-unit id="You are not standing in a district of an active district map.">
+        <source xml:space="preserve">You are not standing in a district of an active district map.</source>
+        <target xml:space="preserve">You are not standing in a district of an active district map.</target>
+      </trans-unit>
+      <trans-unit id="No district here matches '{0}'. Here: {1}.">
+        <source xml:space="preserve">No district here matches '<ph id="0">{0}</ph>'. Here: <ph id="1">{1}</ph>.</source>
+        <target xml:space="preserve">No district here matches '<ph id="0">{0}</ph>'. Here: <ph id="1">{1}</ph>.</target>
+      </trans-unit>
+      <trans-unit id="Multiple districts here: {0}. Which one? {1}">
+        <source xml:space="preserve">Multiple districts here: <ph id="0">{0}</ph>. Which one? <ph id="1">{1}</ph></source>
+        <target xml:space="preserve">Multiple districts here: <ph id="0">{0}</ph>. Which one? <ph id="1">{1}</ph></target>
+      </trans-unit>
+      <trans-unit id="{0} {1}: {2} off. Saved to World.eco.">
+        <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph>: <ph id="2">{2}</ph> off. Saved to World.eco.</source>
+        <target xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph>: <ph id="2">{2}</ph> off. Saved to World.eco.</target>
+      </trans-unit>
+      <trans-unit id="{0} {1} is not exempt.">
+        <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> is not exempt.</source>
+        <target xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> is not exempt.</target>
+      </trans-unit>
+      <trans-unit id="{0} {1}: every system applies again. Saved to World.eco.">
+        <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph>: every system applies again. Saved to World.eco.</source>
+        <target xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph>: every system applies again. Saved to World.eco.</target>
+      </trans-unit>
+      <trans-unit id="Turn integrity systems on server-wide (">
+        <source xml:space="preserve">Turn integrity systems on server-wide (</source>
+        <target xml:space="preserve">Turn integrity systems on server-wide (</target>
+      </trans-unit>
+      <trans-unit id="Turn integrity systems off server-wide (">
+        <source xml:space="preserve">Turn integrity systems off server-wide (</source>
+        <target xml:space="preserve">Turn integrity systems off server-wide (</target>
+      </trans-unit>
+      <trans-unit id="Turn integrity systems off in the claim you stand in (">
+        <source xml:space="preserve">Turn integrity systems off in the claim you stand in (</source>
+        <target xml:space="preserve">Turn integrity systems off in the claim you stand in (</target>
+      </trans-unit>
+      <trans-unit id="Turn integrity systems off in the district you stand in (">
+        <source xml:space="preserve">Turn integrity systems off in the district you stand in (</source>
+        <target xml:space="preserve">Turn integrity systems off in the district you stand in (</target>
+      </trans-unit>
+      <trans-unit id="Build the reference buildings in front of you (toward +x and +z) on a stone pad, each with the best materials of the tier (1 to 5), and report which stand, flagging any the engine judges differently from the dry run. Filter by number (#12), group or name.">
+        <source xml:space="preserve">Build the reference buildings in front of you (toward +x and +z) on a stone pad, each with the best materials of the tier (1 to 5), and report which stand, flagging any the engine judges differently from the dry run. Filter by number (#12), group or name.</source>
+        <target xml:space="preserve">Build the reference buildings in front of you (toward +x and +z) on a stone pad, each with the best materials of the tier (1 to 5), and report which stand, flagging any the engine judges differently from the dry run. Filter by number (#12), group or name.</target>
+      </trans-unit>
+      <trans-unit id="Build a town of everyday buildings (cabins, houses, a barn, a tower, a shop...) in front of you on a stone pad, in the forms players build with and the best materials of the tier (1 to 5), and report which stand. Filter by number (#104) or name.">
+        <source xml:space="preserve">Build a town of everyday buildings (cabins, houses, a barn, a tower, a shop...) in front of you on a stone pad, in the forms players build with and the best materials of the tier (1 to 5), and report which stand. Filter by number (#104) or name.</source>
+        <target xml:space="preserve">Build a town of everyday buildings (cabins, houses, a barn, a tower, a shop...) in front of you on a stone pad, in the forms players build with and the best materials of the tier (1 to 5), and report which stand. Filter by number (#104) or name.</target>
+      </trans-unit>
+      <trans-unit id="Take down the test bench's buildings (the stone pad stays).">
+        <source xml:space="preserve">Take down the test bench's buildings (the stone pad stays).</source>
+        <target xml:space="preserve">Take down the test bench's buildings (the stone pad stays).</target>
+      </trans-unit>
+      <trans-unit id="{0}&#10;{1}">
+        <source xml:space="preserve"><ph id="0">{0}</ph>
+<ph id="1">{1}</ph></source>
+        <target xml:space="preserve"><ph id="0">{0}</ph>
+<ph id="1">{1}</ph></target>
+      </trans-unit>
+      <trans-unit id="Nothing holds it up">
+        <source xml:space="preserve">Nothing holds it up</source>
+        <target xml:space="preserve">Nothing holds it up</target>
+      </trans-unit>
+      <trans-unit id="resting on the block under it">
+        <source xml:space="preserve">resting on the block under it</source>
+        <target xml:space="preserve">resting on the block under it</target>
+      </trans-unit>
+      <trans-unit id="Paint pattern {0} skipped: more than {1} patterns were ever registered.">
+        <source xml:space="preserve">Paint pattern <ph id="0">{0}</ph> skipped: more than <ph id="1">{1}</ph> patterns were ever registered.</source>
+        <target xml:space="preserve">Paint pattern <ph id="0">{0}</ph> skipped: more than <ph id="1">{1}</ph> patterns were ever registered.</target>
+      </trans-unit>
+      <trans-unit id="Your stomach doesn't hold enough calories for this labor. Eat {0} ({1} calories) from your inventory to work?">
+        <source xml:space="preserve">Your stomach doesn't hold enough calories for this labor. Eat <ph id="0">{0}</ph> (<ph id="1">{1}</ph> calories) from your inventory to work?</source>
+        <target xml:space="preserve">Your stomach doesn't hold enough calories for this labor. Eat <ph id="0">{0}</ph> (<ph id="1">{1}</ph> calories) from your inventory to work?</target>
+      </trans-unit>
+      <trans-unit id="Your food changed in your inventory, labor stopped.">
+        <source xml:space="preserve">Your food changed in your inventory, labor stopped.</source>
+        <target xml:space="preserve">Your food changed in your inventory, labor stopped.</target>
+      </trans-unit>
+      <trans-unit id="Machine pollution: {0}ppm per hour">
+        <source xml:space="preserve">Machine pollution: <ph id="0">{0}</ph>ppm per hour</source>
+        <target xml:space="preserve">Machine pollution: <ph id="0">{0}</ph>ppm per hour</target>
+      </trans-unit>
+      <trans-unit id="Fuel {0}: CO2 x{1} → {2}ppm per hour">
+        <source xml:space="preserve">Fuel <ph id="0">{0}</ph>: CO2 x<ph id="1">{1}</ph> → <ph id="2">{2}</ph>ppm per hour</source>
+        <target xml:space="preserve">Fuel <ph id="0">{0}</ph>: CO2 x<ph id="1">{1}</ph> → <ph id="2">{2}</ph>ppm per hour</target>
+      </trans-unit>
+      <trans-unit id="Emits exhaust: raises CO2 but causes no acid rain.">
+        <source xml:space="preserve">Emits exhaust: raises CO2 but causes no acid rain.</source>
+        <target xml:space="preserve">Emits exhaust: raises CO2 but causes no acid rain.</target>
+      </trans-unit>
+      <trans-unit id="Sea level rises {0} meter every {1} degrees of warming past {2} degrees (rising by {3} meters per day, {4} meters raised so far)">
+        <source xml:space="preserve">Sea level rises <ph id="0">{0}</ph> meter every <ph id="1">{1}</ph> degrees of warming past <ph id="2">{2}</ph> degrees (rising by <ph id="3">{3}</ph> meters per day, <ph id="4">{4}</ph> meters raised so far)</source>
+        <target xml:space="preserve">Sea level rises <ph id="0">{0}</ph> meter every <ph id="1">{1}</ph> degrees of warming past <ph id="2">{2}</ph> degrees (rising by <ph id="3">{3}</ph> meters per day, <ph id="4">{4}</ph> meters raised so far)</target>
+      </trans-unit>
+      <trans-unit id="Structural Integrity Effects">
+        <source xml:space="preserve">Structural Integrity Effects</source>
+        <target xml:space="preserve">Structural Integrity Effects</target>
+      </trans-unit>
+      <trans-unit id="How much of a structural collapse is shown: cracks, falling blocks and building pieces at once. From Medium up, a collapse comes down layer by layer, each layer cracking until it goes; Low brings it down in a short burst. Unlimited shows everything the server sends.&#10;&#10;Performance impact: Medium">
+        <source xml:space="preserve">How much of a structural collapse is shown: cracks, falling blocks and building pieces at once. From Medium up, a collapse comes down layer by layer, each layer cracking until it goes; Low brings it down in a short burst. Unlimited shows everything the server sends.
+
+Performance impact: Medium</source>
+        <target xml:space="preserve">How much of a structural collapse is shown: cracks, falling blocks and building pieces at once. From Medium up, a collapse comes down layer by layer, each layer cracking until it goes; Low brings it down in a short burst. Unlimited shows everything the server sends.
+
+Performance impact: Medium</target>
+      </trans-unit>
+      <trans-unit id="Show walking speed">
+        <source xml:space="preserve">Show walking speed</source>
+        <target xml:space="preserve">Show walking speed</target>
+      </trans-unit>
+      <trans-unit id="Shows your current max speed on foot at the bottom right of the screen, with a breakdown of what speeds you up or slows you down. The driving speed is always shown.">
+        <source xml:space="preserve">Shows your current max speed on foot at the bottom right of the screen, with a breakdown of what speeds you up or slows you down. The driving speed is always shown.</source>
+        <target xml:space="preserve">Shows your current max speed on foot at the bottom right of the screen, with a breakdown of what speeds you up or slows you down. The driving speed is always shown.</target>
+      </trans-unit>
+      <trans-unit id="Hook Away/Closer">
+        <source xml:space="preserve">Hook Away/Closer</source>
+        <target xml:space="preserve">Hook Away/Closer</target>
+      </trans-unit>
+      <trans-unit id="Swing Hook Left/Right">
+        <source xml:space="preserve">Swing Hook Left/Right</source>
+        <target xml:space="preserve">Swing Hook Left/Right</target>
+      </trans-unit>
+      <trans-unit id="Raise/Lower Hook">
+        <source xml:space="preserve">Raise/Lower Hook</source>
+        <target xml:space="preserve">Raise/Lower Hook</target>
+      </trans-unit>
+      <trans-unit id="Take / Build / Confirm">
+        <source xml:space="preserve">Take / Build / Confirm</source>
+        <target xml:space="preserve">Take / Build / Confirm</target>
+      </trans-unit>
+      <trans-unit id="Put / Deconstruct / Cancel">
+        <source xml:space="preserve">Put / Deconstruct / Cancel</source>
+        <target xml:space="preserve">Put / Deconstruct / Cancel</target>
+      </trans-unit>
+      <trans-unit id="Camera on Hook Target">
+        <source xml:space="preserve">Camera on Hook Target</source>
+        <target xml:space="preserve">Camera on Hook Target</target>
+      </trans-unit>
+      <trans-unit id="Stick Out/In">
+        <source xml:space="preserve">Stick Out/In</source>
+        <target xml:space="preserve">Stick Out/In</target>
+      </trans-unit>
+      <trans-unit id="Swing Platform">
+        <source xml:space="preserve">Swing Platform</source>
+        <target xml:space="preserve">Swing Platform</target>
+      </trans-unit>
+      <trans-unit id="Curl/Open Bucket">
+        <source xml:space="preserve">Curl/Open Bucket</source>
+        <target xml:space="preserve">Curl/Open Bucket</target>
+      </trans-unit>
+      <trans-unit id="Hold: Free Look">
+        <source xml:space="preserve">Hold: Free Look</source>
+        <target xml:space="preserve">Hold: Free Look</target>
+      </trans-unit>
+      <trans-unit id="Flip Bucket">
+        <source xml:space="preserve">Flip Bucket</source>
+        <target xml:space="preserve">Flip Bucket</target>
+      </trans-unit>
+      <trans-unit id="Bucket Out/In">
+        <source xml:space="preserve">Bucket Out/In</source>
+        <target xml:space="preserve">Bucket Out/In</target>
+      </trans-unit>
+      <trans-unit id="Raise/Lower Bucket">
+        <source xml:space="preserve">Raise/Lower Bucket</source>
+        <target xml:space="preserve">Raise/Lower Bucket</target>
+      </trans-unit>
+      <trans-unit id="Left Wheels Back/Forward">
+        <source xml:space="preserve">Left Wheels Back/Forward</source>
+        <target xml:space="preserve">Left Wheels Back/Forward</target>
+      </trans-unit>
+      <trans-unit id="Right Wheels Back/Forward">
+        <source xml:space="preserve">Right Wheels Back/Forward</source>
+        <target xml:space="preserve">Right Wheels Back/Forward</target>
+      </trans-unit>
+      <trans-unit id="Ctrll + Scroll">
+        <source xml:space="preserve">Ctrll + Scroll</source>
+        <target xml:space="preserve">Ctrll + Scroll</target>
+      </trans-unit>
+      <trans-unit id="Devtool">
+        <source xml:space="preserve">Devtool</source>
+        <target xml:space="preserve">Devtool</target>
+      </trans-unit>
+      <trans-unit id="Ignore carry size">
+        <source xml:space="preserve">Ignore carry size</source>
+        <target xml:space="preserve">Ignore carry size</target>
+      </trans-unit>
+      <trans-unit id="Remains from Biowaste sorting">
+        <source xml:space="preserve">Remains from Biowaste sorting</source>
+        <target xml:space="preserve">Remains from Biowaste sorting</target>
       </trans-unit>
     </body>
   </file>
