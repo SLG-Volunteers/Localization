@@ -1538,7 +1538,7 @@
       </trans-unit>
       <trans-unit id="Bloomery" xml:space="preserve">
         <source xml:space="preserve">Bloomery</source>
-        <target xml:space="preserve" state="translated">塊鉄炉</target>
+        <target xml:space="preserve" state="translated">製錬炉</target>
       </trans-unit>
       <trans-unit id="Bookshelf" xml:space="preserve">
         <source xml:space="preserve">Bookshelf</source>
@@ -3611,7 +3611,7 @@
       </trans-unit>
       <trans-unit id="A superior replacement for the bloomery that can produce steel." xml:space="preserve">
         <source xml:space="preserve">A superior replacement for the bloomery that can produce steel.</source>
-        <target xml:space="preserve" state="translated">鋼鉄を作れる塊鉄炉の優れた代替品。</target>
+        <target xml:space="preserve" state="translated">鋼鉄を作れる製錬炉の優れた代替品。</target>
       </trans-unit>
       <trans-unit id="A chimney-shaped furnace for smelting ores." xml:space="preserve">
         <source xml:space="preserve">A chimney-shaped furnace for smelting ores.</source>
