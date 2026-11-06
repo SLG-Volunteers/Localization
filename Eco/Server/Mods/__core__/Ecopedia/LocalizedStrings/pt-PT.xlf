@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve">
         <source xml:space="preserve">The Bank Component is where {Bank Accounts} are created and managed. Citizens can create multiple accounts for themselves or share accounts with other citizens. Accounts can also be assigned to {Titles} and {Demographics}.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">A Componente Bancária é onde as {Contas Bancárias} são criadas e geridas. Os cidadãos podem criar várias contas para si próprios ou partilhar contas com outros cidadãos. As contas também podem ser atribuídas a {Títulos} e {Dados Demográficos}.</target>
+        <target state="translated">A Componente Bancária é onde as {Contas Bancárias} são criadas e geridas. Os cidadãos podem criar várias contas para si próprias com outros cidadãos. As contas também podem ser atribuídas a {Títulos} e {Dados Demográficos}.</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve">
         <source xml:space="preserve">Account Users can perform transactions using the account (adding and removing funds).
@@ -16,19 +16,19 @@
 Account Managers can change the users in both the manager list and the user list, rename the account, and perform transactions. 
 
 In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Os utilizadores da conta podem realizar transações usando a conta (adicionar e retirar fundos).
+        <target state="translated">Os utilizadores da conta podem realizar transações usando a conta (adicionar e retirar fundos).
 
 Os gestores de conta podem alterar os utilizadores tanto na lista de gestores como na lista de utilizadores, renomear a conta e realizar transações. 
 
-Nas Definições Avançadas, podes definir a conta como uma Conta Governamental. As contas governamentais podem receber e pagar fundos fiscais e são ignoradas na cobrança de impostos e no cálculo da riqueza pessoal. Para definir isto, tens de ter privilégios bancários governamentais, atribuídos por um {Título Eleito|Títulos Eleitos}.</target>
+Nas Definições Avançadas, podes definir a conta como uma Conta Governamental. Contas governamentais podem receber e pagar fundos fiscais e são ignoradas na cobrança de impostos e no cálculo da riqueza pessoal. Para definir isto, tens de ter privilégios bancários governamentais, atribuídos por um {Título Eleito|Títulos Eleitos}.</target>
       </trans-unit>
       <trans-unit id="3" xml:space="preserve">
         <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">A funcionalidade «Banco» serve para criar e gerir contas bancárias</target>
+        <target state="needs-translation">A funcionalidade «Banco» serve para criar e gerir contas bancárias</target>
       </trans-unit>
       <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">O componente «Quadro de Contratos» permite que os cidadãos publiquem e aceitem {Contratos} e {Grupos de Trabalho}, possibilitando o trabalho obrigatório e outros acordos entre cidadãos.</target>
+        <target state="needs-translation">O componente «Quadro de Contratos» permite que os cidadãos publiquem e aceitem {Contratos} e {Grupos de Trabalho}, possibilitando o trabalho obrigatório e outros acordos entre cidadãos.</target>
       </trans-unit>
       <trans-unit id="5" xml:space="preserve">
         <source xml:space="preserve">Setting Up a Contract</source>
