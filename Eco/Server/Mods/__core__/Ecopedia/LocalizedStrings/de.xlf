@@ -3716,6 +3716,7 @@ Dekontamination ist außerdem das Einzige, was über die Selbstreinigung einer E
       </trans-unit>
       <trans-unit id="449">
         <source xml:space="preserve">How garbage is produced, recycled and sorted, and how to keep its losses and pollution down.</source>
+        <target state="translated">Wie Müll produziert, recycelt und sortiert wird und wie man Schäden und Verschmutzung niedrig hält.</target>
       </trans-unit>
       <trans-unit id="450">
         <source xml:space="preserve">Garbage Blocks</source>
