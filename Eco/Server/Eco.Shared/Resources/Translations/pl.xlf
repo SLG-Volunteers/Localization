@@ -665,7 +665,7 @@
       </trans-unit>
       <trans-unit id="Plant" xml:space="preserve">
         <source xml:space="preserve">Plant</source>
-        <target xml:space="preserve" state="translated">Roślina</target>
+        <target xml:space="preserve" state="translated">Zasadź</target>
       </trans-unit>
       <trans-unit id="This plant is dead. {0}" xml:space="preserve">
         <source xml:space="preserve">This plant is dead. <ph id="0">{0}</ph></source>
@@ -1494,7 +1494,7 @@
       </trans-unit>
       <trans-unit id="Salmon" xml:space="preserve">
         <source xml:space="preserve">Salmon</source>
-        <target xml:space="preserve" state="translated">Losoś</target>
+        <target xml:space="preserve" state="translated">Łosoś</target>
       </trans-unit>
       <trans-unit id="Trout" xml:space="preserve">
         <source xml:space="preserve">Trout</source>
@@ -1618,7 +1618,7 @@
       </trans-unit>
       <trans-unit id="Fishery" xml:space="preserve">
         <source xml:space="preserve">Fishery</source>
-        <target xml:space="preserve" state="translated">Rybołóstwo</target>
+        <target xml:space="preserve" state="translated">Stacja rybacka</target>
       </trans-unit>
       <trans-unit id="Fish Trap" xml:space="preserve">
         <source xml:space="preserve">Fish Trap</source>
@@ -1626,7 +1626,7 @@
       </trans-unit>
       <trans-unit id="Icebox" xml:space="preserve">
         <source xml:space="preserve">Icebox</source>
-        <target xml:space="preserve" state="translated">Lodówka</target>
+        <target xml:space="preserve" state="translated">Zamrażarka</target>
       </trans-unit>
       <trans-unit id="Kiln" xml:space="preserve">
         <source xml:space="preserve">Kiln</source>
