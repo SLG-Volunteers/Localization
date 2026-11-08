@@ -5317,7 +5317,7 @@
       </trans-unit>
       <trans-unit id="At this level of CO2, global temperatures start to rise." xml:space="preserve">
         <source xml:space="preserve">At this level of CO2, global temperatures start to rise.</source>
-        <target xml:space="preserve" state="translated">На этом уровне CO2, температуры в мире начинают возрастать.</target>
+        <target xml:space="preserve" state="translated">На этом уровне CO2, глобальная температура начинает возрастать.</target>
       </trans-unit>
       <trans-unit id="For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the global temperature level will rise 1 degree." xml:space="preserve" translate="no">
         <source xml:space="preserve">For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the global temperature level will rise 1 degree.</source>
