@@ -71114,7 +71114,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Pending garbage: {0}" xml:space="preserve">
         <source xml:space="preserve">Pending garbage: <ph id="0">{0}</ph></source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">未処理のゴミ：<ph id="0">{0}</ph></target>
+        <target state="translated">未処理のゴミ：<ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Base rate: {0}ppm per hour (before talent and module scaling)." xml:space="preserve">
         <source xml:space="preserve">Base rate: <ph id="0">{0}</ph>ppm per hour (before talent and module scaling).</source>
@@ -72702,6 +72702,7 @@ This is an official Eco server provided by Strange Loop Games.</source>
       </trans-unit>
       <trans-unit id="No pending garbage.">
         <source xml:space="preserve">No pending garbage.</source>
+        <target state="translated">未処理のゴミはありません。</target>
       </trans-unit>
       <trans-unit id="SaveAll took {0:F0}ms. Per-plugin breakdown:&#13;&#10;{1}">
         <source xml:space="preserve">SaveAll took <ph id="0">{0:F0}</ph>ms. Per-plugin breakdown:
@@ -75386,6 +75387,7 @@ Moving: it only applies once parked <ph id="1">{1}</ph> in the same spot.</sourc
       </trans-unit>
       <trans-unit id="Pending garbage: {0} of a block. Next block: {1}.">
         <source xml:space="preserve">Pending garbage: <ph id="0">{0}</ph> of a block. Next block: <ph id="1">{1}</ph>.</source>
+        <target state="translated">未処理のゴミ：１ブロック中 <ph id="0">{0}</ph> 。次のブロック： <ph id="1">{1}</ph>。</target>
       </trans-unit>
       <trans-unit id="Mixed because this table produced several kinds of waste. A table that only crafts recipes producing the same waste outputs pure blocks: they skip sorting and its losses, and most of them don't pollute.">
         <source xml:space="preserve">Mixed because this table produced several kinds of waste. A table that only crafts recipes producing the same waste outputs pure blocks: they skip sorting and its losses, and most of them don't pollute.</source>
