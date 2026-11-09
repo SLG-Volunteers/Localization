@@ -1628,7 +1628,6 @@ Wahlen haben eine Reihe von Einstellungen, die ihr {Wahlverfahren|Election Proce
 Depending on what {Civic Articles} are available, these actions may or may not require an election. Some civic articles state that only {Elected Titles} may perform Executive Actions.
   </source>
         <target xml:space="preserve" state="translated">Regierungsanordnungen sind einmalige Aktionen, die eine bestimmte Gruppe von Bürgern oder alle Bürger auf einmal betreffen können.
-
 Regierungsanordnungen werden in einem {ExecutiveOfficeItem} über die {Bürgeraktions-Komponente|Civic Action Component} vorgeschlagen. Sie können drei Dinge bewirken:
 - eine einmalige {Steuer|Taxes} erheben
 - Bürgern eine Zahlung aus der {TreasuryItem} leisten
@@ -3106,6 +3105,7 @@ Wird ein Bürger Bewohner eines Grundstücks, erhält er eine besondere Reihe vo
 - Eigene Möbel mitbringen erlaubt: Bewohner können überall auf dem Grundstück Objekte platzieren (aber keine Blöcke).
 - Die mitvermieteten Möbel bleiben hier: Bewohner können Weltobjekte nur aufheben, wenn sie diese selbst platziert haben.
 
+
 Miete
 Nachdem du Bewohner eingeladen hast, kannst du Besitzurkunden zur Miete anbieten, sodass zwischen Bürgern automatische Mietverträge mit Mieteinzug entstehen. Wer ein Grundstück mietet, wird Bewohner der Besitzurkunde und erhält alle zugehörigen Wohnboni und Rechte. Beim Vermieten legst du einen Stundensatz fest, optional mit einer Einzugsgebühr. Im Vertrag lässt sich außerdem festlegen, ob auch Offline-Stunden bezahlt werden müssen.
 
@@ -3120,7 +3120,7 @@ Mietbare Grundstücke findest du in der {Wirtschaftsansicht|Economy Viewer}. Nac
         <source xml:space="preserve">
     TBD
   </source>
-        <target xml:space="preserve" state="needs-translation">
+        <target xml:space="preserve" state="translated">
     TBD
   </target>
       </trans-unit>
@@ -3272,7 +3272,7 @@ Eine annektierte Siedlung kann nicht mehr „Siedlung abspalten“ ausführen. S
       </trans-unit>
       <trans-unit id="368" xml:space="preserve">
         <source xml:space="preserve">Annexation Settings</source>
-        <target xml:space="preserve" state="needs-translation">Einstellungen zur Annexion</target>
+        <target xml:space="preserve" state="translated">Einstellungen zur Annexion</target>
       </trans-unit>
       <trans-unit id="377" xml:space="preserve">
         <source xml:space="preserve">
@@ -3308,7 +3308,7 @@ Eine annektierte Siedlung kann nicht mehr „Siedlung abspalten“ ausführen. S
       </trans-unit>
       <trans-unit id="380" xml:space="preserve">
         <source xml:space="preserve">Freshness</source>
-        <target xml:space="preserve" state="needs-translation">Frische</target>
+        <target xml:space="preserve" state="translated">Frische</target>
       </trans-unit>
       <trans-unit id="381" xml:space="preserve">
         <source xml:space="preserve">
@@ -3322,7 +3322,7 @@ Rohe Lebensmittel dürfen dagegen deutlich älter sein und zählen trotzdem. Wie
       </trans-unit>
       <trans-unit id="382" xml:space="preserve">
         <source xml:space="preserve">Bonuses</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Boni</target>
+        <target xml:space="preserve" state="translated">Boni</target>
       </trans-unit>
       <trans-unit id="383" xml:space="preserve">
         <source xml:space="preserve">
@@ -3344,7 +3344,7 @@ Rohe Lebensmittel dürfen dagegen deutlich älter sein und zählen trotzdem. Wie
       </trans-unit>
       <trans-unit id="384" xml:space="preserve">
         <source xml:space="preserve">Benefits</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Vorteile</target>
+        <target xml:space="preserve" state="translated">Vorteile</target>
       </trans-unit>
       <trans-unit id="385" xml:space="preserve">
         <source xml:space="preserve">
@@ -3372,7 +3372,7 @@ Eine Dinnerparty endet, wenn der Gastgeber auf „Beenden“ klickt, wenn die fe
       </trans-unit>
       <trans-unit id="387" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Settings</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Einstellungen für Dinnerpartys</target>
+        <target xml:space="preserve" state="translated">Einstellungen für Dinnerpartys</target>
       </trans-unit>
       <trans-unit id="406" xml:space="preserve">
         <source xml:space="preserve">Settlements are a community of citizens that have banded together under agreed-upon rules.</source>
@@ -3396,7 +3396,7 @@ Eine Dinnerparty endet, wenn der Gastgeber auf „Beenden“ klickt, wenn die fe
       </trans-unit>
       <trans-unit id="409" xml:space="preserve">
         <source xml:space="preserve">There are three levels of settlements:</source>
-        <target xml:space="preserve" state="needs-translation">Es gibt drei Siedlungsstufen:</target>
+        <target xml:space="preserve" state="translated">Es gibt drei Siedlungsstufen:</target>
       </trans-unit>
       <trans-unit id="410" xml:space="preserve">
         <source xml:space="preserve">Towns are collections of citizens.</source>
@@ -3408,11 +3408,11 @@ Eine Dinnerparty endet, wenn der Gastgeber auf „Beenden“ klickt, wenn die fe
       </trans-unit>
       <trans-unit id="412" xml:space="preserve">
         <source xml:space="preserve">Federations are collections of Countries, Towns, and citizens.</source>
-        <target xml:space="preserve" state="needs-translation">Föderationen sind Zusammenschlüsse von Ländern, Städten und Bürgern.</target>
+        <target xml:space="preserve" state="translated">Föderationen sind Zusammenschlüsse von Ländern, Städten und Bürgern.</target>
       </trans-unit>
       <trans-unit id="413" xml:space="preserve">
         <source xml:space="preserve">Settlement Concepts</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Siedlungskonzepte</target>
+        <target xml:space="preserve" state="translated">Siedlungskonzepte</target>
       </trans-unit>
       <trans-unit id="414" xml:space="preserve">
         <source xml:space="preserve">
@@ -3518,7 +3518,7 @@ Siedlungen brauchen eine Mindestzahl an Bürgern, eine Mindestzahl an untergeord
       </trans-unit>
       <trans-unit id="426" xml:space="preserve">
         <source xml:space="preserve">Ratifying the Constitution</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Die Verfassung ratifizieren</target>
+        <target xml:space="preserve" state="translated">Die Verfassung ratifizieren</target>
       </trans-unit>
       <trans-unit id="427" xml:space="preserve">
         <source xml:space="preserve">
@@ -3582,7 +3582,7 @@ Es lassen sich Voraussetzungen festlegen, die erfüllt sein bzw. bleiben müssen
       </trans-unit>
       <trans-unit id="433" xml:space="preserve">
         <source xml:space="preserve">Culture Generates Influence</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kultur erzeugt Einfluss</target>
+        <target xml:space="preserve" state="translated">Kultur erzeugt Einfluss</target>
       </trans-unit>
       <trans-unit id="434" xml:space="preserve">
         <source xml:space="preserve">
@@ -3618,7 +3618,7 @@ Konkurrieren zwei Siedlungen derselben Art um Einfluss, drängt die nähere weit
       </trans-unit>
       <trans-unit id="437" xml:space="preserve">
         <source xml:space="preserve">Border Control</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Grenzkontrolle</target>
+        <target xml:space="preserve" state="translated">Grenzkontrolle</target>
       </trans-unit>
       <trans-unit id="438" xml:space="preserve">
         <source xml:space="preserve">
