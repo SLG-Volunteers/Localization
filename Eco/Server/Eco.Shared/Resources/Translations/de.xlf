@@ -18552,7 +18552,7 @@
       </trans-unit>
       <trans-unit id="Basic Slope Turn" xml:space="preserve">
         <source xml:space="preserve">Basic Slope Turn</source>
-        <target xml:space="preserve" state="translated">Einfache Schräge (Kurve)</target>
+        <target xml:space="preserve" state="translated">Grundlegende  Gefällekurve</target>
       </trans-unit>
       <trans-unit id="Basic Slope Side" xml:space="preserve">
         <source xml:space="preserve">Basic Slope Side</source>
