@@ -18552,7 +18552,7 @@
       </trans-unit>
       <trans-unit id="Basic Slope Turn" xml:space="preserve">
         <source xml:space="preserve">Basic Slope Turn</source>
-        <target xml:space="preserve" state="translated">Grundlegende  Gefällekurve</target>
+        <target xml:space="preserve" state="translated">Grundlegende Gefällekurve</target>
       </trans-unit>
       <trans-unit id="Basic Slope Side" xml:space="preserve">
         <source xml:space="preserve">Basic Slope Side</source>
@@ -31958,7 +31958,7 @@
       </trans-unit>
       <trans-unit id="Can Elections Be Proposed During Term" xml:space="preserve">
         <source xml:space="preserve">Can Elections Be Proposed During Term</source>
-        <target xml:space="preserve" state="translated">Können während der Amtszeit Wahlen vorgeschlagen werden?</target>
+        <target xml:space="preserve" state="translated">Können während der Amtszeit Wahlen vorgeschlagen werden</target>
       </trans-unit>
       <trans-unit id="Can Set Global Objectives" xml:space="preserve">
         <source xml:space="preserve">Can Set Global Objectives</source>
@@ -32306,7 +32306,7 @@
       </trans-unit>
       <trans-unit id="Logged in. Located at" xml:space="preserve">
         <source xml:space="preserve">Logged in. Located at</source>
-        <target xml:space="preserve" state="translated">Angemeldet. Standort:</target>
+        <target xml:space="preserve" state="translated">Angemeldet. Standort</target>
       </trans-unit>
       <trans-unit id="House value:" xml:space="preserve">
         <source xml:space="preserve">House value:</source>
@@ -53490,7 +53490,7 @@
       </trans-unit>
       <trans-unit id="These claims must be used on claim stakes within the influence of" xml:space="preserve">
         <source xml:space="preserve">These claims must be used on claim stakes within the influence of</source>
-        <target xml:space="preserve" state="translated">Diese Anspruchspapiere müssen auf Absteckpflöcken im Einflussbereich folgender Siedlung genutzt werden:</target>
+        <target xml:space="preserve" state="translated">Diese Anspruchspapiere müssen auf Absteckpflöcken im Einflussbereich folgender Siedlung genutzt werden</target>
       </trans-unit>
       <trans-unit id="removed {0}. Remaining: {1}." xml:space="preserve">
         <source xml:space="preserve">removed <ph id="0">{0}</ph>. Remaining: <ph id="1">{1}</ph>.</source>
@@ -67291,8 +67291,7 @@ Verbleibende Gesamtpopulation: <ph id="8">{8}</ph></target>
       </trans-unit>
       <trans-unit id="Failed to invoke in-line button rpc with name: {0} on controller with linkID: {1} &#10; {2}" xml:space="preserve">
         <source xml:space="preserve">Failed to invoke in-line button rpc with name: <ph id="0">{0}</ph> on controller with linkID: <ph id="1">{1}</ph><ph id="2">{2}</ph></source>
-        <target xml:space="preserve" state="translated">Fehler beim Aufrufen des Inline-Button-RPCs mit dem Namen: <ph id="0">{0}</ph> auf dem Controller mit der Link-ID: <ph id="1">{1}</ph>
-<ph id="2">{2}</ph></target>
+        <target xml:space="preserve" state="translated">Fehler beim Aufrufen des Inline-Button-RPCs mit dem Namen: <ph id="0">{0}</ph> auf dem Controller mit der Link-ID: <ph id="1">{1}</ph><ph id="2">{2}</ph></target>
       </trans-unit>
       <trans-unit id="Nested clause failed because all sub-clauses failed:&#10;&#10;{0}" xml:space="preserve">
         <source xml:space="preserve">Nested clause failed because all sub-clauses failed:
