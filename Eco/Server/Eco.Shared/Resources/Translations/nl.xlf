@@ -1506,7 +1506,7 @@
       </trans-unit>
       <trans-unit id="Urchin" xml:space="preserve">
         <source xml:space="preserve">Urchin</source>
-        <target xml:space="preserve" state="translated">Zee egel</target>
+        <target xml:space="preserve" state="translated">Zee-egel</target>
       </trans-unit>
       <trans-unit id="Kelp" xml:space="preserve">
         <source xml:space="preserve">Kelp</source>
@@ -2598,7 +2598,7 @@
       </trans-unit>
       <trans-unit id="Wood Cart" xml:space="preserve">
         <source xml:space="preserve">Wood Cart</source>
-        <target xml:space="preserve" state="translated">Houten Wagen</target>
+        <target xml:space="preserve" state="translated">Houten wagen</target>
       </trans-unit>
       <trans-unit id="{0} has returned to the game (Last online {1} ago)." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has returned to the game (Last online <ph id="1">{1}</ph> ago).</source>
@@ -3487,7 +3487,7 @@
       </trans-unit>
       <trans-unit id="Camas" xml:space="preserve">
         <source xml:space="preserve">Camas</source>
-        <target xml:space="preserve" state="translated">Bakes</target>
+        <target xml:space="preserve" state="translated">Camassia</target>
       </trans-unit>
       <trans-unit id="Plant to grow a cedar sapling." xml:space="preserve">
         <source xml:space="preserve">Plant to grow a cedar sapling.</source>
@@ -4943,7 +4943,7 @@
       </trans-unit>
       <trans-unit id="Cannot trade: Store is not in a valid state. Check the status tab for more details." xml:space="preserve">
         <source xml:space="preserve">Cannot trade: Store is not in a valid state. Check the status tab for more details.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kan niet ruilen: De winkel is niet in een geldige staat. Kijk op het tabblad Status voor meer details.</target>
+        <target xml:space="preserve" state="translated">Kan niet handelen: de winkel is niet in een geldige toestand. Kijk op het tabblad Status voor meer details.</target>
       </trans-unit>
       <trans-unit id="The meteor has been destroyed!  You are victorious!" xml:space="preserve">
         <source xml:space="preserve">The meteor has been destroyed!  You are victorious!</source>
@@ -4951,7 +4951,7 @@
       </trans-unit>
       <trans-unit id="(Max level)" xml:space="preserve">
         <source xml:space="preserve">(Max level)</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">(Max. niveau)</target>
+        <target xml:space="preserve" state="translated">(Max. niveau)</target>
       </trans-unit>
       <trans-unit id="This currency uses {0} to produce {1} {2} per {3}" xml:space="preserve">
         <source xml:space="preserve">This currency uses <ph id="0">{0}</ph> to produce <ph id="1">{1}</ph> <ph id="2">{2}</ph> per <ph id="3">{3}</ph></source>
@@ -5161,7 +5161,7 @@
       </trans-unit>
       <trans-unit id="; " xml:space="preserve">
         <source xml:space="preserve">; </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">; </target>
+        <target xml:space="preserve" state="translated">; </target>
         <note from="developer">This string separates two error messages caused bt the same action in the laws system</note>
       </trans-unit>
       <trans-unit id="{0}'s {1}" xml:space="preserve">
@@ -5219,7 +5219,7 @@
       </trans-unit>
       <trans-unit id="{0}: Level {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>: Level <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph>: Level <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>: niveau <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0} has trained {1} to level {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has trained <ph id="1">{1}</ph> to level <ph id="2">{2}</ph>.</source>
@@ -5231,11 +5231,11 @@
       </trans-unit>
       <trans-unit id="{0} is not a world object." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not a world object.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> is geen wereldobject.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> is geen wereldobject.</target>
       </trans-unit>
       <trans-unit id="Tier must be between 1 and 4." xml:space="preserve">
         <source xml:space="preserve">Tier must be between 1 and 4.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het niveau moet tussen 1 en 4 liggen.</target>
+        <target xml:space="preserve" state="translated">Het niveau moet tussen 1 en 4 liggen.</target>
       </trans-unit>
       <trans-unit id="Belongs to {0}." xml:space="preserve">
         <source xml:space="preserve">Belongs to <ph id="0">{0}</ph>.</source>
@@ -5255,43 +5255,43 @@
       </trans-unit>
       <trans-unit id="Waiting for World..." xml:space="preserve">
         <source xml:space="preserve">Waiting for World...</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Wachten op de wereld...</target>
+        <target xml:space="preserve" state="translated">Wachten op de wereld...</target>
       </trans-unit>
       <trans-unit id="Makeup of the atmosphere in percentages." xml:space="preserve">
         <source xml:space="preserve">Makeup of the atmosphere in percentages.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Samenstelling van de atmosfeer in percentages.</target>
+        <target xml:space="preserve" state="translated">Samenstelling van de atmosfeer in percentages.</target>
       </trans-unit>
       <trans-unit id="Initial air pressure." xml:space="preserve">
         <source xml:space="preserve">Initial air pressure.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Begindruk.</target>
+        <target xml:space="preserve" state="translated">Luchtdruk bij de start.</target>
       </trans-unit>
       <trans-unit id="Atmosphere volume in cubic meters." xml:space="preserve">
         <source xml:space="preserve">Atmosphere volume in cubic meters.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Atmosfeervolume in kubieke meters.</target>
+        <target xml:space="preserve" state="translated">Volume van de atmosfeer in kubieke meter.</target>
       </trans-unit>
       <trans-unit id="Show atmosphere data in status panel." xml:space="preserve">
         <source xml:space="preserve">Show atmosphere data in status panel.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Toon atmosferische gegevens in het statuspaneel.</target>
+        <target xml:space="preserve" state="translated">Atmosfeergegevens tonen in het statuspaneel.</target>
       </trans-unit>
       <trans-unit id="Air pollution output is divided by this to determine PPM." xml:space="preserve">
         <source xml:space="preserve">Air pollution output is divided by this to determine PPM.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De uitstoot van luchtvervuiling wordt hierdoor gedeeld om de PPM te bepalen.</target>
+        <target xml:space="preserve" state="translated">De uitstoot van luchtvervuiling wordt hierdoor gedeeld om de PPM te bepalen.</target>
       </trans-unit>
       <trans-unit id="Multiplier for pollution." xml:space="preserve">
         <source xml:space="preserve">Multiplier for pollution.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Vermenigvuldigingsfactor voor vervuiling.</target>
+        <target xml:space="preserve" state="translated">Vermenigvuldigingsfactor voor vervuiling.</target>
       </trans-unit>
       <trans-unit id="The starting level of CO2 in the atmosphere, and the min value we clamp to." xml:space="preserve">
         <source xml:space="preserve">The starting level of CO2 in the atmosphere, and the min value we clamp to.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het startniveau van CO2 in de atmosfeer, en de minimumwaarde waar we ons aan houden.</target>
+        <target xml:space="preserve" state="translated">Het beginniveau van CO2 in de atmosfeer, en de minimumwaarde waarop het wordt begrensd.</target>
       </trans-unit>
       <trans-unit id="Whether sea level changes should be simulated." xml:space="preserve">
         <source xml:space="preserve">Whether sea level changes should be simulated.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Of veranderingen in de zeespiegel gesimuleerd moeten worden.</target>
+        <target xml:space="preserve" state="translated">Of veranderingen in de zeespiegel gesimuleerd moeten worden.</target>
       </trans-unit>
       <trans-unit id="Whether temperature changes should be simulated." xml:space="preserve">
         <source xml:space="preserve">Whether temperature changes should be simulated.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Of temperatuurveranderingen moeten worden gesimuleerd.</target>
+        <target xml:space="preserve" state="translated">Of temperatuurveranderingen moeten worden gesimuleerd.</target>
       </trans-unit>
       <trans-unit id="Sea levels start rising when CO2 is above this value" xml:space="preserve" translate="no">
         <source xml:space="preserve">Sea levels start rising when CO2 is above this value</source>
@@ -5305,19 +5305,19 @@
       </trans-unit>
       <trans-unit id="No matter how bad it gets, it will never get worse than this." xml:space="preserve">
         <source xml:space="preserve">No matter how bad it gets, it will never get worse than this.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Hoe erg het ook wordt, het zal nooit erger worden dan dit.</target>
+        <target xml:space="preserve" state="translated">Hoe erg het ook wordt, het zal nooit erger worden dan dit.</target>
       </trans-unit>
       <trans-unit id="Sea levels can not rise more than this many units per day." xml:space="preserve">
         <source xml:space="preserve">Sea levels can not rise more than this many units per day.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De zeespiegel mag niet meer dan zoveel eenheden per dag stijgen.</target>
+        <target xml:space="preserve" state="translated">De zeespiegel kan niet meer dan dit aantal eenheden per dag stijgen.</target>
       </trans-unit>
       <trans-unit id="Temperature can not rise more than this many units per day." xml:space="preserve">
         <source xml:space="preserve">Temperature can not rise more than this many units per day.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De temperatuur mag niet meer dan zoveel eenheden per dag stijgen.</target>
+        <target xml:space="preserve" state="translated">De temperatuur kan niet meer dan dit aantal eenheden per dag stijgen.</target>
       </trans-unit>
       <trans-unit id="At this level of CO2, global temperatures start to rise." xml:space="preserve">
         <source xml:space="preserve">At this level of CO2, global temperatures start to rise.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bij dit CO2-niveau begint de temperatuur wereldwijd te stijgen.</target>
+        <target xml:space="preserve" state="translated">Bij dit CO2-niveau begint de wereldwijde temperatuur te stijgen.</target>
       </trans-unit>
       <trans-unit id="For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the global temperature level will rise 1 degree." xml:space="preserve" translate="no">
         <source xml:space="preserve">For every X ppm over the base 'SeaLevelsRiseAtCO2ppm' value, the global temperature level will rise 1 degree.</source>
@@ -5331,83 +5331,83 @@
       </trans-unit>
       <trans-unit id="Debris max value is attained when this many blocks are placed." xml:space="preserve">
         <source xml:space="preserve">Debris max value is attained when this many blocks are placed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De maximale waarde voor puin wordt bereikt wanneer er zoveel blokken zijn geplaatst.</target>
+        <target xml:space="preserve" state="translated">De maximale waarde voor puin wordt bereikt wanneer er zoveel blokken zijn geplaatst.</target>
       </trans-unit>
       <trans-unit id="The number of calories in a single voxel column of this plant at population density 1." xml:space="preserve">
         <source xml:space="preserve">The number of calories in a single voxel column of this plant at population density 1.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het aantal calorieën in een enkele voxelkolom van deze plant bij een bevolkingsdichtheid van 1.</target>
+        <target xml:space="preserve" state="translated">Het aantal calorieën in een enkele voxelkolom van deze plant bij een bevolkingsdichtheid van 1.</target>
       </trans-unit>
       <trans-unit id="The world layer describing the concentration of the nutrient." xml:space="preserve">
         <source xml:space="preserve">The world layer describing the concentration of the nutrient.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De wereldlaag die de concentratie van de voedingsstoffen beschrijft.</target>
+        <target xml:space="preserve" state="translated">De wereldlaag die de concentratie van de voedingsstof beschrijft.</target>
       </trans-unit>
       <trans-unit id="The concentration of the nutrient at which the plant grows at half its max rate. 0 = plant is not constrained." xml:space="preserve">
         <source xml:space="preserve">The concentration of the nutrient at which the plant grows at half its max rate. 0 = plant is not constrained.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De concentratie van de voedingsstof waarbij de plant groeit met de helft van zijn maximale snelheid. 0 = de plant wordt niet beperkt.</target>
+        <target xml:space="preserve" state="translated">De concentratie van de voedingsstof waarbij de plant groeit met de helft van zijn maximale snelheid. 0 = de plant wordt niet beperkt.</target>
       </trans-unit>
       <trans-unit id="The concentration of the nutrient (amount / voxel column) in an adult plant." xml:space="preserve">
         <source xml:space="preserve">The concentration of the nutrient (amount / voxel column) in an adult plant.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De concentratie van de voedingsstof (hoeveelheid / voxelkolom) in een volwassen plant.</target>
+        <target xml:space="preserve" state="translated">De concentratie van de voedingsstof (hoeveelheid / voxelkolom) in een volwassen plant.</target>
       </trans-unit>
       <trans-unit id="The world layer describing the local capacity." xml:space="preserve">
         <source xml:space="preserve">The world layer describing the local capacity.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De wereldlaag beschrijft de lokale capaciteit.</target>
+        <target xml:space="preserve" state="translated">De wereldlaag die de lokale capaciteit beschrijft.</target>
       </trans-unit>
       <trans-unit id="The density of capacity consumed by this organism, in voxel columns occupied per organism." xml:space="preserve">
         <source xml:space="preserve">The density of capacity consumed by this organism, in voxel columns occupied per organism.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De capaciteitsdichtheid die dit organisme verbruikt, uitgedrukt in het aantal voxelkolommen dat per organisme wordt ingenomen.</target>
+        <target xml:space="preserve" state="translated">De capaciteitsdichtheid die dit organisme verbruikt, uitgedrukt in het aantal voxelkolommen dat per organisme wordt ingenomen.</target>
       </trans-unit>
       <trans-unit id="The input layers. Cycles are allowed." xml:space="preserve">
         <source xml:space="preserve">The input layers. Cycles are allowed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De invoerlagen. Cycli zijn toegestaan.</target>
+        <target xml:space="preserve" state="translated">De invoerlagen. Cycli zijn toegestaan.</target>
       </trans-unit>
       <trans-unit id="The input layers during init. NO CYCLES ALLOWED." xml:space="preserve">
         <source xml:space="preserve">The input layers during init. NO CYCLES ALLOWED.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De invoerlagen tijdens init. GEEN CYCLI TOEGESTAAN.</target>
+        <target xml:space="preserve" state="translated">De invoerlagen tijdens de initialisatie. GEEN CYCLI TOEGESTAAN.</target>
       </trans-unit>
       <trans-unit id="The layer to modify with this interaction." xml:space="preserve">
         <source xml:space="preserve">The layer to modify with this interaction.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De laag die je met deze interactie kunt aanpassen.</target>
+        <target xml:space="preserve" state="translated">De laag die met deze interactie wordt aangepast.</target>
       </trans-unit>
       <trans-unit id="World Layers" xml:space="preserve">
         <source xml:space="preserve">World Layers</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Wereldlagen</target>
+        <target xml:space="preserve" state="translated">Wereldlagen</target>
       </trans-unit>
       <trans-unit id="The top block of the biome." xml:space="preserve">
         <source xml:space="preserve">The top block of the biome.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het bovenste blok van het biome.</target>
+        <target xml:space="preserve" state="translated">Het bovenste blok van het bioom.</target>
       </trans-unit>
       <trans-unit id="A list of food sources which this animal relies on." xml:space="preserve">
         <source xml:space="preserve">A list of food sources which this animal relies on.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een lijst met voedselbronnen waar dit dier van afhankelijk is.</target>
+        <target xml:space="preserve" state="translated">Een lijst met voedselbronnen waar dit dier van afhankelijk is.</target>
       </trans-unit>
       <trans-unit id="Available calories of food sources in the area to support one animal fully." xml:space="preserve">
         <source xml:space="preserve">Available calories of food sources in the area to support one animal fully.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Beschikbare calorieën uit voedselbronnen in het gebied om één dier volledig te onderhouden.</target>
+        <target xml:space="preserve" state="translated">Beschikbare calorieën uit voedselbronnen in het gebied om één dier volledig te onderhouden.</target>
       </trans-unit>
       <trans-unit id="Target moisture." xml:space="preserve">
         <source xml:space="preserve">Target moisture.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Streef naar vochtigheid.</target>
+        <target xml:space="preserve" state="translated">Streefvochtigheid.</target>
       </trans-unit>
       <trans-unit id="Target temperature." xml:space="preserve">
         <source xml:space="preserve">Target temperature.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Streeftemperatuur.</target>
+        <target xml:space="preserve" state="translated">Streeftemperatuur.</target>
       </trans-unit>
       <trans-unit id="The name of the layer that contains the concentration of the first input." xml:space="preserve">
         <source xml:space="preserve">The name of the layer that contains the concentration of the first input.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De naam van de laag die de concentratie van de eerste invoer bevat.</target>
+        <target xml:space="preserve" state="translated">De naam van de laag die de concentratie van de eerste invoer bevat.</target>
       </trans-unit>
       <trans-unit id="The name of the layer that contains the concentration of the second input." xml:space="preserve">
         <source xml:space="preserve">The name of the layer that contains the concentration of the second input.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De naam van de laag die de concentratie van de tweede invoer bevat.</target>
+        <target xml:space="preserve" state="translated">De naam van de laag die de concentratie van de tweede invoer bevat.</target>
       </trans-unit>
       <trans-unit id="The name of the layer that contains the concentration of the product." xml:space="preserve">
         <source xml:space="preserve">The name of the layer that contains the concentration of the product.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De naam van de laag waarin de concentratie van het product zit.</target>
+        <target xml:space="preserve" state="translated">De naam van de laag waarin de concentratie van het product zit.</target>
       </trans-unit>
       <trans-unit id="The amount of product to create (or, if negative, to remove) when the product of the input concentrations is 1." xml:space="preserve">
         <source xml:space="preserve">The amount of product to create (or, if negative, to remove) when the product of the input concentrations is 1.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De hoeveelheid product die moet worden gemaakt (of, indien negatief, verwijderd) wanneer het product van de inputconcentraties 1 is.</target>
+        <target xml:space="preserve" state="translated">De hoeveelheid product die moet worden gemaakt (of, indien negatief, verwijderd) wanneer het product van de invoerconcentraties 1 is.</target>
       </trans-unit>
       <trans-unit id="Whether the interaction should operate on the special first initialization tick after worldgen (when dependency cycles are not allowed)." xml:space="preserve">
         <source xml:space="preserve">Whether the interaction should operate on the special first initialization tick after worldgen (when dependency cycles are not allowed).</source>
@@ -5415,7 +5415,7 @@
       </trans-unit>
       <trans-unit id="The layer to spread." xml:space="preserve">
         <source xml:space="preserve">The layer to spread.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De laag om te verspreiden.</target>
+        <target xml:space="preserve" state="translated">De laag die zich verspreidt.</target>
       </trans-unit>
       <trans-unit id="The proportion of the layer that spreads to the adjacent locations each tick (on a flat plain)." xml:space="preserve">
         <source xml:space="preserve">The proportion of the layer that spreads to the adjacent locations each tick (on a flat plain).</source>
@@ -5431,19 +5431,19 @@
       </trans-unit>
       <trans-unit id="The name of the layer that defines habitability for this species." xml:space="preserve">
         <source xml:space="preserve">The name of the layer that defines habitability for this species.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De naam van de laag die de leefbaarheid voor deze soort bepaalt.</target>
+        <target xml:space="preserve" state="translated">De naam van de laag die de leefbaarheid voor deze soort bepaalt.</target>
       </trans-unit>
       <trans-unit id="How the two layers are combined." xml:space="preserve">
         <source xml:space="preserve">How the two layers are combined.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Hoe die twee lagen met elkaar worden gecombineerd.</target>
+        <target xml:space="preserve" state="translated">Hoe de twee lagen worden gecombineerd.</target>
       </trans-unit>
       <trans-unit id="The layers involved in the combination." xml:space="preserve">
         <source xml:space="preserve">The layers involved in the combination.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De lagen die bij de combinatie betrokken zijn.</target>
+        <target xml:space="preserve" state="translated">De lagen die bij de combinatie betrokken zijn.</target>
       </trans-unit>
       <trans-unit id="The weights of the layers in the final product/sum." xml:space="preserve">
         <source xml:space="preserve">The weights of the layers in the final product/sum.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het gewicht van de lagen in het eindproduct/de som.</target>
+        <target xml:space="preserve" state="translated">Het gewicht van de lagen in het eindproduct/de som.</target>
       </trans-unit>
       <trans-unit id="New values are throttled to change by this percentage per tick at max." xml:space="preserve">
         <source xml:space="preserve">New values are throttled to change by this percentage per tick at max.</source>
@@ -5459,23 +5459,23 @@
       </trans-unit>
       <trans-unit id="A tile will approach this percentage value of its highest-value neighbor." xml:space="preserve">
         <source xml:space="preserve">A tile will approach this percentage value of its highest-value neighbor.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een tegel zal deze procentuele waarde van zijn buur met de hoogste waarde benaderen.</target>
+        <target xml:space="preserve" state="translated">Een tegel zal deze procentuele waarde van zijn buur met de hoogste waarde benaderen.</target>
       </trans-unit>
       <trans-unit id="Spread-rate drops to zero as height difference approaches this value." xml:space="preserve">
         <source xml:space="preserve">Spread-rate drops to zero as height difference approaches this value.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De verspreidingssnelheid daalt tot nul naarmate het hoogteverschil deze waarde nadert.</target>
+        <target xml:space="preserve" state="translated">De verspreidingssnelheid daalt tot nul naarmate het hoogteverschil deze waarde nadert.</target>
       </trans-unit>
       <trans-unit id="The value approaches the desire value at this rate." xml:space="preserve">
         <source xml:space="preserve">The value approaches the desire value at this rate.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De waarde nadert in dit tempo de gewenste waarde.</target>
+        <target xml:space="preserve" state="translated">De waarde nadert in dit tempo de gewenste waarde.</target>
       </trans-unit>
       <trans-unit id="Base layer which determines the min-value of a location." xml:space="preserve">
         <source xml:space="preserve">Base layer which determines the min-value of a location.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Basislaag die de minimumwaarde van een locatie bepaalt.</target>
+        <target xml:space="preserve" state="translated">Basislaag die de minimumwaarde van een locatie bepaalt.</target>
       </trans-unit>
       <trans-unit id="The layers in the sum." xml:space="preserve">
         <source xml:space="preserve">The layers in the sum.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De lagen in het geheel.</target>
+        <target xml:space="preserve" state="translated">De lagen in de som.</target>
       </trans-unit>
       <trans-unit id="Idle" xml:space="preserve">
         <source xml:space="preserve">Idle</source>
@@ -5484,7 +5484,7 @@
       </trans-unit>
       <trans-unit id="Frequency of craters (should be very low)" xml:space="preserve">
         <source xml:space="preserve">Frequency of craters (should be very low)</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Frequentie van kraters (moet erg laag zijn)</target>
+        <target xml:space="preserve" state="translated">Frequentie van kraters (moet erg laag zijn)</target>
       </trans-unit>
       <trans-unit id="Radius range" xml:space="preserve">
         <source xml:space="preserve">Radius range</source>
@@ -5492,7 +5492,7 @@
       </trans-unit>
       <trans-unit id="Depth range (percent of radius)" xml:space="preserve">
         <source xml:space="preserve">Depth range (percent of radius)</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dieptebereik (procent van de straal)</target>
+        <target xml:space="preserve" state="translated">Dieptebereik (percentage van de straal)</target>
       </trans-unit>
       <trans-unit id="Produces: {0}w" xml:space="preserve">
         <source xml:space="preserve">Produces: <ph id="0">{0}</ph>w</source>
@@ -5508,27 +5508,27 @@
       </trans-unit>
       <trans-unit id="Starting Camp" xml:space="preserve">
         <source xml:space="preserve">Starting Camp</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Startkamp</target>
+        <target xml:space="preserve" state="translated">Startkamp</target>
       </trans-unit>
       <trans-unit id="Toll is disabled. Check status." xml:space="preserve">
         <source xml:space="preserve">Toll is disabled. Check status.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Toll is uitgeschakeld. Controleer de status.</target>
+        <target xml:space="preserve" state="translated">De tol is uitgeschakeld. Controleer de status.</target>
       </trans-unit>
       <trans-unit id="Object does not have an owner, cannot be used." xml:space="preserve">
         <source xml:space="preserve">Object does not have an owner, cannot be used.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het object heeft geen eigenaar en kan niet worden gebruikt.</target>
+        <target xml:space="preserve" state="translated">Het object heeft geen eigenaar en kan niet worden gebruikt.</target>
       </trans-unit>
       <trans-unit id="Toll is already activated, wait for it to expire (owner can turn off manually)." xml:space="preserve">
         <source xml:space="preserve">Toll is already activated, wait for it to expire (owner can turn off manually).</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De tol is al geactiveerd, wacht tot deze verloopt (de eigenaar kan deze handmatig uitschakelen).</target>
+        <target xml:space="preserve" state="translated">De tol is al geactiveerd; wacht tot hij verloopt (de eigenaar kan hem handmatig uitschakelen).</target>
       </trans-unit>
       <trans-unit id="(Proposed by {0})" xml:space="preserve">
         <source xml:space="preserve">(Proposed by <ph id="0">{0}</ph>)</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">(Voorgesteld door <ph id="0">{0}</ph>)</target>
+        <target xml:space="preserve" state="translated">(Voorgesteld door <ph id="0">{0}</ph>)</target>
       </trans-unit>
       <trans-unit id="{0} Yes : {1} No" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Yes : <ph id="1">{1}</ph> No</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> Ja : <ph id="1">{1}</ph> Nee</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> Ja : <ph id="1">{1}</ph> Nee</target>
       </trans-unit>
       <trans-unit id="Voting ends in {0}" xml:space="preserve">
         <source xml:space="preserve">Voting ends in <ph id="0">{0}</ph></source>
@@ -5593,7 +5593,7 @@
       </trans-unit>
       <trans-unit id="Environment Data" xml:space="preserve">
         <source xml:space="preserve">Environment Data</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Milieugegevens</target>
+        <target xml:space="preserve" state="translated">Milieugegevens</target>
       </trans-unit>
       <trans-unit id="Missing:" xml:space="preserve">
         <source xml:space="preserve">Missing:</source>
@@ -5601,11 +5601,11 @@
       </trans-unit>
       <trans-unit id="Add User...." xml:space="preserve">
         <source xml:space="preserve">Add User....</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gebruiker toevoegen...</target>
+        <target xml:space="preserve" state="translated">Gebruiker toevoegen....</target>
       </trans-unit>
       <trans-unit id="Show / Hide" xml:space="preserve">
         <source xml:space="preserve">Show / Hide</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Weergeven / Verbergen</target>
+        <target xml:space="preserve" state="translated">Tonen / Verbergen</target>
       </trans-unit>
       <trans-unit id="Camera" xml:space="preserve">
         <source xml:space="preserve">Camera</source>
@@ -5629,7 +5629,7 @@
       </trans-unit>
       <trans-unit id="Recipe Name" xml:space="preserve">
         <source xml:space="preserve">Recipe Name</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Naam recept</target>
+        <target xml:space="preserve" state="translated">Receptnaam</target>
       </trans-unit>
       <trans-unit id="Online" xml:space="preserve">
         <source xml:space="preserve">Online</source>
@@ -5685,7 +5685,7 @@
       </trans-unit>
       <trans-unit id="Meteor Spotted." xml:space="preserve">
         <source xml:space="preserve">Meteor Spotted.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Meteoor gesignaleerd.</target>
+        <target xml:space="preserve" state="translated">Meteoor gesignaleerd.</target>
       </trans-unit>
       <trans-unit id="Time to get started." xml:space="preserve">
         <source xml:space="preserve">Time to get started.</source>
@@ -5693,7 +5693,7 @@
       </trans-unit>
       <trans-unit id="All players have access" xml:space="preserve">
         <source xml:space="preserve">All players have access</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Alle spelers hebben toegang</target>
+        <target xml:space="preserve" state="translated">Alle spelers hebben toegang</target>
       </trans-unit>
       <trans-unit id="Search..." xml:space="preserve">
         <source xml:space="preserve">Search...</source>
@@ -5701,7 +5701,7 @@
       </trans-unit>
       <trans-unit id="The following players will have access" xml:space="preserve">
         <source xml:space="preserve">The following players will have access</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De volgende spelers krijgen toegang</target>
+        <target xml:space="preserve" state="translated">De volgende spelers krijgen toegang</target>
       </trans-unit>
       <trans-unit id="Action:" xml:space="preserve">
         <source xml:space="preserve">Action:</source>
@@ -5737,7 +5737,7 @@
       </trans-unit>
       <trans-unit id="Fee Per Item: " xml:space="preserve">
         <source xml:space="preserve">Fee Per Item: </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kosten per item: </target>
+        <target xml:space="preserve" state="translated">Kosten per voorwerp: </target>
       </trans-unit>
       <trans-unit id="&lt;Unnamed&gt;​" xml:space="preserve">
         <source xml:space="preserve">&lt;Unnamed&gt;​</source>
@@ -5770,7 +5770,7 @@
       </trans-unit>
       <trans-unit id="Community collaboration:" xml:space="preserve">
         <source xml:space="preserve">Community collaboration:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Samenwerking binnen de community:</target>
+        <target xml:space="preserve" state="translated">Samenwerking binnen de gemeenschap:</target>
       </trans-unit>
       <trans-unit id="Sometimes" xml:space="preserve">
         <source xml:space="preserve">Sometimes</source>
@@ -8726,7 +8726,7 @@
       </trans-unit>
       <trans-unit id="Personal Account" xml:space="preserve">
         <source xml:space="preserve">Personal Account</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Persoonlijk account</target>
+        <target xml:space="preserve" state="translated">Persoonlijke rekening</target>
       </trans-unit>
       <trans-unit id="Can't transfer to the same account." xml:space="preserve">
         <source xml:space="preserve">Can't transfer to the same account.</source>
@@ -18606,7 +18606,7 @@
       </trans-unit>
       <trans-unit id="Steel Bar" xml:space="preserve">
         <source xml:space="preserve">Steel Bar</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stalen staaf</target>
+        <target xml:space="preserve" state="translated">Staalstaaf</target>
       </trans-unit>
       <trans-unit id="Refined bar of steel." xml:space="preserve">
         <source xml:space="preserve">Refined bar of steel.</source>
@@ -27053,7 +27053,7 @@
       </trans-unit>
       <trans-unit id="Upgrade" xml:space="preserve">
         <source xml:space="preserve">Upgrade</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Upgrade</target>
+        <target xml:space="preserve" state="translated">Verbetering</target>
       </trans-unit>
       <trans-unit id="Can't get parent process with ID: {0}. Seems it already exited, shutting down. Error message: {1}" xml:space="preserve">
         <source xml:space="preserve">Can't get parent process with ID: <ph id="0">{0}</ph>. Seems it already exited, shutting down. Error message: <ph id="1">{1}</ph></source>
@@ -28554,7 +28554,7 @@
       </trans-unit>
       <trans-unit id="Move In Fee" xml:space="preserve">
         <source xml:space="preserve">Move In Fee</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verhuiskosten</target>
+        <target xml:space="preserve" state="translated">Verhuiskosten</target>
       </trans-unit>
       <trans-unit id="Move In Fee Currency" xml:space="preserve">
         <source xml:space="preserve">Move In Fee Currency</source>
@@ -59862,7 +59862,7 @@
       </trans-unit>
       <trans-unit id="Cultural Value" xml:space="preserve">
         <source xml:space="preserve">Cultural Value</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Culturele waarde</target>
+        <target xml:space="preserve" state="translated">Culturele waarde</target>
       </trans-unit>
       <trans-unit id="Cultural Object Sold" xml:space="preserve">
         <source xml:space="preserve">Cultural Object Sold</source>
