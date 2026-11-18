@@ -9366,7 +9366,7 @@
       </trans-unit>
       <trans-unit id="WebServerPlugin" xml:space="preserve">
         <source xml:space="preserve">WebServerPlugin</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">WebServerPlugin</target>
+        <target xml:space="preserve" state="translated">Plugin de serveur web</target>
       </trans-unit>
       <trans-unit id="DisasterPlugin" xml:space="preserve">
         <source xml:space="preserve">DisasterPlugin</source>
@@ -60042,7 +60042,7 @@
       </trans-unit>
       <trans-unit id="Bath" xml:space="preserve">
         <source xml:space="preserve">Bath</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bath</target>
+        <target xml:space="preserve" state="translated">Bain</target>
       </trans-unit>
       <trans-unit id="Processsed Flaxseed Oil" xml:space="preserve">
         <source xml:space="preserve">Processsed Flaxseed Oil</source>
@@ -61359,7 +61359,7 @@
       </trans-unit>
       <trans-unit id="Heavy Equipment: Electronics" xml:space="preserve">
         <source xml:space="preserve">Heavy Equipment: Electronics</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Matériel lourd : Électronique</target>
+        <target xml:space="preserve" state="translated">Matériel lourd: Électronique</target>
       </trans-unit>
       <trans-unit id="Increased craft speed of baked vegetables." xml:space="preserve">
         <source xml:space="preserve">Increased craft speed of baked vegetables.</source>
@@ -61929,7 +61929,7 @@
       </trans-unit>
       <trans-unit id="Tulip" xml:space="preserve">
         <source xml:space="preserve">Tulip</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Tulip</target>
+        <target xml:space="preserve" state="translated">Tulipe</target>
       </trans-unit>
       <trans-unit id="Plant to grow agave" xml:space="preserve">
         <source xml:space="preserve">Plant to grow agave</source>
@@ -61965,7 +61965,7 @@
       </trans-unit>
       <trans-unit id="Tulip Seed" xml:space="preserve">
         <source xml:space="preserve">Tulip Seed</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Tulip Seed</target>
+        <target xml:space="preserve" state="translated">Graine de tulipe</target>
       </trans-unit>
       <trans-unit id="Tulip Seed Pack" xml:space="preserve">
         <source xml:space="preserve">Tulip Seed Pack</source>
@@ -71073,14 +71073,17 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Dumps pollution values for the claim you're standing on.">
         <source xml:space="preserve">Dumps pollution values for the claim you're standing on.</source>
+        <target state="translated">Affiche les valeurs de pollution de la parcelle sur laquelle vous vous trouvez.</target>
         <note>Help text for chat command /info</note>
       </trans-unit>
       <trans-unit id="wipe">
         <source xml:space="preserve">wipe</source>
+        <target state="translated">Effacer</target>
         <note>Chat command</note>
       </trans-unit>
       <trans-unit id="Clears all pollution layers and the buffer cache (resets the pollution system).">
         <source xml:space="preserve">Clears all pollution layers and the buffer cache (resets the pollution system).</source>
+        <target state="translated">Efface toutes les couches de pollution ainsi que le cache tampon (réinitialise le système de pollution).</target>
         <note>Help text for chat command /wipe</note>
       </trans-unit>
       <trans-unit id="Organic remediation blend that helps soil recover from light (Trash/sewage) pollution. Apply to a claim to gradually reduce its Soil Pollution over a day.">
@@ -71088,12 +71091,14 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Soil Decontaminant">
         <source xml:space="preserve">Soil Decontaminant</source>
+        <target state="translated">Décontaminant pour sols</target>
       </trans-unit>
       <trans-unit id="Mineral binder that immobilizes heavy-metal contamination. Apply to a claim to reduce its Heavy Mineral Pollution — the only way down once it passes the self-cleaning ceiling.">
         <source xml:space="preserve">Mineral binder that immobilizes heavy-metal contamination. Apply to a claim to reduce its Heavy Mineral Pollution — the only way down once it passes the self-cleaning ceiling.</source>
       </trans-unit>
       <trans-unit id="Heavy Mineral Decontaminant">
         <source xml:space="preserve">Heavy Mineral Decontaminant</source>
+        <target state="translated">Décontaminant pour métaux lourds</target>
       </trans-unit>
       <trans-unit id="Industrial reagent that neutralizes toxic chemical contamination. Costly to produce, but the only way to recover land past the chemical self-cleaning ceiling." xml:space="preserve">
         <source xml:space="preserve">Industrial reagent that neutralizes toxic chemical contamination. Costly to produce, but the only way to recover land past the chemical self-cleaning ceiling.</source>
@@ -71338,6 +71343,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Heavy Mineral Natural Decay Ceiling">
         <source xml:space="preserve">Heavy Mineral Natural Decay Ceiling</source>
+        <target state="translated">Seuil maximal de dégradation naturelle des métaux lourds</target>
       </trans-unit>
       <trans-unit id="Chemical Natural Decay Ceiling">
         <source xml:space="preserve">Chemical Natural Decay Ceiling</source>
@@ -71380,9 +71386,11 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Soil Pollution">
         <source xml:space="preserve">Soil Pollution</source>
+        <target state="translated">Pollution des sols</target>
       </trans-unit>
       <trans-unit id="Heavy Mineral Pollution">
         <source xml:space="preserve">Heavy Mineral Pollution</source>
+        <target state="translated">Pollution par les métaux lourds</target>
       </trans-unit>
       <trans-unit id="Chemical Pollution">
         <source xml:space="preserve">Chemical Pollution</source>
@@ -71395,9 +71403,11 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Soil Decontamination Pending">
         <source xml:space="preserve">Soil Decontamination Pending</source>
+        <target state="translated">Décontamination des sols en attente</target>
       </trans-unit>
       <trans-unit id="Heavy Mineral Decontamination Pending">
         <source xml:space="preserve">Heavy Mineral Decontamination Pending</source>
+        <target state="translated">Décontamination des métaux lourds en attente</target>
       </trans-unit>
       <trans-unit id="Chemical Decontamination Pending">
         <source xml:space="preserve">Chemical Decontamination Pending</source>
@@ -71720,9 +71730,11 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="Soil Pollution: {0}">
         <source xml:space="preserve">Soil Pollution: <ph id="0">{0}</ph></source>
+        <target state="translated">Pollution des sols : <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Heavy Mineral Pollution: {0}">
         <source xml:space="preserve">Heavy Mineral Pollution: <ph id="0">{0}</ph></source>
+        <target state="translated">Pollution par les métaux lourds: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Chemical Pollution: {0}">
         <source xml:space="preserve">Chemical Pollution: <ph id="0">{0}</ph></source>
@@ -71792,6 +71804,7 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="Heavy Mineral {0}">
         <source xml:space="preserve">Heavy Mineral <ph id="0">{0}</ph></source>
+        <target state="translated">Métaux lourds <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Chemical {0}">
         <source xml:space="preserve">Chemical <ph id="0">{0}</ph></source>
@@ -72201,6 +72214,7 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="Heavy duty steel-toed boots.">
         <source xml:space="preserve">Heavy duty steel-toed boots.</source>
+        <target state="translated">Bottes de sécurité à coque en acier</target>
       </trans-unit>
       <trans-unit id="Two-toned suede shoes.">
         <source xml:space="preserve">Two-toned suede shoes.</source>
@@ -72911,9 +72925,11 @@ This is an official Eco server provided by Strange Loop Games.</source>
       </trans-unit>
       <trans-unit id="Soil Decontamination">
         <source xml:space="preserve">Soil Decontamination</source>
+        <target state="translated">Décontamination des sols</target>
       </trans-unit>
       <trans-unit id="Heavy Mineral Decontamination">
         <source xml:space="preserve">Heavy Mineral Decontamination</source>
+        <target state="translated">Décontamination des métaux lourds</target>
       </trans-unit>
       <trans-unit id="Chemical Decontamination">
         <source xml:space="preserve">Chemical Decontamination</source>
