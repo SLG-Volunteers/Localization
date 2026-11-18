@@ -1682,7 +1682,7 @@
       </trans-unit>
       <trans-unit id="Research Table" xml:space="preserve">
         <source xml:space="preserve">Research Table</source>
-        <target xml:space="preserve" state="translated">Onderzoek tafel</target>
+        <target xml:space="preserve" state="translated">Onderzoekstafel</target>
       </trans-unit>
       <trans-unit id="Rolling Mill" xml:space="preserve">
         <source xml:space="preserve">Rolling Mill</source>
@@ -6533,11 +6533,11 @@
       </trans-unit>
       <trans-unit id="Retrieve the {0} from your tent and select it." xml:space="preserve">
         <source xml:space="preserve">Retrieve the <ph id="0">{0}</ph> from your tent and select it.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Haal de <ph id="0">{0}</ph> uit je tent en selecteer deze.</target>
+        <target xml:space="preserve" state="translated">Haal de <ph id="0">{0}</ph> uit je tent en selecteer deze.</target>
       </trans-unit>
       <trans-unit id="Mouse over this text link to view how to build or find a research table: {0}" xml:space="preserve">
         <source xml:space="preserve">Mouse over this text link to view how to build or find a research table: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Beweeg je muis over deze tekstlink om te zien hoe je een onderzoekstabel kunt bouwen of vinden: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Beweeg je muis over deze tekstlink om te zien hoe je een onderzoekstafel kunt bouwen of vinden: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Discord" xml:space="preserve">
         <source xml:space="preserve">Discord</source>
@@ -6545,11 +6545,11 @@
       </trans-unit>
       <trans-unit id="The Meteor" xml:space="preserve">
         <source xml:space="preserve">The Meteor</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De meteoriet</target>
+        <target xml:space="preserve" state="translated">De meteoor</target>
       </trans-unit>
       <trans-unit id="Work Orders" xml:space="preserve">
         <source xml:space="preserve">Work Orders</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Werkopdrachten</target>
+        <target xml:space="preserve" state="translated">Werkopdrachten</target>
       </trans-unit>
       <trans-unit id="Claiming Land" xml:space="preserve">
         <source xml:space="preserve">Claiming Land</source>
@@ -6565,11 +6565,11 @@
       </trans-unit>
       <trans-unit id="Carrying capacity is limited and you can only carry one load of dirt at a time. Later, you can use vehicles to carry more." xml:space="preserve">
         <source xml:space="preserve">Carrying capacity is limited and you can only carry one load of dirt at a time. Later, you can use vehicles to carry more.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De laadcapaciteit is beperkt en je kunt maar één lading grond per keer vervoeren. Later kun je voertuigen gebruiken om meer te vervoeren.</target>
+        <target xml:space="preserve" state="translated">De laadcapaciteit is beperkt en je kunt maar één lading aarde per keer dragen. Later kun je voertuigen gebruiken om meer te vervoeren.</target>
       </trans-unit>
       <trans-unit id="Place the dirt by right-clicking a location." xml:space="preserve">
         <source xml:space="preserve">Place the dirt by right-clicking a location.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Plaats de aarde door met de rechtermuisknop op een locatie te klikken.</target>
+        <target xml:space="preserve" state="translated">Plaats de aarde door met de rechtermuisknop op een locatie te klikken.</target>
       </trans-unit>
       <trans-unit id="Food" xml:space="preserve">
         <source xml:space="preserve">Food</source>
@@ -6577,15 +6577,15 @@
       </trans-unit>
       <trans-unit id="To obtain an undiscovered skill, you'll need to craft skillbooks at a Research Table." xml:space="preserve">
         <source xml:space="preserve">To obtain an undiscovered skill, you'll need to craft skillbooks at a Research Table.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Om een nog onontdekte vaardigheid te verkrijgen, moet je vaardigheidsboeken maken aan een onderzoekstafel.</target>
+        <target xml:space="preserve" state="translated">Om een nog onontdekte vaardigheid te krijgen, moet je vaardigheidsboeken maken aan een onderzoekstafel.</target>
       </trans-unit>
       <trans-unit id="You may need to wait until it orbits to this side of the world." xml:space="preserve">
         <source xml:space="preserve">You may need to wait until it orbits to this side of the world.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Misschien moet je wachten tot hij aan deze kant van de wereld in een baan om de aarde draait.</target>
+        <target xml:space="preserve" state="translated">Misschien moet je wachten tot hij in zijn baan aan deze kant van de wereld komt.</target>
       </trans-unit>
       <trans-unit id="Since all your resources to do this come from the environment, you could very well destroy the planet before the meteor even impacts." xml:space="preserve">
         <source xml:space="preserve">Since all your resources to do this come from the environment, you could very well destroy the planet before the meteor even impacts.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Aangezien al je middelen om dit te doen uit de omgeving komen, zou je de planeet heel goed kunnen vernietigen nog voordat de meteoor inslaat.</target>
+        <target xml:space="preserve" state="translated">Omdat alle grondstoffen die je hiervoor nodig hebt uit de natuur komen, zou je de planeet zomaar kunnen vernietigen nog voordat de meteoor inslaat.</target>
       </trans-unit>
       <trans-unit id="these values:" xml:space="preserve">
         <source xml:space="preserve">these values:</source>
@@ -6597,19 +6597,19 @@
       </trans-unit>
       <trans-unit id="Together with your fellow citizens, you'll need to advance civilization to a level of technology capable of stopping the meteor." xml:space="preserve">
         <source xml:space="preserve">Together with your fellow citizens, you'll need to advance civilization to a level of technology capable of stopping the meteor.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Samen met je medeburgers moet je de beschaving naar een technologisch niveau brengen dat in staat is om de meteoriet te stoppen.</target>
+        <target xml:space="preserve" state="translated">Samen met je medeburgers moet je de beschaving naar een technologisch niveau brengen waarmee de meteoor tegengehouden kan worden.</target>
       </trans-unit>
       <trans-unit id="You'll advance technology and acquire massive power over the environment." xml:space="preserve">
         <source xml:space="preserve">You'll advance technology and acquire massive power over the environment.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je ontwikkelt technologie en krijgt enorme macht over het milieu.</target>
+        <target xml:space="preserve" state="translated">Je ontwikkelt technologie en krijgt enorme macht over de natuur.</target>
       </trans-unit>
       <trans-unit id="You'll create cities, markets, and a thriving industry." xml:space="preserve">
         <source xml:space="preserve">You'll create cities, markets, and a thriving industry.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je bouwt steden, markten en een bloeiende industrie.</target>
+        <target xml:space="preserve" state="translated">Je bouwt steden, markten en een bloeiende industrie.</target>
       </trans-unit>
       <trans-unit id="You'll elect leaders and pass laws to grow your economy and protect the ecosystem." xml:space="preserve">
         <source xml:space="preserve">You'll elect leaders and pass laws to grow your economy and protect the ecosystem.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kiest leiders en neemt wetten aan om je economie te laten groeien en het ecosysteem te beschermen.</target>
+        <target xml:space="preserve" state="translated">Je kiest leiders en neemt wetten aan om je economie te laten groeien en het ecosysteem te beschermen.</target>
       </trans-unit>
       <trans-unit id="Selection" xml:space="preserve">
         <source xml:space="preserve">Selection</source>
@@ -6641,15 +6641,15 @@
       </trans-unit>
       <trans-unit id="You are not the owner of this deed." xml:space="preserve">
         <source xml:space="preserve">You are not the owner of this deed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je bent niet de eigenaar van dit document.</target>
+        <target xml:space="preserve" state="translated">Je bent niet de eigenaar van deze akte.</target>
       </trans-unit>
       <trans-unit id="This sale listing no longer exists." xml:space="preserve">
         <source xml:space="preserve">This sale listing no longer exists.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze aanbieding bestaat niet meer.</target>
+        <target xml:space="preserve" state="translated">Deze aanbieding bestaat niet meer.</target>
       </trans-unit>
       <trans-unit id="Cannot trade: Desk is not in a valid state. Check the Status tab for more details." xml:space="preserve">
         <source xml:space="preserve">Cannot trade: Desk is not in a valid state. Check the Status tab for more details.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kan niet ruilen: Desk is niet in een geldige status. Kijk op het tabblad Status voor meer details.</target>
+        <target xml:space="preserve" state="translated">Handelen niet mogelijk: de balie is niet in een geldige staat. Kijk op het tabblad Status voor meer details.</target>
       </trans-unit>
       <trans-unit id="Need to give your currency a backing item before you can craft it." xml:space="preserve">
         <source xml:space="preserve">Need to give your currency a backing item before you can craft it.</source>
@@ -6661,35 +6661,35 @@
       </trans-unit>
       <trans-unit id="No meteor detected." xml:space="preserve">
         <source xml:space="preserve">No meteor detected.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Geen meteoriet gedetecteerd.</target>
+        <target xml:space="preserve" state="translated">Geen meteoor gedetecteerd.</target>
       </trans-unit>
       <trans-unit id="No objects to activate" xml:space="preserve">
         <source xml:space="preserve">No objects to activate</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Geen objecten om te activeren</target>
+        <target xml:space="preserve" state="translated">Geen objecten om te activeren</target>
       </trans-unit>
       <trans-unit id="All networked objects must be enabled and powered before they can be activated" xml:space="preserve">
         <source xml:space="preserve">All networked objects must be enabled and powered before they can be activated</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Alle netwerkobjecten moeten zijn ingeschakeld en van stroom worden voorzien voordat ze kunnen worden geactiveerd</target>
+        <target xml:space="preserve" state="translated">Alle gekoppelde objecten moeten aan staan en stroom hebben voordat ze geactiveerd kunnen worden</target>
       </trans-unit>
       <trans-unit id="Not enough power to activate all the networked objects." xml:space="preserve">
         <source xml:space="preserve">Not enough power to activate all the networked objects.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Niet genoeg stroom om alle gekoppelde objecten te activeren.</target>
+        <target xml:space="preserve" state="translated">Niet genoeg stroom om alle gekoppelde objecten te activeren.</target>
       </trans-unit>
       <trans-unit id="Ready to activate! Waiting for meteor to enter targeting window." xml:space="preserve">
         <source xml:space="preserve">Ready to activate! Waiting for meteor to enter targeting window.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Klaar om te activeren! Wachten tot de meteoor het doelvenster binnenkomt.</target>
+        <target xml:space="preserve" state="translated">Klaar om te activeren! Wachten tot de meteoor binnen het doelvenster komt.</target>
       </trans-unit>
       <trans-unit id="All networked objects ready to activate!" xml:space="preserve">
         <source xml:space="preserve">All networked objects ready to activate!</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Alle netwerkobjecten zijn klaar om geactiveerd te worden!</target>
+        <target xml:space="preserve" state="translated">Alle gekoppelde objecten zijn klaar om geactiveerd te worden!</target>
       </trans-unit>
       <trans-unit id="Placed on solid ground." xml:space="preserve">
         <source xml:space="preserve">Placed on solid ground.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Op stevige grond geplaatst.</target>
+        <target xml:space="preserve" state="translated">Op stevige grond geplaatst.</target>
       </trans-unit>
       <trans-unit id="This is already owned by {0}" xml:space="preserve">
         <source xml:space="preserve">This is already owned by <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dit is al eigendom van <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Dit is al eigendom van <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="You claimed {0}" xml:space="preserve">
         <source xml:space="preserve">You claimed <ph id="0">{0}</ph></source>
@@ -6697,24 +6697,24 @@
       </trans-unit>
       <trans-unit id="Can't pay {0} in debt, you only owe {1}." xml:space="preserve">
         <source xml:space="preserve">Can't pay <ph id="0">{0}</ph> in debt, you only owe <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kun je niet betalen <ph id="0">{0}</ph>, je hebt alleen nog <ph id="1">{1}</ph> te betalen.</target>
+        <target xml:space="preserve" state="translated">Je kunt geen <ph id="0">{0}</ph> schuld aflossen, je bent nog maar <ph id="1">{1}</ph> verschuldigd.</target>
       </trans-unit>
       <trans-unit id="You forgave {0} debt to {1}.  Debt is now cancelled." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Debt is now cancelled.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je hebt <ph id="0">{0}</ph> de schuld aan <ph id="1">{1}</ph> kwijtgescholden.  De schuld is nu kwijtgescholden.</target>
+        <target xml:space="preserve" state="translated">Je hebt <ph id="1">{1}</ph> een schuld van <ph id="0">{0}</ph> kwijtgescholden. De schuld is nu vervallen.</target>
         <note from="developer">{0} = Amount of currency (10 Dollars) {1} = Username</note>
       </trans-unit>
       <trans-unit id="You forgave {0} debt to {1}.  {2} debt remains." xml:space="preserve">
         <source xml:space="preserve">You forgave <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  <ph id="2">{2}</ph> debt remains.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je hebt <ph id="0">{0}</ph> schuld aan <ph id="1">{1}</ph> kwijtgescholden.  <ph id="2">{2}</ph> schuld blijft bestaan.</target>
+        <target xml:space="preserve" state="translated">Je hebt <ph id="1">{1}</ph> een schuld van <ph id="0">{0}</ph> kwijtgescholden. Er blijft nog <ph id="2">{2}</ph> schuld over.</target>
       </trans-unit>
       <trans-unit id="Paid off {0} debt to {1}.  Your debt is now paid off." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  Your debt is now paid off.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> heeft de schuld aan <ph id="1">{1}</ph> afgelost.  Je schuld is nu afgelost.</target>
+        <target xml:space="preserve" state="translated">Je hebt <ph id="0">{0}</ph> schuld aan <ph id="1">{1}</ph> afgelost. Je schuld is nu volledig afgelost.</target>
       </trans-unit>
       <trans-unit id="Paid off {0} debt to {1}.  You now owe {2}." xml:space="preserve">
         <source xml:space="preserve">Paid off <ph id="0">{0}</ph> debt to <ph id="1">{1}</ph>.  You now owe <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> heeft de schuld aan <ph id="1">{1}</ph> afbetaald.  Je bent nu <ph id="2">{2}</ph> verschuldigd.</target>
+        <target xml:space="preserve" state="translated">Je hebt <ph id="0">{0}</ph> schuld aan <ph id="1">{1}</ph> afgelost. Je bent nu nog <ph id="2">{2}</ph> verschuldigd.</target>
       </trans-unit>
       <trans-unit id="&lt;unassigned&gt;" xml:space="preserve">
         <source xml:space="preserve">&lt;unassigned&gt;</source>
@@ -6730,68 +6730,68 @@
       </trans-unit>
       <trans-unit id="Craft time" xml:space="preserve">
         <source xml:space="preserve">Craft time</source>
-        <target xml:space="preserve" state="translated">Vervaardigtijd</target>
+        <target xml:space="preserve" state="translated">Maaktijd</target>
       </trans-unit>
       <trans-unit id="Only {0} is allowed to do that." xml:space="preserve">
         <source xml:space="preserve">Only <ph id="0">{0}</ph> is allowed to do that.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Alleen <ph id="0">{0}</ph> mag dat doen.</target>
+        <target xml:space="preserve" state="translated">Alleen <ph id="0">{0}</ph> mag dat doen.</target>
       </trans-unit>
       <trans-unit id="This deed is unowned. Its settings can't be changed." xml:space="preserve">
         <source xml:space="preserve">This deed is unowned. Its settings can't be changed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dit document heeft geen eigenaar. De instellingen kunnen niet worden gewijzigd.</target>
+        <target xml:space="preserve" state="translated">Deze akte heeft geen eigenaar. De instellingen ervan kunnen niet worden gewijzigd.</target>
       </trans-unit>
       <trans-unit id="{0} and {1} have different owners." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> and <ph id="1">{1}</ph> have different owners.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> en <ph id="1">{1}</ph> hebben verschillende eigenaren.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> en <ph id="1">{1}</ph> hebben verschillende eigenaren.</target>
       </trans-unit>
       <trans-unit id="'{0}' is not a valid material name" xml:space="preserve">
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid material name</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">'<ph id="0">{0}</ph>' is geen geldige materiaalaanwijzing</target>
+        <target xml:space="preserve" state="translated">'<ph id="0">{0}</ph>' is geen geldige materiaalnaam</target>
       </trans-unit>
       <trans-unit id="No plant species named '{0}'.  Valid species are: {1}" xml:space="preserve">
         <source xml:space="preserve">No plant species named '<ph id="0">{0}</ph>'.  Valid species are: <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Er bestaat geen plantensoort met de naam '<ph id="0">{0}</ph>'.  Geldige soorten zijn: <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Er bestaat geen plantensoort met de naam '<ph id="0">{0}</ph>'.  Geldige soorten zijn: <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="'{0}' is not a valid block type name." xml:space="preserve">
         <source xml:space="preserve">'<ph id="0">{0}</ph>' is not a valid block type name.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">'<ph id="0">{0}</ph>' is geen geldige naam voor een bloktype.</target>
+        <target xml:space="preserve" state="translated">'<ph id="0">{0}</ph>' is geen geldige naam voor een bloktype.</target>
       </trans-unit>
       <trans-unit id="Saving the world...." xml:space="preserve">
         <source xml:space="preserve">Saving the world....</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De wereld redden...</target>
+        <target xml:space="preserve" state="translated">De wereld wordt opgeslagen....</target>
       </trans-unit>
       <trans-unit id="User" xml:space="preserve">
         <source xml:space="preserve">User</source>
-        <target xml:space="preserve" state="translated">does</target>
+        <target xml:space="preserve" state="translated">Gebruiker</target>
         <note from="developer">As in the user type on the server</note>
       </trans-unit>
       <trans-unit id="int" xml:space="preserve">
         <source xml:space="preserve">int</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">int</target>
+        <target xml:space="preserve" state="translated">int</target>
         <note from="developer">As in the c# integer type</note>
       </trans-unit>
       <trans-unit id="float" xml:space="preserve">
         <source xml:space="preserve">float</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">float</target>
+        <target xml:space="preserve" state="translated">float</target>
         <note from="developer">As in the c# float type</note>
       </trans-unit>
       <trans-unit id="string" xml:space="preserve">
         <source xml:space="preserve">string</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">string</target>
+        <target xml:space="preserve" state="translated">string</target>
         <note from="developer">As in the c# string type</note>
       </trans-unit>
       <trans-unit id="bool" xml:space="preserve">
         <source xml:space="preserve">bool</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">bool</target>
+        <target xml:space="preserve" state="translated">bool</target>
         <note from="developer">As in the c# boolean type</note>
       </trans-unit>
       <trans-unit id="Regenerated {0}. It may take up to ten minutes to see the immediate consequences in the world." xml:space="preserve">
         <source xml:space="preserve">Regenerated <ph id="0">{0}</ph>. It may take up to ten minutes to see the immediate consequences in the world.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> opnieuw gegenereerd. Het kan tot tien minuten duren voordat je de directe gevolgen in de wereld ziet.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> opnieuw gegenereerd. Het kan tot tien minuten duren voordat je de directe gevolgen in de wereld ziet.</target>
       </trans-unit>
       <trans-unit id="Regenerating {0} has no effect - its initialization is managed by the legacy world layers system." xml:space="preserve">
         <source xml:space="preserve">Regenerating <ph id="0">{0}</ph> has no effect - its initialization is managed by the legacy world layers system.</source>
-        <target xml:space="preserve" state="translated">Het regenereren van <ph id="0">{0}</ph> heeft geen effect – de initialisatie wordt beheerd door het verouderde world layers-systeem.</target>
+        <target xml:space="preserve" state="translated">Het regenereren van <ph id="0">{0}</ph> heeft geen effect – de initialisatie wordt beheerd door het verouderde wereldlagensysteem.</target>
       </trans-unit>
       <trans-unit id="Day" xml:space="preserve">
         <source xml:space="preserve">Day</source>
@@ -6811,11 +6811,11 @@
       </trans-unit>
       <trans-unit id="This world has an attached Discord server!" xml:space="preserve">
         <source xml:space="preserve">This world has an attached Discord server!</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze wereld heeft een bijbehorende Discord-server!</target>
+        <target xml:space="preserve" state="translated">Deze wereld heeft een bijbehorende Discord-server!</target>
       </trans-unit>
       <trans-unit id="Sends a signal to surrounding objects." xml:space="preserve">
         <source xml:space="preserve">Sends a signal to surrounding objects.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stuurt een signaal naar omringende objecten.</target>
+        <target xml:space="preserve" state="translated">Stuurt een signaal naar omringende objecten.</target>
       </trans-unit>
       <trans-unit id="Logic Gate" xml:space="preserve">
         <source xml:space="preserve">Logic Gate</source>
@@ -6823,11 +6823,11 @@
       </trans-unit>
       <trans-unit id="Toggle on any touching wires and electronic objects." xml:space="preserve">
         <source xml:space="preserve">Toggle on any touching wires and electronic objects.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Schakel alle draden en elektronische voorwerpen in die elkaar raken.</target>
+        <target xml:space="preserve" state="translated">Schakelt alle draden en elektronische objecten die het raakt aan of uit.</target>
       </trans-unit>
       <trans-unit id="Connects electronic components." xml:space="preserve">
         <source xml:space="preserve">Connects electronic components.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verbindt elektronische componenten.</target>
+        <target xml:space="preserve" state="translated">Verbindt elektronische onderdelen.</target>
       </trans-unit>
       <trans-unit id="Face" xml:space="preserve">
         <source xml:space="preserve">Face</source>
@@ -6835,19 +6835,19 @@
       </trans-unit>
       <trans-unit id="This piece of corn needs a good slathering of butter to curb that burnt taste." xml:space="preserve">
         <source xml:space="preserve">This piece of corn needs a good slathering of butter to curb that burnt taste.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dit stukje maïs heeft een flinke klodder boter nodig om die verbrande smaak te temperen.</target>
+        <target xml:space="preserve" state="translated">Dit stukje maïs heeft een flinke klodder boter nodig om die verbrande smaak te temperen.</target>
       </trans-unit>
       <trans-unit id="The blackened surface of this unrecognizable meat is 'golden brown'." xml:space="preserve">
         <source xml:space="preserve">The blackened surface of this unrecognizable meat is 'golden brown'.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het zwartgeblakerde oppervlak van dit onherkenbare vlees is 'goudbruin'.</target>
+        <target xml:space="preserve" state="translated">Het zwartgeblakerde oppervlak van dit onherkenbare vlees is 'goudbruin'.</target>
       </trans-unit>
       <trans-unit id="A collection of the furled fronds of young ferns; a unique addition to a meal." xml:space="preserve">
         <source xml:space="preserve">A collection of the furled fronds of young ferns; a unique addition to a meal.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een verzameling opgerolde bladeren van jonge varens; een unieke toevoeging aan een maaltijd.</target>
+        <target xml:space="preserve" state="translated">Een verzameling opgerolde bladeren van jonge varens; een unieke toevoeging aan een maaltijd.</target>
       </trans-unit>
       <trans-unit id="A metal barrel for carrying liquids." xml:space="preserve">
         <source xml:space="preserve">A metal barrel for carrying liquids.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een metalen vat om vloeistoffen in te vervoeren.</target>
+        <target xml:space="preserve" state="translated">Een metalen vat voor het vervoeren van vloeistoffen.</target>
       </trans-unit>
       <trans-unit id="Boiler" xml:space="preserve">
         <source xml:space="preserve">Boiler</source>
@@ -6863,7 +6863,7 @@
       </trans-unit>
       <trans-unit id="Provides speed and torque conversions from a rotating power source to another device" xml:space="preserve">
         <source xml:space="preserve">Provides speed and torque conversions from a rotating power source to another device</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Biedt omrekeningen van snelheid en koppel van een roterende krachtbron naar een ander apparaat</target>
+        <target xml:space="preserve" state="translated">Zet snelheid en koppel van een draaiende krachtbron om voor een ander apparaat</target>
       </trans-unit>
       <trans-unit id="Gold Bar" xml:space="preserve">
         <source xml:space="preserve">Gold Bar</source>
@@ -6871,11 +6871,11 @@
       </trans-unit>
       <trans-unit id="Heat Sink" xml:space="preserve">
         <source xml:space="preserve">Heat Sink</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Koellichaam</target>
+        <target xml:space="preserve" state="translated">Koellichaam</target>
       </trans-unit>
       <trans-unit id="A copper plate to draw and disperse heat." xml:space="preserve">
         <source xml:space="preserve">A copper plate to draw and disperse heat.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een koperen plaat om warmte af te voeren.</target>
+        <target xml:space="preserve" state="translated">Een koperen plaat om warmte af te voeren.</target>
       </trans-unit>
       <trans-unit id="Iron Axle" xml:space="preserve">
         <source xml:space="preserve">Iron Axle</source>
@@ -6899,15 +6899,15 @@
       </trans-unit>
       <trans-unit id="An electric light with a wire filament." xml:space="preserve">
         <source xml:space="preserve">An electric light with a wire filament.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een gloeilamp met een gloeidraad.</target>
+        <target xml:space="preserve" state="translated">Een elektrische lamp met een gloeidraad.</target>
       </trans-unit>
       <trans-unit id="Portable Steam Engine" xml:space="preserve">
         <source xml:space="preserve">Portable Steam Engine</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Draagbare stoommachine</target>
+        <target xml:space="preserve" state="translated">Draagbare stoommachine</target>
       </trans-unit>
       <trans-unit id="An engine that generates mechanical power through steam." xml:space="preserve">
         <source xml:space="preserve">An engine that generates mechanical power through steam.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een machine die mechanische kracht opwekt met stoom.</target>
+        <target xml:space="preserve" state="translated">Een machine die mechanische kracht opwekt met stoom.</target>
       </trans-unit>
       <trans-unit id="Property Tool" xml:space="preserve">
         <source xml:space="preserve">Property Tool</source>
@@ -6927,7 +6927,7 @@
       </trans-unit>
       <trans-unit id="A heat sink that uses liquid running through copper fins to disperse heat build-up." xml:space="preserve">
         <source xml:space="preserve">A heat sink that uses liquid running through copper fins to disperse heat build-up.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een koellichaam dat vloeistof door koperen vinnen laat stromen om warmteafvoer te verspreiden.</target>
+        <target xml:space="preserve" state="translated">Een koellichaam dat vloeistof door koperen lamellen laat stromen om opgebouwde warmte af te voeren.</target>
       </trans-unit>
       <trans-unit id="Rubber Wheel" xml:space="preserve">
         <source xml:space="preserve">Rubber Wheel</source>
@@ -6939,19 +6939,19 @@
       </trans-unit>
       <trans-unit id="Steam Tractor Harvester" xml:space="preserve">
         <source xml:space="preserve">Steam Tractor Harvester</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stoomtractor-oogstmachine</target>
+        <target xml:space="preserve" state="translated">Stoomtractor-oogstmachine</target>
       </trans-unit>
       <trans-unit id="An attachment for the steam tractor that allows for quick harvesting of plants." xml:space="preserve">
         <source xml:space="preserve">An attachment for the steam tractor that allows for quick harvesting of plants.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een hulpstuk voor de stoomtractor waarmee je snel gewassen kunt oogsten.</target>
+        <target xml:space="preserve" state="translated">Een hulpstuk voor de stoomtractor waarmee je snel gewassen kunt oogsten.</target>
       </trans-unit>
       <trans-unit id="Steam Tractor Sower" xml:space="preserve">
         <source xml:space="preserve">Steam Tractor Sower</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stoomtractor-zaaimachine</target>
+        <target xml:space="preserve" state="translated">Stoomtractor-zaaimachine</target>
       </trans-unit>
       <trans-unit id="An attachment for the steam tractor that allows for quick planting of seeds." xml:space="preserve">
         <source xml:space="preserve">An attachment for the steam tractor that allows for quick planting of seeds.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een hulpstuk voor de stoomtractor waarmee je snel zaadjes kunt planten.</target>
+        <target xml:space="preserve" state="translated">Een hulpstuk voor de stoomtractor waarmee je snel zaden kunt planten.</target>
       </trans-unit>
       <trans-unit id="Steel Axle" xml:space="preserve">
         <source xml:space="preserve">Steel Axle</source>
@@ -7007,7 +7007,7 @@
       </trans-unit>
       <trans-unit id="Exotic Vegetable Medley" xml:space="preserve">
         <source xml:space="preserve">Exotic Vegetable Medley</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Exotische groentemix</target>
+        <target xml:space="preserve" state="translated">Exotische groenteschotel</target>
       </trans-unit>
       <trans-unit id="Forest Salad" xml:space="preserve">
         <source xml:space="preserve">Forest Salad</source>
@@ -7019,19 +7019,19 @@
       </trans-unit>
       <trans-unit id="Mixed Fruit Salad" xml:space="preserve">
         <source xml:space="preserve">Mixed Fruit Salad</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gemengde fruitsalade</target>
+        <target xml:space="preserve" state="translated">Gemengde fruitsalade</target>
       </trans-unit>
       <trans-unit id="Mixed Salad" xml:space="preserve">
         <source xml:space="preserve">Mixed Salad</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gemengde salade</target>
+        <target xml:space="preserve" state="translated">Gemengde salade</target>
       </trans-unit>
       <trans-unit id="Mixed Vegetable Medley" xml:space="preserve">
         <source xml:space="preserve">Mixed Vegetable Medley</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gemengde groenteschotel</target>
+        <target xml:space="preserve" state="translated">Gemengde groenteschotel</target>
       </trans-unit>
       <trans-unit id="Refine Tallow" xml:space="preserve">
         <source xml:space="preserve">Refine Tallow</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verfijn Tallow</target>
+        <target xml:space="preserve" state="translated">Talg zuiveren</target>
       </trans-unit>
       <trans-unit id="Render Fat" xml:space="preserve">
         <source xml:space="preserve">Render Fat</source>
@@ -7039,23 +7039,23 @@
       </trans-unit>
       <trans-unit id="Saw Boards" xml:space="preserve">
         <source xml:space="preserve">Saw Boards</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zaagplanken</target>
+        <target xml:space="preserve" state="translated">Planken zagen</target>
       </trans-unit>
       <trans-unit id="Shuck Clams" xml:space="preserve">
         <source xml:space="preserve">Shuck Clams</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Schelpdieren pellen</target>
+        <target xml:space="preserve" state="translated">Kokkels openen</target>
       </trans-unit>
       <trans-unit id="Smelt Copper" xml:space="preserve">
         <source xml:space="preserve">Smelt Copper</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Koper smelten</target>
+        <target xml:space="preserve" state="translated">Koper smelten</target>
       </trans-unit>
       <trans-unit id="Smelt Gold" xml:space="preserve">
         <source xml:space="preserve">Smelt Gold</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Goud smelten</target>
+        <target xml:space="preserve" state="translated">Goud smelten</target>
       </trans-unit>
       <trans-unit id="Smelt Iron" xml:space="preserve">
         <source xml:space="preserve">Smelt Iron</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Smeed ijzer</target>
+        <target xml:space="preserve" state="translated">IJzer smelten</target>
       </trans-unit>
       <trans-unit id="Grants " xml:space="preserve">
         <source xml:space="preserve">Grants </source>
@@ -7071,11 +7071,11 @@
       </trans-unit>
       <trans-unit id="Allows the placement and transport of materials in an area." xml:space="preserve">
         <source xml:space="preserve">Allows the placement and transport of materials in an area.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Hiermee kun je materialen in een gebied plaatsen en vervoeren.</target>
+        <target xml:space="preserve" state="translated">Hiermee kun je materialen in een gebied plaatsen en vervoeren.</target>
       </trans-unit>
       <trans-unit id="A tool that tills the field for farming." xml:space="preserve">
         <source xml:space="preserve">A tool that tills the field for farming.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een werktuig om het land te bewerken voor de landbouw.</target>
+        <target xml:space="preserve" state="translated">Een werktuig om het land te bewerken voor de landbouw.</target>
       </trans-unit>
       <trans-unit id="Skid Steer" xml:space="preserve">
         <source xml:space="preserve">Skid Steer</source>
@@ -7083,7 +7083,7 @@
       </trans-unit>
       <trans-unit id="Small wood cart for hauling minimal loads." xml:space="preserve">
         <source xml:space="preserve">Small wood cart for hauling minimal loads.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kleine houten kar voor het vervoeren van kleine ladingen.</target>
+        <target xml:space="preserve" state="translated">Kleine houten wagen voor het vervoeren van kleine ladingen.</target>
       </trans-unit>
       <trans-unit id="Truck" xml:space="preserve">
         <source xml:space="preserve">Truck</source>
@@ -7091,11 +7091,11 @@
       </trans-unit>
       <trans-unit id="Modern truck for hauling sizable loads." xml:space="preserve">
         <source xml:space="preserve">Modern truck for hauling sizable loads.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Moderne vrachtwagen voor het vervoeren van grote ladingen.</target>
+        <target xml:space="preserve" state="translated">Moderne vrachtwagen voor het vervoeren van grote ladingen.</target>
       </trans-unit>
       <trans-unit id="Wheelbarrow" xml:space="preserve">
         <source xml:space="preserve">Wheelbarrow</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kruiwagen</target>
+        <target xml:space="preserve" state="translated">Kruiwagen</target>
       </trans-unit>
       <trans-unit id="Small cart for hauling small loads." xml:space="preserve">
         <source xml:space="preserve">Small cart for hauling small loads.</source>
