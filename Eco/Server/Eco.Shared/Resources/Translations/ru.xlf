@@ -65650,7 +65650,7 @@
       </trans-unit>
       <trans-unit id="Mine 1000 ore." xml:space="preserve">
         <source xml:space="preserve">Mine 1000 ore.</source>
-        <target xml:space="preserve" state="needs-translation">Добывай 1000 единиц руды.</target>
+        <target xml:space="preserve" state="translated">Добудьте 1000 единиц руды.</target>
       </trans-unit>
       <trans-unit id="Earthbreaker" xml:space="preserve">
         <source xml:space="preserve">Earthbreaker</source>
