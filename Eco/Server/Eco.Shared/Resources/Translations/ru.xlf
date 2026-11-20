@@ -65762,7 +65762,7 @@
       </trans-unit>
       <trans-unit id="Successfully hunt a deer." xml:space="preserve">
         <source xml:space="preserve">Successfully hunt a deer.</source>
-        <target xml:space="preserve" state="needs-translation">Успешно добыть оленя.</target>
+        <target xml:space="preserve" state="translated">Успешная охота на оленя.</target>
       </trans-unit>
       <trans-unit id="Sow It Begins" xml:space="preserve">
         <source xml:space="preserve">Sow It Begins</source>
