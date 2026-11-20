@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="This mint is currently disabled, check status for details." xml:space="preserve">
         <source xml:space="preserve">This mint is currently disabled, check status for details.</source>
-        <target xml:space="preserve" state="translated">Deze muntenpers is momenteel uitgeschakeld, Controleer de status voor meer informatie.</target>
+        <target xml:space="preserve" state="translated">Dit munthuis is momenteel uitgeschakeld, bekijk de status voor meer informatie.</target>
       </trans-unit>
       <trans-unit id="Invalid currency name." xml:space="preserve">
         <source xml:space="preserve">Invalid currency name.</source>
@@ -309,7 +309,7 @@
       </trans-unit>
       <trans-unit id="Can't get permissions on property or object at {0}, may be unclaimed." xml:space="preserve">
         <source xml:space="preserve">Can't get permissions on property or object at <ph id="0">{0}</ph>, may be unclaimed.</source>
-        <target xml:space="preserve" state="translated">Kan geen machtigingen vinden op eigendom of object op <ph id="0">{0}</ph>, het is wellicht niet opgeëist.</target>
+        <target xml:space="preserve" state="translated">Kan geen machtigingen krijgen voor het eigendom of object op <ph id="0">{0}</ph>; mogelijk is het niet in bezit genomen.</target>
       </trans-unit>
       <trans-unit id="added" xml:space="preserve">
         <source xml:space="preserve">added</source>
@@ -1350,7 +1350,7 @@
       </trans-unit>
       <trans-unit id="Copper Pipe" xml:space="preserve">
         <source xml:space="preserve">Copper Pipe</source>
-        <target xml:space="preserve" state="translated">Koperen pijp</target>
+        <target xml:space="preserve" state="translated">Koperen buis</target>
       </trans-unit>
       <trans-unit id="Corrugated Steel" xml:space="preserve">
         <source xml:space="preserve">Corrugated Steel</source>
@@ -1426,7 +1426,7 @@
       </trans-unit>
       <trans-unit id="Iron Pipe" xml:space="preserve">
         <source xml:space="preserve">Iron Pipe</source>
-        <target xml:space="preserve" state="translated">IJzeren pijp</target>
+        <target xml:space="preserve" state="translated">IJzeren buis</target>
       </trans-unit>
       <trans-unit id="Mortared Stone" xml:space="preserve">
         <source xml:space="preserve">Mortared Stone</source>
@@ -1654,7 +1654,7 @@
       </trans-unit>
       <trans-unit id="Mint" xml:space="preserve">
         <source xml:space="preserve">Mint</source>
-        <target xml:space="preserve" state="translated">Munten fabriek</target>
+        <target xml:space="preserve" state="translated">Munthuis</target>
       </trans-unit>
       <trans-unit id="Oil Refinery" xml:space="preserve">
         <source xml:space="preserve">Oil Refinery</source>
@@ -1814,7 +1814,7 @@
       </trans-unit>
       <trans-unit id="Basic Engineering" xml:space="preserve">
         <source xml:space="preserve">Basic Engineering</source>
-        <target xml:space="preserve" state="translated">Basis Engineering</target>
+        <target xml:space="preserve" state="translated">Basistechniek</target>
       </trans-unit>
       <trans-unit id="Butchery" xml:space="preserve">
         <source xml:space="preserve">Butchery</source>
@@ -2318,7 +2318,7 @@
       </trans-unit>
       <trans-unit id="Basic Engineering Skill Book" xml:space="preserve">
         <source xml:space="preserve">Basic Engineering Skill Book</source>
-        <target xml:space="preserve" state="translated">Книга навыка простой инженерии</target>
+        <target xml:space="preserve" state="translated">Vaardigheidsboek Basistechniek</target>
       </trans-unit>
       <trans-unit id="Butchery Skill Book" xml:space="preserve">
         <source xml:space="preserve">Butchery Skill Book</source>
@@ -2394,7 +2394,7 @@
       </trans-unit>
       <trans-unit id="Basic Engineering Skill Scroll" xml:space="preserve">
         <source xml:space="preserve">Basic Engineering Skill Scroll</source>
-        <target xml:space="preserve" state="translated">Basis Ingenieur Vaardigheidsrol</target>
+        <target xml:space="preserve" state="translated">Vaardigheidsrol Basistechniek</target>
       </trans-unit>
       <trans-unit id="Butchery Skill Scroll" xml:space="preserve">
         <source xml:space="preserve">Butchery Skill Scroll</source>
@@ -2486,7 +2486,7 @@
       </trans-unit>
       <trans-unit id="Survivalist" xml:space="preserve">
         <source xml:space="preserve">Survivalist</source>
-        <target xml:space="preserve" state="translated">Overlevenaar</target>
+        <target xml:space="preserve" state="translated">Overlevingskunstenaar</target>
       </trans-unit>
       <trans-unit id="Tailor" xml:space="preserve">
         <source xml:space="preserve">Tailor</source>
@@ -3291,7 +3291,7 @@
       </trans-unit>
       <trans-unit id="A pipe for transporting liquids." xml:space="preserve">
         <source xml:space="preserve">A pipe for transporting liquids.</source>
-        <target xml:space="preserve" state="translated">Een pijp om vloeistoffen te vervoeren.</target>
+        <target xml:space="preserve" state="translated">Een buis om vloeistoffen te vervoeren.</target>
       </trans-unit>
       <trans-unit id="Especially useful for industrial buildings." xml:space="preserve">
         <source xml:space="preserve">Especially useful for industrial buildings.</source>
@@ -3723,7 +3723,7 @@
       </trans-unit>
       <trans-unit id="Sets of pipes and tanks which refine crude petroleum into usable products." xml:space="preserve">
         <source xml:space="preserve">Sets of pipes and tanks which refine crude petroleum into usable products.</source>
-        <target xml:space="preserve" state="translated">Een set pijpen en reservoirs die ruwe petroleum in bruikbare producten omzet.</target>
+        <target xml:space="preserve" state="translated">Een set buizen en tanks die ruwe aardolie tot bruikbare producten verwerken.</target>
       </trans-unit>
       <trans-unit id="A comfy chair to rest in." xml:space="preserve">
         <source xml:space="preserve">A comfy chair to rest in.</source>
@@ -5207,11 +5207,11 @@
       </trans-unit>
       <trans-unit id="Can't claim plot: You don't have any {0}." xml:space="preserve">
         <source xml:space="preserve">Can't claim plot: You don't have any <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Kan het perceel niet claimen: Je hebt geen <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Kan het perceel niet in bezit nemen: je hebt geen <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Can't unclaim plot: You don't have room in your inventory for {0}." xml:space="preserve">
         <source xml:space="preserve">Can't unclaim plot: You don't have room in your inventory for <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="translated">Je kan het perceel niet ontclaimen. Je hebt geen plaats in je inventaris voor <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Kan het perceel niet opgeven: je hebt geen ruimte in je inventaris voor <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="This deed no longer exists." xml:space="preserve">
         <source xml:space="preserve">This deed no longer exists.</source>
@@ -6039,7 +6039,7 @@
       </trans-unit>
       <trans-unit id="Sales Tax:" xml:space="preserve">
         <source xml:space="preserve">Sales Tax:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Omzetbelasting:</target>
+        <target xml:space="preserve" state="translated">Verkoopbelasting:</target>
       </trans-unit>
       <trans-unit id="You have" xml:space="preserve">
         <source xml:space="preserve">You have</source>
@@ -6087,7 +6087,7 @@
       </trans-unit>
       <trans-unit id="Property Tax" xml:space="preserve">
         <source xml:space="preserve">Property Tax</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Onroerendgoedbelasting</target>
+        <target xml:space="preserve" state="translated">Eigendomsbelasting</target>
       </trans-unit>
       <trans-unit id="Allocate" xml:space="preserve">
         <source xml:space="preserve">Allocate</source>
@@ -6119,7 +6119,7 @@
       </trans-unit>
       <trans-unit id="Sales Tax" xml:space="preserve">
         <source xml:space="preserve">Sales Tax</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Omzetbelasting</target>
+        <target xml:space="preserve" state="translated">Verkoopbelasting</target>
       </trans-unit>
       <trans-unit id="Power Grid" xml:space="preserve">
         <source xml:space="preserve">Power Grid</source>
@@ -6151,11 +6151,11 @@
       </trans-unit>
       <trans-unit id="Claim" xml:space="preserve">
         <source xml:space="preserve">Claim</source>
-        <target xml:space="preserve" state="translated">Claim</target>
+        <target xml:space="preserve" state="translated">In bezit nemen</target>
       </trans-unit>
       <trans-unit id="Authorized Consumers" xml:space="preserve">
         <source xml:space="preserve">Authorized Consumers</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Geautoriseerde consumenten</target>
+        <target xml:space="preserve" state="translated">Gemachtigde gebruikers</target>
       </trans-unit>
       <trans-unit id="Powered Network Status" xml:space="preserve">
         <source xml:space="preserve">Powered Network Status</source>
@@ -6851,7 +6851,7 @@
       </trans-unit>
       <trans-unit id="Boiler" xml:space="preserve">
         <source xml:space="preserve">Boiler</source>
-        <target xml:space="preserve" state="translated">Ketel</target>
+        <target xml:space="preserve" state="translated">Stoomketel</target>
       </trans-unit>
       <trans-unit id="Copper Bar" xml:space="preserve">
         <source xml:space="preserve">Copper Bar</source>
@@ -7079,7 +7079,7 @@
       </trans-unit>
       <trans-unit id="Skid Steer" xml:space="preserve">
         <source xml:space="preserve">Skid Steer</source>
-        <target xml:space="preserve" state="translated">Bulldozer</target>
+        <target xml:space="preserve" state="translated">Minishovel</target>
       </trans-unit>
       <trans-unit id="Small wood cart for hauling minimal loads." xml:space="preserve">
         <source xml:space="preserve">Small wood cart for hauling minimal loads.</source>
@@ -7476,7 +7476,7 @@
       </trans-unit>
       <trans-unit id="Government" xml:space="preserve">
         <source xml:space="preserve">Government</source>
-        <target xml:space="preserve" state="translated">Regering</target>
+        <target xml:space="preserve" state="translated">Overheid</target>
       </trans-unit>
       <trans-unit id="Economy Viewer" xml:space="preserve">
         <source xml:space="preserve">Economy Viewer</source>
@@ -7839,7 +7839,7 @@
       </trans-unit>
       <trans-unit id="Specialties" xml:space="preserve">
         <source xml:space="preserve">Specialties</source>
-        <target xml:space="preserve" state="translated">Специальности</target>
+        <target xml:space="preserve" state="translated">Specialisaties</target>
       </trans-unit>
       <trans-unit id="Items" xml:space="preserve">
         <source xml:space="preserve">Items</source>
@@ -8860,7 +8860,7 @@
       </trans-unit>
       <trans-unit id="Pipes" xml:space="preserve">
         <source xml:space="preserve">Pipes</source>
-        <target xml:space="preserve" state="translated">Pijpen</target>
+        <target xml:space="preserve" state="translated">Buizen</target>
       </trans-unit>
       <trans-unit id="Admin {0} has kicked you." xml:space="preserve">
         <source xml:space="preserve">Admin <ph id="0">{0}</ph> has kicked you.</source>
@@ -10956,11 +10956,11 @@
       </trans-unit>
       <trans-unit id="{0} Specialty" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Specialty</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> Specialiteit</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> specialisatie</target>
       </trans-unit>
       <trans-unit id="{0} Specialties" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Specialties</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> Specialiteiten</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> specialisaties</target>
       </trans-unit>
       <trans-unit id="{0} posted a new contract {1}:{2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> posted a new contract <ph id="1">{1}</ph>:<ph id="2">{2}</ph></source>
@@ -11100,11 +11100,11 @@
       </trans-unit>
       <trans-unit id="You have {0} available specialties." xml:space="preserve">
         <source xml:space="preserve">You have <ph id="0">{0}</ph> available specialties.</source>
-        <target xml:space="preserve" state="translated">Je hebt <ph id="0">{0}</ph> beschikbare specialiteiten.</target>
+        <target xml:space="preserve" state="translated">Je hebt <ph id="0">{0}</ph> beschikbare specialisaties.</target>
       </trans-unit>
       <trans-unit id="Click the star to claim this specialty now." xml:space="preserve">
         <source xml:space="preserve">Click the star to claim this specialty now.</source>
-        <target xml:space="preserve" state="translated">Klik de ster om deze specialiteit te krijgen.</target>
+        <target xml:space="preserve" state="translated">Klik op de ster om deze specialisatie nu te kiezen.</target>
       </trans-unit>
       <trans-unit id="You are level {0} with {1} experience. You will level-up at {2} experience." xml:space="preserve">
         <source xml:space="preserve">You are level <ph id="0">{0}</ph> with <ph id="1">{1}</ph> experience. You will level-up at <ph id="2">{2}</ph> experience.</source>
@@ -11639,7 +11639,7 @@
       </trans-unit>
       <trans-unit id="Each level up you gain a star to learn a discovered specialty." xml:space="preserve">
         <source xml:space="preserve">Each level up you gain a star to learn a discovered specialty.</source>
-        <target xml:space="preserve" state="translated">Bij elk niveau omhoog krijg je een ster om een ontdekte specialiteit te leren.</target>
+        <target xml:space="preserve" state="translated">Bij elk nieuw niveau krijg je een ster om een ontdekte specialisatie te leren.</target>
       </trans-unit>
       <trans-unit id="Hewn Logs" xml:space="preserve">
         <source xml:space="preserve">Hewn Logs</source>
@@ -12215,7 +12215,7 @@
       </trans-unit>
       <trans-unit id="Learning specialties give you bonuses and level up through use." xml:space="preserve">
         <source xml:space="preserve">Learning specialties give you bonuses and level up through use.</source>
-        <target xml:space="preserve" state="translated">Het leren van specialiteiten geeft je bonussen en levels tijdens het gebruik.</target>
+        <target xml:space="preserve" state="translated">Specialisaties die je leert geven je bonussen en stijgen in niveau door ze te gebruiken.</target>
       </trans-unit>
       <trans-unit id="Experience gained is based on your diet and housing." xml:space="preserve">
         <source xml:space="preserve">Experience gained is based on your diet and housing.</source>
@@ -12223,7 +12223,7 @@
       </trans-unit>
       <trans-unit id="Specialties grant large benefits to the player when taken." xml:space="preserve">
         <source xml:space="preserve">Specialties grant large benefits to the player when taken.</source>
-        <target xml:space="preserve" state="translated">Specialiteiten bieden de speler grote voordelen wanneer deze worden gekozen.</target>
+        <target xml:space="preserve" state="translated">Specialisaties geven de speler grote voordelen zodra hij ze kiest.</target>
       </trans-unit>
       <trans-unit id="Experience gain is multiplied by your experience multiplier." xml:space="preserve">
         <source xml:space="preserve">Experience gain is multiplied by your experience multiplier.</source>
@@ -12235,11 +12235,11 @@
       </trans-unit>
       <trans-unit id="Level up your chosen specialties by performing related actions." xml:space="preserve">
         <source xml:space="preserve">Level up your chosen specialties by performing related actions.</source>
-        <target xml:space="preserve" state="translated">Verhoog de door u gekozen specialiteiten door gerelateerde acties uit te voeren.</target>
+        <target xml:space="preserve" state="translated">Verhoog het niveau van je gekozen specialisaties door bijbehorende handelingen uit te voeren.</target>
       </trans-unit>
       <trans-unit id="Occasionally specialties allow you to pick between special talents." xml:space="preserve">
         <source xml:space="preserve">Occasionally specialties allow you to pick between special talents.</source>
-        <target xml:space="preserve" state="translated">Soms laten bekwaamheden jou kiezen tussen speciale talenten.</target>
+        <target xml:space="preserve" state="translated">Soms kun je bij een specialisatie kiezen tussen speciale talenten.</target>
       </trans-unit>
       <trans-unit id="Crafting is done through a system called work orders." xml:space="preserve">
         <source xml:space="preserve">Crafting is done through a system called work orders.</source>
@@ -12372,7 +12372,7 @@
       </trans-unit>
       <trans-unit id="specialty" xml:space="preserve">
         <source xml:space="preserve">specialty</source>
-        <target xml:space="preserve" state="translated">specialiteit</target>
+        <target xml:space="preserve" state="translated">specialisatie</target>
       </trans-unit>
       <trans-unit id="Level: {0}" xml:space="preserve">
         <source xml:space="preserve">Level: <ph id="0">{0}</ph></source>
@@ -12384,7 +12384,7 @@
       </trans-unit>
       <trans-unit id="Sales tax: {0} Crafting fee tax: {1} Contract tax: {2} Direct Transfer tax: (public:{3}, own:{4})" xml:space="preserve">
         <source xml:space="preserve">Sales tax: <ph id="0">{0}</ph> Crafting fee tax: <ph id="1">{1}</ph> Contract tax: <ph id="2">{2}</ph> Direct Transfer tax: (public:<ph id="3">{3}</ph>, own:<ph id="4">{4}</ph>)</source>
-        <target xml:space="preserve" state="translated">Omzetbelasting: <ph id="0">{0}</ph> Crafting belasting: <ph id="1">{1}</ph> Contract belasting: <ph id="2">{2}</ph> Directe overdrachtsbelasting: (openbaar: <ph id="3">{3}</ph>, eigen: <ph id="4">{4}</ph>)</target>
+        <target xml:space="preserve" state="translated">Verkoopbelasting: <ph id="0">{0}</ph> Maakkostenbelasting: <ph id="1">{1}</ph> Contractbelasting: <ph id="2">{2}</ph> Overboekingsbelasting: (openbaar: <ph id="3">{3}</ph>, eigen: <ph id="4">{4}</ph>)</target>
       </trans-unit>
       <trans-unit id="Balance: {0}" xml:space="preserve">
         <source xml:space="preserve">Balance: <ph id="0">{0}</ph></source>
@@ -12996,7 +12996,7 @@
       </trans-unit>
       <trans-unit id="Claimed" xml:space="preserve">
         <source xml:space="preserve">Claimed</source>
-        <target xml:space="preserve" state="translated">Opgeëist</target>
+        <target xml:space="preserve" state="translated">In bezit genomen</target>
       </trans-unit>
       <trans-unit id="Tax Rate" xml:space="preserve">
         <source xml:space="preserve">Tax Rate</source>
@@ -13012,7 +13012,7 @@
       </trans-unit>
       <trans-unit id="Elected Title" xml:space="preserve">
         <source xml:space="preserve">Elected Title</source>
-        <target xml:space="preserve" state="translated">Verkozen titel</target>
+        <target xml:space="preserve" state="translated">Gekozen functie</target>
       </trans-unit>
       <trans-unit id="Profession" xml:space="preserve">
         <source xml:space="preserve">Profession</source>
@@ -13020,7 +13020,7 @@
       </trans-unit>
       <trans-unit id="Specialty" xml:space="preserve">
         <source xml:space="preserve">Specialty</source>
-        <target xml:space="preserve" state="translated">Specialiteit</target>
+        <target xml:space="preserve" state="translated">Specialisatie</target>
       </trans-unit>
       <trans-unit id="Felled" xml:space="preserve">
         <source xml:space="preserve">Felled</source>
@@ -13877,7 +13877,7 @@
       </trans-unit>
       <trans-unit id="Government:" xml:space="preserve">
         <source xml:space="preserve">Government:</source>
-        <target xml:space="preserve" state="translated">Regering:</target>
+        <target xml:space="preserve" state="translated">Overheid:</target>
       </trans-unit>
       <trans-unit id="Add {0}" xml:space="preserve">
         <source xml:space="preserve">Add <ph id="0">{0}</ph></source>
@@ -15091,7 +15091,7 @@
       </trans-unit>
       <trans-unit id="Districts" xml:space="preserve">
         <source xml:space="preserve">Districts</source>
-        <target xml:space="preserve" state="translated">Districten</target>
+        <target xml:space="preserve" state="translated">Wijken</target>
       </trans-unit>
       <trans-unit id="openserverui" translate="no">
         <source xml:space="preserve">openserverui</source>
@@ -16869,7 +16869,7 @@
       </trans-unit>
       <trans-unit id="Any Executive Action" xml:space="preserve">
         <source xml:space="preserve">Any Executive Action</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Elke uitvoerende maatregel</target>
+        <target xml:space="preserve" state="translated">Elk kabinetsbesluit</target>
       </trans-unit>
       <trans-unit id="Executive Actions Affecting Taxes" xml:space="preserve">
         <source xml:space="preserve">Executive Actions Affecting Taxes</source>
@@ -17114,7 +17114,7 @@
       </trans-unit>
       <trans-unit id="Zoning Office" xml:space="preserve">
         <source xml:space="preserve">Zoning Office</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bureau voor ruimtelijke ordening</target>
+        <target xml:space="preserve" state="translated">Bestemmingsbureau</target>
       </trans-unit>
       <trans-unit id="Tool Bench" xml:space="preserve">
         <source xml:space="preserve">Tool Bench</source>
@@ -17510,7 +17510,7 @@
       </trans-unit>
       <trans-unit id="Executive Office" xml:space="preserve">
         <source xml:space="preserve">Executive Office</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Uitvoerend Bureau</target>
+        <target xml:space="preserve" state="translated">Kabinet</target>
       </trans-unit>
       <trans-unit id="Court" xml:space="preserve">
         <source xml:space="preserve">Court</source>
@@ -18602,7 +18602,7 @@
       </trans-unit>
       <trans-unit id="Pipe" xml:space="preserve">
         <source xml:space="preserve">Pipe</source>
-        <target xml:space="preserve" state="translated">Pijp</target>
+        <target xml:space="preserve" state="translated">Buis</target>
       </trans-unit>
       <trans-unit id="Steel Bar" xml:space="preserve">
         <source xml:space="preserve">Steel Bar</source>
@@ -19309,7 +19309,7 @@
       </trans-unit>
       <trans-unit id="Executive Action" xml:space="preserve">
         <source xml:space="preserve">Executive Action</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Uitvoerende macht</target>
+        <target xml:space="preserve" state="translated">Kabinetsbesluit</target>
       </trans-unit>
       <trans-unit id="Results:" xml:space="preserve">
         <source xml:space="preserve">Results:</source>
@@ -19389,11 +19389,11 @@
       </trans-unit>
       <trans-unit id="Elected Titles" xml:space="preserve">
         <source xml:space="preserve">Elected Titles</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gekozen titels</target>
+        <target xml:space="preserve" state="translated">Gekozen functies</target>
       </trans-unit>
       <trans-unit id="Executive Actions" xml:space="preserve">
         <source xml:space="preserve">Executive Actions</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Uitvoerende maatregelen</target>
+        <target xml:space="preserve" state="translated">Kabinetsbesluiten</target>
       </trans-unit>
       <trans-unit id="Removed by {0}." xml:space="preserve">
         <source xml:space="preserve">Removed by <ph id="0">{0}</ph>.</source>
@@ -19453,7 +19453,7 @@
       </trans-unit>
       <trans-unit id="Labor" xml:space="preserve">
         <source xml:space="preserve">Labor</source>
-        <target xml:space="preserve" state="translated">Werk</target>
+        <target xml:space="preserve" state="translated">Arbeid</target>
       </trans-unit>
       <trans-unit id="Tagged Items" xml:space="preserve">
         <source xml:space="preserve">Tagged Items</source>
@@ -19758,7 +19758,7 @@
       </trans-unit>
       <trans-unit id="Sales tax" xml:space="preserve">
         <source xml:space="preserve">Sales tax</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Omzetbelasting</target>
+        <target xml:space="preserve" state="translated">Verkoopbelasting</target>
       </trans-unit>
       <trans-unit id="Crafting fee tax" xml:space="preserve">
         <source xml:space="preserve">Crafting fee tax</source>
@@ -20184,7 +20184,7 @@
       </trans-unit>
       <trans-unit id="New District" xml:space="preserve">
         <source xml:space="preserve">New District</source>
-        <target xml:space="preserve" state="translated">Nieuw District</target>
+        <target xml:space="preserve" state="translated">Nieuwe wijk</target>
       </trans-unit>
       <trans-unit id="Advanced Crafting" xml:space="preserve">
         <source xml:space="preserve">Advanced Crafting</source>
@@ -20543,7 +20543,7 @@
       </trans-unit>
       <trans-unit id="Message from {0} via executive action:" xml:space="preserve">
         <source xml:space="preserve">Message from <ph id="0">{0}</ph> via executive action:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bericht van <ph id="0">{0}</ph> via uitvoerende maatregelen:</target>
+        <target xml:space="preserve" state="translated">Bericht van <ph id="0">{0}</ph> via kabinetsbesluit:</target>
       </trans-unit>
       <trans-unit id="Message from {0}:" xml:space="preserve">
         <source xml:space="preserve">Message from <ph id="0">{0}</ph>:</source>
@@ -22084,7 +22084,7 @@
       </trans-unit>
       <trans-unit id="Like a Skid Steer but more versatile. Great for high slope excavation." xml:space="preserve">
         <source xml:space="preserve">Like a Skid Steer but more versatile. Great for high slope excavation.</source>
-        <target xml:space="preserve" state="translated">Net als een bulldozer, maar veelzijdiger. Ideaal om op steile hellingen te graven.</target>
+        <target xml:space="preserve" state="translated">Net als een minishovel, maar veelzijdiger. Ideaal om op steile hellingen te graven.</target>
       </trans-unit>
       <trans-unit id="Wooden Bow" xml:space="preserve">
         <source xml:space="preserve">Wooden Bow</source>
@@ -23211,7 +23211,7 @@
       </trans-unit>
       <trans-unit id="Add New District" xml:space="preserve">
         <source xml:space="preserve">Add New District</source>
-        <target xml:space="preserve" state="translated">Nieuw District Toevoegen</target>
+        <target xml:space="preserve" state="translated">Nieuwe wijk toevoegen</target>
       </trans-unit>
       <trans-unit id="Purchasing" xml:space="preserve">
         <source xml:space="preserve">Purchasing</source>
@@ -23251,7 +23251,7 @@
       </trans-unit>
       <trans-unit id="labor" xml:space="preserve">
         <source xml:space="preserve">labor</source>
-        <target xml:space="preserve" state="translated">werk</target>
+        <target xml:space="preserve" state="translated">arbeid</target>
       </trans-unit>
       <trans-unit id="{0} Tag" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Tag</source>
@@ -24036,7 +24036,7 @@
       </trans-unit>
       <trans-unit id="Elected officials can perform one-time executive actions here." xml:space="preserve">
         <source xml:space="preserve">Elected officials can perform one-time executive actions here.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gekozen functionarissen kunnen hier eenmalige uitvoerende maatregelen nemen.</target>
+        <target xml:space="preserve" state="translated">Gekozen functionarissen kunnen hier eenmalige kabinetsbesluiten nemen.</target>
       </trans-unit>
       <trans-unit id="A tamper proof box where votes are cast. Citizens can run for elected office here." xml:space="preserve">
         <source xml:space="preserve">A tamper proof box where votes are cast. Citizens can run for elected office here.</source>
@@ -26275,7 +26275,7 @@
       </trans-unit>
       <trans-unit id="Claim Property" xml:space="preserve">
         <source xml:space="preserve">Claim Property</source>
-        <target xml:space="preserve" state="translated">Eigendom claimen</target>
+        <target xml:space="preserve" state="translated">Eigendom in bezit nemen</target>
       </trans-unit>
       <trans-unit id="Your Trades" xml:space="preserve">
         <source xml:space="preserve">Your Trades</source>
@@ -28482,7 +28482,7 @@
       </trans-unit>
       <trans-unit id="Residency" xml:space="preserve">
         <source xml:space="preserve">Residency</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verblijfplaats</target>
+        <target xml:space="preserve" state="translated">Ingezetenschap</target>
       </trans-unit>
       <trans-unit id="Overlay" xml:space="preserve">
         <source xml:space="preserve">Overlay</source>
@@ -28658,7 +28658,7 @@
       </trans-unit>
       <trans-unit id="Leaving Residency" xml:space="preserve">
         <source xml:space="preserve">Leaving Residency</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je verblijfplaats verlaten</target>
+        <target xml:space="preserve" state="translated">Ingezetenschap opgeven</target>
       </trans-unit>
       <trans-unit id="Invite" xml:space="preserve">
         <source xml:space="preserve">Invite</source>
@@ -28926,7 +28926,7 @@
       </trans-unit>
       <trans-unit id="The user who's residency we're checking." xml:space="preserve">
         <source xml:space="preserve">The user who's residency we're checking.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De gebruiker wiens verblijfplaats we controleren.</target>
+        <target xml:space="preserve" state="translated">De gebruiker van wie we het ingezetenschap controleren.</target>
       </trans-unit>
       <trans-unit id="Gets the location of a given citizen's residence (or 'invalid' if none)." xml:space="preserve">
         <source xml:space="preserve">Gets the location of a given citizen's residence (or 'invalid' if none).</source>
@@ -29151,7 +29151,7 @@
       </trans-unit>
       <trans-unit id="residency" xml:space="preserve">
         <source xml:space="preserve">residency</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">verblijfplaats</target>
+        <target xml:space="preserve" state="translated">ingezetenschap</target>
       </trans-unit>
       <trans-unit id="became a resident" xml:space="preserve">
         <source xml:space="preserve">became a resident</source>
@@ -30164,7 +30164,7 @@
       </trans-unit>
       <trans-unit id="Leave Residency" xml:space="preserve">
         <source xml:space="preserve">Leave Residency</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verlaat verblijfplaats</target>
+        <target xml:space="preserve" state="translated">Ingezetenschap opgeven</target>
       </trans-unit>
       <trans-unit id="Become resident" xml:space="preserve">
         <source xml:space="preserve">Become resident</source>
@@ -30468,7 +30468,7 @@
       </trans-unit>
       <trans-unit id="Laborer" xml:space="preserve">
         <source xml:space="preserve">Laborer</source>
-        <target xml:space="preserve" state="translated">Arbeiders</target>
+        <target xml:space="preserve" state="translated">Arbeider</target>
       </trans-unit>
       <trans-unit id="Knowledge Share Payment" xml:space="preserve">
         <source xml:space="preserve">Knowledge Share Payment</source>
@@ -31476,7 +31476,7 @@
       </trans-unit>
       <trans-unit id="Labor:" xml:space="preserve">
         <source xml:space="preserve">Labor:</source>
-        <target xml:space="preserve" state="translated">Werk:</target>
+        <target xml:space="preserve" state="translated">Arbeid:</target>
       </trans-unit>
       <trans-unit id="Time:" xml:space="preserve">
         <source xml:space="preserve">Time:</source>
@@ -31920,7 +31920,7 @@
       </trans-unit>
       <trans-unit id="Propose Elected Title" xml:space="preserve">
         <source xml:space="preserve">Propose Elected Title</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stel een gekozen titel voor</target>
+        <target xml:space="preserve" state="translated">Gekozen functie voorstellen</target>
       </trans-unit>
       <trans-unit id="Required Of Candidates" xml:space="preserve">
         <source xml:space="preserve">Required Of Candidates</source>
@@ -31988,7 +31988,7 @@
       </trans-unit>
       <trans-unit id="Executive office" xml:space="preserve">
         <source xml:space="preserve">Executive office</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Uitvoerend bureau</target>
+        <target xml:space="preserve" state="translated">Kabinet</target>
       </trans-unit>
       <trans-unit id="Execute Action" xml:space="preserve">
         <source xml:space="preserve">Execute Action</source>
@@ -32188,7 +32188,7 @@
       </trans-unit>
       <trans-unit id="labor." xml:space="preserve">
         <source xml:space="preserve">labor.</source>
-        <target xml:space="preserve" state="translated">werk.</target>
+        <target xml:space="preserve" state="translated">arbeid.</target>
       </trans-unit>
       <trans-unit id="Perform" xml:space="preserve">
         <source xml:space="preserve">Perform</source>
@@ -35802,7 +35802,7 @@
       </trans-unit>
       <trans-unit id="Are you sure you want to leave residency of {0}? You can't be a resident of multiple land-holding deeds. (Note: Deeds without land, such as vehicle deeds, are permitted for multiple residencies.)" xml:space="preserve">
         <source xml:space="preserve">Are you sure you want to leave residency of <ph id="0">{0}</ph>? You can't be a resident of multiple land-holding deeds. (Note: Deeds without land, such as vehicle deeds, are permitted for multiple residencies.)</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Weet je zeker dat je je verblijfplaats op <ph id="0">{0}</ph> wilt verlaten? Je kunt niet op meerdere grondbezit-deeds als inwoner staan. (Let op: deeds zonder grond, zoals voertuigdeeds, zijn wel toegestaan voor meerdere verblijfplaatsen.)</target>
+        <target xml:space="preserve" state="translated">Weet je zeker dat je je ingezetenschap van <ph id="0">{0}</ph> wilt opgeven? Je kunt geen ingezetene zijn van meerdere aktes met grond. (Let op: aktes zonder grond, zoals voertuigaktes, mogen wel voor meerdere ingezetenschappen.)</target>
       </trans-unit>
       <trans-unit id="You are currently a resident of {0}, are you sure you want to leave residency there and switch to {1}? You can't be a resident of multiple land-holding deeds. (Note: Deeds without land, such as vehicle deeds, are permitted for multiple residencies.)" xml:space="preserve">
         <source xml:space="preserve">You are currently a resident of <ph id="0">{0}</ph>, are you sure you want to leave residency there and switch to <ph id="1">{1}</ph>? You can't be a resident of multiple land-holding deeds. (Note: Deeds without land, such as vehicle deeds, are permitted for multiple residencies.)</source>
@@ -37613,7 +37613,7 @@
       </trans-unit>
       <trans-unit id="Skid Steer Scoop Rotate" xml:space="preserve">
         <source xml:space="preserve">Skid Steer Scoop Rotate</source>
-        <target xml:space="preserve" state="translated">Bulldozer: bak draaien</target>
+        <target xml:space="preserve" state="translated">Minishovel: bak draaien</target>
       </trans-unit>
       <trans-unit id="Crane Rope Length" xml:space="preserve">
         <source xml:space="preserve">Crane Rope Length</source>
@@ -38107,7 +38107,7 @@
       </trans-unit>
       <trans-unit id="Elected Titles are government officials that can be assigned permissions to manage government policy." xml:space="preserve">
         <source xml:space="preserve">Elected Titles are government officials that can be assigned permissions to manage government policy.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gekozen ambtenaren zijn regeringsfunctionarissen aan wie bevoegdheden kunnen worden toegekend om het overheidsbeleid te beheren.</target>
+        <target xml:space="preserve" state="translated">Gekozen functies zijn overheidsfunctionarissen die bevoegdheden kunnen krijgen om het overheidsbeleid te beheren.</target>
       </trans-unit>
       <trans-unit id="Titles can be either appointed or elected titles, and are used to describe a citizen's job, social status, or responsibilities." xml:space="preserve">
         <source xml:space="preserve">Titles can be either appointed or elected titles, and are used to describe a citizen's job, social status, or responsibilities.</source>
@@ -40468,7 +40468,7 @@
       </trans-unit>
       <trans-unit id="Basic Engineering allows easier construction of roads and gives access to early forms of mechanical power. Levels up by crafting related recipes." xml:space="preserve">
         <source xml:space="preserve">Basic Engineering allows easier construction of roads and gives access to early forms of mechanical power. Levels up by crafting related recipes.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Met Basic Engineering kun je makkelijker wegen aanleggen en krijg je toegang tot vroege vormen van mechanische kracht. Je gaat een level omhoog door gerelateerde recepten te maken.</target>
+        <target xml:space="preserve" state="translated">Met Basistechniek kun je makkelijker wegen aanleggen en krijg je toegang tot vroege vormen van mechanische kracht. Stijgt in niveau door bijbehorende recepten te maken.</target>
       </trans-unit>
       <trans-unit id="An introduction to cooking with an oven. Levels up by crafting related unleavened recipes." xml:space="preserve">
         <source xml:space="preserve">An introduction to cooking with an oven. Levels up by crafting related unleavened recipes.</source>
@@ -41514,7 +41514,7 @@
       </trans-unit>
       <trans-unit id="Sets the sales tax. Accepts decimals as a percent and with no rate provided the default is 10%" xml:space="preserve">
         <source xml:space="preserve">Sets the sales tax. Accepts decimals as a percent and with no rate provided the default is 10%</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stel de omzetbelasting in. Accepteert decimalen als percentage en als er geen tarief wordt opgegeven, is de standaardinstelling 10%.</target>
+        <target xml:space="preserve" state="translated">Stelt de verkoopbelasting in. Accepteert decimalen als percentage; zonder opgegeven tarief is de standaard 10%</target>
         <note from="developer">Help text for chat command /setsalestax</note>
       </trans-unit>
       <trans-unit id="{0} and {1} more" xml:space="preserve">
@@ -42759,7 +42759,7 @@
       </trans-unit>
       <trans-unit id="Passed via executive action by:" xml:space="preserve">
         <source xml:space="preserve">Passed via executive action by:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Aangenomen via uitvoerend besluit door:</target>
+        <target xml:space="preserve" state="translated">Aangenomen via kabinetsbesluit door:</target>
       </trans-unit>
       <trans-unit id="Removed via election:" xml:space="preserve">
         <source xml:space="preserve">Removed via election:</source>
@@ -42767,7 +42767,7 @@
       </trans-unit>
       <trans-unit id="Removed via executive action by:" xml:space="preserve">
         <source xml:space="preserve">Removed via executive action by:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verwijderd via uitvoerend optreden door:</target>
+        <target xml:space="preserve" state="translated">Verwijderd via kabinetsbesluit door:</target>
       </trans-unit>
       <trans-unit id="Clear all playerprefs, requires a restart to take effect." xml:space="preserve">
         <source xml:space="preserve">Clear all playerprefs, requires a restart to take effect.</source>
@@ -43963,7 +43963,7 @@
       </trans-unit>
       <trans-unit id="View Government" xml:space="preserve">
         <source xml:space="preserve">View Government</source>
-        <target xml:space="preserve" state="translated">Zie regering</target>
+        <target xml:space="preserve" state="translated">Overheid bekijken</target>
       </trans-unit>
       <trans-unit id="Sleeping Players" xml:space="preserve">
         <source xml:space="preserve">Sleeping Players</source>
@@ -49554,7 +49554,7 @@
       </trans-unit>
       <trans-unit id="Property Tax:" xml:space="preserve">
         <source xml:space="preserve">Property Tax:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Onroerendgoedbelasting:</target>
+        <target xml:space="preserve" state="translated">Eigendomsbelasting:</target>
       </trans-unit>
       <trans-unit id="Remove meteor impact hours" xml:space="preserve">
         <source xml:space="preserve">Remove meteor impact hours</source>
@@ -49626,7 +49626,7 @@
       </trans-unit>
       <trans-unit id="Must have an Elected Title in a settlement to select or change this." xml:space="preserve">
         <source xml:space="preserve">Must have an Elected Title in a settlement to select or change this.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je moet een gekozen titel hebben in een nederzetting om dit te kunnen selecteren of wijzigen.</target>
+        <target xml:space="preserve" state="translated">Je moet een gekozen functie hebben in een nederzetting om dit te kunnen kiezen of wijzigen.</target>
       </trans-unit>
       <trans-unit id="Window Named sdsdsd" xml:space="preserve">
         <source xml:space="preserve">Window Named sdsdsd</source>
@@ -51043,7 +51043,7 @@
       </trans-unit>
       <trans-unit id="Already claimed" xml:space="preserve">
         <source xml:space="preserve">Already claimed</source>
-        <target xml:space="preserve" state="translated">Al geclaimd</target>
+        <target xml:space="preserve" state="translated">Al in bezit genomen</target>
       </trans-unit>
       <trans-unit id="Property type can't be changed, Education feature is not yet implemented." xml:space="preserve">
         <source xml:space="preserve">Property type can't be changed, Education feature is not yet implemented.</source>
@@ -52546,7 +52546,7 @@
       </trans-unit>
       <trans-unit id="Executive Action in {0} by {1}" xml:space="preserve">
         <source xml:space="preserve">Executive Action in <ph id="0">{0}</ph> by <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Uitvoerende maatregelen in <ph id="0">{0}</ph> door <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Kabinetsbesluit in <ph id="0">{0}</ph> door <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Invalid source account: {0}" xml:space="preserve">
         <source xml:space="preserve">Invalid source account: <ph id="0">{0}</ph></source>
@@ -67730,7 +67730,7 @@ Informatie over de akte:</target>
         <source xml:space="preserve">Are you sure you want to leave residency of <ph id="0">{0}</ph>? You will lose access to your items on the deed:
 
 <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Weet je zeker dat je je verblijfplaats op <ph id="0">{0}</ph> wilt verlaten? Je verliest dan de toegang tot je items op de akte:
+        <target xml:space="preserve" state="translated">Weet je zeker dat je je ingezetenschap van <ph id="0">{0}</ph> wilt opgeven? Je verliest dan de toegang tot je voorwerpen op de akte:
 
 <ph id="1">{1}</ph>.</target>
       </trans-unit>
@@ -68437,7 +68437,7 @@ Eco</target>
       <trans-unit id="Residency&#10;" xml:space="preserve">
         <source xml:space="preserve">Residency
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verblijfplaats
+        <target xml:space="preserve" state="translated">Ingezetenschap
 </target>
       </trans-unit>
       <trans-unit id="Disabled: Residents are not allowed when&#10;Property Type is not set to 'Residence'." xml:space="preserve">
@@ -68983,7 +68983,7 @@ Je kunt de maker van het kanaal niet verwijderen.</target>
       <trans-unit id="Elected Titles&#10;" xml:space="preserve">
         <source xml:space="preserve">Elected Titles
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verkozen titels
+        <target xml:space="preserve" state="translated">Gekozen functies
 </target>
       </trans-unit>
       <trans-unit id="Elections can have multiple 'provisions' added to them before voting starts.  To add more, edit the civic object (law, demographic, etc) and attach it to this election. &#10;&#10;Once an election is started, no more provisions can be added." xml:space="preserve">
