@@ -922,7 +922,7 @@ Many recipes require labor of a specific {Skill|skills overview}.  While any cit
       </trans-unit>
       <trans-unit id="117" xml:space="preserve">
         <source xml:space="preserve">Crafting is the creation of products by citizens at specific tables.</source>
-        <target xml:space="preserve" state="translated">クラフトとは、特定のテーブルで住民が製品を作成することです。</target>
+        <target xml:space="preserve" state="translated">クラフトとは、市民が専用のテーブルで製品を作成することです。</target>
       </trans-unit>
       <trans-unit id="118" xml:space="preserve">
         <source xml:space="preserve">Currency is a means of facilitating trade, as a representation of value. Its value is entirely determined by how it is used.
