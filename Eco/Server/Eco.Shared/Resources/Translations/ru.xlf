@@ -32122,7 +32122,7 @@
       </trans-unit>
       <trans-unit id="Average room Tier: you have" xml:space="preserve">
         <source xml:space="preserve">Average room Tier: you have</source>
-        <target xml:space="preserve" state="translated">Средний уровень комнаты:</target>
+        <target xml:space="preserve" state="translated">Средний уровень комнаты: у вас</target>
       </trans-unit>
       <trans-unit id="m3" xml:space="preserve">
         <source xml:space="preserve">m3</source>
@@ -42016,7 +42016,7 @@
       </trans-unit>
       <trans-unit id="Mount Action" xml:space="preserve">
         <source xml:space="preserve">Mount Action</source>
-        <target xml:space="preserve" state="translated">Садится в(на) объект.</target>
+        <target xml:space="preserve" state="translated">Садится в(на) объект</target>
       </trans-unit>
       <trans-unit id="Mount an object." xml:space="preserve">
         <source xml:space="preserve">Mount an object.</source>
@@ -51758,7 +51758,7 @@
       </trans-unit>
       <trans-unit id="Max Givable Reputation Through Laws" xml:space="preserve">
         <source xml:space="preserve">Max Givable Reputation Through Laws</source>
-        <target xml:space="preserve" state="needs-translation">Максимальная репутация, которую можно получить благодаря законам</target>
+        <target xml:space="preserve" state="translated">Максимальная репутация которую можно получить благодаря законам</target>
       </trans-unit>
       <trans-unit id="Max Givable To Single Party Per Day" xml:space="preserve">
         <source xml:space="preserve">Max Givable To Single Party Per Day</source>
@@ -61331,7 +61331,7 @@
       </trans-unit>
       <trans-unit id="Reduce Gold Bar recipes resource cost and decreases pollution but increases costs of Copper Bars." xml:space="preserve">
         <source xml:space="preserve">Reduce Gold Bar recipes resource cost and decreases pollution but increases costs of Copper Bars.</source>
-        <target xml:space="preserve" state="translated">Уменьшает затраты ресурсов на создание Золотых слитков и снижает загрязнение, но увеличивает затраты на Медные слитки</target>
+        <target xml:space="preserve" state="translated">Снижает расход ресурсов на рецепты золотых слитков и уменьшает загрязнение окружающей среды, но увеличивает расход медных слитков.</target>
       </trans-unit>
       <trans-unit id="Gilded Expert: Smelting" xml:space="preserve">
         <source xml:space="preserve">Gilded Expert: Smelting</source>
@@ -69521,7 +69521,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="May Tax Child Settlements" xml:space="preserve">
         <source xml:space="preserve">May Tax Child Settlements</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Может ли налог повлиять на выплаты по детям?</target>
+        <target state="translated">Налоговые вычеты на детей</target>
       </trans-unit>
       <trans-unit id="If set, a parent settlement's laws may withdraw from (tax, pay from, or transfer out of) the government accounts of its child settlements. When unset, only a settlement's own laws may withdraw from its accounts; money may always be sent into a settlement regardless." xml:space="preserve">
         <source xml:space="preserve">If set, a parent settlement's laws may withdraw from (tax, pay from, or transfer out of) the government accounts of its child settlements. When unset, only a settlement's own laws may withdraw from its accounts; money may always be sent into a settlement regardless.</source>
@@ -71313,7 +71313,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="Residual Waste Sorter" xml:space="preserve">
         <source xml:space="preserve">Residual Waste Sorter</source>
-        <target state="needs-translation">Сортировщик остаточных отходов</target>
+        <target state="translated">Сортировщик остаточных отходов</target>
       </trans-unit>
       <trans-unit id="A classic bin for all your disposal needs." xml:space="preserve">
         <source xml:space="preserve">A classic bin for all your disposal needs.</source>
@@ -71718,6 +71718,7 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="In-world sale">
         <source xml:space="preserve">In-world sale</source>
+        <target state="translated">Распродажа в мире</target>
       </trans-unit>
       <trans-unit id="Select Status Filter" xml:space="preserve">
         <source xml:space="preserve">Select Status Filter</source>
@@ -71725,6 +71726,7 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="Statuses">
         <source xml:space="preserve">Statuses</source>
+        <target state="translated">Статусы</target>
       </trans-unit>
       <trans-unit id="Acid Rain" xml:space="preserve">
         <source xml:space="preserve">Acid Rain</source>
@@ -71792,6 +71794,7 @@ To play here you need to switch to a different game branch, check our discord fo
       <trans-unit id="Ground: {0:0.00} | Potential: {1:0.00}&#10;">
         <source xml:space="preserve">Ground: <ph id="0">{0:0.00}</ph> | Potential: <ph id="1">{1:0.00}</ph>
 </source>
+        <target state="translated">Земля: <ph id="0">{0:0.00}</ph> | Потенциал: <ph id="1">{1:0.00}</ph> </target>
       </trans-unit>
       <trans-unit id="Pollution layers cleared." xml:space="preserve">
         <source xml:space="preserve">Pollution layers cleared.</source>
@@ -71803,6 +71806,7 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="AnimalLayerSettings '{0}': HabitabilityLayer '{1}' not found in WorldLayerManager settings.">
         <source xml:space="preserve">AnimalLayerSettings '<ph id="0">{0}</ph>': HabitabilityLayer '<ph id="1">{1}</ph>' not found in WorldLayerManager settings.</source>
+        <target state="translated">Настройки слоя «Животные» '<ph id="0">{0}</ph>': Слой обитаемости '<ph id="1">{1}</ph>' не найден в настройках Менеджера слоев мира.</target>
       </trans-unit>
       <trans-unit id="The maximum number of dinner parties for today ({0}) has already been reached on {1}." xml:space="preserve">
         <source xml:space="preserve">The maximum number of dinner parties for today (<ph id="0">{0}</ph>) has already been reached on <ph id="1">{1}</ph>.</source>
@@ -71973,6 +71977,7 @@ To play here you need to switch to a different game branch, check our discord fo
       </trans-unit>
       <trans-unit id="Benefits in {0}">
         <source xml:space="preserve">Benefits in <ph id="0">{0}</ph></source>
+        <target state="translated">Преимущества в <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="throughout the settlement" xml:space="preserve">
         <source xml:space="preserve">throughout the settlement</source>
