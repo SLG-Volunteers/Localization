@@ -2838,7 +2838,7 @@
       </trans-unit>
       <trans-unit id="Products" xml:space="preserve">
         <source xml:space="preserve">Products</source>
-        <target xml:space="preserve" state="translated">製品</target>
+        <target xml:space="preserve" state="translated">プロダクト</target>
       </trans-unit>
       <trans-unit id="No benefits from skills" xml:space="preserve">
         <source xml:space="preserve">No benefits from skills</source>
@@ -16192,7 +16192,7 @@
       </trans-unit>
       <trans-unit id="product" xml:space="preserve">
         <source xml:space="preserve">product</source>
-        <target xml:space="preserve" state="translated">製品</target>
+        <target xml:space="preserve" state="translated">プロダクト</target>
       </trans-unit>
       <trans-unit id="{0} was removed." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> was removed.</source>
@@ -23658,7 +23658,7 @@
       </trans-unit>
       <trans-unit id="Product" xml:space="preserve">
         <source xml:space="preserve">Product</source>
-        <target xml:space="preserve" state="translated">製品</target>
+        <target xml:space="preserve" state="translated">プロダクト</target>
       </trans-unit>
       <trans-unit id="Ingredient" xml:space="preserve">
         <source xml:space="preserve">Ingredient</source>
@@ -35568,15 +35568,15 @@
       </trans-unit>
       <trans-unit id="{0} {1} value {2} {3}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> <ph id="1">{1}</ph> value <ph id="2">{2}</ph> <ph id="3">{3}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>  <ph id="1">{1}</ph>価値<ph id="2">{2}</ph> <ph id="3">{3}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="1">{1}</ph> 価値 <ph id="2">{2}</ph> <ph id="3">{3}</ph></target>
       </trans-unit>
       <trans-unit id="{0} is a {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is a <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は<ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0} is not {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is not <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は<ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="1">{1}</ph> ではない</target>
       </trans-unit>
       <trans-unit id="Total: {0}" xml:space="preserve">
         <source xml:space="preserve">Total: <ph id="0">{0}</ph></source>
@@ -35592,7 +35592,7 @@
       </trans-unit>
       <trans-unit id="{0} (result of {1})" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> (result of <ph id="1">{1}</ph>)</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> (<ph id="1">{1}</ph>の結果)</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> (<ph id="1">{1}</ph> の結果)</target>
       </trans-unit>
       <trans-unit id="Click {0}" xml:space="preserve">
         <source xml:space="preserve">Click <ph id="0">{0}</ph></source>
@@ -35604,7 +35604,7 @@
       </trans-unit>
       <trans-unit id="{0} must stand after {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> must stand after <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は<ph id="1">{1}</ph>の後ろに立たなければならない</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="1">{1}</ph> の後ろに立たなければならない</target>
       </trans-unit>
       <trans-unit id="Progressive percent of {0}" xml:space="preserve">
         <source xml:space="preserve">Progressive percent of <ph id="0">{0}</ph></source>
@@ -35640,7 +35640,7 @@
       </trans-unit>
       <trans-unit id="Change reputation of {0} by {1} with message '{2}'." xml:space="preserve">
         <source xml:space="preserve">Change reputation of <ph id="0">{0}</ph> by <ph id="1">{1}</ph> with message '<ph id="2">{2}</ph>'.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> の評判を変えるために、<ph id="2">{2}</ph>というメッセージで<ph id="1">{1}</ph>。</target>
+        <target xml:space="preserve" state="translated"><ph id="1">{1}</ph> による <ph id="0">{0}</ph> の評判を <ph id="2">{2}</ph> というメッセージをつけて変更。</target>
       </trans-unit>
       <trans-unit id="Possible access through {0}" xml:space="preserve">
         <source xml:space="preserve">Possible access through <ph id="0">{0}</ph></source>
@@ -35700,7 +35700,7 @@
       </trans-unit>
       <trans-unit id="Learned from {0}. Spent {1}." xml:space="preserve">
         <source xml:space="preserve">Learned from <ph id="0">{0}</ph>. Spent <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> から学んだ。<ph id="1">{1}</ph>を使った。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> から学んだ。<ph id="1">{1}</ph> を使った。</target>
       </trans-unit>
       <trans-unit id="Self-Taught. Spent {0}." xml:space="preserve">
         <source xml:space="preserve">Self-Taught. Spent <ph id="0">{0}</ph>.</source>
@@ -35732,7 +35732,7 @@
       </trans-unit>
       <trans-unit id="Education of {0} set to {1}." xml:space="preserve">
         <source xml:space="preserve">Education of <ph id="0">{0}</ph> set to <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 教育は<ph id="1">{1}</ph>に設定されています。</target>
+        <target xml:space="preserve" state="translated">教育 <ph id="0">{0}</ph> は <ph id="1">{1}</ph> に設定されています。</target>
       </trans-unit>
       <trans-unit id="Couldn't find scroll for {0}." xml:space="preserve">
         <source xml:space="preserve">Couldn't find scroll for <ph id="0">{0}</ph>.</source>
@@ -35764,7 +35764,7 @@
       </trans-unit>
       <trans-unit id="{0} has become a {1} specialist, {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has become a <ph id="1">{1}</ph> specialist, <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は<ph id="1">{1}</ph>の専門家、<ph id="2">{2}</ph>。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="1">{1}</ph> の専門家になり、<ph id="2">{2}</ph>。</target>
       </trans-unit>
       <trans-unit id="self-taught" xml:space="preserve">
         <source xml:space="preserve">self-taught</source>
@@ -35808,7 +35808,7 @@
       </trans-unit>
       <trans-unit id="You are currently a resident of {0}, are you sure you want to leave residency there and switch to {1}? You can't be a resident of multiple land-holding deeds. (Note: Deeds without land, such as vehicle deeds, are permitted for multiple residencies.)" xml:space="preserve">
         <source xml:space="preserve">You are currently a resident of <ph id="0">{0}</ph>, are you sure you want to leave residency there and switch to <ph id="1">{1}</ph>? You can't be a resident of multiple land-holding deeds. (Note: Deeds without land, such as vehicle deeds, are permitted for multiple residencies.)</source>
-        <target xml:space="preserve" state="translated">現在は <ph id="0">{0}</ph> のレジデントですが、本当にレジデンシーを離れて<ph id="1">{1}</ph>に切り替えたいですか?複数の土地所有証書の居住者になることはできません。(注:車両の権利証など、土地のない権利証書は複数の居住者に認められています。)</target>
+        <target xml:space="preserve" state="translated">現在は <ph id="0">{0}</ph> のレジデントですが、本当にレジデンシーを離れて <ph id="1">{1}</ph> に切り替えたいですか?複数の土地所有証書の居住者になることはできません。（注:車両の権利証など、土地のない権利証書は複数の居住者に認められています。）</target>
       </trans-unit>
       <trans-unit id="Items from eviction." xml:space="preserve">
         <source xml:space="preserve">Items from eviction.</source>
@@ -35832,7 +35832,7 @@
       </trans-unit>
       <trans-unit id="Cannot move selected plot onto {0}: would cause {1} to not have contiguous plots" xml:space="preserve">
         <source xml:space="preserve">Cannot move selected plot onto <ph id="0">{0}</ph>: would cause <ph id="1">{1}</ph> to not have contiguous plots</source>
-        <target xml:space="preserve" state="translated">選択されたプロットを <ph id="0">{0}</ph> に移動できない:<ph id="1">{1}</ph>連続したプロットができなくなります</target>
+        <target xml:space="preserve" state="translated">選択されたプロットを <ph id="0">{0}</ph> に移動できません： <ph id="1">{1}</ph> 連続したプロットができなくなります</target>
       </trans-unit>
       <trans-unit id="Achievements: {0}" xml:space="preserve">
         <source xml:space="preserve">Achievements: <ph id="0">{0}</ph></source>
@@ -35848,7 +35848,7 @@
       </trans-unit>
       <trans-unit id="You energized {0} with {1} hours of extra energy to work while otherwise exhausted." xml:space="preserve">
         <source xml:space="preserve">You energized <ph id="0">{0}</ph> with <ph id="1">{1}</ph> hours of extra energy to work while otherwise exhausted.</source>
-        <target xml:space="preserve" state="translated">疲れ切っている間に<ph id="1">{1}</ph>時間の余分なエネルギーで <ph id="0">{0}</ph> を元気づけた。</target>
+        <target xml:space="preserve" state="translated">あなたは <ph id="0">{0}</ph> にエネルギーを与え、疲労状態でもさらに <ph id="1">{1}</ph> 時間働けるようにしました。</target>
       </trans-unit>
       <trans-unit id="You exhausted {0} for the day." xml:space="preserve">
         <source xml:space="preserve">You exhausted <ph id="0">{0}</ph> for the day.</source>
@@ -35884,7 +35884,7 @@
       </trans-unit>
       <trans-unit id="(where a ratio of {0} is {1} and a ratio of {2} is {3})" xml:space="preserve">
         <source xml:space="preserve">(where a ratio of <ph id="0">{0}</ph> is <ph id="1">{1}</ph> and a ratio of <ph id="2">{2}</ph> is <ph id="3">{3}</ph>)</source>
-        <target xml:space="preserve" state="translated">(ここで、比率 <ph id="0">{0}</ph> は<ph id="1">{1}</ph>、比率は<ph id="2">{2}</ph>が<ph id="3">{3}</ph>)</target>
+        <target xml:space="preserve" state="translated">（ここで、比率 <ph id="0">{0}</ph> は <ph id="1">{1}</ph> 、比率は <ph id="2">{2}</ph> が <ph id="3">{3}</ph>）</target>
       </trans-unit>
       <trans-unit id="No nutrients." xml:space="preserve">
         <source xml:space="preserve">No nutrients.</source>
@@ -35924,7 +35924,7 @@
       </trans-unit>
       <trans-unit id="There are {0} {1} in the world" xml:space="preserve">
         <source xml:space="preserve">There are <ph id="0">{0}</ph> <ph id="1">{1}</ph> in the world</source>
-        <target xml:space="preserve" state="translated">世界にはこういう <ph id="0">{0}</ph>  <ph id="1">{1}</ph>がある</target>
+        <target xml:space="preserve" state="translated">ワールドには <ph id="0">{0}</ph> <ph id="1">{1}</ph> 存在する</target>
       </trans-unit>
       <trans-unit id="There is one {0} in the world" xml:space="preserve">
         <source xml:space="preserve">There is one <ph id="0">{0}</ph> in the world</source>
@@ -35957,11 +35957,11 @@
       </trans-unit>
       <trans-unit id="{0} is at its current max of {1} plots." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is at its current max of <ph id="1">{1}</ph> plots.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 現在の最大<ph id="1">{1}</ph>区画です。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 現在の最大 <ph id="1">{1}</ph> 区画です。</target>
       </trans-unit>
       <trans-unit id="{0} doesn't have enough {1} to cover the {2} of {3}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> doesn't have enough <ph id="1">{1}</ph> to cover the <ph id="2">{2}</ph> of <ph id="3">{3}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="3">{3}</ph>のの<ph id="2">{2}</ph>をカバーする十分な<ph id="1">{1}</ph>がありません。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="3">{3}</ph> の <ph id="2">{2}</ph> をカバーする十分な <ph id="1">{1}</ph> がありません。</target>
       </trans-unit>
       <trans-unit id="{0} is set to an invalid amount: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is set to an invalid amount: <ph id="1">{1}</ph></source>
@@ -35997,15 +35997,15 @@
       </trans-unit>
       <trans-unit id="The Solar Generator must be outside." xml:space="preserve">
         <source xml:space="preserve">The Solar Generator must be outside.</source>
-        <target xml:space="preserve" state="translated">ソーラージェネレーターは外にあるはずだ。</target>
+        <target xml:space="preserve" state="translated">太陽光発電は屋外に設置する必要があります。</target>
       </trans-unit>
       <trans-unit id="The Solar Generator sees {0}% of the sky, generating {1}w of the maximum of {2}. Generator footprint is {3}x{4}." xml:space="preserve">
         <source xml:space="preserve">The Solar Generator sees <ph id="0">{0}</ph>% of the sky, generating <ph id="1">{1}</ph>w of the maximum of <ph id="2">{2}</ph>. Generator footprint is <ph id="3">{3}</ph>x<ph id="4">{4}</ph>.</source>
-        <target xml:space="preserve" state="translated">ソーラージェネレーターは空の <ph id="0">{0}</ph> %を見渡し、最大<ph id="2">{2}</ph>の<ph id="1">{1}</ph>wを生成します。発電機の設置場所は<ph id="3">{3}</ph>×<ph id="4">{4}</ph>です。</target>
+        <target xml:space="preserve" state="translated">太陽光発電の上空は <ph id="0">{0}</ph>%開けており、最大 <ph id="2">{2}</ph> W中 <ph id="1">{1}</ph>W発電しています。発電機の設置場所は <ph id="3">{3}</ph>×<ph id="4">{4}</ph>です。</target>
       </trans-unit>
       <trans-unit id="The Solar Generator requires a view of the sky to operate." xml:space="preserve">
         <source xml:space="preserve">The Solar Generator requires a view of the sky to operate.</source>
-        <target xml:space="preserve" state="translated">ソーラージェネレーターは動作するために空の眺めが必要です。</target>
+        <target xml:space="preserve" state="translated">太陽光発電が動作するためには上空が開けている必要があります。</target>
       </trans-unit>
       <trans-unit id="No objects required by power grid network" xml:space="preserve">
         <source xml:space="preserve">No objects required by power grid network</source>
@@ -36049,11 +36049,11 @@
       </trans-unit>
       <trans-unit id="{0} is now a student of {1} at {2}. {3}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is now a student of <ph id="1">{1}</ph> at <ph id="2">{2}</ph>. <ph id="3">{3}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 現在は<ph id="2">{2}</ph>で<ph id="1">{1}</ph>の学生です。<ph id="3">{3}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="2">{2}</ph> で <ph id="1">{1}</ph> の学生です。<ph id="3">{3}</ph></target>
       </trans-unit>
       <trans-unit id="{0} has enrolled in your {1} class.  You will collect {2} when they complete the class." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has enrolled in your <ph id="1">{1}</ph> class.  You will collect <ph id="2">{2}</ph> when they complete the class.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 君の<ph id="1">{1}</ph>クラスに登録した。 クラスを終えたら<ph id="2">{2}</ph>を集めます。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> はあなたのクラス <ph id="1">{1}</ph> を受講しました。 クラスを修了すると <ph id="2">{2}</ph> を受け取ります。</target>
       </trans-unit>
       <trans-unit id="Cannot become a teacher here, requirements not satisfied." xml:space="preserve">
         <source xml:space="preserve">Cannot become a teacher here, requirements not satisfied.</source>
@@ -36069,7 +36069,7 @@
       </trans-unit>
       <trans-unit id="{0} is now teaching {1} at {2}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is now teaching <ph id="1">{1}</ph> at <ph id="2">{2}</ph>.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> 現在は<ph id="2">{2}</ph>で<ph id="1">{1}</ph>を教えています。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> は <ph id="2">{2}</ph> で <ph id="1">{1}</ph> を教えています。</target>
       </trans-unit>
       <trans-unit id="Are you sure you want to stop teaching? You will lose {0} queued teaching calories." xml:space="preserve">
         <source xml:space="preserve">Are you sure you want to stop teaching? You will lose <ph id="0">{0}</ph> queued teaching calories.</source>
@@ -36081,7 +36081,7 @@
       </trans-unit>
       <trans-unit id="{0} calories applied to studying.  {1} of calories needed for class have been applied." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> calories applied to studying.  <ph id="1">{1}</ph> of calories needed for class have been applied.</source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> カロリーは勉強に使われます。 授業に必要なカロリーの<ph id="1">{1}</ph>が適用されています。</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> カロリーを学習に使用しました。授業に必要なカロリーの <ph id="1">{1}</ph> が使用済みです。</target>
       </trans-unit>
       <trans-unit id="Teaching not started:" xml:space="preserve">
         <source xml:space="preserve">Teaching not started:</source>
@@ -36093,7 +36093,7 @@
       </trans-unit>
       <trans-unit id="{0} has successfully completed a class in {1} taught by {2}.{3}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has successfully completed a class in <ph id="1">{1}</ph> taught by <ph id="2">{2}</ph>.<ph id="3">{3}</ph></source>
-        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> <ph id="2">{2}</ph>が担当する<ph id="1">{1}</ph>クラスを無事修了しています。<ph id="3">{3}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> が講師 <ph id="2">{2}</ph> による <ph id="1">{1}</ph> の授業が無事修了しました。<ph id="3">{3}</ph></target>
       </trans-unit>
       <trans-unit id="You have completed your course in {0} taught by {1}!{2}" xml:space="preserve">
         <source xml:space="preserve">You have completed your course in <ph id="0">{0}</ph> taught by <ph id="1">{1}</ph>!<ph id="2">{2}</ph></source>
@@ -63758,7 +63758,7 @@
       </trans-unit>
       <trans-unit id=" - +{0} tier bonus to painted blocks" xml:space="preserve">
         <source xml:space="preserve"> - +<ph id="0">{0}</ph> tier bonus to painted blocks</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"> - +<ph id="0">{0} 塗装されたブロックへの</ph>のティアボーナス</target>
+        <target xml:space="preserve" state="translated"> - +<ph id="0">{0} 塗装されたブロックへの</ph>のティアボーナス</target>
       </trans-unit>
       <trans-unit id="Room Benefits" xml:space="preserve">
         <source xml:space="preserve">Room Benefits</source>
