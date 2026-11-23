@@ -7585,7 +7585,7 @@
       </trans-unit>
       <trans-unit id="{0} has abandoned the {1} specialty." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has abandoned the <ph id="1">{1}</ph> specialty.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> heeft de <ph id="1">{1}</ph> specialiteit opgegeven.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> heeft de specialisatie <ph id="1">{1}</ph> opgegeven.</target>
       </trans-unit>
       <trans-unit id="The property on this deed can only be unclaimed by {0}" xml:space="preserve">
         <source xml:space="preserve">The property on this deed can only be unclaimed by <ph id="0">{0}</ph></source>
@@ -8019,7 +8019,7 @@
       </trans-unit>
       <trans-unit id="Specialty Cost Multiplier" xml:space="preserve">
         <source xml:space="preserve">Specialty Cost Multiplier</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Specialiteit Kostenvermenigvuldiger</target>
+        <target xml:space="preserve" state="translated">Kostenvermenigvuldiger voor specialisaties</target>
       </trans-unit>
       <trans-unit id="Skill Gain Multiplier" xml:space="preserve">
         <source xml:space="preserve">Skill Gain Multiplier</source>
@@ -13781,7 +13781,7 @@
       </trans-unit>
       <trans-unit id="The specialty gained." xml:space="preserve">
         <source xml:space="preserve">The specialty gained.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De verworven specialiteit.</target>
+        <target xml:space="preserve" state="translated">De verworven specialisatie.</target>
       </trans-unit>
       <trans-unit id="Level reached." xml:space="preserve">
         <source xml:space="preserve">Level reached.</source>
@@ -19638,11 +19638,11 @@
       </trans-unit>
       <trans-unit id="A citizen leveled-up a specialty." xml:space="preserve">
         <source xml:space="preserve">A citizen leveled-up a specialty.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een burger heeft een specialiteit naar een hoger niveau getild.</target>
+        <target xml:space="preserve" state="translated">Een burger is in een specialisatie een niveau gestegen.</target>
       </trans-unit>
       <trans-unit id="A citizen leveled-up their character, gaining a new specialty to choose." xml:space="preserve">
         <source xml:space="preserve">A citizen leveled-up their character, gaining a new specialty to choose.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een burger heeft zijn personage een level omhoog gebracht en kan nu een nieuwe specialiteit kiezen.</target>
+        <target xml:space="preserve" state="translated">Een burger is met zijn personage een niveau gestegen en kan een nieuwe specialisatie kiezen.</target>
       </trans-unit>
       <trans-unit id="The citizen leveling up." xml:space="preserve">
         <source xml:space="preserve">The citizen leveling up.</source>
@@ -25207,7 +25207,7 @@
       </trans-unit>
       <trans-unit id="Specialties unlock new unique abilities and crafting recipes. New specialties can be gained by earning character experience." xml:space="preserve">
         <source xml:space="preserve">Specialties unlock new unique abilities and crafting recipes. New specialties can be gained by earning character experience.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Specialiteiten ontgrendelen nieuwe unieke vaardigheden en recepten voor het maken van voorwerpen. Je kunt nieuwe specialiteiten verdienen door ervaring te verzamelen met je personage.</target>
+        <target xml:space="preserve" state="translated">Specialisaties ontgrendelen nieuwe, unieke vaardigheden en recepten. Je krijgt nieuwe specialisaties door ervaring met je personage te verdienen.</target>
       </trans-unit>
       <trans-unit id="The current spawn location." xml:space="preserve">
         <source xml:space="preserve">The current spawn location.</source>
@@ -25432,11 +25432,11 @@
       </trans-unit>
       <trans-unit id="By spending a star, players can learn a new specialty. New stars are unlocked over time by earning character experience." xml:space="preserve">
         <source xml:space="preserve">By spending a star, players can learn a new specialty. New stars are unlocked over time by earning character experience.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Door een ster uit te geven, kunnen spelers een nieuwe specialiteit leren. Nieuwe sterren worden na verloop van tijd vrijgespeeld door ervaring te verdienen met je personage.</target>
+        <target xml:space="preserve" state="translated">Door een ster te besteden kunnen spelers een nieuwe specialisatie leren. Nieuwe sterren komen na verloop van tijd vrij door ervaring met je personage te verdienen.</target>
       </trans-unit>
       <trans-unit id="Levels are gained in a specialty when using the skill, either by crafting related recipes or using tools that receive a bonus with the specialty." xml:space="preserve">
         <source xml:space="preserve">Levels are gained in a specialty when using the skill, either by crafting related recipes or using tools that receive a bonus with the specialty.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je stijgt in niveau in een specialiteit door de vaardigheid te gebruiken, hetzij door gerelateerde recepten te maken, hetzij door gereedschap te gebruiken dat een bonus krijgt bij die specialiteit.</target>
+        <target xml:space="preserve" state="translated">Je stijgt in niveau in een specialisatie door de vaardigheid te gebruiken: door bijbehorende recepten te maken of door gereedschap te gebruiken dat met die specialisatie een bonus krijgt.</target>
       </trans-unit>
       <trans-unit id="Change the form type in the building menu by pressing F while holding a hammer." xml:space="preserve">
         <source xml:space="preserve">Change the form type in the building menu by pressing F while holding a hammer.</source>
@@ -25818,7 +25818,7 @@
       </trans-unit>
       <trans-unit id="You have been given {0} specialty points by {1}." xml:space="preserve">
         <source xml:space="preserve">You have been given <ph id="0">{0}</ph> specialty points by <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je hebt <ph id="0">{0}</ph> specialiteitspunten gekregen van <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Je hebt <ph id="0">{0}</ph> specialisatiepunten gekregen van <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Payments" xml:space="preserve">
         <source xml:space="preserve">Payments</source>
@@ -26141,7 +26141,7 @@
       </trans-unit>
       <trans-unit id="The more balanced your diet, the faster you gain specialty points." xml:space="preserve">
         <source xml:space="preserve">The more balanced your diet, the faster you gain specialty points.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Hoe evenwichtiger je dieet, hoe sneller je specialiteitspunten verdient.</target>
+        <target xml:space="preserve" state="translated">Hoe evenwichtiger je voeding, hoe sneller je specialisatiepunten verdient.</target>
       </trans-unit>
       <trans-unit id="Time slept:" xml:space="preserve">
         <source xml:space="preserve">Time slept:</source>
@@ -27153,7 +27153,7 @@
       </trans-unit>
       <trans-unit id="Homestead" xml:space="preserve">
         <source xml:space="preserve">Homestead</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Homestead</target>
+        <target xml:space="preserve" state="translated">Hoeve</target>
       </trans-unit>
       <trans-unit id="Town" xml:space="preserve">
         <source xml:space="preserve">Town</source>
@@ -30348,7 +30348,7 @@
       </trans-unit>
       <trans-unit id="Gain Specialty" xml:space="preserve">
         <source xml:space="preserve">Gain Specialty</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Specialiteit verwerven</target>
+        <target xml:space="preserve" state="translated">Specialisatie verwerven</target>
       </trans-unit>
       <trans-unit id="Gain Profession" xml:space="preserve">
         <source xml:space="preserve">Gain Profession</source>
@@ -30356,7 +30356,7 @@
       </trans-unit>
       <trans-unit id="Specialty Level Up" xml:space="preserve">
         <source xml:space="preserve">Specialty Level Up</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Specialiteit Level Up</target>
+        <target xml:space="preserve" state="translated">Hoger niveau in specialisatie</target>
       </trans-unit>
       <trans-unit id="Character Level Up" xml:space="preserve">
         <source xml:space="preserve">Character Level Up</source>
@@ -31092,11 +31092,11 @@
       </trans-unit>
       <trans-unit id="You have reset all specialities for {0}" xml:space="preserve">
         <source xml:space="preserve">You have reset all specialities for <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je hebt alle specialiteiten gereset voor <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Je hebt alle specialisaties van <ph id="0">{0}</ph> teruggezet</target>
       </trans-unit>
       <trans-unit id="{0} has reset all your specialities" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has reset all your specialities</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> heeft al je specialiteiten gereset</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> heeft al je specialisaties teruggezet</target>
       </trans-unit>
       <trans-unit id="You have removed talent {0} from {1}" xml:space="preserve" translate="no">
         <source xml:space="preserve">You have removed talent <ph id="0">{0}</ph> from <ph id="1">{1}</ph></source>
@@ -31212,7 +31212,7 @@
       </trans-unit>
       <trans-unit id="You have abandoned {0} specialty" xml:space="preserve">
         <source xml:space="preserve">You have abandoned <ph id="0">{0}</ph> specialty</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je hebt <ph id="0">{0} verlaten</ph>-specialiteit</target>
+        <target xml:space="preserve" state="translated">Je hebt de specialisatie <ph id="0">{0}</ph> opgegeven</target>
       </trans-unit>
       <trans-unit id="{0} Empty Corner {1} ({2})" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Empty Corner <ph id="1">{1}</ph> (<ph id="2">{2}</ph>)</source>
@@ -34794,7 +34794,7 @@
       </trans-unit>
       <trans-unit id="Max Specialties per Citizen: {0}" xml:space="preserve">
         <source xml:space="preserve">Max Specialties per Citizen: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Max. specialiteiten per burger: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Max. specialisaties per burger: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="{0} star: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> star: <ph id="1">{1}</ph></source>
@@ -35718,7 +35718,7 @@
       </trans-unit>
       <trans-unit id="Claimed Specialty, Level {0}" xml:space="preserve">
         <source xml:space="preserve">Claimed Specialty, Level <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Geclaimde specialiteit, niveau <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Gekozen specialisatie, niveau <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="{0} educated." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> educated.</source>
@@ -35754,7 +35754,7 @@
       </trans-unit>
       <trans-unit id="Max specialties of {0} reached! Unable to learn a new one." xml:space="preserve">
         <source xml:space="preserve">Max specialties of <ph id="0">{0}</ph> reached! Unable to learn a new one.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Max-specialiteiten van <ph id="0">{0}</ph> bereikt! Je kunt geen nieuwe leren.</target>
+        <target xml:space="preserve" state="translated">Maximum van <ph id="0">{0}</ph> specialisaties bereikt! Je kunt geen nieuwe leren.</target>
       </trans-unit>
       <trans-unit id="taught by {0}" xml:space="preserve">
         <source xml:space="preserve">taught by <ph id="0">{0}</ph></source>
@@ -37633,11 +37633,11 @@
       </trans-unit>
       <trans-unit id="You gave {0} specialty points to {1}" xml:space="preserve">
         <source xml:space="preserve">You gave <ph id="0">{0}</ph> specialty points to <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je hebt <ph id="0">{0}</ph> specialiteitspunten gegeven aan <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Je hebt <ph id="0">{0}</ph> specialisatiepunten aan <ph id="1">{1}</ph> gegeven</target>
       </trans-unit>
       <trans-unit id="You removed {0} specialty points from {1}" xml:space="preserve">
         <source xml:space="preserve">You removed <ph id="0">{0}</ph> specialty points from <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je hebt <ph id="0">{0}</ph> specialiteitspunten verwijderd van <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Je hebt <ph id="0">{0}</ph> specialisatiepunten van <ph id="1">{1}</ph> afgenomen</target>
       </trans-unit>
       <trans-unit id="You gave {0} levels to {1}" xml:space="preserve">
         <source xml:space="preserve">You gave <ph id="0">{0}</ph> levels to <ph id="1">{1}</ph></source>
@@ -37649,7 +37649,7 @@
       </trans-unit>
       <trans-unit id="{0} has removed {1} specialty points from you." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has removed <ph id="1">{1}</ph> specialty points from you.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> heeft <ph id="1">{1}</ph> specialiteitspunten van je afgenomen.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> heeft <ph id="1">{1}</ph> specialisatiepunten van je afgenomen.</target>
       </trans-unit>
       <trans-unit id="You have been given {0} levels by {1}" xml:space="preserve">
         <source xml:space="preserve">You have been given <ph id="0">{0}</ph> levels by <ph id="1">{1}</ph></source>
@@ -37677,7 +37677,7 @@
       </trans-unit>
       <trans-unit id="Percentage to refund the player when they remove a specialty." xml:space="preserve">
         <source xml:space="preserve">Percentage to refund the player when they remove a specialty.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Percentage dat de speler terugkrijgt als hij een specialiteit verwijdert.</target>
+        <target xml:space="preserve" state="translated">Percentage dat de speler terugkrijgt als die een specialisatie verwijdert.</target>
       </trans-unit>
       <trans-unit id="The value must be between 0.01 and 100." xml:space="preserve">
         <source xml:space="preserve">The value must be between 0.01 and 100.</source>
@@ -37902,7 +37902,7 @@
       </trans-unit>
       <trans-unit id="Removes a specialty that matches the passed string." xml:space="preserve">
         <source xml:space="preserve">Removes a specialty that matches the passed string.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verwijdert een specialiteit die overeenkomt met de opgegeven tekenreeks.</target>
+        <target xml:space="preserve" state="translated">Verwijdert een specialisatie die overeenkomt met de opgegeven tekst.</target>
         <note from="developer">Help text for chat command /removespecialty</note>
       </trans-unit>
       <trans-unit id="Manages the citizens of this settlement." xml:space="preserve">
@@ -38019,11 +38019,11 @@
       </trans-unit>
       <trans-unit id="Lose Specialty" xml:space="preserve">
         <source xml:space="preserve">Lose Specialty</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verlies specialiteit</target>
+        <target xml:space="preserve" state="translated">Specialisatie verliezen</target>
       </trans-unit>
       <trans-unit id="A citizen lost a specialty." xml:space="preserve">
         <source xml:space="preserve">A citizen lost a specialty.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een burger is een specialiteit kwijtgeraakt.</target>
+        <target xml:space="preserve" state="translated">Een burger is een specialisatie kwijtgeraakt.</target>
       </trans-unit>
       <trans-unit id="Number of stars refunded." xml:space="preserve">
         <source xml:space="preserve">Number of stars refunded.</source>
@@ -39036,7 +39036,7 @@
       </trans-unit>
       <trans-unit id="Choose a Specialty" xml:space="preserve">
         <source xml:space="preserve">Choose a Specialty</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kies een specialiteit</target>
+        <target xml:space="preserve" state="translated">Kies een specialisatie</target>
       </trans-unit>
       <trans-unit id="Specializations are grouped into professions. Inspect a profession by mousing over its specialties." xml:space="preserve">
         <source xml:space="preserve">Specializations are grouped into professions. Inspect a profession by mousing over its specialties.</source>
@@ -39592,7 +39592,7 @@
       </trans-unit>
       <trans-unit id="You can discover new specialties and unlock new recipes by reading skill scrolls." xml:space="preserve">
         <source xml:space="preserve">You can discover new specialties and unlock new recipes by reading skill scrolls.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt nieuwe specialiteiten ontdekken en nieuwe recepten vrijspelen door vaardigheidsrollen te lezen.</target>
+        <target xml:space="preserve" state="translated">Je kunt nieuwe specialisaties ontdekken en nieuwe recepten vrijspelen door vaardigheidsrollen te lezen.</target>
       </trans-unit>
       <trans-unit id="Skills Panel Unlocked" xml:space="preserve">
         <source xml:space="preserve">Skills Panel Unlocked</source>
@@ -39604,7 +39604,7 @@
       </trans-unit>
       <trans-unit id="These benefits can be improved by leveling-up the specialty." xml:space="preserve">
         <source xml:space="preserve">These benefits can be improved by leveling-up the specialty.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze voordelen kun je verbeteren door de specialiteit te upgraden.</target>
+        <target xml:space="preserve" state="translated">Deze voordelen kun je vergroten door een hoger niveau in de specialisatie te halen.</target>
       </trans-unit>
       <trans-unit id="Baker" xml:space="preserve">
         <source xml:space="preserve">Baker</source>
@@ -40380,7 +40380,7 @@
       </trans-unit>
       <trans-unit id="Self-improvement increases both the amount of weight citizens can carry and their stomach capacity. It also decreases the calories expended when using hammers and shovels. Experience is gained when leveling up other specialties." xml:space="preserve">
         <source xml:space="preserve">Self-improvement increases both the amount of weight citizens can carry and their stomach capacity. It also decreases the calories expended when using hammers and shovels. Experience is gained when leveling up other specialties.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zelfverbetering verhoogt zowel het gewicht dat burgers kunnen dragen als hun maagcapaciteit. Het vermindert ook het aantal calorieën dat je verbruikt bij het gebruik van hamers en schoppen. Je doet ervaring op door andere specialiteiten te verbeteren.</target>
+        <target xml:space="preserve" state="translated">Zelfverbetering verhoogt zowel het gewicht dat burgers kunnen dragen als hun maagcapaciteit. Ook verbruik je minder calorieën met hamers en schoppen. Je krijgt ervaring als je in andere specialisaties een niveau stijgt.</target>
       </trans-unit>
       <trans-unit id="Pottery is an advancement in masonry and can provide an excellent building material for communities. Levels up by crafting related recipes." xml:space="preserve">
         <source xml:space="preserve">Pottery is an advancement in masonry and can provide an excellent building material for communities. Levels up by crafting related recipes.</source>
@@ -41044,7 +41044,7 @@
       </trans-unit>
       <trans-unit id="Displays info on what settlement this claim stake is tied to." xml:space="preserve">
         <source xml:space="preserve">Displays info on what settlement this claim stake is tied to.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Toont informatie over aan welke nederzetting deze claim is gekoppeld.</target>
+        <target xml:space="preserve" state="translated">Toont aan welke nederzetting deze grenspaal gekoppeld is.</target>
       </trans-unit>
       <trans-unit id="Target Settlement" xml:space="preserve">
         <source xml:space="preserve">Target Settlement</source>
@@ -41060,7 +41060,7 @@
       </trans-unit>
       <trans-unit id="Displays and sets the settlement that is the parent of this claim stake." xml:space="preserve">
         <source xml:space="preserve">Displays and sets the settlement that is the parent of this claim stake.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Geeft de nederzetting weer en stelt deze in die de bovenliggende nederzetting is van dit claimgebied.</target>
+        <target xml:space="preserve" state="translated">Toont en bepaalt de moedernederzetting van deze grenspaal.</target>
       </trans-unit>
       <trans-unit id="Settlement Name" xml:space="preserve">
         <source xml:space="preserve">Settlement Name</source>
@@ -43157,11 +43157,11 @@
       </trans-unit>
       <trans-unit id="You have reset all specialities for {0}." xml:space="preserve">
         <source xml:space="preserve">You have reset all specialities for <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je hebt alle specialiteiten gereset voor <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Je hebt alle specialisaties van <ph id="0">{0}</ph> teruggezet.</target>
       </trans-unit>
       <trans-unit id="{0} has reset all your specialities." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> has reset all your specialities.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> heeft al je specialiteiten gereset.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> heeft al je specialisaties teruggezet.</target>
       </trans-unit>
       <trans-unit id="You have removed talent {0} from {1}." xml:space="preserve" translate="no">
         <source xml:space="preserve">You have removed talent <ph id="0">{0}</ph> from <ph id="1">{1}</ph>.</source>
@@ -43831,7 +43831,7 @@
       </trans-unit>
       <trans-unit id="Start Homestead" xml:space="preserve">
         <source xml:space="preserve">Start Homestead</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Start Homestead</target>
+        <target xml:space="preserve" state="translated">Hoeve beginnen</target>
       </trans-unit>
       <trans-unit id="You have {0} playing on this server." xml:space="preserve">
         <source xml:space="preserve">You have <ph id="0">{0}</ph> playing on this server.</source>
@@ -45365,7 +45365,7 @@
       </trans-unit>
       <trans-unit id="You may place your homestead here." xml:space="preserve">
         <source xml:space="preserve">You may place your homestead here.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt hier je woonplaats vestigen.</target>
+        <target xml:space="preserve" state="translated">Je mag je hoeve hier plaatsen.</target>
       </trans-unit>
       <trans-unit id="Lighting" xml:space="preserve">
         <source xml:space="preserve">Lighting</source>
@@ -45429,7 +45429,7 @@
       </trans-unit>
       <trans-unit id="Claim Stakes and Claim Papers" xml:space="preserve">
         <source xml:space="preserve">Claim Stakes and Claim Papers</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Claim Stakes en Claim Papers</target>
+        <target xml:space="preserve" state="translated">Grenspalen en eigendomsrechtpapieren</target>
       </trans-unit>
       <trans-unit id="The {0} was founded here." xml:space="preserve">
         <source xml:space="preserve">The <ph id="0">{0}</ph> was founded here.</source>
@@ -45453,7 +45453,7 @@
       </trans-unit>
       <trans-unit id="{0}'s Homestead" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s Homestead</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph>'s Homestead</target>
+        <target xml:space="preserve" state="translated">Hoeve van <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="{0} category rooms can exist on property types: {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> category rooms can exist on property types: <ph id="1">{1}</ph></source>
@@ -47146,7 +47146,7 @@
       </trans-unit>
       <trans-unit id="Add the specfied quantity of claim stakes to the specified settlement." xml:space="preserve">
         <source xml:space="preserve">Add the specfied quantity of claim stakes to the specified settlement.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Voeg de opgegeven hoeveelheid claimstokken toe aan de opgegeven nederzetting.</target>
+        <target xml:space="preserve" state="translated">Voeg het opgegeven aantal grenspalen toe aan de opgegeven nederzetting.</target>
         <note from="developer">Help text for chat command /addclaimstakes</note>
       </trans-unit>
       <trans-unit id="addclaimpapers" translate="no">
@@ -47164,7 +47164,7 @@
       </trans-unit>
       <trans-unit id="Remove your homestead from the world and get it back to you." xml:space="preserve">
         <source xml:space="preserve">Remove your homestead from the world and get it back to you.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Haal je woonplaats uit de wereld en haal hem terug naar jou.</target>
+        <target xml:space="preserve" state="translated">Haalt je hoeve uit de wereld en geeft hem aan je terug.</target>
         <note from="developer">Help text for chat command /gethomesteadback</note>
       </trans-unit>
       <trans-unit id="Landclaims made available on the settlement marker at each level of settlement. Defined per settlement type." xml:space="preserve">
@@ -47185,7 +47185,7 @@
       </trans-unit>
       <trans-unit id="The number of plots that a claim stake allows you to claim by default, specified by settlement type. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">The number of plots that a claim stake allows you to claim by default, specified by settlement type. Defined per settlement type.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het aantal percelen dat je standaard kunt claimen met een claimstake, bepaald per nederzettingstype. Gedefinieerd per nederzettingstype.</target>
+        <target xml:space="preserve" state="translated">Het aantal percelen dat je standaard met een grenspaal in bezit kunt nemen, opgegeven per type nederzetting. Bepaald per type nederzetting.</target>
       </trans-unit>
       <trans-unit id="The number of plots that a settlement foundation allows you to claim by default, specified by settlement type. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">The number of plots that a settlement foundation allows you to claim by default, specified by settlement type. Defined per settlement type.</source>
@@ -47205,11 +47205,11 @@
       </trans-unit>
       <trans-unit id="Determines how many subsettlements must be members of a settlement before it can be founded (first entry is ignored, since Homestead cant have sub-settlements). Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">Determines how many subsettlements must be members of a settlement before it can be founded (first entry is ignored, since Homestead cant have sub-settlements). Defined per settlement type.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bepaalt hoeveel deelgemeenschappen lid moeten zijn van een nederzetting voordat deze kan worden gesticht (de eerste vermelding wordt genegeerd, aangezien Homestead geen deelgemeenschappen kan hebben). Wordt per type nederzetting bepaald.</target>
+        <target xml:space="preserve" state="translated">Bepaalt hoeveel dochternederzettingen lid moeten zijn van een nederzetting voordat die kan worden gesticht (de eerste waarde wordt genegeerd, omdat een hoeve geen dochternederzettingen kan hebben). Bepaald per type nederzetting.</target>
       </trans-unit>
       <trans-unit id="Determines how many subsettlements must be members of a settlement or else it goes invalid (first entry is ignored, since Homestead cant have sub-settlements). Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">Determines how many subsettlements must be members of a settlement or else it goes invalid (first entry is ignored, since Homestead cant have sub-settlements). Defined per settlement type.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bepaalt hoeveel deelgemeenschappen lid moeten zijn van een nederzetting, anders wordt deze ongeldig (de eerste vermelding wordt genegeerd, aangezien Homestead geen deelgemeenschappen kan hebben). Wordt per type nederzetting gedefinieerd.</target>
+        <target xml:space="preserve" state="translated">Bepaalt hoeveel dochternederzettingen lid moeten zijn van een nederzetting, anders wordt die ongeldig (de eerste waarde wordt genegeerd, omdat een hoeve geen dochternederzettingen kan hebben). Bepaald per type nederzetting.</target>
       </trans-unit>
       <trans-unit id="Number of citizens that must be part of a roster before a settlement can be founded. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">Number of citizens that must be part of a roster before a settlement can be founded. Defined per settlement type.</source>
@@ -47261,11 +47261,11 @@
       </trans-unit>
       <trans-unit id="Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Claim Stake</target>
+        <target xml:space="preserve" state="translated">Grenspaal</target>
       </trans-unit>
       <trans-unit id="Starts a homestead for a given citizen. Each citizen can have a single homestead, allowing them to claim property in an area." xml:space="preserve">
         <source xml:space="preserve">Starts a homestead for a given citizen. Each citizen can have a single homestead, allowing them to claim property in an area.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je begint met een woonplaats voor een bepaalde burger. Elke burger kan één woonplaats hebben, waardoor ze eigendom in een gebied kunnen claimen.</target>
+        <target xml:space="preserve" state="translated">Begint een hoeve voor een opgegeven burger. Elke burger kan één hoeve hebben, waarmee die eigendom in een gebied in bezit kan nemen.</target>
       </trans-unit>
       <trans-unit id="Place New Settlement" xml:space="preserve">
         <source xml:space="preserve">Place New Settlement</source>
@@ -47277,11 +47277,11 @@
       </trans-unit>
       <trans-unit id="A citizen started a new homestead settlement within the influence of another." xml:space="preserve">
         <source xml:space="preserve">A citizen started a new homestead settlement within the influence of another.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een burger is een nieuwe nederzetting begonnen binnen het invloedgebied van een andere.</target>
+        <target xml:space="preserve" state="translated">Een burger heeft een nieuwe hoeve gesticht binnen de invloed van een andere nederzetting.</target>
       </trans-unit>
       <trans-unit id="Toggles first found Claim Tool in your toolbar to claim without needing the usually required claim papers on the corresponding Claim Stake. Lasts until server restart." xml:space="preserve">
         <source xml:space="preserve">Toggles first found Claim Tool in your toolbar to claim without needing the usually required claim papers on the corresponding Claim Stake. Lasts until server restart.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zoek eerst de Claim Tool in je werkbalk om te claimen zonder dat je de normaal gesproken vereiste claimpapieren op de bijbehorende Claim Stake nodig hebt. Geldt tot de server opnieuw wordt opgestart.</target>
+        <target xml:space="preserve" state="translated">Zet bij het eerste eigendomsgereedschap in je werkbalk een modus aan of uit waarmee je grond in bezit kunt nemen zonder de normaal vereiste eigendomsrechtpapieren op de bijbehorende grenspaal. Geldt tot de server opnieuw start.</target>
         <note from="developer">Help text for chat command /unlimitedclaim</note>
       </trans-unit>
       <trans-unit id="A list of citizens and demographics that may join as residents. Only the owner of the property can set this list." xml:space="preserve">
@@ -48194,7 +48194,7 @@
       </trans-unit>
       <trans-unit id="Homestead Of:" xml:space="preserve">
         <source xml:space="preserve">Homestead Of:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Homestead Of:</target>
+        <target xml:space="preserve" state="translated">Hoeve van:</target>
       </trans-unit>
       <trans-unit id="{0} out of {1} {2}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> out of <ph id="1">{1}</ph> <ph id="2">{2}</ph></source>
@@ -48395,7 +48395,7 @@
       </trans-unit>
       <trans-unit id="Place Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Place Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Claim een plek</target>
+        <target xml:space="preserve" state="translated">Grenspaal plaatsen</target>
       </trans-unit>
       <trans-unit id="No deed assigned to Claim Tool" xml:space="preserve">
         <source xml:space="preserve">No deed assigned to Claim Tool</source>
@@ -48463,7 +48463,7 @@
       </trans-unit>
       <trans-unit id="Cannot place here: You are a citizen of {0} and thus must place your Homestead within it's influence." xml:space="preserve">
         <source xml:space="preserve">Cannot place here: You are a citizen of <ph id="0">{0}</ph> and thus must place your Homestead within it's influence.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kan hier niet geplaatst worden: Je bent een inwoner van <ph id="0">{0}</ph> en moet je Homestead dus binnen het invloedgebied daarvan plaatsen.</target>
+        <target xml:space="preserve" state="translated">Kan hier niet geplaatst worden: je bent burger van <ph id="0">{0}</ph> en moet je hoeve dus binnen de invloed daarvan plaatsen.</target>
       </trans-unit>
       <trans-unit id="This unclaimed plot is under the influence of the {0}, of which you are a citizen." xml:space="preserve">
         <source xml:space="preserve">This unclaimed plot is under the influence of the <ph id="0">{0}</ph>, of which you are a citizen.</source>
@@ -48479,7 +48479,7 @@
       </trans-unit>
       <trans-unit id="This plot is within {0}m of the unfounded {1} (of which you are a citizen), so you may place your homestead here." xml:space="preserve">
         <source xml:space="preserve">This plot is within <ph id="0">{0}</ph>m of the unfounded <ph id="1">{1}</ph> (of which you are a citizen), so you may place your homestead here.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dit verhaal speelt zich af binnen <ph id="0">{0}</ph> m van het onbewoonde <ph id="1">{1}</ph> (waarvan jij een inwoner bent), dus je kunt hier je huis vestigen.</target>
+        <target xml:space="preserve" state="translated">Dit perceel ligt binnen <ph id="0">{0}</ph> m van de nog niet gestichte nederzetting <ph id="1">{1}</ph> (waarvan je burger bent), dus je mag je hoeve hier plaatsen.</target>
       </trans-unit>
       <trans-unit id="Cannot place here: This plot is under the influence of the {0}, and you are not a citizen." xml:space="preserve">
         <source xml:space="preserve">Cannot place here: This plot is under the influence of the <ph id="0">{0}</ph>, and you are not a citizen.</source>
@@ -48771,19 +48771,19 @@
       </trans-unit>
       <trans-unit id="This homestead can only be placed by {0}." xml:space="preserve">
         <source xml:space="preserve">This homestead can only be placed by <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze homestead kan alleen worden geplaatst door <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Deze hoeve kan alleen worden geplaatst door <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Can't place Homestead here." xml:space="preserve">
         <source xml:space="preserve">Can't place Homestead here.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt Homestead hier niet plaatsen.</target>
+        <target xml:space="preserve" state="translated">Je kunt hier geen hoeve plaatsen.</target>
       </trans-unit>
       <trans-unit id="Each player can only have one Homestead and you have already placed yours." xml:space="preserve">
         <source xml:space="preserve">Each player can only have one Homestead and you have already placed yours.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Elke speler kan maar één Homestead hebben en jij hebt die van jou al geplaatst.</target>
+        <target xml:space="preserve" state="translated">Elke speler kan maar één hoeve hebben en jij hebt de jouwe al geplaatst.</target>
       </trans-unit>
       <trans-unit id="Homestead of {0}" xml:space="preserve">
         <source xml:space="preserve">Homestead of <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">-pagina {0}</ph></target>
+        <target xml:space="preserve" state="translated">Hoeve van <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="{0}'s Deed" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph>'s Deed</source>
@@ -49290,7 +49290,7 @@
       </trans-unit>
       <trans-unit id="Spawned homestead for {0}." xml:space="preserve">
         <source xml:space="preserve">Spawned homestead for <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een homestead aangemaakt voor <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Hoeve aangemaakt voor <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="This command is only made for testing which means it can lead to some weird results, are you sure you want that on your conscience ?" xml:space="preserve">
         <source xml:space="preserve">This command is only made for testing which means it can lead to some weird results, are you sure you want that on your conscience ?</source>
@@ -49306,7 +49306,7 @@
       </trans-unit>
       <trans-unit id="Your homestead wasn't placed yet." xml:space="preserve">
         <source xml:space="preserve">Your homestead wasn't placed yet.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je woonplaats is nog niet geplaatst.</target>
+        <target xml:space="preserve" state="translated">Je hoeve is nog niet geplaatst.</target>
       </trans-unit>
       <trans-unit id="Create a nested homestead, town, country, and federation with simple force-enabled objects." xml:space="preserve">
         <source xml:space="preserve">Create a nested homestead, town, country, and federation with simple force-enabled objects.</source>
@@ -49314,7 +49314,7 @@
       </trans-unit>
       <trans-unit id="Create a homestead for the passed user or a test user if null." xml:space="preserve">
         <source xml:space="preserve">Create a homestead for the passed user or a test user if null.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Maak een woonplaats aan voor de overleden gebruiker of een testgebruiker als er geen gebruiker is.</target>
+        <target xml:space="preserve" state="translated">Maakt een hoeve aan voor de opgegeven gebruiker, of voor een testgebruiker als er geen is opgegeven.</target>
       </trans-unit>
       <trans-unit id="GetHomesteadBack" xml:space="preserve">
         <source xml:space="preserve">GetHomesteadBack</source>
@@ -49334,7 +49334,7 @@
       </trans-unit>
       <trans-unit id="If you can't access your homestead, you can pick it up remotely via /GetHomesteadBack." xml:space="preserve">
         <source xml:space="preserve">If you can't access your homestead, you can pick it up remotely via /GetHomesteadBack.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Als je geen toegang hebt tot je homestead, kun je deze op afstand ophalen via /GetHomesteadBack.</target>
+        <target xml:space="preserve" state="translated">Als je niet bij je hoeve kunt, kun je hem op afstand oppakken met /GetHomesteadBack.</target>
       </trans-unit>
       <trans-unit id="More plots can be claimed by selecting a {0}." xml:space="preserve">
         <source xml:space="preserve">More plots can be claimed by selecting a <ph id="0">{0}</ph>.</source>
@@ -49518,7 +49518,7 @@
       </trans-unit>
       <trans-unit id="Add to a Claim Stake to increase the number of plots you can claim on it." xml:space="preserve">
         <source xml:space="preserve">Add to a Claim Stake to increase the number of plots you can claim on it.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Voeg toe aan een Claim Stake om het aantal percelen dat je kunt claimen te vergroten.</target>
+        <target xml:space="preserve" state="translated">Voeg dit toe aan een grenspaal om het aantal percelen te vergroten dat je ermee in bezit kunt nemen.</target>
       </trans-unit>
       <trans-unit id="Too far to do that." xml:space="preserve">
         <source xml:space="preserve">Too far to do that.</source>
@@ -49906,7 +49906,7 @@
       </trans-unit>
       <trans-unit id="Can't use this claim stake because {0} doesn't allow foreign ownership and you are not a citizen.." xml:space="preserve">
         <source xml:space="preserve">Can't use this claim stake because <ph id="0">{0}</ph> doesn't allow foreign ownership and you are not a citizen..</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt deze claim niet gebruiken omdat <ph id="0">{0}</ph> geen buitenlands eigendom toestaat en jij geen burger bent...</target>
+        <target xml:space="preserve" state="translated">Je kunt deze grenspaal niet gebruiken omdat <ph id="0">{0}</ph> geen buitenlands eigendom toestaat en je geen burger bent..</target>
       </trans-unit>
       <trans-unit id="Dressers only accept apparel items." xml:space="preserve">
         <source xml:space="preserve">Dressers only accept apparel items.</source>
@@ -50532,7 +50532,7 @@
       </trans-unit>
       <trans-unit id="Allow Become Citizen Upon Homestead Placement" xml:space="preserve">
         <source xml:space="preserve">Allow Become Citizen Upon Homestead Placement</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Sta toe dat je burger wordt zodra je een homestead hebt geplaatst</target>
+        <target xml:space="preserve" state="translated">Burgerschap toestaan bij het plaatsen van een hoeve</target>
       </trans-unit>
       <trans-unit id="Optional set of wages paid for citizens in this demographic." xml:space="preserve">
         <source xml:space="preserve">Optional set of wages paid for citizens in this demographic.</source>
@@ -50690,7 +50690,7 @@
       </trans-unit>
       <trans-unit id="Upon placing your homestead here, you will become a citizen of {1}." xml:space="preserve">
         <source xml:space="preserve">Upon placing your homestead here, you will become a citizen of <ph id="1">{1}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zodra je hier je woonplaats vestigt, word je een inwoner van <ph id="1">{1}</ph>.</target>
+        <target xml:space="preserve" state="translated">Zodra je hier je hoeve plaatst, word je burger van <ph id="1">{1}</ph>.</target>
       </trans-unit>
       <trans-unit id="Can't drop there: blocked." xml:space="preserve">
         <source xml:space="preserve">Can't drop there: blocked.</source>
@@ -50887,7 +50887,7 @@
       </trans-unit>
       <trans-unit id="Your homestead was removed from the world by {0}." xml:space="preserve">
         <source xml:space="preserve">Your homestead was removed from the world by <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je woonplaats is uit de wereld verwijderd door <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Je hoeve is door <ph id="0">{0}</ph> uit de wereld verwijderd.</target>
       </trans-unit>
       <trans-unit id="You can craft a new homestead claimstake at {0}" xml:space="preserve">
         <source xml:space="preserve">You can craft a new homestead claimstake at <ph id="0">{0}</ph></source>
@@ -51565,7 +51565,7 @@
       </trans-unit>
       <trans-unit id="Should the settlement system be used, or should the old style be set? Forced to false for servers migrated from before V0.10. Note: changing this will automatically change the config enabling/disabling spawning of claim stakes and papers in the Balance Config." xml:space="preserve">
         <source xml:space="preserve">Should the settlement system be used, or should the old style be set? Forced to false for servers migrated from before V0.10. Note: changing this will automatically change the config enabling/disabling spawning of claim stakes and papers in the Balance Config.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Moet het nederzettingssysteem worden gebruikt, of moet de oude stijl worden ingesteld? Gedwongen op 'false' voor servers die vóór V0.10 zijn gemigreerd. Let op: als je dit verandert, verandert automatisch de configuratie voor het in- of uitschakelen van het spawnen van claimpalen en papieren in de Balance Config.</target>
+        <target xml:space="preserve" state="translated">Moet het nederzettingssysteem worden gebruikt, of de oude stijl? Staat geforceerd op false voor servers die van vóór V0.10 zijn gemigreerd. Let op: als je dit wijzigt, verandert automatisch de instelling in de Balance Config die het verschijnen van grenspalen en papieren aan- of uitzet.</target>
       </trans-unit>
       <trans-unit id="Should the achievements be enabled or not?" xml:space="preserve">
         <source xml:space="preserve">Should the achievements be enabled or not?</source>
@@ -51695,7 +51695,7 @@
       </trans-unit>
       <trans-unit id="Base Plots On Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Base Plots On Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verhaallijnen gebaseerd op claim-aandelen</target>
+        <target xml:space="preserve" state="translated">Basisaantal percelen per grenspaal</target>
       </trans-unit>
       <trans-unit id="Base Plots On Foundation" xml:space="preserve">
         <source xml:space="preserve">Base Plots On Foundation</source>
@@ -51795,7 +51795,7 @@
       </trans-unit>
       <trans-unit id="Reduction Percentage When Homestead Is Abandoned" xml:space="preserve">
         <source xml:space="preserve">Reduction Percentage When Homestead Is Abandoned</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Procentuele vermindering wanneer een homestead wordt verlaten</target>
+        <target xml:space="preserve" state="translated">Verminderingspercentage wanneer een hoeve wordt verlaten</target>
       </trans-unit>
       <trans-unit id="Weight Culture By Percent Of Neighboring Plots Child Settlement" xml:space="preserve">
         <source xml:space="preserve">Weight Culture By Percent Of Neighboring Plots Child Settlement</source>
@@ -53079,11 +53079,11 @@
       </trans-unit>
       <trans-unit id="Missing deed for homestead." xml:space="preserve">
         <source xml:space="preserve">Missing deed for homestead.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Ontbrekende akte voor het huis.</target>
+        <target xml:space="preserve" state="translated">Akte voor hoeve ontbreekt.</target>
       </trans-unit>
       <trans-unit id="Your homestead was removed from the world." xml:space="preserve">
         <source xml:space="preserve">Your homestead was removed from the world.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je woonplaats is uit de wereld verwijderd.</target>
+        <target xml:space="preserve" state="translated">Je hoeve is uit de wereld verwijderd.</target>
       </trans-unit>
       <trans-unit id="May only select deeds on {0} claim stakes which do not have a settlement foundation." xml:space="preserve">
         <source xml:space="preserve">May only select deeds on <ph id="0">{0}</ph> claim stakes which do not have a settlement foundation.</source>
@@ -53487,7 +53487,7 @@
       </trans-unit>
       <trans-unit id="These claims must be used on claim stakes within the influence of" xml:space="preserve">
         <source xml:space="preserve">These claims must be used on claim stakes within the influence of</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze claims moeten worden gebruikt op claimstaken binnen de invloedssfeer van</target>
+        <target xml:space="preserve" state="translated">Deze eigendomsrechtpapieren moeten worden gebruikt op grenspalen binnen de invloed van</target>
       </trans-unit>
       <trans-unit id="removed {0}. Remaining: {1}." xml:space="preserve">
         <source xml:space="preserve">removed <ph id="0">{0}</ph>. Remaining: <ph id="1">{1}</ph>.</source>
@@ -53631,7 +53631,7 @@
       </trans-unit>
       <trans-unit id="{0} should either move the Homestead plots closer or remove the homestead entirely to become a Citizen." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> should either move the Homestead plots closer or remove the homestead entirely to become a Citizen.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> moet ofwel de Homestead-percelen dichterbij brengen of de Homestead helemaal verwijderen om een Citizen te worden.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> moet de percelen van de hoeve dichterbij zetten of de hoeve helemaal verwijderen om burger te worden.</target>
       </trans-unit>
       <trans-unit id="{0} need to manually leave {1} because {2} owns some properties that are under its influence." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> need to manually leave <ph id="1">{1}</ph> because <ph id="2">{2}</ph> owns some properties that are under its influence.</source>
@@ -53695,7 +53695,7 @@
       </trans-unit>
       <trans-unit id="Can't transfer a deed with a homestead on it." xml:space="preserve">
         <source xml:space="preserve">Can't transfer a deed with a homestead on it.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt geen eigendomsakte met een woonhuis erop overdragen.</target>
+        <target xml:space="preserve" state="translated">Je kunt geen akte overdragen waar een hoeve op staat.</target>
       </trans-unit>
       <trans-unit id="Remove the homestead claim stake and try again." xml:space="preserve">
         <source xml:space="preserve">Remove the homestead claim stake and try again.</source>
@@ -53787,7 +53787,7 @@
       </trans-unit>
       <trans-unit id="Can't sell a homestead deed." xml:space="preserve">
         <source xml:space="preserve">Can't sell a homestead deed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt een eigendomsakte van een boerderij niet verkopen.</target>
+        <target xml:space="preserve" state="translated">Je kunt de akte van een hoeve niet verkopen.</target>
       </trans-unit>
       <trans-unit id="{0} transferred fee to escrow for crafting {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> transferred fee to escrow for crafting <ph id="1">{1}</ph></source>
@@ -54326,7 +54326,7 @@
       </trans-unit>
       <trans-unit id="Claim Stakes Per Citizen" xml:space="preserve">
         <source xml:space="preserve">Claim Stakes Per Citizen</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Claim Stakes per burger</target>
+        <target xml:space="preserve" state="translated">Grenspalen per burger</target>
       </trans-unit>
       <trans-unit id="Culture Deed Link Percent Requirement" xml:space="preserve">
         <source xml:space="preserve">Culture Deed Link Percent Requirement</source>
@@ -54962,7 +54962,7 @@
       </trans-unit>
       <trans-unit id="How many claim stakes, if any, are granted to a player upon unlocking a new skill by reading a skillscroll. Decimals permitted (they aggregate and will be given in later scroll readings)" xml:space="preserve">
         <source xml:space="preserve">How many claim stakes, if any, are granted to a player upon unlocking a new skill by reading a skillscroll. Decimals permitted (they aggregate and will be given in later scroll readings)</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Hoeveel claimstakes, indien van toepassing, krijgt een speler bij het vrijspelen van een nieuwe vaardigheid door een vaardigheidsrol te lezen? Decimalen zijn toegestaan (ze worden opgeteld en worden bij latere rollezingen weergegeven).</target>
+        <target xml:space="preserve" state="translated">Hoeveel grenspalen een speler eventueel krijgt bij het vrijspelen van een nieuwe vaardigheid door een vaardigheidsrol te lezen. Decimalen zijn toegestaan (ze tellen op en worden bij latere rollen uitgedeeld)</target>
       </trans-unit>
       <trans-unit id="How many claim papers, if any, are granted to a player upon unlocking a new skill by reading a skillscroll. Decimals permitted (they aggregate and will be given in later scroll readings)" xml:space="preserve">
         <source xml:space="preserve">How many claim papers, if any, are granted to a player upon unlocking a new skill by reading a skillscroll. Decimals permitted (they aggregate and will be given in later scroll readings)</source>
@@ -55074,7 +55074,7 @@
       </trans-unit>
       <trans-unit id="These claims must be used on claim stakes within the influence of {0}" xml:space="preserve">
         <source xml:space="preserve">These claims must be used on claim stakes within the influence of <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze claims moeten worden gebruikt op claimstaken binnen de invloedssfeer van <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Deze eigendomsrechtpapieren moeten worden gebruikt op grenspalen binnen de invloed van <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Value: {0}" xml:space="preserve">
         <source xml:space="preserve">Value: <ph id="0">{0}</ph></source>
@@ -55363,7 +55363,7 @@
       </trans-unit>
       <trans-unit id="homestead" xml:space="preserve">
         <source xml:space="preserve">homestead</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">homestead</target>
+        <target xml:space="preserve" state="translated">hoeve</target>
       </trans-unit>
       <trans-unit id="homesteads" xml:space="preserve">
         <source xml:space="preserve">homesteads</source>
@@ -57155,7 +57155,7 @@
       </trans-unit>
       <trans-unit id="These claims are {0} and can be used in any claim stake, regardless of settlements or lack thereof." xml:space="preserve">
         <source xml:space="preserve">These claims are <ph id="0">{0}</ph> and can be used in any claim stake, regardless of settlements or lack thereof.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze claims zijn <ph id="0">{0}</ph> en kunnen worden gebruikt in elke claim, ongeacht of er nederzettingen zijn of niet.</target>
+        <target xml:space="preserve" state="translated">Deze eigendomsrechtpapieren zijn <ph id="0">{0}</ph> en kunnen in elke grenspaal worden gebruikt, ongeacht of er een nederzetting is.</target>
       </trans-unit>
       <trans-unit id="coin" xml:space="preserve">
         <source xml:space="preserve">coin</source>
@@ -58221,7 +58221,7 @@
       </trans-unit>
       <trans-unit id="Either add more claim papers to the claim stake or manually remove plots." xml:space="preserve">
         <source xml:space="preserve">Either add more claim papers to the claim stake or manually remove plots.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Voeg meer claimdocumenten toe aan de claimpaal of verwijder handmatig percelen.</target>
+        <target xml:space="preserve" state="translated">Voeg meer eigendomsrechtpapieren toe aan de grenspaal of verwijder zelf percelen.</target>
       </trans-unit>
       <trans-unit id="Can't claim plot, must be under the influence of {0} or a settlement that has given special border control permission on its foundation." xml:space="preserve">
         <source xml:space="preserve">Can't claim plot, must be under the influence of <ph id="0">{0}</ph> or a settlement that has given special border control permission on its foundation.</source>
@@ -58289,7 +58289,7 @@
       </trans-unit>
       <trans-unit id="{0} Removed Claim Stake" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> Removed Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> Claim verwijderd</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> heeft een grenspaal verwijderd</target>
       </trans-unit>
       <trans-unit id="Can't interact with vehicle while steering." xml:space="preserve">
         <source xml:space="preserve">Can't interact with vehicle while steering.</source>
