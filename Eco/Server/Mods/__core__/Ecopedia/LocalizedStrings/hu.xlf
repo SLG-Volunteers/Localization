@@ -16,23 +16,23 @@
 Account Managers can change the users in both the manager list and the user list, rename the account, and perform transactions. 
 
 In the Advanced Settings, you can set the account as a Government Account.  Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth. To set this, you must have government banking priviliges, assigned by an {Elected Title|Elected Titles}.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">A fiók felhasználói a fiók segítségével tranzakciókat hajthatnak végre (pénzt utalhatnak be és vehetnek ki).
+        <target state="translated">A fiókfelhasználók a fiókkal tranzakciókat hajthatnak végre (pénzt helyezhetnek el és vehetnek fel).
 
-A fiókkezelők módosíthatják a felhasználókat mind a kezelői, mind a felhasználói listán, átnevezhetik a fiókot, valamint tranzakciókat hajthatnak végre. 
+A fiókkezelők módosíthatják a kezelői és a felhasználói lista tagjait, átnevezhetik a fiókot, valamint tranzakciókat hajthatnak végre.
 
-A Speciális beállítások menüpontban a fiókot kormányzati fiókká állíthatod be.  A kormányzati fiókok adóbevételeket fogadhatnak és adókifizetéseket teljesíthetnek, és adóbeszedéskor, valamint a személyes vagyon kiszámításakor figyelmen kívül maradnak. Ennek beállításához kormányzati banki jogosultságokkal kell rendelkezned, amelyeket egy {Választott cím|Választott címek} jelöl ki.</target>
+A Speciális beállítások menüpontban beállíthatod a fiókot kormányzati fióknak. A kormányzati fiókok adóból származó pénzt fogadhatnak és fizethetnek ki, továbbá adóbeszedéskor és a személyes vagyon kiszámításakor figyelmen kívül hagyják őket. Ennek beállításához kormányzati banki jogosultságokkal kell rendelkezned, amelyeket egy {Elected Title|Elected Titles} oszt ki.</target>
       </trans-unit>
       <trans-unit id="3" xml:space="preserve">
         <source xml:space="preserve">The Bank component is used to create and manage bank accounts</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">A Bank modul segítségével bankszámlákat lehet létrehozni és kezelni.</target>
+        <target state="translated">A Bank Komponens segítségével bankszámlákat lehet létrehozni és kezelni</target>
       </trans-unit>
       <trans-unit id="4" xml:space="preserve">
         <source xml:space="preserve">The Contract Board Component allows citizens to post and accept {Contracts} and {Work Parties}, allowing enforced labor and other agreements between citizens.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">A Szerződés-tábla komponens lehetővé teszi a polgárok számára, hogy {Szerződéseket} és {Munkacsoportokat} tegyenek közzé és fogadjanak el, így kényszermunka és egyéb megállapodások jöhetnek létre a polgárok között.</target>
+        <target state="translated">A Szerződéstábla Komponens lehetővé teszi a polgárok számára a {Contracts} és a {Work Parties} közzétételét és elfogadását, így a polgárok között kikényszeríthető munkavégzési és egyéb megállapodások jöhetnek létre.</target>
       </trans-unit>
       <trans-unit id="5" xml:space="preserve">
         <source xml:space="preserve">Setting Up a Contract</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Szerződés létrehozása</target>
+        <target state="translated">Szerződés Létrehozása</target>
       </trans-unit>
       <trans-unit id="6" xml:space="preserve">
         <source xml:space="preserve">
