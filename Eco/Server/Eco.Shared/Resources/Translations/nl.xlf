@@ -930,7 +930,7 @@
       </trans-unit>
       <trans-unit id="Leather Hide" xml:space="preserve">
         <source xml:space="preserve">Leather Hide</source>
-        <target xml:space="preserve" state="translated">Leren huid</target>
+        <target xml:space="preserve" state="translated">Dierenhuid</target>
       </trans-unit>
       <trans-unit id="Cloth" xml:space="preserve">
         <source xml:space="preserve">Cloth</source>
@@ -1290,7 +1290,7 @@
       </trans-unit>
       <trans-unit id="Log" xml:space="preserve">
         <source xml:space="preserve">Log</source>
-        <target xml:space="preserve" state="translated">Hout</target>
+        <target xml:space="preserve" state="translated">Boomstam</target>
       </trans-unit>
       <trans-unit id="Arrow" xml:space="preserve">
         <source xml:space="preserve">Arrow</source>
@@ -4931,15 +4931,15 @@
       </trans-unit>
       <trans-unit id="Cannot trade: No currency is set." xml:space="preserve">
         <source xml:space="preserve">Cannot trade: No currency is set.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kan niet ruilen: er is geen valuta ingesteld.</target>
+        <target xml:space="preserve" state="translated">Kan niet handelen: er is geen valuta ingesteld.</target>
       </trans-unit>
       <trans-unit id="Exchange invalid: Both currencies are the same." xml:space="preserve">
         <source xml:space="preserve">Exchange invalid: Both currencies are the same.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Wisselkoers ongeldig: beide valuta's zijn hetzelfde.</target>
+        <target xml:space="preserve" state="translated">Wissel ongeldig: beide valuta zijn dezelfde.</target>
       </trans-unit>
       <trans-unit id="Can't make a currency with coins per item less or equal to zero." xml:space="preserve">
         <source xml:space="preserve">Can't make a currency with coins per item less or equal to zero.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt geen valuta maken met munten per item die kleiner zijn dan of gelijk zijn aan nul.</target>
+        <target xml:space="preserve" state="translated">Je kunt geen valuta maken met nul of minder munten per voorwerp.</target>
       </trans-unit>
       <trans-unit id="Cannot trade: Store is not in a valid state. Check the status tab for more details." xml:space="preserve">
         <source xml:space="preserve">Cannot trade: Store is not in a valid state. Check the status tab for more details.</source>
@@ -5645,7 +5645,7 @@
       </trans-unit>
       <trans-unit id="Property" xml:space="preserve">
         <source xml:space="preserve">Property</source>
-        <target xml:space="preserve" state="translated">not</target>
+        <target xml:space="preserve" state="translated">Eigendom</target>
       </trans-unit>
       <trans-unit id="Price" xml:space="preserve">
         <source xml:space="preserve">Price</source>
@@ -6055,7 +6055,7 @@
       </trans-unit>
       <trans-unit id="Currency to Use" xml:space="preserve">
         <source xml:space="preserve">Currency to Use</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Te gebruiken valuta</target>
+        <target xml:space="preserve" state="translated">Te gebruiken valuta</target>
       </trans-unit>
       <trans-unit id="Crafting Fee Tax:" xml:space="preserve">
         <source xml:space="preserve">Crafting Fee Tax:</source>
@@ -6063,7 +6063,7 @@
       </trans-unit>
       <trans-unit id="Currency Name" xml:space="preserve">
         <source xml:space="preserve">Currency Name</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Naam van de valuta</target>
+        <target xml:space="preserve" state="translated">Naam van de valuta</target>
       </trans-unit>
       <trans-unit id="Mechanical" xml:space="preserve">
         <source xml:space="preserve">Mechanical</source>
@@ -6083,7 +6083,7 @@
       </trans-unit>
       <trans-unit id="Currency Report" xml:space="preserve">
         <source xml:space="preserve">Currency Report</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Valutarapport</target>
+        <target xml:space="preserve" state="translated">Valutarapport</target>
       </trans-unit>
       <trans-unit id="Property Tax" xml:space="preserve">
         <source xml:space="preserve">Property Tax</source>
@@ -6095,7 +6095,7 @@
       </trans-unit>
       <trans-unit id="Direct Transfer Tax" xml:space="preserve">
         <source xml:space="preserve">Direct Transfer Tax</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Directe overdrachtsbelasting</target>
+        <target xml:space="preserve" state="translated">Overboekingsbelasting</target>
       </trans-unit>
       <trans-unit id="Crafting Fee Tax" xml:space="preserve">
         <source xml:space="preserve">Crafting Fee Tax</source>
@@ -6332,7 +6332,7 @@
       </trans-unit>
       <trans-unit id="Property:" xml:space="preserve">
         <source xml:space="preserve">Property:</source>
-        <target xml:space="preserve" state="translated">not:</target>
+        <target xml:space="preserve" state="translated">Eigendom:</target>
       </trans-unit>
       <trans-unit id="Plants On Property:" xml:space="preserve">
         <source xml:space="preserve">Plants On Property:</source>
@@ -6593,7 +6593,7 @@
       </trans-unit>
       <trans-unit id="To navigate these twin dangers, you'll need to collaborate with your fellow citizens to build a thriving economy tempered by a well-run government." xml:space="preserve">
         <source xml:space="preserve">To navigate these twin dangers, you'll need to collaborate with your fellow citizens to build a thriving economy tempered by a well-run government.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Om deze dubbele gevaren het hoofd te bieden, moet je samenwerken met je medeburgers om een bloeiende economie op te bouwen, in balans gehouden door een goed geleide regering.</target>
+        <target xml:space="preserve" state="translated">Om deze twee gevaren het hoofd te bieden, moet je samenwerken met je medeburgers om een bloeiende economie op te bouwen, in evenwicht gehouden door een goed geleide overheid.</target>
       </trans-unit>
       <trans-unit id="Together with your fellow citizens, you'll need to advance civilization to a level of technology capable of stopping the meteor." xml:space="preserve">
         <source xml:space="preserve">Together with your fellow citizens, you'll need to advance civilization to a level of technology capable of stopping the meteor.</source>
@@ -6653,7 +6653,7 @@
       </trans-unit>
       <trans-unit id="Need to give your currency a backing item before you can craft it." xml:space="preserve">
         <source xml:space="preserve">Need to give your currency a backing item before you can craft it.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je moet je valuta een onderpand geven voordat je deze kunt maken.</target>
+        <target xml:space="preserve" state="translated">Je moet je valuta een dekkingsartikel geven voordat je deze kunt maken.</target>
       </trans-unit>
       <trans-unit id="Has an owner." xml:space="preserve">
         <source xml:space="preserve">Has an owner.</source>
@@ -6911,15 +6911,15 @@
       </trans-unit>
       <trans-unit id="Property Tool" xml:space="preserve">
         <source xml:space="preserve">Property Tool</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Property Tool</target>
+        <target xml:space="preserve" state="translated">Eigendomsgereedschap</target>
       </trans-unit>
       <trans-unit id="Land Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Land Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Landclaim-paal</target>
+        <target xml:space="preserve" state="translated">Grenspaal</target>
       </trans-unit>
       <trans-unit id="Land Claim Stakes" xml:space="preserve">
         <source xml:space="preserve">Land Claim Stakes</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Landclaimpalen</target>
+        <target xml:space="preserve" state="translated">Grenspalen</target>
       </trans-unit>
       <trans-unit id="Radiator" xml:space="preserve">
         <source xml:space="preserve">Radiator</source>
@@ -8686,7 +8686,7 @@
       </trans-unit>
       <trans-unit id="Refunded payment from escrow for {0}" xml:space="preserve">
         <source xml:space="preserve">Refunded payment from escrow for <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Terugbetaling via escrow voor <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Betaling uit het depot terugbetaald voor <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Deposit collected for failed contract {0}" xml:space="preserve">
         <source xml:space="preserve">Deposit collected for failed contract <ph id="0">{0}</ph></source>
@@ -8808,7 +8808,7 @@
       </trans-unit>
       <trans-unit id="Once you mint a currency you can no longer change the backing item and coins per item. Are you sure you want to back the currency {0} ({1} coin(s)) with {2}?" xml:space="preserve">
         <source xml:space="preserve">Once you mint a currency you can no longer change the backing item and coins per item. Are you sure you want to back the currency <ph id="0">{0}</ph> (<ph id="1">{1}</ph> coin(s)) with <ph id="2">{2}</ph>?</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zodra je een valuta hebt geslagen, kun je het onderliggende item en het aantal munten per item niet meer wijzigen. Weet je zeker dat je de valuta <ph id="0">{0}</ph> (<ph id="1">{1}</ph> coin(s)) wilt ondersteunen met <ph id="2">{2}</ph>?</target>
+        <target xml:space="preserve" state="translated">Zodra je een valuta hebt geslagen, kun je het dekkingsartikel en het aantal munten per voorwerp niet meer wijzigen. Weet je zeker dat je de valuta <ph id="0">{0}</ph> (<ph id="1">{1}</ph> munt(en)) wilt dekken met <ph id="2">{2}</ph>?</target>
       </trans-unit>
       <trans-unit id="Please enter a name for your world." xml:space="preserve">
         <source xml:space="preserve">Please enter a name for your world.</source>
@@ -10385,7 +10385,7 @@
       </trans-unit>
       <trans-unit id="Chimney pipe must have only one open end, outside of all rooms, and above the object." xml:space="preserve">
         <source xml:space="preserve">Chimney pipe must have only one open end, outside of all rooms, and above the object.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De schoorsteenpijp mag maar één open uiteinde hebben, buiten alle kamers en boven het object.</target>
+        <target xml:space="preserve" state="translated">De schoorsteenpijp mag maar één open uiteinde hebben, buiten alle kamers en boven het object.</target>
       </trans-unit>
       <trans-unit id="Titles" xml:space="preserve">
         <source xml:space="preserve">Titles</source>
@@ -10501,7 +10501,7 @@
       </trans-unit>
       <trans-unit id=" Town" xml:space="preserve">
         <source xml:space="preserve"> Town</source>
-        <target xml:space="preserve" state="translated"> Stad</target>
+        <target xml:space="preserve" state="translated"> Dorp</target>
       </trans-unit>
       <trans-unit id="sdale" xml:space="preserve">
         <source xml:space="preserve">sdale</source>
@@ -11418,11 +11418,11 @@
       </trans-unit>
       <trans-unit id="{0} pipe is disconnected, but not currently needed." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> pipe is disconnected, but not currently needed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph>-pijp is losgekoppeld, maar wordt momenteel niet nodig.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>-buis is losgekoppeld, maar is nu niet nodig.</target>
       </trans-unit>
       <trans-unit id="{0} pipe connected, {1} not currently needed." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> pipe connected, <ph id="1">{1}</ph> not currently needed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph>-pijp aangesloten, <ph id="1">{1}</ph> momenteel niet nodig.</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph>-buis aangesloten, <ph id="1">{1}</ph> is nu niet nodig.</target>
       </trans-unit>
       <trans-unit id="{0} trade" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> trade</source>
@@ -13673,7 +13673,7 @@
       </trans-unit>
       <trans-unit id="Money created at a mint." xml:space="preserve">
         <source xml:space="preserve">Money created at a mint.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Geld wordt geslagen in een munt.</target>
+        <target xml:space="preserve" state="translated">Geld dat in een munthuis is geslagen.</target>
       </trans-unit>
       <trans-unit id="The currency in which the money was created." xml:space="preserve">
         <source xml:space="preserve">The currency in which the money was created.</source>
@@ -13681,7 +13681,7 @@
       </trans-unit>
       <trans-unit id="A new currency created at a mint." xml:space="preserve">
         <source xml:space="preserve">A new currency created at a mint.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een nieuwe munteenheid die bij een munt wordt geslagen.</target>
+        <target xml:space="preserve" state="translated">Een nieuwe valuta die in een munthuis is geslagen.</target>
       </trans-unit>
       <trans-unit id="A trade between two players at a store." xml:space="preserve">
         <source xml:space="preserve">A trade between two players at a store.</source>
@@ -13873,7 +13873,7 @@
       </trans-unit>
       <trans-unit id="To overthrow an existing government, a constitution must be placed in a building that exceeds the previous constitution's value by this percent.  100 = 100%" xml:space="preserve">
         <source xml:space="preserve">To overthrow an existing government, a constitution must be placed in a building that exceeds the previous constitution's value by this percent.  100 = 100%</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Om een bestaande regering omver te werpen, moet er een grondwet in een gebouw worden geplaatst die de waarde van de vorige grondwet met dit percentage overtreft.  100 = 100%</target>
+        <target xml:space="preserve" state="translated">Om een bestaande overheid omver te werpen, moet een grondwet worden geplaatst in een gebouw waarvan de waarde die van de vorige grondwet met dit percentage overtreft. 100 = 100%</target>
       </trans-unit>
       <trans-unit id="Government:" xml:space="preserve">
         <source xml:space="preserve">Government:</source>
@@ -13909,7 +13909,7 @@
       </trans-unit>
       <trans-unit id="Add a new civic element like laws, elected titles, civic articles, etc." xml:space="preserve">
         <source xml:space="preserve">Add a new civic element like laws, elected titles, civic articles, etc.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Voeg een nieuw maatschappelijk element toe, zoals wetten, gekozen functies, maatschappelijke artikelen, enz.</target>
+        <target xml:space="preserve" state="translated">Voeg een nieuw bestuursonderdeel toe, zoals wetten, gekozen functies, bestuursartikelen enz.</target>
       </trans-unit>
       <trans-unit id="Change an existing civic element" xml:space="preserve">
         <source xml:space="preserve">Change an existing civic element</source>
@@ -14963,7 +14963,7 @@
       </trans-unit>
       <trans-unit id="Lists the active elements of the government." xml:space="preserve">
         <source xml:space="preserve">Lists the active elements of the government.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Geeft een overzicht van de actieve elementen van de regering.</target>
+        <target xml:space="preserve" state="translated">Geeft een overzicht van de actieve onderdelen van de overheid.</target>
         <note from="developer">Help text for chat command /showgovernment</note>
       </trans-unit>
       <trans-unit id="action" translate="no">
@@ -15636,7 +15636,7 @@
       </trans-unit>
       <trans-unit id="Defines rules about how the government works." xml:space="preserve">
         <source xml:space="preserve">Defines rules about how the government works.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bepaalt de regels over hoe de regering werkt.</target>
+        <target xml:space="preserve" state="translated">Legt de regels vast over hoe de overheid werkt.</target>
       </trans-unit>
       <trans-unit id="Which kind of civic actions does this rule apply to?" xml:space="preserve">
         <source xml:space="preserve">Which kind of civic actions does this rule apply to?</source>
@@ -15898,7 +15898,7 @@
       </trans-unit>
       <trans-unit id="Begin an election for a government office." xml:space="preserve">
         <source xml:space="preserve">Begin an election for a government office.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Start een verkiezing voor een regeringsfunctie.</target>
+        <target xml:space="preserve" state="translated">Start een verkiezing voor een overheidsfunctie.</target>
       </trans-unit>
       <trans-unit id="Join an election as a candidate." xml:space="preserve">
         <source xml:space="preserve">Join an election as a candidate.</source>
@@ -15914,7 +15914,7 @@
       </trans-unit>
       <trans-unit id="Resign from an elected title you hold." xml:space="preserve">
         <source xml:space="preserve">Resign from an elected title you hold.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Neem ontslag uit een gekozen functie die je bekleedt.</target>
+        <target xml:space="preserve" state="translated">Neem ontslag uit een gekozen functie die je bekleedt.</target>
       </trans-unit>
       <trans-unit id="Start Election" xml:space="preserve">
         <source xml:space="preserve">Start Election</source>
@@ -16263,7 +16263,7 @@
       </trans-unit>
       <trans-unit id="Government Overview" xml:space="preserve">
         <source xml:space="preserve">Government Overview</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Overzicht van de regering</target>
+        <target xml:space="preserve" state="translated">Overzicht van de overheid</target>
       </trans-unit>
       <trans-unit id="inventory" translate="no">
         <source xml:space="preserve">inventory</source>
@@ -16873,11 +16873,11 @@
       </trans-unit>
       <trans-unit id="Executive Actions Affecting Taxes" xml:space="preserve">
         <source xml:space="preserve">Executive Actions Affecting Taxes</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Uitvoerende maatregelen die van invloed zijn op belastingen</target>
+        <target xml:space="preserve" state="translated">Kabinetsbesluiten die belastingen betreffen</target>
       </trans-unit>
       <trans-unit id="Executive Actions Affecting Property" xml:space="preserve">
         <source xml:space="preserve">Executive Actions Affecting Property</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Uitvoerende maatregelen die van invloed zijn op eigendom</target>
+        <target xml:space="preserve" state="translated">Kabinetsbesluiten die eigendom betreffen</target>
       </trans-unit>
       <trans-unit id="Less Than" xml:space="preserve">
         <source xml:space="preserve">Less Than</source>
@@ -17502,7 +17502,7 @@
       </trans-unit>
       <trans-unit id="Government Office" xml:space="preserve">
         <source xml:space="preserve">Government Office</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Overheidsinstantie</target>
+        <target xml:space="preserve" state="translated">Bestuurskantoor</target>
       </trans-unit>
       <trans-unit id="Froth Floatation Cell" xml:space="preserve">
         <source xml:space="preserve">Froth Floatation Cell</source>
@@ -17730,7 +17730,7 @@
       </trans-unit>
       <trans-unit id="Capitol" xml:space="preserve">
         <source xml:space="preserve">Capitol</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Capitol</target>
+        <target xml:space="preserve" state="translated">Capitool</target>
       </trans-unit>
       <trans-unit id="Brick Fireplace" xml:space="preserve">
         <source xml:space="preserve">Brick Fireplace</source>
@@ -18956,7 +18956,7 @@
       </trans-unit>
       <trans-unit id="Allows the creation of the government, allowing all other civic objects to be created." xml:space="preserve">
         <source xml:space="preserve">Allows the creation of the government, allowing all other civic objects to be created.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Hiermee kun je de regering opzetten, waardoor alle andere maatschappelijke objecten ook kunnen worden gecreëerd.</target>
+        <target xml:space="preserve" state="translated">Hiermee kun je de overheid oprichten, waarna alle andere bestuursobjecten gemaakt kunnen worden.</target>
       </trans-unit>
       <trans-unit id="Wall3Point" xml:space="preserve">
         <source xml:space="preserve">Wall3Point</source>
@@ -19029,7 +19029,7 @@
       </trans-unit>
       <trans-unit id="Currency associated with this mint: {0}" xml:space="preserve">
         <source xml:space="preserve">Currency associated with this mint: <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Valuta die bij deze munt hoort: <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Valuta die bij dit munthuis hoort: <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Inventory only accepts carried items" xml:space="preserve">
         <source xml:space="preserve">Inventory only accepts carried items</source>
@@ -19237,7 +19237,7 @@
       </trans-unit>
       <trans-unit id="the Executive Office" xml:space="preserve">
         <source xml:space="preserve">the Executive Office</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">het uitvoerend bureau</target>
+        <target xml:space="preserve" state="translated">het Kabinet</target>
       </trans-unit>
       <trans-unit id="Paying" xml:space="preserve">
         <source xml:space="preserve">Paying</source>
@@ -19337,15 +19337,15 @@
       </trans-unit>
       <trans-unit id="Applied Executive Action" xml:space="preserve">
         <source xml:space="preserve">Applied Executive Action</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Toegepaste uitvoerende maatregelen</target>
+        <target xml:space="preserve" state="translated">Toegepast kabinetsbesluit</target>
       </trans-unit>
       <trans-unit id="Not Applied Executive Action" xml:space="preserve">
         <source xml:space="preserve">Not Applied Executive Action</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Geen uitvoerende maatregelen</target>
+        <target xml:space="preserve" state="translated">Niet toegepast kabinetsbesluit</target>
       </trans-unit>
       <trans-unit id="Perform an executive action on each citizen." xml:space="preserve">
         <source xml:space="preserve">Perform an executive action on each citizen.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Voer een uitvoerende handeling uit op elke burger.</target>
+        <target xml:space="preserve" state="translated">Voer voor elke burger een kabinetsbesluit uit.</target>
       </trans-unit>
       <trans-unit id="Should the way a citizen votes be hidden?" xml:space="preserve">
         <source xml:space="preserve">Should the way a citizen votes be hidden?</source>
@@ -19828,7 +19828,7 @@
       </trans-unit>
       <trans-unit id="The value of this constitution's room ({0}) exceeds the active constitution's room ({1} for {2}) by more than {3}%, so it can be ratified at anytime, overthrowing the previous government." xml:space="preserve">
         <source xml:space="preserve">The value of this constitution's room (<ph id="0">{0}</ph>) exceeds the active constitution's room (<ph id="1">{1}</ph> for <ph id="2">{2}</ph>) by more than <ph id="3">{3}</ph>%, so it can be ratified at anytime, overthrowing the previous government.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De waarde van deze grondwet (<ph id="0">{0}</ph>) is meer dan <ph id="3">{3}</ph> % hoger dan die van de huidige grondwet (<ph id="1">{1}</ph> voor <ph id="2">{2}</ph>), dus deze kan op elk moment worden aangenomen, waardoor de vorige regering wordt afgezet.</target>
+        <target xml:space="preserve" state="translated">De waarde van de kamer van deze grondwet (<ph id="0">{0}</ph>) is meer dan <ph id="3">{3}</ph>% hoger dan die van de kamer van de huidige grondwet (<ph id="1">{1}</ph> voor <ph id="2">{2}</ph>), dus deze kan op elk moment worden bekrachtigd, waarmee de vorige overheid wordt afgezet.</target>
       </trans-unit>
       <trans-unit id="{0} is disabled, can't ratify." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is disabled, can't ratify.</source>
@@ -20411,7 +20411,7 @@
       </trans-unit>
       <trans-unit id="Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth.  To set this, you must have government banking privileges, assigned by an Elected Title." xml:space="preserve">
         <source xml:space="preserve">Government accounts can receive and pay out tax funds, and are ignored when collecting tax and calculating personal wealth.  To set this, you must have government banking privileges, assigned by an Elected Title.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Overheidsrekeningen kunnen belastinggeld ontvangen en uitbetalen, en worden genegeerd bij het innen van belasting en het berekenen van persoonlijk vermogen. Om dit in te stellen, moet je overheidsbankprivileges hebben, toegekend door een gekozen titel.</target>
+        <target xml:space="preserve" state="translated">Overheidsrekeningen kunnen belastinggeld ontvangen en uitbetalen, en worden overgeslagen bij het innen van belasting en het berekenen van persoonlijke rijkdom. Om dit in te stellen, moet je bevoegdheden voor overheidsbankzaken hebben, toegekend via een gekozen functie.</target>
       </trans-unit>
       <trans-unit id="Not enough {0} in {1}" xml:space="preserve">
         <source xml:space="preserve">Not enough <ph id="0">{0}</ph> in <ph id="1">{1}</ph></source>
@@ -20499,7 +20499,7 @@
       </trans-unit>
       <trans-unit id="Ignores property owned by demographics or elected titles." xml:space="preserve">
         <source xml:space="preserve">Ignores property owned by demographics or elected titles.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het negeert eigendommen van bevolkingsgroepen of gekozen titels.</target>
+        <target xml:space="preserve" state="translated">Negeert eigendom van bevolkingsgroepen of gekozen functies.</target>
       </trans-unit>
       <trans-unit id="If multiple people own a property (titles), this will weight ownership evenly among them." xml:space="preserve">
         <source xml:space="preserve">If multiple people own a property (titles), this will weight ownership evenly among them.</source>
@@ -23860,7 +23860,7 @@
       </trans-unit>
       <trans-unit id="Pipe Component" xml:space="preserve">
         <source xml:space="preserve">Pipe Component</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Pijponderdeel</target>
+        <target xml:space="preserve" state="translated">Buisonderdeel</target>
       </trans-unit>
       <trans-unit id="Power Component" xml:space="preserve">
         <source xml:space="preserve">Power Component</source>
@@ -24169,7 +24169,7 @@
       </trans-unit>
       <trans-unit id="Executive Action Title" xml:space="preserve">
         <source xml:space="preserve">Executive Action Title</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Titel van uitvoerende maatregelen</target>
+        <target xml:space="preserve" state="translated">Titel van het kabinetsbesluit</target>
       </trans-unit>
       <trans-unit id="tons" translate="no">
         <source xml:space="preserve">tons</source>
@@ -24983,7 +24983,7 @@
       </trans-unit>
       <trans-unit id="There will be no way to create more {0} if you reset this mint." xml:space="preserve">
         <source xml:space="preserve">There will be no way to create more <ph id="0">{0}</ph> if you reset this mint.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Als je deze munt reset, kun je geen <ph id="0">{0}</ph> meer maken.</target>
+        <target xml:space="preserve" state="translated">Als je dit munthuis terugzet, kun je geen <ph id="0">{0}</ph> meer maken.</target>
       </trans-unit>
       <trans-unit id="Could not fit {0} in inventory, placed into void storage (access with icon next to backpack button)." xml:space="preserve">
         <source xml:space="preserve">Could not fit <ph id="0">{0}</ph> in inventory, placed into void storage (access with icon next to backpack button).</source>
@@ -25159,7 +25159,7 @@
       </trans-unit>
       <trans-unit id="A title or short description of the executive action." xml:space="preserve">
         <source xml:space="preserve">A title or short description of the executive action.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een titel of korte beschrijving van de uitvoerende maatregel.</target>
+        <target xml:space="preserve" state="translated">Een titel of korte beschrijving van het kabinetsbesluit.</target>
       </trans-unit>
       <trans-unit id="Cannot start an election for {0} because the election process it intends to use {1} is invalid: {2}" xml:space="preserve">
         <source xml:space="preserve">Cannot start an election for <ph id="0">{0}</ph> because the election process it intends to use <ph id="1">{1}</ph> is invalid: <ph id="2">{2}</ph></source>
@@ -25541,7 +25541,7 @@
       </trans-unit>
       <trans-unit id="Current Government" xml:space="preserve">
         <source xml:space="preserve">Current Government</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Huidige regering</target>
+        <target xml:space="preserve" state="translated">Huidige overheid</target>
       </trans-unit>
       <trans-unit id="Hand Plow" xml:space="preserve">
         <source xml:space="preserve">Hand Plow</source>
@@ -25758,7 +25758,7 @@
       </trans-unit>
       <trans-unit id="Allows the creation of Elected Titles, which can be given special privileges." xml:space="preserve">
         <source xml:space="preserve">Allows the creation of Elected Titles, which can be given special privileges.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt gekozen titels maken, waaraan speciale privileges kunnen worden toegekend.</target>
+        <target xml:space="preserve" state="translated">Hiermee kun je gekozen functies aanmaken, waaraan speciale bevoegdheden kunnen worden toegekend.</target>
       </trans-unit>
       <trans-unit id="reference" xml:space="preserve">
         <source xml:space="preserve">reference</source>
@@ -25930,7 +25930,7 @@
       </trans-unit>
       <trans-unit id="Cannot prevent {0} of Capitol objects, as this would prevent others from overthrowing the government." xml:space="preserve">
         <source xml:space="preserve">Cannot prevent <ph id="0">{0}</ph> of Capitol objects, as this would prevent others from overthrowing the government.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt niet voorkomen dat <ph id="0">{0}</ph> van Capitol-objecten, omdat dit anderen zou beletten de regering omver te werpen.</target>
+        <target xml:space="preserve" state="translated">Je kunt <ph id="0">{0}</ph> van Capitoolobjecten niet verhinderen, omdat anderen de overheid dan niet meer omver kunnen werpen.</target>
       </trans-unit>
       <trans-unit id="(Reason: {0})" xml:space="preserve">
         <source xml:space="preserve">(Reason: <ph id="0">{0}</ph>)</source>
@@ -26085,7 +26085,7 @@
       </trans-unit>
       <trans-unit id="Determines whether overthrowing a government is allowed or not. If set, then a constitution with higher house value than the current can be ratified.  Setting this to true also makes it impossible to make laws about placing/crafting a constitution." xml:space="preserve">
         <source xml:space="preserve">Determines whether overthrowing a government is allowed or not. If set, then a constitution with higher house value than the current can be ratified.  Setting this to true also makes it impossible to make laws about placing/crafting a constitution.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bepaalt of het omverwerpen van een regering is toegestaan of niet. Als dit is ingesteld, kan een grondwet met een hogere waarde dan de huidige worden geratificeerd.  Als je dit op 'true' zet, wordt het ook onmogelijk om wetten te maken over het opstellen of aanpassen van een grondwet.</target>
+        <target xml:space="preserve" state="translated">Bepaalt of het omverwerpen van een overheid is toegestaan. Als dit aan staat, kan een grondwet met een hogere huiswaarde dan de huidige worden bekrachtigd. Als je dit op 'true' zet, kun je ook geen wetten meer maken over het plaatsen of maken van een grondwet.</target>
       </trans-unit>
       <trans-unit id="{0} began: Should {1} be added?" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> began: Should <ph id="1">{1}</ph> be added?</source>
@@ -26343,7 +26343,7 @@
       </trans-unit>
       <trans-unit id="This clause provides a payment, with the option of collecting a deposit from the contractor.\n\nDeposits and payments are held in escrow for the duration of the contract. The amount in escrow is given to the contractor if the contract is successfully completed, or it goes to the client if the contract is marked as failed." xml:space="preserve">
         <source xml:space="preserve">This clause provides a payment, with the option of collecting a deposit from the contractor.\n\nDeposits and payments are held in escrow for the duration of the contract. The amount in escrow is given to the contractor if the contract is successfully completed, or it goes to the client if the contract is marked as failed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze clausule voorziet in een betaling, met de optie om een aanbetaling van de aannemer te vragen. \n\nAanbetalingen en betalingen worden gedurende de looptijd van het contract in escrow gehouden. Het bedrag in escrow wordt aan de aannemer gegeven als het contract succesvol is voltooid, of het gaat naar de klant als het contract als mislukt wordt gemarkeerd.</target>
+        <target xml:space="preserve" state="translated">Deze clausule regelt een betaling, met de mogelijkheid om een borg van de opdrachtnemer te innen.\n\nBorgsommen en betalingen worden tijdens de looptijd van het contract in depot gehouden. Het bedrag in depot gaat naar de opdrachtnemer als het contract met succes is voltooid, of naar de opdrachtgever als het contract als mislukt wordt gemarkeerd.</target>
       </trans-unit>
       <trans-unit id="Client doesn't have access to {0}." xml:space="preserve">
         <source xml:space="preserve">Client doesn't have access to <ph id="0">{0}</ph>.</source>
@@ -27157,7 +27157,7 @@
       </trans-unit>
       <trans-unit id="Town" xml:space="preserve">
         <source xml:space="preserve">Town</source>
-        <target xml:space="preserve" state="translated">Stad</target>
+        <target xml:space="preserve" state="translated">Dorp</target>
       </trans-unit>
       <trans-unit id="Country" xml:space="preserve">
         <source xml:space="preserve">Country</source>
@@ -27645,7 +27645,7 @@
       </trans-unit>
       <trans-unit id="Are you sure you want to draft an election ratify this constitution ({0}) and overthrow the previous government, {1}?" xml:space="preserve">
         <source xml:space="preserve">Are you sure you want to draft an election ratify this constitution (<ph id="0">{0}</ph>) and overthrow the previous government, <ph id="1">{1}</ph>?</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Weet je zeker dat je verkiezingen wilt uitschrijven, deze grondwet wilt ratificeren (<ph id="0">{0}</ph>) en de vorige regering wilt omverwerpen, <ph id="1">{1}</ph>?</target>
+        <target xml:space="preserve" state="translated">Weet je zeker dat je een verkiezing wilt uitschrijven om deze grondwet (<ph id="0">{0}</ph>) te bekrachtigen en de vorige overheid, <ph id="1">{1}</ph>, omver te werpen?</target>
       </trans-unit>
       <trans-unit id="{0} is no longer a draft and cannot be edited." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> is no longer a draft and cannot be edited.</source>
@@ -29492,23 +29492,23 @@
       </trans-unit>
       <trans-unit id="Chimney pipe output must be not farther than {0} blocks by horizontal from the object output." xml:space="preserve">
         <source xml:space="preserve">Chimney pipe output must be not farther than <ph id="0">{0}</ph> blocks by horizontal from the object output.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De uitgang van de schoorsteenpijp mag horizontaal niet verder dan <ph id="0">{0}</ph> blokken van de uitgang van het object verwijderd zijn.</target>
+        <target xml:space="preserve" state="translated">De uitgang van de schoorsteenpijp mag horizontaal niet verder dan <ph id="0">{0}</ph> blokken van de uitgang van het object liggen.</target>
       </trans-unit>
       <trans-unit id="Chimney pipe must have only one open end." xml:space="preserve">
         <source xml:space="preserve">Chimney pipe must have only one open end.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een schoorsteenpijp mag maar één open uiteinde hebben.</target>
+        <target xml:space="preserve" state="translated">Een schoorsteenpijp mag maar één open uiteinde hebben.</target>
       </trans-unit>
       <trans-unit id="Chimney pipe output must be outside of all rooms." xml:space="preserve">
         <source xml:space="preserve">Chimney pipe output must be outside of all rooms.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De uitlaat van de schoorsteenpijp moet buiten alle kamers liggen.</target>
+        <target xml:space="preserve" state="translated">De uitgang van de schoorsteenpijp moet buiten alle kamers liggen.</target>
       </trans-unit>
       <trans-unit id="Chimney pipe output must be above the object." xml:space="preserve">
         <source xml:space="preserve">Chimney pipe output must be above the object.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De uitlaat van de schoorsteenpijp moet boven het object uitsteken.</target>
+        <target xml:space="preserve" state="translated">De uitgang van de schoorsteenpijp moet boven het object liggen.</target>
       </trans-unit>
       <trans-unit id="Chimney pipe must have only one open end, outside of all rooms, above the object and within {0} blocks by horizontal." xml:space="preserve">
         <source xml:space="preserve">Chimney pipe must have only one open end, outside of all rooms, above the object and within <ph id="0">{0}</ph> blocks by horizontal.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De schoorsteenpijp mag maar één open uiteinde hebben, buiten alle kamers, boven het object en binnen <ph id="0">{0}</ph> blokken horizontaal.</target>
+        <target xml:space="preserve" state="translated">De schoorsteenpijp mag maar één open uiteinde hebben, buiten alle kamers, boven het object en horizontaal binnen <ph id="0">{0}</ph> blokken.</target>
       </trans-unit>
       <trans-unit id="Silos only accept crops, seeds, or fertilizer." xml:space="preserve">
         <source xml:space="preserve">Silos only accept crops, seeds, or fertilizer.</source>
@@ -30296,7 +30296,7 @@
       </trans-unit>
       <trans-unit id="Mint Currency" xml:space="preserve">
         <source xml:space="preserve">Mint Currency</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Muntgeld</target>
+        <target xml:space="preserve" state="translated">Valuta slaan</target>
       </trans-unit>
       <trans-unit id="Create Currency" xml:space="preserve">
         <source xml:space="preserve">Create Currency</source>
@@ -31760,7 +31760,7 @@
       </trans-unit>
       <trans-unit id="Foundation" xml:space="preserve">
         <source xml:space="preserve">Foundation</source>
-        <target xml:space="preserve" state="translated">Stichting</target>
+        <target xml:space="preserve" state="translated">Stichtingssteen</target>
       </trans-unit>
       <trans-unit id="Life" xml:space="preserve">
         <source xml:space="preserve">Life</source>
@@ -31900,7 +31900,7 @@
       </trans-unit>
       <trans-unit id="Goverment District" xml:space="preserve">
         <source xml:space="preserve">Goverment District</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Regeringsdistrict</target>
+        <target xml:space="preserve" state="translated">Overheidswijk</target>
       </trans-unit>
       <trans-unit id="Center:" xml:space="preserve">
         <source xml:space="preserve">Center:</source>
@@ -33472,7 +33472,7 @@
       </trans-unit>
       <trans-unit id="Tuition fee, held in escrow." xml:space="preserve">
         <source xml:space="preserve">Tuition fee, held in escrow.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Collegegeld, in bewaring gehouden.</target>
+        <target xml:space="preserve" state="translated">Lesgeld, in depot gehouden.</target>
       </trans-unit>
       <trans-unit id="Currency which tuition is charged in." xml:space="preserve">
         <source xml:space="preserve">Currency which tuition is charged in.</source>
@@ -33656,7 +33656,7 @@
       </trans-unit>
       <trans-unit id="If set, students will be charged this amount upon enrollment, which will be held in Escrow until completion or unerollment, upon which it will be split with the teacher and the owner's bank account.  Students that leave class before completion will have a prorated amount refunded.  Students who have a partial education when joining will be charged a prorated tuition." xml:space="preserve">
         <source xml:space="preserve">If set, students will be charged this amount upon enrollment, which will be held in Escrow until completion or unerollment, upon which it will be split with the teacher and the owner's bank account.  Students that leave class before completion will have a prorated amount refunded.  Students who have a partial education when joining will be charged a prorated tuition.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Als dit is ingesteld, wordt dit bedrag bij inschrijving aan studenten in rekening gebracht. Het wordt in escrow gehouden totdat de cursus is afgerond of de student zich uitschrijft, waarna het wordt verdeeld tussen de docent en de bankrekening van de eigenaar.  Studenten die de cursus voortijdig verlaten, krijgen een evenredig deel terugbetaald.  Studenten die al een deel van de opleiding hebben gevolgd wanneer ze zich inschrijven, betalen een evenredig deel van het lesgeld.</target>
+        <target xml:space="preserve" state="translated">Als dit is ingesteld, wordt dit bedrag bij inschrijving in rekening gebracht bij studenten. Het wordt in depot gehouden tot de opleiding is afgerond of de student zich uitschrijft, en daarna verdeeld tussen de leraar en de bankrekening van de eigenaar. Studenten die de les voortijdig verlaten, krijgen naar verhouding een deel terug. Studenten die bij inschrijving al een deel van de opleiding hebben gevolgd, betalen naar verhouding lesgeld.</target>
       </trans-unit>
       <trans-unit id="Requirements that must be satisfied throughout the course. If the teacher fails to maintain these requirements, they will be removed." xml:space="preserve">
         <source xml:space="preserve">Requirements that must be satisfied throughout the course. If the teacher fails to maintain these requirements, they will be removed.</source>
@@ -36147,7 +36147,7 @@
       </trans-unit>
       <trans-unit id="Tuition distributed from escrow: {0} paid to teacher, {1} paid to school." xml:space="preserve">
         <source xml:space="preserve">Tuition distributed from escrow: <ph id="0">{0}</ph> paid to teacher, <ph id="1">{1}</ph> paid to school.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Lesgeld wordt uitbetaald vanuit een escrow-rekening: <ph id="0">{0}</ph> wordt betaald aan de docent, <ph id="1">{1}</ph> wordt betaald aan de school.</target>
+        <target xml:space="preserve" state="translated">Lesgeld uit het depot verdeeld: <ph id="0">{0}</ph> betaald aan de leraar, <ph id="1">{1}</ph> betaald aan de school.</target>
       </trans-unit>
       <trans-unit id="damaging {0}{1}" xml:space="preserve">
         <source xml:space="preserve">damaging <ph id="0">{0}</ph><ph id="1">{1}</ph></source>
@@ -36283,7 +36283,7 @@
       </trans-unit>
       <trans-unit id="Place here to start a town overlapping {0}." xml:space="preserve">
         <source xml:space="preserve">Place here to start a town overlapping <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Klik hier om een stad te stichten die overlapt met <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Plaats hem hier om een dorp te stichten dat overlapt met <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Can't place here, you don't have access to {0}." xml:space="preserve">
         <source xml:space="preserve">Can't place here, you don't have access to <ph id="0">{0}</ph>.</source>
@@ -36834,7 +36834,7 @@
       </trans-unit>
       <trans-unit id="Citizens in this group can remove occupants of this elected title immediately at any government office." xml:space="preserve">
         <source xml:space="preserve">Citizens in this group can remove occupants of this elected title immediately at any government office.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Burgers in deze groep kunnen de houders van deze gekozen titel onmiddellijk uit hun functie ontheffen bij elk overheidsbureau.</target>
+        <target xml:space="preserve" state="translated">Burgers in deze groep kunnen de bekleders van deze gekozen functie bij elk bestuurskantoor meteen uit hun functie zetten.</target>
       </trans-unit>
       <trans-unit id="Location 1" xml:space="preserve">
         <source xml:space="preserve">Location 1</source>
@@ -37911,12 +37911,12 @@
       </trans-unit>
       <trans-unit id="Make a citizen a resident of the given town. Removes them from the previous settlement." xml:space="preserve">
         <source xml:space="preserve">Make a citizen a resident of the given town. Removes them from the previous settlement.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Maak van een burger een inwoner van de betreffende stad. Verwijder hem of haar uit de vorige nederzetting.</target>
+        <target xml:space="preserve" state="translated">Maak een burger ingezetene van het opgegeven dorp. Verwijdert hem of haar uit de vorige nederzetting.</target>
         <note from="developer">Help text for chat command /emigrate</note>
       </trans-unit>
       <trans-unit id="Make a given citizen leave citizenship of a given town." xml:space="preserve">
         <source xml:space="preserve">Make a given citizen leave citizenship of a given town.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zorg ervoor dat een bepaalde burger het burgerschap van een bepaalde stad opgeeft.</target>
+        <target xml:space="preserve" state="translated">Laat een opgegeven burger het burgerschap van een opgegeven dorp opgeven.</target>
         <note from="developer">Help text for chat command /vacate</note>
       </trans-unit>
       <trans-unit id="Move all citizens to the target settlement, or the first found if not set." xml:space="preserve">
@@ -37931,11 +37931,11 @@
       </trans-unit>
       <trans-unit id="Citizens Per Town" xml:space="preserve">
         <source xml:space="preserve">Citizens Per Town</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Aantal inwoners per stad</target>
+        <target xml:space="preserve" state="translated">Burgers per dorp</target>
       </trans-unit>
       <trans-unit id="Towns Per Country" xml:space="preserve">
         <source xml:space="preserve">Towns Per Country</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Steden per land</target>
+        <target xml:space="preserve" state="translated">Dorpen per land</target>
       </trans-unit>
       <trans-unit id="Countries Per Federation" xml:space="preserve">
         <source xml:space="preserve">Countries Per Federation</source>
@@ -37947,7 +37947,7 @@
       </trans-unit>
       <trans-unit id="Government In Each Settlement" xml:space="preserve">
         <source xml:space="preserve">Government In Each Settlement</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De regering in elke nederzetting</target>
+        <target xml:space="preserve" state="translated">Overheid in elke nederzetting</target>
       </trans-unit>
       <trans-unit id="Api Key" xml:space="preserve">
         <source xml:space="preserve">Api Key</source>
@@ -37971,7 +37971,7 @@
       </trans-unit>
       <trans-unit id="View the input and output pipes to this object." xml:space="preserve">
         <source xml:space="preserve">View the input and output pipes to this object.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Bekijk de invoer- en uitvoerpijpen naar dit object.</target>
+        <target xml:space="preserve" state="translated">Bekijk de invoer- en uitvoerbuizen van dit object.</target>
       </trans-unit>
       <trans-unit id="Auto Shutdown Hour" xml:space="preserve">
         <source xml:space="preserve">Auto Shutdown Hour</source>
@@ -38003,7 +38003,7 @@
       </trans-unit>
       <trans-unit id="The account to which the new currency is minted." xml:space="preserve">
         <source xml:space="preserve">The account to which the new currency is minted.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De account waarop de nieuwe valuta wordt geslagen.</target>
+        <target xml:space="preserve" state="translated">De rekening waarop de nieuwe valuta wordt geslagen.</target>
       </trans-unit>
       <trans-unit id="Was this the first time the citizen has entered/left the demographic since they joined?" xml:space="preserve">
         <source xml:space="preserve">Was this the first time the citizen has entered/left the demographic since they joined?</source>
@@ -38067,7 +38067,7 @@
       </trans-unit>
       <trans-unit id="Create and mint new coins for currencies." xml:space="preserve">
         <source xml:space="preserve">Create and mint new coins for currencies.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Maak en sla nieuwe munten voor valuta's.</target>
+        <target xml:space="preserve" state="translated">Maak en sla nieuwe munten voor valuta.</target>
       </trans-unit>
       <trans-unit id="View and set the attachment to this vehicle." xml:space="preserve">
         <source xml:space="preserve">View and set the attachment to this vehicle.</source>
@@ -38864,7 +38864,7 @@
       </trans-unit>
       <trans-unit id="Minted First Currency." xml:space="preserve">
         <source xml:space="preserve">Minted First Currency.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Eerste munteenheid geslagen.</target>
+        <target xml:space="preserve" state="translated">Eerste valuta geslagen.</target>
       </trans-unit>
       <trans-unit id="You were un-invited to {0} at {1}." xml:space="preserve">
         <source xml:space="preserve">You were un-invited to <ph id="0">{0}</ph> at <ph id="1">{1}</ph>.</source>
@@ -40678,7 +40678,7 @@
       </trans-unit>
       <trans-unit id="Create all the government objects in their needed buildings near you, ratify the constitution, and add at least one of each civics object to their tables. Pass 'false' to make the constitution not require elections to make changes." xml:space="preserve">
         <source xml:space="preserve">Create all the government objects in their needed buildings near you, ratify the constitution, and add at least one of each civics object to their tables. Pass 'false' to make the constitution not require elections to make changes.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Maak alle regeringsobjecten in de benodigde gebouwen bij jou in de buurt, ratificeer de grondwet en voeg ten minste één van elk civics-object toe aan hun tabellen. Geef 'false' door om ervoor te zorgen dat de grondwet geen verkiezingen vereist om wijzigingen door te voeren.</target>
+        <target xml:space="preserve" state="translated">Maak alle overheidsobjecten in de benodigde gebouwen bij jou in de buurt, bekrachtig de grondwet en voeg op hun tafels minstens één van elk bestuursobject toe. Geef 'false' mee als de grondwet geen verkiezingen nodig moet hebben voor wijzigingen.</target>
       </trans-unit>
       <trans-unit id="Shows commands for achievements." xml:space="preserve">
         <source xml:space="preserve">Shows commands for achievements.</source>
@@ -41947,7 +41947,7 @@
       </trans-unit>
       <trans-unit id="Fill the town on this plot with citizens." xml:space="preserve">
         <source xml:space="preserve">Fill the town on this plot with citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Vul de stad op dit perceel met inwoners.</target>
+        <target xml:space="preserve" state="translated">Vul het dorp op dit perceel met burgers.</target>
         <note from="developer">Help text for chat command /populate</note>
       </trans-unit>
       <trans-unit id="Settlement Name Upon Founding" xml:space="preserve">
@@ -43243,7 +43243,7 @@
       </trans-unit>
       <trans-unit id="Settlement Claim Stakes" xml:space="preserve">
         <source xml:space="preserve">Settlement Claim Stakes</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Nederzettingen claimen</target>
+        <target xml:space="preserve" state="translated">Nederzettingsgrenspalen</target>
       </trans-unit>
       <trans-unit id="Settlement Claim Papers" xml:space="preserve">
         <source xml:space="preserve">Settlement Claim Papers</source>
@@ -43303,7 +43303,7 @@
       </trans-unit>
       <trans-unit id="Already a town on this plot." xml:space="preserve">
         <source xml:space="preserve">Already a town on this plot.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Er staat al een stad op dit perceel.</target>
+        <target xml:space="preserve" state="translated">Er staat al een dorp op dit perceel.</target>
       </trans-unit>
       <trans-unit id="Rebuilt civic powers." xml:space="preserve">
         <source xml:space="preserve">Rebuilt civic powers.</source>
@@ -43319,7 +43319,7 @@
       </trans-unit>
       <trans-unit id="Create a new town on this plot and add citizens." xml:space="preserve">
         <source xml:space="preserve">Create a new town on this plot and add citizens.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Maak een nieuwe stad op dit perceel en voeg inwoners toe.</target>
+        <target xml:space="preserve" state="translated">Maak een nieuw dorp op dit perceel en voeg burgers toe.</target>
       </trans-unit>
       <trans-unit id="Target settlement not set." xml:space="preserve">
         <source xml:space="preserve">Target settlement not set.</source>
@@ -43931,7 +43931,7 @@
       </trans-unit>
       <trans-unit id="This plot is unclaimed and not a part of any town." xml:space="preserve">
         <source xml:space="preserve">This plot is unclaimed and not a part of any town.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dit perceel is vrij en maakt geen deel uit van een stad.</target>
+        <target xml:space="preserve" state="translated">Dit perceel is niet in bezit genomen en hoort bij geen enkel dorp.</target>
       </trans-unit>
       <trans-unit id="Finished memory profiler snapshot. Saved to &quot;{0}" xml:space="preserve">
         <source xml:space="preserve">Finished memory profiler snapshot. Saved to "<ph id="0">{0}</ph></source>
@@ -44428,27 +44428,27 @@
       </trans-unit>
       <trans-unit id="Immigration Desk" xml:space="preserve">
         <source xml:space="preserve">Immigration Desk</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Immigratiebalie</target>
+        <target xml:space="preserve" state="translated">Immigratiebalie</target>
       </trans-unit>
       <trans-unit id="Town Foundation" xml:space="preserve">
         <source xml:space="preserve">Town Foundation</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stichting van de stad</target>
+        <target xml:space="preserve" state="translated">Dorpsstichtingssteen</target>
       </trans-unit>
       <trans-unit id="Country Foundation" xml:space="preserve">
         <source xml:space="preserve">Country Foundation</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Oprichting van een land</target>
+        <target xml:space="preserve" state="translated">Landsstichtingssteen</target>
       </trans-unit>
       <trans-unit id="Federation Foundation" xml:space="preserve">
         <source xml:space="preserve">Federation Foundation</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Oprichting van de Federatie</target>
+        <target xml:space="preserve" state="translated">Federatiestichtingssteen</target>
       </trans-unit>
       <trans-unit id="Town Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Town Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stad claimen</target>
+        <target xml:space="preserve" state="translated">Dorpsgrenspaal</target>
       </trans-unit>
       <trans-unit id="Country Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Country Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Land claimen</target>
+        <target xml:space="preserve" state="translated">Landsgrenspaal</target>
       </trans-unit>
       <trans-unit id="Copper Plate" xml:space="preserve">
         <source xml:space="preserve">Copper Plate</source>
@@ -44934,7 +44934,7 @@
       </trans-unit>
       <trans-unit id="Allows citizens to perform certain civic actions, which affect the government associated with this object." xml:space="preserve">
         <source xml:space="preserve">Allows citizens to perform certain civic actions, which affect the government associated with this object.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Hierdoor kunnen burgers bepaalde burgeracties uitvoeren, die invloed hebben op de regering die bij dit onderwerp hoort.</target>
+        <target xml:space="preserve" state="translated">Hiermee kunnen burgers bepaalde bestuurlijke handelingen uitvoeren die invloed hebben op de overheid die bij dit object hoort.</target>
       </trans-unit>
       <trans-unit id="Provides a tool for claiming property around this object.  By adding claim papers from Settlements, you can increase the number of plots you can claim." xml:space="preserve">
         <source xml:space="preserve">Provides a tool for claiming property around this object.  By adding claim papers from Settlements, you can increase the number of plots you can claim.</source>
@@ -45121,7 +45121,7 @@
       </trans-unit>
       <trans-unit id="Immigration requirements and decisions needs to pass an immigration desk before approval." xml:space="preserve">
         <source xml:space="preserve">Immigration requirements and decisions needs to pass an immigration desk before approval.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Immigratievereisten en -beslissingen moeten eerst door een immigratiebalie worden goedgekeurd.</target>
+        <target xml:space="preserve" state="translated">Immigratievoorwaarden en -besluiten moeten via een immigratiebalie lopen voordat ze worden goedgekeurd.</target>
       </trans-unit>
       <trans-unit id="A specialized kiln used to transform sand into buildable blocks and decorations." xml:space="preserve">
         <source xml:space="preserve">A specialized kiln used to transform sand into buildable blocks and decorations.</source>
@@ -45413,7 +45413,7 @@
       </trans-unit>
       <trans-unit id="This object marks the foundation of the {0}." xml:space="preserve">
         <source xml:space="preserve">This object marks the foundation of the <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dit object markeert de basis van de <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Dit object markeert de stichting van <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="{0} on {1}." xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> on <ph id="1">{1}</ph>.</source>
@@ -45441,11 +45441,11 @@
       </trans-unit>
       <trans-unit id="Settlement Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Settlement Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Nederzetting claimen</target>
+        <target xml:space="preserve" state="translated">Nederzettingsgrenspaal</target>
       </trans-unit>
       <trans-unit id="Homestead Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Homestead Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Homestead Claim Stake</target>
+        <target xml:space="preserve" state="translated">Hoevegrenspaal</target>
       </trans-unit>
       <trans-unit id="Can't claim here. Must be within influence of {0}." xml:space="preserve">
         <source xml:space="preserve">Can't claim here. Must be within influence of <ph id="0">{0}</ph>.</source>
@@ -45653,7 +45653,7 @@
       </trans-unit>
       <trans-unit id="Become elected to a government position." xml:space="preserve">
         <source xml:space="preserve">Become elected to a government position.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Word verkozen voor een regeringsfunctie.</target>
+        <target xml:space="preserve" state="translated">Word gekozen in een overheidsfunctie.</target>
       </trans-unit>
       <trans-unit id="It's Obviously Rigged" xml:space="preserve">
         <source xml:space="preserve">It's Obviously Rigged</source>
@@ -46086,7 +46086,7 @@
       </trans-unit>
       <trans-unit id="Cannot use old style Capitol when Settlement System is enabled." xml:space="preserve">
         <source xml:space="preserve">Cannot use old style Capitol when Settlement System is enabled.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt de oude stijl van Capitol niet gebruiken als het Settlement System is ingeschakeld.</target>
+        <target xml:space="preserve" state="translated">Een Capitool in de oude stijl kan niet worden gebruikt als het nederzettingssysteem is ingeschakeld.</target>
       </trans-unit>
       <trans-unit id="Boat moorage post is full." xml:space="preserve">
         <source xml:space="preserve">Boat moorage post is full.</source>
@@ -46114,11 +46114,11 @@
       </trans-unit>
       <trans-unit id="Cannot spawn government with settlement feature enabled. Disable settlements first, or use the '/settlement spawn' command." xml:space="preserve">
         <source xml:space="preserve">Cannot spawn government with settlement feature enabled. Disable settlements first, or use the '/settlement spawn' command.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt geen regering spawnen als de nederzettingsfunctie is ingeschakeld. Schakel eerst nederzettingen uit, of gebruik het commando '/settlement spawn'.</target>
+        <target xml:space="preserve" state="translated">Je kunt geen overheid aanmaken terwijl nederzettingen zijn ingeschakeld. Schakel eerst nederzettingen uit, of gebruik het commando '/settlement spawn'.</target>
       </trans-unit>
       <trans-unit id="Beginning government spawn..." xml:space="preserve">
         <source xml:space="preserve">Beginning government spawn...</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">De eerste regeringsleden verschijnen...</target>
+        <target xml:space="preserve" state="translated">Overheid wordt aangemaakt...</target>
       </trans-unit>
       <trans-unit id="Achievement '{0}' not found on {1}." xml:space="preserve">
         <source xml:space="preserve">Achievement '<ph id="0">{0}</ph>' not found on <ph id="1">{1}</ph>.</source>
@@ -46126,7 +46126,7 @@
       </trans-unit>
       <trans-unit id="Towns" xml:space="preserve">
         <source xml:space="preserve">Towns</source>
-        <target xml:space="preserve" state="translated">Steden</target>
+        <target xml:space="preserve" state="translated">Dorpen</target>
       </trans-unit>
       <trans-unit id="This value sets how far will the marker start appearing on your screen. It is in meters and 0 value means no limit." xml:space="preserve">
         <source xml:space="preserve">This value sets how far will the marker start appearing on your screen. It is in meters and 0 value means no limit.</source>
@@ -46563,7 +46563,7 @@
       </trans-unit>
       <trans-unit id="Federation Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Federation Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Federatie Claim Stake</target>
+        <target xml:space="preserve" state="translated">Federatiegrenspaal</target>
       </trans-unit>
       <trans-unit id="Carbide Helmet Lamp" xml:space="preserve">
         <source xml:space="preserve">Carbide Helmet Lamp</source>
@@ -47193,7 +47193,7 @@
       </trans-unit>
       <trans-unit id="The number of plots that a homestead claim stake allows you to claim by default." xml:space="preserve">
         <source xml:space="preserve">The number of plots that a homestead claim stake allows you to claim by default.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het aantal percelen dat je standaard kunt claimen met een homestead-claim.</target>
+        <target xml:space="preserve" state="translated">Het aantal percelen dat je standaard met een hoevegrenspaal in bezit kunt nemen.</target>
       </trans-unit>
       <trans-unit id="If there are not enough citizens to support the claimed plots, a property crisis will happen after this amount of time. Defined per settlement type." xml:space="preserve">
         <source xml:space="preserve">If there are not enough citizens to support the claimed plots, a property crisis will happen after this amount of time. Defined per settlement type.</source>
@@ -47504,7 +47504,7 @@
       </trans-unit>
       <trans-unit id="Pioneers living on homesteads that are not yet part of a town." xml:space="preserve">
         <source xml:space="preserve">Pioneers living on homesteads that are not yet part of a town.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Pioniers die op boerderijen wonen die nog geen deel uitmaken van een stad.</target>
+        <target xml:space="preserve" state="translated">Pioniers die op hoeves wonen die nog geen deel uitmaken van een dorp.</target>
       </trans-unit>
       <trans-unit id="Minerals for mining." xml:space="preserve">
         <source xml:space="preserve">Minerals for mining.</source>
@@ -48475,7 +48475,7 @@
       </trans-unit>
       <trans-unit id="Cannot place here: Your Homestead must be no more than {0}m away from the foundation of the {1} you are a citizen of." xml:space="preserve">
         <source xml:space="preserve">Cannot place here: Your Homestead must be no more than <ph id="0">{0}</ph>m away from the foundation of the <ph id="1">{1}</ph> you are a citizen of.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Kan hier niet geplaatst worden: Je Homestead mag niet meer dan <ph id="0">{0}</ph> m verwijderd zijn van de fundering van de <ph id="1">{1}</ph> waarvan je een inwoner bent.</target>
+        <target xml:space="preserve" state="translated">Kan hier niet plaatsen: je hoeve mag niet verder dan <ph id="0">{0}</ph> m liggen van de stichtingssteen van <ph id="1">{1}</ph>, waarvan je burger bent.</target>
       </trans-unit>
       <trans-unit id="This plot is within {0}m of the unfounded {1} (of which you are a citizen), so you may place your homestead here." xml:space="preserve">
         <source xml:space="preserve">This plot is within <ph id="0">{0}</ph>m of the unfounded <ph id="1">{1}</ph> (of which you are a citizen), so you may place your homestead here.</source>
@@ -48755,7 +48755,7 @@
       </trans-unit>
       <trans-unit id="Homestead Foundation" xml:space="preserve">
         <source xml:space="preserve">Homestead Foundation</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Homestead Foundation</target>
+        <target xml:space="preserve" state="translated">Hoevestichtingssteen</target>
       </trans-unit>
       <trans-unit id="It is a member of no settlement." xml:space="preserve">
         <source xml:space="preserve">It is a member of no settlement.</source>
@@ -49298,7 +49298,7 @@
       </trans-unit>
       <trans-unit id="This settlement doesn't have a foundation to spawn claim stakes in." xml:space="preserve">
         <source xml:space="preserve">This settlement doesn't have a foundation to spawn claim stakes in.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze nederzetting heeft geen basis om claimpalen te plaatsen.</target>
+        <target xml:space="preserve" state="translated">Deze nederzetting heeft geen stichtingssteen waarin grenspalen kunnen worden aangemaakt.</target>
       </trans-unit>
       <trans-unit id="This settlement doesn't have a foundation to spawn claim papers in." xml:space="preserve">
         <source xml:space="preserve">This settlement doesn't have a foundation to spawn claim papers in.</source>
@@ -49310,7 +49310,7 @@
       </trans-unit>
       <trans-unit id="Create a nested homestead, town, country, and federation with simple force-enabled objects." xml:space="preserve">
         <source xml:space="preserve">Create a nested homestead, town, country, and federation with simple force-enabled objects.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Creëer een geneste boerderij, stad, land en federatie met eenvoudige, krachtgestuurde objecten.</target>
+        <target xml:space="preserve" state="translated">Maak een hoeve binnen een dorp binnen een land binnen een federatie aan, met eenvoudige objecten die geforceerd zijn ingeschakeld.</target>
       </trans-unit>
       <trans-unit id="Create a homestead for the passed user or a test user if null." xml:space="preserve">
         <source xml:space="preserve">Create a homestead for the passed user or a test user if null.</source>
@@ -49650,19 +49650,19 @@
       </trans-unit>
       <trans-unit id="Once the Constitution passes election, press the 'Found Town' button to unveil your new town to the world." xml:space="preserve">
         <source xml:space="preserve">Once the Constitution passes election, press the 'Found Town' button to unveil your new town to the world.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Zodra de grondwet is aangenomen, druk je op de knop 'Stad stichten' om je nieuwe stad aan de wereld te onthullen.</target>
+        <target xml:space="preserve" state="translated">Zodra de grondwet bij de verkiezing is aangenomen, druk je op de knop 'Dorp stichten' om je nieuwe dorp aan de wereld te onthullen.</target>
       </trans-unit>
       <trans-unit id="Congratulations! Now you have a Town Foundation, which means you can start a brand new Town Settlement by placing it inside a room." xml:space="preserve">
         <source xml:space="preserve">Congratulations! Now you have a Town Foundation, which means you can start a brand new Town Settlement by placing it inside a room.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gefeliciteerd! Je hebt nu een Town Foundation, wat betekent dat je een gloednieuwe Town Settlement kunt starten door deze in een kamer te plaatsen.</target>
+        <target xml:space="preserve" state="translated">Gefeliciteerd! Je hebt nu een dorpsstichtingssteen. Daarmee kun je een gloednieuw dorp beginnen door hem in een kamer te plaatsen.</target>
       </trans-unit>
       <trans-unit id="How to Start a New Town" xml:space="preserve">
         <source xml:space="preserve">How to Start a New Town</source>
-        <target xml:space="preserve" state="needs-translation">Hoe je een nieuwe stad sticht</target>
+        <target xml:space="preserve" state="translated">Een nieuw dorp stichten</target>
       </trans-unit>
       <trans-unit id="A new Town will start as a draft. In the Status Tab you can see what requirements should be met by a Town before it can be founded." xml:space="preserve">
         <source xml:space="preserve">A new Town will start as a draft. In the Status Tab you can see what requirements should be met by a Town before it can be founded.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een nieuwe stad begint als een concept. In het tabblad Status kun je zien aan welke vereisten een stad moet voldoen voordat deze gesticht kan worden.</target>
+        <target xml:space="preserve" state="translated">Een nieuw dorp begint als concept. Op het tabblad Status zie je aan welke voorwaarden een dorp moet voldoen voordat het kan worden gesticht.</target>
       </trans-unit>
       <trans-unit id="You can distribute these however you like, but keep in mind that if Citizens leave the town the claims can be cancelled." xml:space="preserve">
         <source xml:space="preserve">You can distribute these however you like, but keep in mind that if Citizens leave the town the claims can be cancelled.</source>
@@ -49726,11 +49726,11 @@
       </trans-unit>
       <trans-unit id="Found Town" xml:space="preserve">
         <source xml:space="preserve">Found Town</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Stad gevonden</target>
+        <target xml:space="preserve" state="translated">Dorp stichten</target>
       </trans-unit>
       <trans-unit id="Citizens of a Town" xml:space="preserve">
         <source xml:space="preserve">Citizens of a Town</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Inwoners van een stad</target>
+        <target xml:space="preserve" state="translated">Burgers van een dorp</target>
       </trans-unit>
       <trans-unit id="Facetracking status:" xml:space="preserve">
         <source xml:space="preserve">Facetracking status:</source>
@@ -50592,7 +50592,7 @@
       </trans-unit>
       <trans-unit id="Capitol:" xml:space="preserve">
         <source xml:space="preserve">Capitol:</source>
-        <target xml:space="preserve" state="translated">Hoofdstad:</target>
+        <target xml:space="preserve" state="translated">Capitool:</target>
       </trans-unit>
       <trans-unit id="Can't move there, this category already has an item matching that." xml:space="preserve">
         <source xml:space="preserve">Can't move there, this category already has an item matching that.</source>
@@ -50891,7 +50891,7 @@
       </trans-unit>
       <trans-unit id="You can craft a new homestead claimstake at {0}" xml:space="preserve">
         <source xml:space="preserve">You can craft a new homestead claimstake at <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt een nieuwe homestead claimstake maken op <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Je kunt een nieuwe hoevegrenspaal maken bij <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Too many deeds selected, you may only select {0} influence-producing deeds for a {1}." xml:space="preserve">
         <source xml:space="preserve">Too many deeds selected, you may only select <ph id="0">{0}</ph> influence-producing deeds for a <ph id="1">{1}</ph>.</source>
@@ -50951,7 +50951,7 @@
       </trans-unit>
       <trans-unit id="You must hold an elected title in {0} with Diplomatic Privileges to do that." xml:space="preserve">
         <source xml:space="preserve">You must hold an elected title in <ph id="0">{0}</ph> with Diplomatic Privileges to do that.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Om dat te doen, moet je een gekozen functie bekleden in <ph id="0">{0}</ph> met diplomatieke privileges.</target>
+        <target xml:space="preserve" state="translated">Om dat te doen, moet je in <ph id="0">{0}</ph> een gekozen functie met diplomatieke bevoegdheden bekleden.</target>
       </trans-unit>
       <trans-unit id="There are no active elections that {0} can join. {1}" xml:space="preserve">
         <source xml:space="preserve">There are no active elections that <ph id="0">{0}</ph> can join. <ph id="1">{1}</ph></source>
@@ -51703,7 +51703,7 @@
       </trans-unit>
       <trans-unit id="Base Plots On Homestead Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Base Plots On Homestead Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Basispercelen op homestead-claim</target>
+        <target xml:space="preserve" state="translated">Basispercelen op hoevegrenspaal</target>
       </trans-unit>
       <trans-unit id="Hours To Resolve Property Crisis" xml:space="preserve">
         <source xml:space="preserve">Hours To Resolve Property Crisis</source>
@@ -51883,7 +51883,7 @@
       </trans-unit>
       <trans-unit id="Boost in culture for target of annexation that has an unfounded parent settlement (like a homestead trying to start a town)." xml:space="preserve">
         <source xml:space="preserve">Boost in culture for target of annexation that has an unfounded parent settlement (like a homestead trying to start a town).</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een cultuurboost voor een gebied dat je wilt annexeren en dat een onbevestigde moederkolonie heeft (zoals een boerderij die een stad probeert te stichten).</target>
+        <target xml:space="preserve" state="translated">Extra cultuur voor het doelwit van een annexatie waarvan de moedernederzetting nog niet gesticht is (zoals een hoeve die een dorp probeert te stichten).</target>
       </trans-unit>
       <trans-unit id="Boost in culture for target of annexation that has an unfounded parent settlement, per citizen past the first one." xml:space="preserve">
         <source xml:space="preserve">Boost in culture for target of annexation that has an unfounded parent settlement, per citizen past the first one.</source>
@@ -52211,7 +52211,7 @@
       </trans-unit>
       <trans-unit id="Allows title holders to block child settlement influence on claim stakes from this settlements. This allows creation of 'federal land' where town laws do not apply, for example." xml:space="preserve">
         <source xml:space="preserve">Allows title holders to block child settlement influence on claim stakes from this settlements. This allows creation of 'federal land' where town laws do not apply, for example.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Hiermee kunnen titelhouders de invloed van kindernederzettingen op claimaandelen van deze nederzettingen blokkeren. Dit maakt het bijvoorbeeld mogelijk om 'federaal land' te creëren waar de stadswetten niet van toepassing zijn.</target>
+        <target xml:space="preserve" state="translated">Hiermee kunnen titelhouders de invloed van dochternederzettingen op grenspalen van deze nederzetting blokkeren. Zo kun je bijvoorbeeld 'federaal land' maken waar de dorpswetten niet gelden.</target>
       </trans-unit>
       <trans-unit id="whitelistdemographic" translate="no">
         <source xml:space="preserve">whitelistdemographic</source>
@@ -53039,7 +53039,7 @@
       </trans-unit>
       <trans-unit id="Settlement foundations cannot be picked up once founded. They can be moved, or they can be dissolved via civic action." xml:space="preserve">
         <source xml:space="preserve">Settlement foundations cannot be picked up once founded. They can be moved, or they can be dissolved via civic action.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Eenmaal gestichte nederzettingen kun je niet meer opheffen. Ze kunnen wel worden verplaatst, of via burgeractie worden ontbonden.</target>
+        <target xml:space="preserve" state="translated">Stichtingsstenen van nederzettingen kun je niet meer oppakken als de nederzetting gesticht is. Je kunt ze wel verplaatsen, of ze via een bestuurlijke handeling ontbinden.</target>
       </trans-unit>
       <trans-unit id="No remaining citizens." xml:space="preserve">
         <source xml:space="preserve">No remaining citizens.</source>
@@ -53087,7 +53087,7 @@
       </trans-unit>
       <trans-unit id="May only select deeds on {0} claim stakes which do not have a settlement foundation." xml:space="preserve">
         <source xml:space="preserve">May only select deeds on <ph id="0">{0}</ph> claim stakes which do not have a settlement foundation.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je mag alleen percelen selecteren op <ph id="0">{0}</ph> die geen nederzetting hebben.</target>
+        <target xml:space="preserve" state="translated">Je kunt alleen aktes selecteren op grenspalen van het type <ph id="0">{0}</ph> zonder stichtingssteen van een nederzetting.</target>
       </trans-unit>
       <trans-unit id="Border Control for {0}." xml:space="preserve">
         <source xml:space="preserve">Border Control for <ph id="0">{0}</ph>.</source>
@@ -53183,7 +53183,7 @@
       </trans-unit>
       <trans-unit id="Escrow for {0}" xml:space="preserve">
         <source xml:space="preserve">Escrow for <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Escrow voor <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Depot voor <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Refund for {0}" xml:space="preserve">
         <source xml:space="preserve">Refund for <ph id="0">{0}</ph></source>
@@ -53359,7 +53359,7 @@
       </trans-unit>
       <trans-unit id="Cannot prevent {0} in the Basic Election, as this would prevent others from overthrowing the government." xml:space="preserve">
         <source xml:space="preserve">Cannot prevent <ph id="0">{0}</ph> in the Basic Election, as this would prevent others from overthrowing the government.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt niet voorkomen dat <ph id="0">{0}</ph> in de basisverkiezingen wordt gekozen, omdat dit anderen zou beletten de regering omver te werpen.</target>
+        <target xml:space="preserve" state="translated">Je kunt <ph id="0">{0}</ph> in de basisverkiezing niet verbieden, omdat anderen de overheid dan niet meer omver kunnen werpen.</target>
       </trans-unit>
       <trans-unit id="Cannot create child settlement inside {0} because you aren't a citizen." xml:space="preserve">
         <source xml:space="preserve">Cannot create child settlement inside <ph id="0">{0}</ph> because you aren't a citizen.</source>
@@ -53367,7 +53367,7 @@
       </trans-unit>
       <trans-unit id="Applying Executive Action '{0}' by {1} in {2}:" xml:space="preserve">
         <source xml:space="preserve">Applying Executive Action '<ph id="0">{0}</ph>' by <ph id="1">{1}</ph> in <ph id="2">{2}</ph>:</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Toepassing van uitvoerende maatregelen '<ph id="0">{0}</ph>' door <ph id="1">{1}</ph> in <ph id="2">{2}</ph>:</target>
+        <target xml:space="preserve" state="translated">Kabinetsbesluit '<ph id="0">{0}</ph>' van <ph id="1">{1}</ph> wordt toegepast in <ph id="2">{2}</ph>:</target>
       </trans-unit>
       <trans-unit id="No results." xml:space="preserve">
         <source xml:space="preserve">No results.</source>
@@ -53475,7 +53475,7 @@
       </trans-unit>
       <trans-unit id="You minted your first currency: {0}." xml:space="preserve">
         <source xml:space="preserve">You minted your first currency: <ph id="0">{0}</ph>.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je hebt je eerste munteenheid geslagen: <ph id="0">{0}</ph>.</target>
+        <target xml:space="preserve" state="translated">Je hebt je eerste valuta geslagen: <ph id="0">{0}</ph>.</target>
       </trans-unit>
       <trans-unit id="Have another player use your currency exchange." xml:space="preserve">
         <source xml:space="preserve">Have another player use your currency exchange.</source>
@@ -53699,7 +53699,7 @@
       </trans-unit>
       <trans-unit id="Remove the homestead claim stake and try again." xml:space="preserve">
         <source xml:space="preserve">Remove the homestead claim stake and try again.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verwijder de paal waarmee je je grond claimt en probeer het opnieuw.</target>
+        <target xml:space="preserve" state="translated">Verwijder de hoevegrenspaal en probeer het opnieuw.</target>
       </trans-unit>
       <trans-unit id="Twitch Drops" xml:space="preserve">
         <source xml:space="preserve">Twitch Drops</source>
@@ -53775,7 +53775,7 @@
       </trans-unit>
       <trans-unit id="{0} minted new currency" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> minted new currency</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> heeft een nieuwe munteenheid geslagen</target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> heeft nieuwe valuta geslagen</target>
       </trans-unit>
       <trans-unit id="Distributions to new citizens of {0}." xml:space="preserve">
         <source xml:space="preserve">Distributions to new citizens of <ph id="0">{0}</ph>.</source>
@@ -53791,7 +53791,7 @@
       </trans-unit>
       <trans-unit id="{0} transferred fee to escrow for crafting {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> transferred fee to escrow for crafting <ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt"><ph id="0">{0}</ph> heeft de vergoeding overgemaakt naar de escrow voor het maken van <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated"><ph id="0">{0}</ph> heeft de vergoeding naar het depot overgemaakt voor het maken van <ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="{0} paid fee for crafting {1}" xml:space="preserve">
         <source xml:space="preserve"><ph id="0">{0}</ph> paid fee for crafting <ph id="1">{1}</ph></source>
@@ -54003,7 +54003,7 @@
       </trans-unit>
       <trans-unit id="Remove this element immediately if you have executive priviliges, or start an election to remove it if you have election priviliges." xml:space="preserve">
         <source xml:space="preserve">Remove this element immediately if you have executive priviliges, or start an election to remove it if you have election priviliges.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Verwijder dit element onmiddellijk als je uitvoerende rechten hebt, of start een verkiezing om het te verwijderen als je verkiezingsrechten hebt.</target>
+        <target xml:space="preserve" state="translated">Verwijder dit onderdeel meteen als je uitvoerende bevoegdheden hebt, of start een verkiezing om het te verwijderen als je verkiezingsbevoegdheden hebt.</target>
       </trans-unit>
       <trans-unit id="Flash control" xml:space="preserve">
         <source xml:space="preserve">Flash control</source>
@@ -55122,7 +55122,7 @@
       </trans-unit>
       <trans-unit id="Government of {0}" xml:space="preserve">
         <source xml:space="preserve">Government of <ph id="0">{0}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Regering van <ph id="0">{0}</ph></target>
+        <target xml:space="preserve" state="translated">Overheid van <ph id="0">{0}</ph></target>
       </trans-unit>
       <trans-unit id="Bonus Hours On Exhaustion enabled" xml:space="preserve">
         <source xml:space="preserve">Bonus Hours On Exhaustion enabled</source>
@@ -55507,7 +55507,7 @@
       </trans-unit>
       <trans-unit id="You can add additional provisions to it before starting voting, for example you can place a Government Office and customize the leadership role, or an Immigration Desk and customize citizenship rules." xml:space="preserve">
         <source xml:space="preserve">You can add additional provisions to it before starting voting, for example you can place a Government Office and customize the leadership role, or an Immigration Desk and customize citizenship rules.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je kunt er extra bepalingen aan toevoegen voordat je gaat stemmen. Je kunt bijvoorbeeld een regeringskantoor plaatsen en de leiderschapsrol aanpassen, of een immigratiebalie en de regels voor burgerschap aanpassen.</target>
+        <target xml:space="preserve" state="translated">Je kunt er extra bepalingen aan toevoegen voordat de stemming begint. Je kunt bijvoorbeeld een bestuurskantoor plaatsen en de leidersrol aanpassen, of een immigratiebalie plaatsen en de regels voor burgerschap aanpassen.</target>
       </trans-unit>
       <trans-unit id="Injunctions" xml:space="preserve">
         <source xml:space="preserve">Injunctions</source>
@@ -55539,7 +55539,7 @@
       </trans-unit>
       <trans-unit id="Government of name" xml:space="preserve">
         <source xml:space="preserve">Government of name</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Regering van naam</target>
+        <target xml:space="preserve" state="translated">Overheid van naam</target>
       </trans-unit>
       <trans-unit id="s" xml:space="preserve">
         <source xml:space="preserve">s</source>
@@ -57139,11 +57139,11 @@
       </trans-unit>
       <trans-unit id="This settlement is disabled because the foundation ({0}) has been disabled for too long!" xml:space="preserve">
         <source xml:space="preserve">This settlement is disabled because the foundation (<ph id="0">{0}</ph>) has been disabled for too long!</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze nederzetting is uitgeschakeld omdat de basis (<ph id="0">{0}</ph>) al te lang is uitgeschakeld!</target>
+        <target xml:space="preserve" state="translated">Deze nederzetting is uitgeschakeld omdat de stichtingssteen (<ph id="0">{0}</ph>) te lang uitgeschakeld is geweest!</target>
       </trans-unit>
       <trans-unit id="Until the foundation is repaired, Influence and Laws will not function, and it will be much easier for other settlements to annex this one." xml:space="preserve">
         <source xml:space="preserve">Until the foundation is repaired, Influence and Laws will not function, and it will be much easier for other settlements to annex this one.</source>
-        <target xml:space="preserve" state="translated">Totdat de fundering gerepareerd is, functioneren Invloed en Wetten niet. Het zal voor andere nederzettingen makkelijk zijn om deze te annexeren.</target>
+        <target xml:space="preserve" state="translated">Totdat de stichtingssteen gerepareerd is, werken invloed en wetten niet, en kunnen andere nederzettingen deze veel makkelijker annexeren.</target>
       </trans-unit>
       <trans-unit id="Can be used as currency, up to {0} per item." xml:space="preserve">
         <source xml:space="preserve">Can be used as currency, up to <ph id="0">{0}</ph> per item.</source>
@@ -58097,7 +58097,7 @@
       </trans-unit>
       <trans-unit id="Warning: {0} was missing some core government objects and they were created.{1}" xml:space="preserve">
         <source xml:space="preserve">Warning: <ph id="0">{0}</ph> was missing some core government objects and they were created.<ph id="1">{1}</ph></source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Waarschuwing: <ph id="0">{0}</ph> ontbraken enkele belangrijke regeringsobjecten en die zijn aangemaakt. <ph id="1">{1}</ph></target>
+        <target xml:space="preserve" state="translated">Waarschuwing: bij <ph id="0">{0}</ph> ontbraken enkele belangrijke overheidsobjecten; die zijn aangemaakt.<ph id="1">{1}</ph></target>
       </trans-unit>
       <trans-unit id="Tier out of range." xml:space="preserve">
         <source xml:space="preserve">Tier out of range.</source>
@@ -59971,11 +59971,11 @@
       </trans-unit>
       <trans-unit id="Use Foundation As Spawn" xml:space="preserve">
         <source xml:space="preserve">Use Foundation As Spawn</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Gebruik Foundation als spawn</target>
+        <target xml:space="preserve" state="translated">Stichtingssteen als startpunt gebruiken</target>
       </trans-unit>
       <trans-unit id="Enabling this feature will set the settlement spawn point to the town foundation instead of the immigration desk." xml:space="preserve">
         <source xml:space="preserve">Enabling this feature will set the settlement spawn point to the town foundation instead of the immigration desk.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Als je deze functie inschakelt, wordt het spawnpunt van de nederzetting ingesteld op de stadsstichting in plaats van bij de immigratiebalie.</target>
+        <target xml:space="preserve" state="translated">Als je deze optie inschakelt, wordt het startpunt van de nederzetting de dorpsstichtingssteen in plaats van de immigratiebalie.</target>
       </trans-unit>
       <trans-unit id="Restrict Count To Citizen" xml:space="preserve">
         <source xml:space="preserve">Restrict Count To Citizen</source>
@@ -60345,7 +60345,7 @@
       </trans-unit>
       <trans-unit id="Warning: {0} is not attached to the settlement foundation." xml:space="preserve">
         <source xml:space="preserve">Warning: <ph id="0">{0}</ph> is not attached to the settlement foundation.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Waarschuwing: <ph id="0">{0}</ph> is niet gekoppeld aan de stichting van de nederzetting.</target>
+        <target xml:space="preserve" state="translated">Waarschuwing: <ph id="0">{0}</ph> is niet gekoppeld aan de stichtingssteen van de nederzetting.</target>
       </trans-unit>
       <trans-unit id="The deed {0} has been removed from the list of cultural properties generating influence for {1} as it is no longer valid." xml:space="preserve">
         <source xml:space="preserve">The deed <ph id="0">{0}</ph> has been removed from the list of cultural properties generating influence for <ph id="1">{1}</ph> as it is no longer valid.</source>
@@ -62785,7 +62785,7 @@
       </trans-unit>
       <trans-unit id="Base Plots On Outpost Claim Stake" xml:space="preserve">
         <source xml:space="preserve">Base Plots On Outpost Claim Stake</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Basisplots op buitenpost Claim Stake</target>
+        <target xml:space="preserve" state="translated">Basispercelen op buitenpostgrenspaal</target>
       </trans-unit>
       <trans-unit id="Dinner Party Config" xml:space="preserve">
         <source xml:space="preserve">Dinner Party Config</source>
@@ -62793,7 +62793,7 @@
       </trans-unit>
       <trans-unit id="The number of plots that an outpost claim stake allows you to claim by default." xml:space="preserve">
         <source xml:space="preserve">The number of plots that an outpost claim stake allows you to claim by default.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Het aantal percelen dat je standaard kunt claimen met een buitenpost.</target>
+        <target xml:space="preserve" state="translated">Het aantal percelen dat je standaard met een buitenpostgrenspaal in bezit kunt nemen.</target>
       </trans-unit>
       <trans-unit id="A founded settlement foundation will provide this much influence, without any culture. Note: this is influenced by world size multiplier." xml:space="preserve">
         <source xml:space="preserve">A founded settlement foundation will provide this much influence, without any culture. Note: this is influenced by world size multiplier.</source>
@@ -62881,11 +62881,11 @@
       </trans-unit>
       <trans-unit id="Place New Settlement Foundation" xml:space="preserve">
         <source xml:space="preserve">Place New Settlement Foundation</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Sticht een nieuwe nederzetting</target>
+        <target xml:space="preserve" state="translated">Stichtingssteen van nieuwe nederzetting plaatsen</target>
       </trans-unit>
       <trans-unit id="A citizen placed a new settlement foundation within the influence of another." xml:space="preserve">
         <source xml:space="preserve">A citizen placed a new settlement foundation within the influence of another.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Een burger heeft een nieuwe nederzetting gesticht binnen het invloedgebied van een andere.</target>
+        <target xml:space="preserve" state="translated">Een burger heeft een nieuwe stichtingssteen van een nederzetting geplaatst binnen de invloed van een andere nederzetting.</target>
       </trans-unit>
       <trans-unit id="Settlement Founded" xml:space="preserve">
         <source xml:space="preserve">Settlement Founded</source>
@@ -67220,9 +67220,9 @@ Als <ph id="0">{0}</ph> is aangevinkt, worden alleen oppervlakteblokken onderzoc
         <source xml:space="preserve">This clause provides a payment, with the option of collecting a deposit from the contractor.
 
 Deposits and payments are held in escrow for the duration of the contract. The amount in escrow is given to the contractor if the contract is successfully completed, or it goes to the client if the contract is marked as failed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Deze clausule voorziet in een betaling, met de optie om een aanbetaling van de aannemer te vragen.
+        <target xml:space="preserve" state="translated">Deze clausule regelt een betaling, met de mogelijkheid om een borg van de opdrachtnemer te innen.
 
-Aanbetalingen en betalingen worden gedurende de looptijd van het contract in escrow gehouden. Het bedrag in escrow wordt aan de aannemer gegeven als het contract succesvol is voltooid, of het gaat naar de klant als het contract als mislukt wordt gemarkeerd.</target>
+Borgsommen en betalingen worden tijdens de looptijd van het contract in depot gehouden. Het bedrag in depot gaat naar de opdrachtnemer als het contract met succes is voltooid, of naar de opdrachtgever als het contract als mislukt wordt gemarkeerd.</target>
       </trans-unit>
       <trans-unit id="Choose what set of blocks you want to place.&#10;Upgraded tools will allow you to place multiple blocks at a time." xml:space="preserve">
         <source xml:space="preserve">Choose what set of blocks you want to place.
@@ -67495,8 +67495,8 @@ Alleen spelers met de volgende titels kunnen de instellingen van de schatkist wi
       <trans-unit id="Treasury disabled.&#10;You must create an elected title that gives treasury permissions, and then assign a player to it." xml:space="preserve">
         <source xml:space="preserve">Treasury disabled.
 You must create an elected title that gives treasury permissions, and then assign a player to it.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Schatkist uitgeschakeld.
-Je moet een gekozen functie aanmaken die schatkistbevoegdheden geeft, en daar vervolgens een speler aan toewijzen.</target>
+        <target xml:space="preserve" state="translated">Ministerie van Financiën uitgeschakeld.
+Je moet een gekozen functie aanmaken die bevoegdheden voor het Ministerie van Financiën geeft, en daar vervolgens een speler aan toewijzen.</target>
       </trans-unit>
       <trans-unit id="Can't find server to continue.&#10;&#10;Try loading or rejoining the server." xml:space="preserve">
         <source xml:space="preserve">Can't find server to continue.
@@ -68228,26 +68228,26 @@ de foto's zijn opgeslagen</target>
         <source xml:space="preserve">Eventually, you can build towards combining multiple towns into a Country, the next higher level Settlement. 
 
 Read more about Settlements System in the Ecopedia.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Uiteindelijk kun je meerdere steden samenvoegen tot een land, het volgende hogere niveau van nederzettingen.
+        <target xml:space="preserve" state="translated">Uiteindelijk kun je toewerken naar het samenvoegen van meerdere dorpen tot een land, het volgende, hogere niveau van nederzetting.
 
 Lees meer over het nederzettingssysteem in de Ecopedia.</target>
       </trans-unit>
       <trans-unit id="&#10;By default it makes all Town decisions decided via election, but can be changed however you like." xml:space="preserve">
         <source xml:space="preserve">
 By default it makes all Town decisions decided via election, but can be changed however you like.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">
-Standaard worden alle beslissingen in de stad via verkiezingen genomen, maar dit kun je naar eigen wens aanpassen.</target>
+        <target xml:space="preserve" state="translated">
+Standaard worden alle beslissingen van het dorp via verkiezingen genomen, maar je kunt dit naar wens aanpassen.</target>
       </trans-unit>
       <trans-unit id="You will need to define your Town Constitution and start an election to have it ratified in order to found the town.&#10;" xml:space="preserve">
         <source xml:space="preserve">You will need to define your Town Constitution and start an election to have it ratified in order to found the town.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Je moet de grondwet van je stad opstellen en verkiezingen organiseren om deze te laten goedkeuren, zodat je de stad kunt stichten.
+        <target xml:space="preserve" state="translated">Je moet de grondwet van je dorp opstellen en een verkiezing starten om die te laten bekrachtigen, zodat je het dorp kunt stichten.
 </target>
       </trans-unit>
       <trans-unit id="As more citizens join a Town, it will generate additional claim stakes and claim papers.&#13;" xml:space="preserve">
         <source xml:space="preserve">As more citizens join a Town, it will generate additional claim stakes and claim papers.
 </source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Naarmate er meer burgers bij een stad komen, worden er extra claimpalen en claimdocumenten gegenereerd.
+        <target xml:space="preserve" state="translated">Naarmate er meer burgers bij een dorp komen, worden er extra grenspalen en eigendomsrechtpapieren aangemaakt.
 </target>
       </trans-unit>
       <trans-unit id="Post&#10;" xml:space="preserve">
@@ -68297,8 +68297,8 @@ Citizen Credit (waarvan die burger oneindige hoeveelheden kan creëren) en Backe
       <trans-unit id="Treasury Disabled:&#10;Only citizens with Elected Titles that provide them treasury privileges can use this." xml:space="preserve">
         <source xml:space="preserve">Treasury Disabled:
 Only citizens with Elected Titles that provide them treasury privileges can use this.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Schatkist uitgeschakeld:
-Alleen burgers met gekozen titels die hen schatkistprivileges geven, kunnen dit gebruiken.</target>
+        <target xml:space="preserve" state="translated">Ministerie van Financiën uitgeschakeld:
+Alleen burgers met een gekozen functie die hun bevoegdheden voor het Ministerie van Financiën geeft, kunnen dit gebruiken.</target>
       </trans-unit>
       <trans-unit id="Repair&#10;" xml:space="preserve">
         <source xml:space="preserve">Repair
@@ -68502,9 +68502,9 @@ Klik hierop om een status te wijzigen.</target>
         <source xml:space="preserve">As new citizens join this settlement, more claim papers and claim stakes will be spawned, allowing more land to be claimed. 
 
 Use the land claim stakes to claim additional plots.  Add the claim papers to claim stakes in the town to increase the number of plots that can be claimed.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Naarmate er nieuwe burgers bij deze nederzetting komen, verschijnen er meer claimpapieren en claimpalen, waardoor er meer land kan worden geclaimd. 
+        <target xml:space="preserve" state="translated">Naarmate er nieuwe burgers bij deze nederzetting komen, worden er meer eigendomsrechtpapieren en grenspalen aangemaakt, zodat er meer land in bezit kan worden genomen.
 
-Gebruik de claimpalen om extra percelen te claimen.  Voeg de claimpapieren toe aan de claimpalen in de stad om het aantal percelen dat kan worden geclaimd te vergroten.</target>
+Gebruik de grenspalen om extra percelen in bezit te nemen. Voeg de eigendomsrechtpapieren toe aan grenspalen in het dorp om het aantal percelen te vergroten dat in bezit kan worden genomen.</target>
       </trans-unit>
       <trans-unit id="Saves current mix recipe to pallete, so it can be easily loaded later. &#10;To remove item from palette - press it with right click." xml:space="preserve">
         <source xml:space="preserve">Saves current mix recipe to pallete, so it can be easily loaded later. 
@@ -68751,8 +68751,8 @@ Om verder te groeien, moet je je hierin specialiseren:</target>
       <trans-unit id="This monument marks the beginning of a Town.&#10;It is not yet founded." xml:space="preserve">
         <source xml:space="preserve">This monument marks the beginning of a Town.
 It is not yet founded.</source>
-        <target xml:space="preserve" state="needs-translation" state-qualifier="leveraged-mt">Dit monument markeert het begin van een stad.
-Die is nog niet gesticht.</target>
+        <target xml:space="preserve" state="translated">Dit monument markeert het begin van een dorp.
+Het is nog niet gesticht.</target>
       </trans-unit>
       <trans-unit id="When checked, new roles will be created when the labor list fills up.  The new role will duplicate the final entry in the list in terms of role and requirements.&#10;" xml:space="preserve">
         <source xml:space="preserve">When checked, new roles will be created when the labor list fills up.  The new role will duplicate the final entry in the list in terms of role and requirements.
@@ -70865,7 +70865,7 @@ Ctrl - x100</target>
       </trans-unit>
       <trans-unit id="You can't pick up the pipe while carrying something else." xml:space="preserve">
         <source xml:space="preserve">You can't pick up the pipe while carrying something else.</source>
-        <target state="needs-translation" state-qualifier="leveraged-mt">Je kunt de pijp niet oppakken als je al iets anders bij je hebt.</target>
+        <target state="translated">Je kunt de buis niet oppakken terwijl je iets anders draagt.</target>
       </trans-unit>
       <trans-unit id="Stack count must be positive (got {0})." xml:space="preserve" translate="no">
         <source xml:space="preserve">Stack count must be positive (got <ph id="0">{0}</ph>).</source>
